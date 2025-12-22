@@ -54,6 +54,9 @@ export default function CharacterCard({ character, workType, workSlug }: Charact
     }
   };
 
+  const roleColor = roleColors[character.role || ''] || 'bg-gray-600';
+  const roleLabel = roleLabels[character.role || ''] || character.role;
+
   return (
     <Link href={`/work/${workType}/${workSlug}/character/${character.id}`}>
       <div className="bg-dark-card border border-dark-border rounded-lg overflow-hidden hover:border-accent-primary transition-all duration-300 hover:scale-105">
