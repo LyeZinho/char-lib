@@ -1,6 +1,6 @@
 {
   "work_id": "black-clover",
-  "count": 25,
+  "count": 160,
   "characters": [
     {
       "id": "asta",
@@ -610,7 +610,3191 @@
       "external_ids": {
         "anilist": 124459
       }
+    },
+    {
+      "id": "sekke-bronzazza",
+      "name": "Sekke Bronzazza",
+      "alt_names": [
+        "セッケ・ブロンザッザ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 175 cm\n\nIs a member of Clover Kingdom's Green Mantis squad.\nA magic knight who fought and lost to Asta during their entrance exam. He befriended Asta in order to use him as a stepping stone to show off his powers which he believed to be superior, as Asta appeared to be an incompetent magician.\n\nAs a magic knight, he complains about how tough he has it in his squad and that he's always tasked with monotonous chores. He meets Asta's group while gambling with an elderly woman on the black market. He tries to impress the women Asta is with, but ends up getting stabbed in the foot by a paralysis inducing knife while chasing a burglar. Believing his life to be over, he tries to pass on his unfulfilled life's ambition to Asta before realizing his injury is far from fatal.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124460-EUJVxM0PG7uV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124460
+      }
+    },
+    {
+      "id": "heath-grice",
+      "name": "Heath Grice",
+      "alt_names": [
+        "ヒース・グライス"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 187 cm\n\nHeath is a rogue mage and member of the White Night Eye.",
+      "metadata": {
+        "age": "31",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124461-6jkQwE2fREhp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124461
+      }
+    },
+    {
+      "id": "mars",
+      "name": "Mars",
+      "alt_names": [
+        "マルス",
+        "Marusu"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170 cm\n\nMars is a mage of the Diamond Kingdom and one of its Eight Shining Generals. He is the Kingdom's product of human experimentation to enhance his Magic Power, with several magic stones embedded in his body.",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124462-6yGm80Um4Gbc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124462
+      }
+    },
+    {
+      "id": "revchi-salik",
+      "name": "Revchi Salik",
+      "alt_names": [
+        "レブチ",
+        "Revchi of Chain Magic"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 176 cm\n\nRevchi was a member of the Clover Kingdom's Violet Orca squad of the Magic Knights, where he was known as Revchi of the chain. After some years, he leaves the organization for unknown reasons and becomes a thief.",
+      "metadata": {
+        "gender": "male",
+        "age": "32",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124463-AfAruHzKBsZd.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124463
+      }
+    },
+    {
+      "id": "rebecca-scarlet",
+      "name": "Rebecca Scarlet",
+      "alt_names": [
+        "レベッカ・スカーレット"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165 cm\n__Sign:__ Aries",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124471-mqqtSJgfAHds.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124471
+      }
+    },
+    {
+      "id": "licht",
+      "name": "Licht",
+      "alt_names": [
+        "リヒト",
+        "Licht of Sword Magic"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Elf\n__Affinity:__ Sword Magic\n__Height:__ 173 cm\n\nLicht is the leader of the Elf Tribe and one of its ten Apostles of Sephirah. He was married to Tetia, a human woman and the sister of Lemiel Silvamillion Clover, the first Magic Emperor.",
+      "metadata": {
+        "gender": "male",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124472-sCjDIE5232uS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124472
+      }
+    },
+    {
+      "id": "rhya",
+      "name": "Rhya",
+      "alt_names": [
+        "ライア",
+        "Disloyal",
+        "Fujitsu (不実)"
+      ],
+      "role": "supporting",
+      "description": "__Affinity:__ Imitation\n__Height:__ 181 cm\n\nA rogue mage and a member of the Eye of the Midnight Sun's Third Eye. ~!He is an elf reincarnated into the body of a human.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124473-w6gHH1KS8pV0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124473
+      }
+    },
+    {
+      "id": "vetto",
+      "name": "Vetto",
+      "alt_names": [
+        "ヴェット",
+        "Despair",
+        "Zetsubou (絶望)"
+      ],
+      "role": "supporting",
+      "description": "~!Status: Deceased!~\n~!Species: Elf!~Affinity: BeastHeight: 196 cm\nEyes: Purple\nHair: Blond\n\n~!An elf and a member of the Eye of the Midnight Sun's Third Eye.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124475-khoHRpHDhIWb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124475
+      }
+    },
+    {
+      "id": "marie-adlai",
+      "name": "Marie Adlai",
+      "alt_names": [
+        "マリー・アドレイ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 135 cm\n\nShe is the younger sister of Gauche Adlai and lives in Nairn under the care of Theresa Rapual.",
+      "metadata": {
+        "gender": "female",
+        "age": "10",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124476-bC651i64k8Gr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124476
+      }
+    },
+    {
+      "id": "rades-spirito",
+      "name": "Rades Spirito",
+      "alt_names": [
+        "ラデス・スピーリト",
+        "Radesu Supīrito"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 174 cm\n\nRades is a rogue mage who is a member of the White Night Eye. He was a member of Clover Kingdom's Violet Orca squad of the Magic Knights.",
+      "metadata": {
+        "gender": "male",
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124477-wKePCmpoa3e0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124477
+      }
+    },
+    {
+      "id": "catherine",
+      "name": "Catherine",
+      "alt_names": [
+        "キャサリンス"
+      ],
+      "role": "supporting",
+      "description": "She is a rogue mage and a member of the White Night Eye.",
+      "metadata": {
+        "gender": "female",
+        "age": "56",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124478-pRUQWCO1U1yz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124478
+      }
+    },
+    {
+      "id": "fana",
+      "name": "Fana",
+      "alt_names": [
+        "ファナ",
+        "Hatred",
+        "Zouo (憎悪)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 162cm\n__Species:__ Human\n\n~!A rogue mage from the Diamond Kingdom living with other fugitives in the Clover Kingdom. She is also the former host of the elf Fana, one of the Eye of the Midnight Sun's Third Eye.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124479-sz87ci78ourf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124479
+      }
+    },
+    {
+      "id": "valtos",
+      "name": "Valtos",
+      "alt_names": [
+        "ヴァルトス"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 178 cm\n\nValtos is a rogue mage and a member of the White Night Eye.",
+      "metadata": {
+        "gender": "male",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124480-fgXboXYez36E.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124480
+      }
+    },
+    {
+      "id": "georg",
+      "name": "Georg",
+      "alt_names": [
+        "ゲオルク"
+      ],
+      "role": "supporting",
+      "description": "is a rogue mage and a member of the White Night Eye.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124481-NEIGExFxbj5j.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124481
+      }
+    },
+    {
+      "id": "sally",
+      "name": "Sally",
+      "alt_names": [
+        "サリー"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 160 cm (5'3\")\n\nShe is a rogue mage and a member of the White Night Eye.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124519-HGSExVAbCiju.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124519
+      }
+    },
+    {
+      "id": "lotus-whomalt",
+      "name": "Lotus Whomalt",
+      "alt_names": [
+        "ロータス・フーモルト"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 184 cm\n\nLotus is a mage from the Diamond Kingdom. He is widely known by his nickname, the Hell Lotus.",
+      "metadata": {
+        "age": "36",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124520-dNrBuePMtZ3k.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124520
+      }
+    },
+    {
+      "id": "fuegoleon-vermillion",
+      "name": "Fuegoleon Vermillion",
+      "alt_names": [
+        "フエゴレオン・ヴァーミリオン"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 188 cm\n\nHe is a nobleman and the first son of the Clover Kingdom's House Vermillion, one of its royal families. He is also the former captain of the Crimson Lion squad of the Magic Knights.",
+      "metadata": {
+        "gender": "male",
+        "age": "30",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124521-MqX5KT2tGSa8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124521
+      }
+    },
+    {
+      "id": "mereoleona-vermillion",
+      "name": "Mereoleona Vermillion",
+      "alt_names": [
+        "メレオレオナ・ヴァーミリオン",
+        "Sisgoleon"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 178 cm\n\nShe is a noblewoman and the first daughter of the Clover Kingdom's House Vermillion, one of its royal families. She is also the captain of the Crimson Lion squad and the Royal Knights squad.",
+      "metadata": {
+        "gender": "female",
+        "age": "32",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124522
+      }
+    },
+    {
+      "id": "kirsch-vermillion",
+      "name": "Kirsch Vermillion",
+      "alt_names": [
+        "キルシュ・ヴァーミリオン"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 182 cm\n\nKirsch is a nobleman of Clover Kingdom's House Vermillion, vice-captain of the Coral Peacock squad of the Magic Knights, and a 1st Class Senior Magic Knight.",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124524-FhfE2Y6drZDq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124524
+      }
+    },
+    {
+      "id": "fanzell-kruger",
+      "name": "Fanzell Kruger",
+      "alt_names": [
+        "ファンゼル・クルーガー"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 178 cm\n\nHe is a former Commander of the Diamond Kingdom's army. After fleeing the kingdom, he now lives together with his wife Dominante Code and his students Mariella and Fana.",
+      "metadata": {
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124525-zX1uOMR5lkKr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124525
+      }
+    },
+    {
+      "id": "dominante-code",
+      "name": "Dominante Code",
+      "alt_names": [
+        "ドミナント・コード"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 167 cm\n\nA witch and former magic tool craftsman from Diamond Kingdom. She is the wife of Fanzell Kruger.",
+      "metadata": {
+        "gender": "female",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124526-mpNJFDhPbwWD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124526
+      }
+    },
+    {
+      "id": "mariella",
+      "name": "Mariella",
+      "alt_names": [
+        "マリエラ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 157 cm (5'2)\n\nA former assassin of the Diamond Kingdom tasked with bringing the deserters Fanzell Kruger and Dominante Code back to the kingdom, but after encountering Asta, she chooses a different life path.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124527-hPAaWqgBpTxi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124527
+      }
+    },
+    {
+      "id": "augustus-kira-clover-xiii",
+      "name": "Augustus Kira Clover XIII",
+      "alt_names": [
+        "アウグストゥス・キーラ・クローバー13世",
+        "Augustus Kira Kuroba 13-sei"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 160 cm\n\nHe is the king of the Clover Kingdom.",
+      "metadata": {
+        "gender": "male",
+        "age": "35",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124528-cyB6cHIa4Zlq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124528
+      }
+    },
+    {
+      "id": "zara-ideale",
+      "name": "Zara Ideale",
+      "alt_names": [
+        "ザラ・イデアーレ"
+      ],
+      "role": "supporting",
+      "description": "was the father of Zora Ideale and a member of Clover Kingdom's Violet Orca squad of the Magic Knights.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124529-ixC0pW8UHIvK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124529
+      }
+    },
+    {
+      "id": "orsi-ofai",
+      "name": "Orsi Ofai",
+      "alt_names": [
+        "オルジ・オーファイ",
+        "Father",
+        "Shinpu (神父)"
+      ],
+      "role": "supporting",
+      "description": "__Affinity:__  Fire\n__Height:__ 180 cm\n\nThe priest in Hage and the foster father of Asta and Yuno.",
+      "metadata": {
+        "gender": "male",
+        "age": "55",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124682-MEC41WVLvsA2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124682
+      }
+    },
+    {
+      "id": "henry-legolant",
+      "name": "Henry Legolant",
+      "alt_names": [
+        "ヘンリー・レゴラント"
+      ],
+      "role": "supporting",
+      "description": "Member of Clover Kingdom's Black Bull squad of the Magic Knights.",
+      "metadata": {
+        "gender": "male",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124690-agQVNP3afoXA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124690
+      }
+    },
+    {
+      "id": "acier-silva",
+      "name": "Acier Silva",
+      "alt_names": [
+        "アシエ・シルヴァ",
+        "Ashie Shiruva"
+      ],
+      "role": "supporting",
+      "description": "A noblewoman of the Clover Kingdom's ruling family, House Silva, and the mother of Nozel, Nebra, Solid, and Noelle. Supposedly died giving birth to Noelle.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124972-UiuueASxpsRx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124972
+      }
+    },
+    {
+      "id": "nebra-silva",
+      "name": "Nebra Silva",
+      "alt_names": [
+        "ネブラ・シルヴァ",
+        "Nebura Shiruva"
+      ],
+      "role": "supporting",
+      "description": "The first daughter of the Clover Kingdom's House Silva, one of its royal families. She is also a member of the Silver Eagle squad of the Magic Knights.",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124973-HvnLqyFzheFS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124973
+      }
+    },
+    {
+      "id": "solid-silva",
+      "name": "Solid Silva",
+      "alt_names": [
+        "ソリド・シルヴァ",
+        "Sorido Shiruva"
+      ],
+      "role": "supporting",
+      "description": "A nobleman and the second son of the Clover Kingdom's House Silva, one of its royal families. He is also a member of the Silver Eagle squad of the Magic Knights.",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124974-Fidlk7tYFper.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124974
+      }
+    },
+    {
+      "id": "langris-vaude",
+      "name": "Langris Vaude",
+      "alt_names": [
+        "ランギルス・ヴォード",
+        "Rangirusu Vodo"
+      ],
+      "role": "supporting",
+      "description": "He is a nobleman of House Vaude and the vice-captain of Clover Kingdom's Golden Dawn squad of the Magic Knights. He is from Tota, a village within the Clover Kingdom.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124975-vRUxV3oIOle7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124975
+      }
+    },
+    {
+      "id": "finesse-calmreich",
+      "name": "Finesse Calmreich",
+      "alt_names": [
+        "フィーネス・カルムルイヒ",
+        "Finnes Calmreich"
+      ],
+      "role": "supporting",
+      "description": "Finesse is a noblewoman betrothed to the next head of House Vaude.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124976-aJx7HHae0K0s.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124976
+      }
+    },
+    {
+      "id": "alecdora-sandler",
+      "name": "Alecdora Sandler",
+      "alt_names": [
+        "アレクドラ・サンドラー",
+        "Arekudora Sandorā"
+      ],
+      "role": "supporting",
+      "description": "A member of Clover Kingdom's Golden Dawn squad of the Magic Knights and has attained the rank of 2nd rank upper magic knight and collected 11 stars.",
+      "metadata": {
+        "gender": "male",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124978-xg01Awpci30p.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124978
+      }
+    },
+    {
+      "id": "siren-tium",
+      "name": "Siren Tium",
+      "alt_names": [
+        "シレン・ティウム",
+        "Shiren Tiumu"
+      ],
+      "role": "supporting",
+      "description": "A nobleman and a member of Clover Kingdom's Golden Dawn squad of the Magic Knights. He is a 1st Class Intermediate Magic Knight.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124979-KlGZNiwBqgLk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124979
+      }
+    },
+    {
+      "id": "hamon-caseus",
+      "name": "Hamon Caseus",
+      "alt_names": [
+        "ハモン・カーセウス",
+        "Hamon Kaseusu"
+      ],
+      "role": "supporting",
+      "description": "A nobleman and a member of Clover Kingdom's Golden Dawn squad of the Magic Knights. He is a 2nd Class Intermediate Magic Knight.",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124980-33AdLdR27PD8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124980
+      }
+    },
+    {
+      "id": "curtis-warren",
+      "name": "Curtis Warren",
+      "alt_names": [
+        "カータス・ウォルン",
+        "Katasu Worun"
+      ],
+      "role": "supporting",
+      "description": "is a member of Clover Kingdom's Silver Eagle squad of the Magic Knights. He is a 4th Class Senior Magic Knight.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124981-J1oQnFBNqCPh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124981
+      }
+    },
+    {
+      "id": "rob-vitesse",
+      "name": "Rob Vitesse",
+      "alt_names": [
+        "ロブ・ヴィテス",
+        "Robu Vitesu"
+      ],
+      "role": "supporting",
+      "description": "Rob is a member of Clover Kingdom's Silver Eagle squad of the Magic Knights. He is a 2nd Class Senior Magic Knight.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124982-PSC9mNwMmwv5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124982
+      }
+    },
+    {
+      "id": "nils-ragus",
+      "name": "Nils Ragus",
+      "alt_names": [
+        "ニルス",
+        "Nirusu"
+      ],
+      "role": "supporting",
+      "description": "A member of Clover Kingdom's Silver Eagle squad of the Magic Knights and a member of the Royal Knights squad.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124983-mSiCMrmvvjhY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124983
+      }
+    },
+    {
+      "id": "sol-marron",
+      "name": "Sol Marron",
+      "alt_names": [
+        "ソル・マロン",
+        "Soru Maron"
+      ],
+      "role": "supporting",
+      "description": "She is a member of Clover Kingdom's Blue Rose squad of the Magic Knights. She is a 3rd Class Intermediate Magic Knight.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124985-y8DFuDY9iDXX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124985
+      }
+    },
+    {
+      "id": "puli-angel",
+      "name": "Puli Angel",
+      "alt_names": [
+        "プーリ・エンジェル"
+      ],
+      "role": "supporting",
+      "description": "A member of Clover Kingdom's Blue Rose squad of the Magic Knights. She is a 4th Class Senior Magic Knight.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124986-aINHjK1qk8gC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124986
+      }
+    },
+    {
+      "id": "fragil-tormenta",
+      "name": "Fragil Tormenta",
+      "alt_names": [
+        "フラギル・トルメンタ",
+        "Furagiru Torumenta"
+      ],
+      "role": "supporting",
+      "description": "Fragil is a member of Clover Kingdom's Azure Deer squad of the Magic Knights. She is a 3rd Class Intermediate Magic Knight.",
+      "metadata": {
+        "gender": "female",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124987-ZdlOvIydMqch.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124987
+      }
+    },
+    {
+      "id": "en-ringard",
+      "name": "En Ringard",
+      "alt_names": [
+        "エン・リンガード",
+        "En Ringado"
+      ],
+      "role": "supporting",
+      "description": "En is a member of Clover Kingdom's Green Mantis squad of the Magic Knights. He is a 4th Class Senior Magic Knight.",
+      "metadata": {
+        "gender": "male",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124988-g053RXRy3sTy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124988
+      }
+    },
+    {
+      "id": "majo-ou",
+      "name": "Majo Ou",
+      "alt_names": [
+        "魔女王",
+        "Witch queen"
+      ],
+      "role": "supporting",
+      "description": "The Witch Queen is the ruler of the Witches' Forest and the mother of all witches.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124989-H3Imuf6uMspp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124989
+      }
+    },
+    {
+      "id": "gifso",
+      "name": "Gifso",
+      "alt_names": [
+        "ジフソ",
+        "Jifuso"
+      ],
+      "role": "supporting",
+      "description": "is the High Priest of the Seabed Temple.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124991-YxpWywa79fbK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124991
+      }
+    },
+    {
+      "id": "gio",
+      "name": "Gio",
+      "alt_names": [
+        "ジオ",
+        "Jio"
+      ],
+      "role": "supporting",
+      "description": "is a priest of the Seabed Temple.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124992-Ebe9mliVbioA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124992
+      }
+    },
+    {
+      "id": "kahono",
+      "name": "Kahono",
+      "alt_names": [
+        "カホノ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 157 cm\n\nKahono is a priestess of the Seabed Temple.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124993-ThlqIaQV2se3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124993
+      }
+    },
+    {
+      "id": "kiato",
+      "name": "Kiato",
+      "alt_names": [
+        "キアト"
+      ],
+      "role": "supporting",
+      "description": "“My dream is to become a dancer who captivates the entire kingdom!” - To Asta in Temple Battle Royale\n\nStatus: Alive\nSpecies: HumanAffinity: ButohConstellation: Aquarius\nHeight: 176 cm\nEyes: Blue\nHair: Dark Blue\n\nA priest of the Seabed Temple.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124994-PJ7bSrZXb9k2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124994
+      }
+    },
+    {
+      "id": "ladros",
+      "name": "Ladros",
+      "alt_names": [
+        "ラドロス",
+        "Radorosu"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 180 cm\n\nHe is a mage from the Diamond Kingdom and one of its Eight Shining Generals.",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124995-nGV1j21kzQRA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124995
+      }
+    },
+    {
+      "id": "ragus",
+      "name": "Ragus",
+      "alt_names": [
+        "ラガス",
+        "Ragusu",
+        "Lagus"
+      ],
+      "role": "supporting",
+      "description": "is a mage from the Diamond Kingdom and one of its Eight Shining Generals.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124996-zLPu98oICnck.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124996
+      }
+    },
+    {
+      "id": "broccos",
+      "name": "Broccos",
+      "alt_names": [
+        "ブロッコス",
+        "Burokkosu",
+        "Brocks"
+      ],
+      "role": "supporting",
+      "description": "Broccos is a mage from the Diamond Kingdom and one of its Eight Shining Generals.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124997-St4C3QMEk2CI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124997
+      }
+    },
+    {
+      "id": "yagos",
+      "name": "Yagos",
+      "alt_names": [
+        "ヤーゴス"
+      ],
+      "role": "supporting",
+      "description": "A mage from the Diamond Kingdom and one of its Eight Shining Generals.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124998-yBL8i1S9Dsdn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124998
+      }
+    },
+    {
+      "id": "salim-hapshass",
+      "name": "Salim Hapshass",
+      "alt_names": [
+        "サリム・ド・ハプシャス",
+        "Salim de Hapshass"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124999-8r1NsKVswdeE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124999
+      }
+    },
+    {
+      "id": "sylph",
+      "name": "Sylph",
+      "alt_names": [
+        "シルフ",
+        "Spirit of Wind",
+        "Bell"
+      ],
+      "role": "supporting",
+      "description": "Sylph is the spirit of wind and serves Yuno.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125025-sRhjEh0ZUsNh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125025
+      }
+    },
+    {
+      "id": "recca",
+      "name": "Recca",
+      "alt_names": [
+        "レッカ",
+        "Rekka"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125028-X6Gs1MSTrcJ9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125028
+      }
+    },
+    {
+      "id": "nash",
+      "name": "Nash",
+      "alt_names": [
+        "ナッシュ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125029-xdgTs48kqCNb.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125029
+      }
+    },
+    {
+      "id": "seihi",
+      "name": "Seihi",
+      "alt_names": [
+        "セイヒ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125031-7VLwRqOnlteC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125031
+      }
+    },
+    {
+      "id": "holo",
+      "name": "Holo",
+      "alt_names": [
+        "ホロ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125034-2iZZVgvyXzlE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125034
+      }
+    },
+    {
+      "id": "aruru",
+      "name": "Aruru",
+      "alt_names": [
+        "アルル",
+        "Arlu"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125036-NzIuBVU8PR3Q.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125036
+      }
+    },
+    {
+      "id": "marco-scarlet",
+      "name": "Marco Scarlet",
+      "alt_names": [
+        "マルコ・スカーレット"
+      ],
+      "role": "supporting",
+      "description": "The younger brother of Rebecca Scarlet. He lives in Nairn with his sister and other siblings.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126021-h7dROv4KGKYH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126021
+      }
+    },
+    {
+      "id": "baro",
+      "name": "Baro",
+      "alt_names": [
+        "バロ"
+      ],
+      "role": "supporting",
+      "description": "A rogue mage affiliated with the Eye of the Midnight Sun.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126022-q9NZ9AAFFiUj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126022
+      }
+    },
+    {
+      "id": "neige",
+      "name": "Neige",
+      "alt_names": [
+        "ネージュ"
+      ],
+      "role": "supporting",
+      "description": "A rogue mage.\n\n“I'm going to make the person who did this to my brother pay... But before that, I need to pay for doing as he said... and not thinking for myself!”\n— To Asta in The Man Who Cuts Death",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126023-Vj6xYNSh0nj3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126023
+      }
+    },
+    {
+      "id": "theresa-rapual",
+      "name": "Theresa Rapual",
+      "alt_names": [
+        "テレジア・ラプアール"
+      ],
+      "role": "supporting",
+      "description": "Height: 162 cmSign: Aries\n\nA nun and a former member of the Crimson Lion squad of the Magic Knights.\n\n“Always... on every battlefield... it was the weak, the innocent children, who were the victims of war.”\n— To Asta in The Man Who Cuts Death",
+      "metadata": {
+        "age": "65",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126024-7fQBAdSfEwrv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126024
+      }
+    },
+    {
+      "id": "kuro-nero",
+      "name": "Kuro Nero",
+      "alt_names": [
+        "黒ネロ"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Anti-bird\n__Height:__ 8 cm\n\nAn Anti-bird who decided to stay alongside Asta after encountering him at the beginning of the Magic Knights Entrance Exam.\n\n~!It's later revealed that she is a human, her name is Secre Swallowtail. She was the servant of Lumiere Silvamillion Clover, prince of the Clover Kingdom and the first Magic Emperor. She is transformed into an anti-bird named Nero after sealing Lumiere into a statue.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126948-2yL8YEIqLLpq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126948
+      }
+    },
+    {
+      "id": "leopold-vermillion",
+      "name": "Leopold Vermillion",
+      "alt_names": [
+        "レオポルド・ヴァーミリオン"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 164 cm\n\nA nobleman and the second son of the Clover Kingdom's House Vermillion, one of its royal families. He is a member of the Crimson Lion squad of the Magic Knights.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137881-fQLQZce8CTsY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137881
+      }
+    },
+    {
+      "id": "lemiel-silvamillion-clover",
+      "name": "Lemiel Silvamillion Clover",
+      "alt_names": [
+        "ルミエル・シルヴァミリオン・クローバー",
+        "Lumiere",
+        "First Wizard King"
+      ],
+      "role": "supporting",
+      "description": "First Wizard King of the Clover Kingdom.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158550-m0UtbUtvW2ra.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158550
+      }
+    },
+    {
+      "id": "zagred",
+      "name": "Zagred",
+      "alt_names": [
+        "ザグレド",
+        "Devil",
+        "Kotodama Devil"
+      ],
+      "role": "supporting",
+      "description": "This devil is the mastermind behind the creation of Licht's five-leaf grimoire, the massacre of the Elf Tribe, and the reincarnation of the elves.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161333-PqfhwYg3AqKJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161333
+      }
+    },
+    {
+      "id": "dante-zogratis",
+      "name": "Dante Zogratis",
+      "alt_names": [
+        "ダンテ・ゾグラティス"
+      ],
+      "role": "supporting",
+      "description": "Dante is a member of the Spade Kingdom's Dark Triad and the host of the devil Lucifero.\n\nDante seems to be a calm and easy going individual. Even in the face of a surprising turn of events, he does not lose his cool.\n\nHe believes that evil is the true nature of humanity and the world is too dull because of it. Therefore, he considers being called evil a compliment, and encourages other people to embrace their malice, as it is a supreme emotion only humans have. He often looks down on who he considers weaker than him. His native magic is Flesh Magic, and his Demon's, Lucifero, is Gravity Magic.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163782-lbNzUCyy4lk0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 163782
+      }
+    },
+    {
+      "id": "zenon-zogratis",
+      "name": "Zenon Zogratis",
+      "alt_names": [
+        "ゼノン・ゾグラティス",
+        "Zeno"
+      ],
+      "role": "supporting",
+      "description": "Zenon is a member of Spade Kingdom's Dark Triad\nHe is a tall man with black, messy hair. His most notable feature is a cross-shaped mark on the left side of his forehead and it extends down across his left eye. \nHis magic Attribute is Bone Magic, and his Demon's magic gives him Spatial Magic",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b167952-Giy7Os8XrOKM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 167952
+      }
+    },
+    {
+      "id": "vanica-zogratis",
+      "name": "Vanica Zogratis",
+      "alt_names": [
+        "ヴァニカ・ゾグラティス",
+        "Vanika"
+      ],
+      "role": "supporting",
+      "description": "Member of the Spade Kingdom's Dark Triad, and the host for the devil Megicula. She's a psychopath and she enjoys fightings against tough enemies. Her native magic is Blood Magic, whilst Megicula's magic is Curse Warding Magic.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168300-xpKqucVqnd7j.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168300
+      }
+    },
+    {
+      "id": "david-swallow",
+      "name": "David Swallow",
+      "alt_names": [
+        "ダヴィド・スワロー",
+        "Baval"
+      ],
+      "role": "supporting",
+      "description": "Nobleman, member of the Golden Dawn. Uses Dice Magic.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174445-EkclViE0lcMv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174445
+      }
+    },
+    {
+      "id": "undine",
+      "name": "Undine",
+      "alt_names": [
+        "ウンディーネ",
+        "Spirit of Water"
+      ],
+      "role": "supporting",
+      "description": "Water Spirit that has served the Heart Kingdom for generations. Currently serving Lolopechka.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174446-uRQDIrqSvDqp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174446
+      }
+    },
+    {
+      "id": "paplo-espuma",
+      "name": "Paplo Espuma",
+      "alt_names": [
+        "パプロ・エスプーマ"
+      ],
+      "role": "supporting",
+      "description": "Servant for House Silva.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174447-UQhywhwIV6Lt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174447
+      }
+    },
+    {
+      "id": "damnatio-kira",
+      "name": "Damnatio  Kira",
+      "alt_names": [
+        "ダムナティオ・キーラ"
+      ],
+      "role": "supporting",
+      "description": "Chairman of the Magic Parliament.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174448-MRvEHxvJpP5R.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174448
+      }
+    },
+    {
+      "id": "lolopechka",
+      "name": "Lolopechka",
+      "alt_names": [
+        "ロロペチカ",
+        "Loropechika",
+        "Lolopechka"
+      ],
+      "role": "supporting",
+      "description": "Queen of the Heart Kingdom and user of the Water Spirit Undine.",
+      "metadata": {
+        "gender": "female",
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174449-10WzJnmxemEm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174449
+      }
+    },
+    {
+      "id": "letoile-becquerel",
+      "name": "Letoile  Becquerel",
+      "alt_names": [
+        "レトゥア・ベクレル"
+      ],
+      "role": "supporting",
+      "description": "Member of the Golden Dawn.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174450-rlMqdEnWMq5F.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174450
+      }
+    },
+    {
+      "id": "patry",
+      "name": "Patry",
+      "alt_names": [
+        "パトリ",
+        "Patolli",
+        "Patori",
+        "Licht"
+      ],
+      "role": "supporting",
+      "description": "Leader of the Eye of the Midnight Sun, under the name and appearance of Licht",
+      "metadata": {
+        "gender": "male",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174451-le3VXzW3q04a.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174451
+      }
+    },
+    {
+      "id": "gadjah",
+      "name": "Gadjah",
+      "alt_names": [
+        "ガジャ",
+        "Gaja"
+      ],
+      "role": "supporting",
+      "description": "Spirit Guardian of Heart Kingdom. Uses Lightning magic.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174452-t8GszGzwxklu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174452
+      }
+    },
+    {
+      "id": "walter",
+      "name": "Walter",
+      "alt_names": [
+        "ヴァルター"
+      ],
+      "role": "supporting",
+      "description": "Servant for Rill Boismortier.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174453-FFwFvz4L26OC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174453
+      }
+    },
+    {
+      "id": "megicula",
+      "name": "Megicula",
+      "alt_names": [
+        "メギキュラ"
+      ],
+      "role": "supporting",
+      "description": "Megicula 「メギキュラ Megikyura」 is a high-ranking devil who serves Vanica, a member of the Spade Kingdom's Dark Triad.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b179901-iF5YUuYzdtWX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 179901
+      }
+    },
+    {
+      "id": "ruben-chagar",
+      "name": "Ruben Chagar",
+      "alt_names": [
+        "ルベン・シャガー"
+      ],
+      "role": "supporting",
+      "description": "1st Class Intermediate Magic Knight of the Clover Kingdom's Crimson Lion and Royal Knights squads.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180686-BOkj583tBxlq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180686
+      }
+    },
+    {
+      "id": "liliane-vaude",
+      "name": "Liliane Vaude",
+      "alt_names": [
+        "リリアンヌ・ヴォード"
+      ],
+      "role": "supporting",
+      "description": "Noblewoman of House Vaude. She is the second wife of Ledior Vaude and the mother of Langris Vaude.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181569-AvgXPJRzGcqI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181569
+      }
+    },
+    {
+      "id": "lucifero",
+      "name": "Lucifero",
+      "alt_names": [
+        "ルチフェロ"
+      ],
+      "role": "supporting",
+      "description": "Lucifero is a high-ranking devil who serves Dante Zogratis, a member of the Spade Kingdom's Dark Triad.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181846-xm7ss9ZCWENV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181846
+      }
+    },
+    {
+      "id": "zuta",
+      "name": "Zuta",
+      "alt_names": [
+        "ズータ"
+      ],
+      "role": "supporting",
+      "description": "Rogue mage and a member of the Eye of the Midnight Sun.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181927-24HwVWsHAN0E.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181927
+      }
+    },
+    {
+      "id": "kaiser-granvorka",
+      "name": "Kaiser Granvorka",
+      "alt_names": [
+        "カイゼル・グランボルカ"
+      ],
+      "role": "supporting",
+      "description": "Kaiser Granvorka is the captain of the Clover Kingdom's Purple Orca squad of the Magic Knights. He uses Vortex Magic.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b182008-g72QCHSTIXNj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 182008
+      }
+    },
+    {
+      "id": "randall-luftair",
+      "name": "Randall Luftair",
+      "alt_names": [
+        "ランドール・ルフトエール"
+      ],
+      "role": "supporting",
+      "description": "Vice-captain of the Clover Kingdom's Crimson Lion squad of the Magic Knights.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184105-E9JQxwiXdvO6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184105
+      }
+    },
+    {
+      "id": "digit-taliss",
+      "name": "Digit Taliss",
+      "alt_names": [
+        "ジギト・タリス"
+      ],
+      "role": "supporting",
+      "description": "Member of the Clover Kingdom's Purple Orca squad of the Magic Knights.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184239-0m3UTzfE2Uai.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184239
+      }
+    },
+    {
+      "id": "ledior-vaude",
+      "name": "Ledior Vaude",
+      "alt_names": [
+        "レデオール・ヴォー"
+      ],
+      "role": "supporting",
+      "description": "Nobleman and the head of House Vaude. He is the father of Finral Roulacase and Langris Vaude.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184820-xlMJXH4AQA9i.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184820
+      }
+    },
+    {
+      "id": "nathan-agrippa",
+      "name": "Nathan Agrippa",
+      "alt_names": [
+        "ネイサン・アグリッパ"
+      ],
+      "role": "supporting",
+      "description": "Nathan Agrippa is the head of the Agrippa Family.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b185538-gdYfxD3WWXsM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 185538
+      }
+    },
+    {
+      "id": "salamander",
+      "name": "Salamander",
+      "alt_names": [
+        "サラマンダー",
+        "Spirit of Fire"
+      ],
+      "role": "supporting",
+      "description": "Salamander is the spirit of fire and serves Fana and later Fuegoleon Vermillion.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b185539-9B0g7yzuwmVn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 185539
+      }
+    },
+    {
+      "id": "jamo",
+      "name": "Jamo",
+      "alt_names": [
+        "ジャーモ"
+      ],
+      "role": "supporting",
+      "description": "Jamo is the head chef assigned to the kitchens of the Magic Knights Headquarters.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186389-8fjb1FFGjLlH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 186389
+      }
+    },
+    {
+      "id": "drouot",
+      "name": "Drouot",
+      "alt_names": [
+        "ドルオ"
+      ],
+      "role": "supporting",
+      "description": "Drouot is the master of the Grimoire Tower in Hage.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186390-bKhhPHgIZYcP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 186390
+      }
+    },
+    {
+      "id": "owen",
+      "name": "Owen",
+      "alt_names": [
+        "オーヴェン"
+      ],
+      "role": "supporting",
+      "description": "Owen is the healer who serves directly under the Magic Emperor.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186391-k1TRwy38JmFh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 186391
+      }
+    },
+    {
+      "id": "cob-portaport",
+      "name": "Cob Portaport",
+      "alt_names": [
+        "コブ・ポルタポルト"
+      ],
+      "role": "supporting",
+      "description": "Cob is one of the advisers of the Magic Emperor and a member of the Royal Knights squad.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186392-plff7jfH56P1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 186392
+      }
+    },
+    {
+      "id": "xerx-lugner",
+      "name": "Xerx Lugner",
+      "alt_names": [
+        "ザクス・リューグナー"
+      ],
+      "role": "supporting",
+      "description": "Xerx is the vice-captain of Clover Kingdom's Purple Orca squad of the Magic Knights. Zora Ideale attacks him and steals his identity and place during the Royal Knights Selection Exam.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186393-KJvFfq5cMJpE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 186393
+      }
+    },
+    {
+      "id": "luca-scarlet",
+      "name": "Luca Scarlet",
+      "alt_names": [
+        "ルカ・スカーレット "
+      ],
+      "role": "supporting",
+      "description": "Rebecca sister.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186394-hy8wj2qmhXWA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 186394
+      }
+    },
+    {
+      "id": "nacht-faust",
+      "name": "Nacht Faust",
+      "alt_names": [
+        "ナハト・ファウスト"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 180 cm\n\nNacht is a devil host and a former nobleman of House Faust. He spent several years working as a spy within the Spade Kingdom.\n\n~!He is the vice-captain of the Clover Kingdom's Black Bulls squad.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "29",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187268-vkcrcTvjNSrA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187268
+      }
+    },
+    {
+      "id": "tetia",
+      "name": "Tetia ",
+      "alt_names": [
+        "テティア"
+      ],
+      "role": "supporting",
+      "description": "Tetia was a human royal from the Clover Kingdom. She was also the wife of Licht, the leader of the Elf Tribe, and the younger sister of Lemiel Silvamillion Clover, the first Magic Emperor.Tetia was a cheerful person. She wished for a world where elves and humans could live together.\n\nThis goal, along with how Rhya hints the similarities she shares with Mimosa, implies that Tetia was also extremely kind and would not discriminate against others despite being royalty.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190584-txhvuiSbpdxD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190584
+      }
+    },
+    {
+      "id": "shidan",
+      "name": "Shidan",
+      "alt_names": [
+        "シダーン"
+      ],
+      "role": "supporting",
+      "description": "Shidan is a rogue mage and a member of the Eye of the Midnight Sun.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190585-EqA6sGJxw1Je.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190585
+      }
+    },
+    {
+      "id": "cesc",
+      "name": "Cesc",
+      "alt_names": [
+        "セスク"
+      ],
+      "role": "supporting",
+      "description": "Cesc is a member of Clover Kingdom's Azure Deer squad of the Magic Knights.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190586-Eydbw9TmmsnO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190586
+      }
+    },
+    {
+      "id": "forte-gris",
+      "name": "Forte Gris",
+      "alt_names": [
+        "フォルティ・グリス"
+      ],
+      "role": "supporting",
+      "description": "Forte is a 4th Class Intermediate Magic Knight of Clover Kingdom's Crimson Lion squad.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190587-CYpSa6YHTPNS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190587
+      }
+    },
+    {
+      "id": "mohawq",
+      "name": "Mohawq",
+      "alt_names": [
+        "モヒーカ"
+      ],
+      "role": "supporting",
+      "description": "Mohawq is a leader in the Diamond Kingdom army.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190588-p2Ck0WvjlIyU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190588
+      }
+    },
+    {
+      "id": "rick-cornell",
+      "name": "Rick Cornell",
+      "alt_names": [
+        "リック・コーネル"
+      ],
+      "role": "supporting",
+      "description": "Rick is a 3rd Class Intermediate Magic Knight of Clover Kingdom's Coral Peacock squad.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190589-vBJwsJjh6Ptd.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190589
+      }
+    },
+    {
+      "id": "francis",
+      "name": "Francis",
+      "alt_names": [
+        "フランシス"
+      ],
+      "role": "supporting",
+      "description": "Francis is a member of the Clover Kingdom's Azure Deer squad of the Magic Knights.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190590-fVWxxX3YbYa2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190590
+      }
+    },
+    {
+      "id": "liebe",
+      "name": "Liebe",
+      "alt_names": [
+        "リーベ",
+        "Anti Magic Devil"
+      ],
+      "role": "supporting",
+      "description": "~!Liebe is the devil who resides within Licht's former grimoire, which is currently Asta's grimoire. He is the source behind Asta's Anti Magic.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192196-giZLzC1Xj9Hp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192196
+      }
+    },
+    {
+      "id": "licita",
+      "name": "Licita",
+      "alt_names": [
+        "リチタ",
+        "Richita"
+      ],
+      "role": "supporting",
+      "description": "Licita was the foster mother of Liebe, the devil that currently recides within Asta's grimoire. She died protecting him from Lucifero.\n\n~!In chapter 270, it was confirmed that she is Asta's mother.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192588-drQZ91vMLKlS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192588
+      }
+    },
+    {
+      "id": "bou-nokude",
+      "name": "Bou Nokude",
+      "alt_names": [
+        "ボゥ・ノクデ",
+        "Bow Nokude",
+        "Bow Nocde"
+      ],
+      "role": "supporting",
+      "description": "Bow Nocde is an exiled commoner of the Clover Kingdom and a member of the Devil Believers. She works as an apothecary in Tiulyu.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b233390-CAIhidoxP4EW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 233390
+      }
+    },
+    {
+      "id": "dazuu-tayaku",
+      "name": "Dazuu Tayaku",
+      "alt_names": [
+        "ダズー・タヤク",
+        "Dazu Tayaku"
+      ],
+      "role": "supporting",
+      "description": "Dazu Tayak  is an exiled commoner of the Clover Kingdom and a member of the Devil Believers.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b233397-smAO6P6prFZg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 233397
+      }
+    },
+    {
+      "id": "foyal-migusteau",
+      "name": "Foyal Migusteau",
+      "alt_names": [
+        "ミグストーフォヤル",
+        "Foyaru Migusutou"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b248325-8FIffiotWhQ2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 248325
+      }
+    },
+    {
+      "id": "gaderois-godroc",
+      "name": "Gaderois Godroc",
+      "alt_names": [
+        "ゴドロックガデロア",
+        "Gaderoa Godorokku"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b248326-ns7deg1qA6Xi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 248326
+      }
+    },
+    {
+      "id": "svenkin-gatard",
+      "name": "Svenkin Gatard",
+      "alt_names": [
+        "ガタードスヴェンキン",
+        "Suvenkin Gatado"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b248327-qRhNfQlrCR1c.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 248327
+      }
+    },
+    {
+      "id": "robero-ringert",
+      "name": "Robero Ringert",
+      "alt_names": [
+        "リンゲルトロベロ",
+        "Robero Ringeruto"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b248328-kryDmYAeamyk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 248328
+      }
+    },
+    {
+      "id": "sivoir-snyle",
+      "name": "Sivoir Snyle",
+      "alt_names": [
+        "スナイルシーヴワル",
+        "Shivuwaru Sunairu"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b248329-qiH0DvS37f4B.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 248329
+      }
+    },
+    {
+      "id": "hischer-ongg",
+      "name": "Hischer Ongg",
+      "alt_names": [
+        "オングヒッシャー",
+        "Hissha Ongu"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b248330-r6EDgpuJyws6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 248330
+      }
+    },
+    {
+      "id": "ralph-niaflem",
+      "name": "Ralph Niaflem",
+      "alt_names": [
+        "ニアフレムラルフ",
+        "Ralph",
+        "Rarufu Niafuremu"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b248331-q8AS7nAW32fv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 248331
+      }
+    },
+    {
+      "id": "moris-libardirt",
+      "name": "Moris Libardirt",
+      "alt_names": [
+        "リバルダートモリス",
+        "Morris Libardirt",
+        "Morisu Ribarudato"
+      ],
+      "role": "supporting",
+      "description": "Moris Libardirt is a Magic Scholar who is controlling the king of the Diamond Kingdom. After being forced out by Mars, Moris begins working for the Dark Triad of the Spade Kingdom.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b248332-XOw93gi9Ltz6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 248332
+      }
+    },
+    {
+      "id": "halbet-chevour",
+      "name": "Halbet Chevour",
+      "alt_names": [
+        "シュヴールハールベート",
+        "Harubeto Shuvuru"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b248333-rq8snTpZhVxr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 248333
+      }
+    },
+    {
+      "id": "winston",
+      "name": "Winston",
+      "alt_names": [
+        "ウィンストン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250415-BhXYlT7yYys1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250415
+      }
+    },
+    {
+      "id": "willie",
+      "name": "Willie",
+      "alt_names": [
+        "ウィリー"
+      ],
+      "role": "supporting",
+      "description": "Willie is a member of the Clover Kingdom's Green Mantis squad of the Magic Knights.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250416-Ey69yCEoXnDk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250416
+      }
+    },
+    {
+      "id": "nix",
+      "name": "Nix",
+      "alt_names": [
+        "ニックス"
+      ],
+      "role": "supporting",
+      "description": "Nix is a member of Clover Kingdom's Green Mantis squad of the Magic Knights.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250417-zC3mURmYPGrZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250417
+      }
+    },
+    {
+      "id": "galleo",
+      "name": "Galleo",
+      "alt_names": [
+        "ガレオ",
+        "Gareo"
+      ],
+      "role": "supporting",
+      "description": "Galleo is the commander of the Diamond Kingdom assassination squad.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250418-QKT0DkaYkuN6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250418
+      }
+    },
+    {
+      "id": "sarado",
+      "name": "Sarado",
+      "alt_names": [
+        "サラード"
+      ],
+      "role": "supporting",
+      "description": "Sarado is a Spirit Guardian of the Heart Kingdom.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250483-764juE36svI4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250483
+      }
+    },
+    {
+      "id": "smurik",
+      "name": "Smurik",
+      "alt_names": [
+        "スムリク",
+        "Sumuriku"
+      ],
+      "role": "supporting",
+      "description": "Smurik is a Spirit Guardian of the Heart Kingdom.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250484-MQG4HKCKc95P.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250484
+      }
+    },
+    {
+      "id": "floga",
+      "name": "Floga",
+      "alt_names": [
+        "フローガ",
+        "Furōga"
+      ],
+      "role": "supporting",
+      "description": "Floga is a Spirit Guardian of the Heart Kingdom.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250485-g7hy6usr3Rrg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250485
+      }
+    },
+    {
+      "id": "potrof",
+      "name": "Potrof",
+      "alt_names": [
+        "ポトロフ",
+        "Potorofu"
+      ],
+      "role": "supporting",
+      "description": "Potrof is a Spirit Guardian of the Heart Kingdom.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250486-2eEQbOcxidif.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250486
+      }
+    },
+    {
+      "id": "loyce-grinberryall",
+      "name": "Loyce Grinberryall",
+      "alt_names": [
+        "ロイス・グリンベリオール"
+      ],
+      "role": "supporting",
+      "description": "Loyce Grinberryall was the King of the Spade Kingdom, alongside his wife Ciel Grinberryall, untill the Zogratis Siblings attacked the palace and overthrew the royal family. ~!It is later revealed by Ralph Niaflem, that he is the father of Yuno.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216708-9ybsG05cyQ3I.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216708
+      }
+    },
+    {
+      "id": "ciel-grinberryall",
+      "name": "Ciel Grinberryall",
+      "alt_names": [
+        "シエルグ・リンベリオール"
+      ],
+      "role": "supporting",
+      "description": "Ciel Grinberryall was the Queen of the Spade Kingdom, alongside her husband Loyce Grinberryall until the Zogratis Siblings attacked the palace and overthrew the royal family. ~!It is later revealed by Ralph Niaflem, that she is the mother of Yuno.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216709-iWHVFoZ8yvku.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216709
+      }
+    },
+    {
+      "id": "abari",
+      "name": "Abari",
+      "alt_names": [
+        "アバリ"
+      ],
+      "role": "supporting",
+      "description": "Abari is a rogue mage and a member of the Eye of the Midnight Sun.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326892-rSn2slZKAi7C.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326892
+      }
+    },
+    {
+      "id": "nilenia-agrippa",
+      "name": "Nilenia Agrippa",
+      "alt_names": [
+        "ニレニア・アグリッパ"
+      ],
+      "role": "supporting",
+      "description": "Nilenia Agrippa is a commoner of the Clover Kingdom and the grandmother of Gordon Agrippa.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326893-RS3yfHmpuab6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326893
+      }
+    },
+    {
+      "id": "helene-barbary",
+      "name": "Helene Barbary",
+      "alt_names": [
+        "エレーヌ・バーバリー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326895-QRCQj3VNfY4I.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326895
+      }
+    },
+    {
+      "id": "ben-benfunk",
+      "name": "Ben Benfunk",
+      "alt_names": [
+        "ベン・ベンファンク"
+      ],
+      "role": "supporting",
+      "description": "Ben Benfunk is a member of Clover Kingdom's Crimson Lion squad of the Magic Knights. He is a 4th Class Senior Magic Knight.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326896-GxSGq0FOIYeY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326896
+      }
+    },
+    {
+      "id": "charla",
+      "name": "Charla",
+      "alt_names": [
+        "チャルラ"
+      ],
+      "role": "supporting",
+      "description": "Charla belonged to the elf tribe 500 years prior to the present events.\n~!After the reincarnation spell takes place, Charla possesses Charlotte Roselei and fights Yami Sukehiro to briefly incapacitate him at the Royal Capital before meeting each other again at the Shadow Palace, this time to team-up against the devil Zagred.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326897-NqbUCoKCzJgO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326897
+      }
+    },
+    {
+      "id": "jonna-agrippa",
+      "name": "Jonna Agrippa",
+      "alt_names": [
+        "ヨンナ・アグリッパ"
+      ],
+      "role": "supporting",
+      "description": "Jonna Agrippa is a commoner of the Clover Kingdom and the mother of Gordon Agrippa.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326898-iFG9vS5roCZv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326898
+      }
+    },
+    {
+      "id": "roxanne-agrippa",
+      "name": "Roxanne Agrippa",
+      "alt_names": [
+        "ロクサーヌ・アグリッパ"
+      ],
+      "role": "supporting",
+      "description": "Roxanne Agrippa is a commoner of the Clover Kingdom and the sister of Gordon Agrippa.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326899-q9CXzC17aSMP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326899
+      }
+    },
+    {
+      "id": "kabwe-carillon",
+      "name": "Kabwe Carillon",
+      "alt_names": [
+        "カブエ・カリョン"
+      ],
+      "role": "supporting",
+      "description": "Kabwe Carillon is a guard for the Clover Kingdom's Magic Parliament and a member of the Devil Banishers.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326900-lxE9FthXG3SF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326900
+      }
+    },
+    {
+      "id": "drowa",
+      "name": "Drowa",
+      "alt_names": [
+        "ドロワ"
+      ],
+      "role": "supporting",
+      "description": "Drowa is an elf and one of the ten Apostles of Sephirah.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326901-za06lQqUsOqx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326901
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "minor",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:26:32.112Z"
+  "updated_at": "2025-12-22T22:59:15.016Z"
 }

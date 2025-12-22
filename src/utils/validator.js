@@ -4,6 +4,7 @@ import { readJson, listFiles } from './file.js';
 import { logger } from './logger.js';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import fs from 'fs/promises';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -137,6 +138,62 @@ export class SchemaValidator {
       const params = JSON.stringify(err.params);
       return `${path}: ${message} ${params}`;
     });
+  }
+
+  /**
+   * Valida todos os arquivos em um diretório
+   * @param {string} baseDir - Diretório base dos dados
+   * @returns {Promise<Object>} Resultado da validação
+   */
+  async validateAll(baseDir = './data') {
+    const results = {
+      valid: true,
+      errors: []
+    };
+
+    try {
+      // Validar todas as obras
+      const types = ['anime', 'manga', 'game'];
+      
+      for (const type of types) {
+        const typeDir = join(baseDir, type);
+        
+        try {
+          const entries = await listFiles(typeDir);
+          
+          for (const entry of entries) {
+            // Pular arquivos que não são diretórios de obras (como index.json)
+            const entryPath = join(typeDir, entry);
+            const stat = await fs.stat(entryPath);
+            
+            if (!stat.isDirectory()) {
+              continue; // Pular arquivos
+            }
+            
+            // Extrair workId do caminho
+            const workId = entry;
+            const workResult = await this.validateWork(type, workId, baseDir);
+            
+            if (!workResult.valid) {
+              results.valid = false;
+              results.errors.push(...workResult.errors);
+            }
+          }
+        } catch (error) {
+          // Diretório não existe, continuar
+          continue;
+        }
+      }
+      
+    } catch (error) {
+      results.valid = false;
+      results.errors.push({
+        file: 'global',
+        errors: [`Erro geral: ${error.message}`]
+      });
+    }
+
+    return results;
   }
 }
 

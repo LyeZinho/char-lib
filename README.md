@@ -23,25 +23,78 @@ node src/cli.js stats anime naruto
 
 ## 🎛️ Interface Interativa (TUI)
 
-Interface interativa baseada em menus para todas as operações:
+Interface interativa baseada em menus para **todas as operações** disponíveis:
 
 ```bash
 # Iniciar interface interativa
-node src/cli.js interactive
+npm run tui
 # ou
-node src/cli.js tui
+node src/cli.js interactive
 ```
 
-**Funcionalidades:**
-- 📥 Importar obras com configuração interativa
-- 🔍 Buscar personagens
-- 📊 Visualizar estatísticas
-- 🔄 Atualizar dados
-- 🤖 Auto-crawling
-- ✅ Validar dados
-- 🚀 Deploy web
+### 📋 Funcionalidades Completas
 
-**Navegação:** Use setas ↑↓ para navegar e Enter para selecionar.
+#### 📥 **Importar Obra**
+- Importar anime, manga ou jogos
+- Configurar limite de personagens
+- Ajustar delay entre requisições
+
+#### 🔍 **Buscar Personagens**
+- Busca local em obras específicas
+- Filtragem por tipo (anime/manga/game)
+
+#### 📊 **Ver Estatísticas**
+- Estatísticas detalhadas de obras
+- Contagem por roles de personagens
+
+#### 🔄 **Atualizar Dados**
+- Atualizar todas as obras existentes
+- Opção de pular personagens
+- Suporte a enrichment como fallback
+
+#### 🤖 **Auto-Crawling** (Menu Completo)
+- 🚀 **Executar Crawling**: Processar obras da fila
+- 📊 **Ver Status**: Estado atual do crawler
+- 📋 **Listar Processadas**: Índice de obras processadas
+- 🧹 **Limpar Fila**: Resetar fila pendente
+- ➕ **Aumentar Fila**: Descobrir mais obras populares
+- 🔄 **AutoCraw Contínuo**: Crawling automático contínuo
+
+#### 📋 **Listar Obras**
+- Listar todas as obras por tipo
+- Filtrar por anime, manga ou games
+
+#### ✅ **Validar Dados**
+- Validação completa contra schemas JSON
+- Relatório de erros detalhado
+
+#### 💾 **Gerenciar Cache**
+- 📊 **Ver Status**: Estatísticas do cache
+- 🧹 **Limpar Cache**: Reset completo
+- 🔄 **Reconstruir Cache**: Reconstruir baseado em dados existentes
+
+#### 🚀 **Deploy Web**
+- Atualizar dados do frontend
+- Copiar database para interface web
+
+#### 🛠️ **Scripts Úteis**
+- 📊 **Gerar Índices**: Criar arquivos index.json para API web
+- 🎮 **Importar Jogos**: Executar script de importação de jogos
+- 🤖 **Exemplo de Crawling**: Demonstração de funcionalidades de crawling
+
+### 🎯 Navegação
+
+- **Setas ↑↓**: Navegar entre opções
+- **Enter**: Selecionar opção
+- **Menus aninhados**: Submenus para funcionalidades complexas
+- **Confirmações**: Validações para operações destrutivas
+
+### 💡 Dicas
+
+- Use o modo interativo para descobrir todas as opções disponíveis
+- As configurações padrão são otimizadas para uso geral
+- Operações de crawling suportam apenas anime e manga (games não têm personagens fictícios)
+- O cache acelera verificações de obras já processadas
 
 ## ⚡ Controle de Rate Limit
 

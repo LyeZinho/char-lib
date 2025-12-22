@@ -1,6 +1,6 @@
 {
   "work_id": "rezero-starting-life-in-another-world",
-  "count": 25,
+  "count": 49,
   "characters": [
     {
       "id": "emilia",
@@ -653,7 +653,552 @@
       "external_ids": {
         "anilist": 141858
       }
+    },
+    {
+      "id": "mimi-pearlbaton",
+      "name": "Mimi Pearlbaton",
+      "alt_names": [
+        "ミミ・パールバトン"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 135 cm (4'5\")\n\nMimi is one of Anastasia Hoshin's followers and is one of three vice-captains of the mercenary group Fang of Steel.",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157961-gvUztmBkzSMB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157961
+      }
+    },
+    {
+      "id": "meili-portroute",
+      "name": "Meili Portroute",
+      "alt_names": [
+        "メィリィ・ポートルート"
+      ],
+      "role": "supporting",
+      "description": "One of the children that lives in the village within [Roswaal](https://anilist.co/character/90182)'s region. She's timid, though is friendly, such as when she introduces a small dog to [Subaru](https://anilist.co/character/88573). \n~!Meili Portroute is a Demon Beast User.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175577-lUNPAV3Gujl3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175577
+      }
+    },
+    {
+      "id": "patrasche",
+      "name": "Patrasche",
+      "alt_names": [
+        "パトラッシュ"
+      ],
+      "role": "supporting",
+      "description": "Subaru's Earth Dragon that he officially received from Crusch Karsten for his efforts in the Hakugei battle. Despite being of a species known for being feisty, Patrasche is extremely loyal to Subaru, as she is willing to put her life on the line for him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181313-eT4mFPCZj1OZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181313
+      }
+    },
+    {
+      "id": "ricardo-welkin",
+      "name": "Ricardo Welkin",
+      "alt_names": [
+        "リカード・ウェルキン"
+      ],
+      "role": "supporting",
+      "description": "Ricardo Welkin is one of Anastasia Hoshin's followers and the captain of the mercenary group: Fang of Iron.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181314-OB2xgtbugqwZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181314
+      }
+    },
+    {
+      "id": "lucas",
+      "name": "Lucas",
+      "alt_names": [
+        "リュカ"
+      ],
+      "role": "supporting",
+      "description": "Citizen of Irlam Village.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b185043-sE8wxN5FrHHL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 185043
+      }
+    },
+    {
+      "id": "ketty-muttart",
+      "name": "Ketty Muttart",
+      "alt_names": [
+        "ケティ・ムッタート"
+      ],
+      "role": "supporting",
+      "description": "Was a merchant and a member of the Witch Cult.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b185044-9Ofs1dFdTP27.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 185044
+      }
+    },
+    {
+      "id": "raksha-risch",
+      "name": "Raksha Risch",
+      "alt_names": [
+        "ラクシャ・リッシュ"
+      ],
+      "role": "supporting",
+      "description": "Wife of Kadomon Risch.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b185045-4Kw0YT6e7Ns6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 185045
+      }
+    },
+    {
+      "id": "russell-fellow",
+      "name": "Russell Fellow",
+      "alt_names": [
+        "ラッセル・フェロー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b185046-chJWaKEwVlZs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 185046
+      }
+    },
+    {
+      "id": "tivey-pearlbaton",
+      "name": "Tivey Pearlbaton",
+      "alt_names": [
+        "ティビー・パールバトン"
+      ],
+      "role": "supporting",
+      "description": "One of Anastasia Hoshin's followers and is one of the three vice captains of the mercenary group Fang of Iron.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187763-R4qQ7xhZ9JTP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187763
+      }
+    },
+    {
+      "id": "hetaro-pearlbaton",
+      "name": "Hetaro Pearlbaton",
+      "alt_names": [
+        "ヘータロー・パールバトン"
+      ],
+      "role": "supporting",
+      "description": "Hetaro Pearlbaton  is one of Anastasia Hoshin's followers and is one of the three vice captains of the mercenary group Fang of Iron.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203919-C4m7N3cBUfCw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 203919
+      }
+    },
+    {
+      "id": "marcos-gildark",
+      "name": "Marcos Gildark",
+      "alt_names": [
+        "マーコス・ギルダーク"
+      ],
+      "role": "supporting",
+      "description": "Marcos Gildark is the captain of the Royal Guard and Knight Commander.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205260-VWLQccRJmTfv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205260
+      }
+    },
+    {
+      "id": "kan",
+      "name": "Kan",
+      "alt_names": [
+        "カン",
+        "Camberley (カンバリー)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 130 cm (4'3\")\n\nCamberley, commonly known as Kan, is one of the three thugs that attacked Subaru.\n\n~! He later joined the [Felt](https://anilist.co/character/88574/Felt) Camp when Felt employed him after Royal Selection began. After being employed by Felt, he began getting trained by Reinhard and has developed considerable power. !~",
+      "metadata": {
+        "gender": "male",
+        "age": "23-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205261-v1HJzOXXVEJf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205261
+      }
+    },
+    {
+      "id": "gaston",
+      "name": "Gaston",
+      "alt_names": [
+        "ガストン",
+        "Ton"
+      ],
+      "role": "supporting",
+      "description": "Gaston, commonly known as Ton, is one of the three thugs that attacked Subaru.\n\n~! He later joined the [Felt](https://anilist.co/character/88574/Felt) Camp when Felt employed him after Royal Selection began. After being employed by Felt, he started to get trained by Reinhard and has developed considerable power. !~",
+      "metadata": {
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205262-4QkNpvgw0svU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205262
+      }
+    },
+    {
+      "id": "temae",
+      "name": "Temae",
+      "alt_names": [
+        "テマエ"
+      ],
+      "role": "supporting",
+      "description": "Temae was Ram and Rem's mother.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205582-L17J97ryPKGT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205582
+      }
+    },
+    {
+      "id": "setanta",
+      "name": "Setanta",
+      "alt_names": [
+        "セタンタ"
+      ],
+      "role": "supporting",
+      "description": "Setanta was the chief of the Oni Village Ram and Rem lived at when they were young.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205583-hzc7pOCz0RDW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205583
+      }
+    },
+    {
+      "id": "quark",
+      "name": "Quark",
+      "alt_names": [
+        "クオーク"
+      ],
+      "role": "supporting",
+      "description": "Quark was Ram and Rem's father.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205584-q2PkKhVgz3O0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205584
+      }
+    },
+    {
+      "id": "bordeaux-zellgef",
+      "name": "Bordeaux Zellgef",
+      "alt_names": [
+        "ボルドー・ツェルゲフ",
+        "Mad Dog"
+      ],
+      "role": "supporting",
+      "description": "Bordeaux Zellgef is a member of the Sage Council. During the Demi-Human war, he acted as the captain of the Zellgef Squadron. Four decades ago during the Demi-Human War, Bordeaux was a tall, muscular and somewhat frightening man, usually donned in heavy iron armour and wielding a massive battle axe. He had short and spiky light blue hair, and equally blue and thick eyebrows. His eyes radiated a strong fighting spirit.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b218202-zCXaFinepDRV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 218202
+      }
+    },
+    {
+      "id": "rickert-hoffman",
+      "name": "Rickert Hoffman",
+      "alt_names": [
+        "リッカートホフマン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b226757-bzteWo2C4j8J.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 226757
+      }
+    },
+    {
+      "id": "hitosashiyubi",
+      "name": "Hitosashiyubi",
+      "alt_names": [
+        "人差し指",
+        "First Finger"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b226758-MOQj5kr5GUIv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 226758
+      }
+    },
+    {
+      "id": "miklotov-mcmahon",
+      "name": "Miklotov McMahon",
+      "alt_names": [
+        "マイクロトフ・マクマホン"
+      ],
+      "role": "supporting",
+      "description": "The representative of the Council of Wise Men who are currently ruling over the Dragon Kingdom of Lugunica. Many have considered Miklotov to be the true brains of the Kingdom who, in the event that the royal family were to disappear, would be a suitable replacement ruler.",
+      "metadata": {
+        "gender": "male",
+        "age": "74",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b354519-0RCQ84r7RIh7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 354519
+      }
+    },
+    {
+      "id": "satella",
+      "name": "Satella",
+      "alt_names": [
+        "サテラ",
+        "Witch of Envy"
+      ],
+      "role": "minor",
+      "description": "Satella is one of the Witches of Sin, being the Witch of Envy. ~! Contrary to popular belief, Satella and the Witch of Envy are separate personalities. Both of them love Subaru, though the Witch of Envy is aggressive about it.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127242-UVgHhBEnLAJn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127242
+      }
+    },
+    {
+      "id": "frederica-baumann",
+      "name": "Frederica Baumann",
+      "alt_names": [
+        "フレデリカ・バウマン",
+        "Frederica Tinsel "
+      ],
+      "role": "minor",
+      "description": "Frederica Baumann is a maid working for Roswaal L. Mathers and a member of the Emilia Camp. She quit her job as a maid a few months before Subaru's appearance, but returned after Ram couldn't manage the mansion ~! after Rem had her name and memories eaten. !~\n\n~! She is the half-sister of [Garfiel Tinsel](https://anilist.co/character/133847/). !~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143378-1pXqjZho4dhz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 143378
+      }
+    },
+    {
+      "id": "schult",
+      "name": "Schult",
+      "alt_names": [
+        "シュルト"
+      ],
+      "role": "minor",
+      "description": "Schult is a member of the Priscilla Camp. Though not much is known about him, he's extremely loyal to his mistress and is one of her closest attendants.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205259-Pythrq9UT2h0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205259
+      }
+    },
+    {
+      "id": "chamov",
+      "name": "Chamov",
+      "alt_names": [
+        "チャモフ"
+      ],
+      "role": "minor",
+      "description": "Chamov is a puppy demihuman, with white hair, blue eyes, and an amiable puppy face. He typically likes to wear a hat.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205881-N0M5seiqPYyf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205881
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:19:39.527Z"
+  "updated_at": "2025-12-22T23:28:20.563Z"
 }

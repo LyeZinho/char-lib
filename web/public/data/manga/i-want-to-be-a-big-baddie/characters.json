@@ -1,0 +1,52 @@
+{
+  "work_id": "i-want-to-be-a-big-baddie",
+  "count": 2,
+  "characters": [
+    {
+      "id": "qin-xian",
+      "name": "Qin Xian",
+      "alt_names": [
+        "秦限"
+      ],
+      "role": "protagonist",
+      "description": "He has the ability to see through people's hearts, the most true thoughts in others' hearts will be translated into words. He will promote the development of the plot according to Wang Yi's inner frame instructions.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b257418-z3XO1CmEfEoC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 257418
+      }
+    },
+    {
+      "id": "yi-wang",
+      "name": "Yi Wang",
+      "alt_names": [
+        "王亿"
+      ],
+      "role": "protagonist",
+      "description": "In order to prevent the role of OOC, he plays the male villain who is vicious on the surface and follow the spirit of the drama in the script. However, Qin Xian had already seen his inner thoughts clearly.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b257419-jduSnTB2zAmY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 257419
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T22:10:16.498Z"
+}

@@ -15,7 +15,7 @@
     "characters_count": 18,
     "source": "AniList",
     "created_at": "2025-12-22T12:48:29.043Z",
-    "updated_at": "2025-12-22T22:01:53.738Z",
+    "updated_at": "2025-12-22T23:22:23.252Z",
     "type": "anime"
   },
   {
@@ -38,7 +38,7 @@
     "characters_count": 81,
     "source": "AniList",
     "created_at": "2025-12-22T13:28:03.191Z",
-    "updated_at": "2025-12-22T22:01:58.004Z",
+    "updated_at": "2025-12-22T23:13:11.714Z",
     "type": "anime"
   },
   {
@@ -58,7 +58,24 @@
     "characters_count": 25,
     "source": "AniList",
     "created_at": "2025-12-22T13:35:26.184Z",
-    "updated_at": "2025-12-22T22:01:58.485Z",
+    "updated_at": "2025-12-22T23:13:12.195Z",
+    "type": "anime"
+  },
+  {
+    "slug": "anima",
+    "title": "Anima",
+    "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b13513-nKslX1lJT5xf.png",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "ANIMA is a dance animation movie representing a human \"life\".\n\n(Source: Official Website)",
+    "genres": [
+      "Music"
+    ],
+    "average_score": 47,
+    "characters_count": 0,
+    "source": "AniList",
+    "created_at": "2025-12-22T22:18:31.799Z",
+    "updated_at": "2025-12-22T23:13:12.549Z",
     "type": "anime"
   },
   {
@@ -78,7 +95,7 @@
     "characters_count": 16,
     "source": "AniList",
     "created_at": "2025-12-22T13:39:06.417Z",
-    "updated_at": "2025-12-22T22:01:58.959Z",
+    "updated_at": "2025-12-22T23:13:13.005Z",
     "type": "anime"
   },
   {
@@ -99,7 +116,7 @@
     "characters_count": 33,
     "source": "AniList",
     "created_at": "2025-12-22T17:54:46.369Z",
-    "updated_at": "2025-12-22T22:02:00.627Z",
+    "updated_at": "2025-12-22T23:13:14.649Z",
     "type": "anime"
   },
   {
@@ -119,7 +136,7 @@
     "characters_count": 50,
     "source": "AniList",
     "created_at": "2025-12-22T13:17:12.094Z",
-    "updated_at": "2025-12-22T22:02:02.416Z",
+    "updated_at": "2025-12-22T23:13:16.391Z",
     "type": "anime"
   },
   {
@@ -139,7 +156,7 @@
     "characters_count": 59,
     "source": "AniList",
     "created_at": "2025-12-22T17:55:52.889Z",
-    "updated_at": "2025-12-22T22:02:05.392Z",
+    "updated_at": "2025-12-22T23:06:18.813Z",
     "type": "anime"
   },
   {
@@ -159,27 +176,18 @@
     "characters_count": 87,
     "source": "AniList",
     "created_at": "2025-12-22T12:22:55.628Z",
-    "updated_at": "2025-12-22T19:18:52.447Z",
+    "updated_at": "2025-12-22T23:06:25.065Z",
     "type": "anime"
   },
   {
     "slug": "attack-on-titan-final-season",
-    "title": "Attack on Titan Final Season",
-    "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110277-sKUNXAsWMNFw.jpg",
-    "format": "TV",
-    "status": "FINISHED",
+    "title": "Untitled",
     "description": "It’s been four years since the Scout Regiment reached the shoreline, and the world looks different now. Things are heating up as the fate of the Scout Regiment—and the people of Paradis—are determined",
-    "genres": [
-      "Action",
-      "Drama",
-      "Fantasy",
-      "Mystery"
-    ],
-    "average_score": 86,
+    "genres": [],
     "characters_count": 75,
     "source": "AniList",
     "created_at": "2025-12-22T12:50:02.479Z",
-    "updated_at": "2025-12-22T13:16:52.772Z",
+    "updated_at": "2025-12-22T22:50:39.923Z",
     "type": "anime"
   },
   {
@@ -197,10 +205,10 @@
       "Psychological"
     ],
     "average_score": 86,
-    "characters_count": 25,
+    "characters_count": 64,
     "source": "AniList",
     "created_at": "2025-12-22T13:37:57.294Z",
-    "updated_at": "2025-12-22T13:37:57.294Z",
+    "updated_at": "2025-12-22T23:06:30.279Z",
     "type": "anime"
   },
   {
@@ -220,7 +228,7 @@
     "characters_count": 46,
     "source": "AniList",
     "created_at": "2025-12-22T12:25:13.308Z",
-    "updated_at": "2025-12-22T21:12:24.994Z",
+    "updated_at": "2025-12-22T22:58:33.645Z",
     "type": "anime"
   },
   {
@@ -237,10 +245,10 @@
       "Mystery"
     ],
     "average_score": 85,
-    "characters_count": 25,
+    "characters_count": 59,
     "source": "AniList",
     "created_at": "2025-12-22T12:48:49.592Z",
-    "updated_at": "2025-12-22T21:15:18.534Z",
+    "updated_at": "2025-12-22T22:58:41.762Z",
     "type": "anime"
   },
   {
@@ -257,10 +265,10 @@
       "Mystery"
     ],
     "average_score": 89,
-    "characters_count": 25,
+    "characters_count": 50,
     "source": "AniList",
     "created_at": "2025-12-22T13:18:43.403Z",
-    "updated_at": "2025-12-22T13:18:43.403Z",
+    "updated_at": "2025-12-22T22:58:48.645Z",
     "type": "anime"
   },
   {
@@ -282,7 +290,7 @@
     "characters_count": 14,
     "source": "AniList",
     "created_at": "2025-12-22T21:18:37.410Z",
-    "updated_at": "2025-12-22T21:18:37.410Z",
+    "updated_at": "2025-12-22T22:58:54.140Z",
     "type": "anime"
   },
   {
@@ -299,10 +307,10 @@
       "Thriller"
     ],
     "average_score": 83,
-    "characters_count": 25,
+    "characters_count": 37,
     "source": "AniList",
     "created_at": "2025-12-22T21:22:48.915Z",
-    "updated_at": "2025-12-22T21:22:48.915Z",
+    "updated_at": "2025-12-22T22:59:00.869Z",
     "type": "anime"
   },
   {
@@ -319,10 +327,10 @@
       "Fantasy"
     ],
     "average_score": 79,
-    "characters_count": 25,
+    "characters_count": 160,
     "source": "AniList",
     "created_at": "2025-12-22T13:26:24.140Z",
-    "updated_at": "2025-12-22T13:26:24.140Z",
+    "updated_at": "2025-12-22T22:59:15.002Z",
     "type": "anime"
   },
   {
@@ -585,7 +593,7 @@
     "characters_count": 48,
     "source": "AniList",
     "created_at": "2025-12-22T12:24:46.763Z",
-    "updated_at": "2025-12-22T21:10:12.085Z",
+    "updated_at": "2025-12-22T22:48:19.858Z",
     "type": "anime"
   },
   {
@@ -1665,7 +1673,7 @@
     "characters_count": 282,
     "source": "AniList",
     "created_at": "2025-12-22T12:09:22.201Z",
-    "updated_at": "2025-12-22T21:14:22.688Z",
+    "updated_at": "2025-12-22T22:27:05.984Z",
     "type": "anime"
   },
   {
@@ -1684,10 +1692,10 @@
       "Supernatural"
     ],
     "average_score": 82,
-    "characters_count": 25,
+    "characters_count": 326,
     "source": "AniList",
     "created_at": "2025-12-22T13:19:00.203Z",
-    "updated_at": "2025-12-22T13:19:00.203Z",
+    "updated_at": "2025-12-22T22:27:34.343Z",
     "type": "anime"
   },
   {
@@ -1790,7 +1798,7 @@
     "characters_count": 30,
     "source": "AniList",
     "created_at": "2025-12-22T12:17:12.015Z",
-    "updated_at": "2025-12-22T21:40:38.765Z",
+    "updated_at": "2025-12-22T23:23:21.299Z",
     "type": "anime"
   },
   {
@@ -1988,10 +1996,10 @@
       "Thriller"
     ],
     "average_score": 81,
-    "characters_count": 25,
+    "characters_count": 49,
     "source": "AniList",
     "created_at": "2025-12-22T13:19:37.943Z",
-    "updated_at": "2025-12-22T13:19:37.943Z",
+    "updated_at": "2025-12-22T23:28:13.175Z",
     "type": "anime"
   },
   {
@@ -2010,10 +2018,33 @@
       "Thriller"
     ],
     "average_score": 83,
-    "characters_count": 25,
+    "characters_count": 34,
     "source": "AniList",
     "created_at": "2025-12-22T17:56:09.052Z",
-    "updated_at": "2025-12-22T17:56:09.052Z",
+    "updated_at": "2025-12-22T23:28:51.497Z",
+    "type": "anime"
+  },
+  {
+    "slug": "rezero-starting-life-in-another-world-season-3",
+    "title": "Re:ZERO -Starting Life in Another World- Season 3",
+    "cover_image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163134-yieRFbvUOH9a.jpg",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The third season of Re:Zero kara Hajimeru Isekai Seikatsu. \n\nA year has passed since Subaru’s victory at the Sanctuary. He savors a life of fulfillment while Emilia’s camp stands united for the royal ",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Romance",
+      "Thriller"
+    ],
+    "average_score": 84,
+    "characters_count": 65,
+    "source": "AniList",
+    "created_at": "2025-12-22T23:29:21.277Z",
+    "updated_at": "2025-12-22T23:29:21.277Z",
     "type": "anime"
   },
   {

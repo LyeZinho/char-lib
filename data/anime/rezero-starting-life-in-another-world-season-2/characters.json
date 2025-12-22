@@ -1,6 +1,6 @@
 {
   "work_id": "rezero-starting-life-in-another-world-season-2",
-  "count": 25,
+  "count": 34,
   "characters": [
     {
       "id": "emilia",
@@ -643,7 +643,224 @@
       "external_ids": {
         "anilist": 174098
       }
+    },
+    {
+      "id": "meili-portroute",
+      "name": "Meili Portroute",
+      "alt_names": [
+        "メィリィ・ポートルート"
+      ],
+      "role": "supporting",
+      "description": "One of the children that lives in the village within [Roswaal](https://anilist.co/character/90182)'s region. She's timid, though is friendly, such as when she introduces a small dog to [Subaru](https://anilist.co/character/88573). \n~!Meili Portroute is a Demon Beast User.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175577-lUNPAV3Gujl3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175577
+      }
+    },
+    {
+      "id": "patrasche",
+      "name": "Patrasche",
+      "alt_names": [
+        "パトラッシュ"
+      ],
+      "role": "supporting",
+      "description": "Subaru's Earth Dragon that he officially received from Crusch Karsten for his efforts in the Hakugei battle. Despite being of a species known for being feisty, Patrasche is extremely loyal to Subaru, as she is willing to put her life on the line for him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181313-eT4mFPCZj1OZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181313
+      }
+    },
+    {
+      "id": "naoko-natsuki",
+      "name": "Naoko Natsuki",
+      "alt_names": [
+        "菜月菜穂子"
+      ],
+      "role": "supporting",
+      "description": "Subaru's mother.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b182087-yKqHVDQHUdbk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 182087
+      }
+    },
+    {
+      "id": "kenichi-natsuki",
+      "name": "Kenichi Natsuki",
+      "alt_names": [
+        "菜月賢一"
+      ],
+      "role": "supporting",
+      "description": "Subaru's father. Subaru idolized his father and wanted to be like him. However, after this proved to be impossible, he went through a downward spiral that ultimately resulted in him becoming a shut-in. \n\nKenichi is hard-working, diligent, and loved by all, which led to a huge amount of expectations being put on Subaru by his surroundings as he is \"Kenichi's Son\", which furthermore increased the burden on him. He was shown to be a very supportive dad which, although always trying to get his son to go out of the house or go back to school, never forgets to put his son's emotional state before it all through physical bonding and father-to-son talks.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b182088-Eq34LOGzm6tL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 182088
+      }
+    },
+    {
+      "id": "felt",
+      "name": "Felt",
+      "alt_names": [
+        "フェルト",
+        "Feruto"
+      ],
+      "role": "minor",
+      "description": "**Height:** 150 cm (4'11\")\n\nA thief that lives in the slums. Felt stole Emilia's insignia, hoping for quick, easy cash. Though Felt can usually handle her own, she does consider Rom to be like family.\n\n~!After being chosen by the insignia, she is forced to participate in the Royal Selection and is currently a candidate to become the 42nd King of Lugunica.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "14-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88574-Hau8t0GlMvhp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88574
+      }
+    },
+    {
+      "id": "reinhard-van-astrea",
+      "name": "Reinhard van Astrea",
+      "alt_names": [
+        "ラインハルト・ヴァン・アストレア",
+        "Kensei (剣聖)",
+        "Sword Saint",
+        "Knight Implacable"
+      ],
+      "role": "minor",
+      "description": "__Height__: 184 cm (6'0\")\n\nReinhard van Astrea is the current Sword Saint and a member of the Royal Guard, currently acting as [Felt](https://anilist.co/character/88574/Felt)'s knight. \n\nAs the Sword Saint and the Knight of the Royal Guard, Reinhard embodies chivalry and elegance, treating everyone with exceptional respect. He is fair, brave, and always acts in the name of justice, whether on duty or simply strolling through the Royal Capital.\n\nAs a knight, Reinhard only uses his sword when necessary, since, in addition to being a rule, his iron-clad rule is to not inflict pain to others if not absolutely necessary, be it a normal thug or a member of the Witch Cult.",
+      "metadata": {
+        "gender": "male",
+        "age": "19-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88577-oKKnibqGgSSD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88577
+      }
+    },
+    {
+      "id": "anastasia-hoshin",
+      "name": "Anastasia Hoshin",
+      "alt_names": [
+        "アナスタシア・ホーシン",
+        "Black Fox",
+        "Greedy Princess",
+        "Iron Plate Magistrate"
+      ],
+      "role": "minor",
+      "description": "Anastasia Hoshin is the head of the Hoshin Trading Company and a candidate to become the 42nd King of Lugnica. Her knight is Julius Juukulius.\n\nDespite her surname being \"Hoshin\", she's not directly related to Hoshin of the Wilderness. She chose the name because she was inspired by his legacy.",
+      "metadata": {
+        "gender": "female",
+        "age": "22-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b90177-K1XztcZqHl3c.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 90177
+      }
+    },
+    {
+      "id": "julius-euclius",
+      "name": "Julius Euclius",
+      "alt_names": [
+        "ユリウス・ユークリウス",
+        "Julius Juukulius",
+        "最優の騎士 (Saiyuu no Kishi)",
+        "Valuable Knight",
+        "ユーリ (Juli)"
+      ],
+      "role": "minor",
+      "description": "__Height__: 179 cm (5'10\")\n\nJulius Euclius is Anastasia Hoshin's knight and a member of the Royal Guard. Julius lived with his family at the Euclius House. After his father, Klein Euclius died, he started to live with his uncle Alviero and he started to take care of Julius and became his adoptive father.\n\nAs a member of Lugnica's nobility, Julius acts in a proper fashion, always having an air of nobility and conviction. He is also considerate and doesn't forget to show care toward others. He also shows a strict side, giving out accurate assessments of others whether they're good or bad, which is a result of his upbringing as an elite, and in actuality, he believes that he and others can do better than they currently are.\n\nJulius doesn't like those who forget their place, leading him to have bad relations with Subaru for a while. While both have apologized to each other after the battle with the Hakugei, Subaru told him he still hated him. Julius said he didn't intend to be friends. They both became very intimate very quickly during the planning and attacking the Witch Cult. In the end, Julius directly considered Subaru as his friend.",
+      "metadata": {
+        "gender": "male",
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b90183-LWx59kSa5Vjl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 90183
+      }
+    },
+    {
+      "id": "rigel-natsuki",
+      "name": "Rigel Natsuki",
+      "alt_names": [
+        "ナツキ・リゲル"
+      ],
+      "role": "minor",
+      "description": "Natsuki Rigel  is the non canon son of Natsuki Subaru and Rem.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205863-tQ5LTcgmG8ZC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205863
+      }
     }
   ],
-  "updated_at": "2025-12-22T17:56:10.535Z"
+  "updated_at": "2025-12-22T23:29:03.645Z"
 }

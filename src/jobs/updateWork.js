@@ -21,6 +21,12 @@ export class UpdateWorkJob {
     this.baseDir = path.resolve(options.baseDir || './data');
     this.updateCharacters = options.updateCharacters !== false; // true por padrão
     this.useEnrichment = options.useEnrichment || false;
+    this.delayBetweenPages = options.delayBetweenPages || 1000; // Delay entre páginas em ms
+    this.smartDelay = options.smartDelay || false;
+    this.baseDelay = options.baseDelay || 1000;
+    this.delayMultiplier = options.delayMultiplier || 500;
+    this.maxDelay = options.maxDelay || 10000;
+    this.anilistSafe = options.anilistSafe || false; // Flag para modo ultra-conservador
     this.enrichmentCollector = this.useEnrichment ? createEnrichmentCollector() : null;
     this.writer = createWriter(this.baseDir);
     this.cache = createWorkCache({ cacheFile: path.join(this.baseDir, 'work-cache.json') });
@@ -78,7 +84,13 @@ export class UpdateWorkJob {
 
     try {
       // Tenta buscar dados da API principal
-      const collector = this.createCollector(existingInfo.source, {});
+      const collector = this.createCollector(existingInfo.source, {
+        delayBetweenPages: this.delayBetweenPages,
+        smartDelay: this.smartDelay,
+        baseDelay: this.baseDelay,
+        delayMultiplier: this.delayMultiplier,
+        maxDelay: this.maxDelay
+      });
 
       // Adapta critérios baseado no tipo de fonte
       if (existingInfo.source.toLowerCase() === 'rawg') {
@@ -183,11 +195,6 @@ export class UpdateWorkJob {
           characters: result.characters ? result.characters.total : 0
         });
 
-        // Delay opcional
-        if (options.delayBetween) {
-          await new Promise(resolve => setTimeout(resolve, options.delayBetween));
-        }
-
       } catch (error) {
         logger.error(`Erro ao atualizar ${work.type}/${work.workId}: ${error.message}`);
         results.errors++;
@@ -197,6 +204,12 @@ export class UpdateWorkJob {
           success: false,
           error: error.message
         });
+      }
+
+      // Delay entre obras (sempre aplicado, independente de sucesso/erro)
+      if (options.delayBetween && options.delayBetween > 0) {
+        logger.info(`⏳ Aguardando ${options.delayBetween}ms antes da próxima obra...`);
+        await new Promise(resolve => setTimeout(resolve, options.delayBetween));
       }
     }
 
@@ -212,7 +225,10 @@ export class UpdateWorkJob {
   createCollector(source, options) {
     switch (source.toLowerCase()) {
       case 'anilist':
-        return createAniListCollector(options);
+        return createAniListCollector({
+          ...options,
+          anilistSafe: this.anilistSafe // Passar flag para configurações ultra-conservadoras
+        });
       case 'myanimelist':
       case 'mal':
         return createJikanCollector(options);
@@ -220,7 +236,10 @@ export class UpdateWorkJob {
         return createRawgCollector(options);
       default:
         // Fallback para AniList
-        return createAniListCollector(options);
+        return createAniListCollector({
+          ...options,
+          anilistSafe: this.anilistSafe
+        });
     }
   }
 

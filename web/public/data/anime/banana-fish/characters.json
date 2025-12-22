@@ -1,6 +1,6 @@
 {
   "work_id": "banana-fish",
-  "count": 25,
+  "count": 37,
   "characters": [
     {
       "id": "ash-lynx",
@@ -570,7 +570,267 @@
       "external_ids": {
         "anilist": 142158
       }
+    },
+    {
+      "id": "cain-blood",
+      "name": "Cain Blood",
+      "alt_names": [
+        "ケイン・ブラッド"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 192 cm\n\nThe Boss of African-American youth gang Black Sabbath. Referees Ash's fight with Arthur and later supports Ash and his gang in the war against the Corsican mafia.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142159-YUVFRb8Caj8S.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142159
+      }
+    },
+    {
+      "id": "marvin-crosby",
+      "name": "Marvin Crosby",
+      "alt_names": [
+        "マービン・クロスビー"
+      ],
+      "role": "supporting",
+      "description": "Works for Dino Golzine.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142160-Upr7bpfdG0PP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142160
+      }
+    },
+    {
+      "id": "yuen-tai-lao",
+      "name": "Yuen-Tai Lao",
+      "alt_names": [
+        "ラオ・イェン・タイ"
+      ],
+      "role": "supporting",
+      "description": "Lao Yen Tai is Sing's half-brother. ~!Though Sing forgives Ash Lynx for killing Shorter Wong, after being told about Banana Fish, Lao is not told the truth about Shorter's death and continues to distrust him and resents Sing's deference to Ash in the ongoing gang war.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142161-fJcn9Ha8s0Sa.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142161
+      }
+    },
+    {
+      "id": "abraham-dawson",
+      "name": "Abraham Dawson",
+      "alt_names": [
+        "エイブラハム・ドースン"
+      ],
+      "role": "supporting",
+      "description": "Abraham Dawson is the younger brother of Alexis, who defied his brother's wishes to destroy Banana Fish, and continues to develop and weaponize the drug for the Corsican mob into his adulthood. As a doctor during the Vietnam War, he tested Banana Fish on unknowing soldiers, including Griffin in Banana Fish. ~!He was later shot by Ash Lynx for experimenting on Shorter Wong.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142162-eVVyFFQ7Bm35.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142162
+      }
+    },
+    {
+      "id": "jennifer",
+      "name": "Jennifer",
+      "alt_names": [
+        "ジェニファ"
+      ],
+      "role": "supporting",
+      "description": "Lives with Jim Callenreese. She's the stepmom of Ash and Griffin.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142163-bSb57LElbM5g.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142163
+      }
+    },
+    {
+      "id": "antonio-jenkins",
+      "name": "Antonio Jenkins",
+      "alt_names": [
+        "ジェンキンズ"
+      ],
+      "role": "supporting",
+      "description": "He is a homicide detective.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142164-wi1YvR8d2bqu.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142164
+      }
+    },
+    {
+      "id": "jessica-randy",
+      "name": "Jessica Randy",
+      "alt_names": [
+        "ジェシカ・ランディ"
+      ],
+      "role": "supporting",
+      "description": "She is a journalist, as well as the ex-wife of Max and mother of Michael.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142165-n2TKHwvtpwPC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142165
+      }
+    },
+    {
+      "id": "george-scott",
+      "name": "George Scott",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "He acts as Ash Lynx's lawyer to set Ash free from jail through his connection with Max Lobo.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142166-7tNr1EA8wDvo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142166
+      }
+    },
+    {
+      "id": "bones",
+      "name": "Bones",
+      "alt_names": [
+        "ボーンズ"
+      ],
+      "role": "supporting",
+      "description": "Bones is a lieutenant in Ash's gang.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205479-YvlTHtxUcuLM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205479
+      }
+    },
+    {
+      "id": "thomas-holstock",
+      "name": "Thomas Holstock",
+      "alt_names": [
+        "Colonel Holstock"
+      ],
+      "role": "minor",
+      "description": "~!He was killed by Blanca.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142042-AQRE1qe9OYbu.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142042
+      }
+    },
+    {
+      "id": "mcmurphy",
+      "name": "McMurphy",
+      "alt_names": [],
+      "role": "minor",
+      "description": "McMurphy is a FBI agent.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142151-rcslFCLRkpX3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142151
+      }
+    },
+    {
+      "id": "the-fly",
+      "name": "The Fly",
+      "alt_names": [],
+      "role": "minor",
+      "description": "He is a supplier of black-market goods.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232661-RJxTORvZGPgS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 232661
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:22:50.405Z"
+  "updated_at": "2025-12-22T22:59:00.874Z"
 }

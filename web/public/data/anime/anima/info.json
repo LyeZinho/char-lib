@@ -1,0 +1,40 @@
+{
+  "id": "anima",
+  "type": "anime",
+  "title": "Anima",
+  "alt_titles": [
+    "アニマ"
+  ],
+  "source": "AniList",
+  "source_id": 13513,
+  "description": "ANIMA is a dance animation movie representing a human \"life\".\n\n(Source: Official Website)",
+  "metadata": {
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "startDate": "2005-02-15",
+    "endDate": "2005-02-15",
+    "genres": [
+      "Music"
+    ],
+    "averageScore": 47,
+    "popularity": 1095,
+    "episodes": 1
+  },
+  "images": [
+    {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b13513-nKslX1lJT5xf.png",
+      "type": "cover",
+      "source": "AniList"
+    }
+  ],
+  "external_ids": {
+    "anilist": 13513
+  },
+  "tags": [
+    "Dancing",
+    "Nudity"
+  ],
+  "updated_at": "2025-12-22T23:13:12.549Z",
+  "created_at": "2025-12-22T22:18:31.799Z",
+  "enriched": false
+}

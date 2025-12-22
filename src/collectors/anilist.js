@@ -10,10 +10,24 @@ export class AniListCollector {
   constructor(options = {}) {
     this.apiUrl = 'https://graphql.anilist.co';
     this.rateLimiter = new RateLimiter(
-      options.requestsPerMinute || 60, // Reduzido para 60 req/min para ser mais seguro
+      options.anilistSafe ? 5 : (options.requestsPerMinute || 10), // 5 req/min no modo safe
       60000
     );
     this.delayBetweenPages = options.delayBetweenPages || 1000; // Delay padrão de 1s
+    this.smartDelay = options.smartDelay || false;
+    this.baseDelay = options.baseDelay || 1000;
+    this.delayMultiplier = options.delayMultiplier || 500; // Multiplicador para delay inteligente
+    this.maxDelay = options.maxDelay || 10000; // Delay máximo
+    this.anilistSafe = options.anilistSafe || false;
+    this.lastRequestTime = null; // Para controlar delay mínimo entre requests
+  }
+
+  /**
+   * Método utilitário para delay
+   * @param {number} ms - Milissegundos para aguardar
+   */
+  delay(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
   }
 
   /**
@@ -24,6 +38,18 @@ export class AniListCollector {
    */
   async query(query, variables = {}) {
     return this.rateLimiter.execute(async () => {
+      // Delay mínimo obrigatório entre requests para evitar rate limits
+      const minDelay = this.anilistSafe ? 12000 : 2000; // 12s no modo safe, 2s normal
+      if (this.lastRequestTime) {
+        const timeSinceLast = Date.now() - this.lastRequestTime;
+        if (timeSinceLast < minDelay) {
+          const waitTime = minDelay - timeSinceLast;
+          console.log(`AniList: Aguardando ${waitTime}ms (delay mínimo entre requests${this.anilistSafe ? ' - SAFE MODE' : ''})`);
+          await this.delay(waitTime);
+        }
+      }
+      this.lastRequestTime = Date.now();
+
       return retryHttp(async () => {
         const response = await fetch(this.apiUrl, {
           method: 'POST',
@@ -133,6 +159,8 @@ export class AniListCollector {
     const allCharacters = [];
     let page = 1;
     let hasNextPage = true;
+    let totalCharacters = 0;
+    let currentDelay = this.delayBetweenPages;
 
     while (hasNextPage) {
       logger.progress(`Coletando página ${page}...`);
@@ -183,6 +211,17 @@ export class AniListCollector {
       allCharacters.push(...charactersData.edges);
 
       hasNextPage = charactersData.pageInfo.hasNextPage;
+
+      // Ajustar delay inteligente na primeira página
+      if (page === 1 && this.smartDelay) {
+        totalCharacters = charactersData.pageInfo.total;
+        currentDelay = Math.min(
+          this.maxDelay,
+          this.baseDelay + Math.floor((totalCharacters / 100) * this.delayMultiplier)
+        );
+        logger.info(`Delay inteligente ativado: ${totalCharacters} personagens, delay ajustado para ${currentDelay}ms por página`);
+      }
+
       page++;
 
       if (onProgress) {
@@ -195,7 +234,7 @@ export class AniListCollector {
 
       // Pequeno delay adicional entre páginas
       if (hasNextPage) {
-        await this.delay(this.delayBetweenPages);
+        await this.delay(currentDelay);
       }
     }
 

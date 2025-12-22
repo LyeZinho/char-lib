@@ -1,6 +1,6 @@
 {
   "work_id": "attack-on-titan-season-3",
-  "count": 25,
+  "count": 59,
   "characters": [
     {
       "id": "eren-yeager",
@@ -610,7 +610,797 @@
       "external_ids": {
         "anilist": 126849
       }
+    },
+    {
+      "id": "rod-reiss",
+      "name": "Rod Reiss",
+      "alt_names": [
+        "ロッド・レイス"
+      ],
+      "role": "supporting",
+      "description": "~!is the true king of humanity, currently masquerading as a noble living in Wall Sina. He is a member of the Reiss family and Historia's illegitimate father.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127360-UgSpq6e0DAYz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127360
+      }
+    },
+    {
+      "id": "traute-caven",
+      "name": "Traute Caven",
+      "alt_names": [
+        "トラウテ・カーフェン"
+      ],
+      "role": "supporting",
+      "description": "is the second in command of the Anti-Personnel Control Squad within the Military Police Brigade and is very loyal to her superior, Captain Kenny Ackerman.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127390-i6MfinoL2Lyf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127390
+      }
+    },
+    {
+      "id": "kenny-ackerman",
+      "name": "Kenny Ackerman",
+      "alt_names": [
+        "ケニー・アッカーマン",
+        "Kenny the Ripper"
+      ],
+      "role": "supporting",
+      "description": "__Affiliation:__ Military Police; Captain of Anti-Personnel Control Squad.\n__Relatives:__ [Kuchel Ackerman](https://anilist.co/character/127940/Kuchel-Ackerman) (Sister), [Unnamed Grandfather](https://anilist.co/character/128589/Kenny-no-Ojiisan), \n\nKenny Ackerman is a member of the Military Police Brigade's First Interior Squad and also the Anti-Personnel Control Squad. Decades prior, however, Kenny was known as an infamous serial killer that stalked victims in the capitol. \n\nDespite his dark field of work, Kenny appears to be rather jovial and takes pleasure in taunting his adversaries during battle. When fighting, he becomes animated and lively, often making a scene or otherwise throwing insults and witticisms. However, he also fought with control and was able to effortlessly sneak up on his targets when they least expected him. His preferred method of killing during his time as a serial killer was to slit the throats of his victims which earned him his infamous handle \"Kenny the Ripper\", and it was rumored that he murdered over 100 members of the Military Police Brigade. However, decades later his killings ceased and the terror that he once inspired dwindled into an Urban Legend. He eventually was found working under the Royal Government, the reasoning for his sudden shift in behavior being a mystery. Kenny is ultimately, despite his comical personality, very cold and calculated, sparing little emotional attachment or loyalty to anyone, with only a few exceptions.\n\n~!ㅤ\nHe notably shares the same bloodline as both [Levi](https://anilist.co/character/45627/Levi) and [Mikasa Ackerman](https://anilist.co/character/40881/Mikasa-Ackerman).!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127443-aVMXGOchpsvj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127443
+      }
+    },
+    {
+      "id": "flagel-reeves",
+      "name": "Flagel  Reeves",
+      "alt_names": [
+        "フレーゲル・リーブス "
+      ],
+      "role": "supporting",
+      "description": "Flegel Reeves is the son of Dimo Reeves",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127569-75UhiY7kpILW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127569
+      }
+    },
+    {
+      "id": "uri-reiss",
+      "name": "Uri Reiss",
+      "alt_names": [
+        "ウーリ・レイス"
+      ],
+      "role": "supporting",
+      "description": "the younger brother of Rod Reiss and the paternal uncle of Frieda Reiss.\n~!He was the true king of the Walls for some time until the year 842 and was Kenny Ackermann's best friend. He inherited the Founding Titan from his father, and passed it along with the crown to his niece, Frieda Reiss.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127570-b7zpa6DSq2iA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127570
+      }
+    },
+    {
+      "id": "alma",
+      "name": "Alma",
+      "alt_names": [
+        "アルマ"
+      ],
+      "role": "supporting",
+      "description": "Alma is the mother of Historia Reiss.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127571-CBRyLf65fmKr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127571
+      }
+    },
+    {
+      "id": "dimo-reeves",
+      "name": "Dimo Reeves",
+      "alt_names": [
+        "ディモ・リーブス"
+      ],
+      "role": "supporting",
+      "description": "Dimo Reeves is a merchant that leads the company that's named after him. He's stationed in Trost District.\n~!After the Battle of Trost, his company was assigned a mission to kidnap Eren and Historia by the Military Police Brigade.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127572-7jc4LF687Ifv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127572
+      }
+    },
+    {
+      "id": "moblit-berner",
+      "name": "Moblit Berner",
+      "alt_names": [
+        "モブリット・バーナー"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 176 cm (5'9\")\n__Affiliation:__ Survey Corps; Executive Officer, Fourth Squad.\n\nA veteran member of the Survey Corps and [Hange Zoe](https://anilist.co/character/71121/Hange-Zoe)'s second-in-command within the Survey Corps' Fourth Squad. He also serves as Hanji's assistant and messenger.\n\nHe comes across as an intelligent and responsible person, which may be the reason he was tasked to keep his overzealous and eccentric superior out of trouble. Much of the time, this leaves him in a state of near-panic, having to constantly remind Hange to be more careful or yanking them to safety. That he remains at Hange's side constantly suggests he is a loyal person, and that he cares deeply for his superior's safety, regardless of the stress involved with being under their command. He is also able to show signs of a serious nature when it comes to missions, going out of his way to investigate problems and put himself in danger before others.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127573-VSYSvQ1VK1c7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127573
+      }
+    },
+    {
+      "id": "frieda-reiss",
+      "name": "Frieda Reiss",
+      "alt_names": [
+        "フリーダ・レイス"
+      ],
+      "role": "supporting",
+      "description": "Frieda was Rod Reiss' eldest daughter and Historia's oldest half-sister. ~!She was the true queen of humanity from 842 to 845. She is known to appear in Eren and Historia's obtained memories. In his Titan form, Grisha invaded an underground cavern under the Reiss family chapel, where the family had gathered to pray. He battled Frieda and consumed her, thus gaining her powers and memories. He then slaughtered her mother and siblings, and finally destroyed the chapel. When Eren later eats Grisha, Frieda's memories are transferred to him along with Grisha's.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127624-mmQqGCYRW69r.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127624
+      }
+    },
+    {
+      "id": "abel",
+      "name": "Abel",
+      "alt_names": [
+        "ゴーグル",
+        "Goggles"
+      ],
+      "role": "supporting",
+      "description": "Goggles is a soldier in the Scout Regiment fourth squad under the command of Hange Zoë, who is noted for his trademark glasses, or \"goggles\". He participated in the 57th Exterior Scouting Mission and often accompanies higher ups, such as Hange and Levi, on serious missions.\n\n(Source: Shingeki no Kyojin Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127681-9Xhk8VzIuKQ4.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127681
+      }
+    },
+    {
+      "id": "djel-sannes",
+      "name": "Djel Sannes",
+      "alt_names": [
+        "ジェル・サネス"
+      ],
+      "role": "supporting",
+      "description": "Djel Sannes is a member of the Military Police Regiment and part of the First Interior Squad.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127702-qyCvQZuIUl1X.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127702
+      }
+    },
+    {
+      "id": "floch-forster",
+      "name": "Floch Forster",
+      "alt_names": [
+        "フロック・フォルスター"
+      ],
+      "role": "supporting",
+      "description": "Floch is a new recruit in the Survey Corps. He joined the Survey Corps during the two months between the attack at Orvud District and the return to Shiganshina District.\n\n~!After the rest of the Yeagerists are killed during the port battle, Floch hides on the ship to Marley. After shooting holes in the fuel tank of the flying boat, Floch is ultimately killed by Mikasa.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127703-qNIccR0yPZKu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127703
+      }
+    },
+    {
+      "id": "fritz",
+      "name": "Fritz",
+      "alt_names": [
+        "フリッツ"
+      ],
+      "role": "supporting",
+      "description": "He is the king of the wall.\n~!he was a puppet king who acted as a substitute for Rod Reiss, the real king at the time. He is arrested after the coup d'état.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129941-R8tUKp7o10Jr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129941
+      }
+    },
+    {
+      "id": "roger",
+      "name": "Roger",
+      "alt_names": [
+        "ロゲール"
+      ],
+      "role": "supporting",
+      "description": "An anime-original character who's a member of the Military Police Regiment and part of the First Interior Squad.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130628-h50fCRkomz4P.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130628
+      }
+    },
+    {
+      "id": "carsten",
+      "name": "Carsten",
+      "alt_names": [
+        "カルステン"
+      ],
+      "role": "supporting",
+      "description": "Occupation: Soldier\nRank: Captain \nAffiliation: Garrison Regiment\n\nThe captain in charge of the Garrison's forces in the Orvud District.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130629-c5ARuBsIxoPP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130629
+      }
+    },
+    {
+      "id": "harold",
+      "name": "Harold",
+      "alt_names": [
+        "ハロルド"
+      ],
+      "role": "supporting",
+      "description": "A team leader in the Scout Regiment.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130631-IbIEQ4cqGAdW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130631
+      }
+    },
+    {
+      "id": "dirk",
+      "name": "Dirk",
+      "alt_names": [
+        "ディルク"
+      ],
+      "role": "supporting",
+      "description": "A member of the Scout Regiment and a team leader during the mission to reclaim Wall Maria.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130635-YZUqeuGi0eAG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130635
+      }
+    },
+    {
+      "id": "roy",
+      "name": "Roy",
+      "alt_names": [
+        "ロイ"
+      ],
+      "role": "supporting",
+      "description": "As a veteran journalist, Roy has come to accept and conform to the restrictive nature of the monarchy, fearing retaliation for defiance.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130636-vO0Kv5crIyeD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130636
+      }
+    },
+    {
+      "id": "pierre",
+      "name": "Pierre",
+      "alt_names": [
+        "ピュレ"
+      ],
+      "role": "supporting",
+      "description": "As a rookie reporter, Pierre has not yet become jaded like his superior Roy. He is very bold in his reporting, unafraid of asking questions of Military Police officers that would otherwise be considered \"off-limits.\" He takes his job of reporting the truth very seriously, becoming frustrated when he is kept from printing news that would be scandalous for the government.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130637-MHrUGfiFvMKZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130637
+      }
+    },
+    {
+      "id": "klaus",
+      "name": "Klaus",
+      "alt_names": [
+        "クラース"
+      ],
+      "role": "supporting",
+      "description": "A member of the Scout Regiment and a team leader during the mission to retake Wall Maria.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130638-sAsP8fjERkJ1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130638
+      }
+    },
+    {
+      "id": "marlene",
+      "name": "Marlene",
+      "alt_names": [
+        "マレーネ"
+      ],
+      "role": "supporting",
+      "description": "A member of the Scout Regiment and a team leader during the mission to reclaim Wall Maria.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130639-Rs1VbE0r4hbM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130639
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "minor",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
+    },
+    {
+      "id": "kuchel-ackerman",
+      "name": "Kuchel Ackerman",
+      "alt_names": [
+        "クシェル・アッカーマン",
+        "Olympia"
+      ],
+      "role": "minor",
+      "description": "__Relatives:__ [Kenny Ackerman](https://anilist.co/character/127443) (Older Brother), [Unnamed Grandfather](https://anilist.co/character/128589/Kenny-no-Ojiisan)\n\nShe is a member of the Ackerman clan who ended up working in an underground brothel.\n\n~!ㅤ\nKuchel ended up getting impregnated by one of her clients. Despite her brother's advice, she decided to keep the child. She chose to name him [Levi.](https://anilist.co/character/45627/Levi)!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127940-CFONuPd1jFnC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127940
+      }
+    },
+    {
+      "id": "ralph",
+      "name": "Ralph",
+      "alt_names": [
+        "ラルフ"
+      ],
+      "role": "minor",
+      "description": "is a member of the Military Police Regiment and part of the First Interior Squad",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128148-hYx49Z4M34le.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128148
+      }
+    },
+    {
+      "id": "kenny-no-ojii-san",
+      "name": "Kenny no Ojii-san",
+      "alt_names": [
+        "ケニーのお祖父さん"
+      ],
+      "role": "minor",
+      "description": "__Relatives:__ [Kenny Ackerman](https://anilist.co/character/127443), [Kuchel Ackerman](https://anilist.co/character/127940) (Granddaughter) \n\nThe grandfather of [Kenny](https://anilist.co/character/127443) and [Kuchel Ackerman](https://anilist.co/character/127940). He was one of the few living remnants of the Ackerman bloodline with knowledge about the reasons for the persecution of his clan.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128589-KfikVjiBcz4w.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128589
+      }
+    },
+    {
+      "id": "aurille",
+      "name": "Aurille",
+      "alt_names": [
+        "アウリール"
+      ],
+      "role": "minor",
+      "description": "high ranking noble and member of King Fritz's assembly.\n~! After a successful uprising led by Scout Regiment commander Erwin Smith, Aurille is imprisoned by the military.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129943-oS7hSCDLVSPL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129943
+      }
+    },
+    {
+      "id": "gerald",
+      "name": "Gerald",
+      "alt_names": [
+        "ゲラルド"
+      ],
+      "role": "minor",
+      "description": "a member of the King Fritz's assembly.\n~!a selfish man, who values his own interest over that of the citizens of the Walls. As part of the ruling council, he was prepared to disband the Scout Regiment under false pretenses, to further secure his own position in ruling. When Dot Pyxis states that he finds killing humans to be madness, the aristocrat laughs at this notion, displaying his disregard for others in the process.!~\n~!After a successful uprising led by Scout Regiment commander Erwin Smith, he is imprisoned by the military.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129944-zDU0J2BvnK2h.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129944
+      }
+    },
+    {
+      "id": "roderich",
+      "name": "Roderich",
+      "alt_names": [
+        "ローデリヒ"
+      ],
+      "role": "minor",
+      "description": "He is garbed in the robes of the Order of the Walls and a member of the King Fritz's assembly.\n~!After a successful uprising led by Scout Regiment commander Erwin Smith, he is imprisoned by the military.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129946-TTuGGYlQrzqI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129946
+      }
+    },
+    {
+      "id": "deltoff",
+      "name": "Deltoff",
+      "alt_names": [
+        "デレトフ"
+      ],
+      "role": "minor",
+      "description": "A member of the King Fritz's assembly.\n~!After a successful uprising led by Scout Regiment commander Erwin Smith, he is imprisoned by the Military.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130060-0p2dKzw3E4V2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130060
+      }
+    },
+    {
+      "id": "waltz",
+      "name": "Waltz",
+      "alt_names": [
+        "ヴァルツ"
+      ],
+      "role": "minor",
+      "description": "He is a member of the Military Police Regiment who serves as Nile Dawk's aide",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131208-5499RN17GQAw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131208
+      }
+    },
+    {
+      "id": "sandra",
+      "name": "Sandra",
+      "alt_names": [
+        "サンドラ"
+      ],
+      "role": "minor",
+      "description": "She is a recruit  of the Survey Corps. She joined at some point after the crowning of Historia Reiss during the two months between the attack at Orvud District and the expedition returning to Shiganshina District, where she was assigned to Squad Klaus.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137143-FCDwN1ORNGsa.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137143
+      }
+    },
+    {
+      "id": "dimo-no-tsuma",
+      "name": "Dimo no Tsuma",
+      "alt_names": [
+        "ディモの妻"
+      ],
+      "role": "minor",
+      "description": "~!The wife and daughter of Dimo Reeves are seen mourning his death. When Erwin Smith approaches the body of Reeves, they tell him to stay away, believing it was the Survey Corps who are responsible for his death. Erwin responds by acknowledging Reeves' dedication to the people of Trost, and vowing to avenge Reeves' death!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137285-RnEPFH0SFeCC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137285
+      }
+    },
+    {
+      "id": "gordon",
+      "name": "Gordon",
+      "alt_names": [
+        "ゴードン"
+      ],
+      "role": "minor",
+      "description": "He is a recruit of the Scout Regiment. He joined the regiment after the crowning of Historia Reiss.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139759-QQmi6ItQfHQI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139759
+      }
+    },
+    {
+      "id": "abel-reiss",
+      "name": "Abel Reiss",
+      "alt_names": [
+        "エーベル・レイス"
+      ],
+      "role": "minor",
+      "description": "Abel Reiss was one of the younger daughters of [Rod Reiss](https://anilist.co/character/127360/Rod-Reiss) and his wife.",
+      "metadata": {
+        "gender": "female",
+        "age": "12",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b310145-jzhLPSp1UlEd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 310145
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:15:21.307Z"
+  "updated_at": "2025-12-22T22:58:41.769Z"
 }

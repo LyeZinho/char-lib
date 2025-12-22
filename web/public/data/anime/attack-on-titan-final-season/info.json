@@ -1,79 +1,22 @@
 {
-  "id": "attack-on-titan-final-season",
-  "type": "anime",
-  "title": "Attack on Titan Final Season",
-  "alt_titles": [
-    "Shingeki no Kyojin: The Final Season",
-    "進撃の巨人 The Final Season"
-  ],
+  "id": "untitled",
+  "type": "other",
+  "title": "Untitled",
+  "alt_titles": [],
   "source": "AniList",
-  "source_id": 110277,
+  "source_id": "attack-on-titan-final-season",
   "description": "It’s been four years since the Scout Regiment reached the shoreline, and the world looks different now. Things are heating up as the fate of the Scout Regiment—and the people of Paradis—are determined at last. However, Eren is missing. Will he reappear before age-old tensions between Marleyans and Eldians result in the war of all wars?\n\n(Source: Crunchyroll)",
   "metadata": {
-    "format": "TV",
-    "status": "FINISHED",
-    "startDate": "2020-12-07",
-    "endDate": "2021-03-29",
-    "genres": [
-      "Action",
-      "Drama",
-      "Fantasy",
-      "Mystery"
-    ],
-    "averageScore": 86,
-    "popularity": 571239,
-    "episodes": 16
+    "startDate": null,
+    "endDate": null,
+    "genres": []
   },
-  "images": [
-    {
-      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110277-sKUNXAsWMNFw.jpg",
-      "type": "cover",
-      "source": "AniList"
-    },
-    {
-      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110277-iuGn6F5bK1U1.jpg",
-      "type": "banner",
-      "source": "AniList"
-    }
-  ],
+  "images": [],
   "external_ids": {
-    "anilist": 110277
+    "anilist": "attack-on-titan-final-season"
   },
-  "tags": [
-    "War",
-    "Tragedy",
-    "Military",
-    "Kaiju",
-    "Revenge",
-    "Anti-Hero",
-    "Politics",
-    "Dystopian",
-    "Time Skip",
-    "Ensemble Cast",
-    "Survival",
-    "Shapeshifting",
-    "Male Protagonist",
-    "Swordplay",
-    "Henshin",
-    "Coastal",
-    "Steampunk",
-    "Shounen",
-    "Primarily Male Cast",
-    "Super Power",
-    "Primarily Adult Cast",
-    "Terrorism",
-    "Conspiracy",
-    "Espionage",
-    "Gore",
-    "Philosophy",
-    "CGI",
-    "Foreign",
-    "Body Horror",
-    "Memory Manipulation",
-    "Matriarchy",
-    "Guns"
-  ],
-  "updated_at": "2025-12-22T13:16:52.772Z",
+  "tags": [],
+  "updated_at": "2025-12-22T22:50:39.923Z",
   "created_at": "2025-12-22T12:50:02.479Z",
-  "enriched": false
+  "enriched": true
 }

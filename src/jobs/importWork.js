@@ -21,6 +21,11 @@ export class ImportWorkJob {
     this.type = options.type; // anime, manga, game, etc.
     this.enrich = options.enrich || false;
     this.delayBetweenPages = options.delayBetweenPages || 1000; // Delay entre páginas
+    this.smartDelay = options.smartDelay || false;
+    this.baseDelay = options.baseDelay || 1000;
+    this.delayMultiplier = options.delayMultiplier || 500;
+    this.maxDelay = options.maxDelay || 10000;
+    this.anilistSafe = options.anilistSafe || false; // Flag para modo ultra-conservador
     
     // Mapeamento de tipos para fontes padrão
     this.sourceMap = {
@@ -43,7 +48,11 @@ export class ImportWorkJob {
     // Instancia o collector baseado na fonte
     this.collector = this.createCollector(this.source, {
       ...options.collectorOptions,
-      delayBetweenPages: this.delayBetweenPages
+      delayBetweenPages: this.delayBetweenPages,
+      smartDelay: this.smartDelay,
+      baseDelay: this.baseDelay,
+      delayMultiplier: this.delayMultiplier,
+      maxDelay: this.maxDelay
     });
     
     // Instancia enrichment se necessário
@@ -78,7 +87,10 @@ export class ImportWorkJob {
   createCollector(source, options) {
     switch (source.toLowerCase()) {
       case 'anilist':
-        return createAniListCollector(options);
+        return createAniListCollector({
+          ...options,
+          anilistSafe: this.anilistSafe // Passar flag para configurações ultra-conservadoras
+        });
       case 'mal':
         return createJikanCollector(options);
       case 'rawg':

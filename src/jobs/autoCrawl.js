@@ -28,7 +28,13 @@ export class AutoCrawlJob {
     this.maxWorks = options.maxWorks || 50; // Máximo de obras por execução
     this.characterLimit = options.characterLimit || 50;
     this.delayBetweenImports = options.delayBetweenImports || 10000; // 10s entre imports
+    this.delayBetweenPages = options.delayBetweenPages || 1000; // Delay entre páginas
+    this.smartDelay = options.smartDelay || false;
+    this.baseDelay = options.baseDelay || 1000;
+    this.delayMultiplier = options.delayMultiplier || 500;
+    this.maxDelay = options.maxDelay || 10000;
     this.enrich = options.enrich || false;
+    this.anilistSafe = options.anilistSafe || false; // Flag para modo ultra-conservador
     this.stateFile = join(this.baseDir, `crawl-state-${this.type}.json`);
 
     // Mapeamento de tipos para fontes padrão
@@ -63,11 +69,25 @@ export class AutoCrawlJob {
   createCollector(source) {
     switch (source.toLowerCase()) {
       case 'anilist':
-        return createAniListCollector();
+        return createAniListCollector({
+          delayBetweenPages: this.delayBetweenPages,
+          smartDelay: this.smartDelay,
+          baseDelay: this.baseDelay,
+          delayMultiplier: this.delayMultiplier,
+          maxDelay: this.maxDelay,
+          anilistSafe: this.anilistSafe // Passar flag para configurações ultra-conservadoras
+        });
       case 'rawg':
         return createRawgCollector();
       default:
-        return createAniListCollector();
+        return createAniListCollector({
+          delayBetweenPages: this.delayBetweenPages,
+          smartDelay: this.smartDelay,
+          baseDelay: this.baseDelay,
+          delayMultiplier: this.delayMultiplier,
+          maxDelay: this.maxDelay,
+          anilistSafe: this.anilistSafe
+        });
     }
   }
 
@@ -239,7 +259,13 @@ export class AutoCrawlJob {
         baseDir: this.baseDir,
         source: this.source,
         type: work.type || this.type, // Usar tipo da obra ou padrão
-        enrich: this.enrich
+        enrich: this.enrich,
+        delayBetweenPages: this.delayBetweenPages,
+        smartDelay: this.smartDelay,
+        baseDelay: this.baseDelay,
+        delayMultiplier: this.delayMultiplier,
+        maxDelay: this.maxDelay,
+        anilistSafe: this.anilistSafe // Passar flag para configurações ultra-conservadoras
       });
 
       const result = await importJob.import({

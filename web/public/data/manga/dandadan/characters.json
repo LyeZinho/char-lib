@@ -1,6 +1,6 @@
 {
   "work_id": "dandadan",
-  "count": 25,
+  "count": 58,
   "characters": [
     {
       "id": "ken-takakura",
@@ -603,7 +603,772 @@
       "external_ids": {
         "anilist": 319531
       }
+    },
+    {
+      "id": "banga",
+      "name": "Banga",
+      "alt_names": [
+        "バンガ"
+      ],
+      "role": "supporting",
+      "description": "A Sumerian who is the adoptive mother of Vamola. She, along with her allies Tome and Aja, is a fighter against an unknown alien force that has invaded her planet.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b330190-JpHWVdjezS3u.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 330190
+      }
+    },
+    {
+      "id": "rin-sawaki",
+      "name": "Rin Sawaki",
+      "alt_names": [
+        "佐脇凛",
+        "Iinchou (委員長)",
+        "Class Rep",
+        "Class President"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b334676-kZTQOzSxBMsI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 334676
+      }
+    },
+    {
+      "id": "unji-zuma",
+      "name": "Unji Zuma",
+      "alt_names": [
+        "頭間雲児"
+      ],
+      "role": "supporting",
+      "description": "Unji Zuma is a student at Renjaku High School who is the leader of a gang of outcasts from other high schools.\n\n~!After acquiring Okarun's kintama from a mysterious person, Unji manages to gain spiritual powers and puts himself up to the task of beating the diorama board game Danmanra.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b335282-OmwSHhbSDWSI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 335282
+      }
+    },
+    {
+      "id": "muuko",
+      "name": "Muuko",
+      "alt_names": [
+        "ムーコ"
+      ],
+      "role": "supporting",
+      "description": "Best friend and classmate of Momo Ayase and Miko in high school.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b335284-AVWUUtwyoV11.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 335284
+      }
+    },
+    {
+      "id": "rokuro-serpo",
+      "name": "Rokuro Serpo",
+      "alt_names": [
+        "セルポ 6郎"
+      ],
+      "role": "supporting",
+      "description": "Rokuro is a Serpo who has been banished from his people after his alliance with Momo and her allies to stop the Kur Invasion, causing his mentality to differ from his clones. He currently works as a convenience store employee.\n\nWhile identical to his fellow Serpo, Rokuro is the only one among his clones who possesses eyes that makes him distinguishable. He also possesses two thick vertical scars that run down both sides of his face and across his eyes, inflicted on him after the Kur attacked the Serpo.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b347078-sda5DtI2LUeD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 347078
+      }
+    },
+    {
+      "id": "kouki-yukishiro",
+      "name": "Kouki Yukishiro",
+      "alt_names": [
+        "雪白幸姬"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b348017-9fDDNT2un4U1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 348017
+      }
+    },
+    {
+      "id": "chiquitita",
+      "name": "Chiquitita",
+      "alt_names": [
+        "チキチータ"
+      ],
+      "role": "supporting",
+      "description": "Chiquitita is [Dover Demon's](https://anilist.co/character/270705/) son",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270706-z5NPkyP3Xp54.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270706
+      }
+    },
+    {
+      "id": "joou-sensei",
+      "name": "Joou Sensei",
+      "alt_names": [
+        "女王先生",
+        "Queen Sensei"
+      ],
+      "role": "supporting",
+      "description": "Joou is the school nurse of Momo Ayase and Okarun's high school.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309822-pQv5mC0y7rrw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309822
+      }
+    },
+    {
+      "id": "miiko",
+      "name": "Miiko",
+      "alt_names": [
+        "ミーコ"
+      ],
+      "role": "supporting",
+      "description": "Miiko is the best friend and classmate of Momo Ayase and Kei in high school.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b335283-me8m6iQ9lCuh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 335283
+      }
+    },
+    {
+      "id": "mai-kawabanga",
+      "name": "Mai Kawabanga",
+      "alt_names": [
+        "川番河 舞",
+        "Onbusuman"
+      ],
+      "role": "supporting",
+      "description": "Mai Kawabanga was the childhood friend of [Rin Sawaki](https://anilist.co/character/334676/Rin-Sawaki) who had died from a car accident. Her spirit then went on to become an Onbusuman-type yokai that was bound to Rin until it was cleansed by the Family and became converted into a guardian spirit. Continuing to be by Rin's side, Mai makes it her goal to have her childhood friend become an idol.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b345779-IptZbA9Xa1bF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 345779
+      }
+    },
+    {
+      "id": "payase",
+      "name": "Payase",
+      "alt_names": [
+        "パヤセ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b351304-MReINmTuXXBo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 351304
+      }
+    },
+    {
+      "id": "kashimoto",
+      "name": "Kashimoto",
+      "alt_names": [
+        "カシモト"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b351305-ociajM4AX5m6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 351305
+      }
+    },
+    {
+      "id": "jumanuel-kitou",
+      "name": "Jumanuel Kitou",
+      "alt_names": [
+        "鬼頭ジュマニエル"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b352089-hxAoCoQYSkGY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 352089
+      }
+    },
+    {
+      "id": "juhiko-kitou",
+      "name": "Juhiko Kitou",
+      "alt_names": [
+        "鬼頭呪彦"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b352090-Lpbl5MQWldR4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 352090
+      }
+    },
+    {
+      "id": "juichi-kitou",
+      "name": "Juichi Kitou",
+      "alt_names": [
+        "鬼頭呪一"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b352091-FvVX4kT9KxDn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 352091
+      }
+    },
+    {
+      "id": "juria-kitou",
+      "name": "Juria Kitou",
+      "alt_names": [
+        "鬼頭呪里杏"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b352092-YQLnRfvDeEIS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 352092
+      }
+    },
+    {
+      "id": "jugemu-kitou",
+      "name": "Jugemu Kitou",
+      "alt_names": [
+        "鬼頭呪限無"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b352093-1oRMb7Zn5gGM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 352093
+      }
+    },
+    {
+      "id": "toshirou",
+      "name": "Toshirou",
+      "alt_names": [
+        "トシロウ"
+      ],
+      "role": "supporting",
+      "description": "Vocalist for the band *HAYASii*.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b372041-KjQEtZiHEbtt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 372041
+      }
+    },
+    {
+      "id": "hideji",
+      "name": "Hideji",
+      "alt_names": [
+        "ヒデジ"
+      ],
+      "role": "supporting",
+      "description": "Guitarist for the band *HAYASii*.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b372042-9M9OHH4WQV7m.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 372042
+      }
+    },
+    {
+      "id": "yoshikishi",
+      "name": "Yoshikishi",
+      "alt_names": [
+        "ヨシキチ"
+      ],
+      "role": "supporting",
+      "description": "Drummer for the band *HAYASii*.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b372043-90qMj8OxqEAc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 372043
+      }
+    },
+    {
+      "id": "patterson",
+      "name": "Patterson",
+      "alt_names": [
+        "パターソン",
+        "Patarson"
+      ],
+      "role": "supporting",
+      "description": "Bassist for the band *HAYASiii*.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b372044-oO7DuKqS7MnM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 372044
+      }
+    },
+    {
+      "id": "vanben",
+      "name": "Vanben",
+      "alt_names": [
+        "バンべン",
+        "Banben"
+      ],
+      "role": "supporting",
+      "description": "Vanben is short-tempered. He dislikes crude sounds being played in the music room that causes him and the other Music Room Portraits to appear and is driven to eliminate whoever is responsible.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b372579-Mbb3gIfU2mYS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 372579
+      }
+    },
+    {
+      "id": "tsubame",
+      "name": "Tsubame",
+      "alt_names": [
+        "つばめ"
+      ],
+      "role": "minor",
+      "description": "Aira's former closest friend at high school.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309812-cg7RUp03s2eG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309812
+      }
+    },
+    {
+      "id": "anzu",
+      "name": "Anzu",
+      "alt_names": [
+        "あんず"
+      ],
+      "role": "minor",
+      "description": "Aira's former closest friend at high school.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b348517-DEdul5jqUXWx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 348517
+      }
+    },
+    {
+      "id": "moe-moe-kikoho-waitress",
+      "name": "Moe Moe Kikoho Waitress",
+      "alt_names": [
+        "Moe Moe Kikoho Waitress"
+      ],
+      "role": "minor",
+      "description": "A waitress at Moe Moe Kikoho who supervised Momo on her first day of work.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309813-y5rWN4k7RtxW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309813
+      }
+    },
+    {
+      "id": "dansei-kyoushi",
+      "name": "Dansei Kyoushi",
+      "alt_names": [
+        "男性教師",
+        "Hageta (ハゲた)",
+        "Baldy"
+      ],
+      "role": "minor",
+      "description": "A staff member at the high school setting of Dandadan.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309814-7jMZROkmZemD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309814
+      }
+    },
+    {
+      "id": "momo-no-suuhai-sha",
+      "name": "Momo no Suuhai-sha",
+      "alt_names": [
+        "崇拝者",
+        "Momo's Admirer"
+      ],
+      "role": "minor",
+      "description": "A classmate in Okarun's class who was interested in Momo.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309815-YEdURcBxNEE7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309815
+      }
+    },
+    {
+      "id": "pompadour-sensei",
+      "name": "Pompadour Sensei",
+      "alt_names": [
+        "ポンパドール先生",
+        "Pompadour Teacher"
+      ],
+      "role": "minor",
+      "description": "A teacher at the high school setting of Dandadan.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309816-loKEKD5CEwGq.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309816
+      }
+    },
+    {
+      "id": "ririna",
+      "name": "Ririna",
+      "alt_names": [
+        "リリナ"
+      ],
+      "role": "minor",
+      "description": "Ririna is a student at the high school setting of Dandadan, as well as an employee at Moe Moe Kikoho.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309819-E9Ws5d85XmOD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309819
+      }
+    },
+    {
+      "id": "shouma",
+      "name": "Shouma",
+      "alt_names": [
+        "翔馬"
+      ],
+      "role": "minor",
+      "description": "Shouma is a young man who valued having a good reputation as an idol.",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309820-3yCom3Q8LNhw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309820
+      }
+    },
+    {
+      "id": "momo-no-motokare",
+      "name": "Momo no Motokare",
+      "alt_names": [
+        "モモの元彼",
+        "Momo's ex-boyfriend",
+        "Momo no Kareshi (モモの彼氏)"
+      ],
+      "role": "minor",
+      "description": "Momo's first and former boyfriend.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309821-PqbiIP2WUvZ0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309821
+      }
+    },
+    {
+      "id": "akusara-no-musume",
+      "name": "Akusara no Musume",
+      "alt_names": [
+        "アクさらの娘",
+        "Acrobatic Sarasara's Daughter"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b349653-c3RNCk1WxufX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 349653
+      }
+    },
+    {
+      "id": "tsuru-chan-junsa",
+      "name": "Tsuru-chan Junsa",
+      "alt_names": [
+        "つるちゃん巡査",
+        "Officer Tsuu"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b368491-Qp3jBALib4YM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 368491
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:29:48.339Z"
+  "updated_at": "2025-12-22T22:10:38.257Z"
 }

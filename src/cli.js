@@ -68,6 +68,10 @@ program
   .option('--skip-characters', 'Importar apenas informações da obra')
   .option('--limit <number>', 'Limite de personagens/criadores', parseInt)
   .option('--delay <ms>', 'Delay entre páginas em ms (padrão: 1000)', parseInt)
+  .option('--smart-delay', 'Usar delay inteligente baseado no número de personagens')
+  .option('--base-delay <number>', 'Delay base para smart delay (ms)', parseInt, 10000)
+  .option('--delay-multiplier <number>', 'Multiplicador para smart delay', parseInt, 50)
+  .option('--max-delay <number>', 'Delay máximo para smart delay (ms)', parseInt, 30000)
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (type, search, options) => {
     try {
@@ -84,7 +88,11 @@ program
         baseDir: options.baseDir,
         source: options.source,
         type: type, // Passa o tipo para auto-detectar fonte
-        delayBetweenPages: options.delay || 1000
+        delayBetweenPages: options.delay || 1000,
+        smartDelay: options.smartDelay,
+        baseDelay: options.baseDelay,
+        delayMultiplier: options.delayMultiplier,
+        maxDelay: options.maxDelay
       });
       
       const result = await job.import(criteria, {
@@ -103,50 +111,6 @@ program
       }
       
       console.log(`   Duração: ${result.duration}s`);
-
-    } catch (error) {
-      logger.error(`Erro: ${error.message}`);
-      process.exit(1);
-    }
-  });
-
-/**
- * Comando: validate
- * Valida arquivos JSON contra schemas
- */
-program
-  .command('validate')
-  .description('Valida arquivos JSON contra schemas')
-  .argument('[type]', 'Tipo da obra')
-  .argument('[workId]', 'ID da obra')
-  .option('--base-dir <dir>', 'Diretório base dos dados', './data')
-  .action(async (type, workId, options) => {
-    try {
-      const validator = await createValidator();
-
-      if (type && workId) {
-        // Validar obra específica
-        logger.info(`Validando: ${type}/${workId}`);
-        
-        const result = await validator.validateWork(type, workId, options.baseDir);
-        
-        if (result.valid) {
-          logger.success('✅ Validação passou!');
-        } else {
-          logger.error('❌ Erros encontrados:');
-          for (const err of result.errors) {
-            console.log(`\n${err.file}:`);
-            err.errors.forEach(e => console.log(`  - ${e}`));
-          }
-          process.exit(1);
-        }
-      } else {
-        logger.info('Validação de schemas carregada com sucesso');
-        console.log('\nSchemas disponíveis:');
-        console.log('  - work');
-        console.log('  - character');
-        console.log('  - characters_collection');
-      }
 
     } catch (error) {
       logger.error(`Erro: ${error.message}`);
@@ -330,7 +294,12 @@ program
   .option('--type <type>', 'Tipo de obra (anime, manga)', 'anime')
   .option('--max-works <number>', 'Máximo de obras por execução', parseInt, 10)
   .option('--character-limit <number>', 'Limite de personagens por obra', parseInt, 50)
-  .option('--delay <number>', 'Delay entre importações (ms)', parseInt, 10000)
+  .option('--delay <number>', 'Delay entre importações (ms)', parseInt, 30000)
+  .option('--page-delay <number>', 'Delay entre páginas de personagens (ms)', parseInt, 10000)
+  .option('--smart-delay', 'Usar delay inteligente baseado no número de personagens')
+  .option('--base-delay <number>', 'Delay base para smart delay (ms)', parseInt, 10000)
+  .option('--delay-multiplier <number>', 'Multiplicador para smart delay', parseInt, 50)
+  .option('--max-delay <number>', 'Delay máximo para smart delay (ms)', parseInt, 30000)
   .option('--continue', 'Continuar da fila existente')
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (options) => {
@@ -346,7 +315,12 @@ program
         type: options.type,
         maxWorks: options.maxWorks,
         characterLimit: options.characterLimit,
-        delayBetweenImports: options.delay
+        delayBetweenImports: options.delay,
+        delayBetweenPages: options.pageDelay,
+        smartDelay: options.smartDelay,
+        baseDelay: options.baseDelay,
+        delayMultiplier: options.delayMultiplier,
+        maxDelay: options.maxDelay
       });
 
       const report = await crawlJob.crawl({
@@ -499,9 +473,15 @@ program
   .option('--type <type>', 'Tipo de obra (anime, manga)', 'anime')
   .option('--max-works <number>', 'Máximo de obras por ciclo', parseInt, 5)
   .option('--character-limit <number>', 'Limite de personagens por obra', parseInt, 25)
-  .option('--delay <number>', 'Delay entre importações (ms)', 15000)
+  .option('--delay <number>', 'Delay entre importações (ms)', 30000)
+  .option('--page-delay <number>', 'Delay entre páginas de personagens (ms)', parseInt, 10000)
+  .option('--smart-delay', 'Usar delay inteligente baseado no número de personagens')
+  .option('--base-delay <number>', 'Delay base para smart delay (ms)', parseInt, 10000)
+  .option('--delay-multiplier <number>', 'Multiplicador para smart delay', parseInt, 50)
+  .option('--max-delay <number>', 'Delay máximo para smart delay (ms)', parseInt, 30000)
   .option('--max-total <number>', 'Limite total de obras (0 = infinito)', parseInt, 0)
   .option('--enrich', 'Habilitar enrichment como fallback para rate limits', true)
+  .option('--anilist-safe', 'Configurações ultra-conservadoras para AniList (5 req/min, delays altos)')
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (options) => {
     try {
@@ -511,8 +491,21 @@ program
         process.exit(1);
       }
 
+      // Aplicar configurações ultra-conservadoras se --anilist-safe
+      if (options.anilistSafe) {
+        logger.info('🛡️ Modo AniList Safe ativado - configurações ultra-conservadoras');
+        options.maxWorks = Math.min(options.maxWorks, 3); // Máximo 3 obras por ciclo
+        options.characterLimit = Math.min(options.characterLimit, 15); // Máximo 15 personagens
+        options.delay = 240000; // 4 minutos entre importações
+        options.pageDelay = 60000; // 1 minuto entre páginas
+        options.smartDelay = true;
+        options.baseDelay = 60000; // 1 minuto base
+        options.delayMultiplier = 200; // Multiplicador muito alto
+        options.maxDelay = 300000; // 5 minutos máximo
+      }
+
       logger.info('🤖 Iniciando AutoCraw contínuo...');
-      logger.info(`📊 Config: type=${options.type}, max-works=${options.maxWorks}, delay=${options.delay}ms, enrich=${options.enrich}`);
+      logger.info(`📊 Config: type=${options.type}, max-works=${options.maxWorks}, delay=${options.delay}ms, enrich=${options.enrich}, safe=${options.anilistSafe ? 'sim' : 'não'}`);
 
       const crawlJob = createAutoCrawlJob({
         baseDir: options.baseDir,
@@ -520,7 +513,13 @@ program
         maxWorks: options.maxWorks,
         characterLimit: options.characterLimit,
         delayBetweenImports: parseInt(options.delay) || 15000,
-        enrich: options.enrich
+        delayBetweenPages: options.pageDelay,
+        smartDelay: options.smartDelay,
+        baseDelay: options.baseDelay,
+        delayMultiplier: options.delayMultiplier,
+        maxDelay: options.maxDelay,
+        enrich: options.enrich,
+        anilistSafe: options.anilistSafe // Passar flag para o job
       });
 
       let totalProcessed = 0;
@@ -578,14 +577,37 @@ program
   .description('Atualiza dados de obras já importadas')
   .option('--no-characters', 'Não atualizar personagens (apenas info da obra)')
   .option('--enrich', 'Usar enrichment com DuckDuckGo/wikis em caso de rate limit')
-  .option('--delay <number>', 'Delay entre atualizações (ms)', parseInt, 2000)
+  .option('--delay <number>', 'Delay entre atualizações (ms)', parseInt, 30000)
+  .option('--page-delay <number>', 'Delay entre páginas de personagens (ms)', parseInt, 10000)
+  .option('--smart-delay', 'Usar delay inteligente baseado no número de personagens')
+  .option('--base-delay <number>', 'Delay base para smart delay (ms)', parseInt, 10000)
+  .option('--delay-multiplier <number>', 'Multiplicador para smart delay', parseInt, 50)
+  .option('--max-delay <number>', 'Delay máximo para smart delay (ms)', parseInt, 30000)
+  .option('--anilist-safe', 'Configurações ultra-conservadoras para AniList (5 req/min, delays altos)')
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (options) => {
     try {
+      // Aplicar configurações ultra-conservadoras se --anilist-safe
+      if (options.anilistSafe) {
+        logger.info('🛡️ Modo AniList Safe ativado - configurações ultra-conservadoras');
+        options.delay = 120000; // 2 minutos entre obras
+        options.pageDelay = 30000; // 30s entre páginas
+        options.smartDelay = true;
+        options.baseDelay = 30000; // 30s base
+        options.delayMultiplier = 100; // Multiplicador alto
+        options.maxDelay = 120000; // 2 minutos máximo
+      }
+
       const updateJob = createUpdateJob({
         baseDir: options.baseDir,
         updateCharacters: options.characters !== false, // true por padrão, false se --no-characters
-        useEnrichment: options.enrich
+        useEnrichment: options.enrich,
+        delayBetweenPages: options.pageDelay,
+        smartDelay: options.smartDelay,
+        baseDelay: options.baseDelay,
+        delayMultiplier: options.delayMultiplier,
+        maxDelay: options.maxDelay,
+        anilistSafe: options.anilistSafe // Passar flag para o job
       });
 
       logger.info(`🔄 Iniciando atualização de obras existentes... (personagens: ${options.characters === false ? 'não' : 'sim'}, enrichment: ${options.enrich ? 'sim' : 'não'})`);
@@ -766,6 +788,62 @@ program
   });
 
 /**
+ * Comando: validate
+ * Valida dados contra schemas JSON
+ */
+program
+  .command('validate')
+  .description('Valida dados contra schemas JSON')
+  .option('--type <type>', 'Tipo de obra (anime, manga, game)')
+  .option('--work <workId>', 'ID da obra específica para validar')
+  .option('--base-dir <dir>', 'Diretório base dos dados', './data')
+  .action(async (options) => {
+    try {
+      console.log('⏳ Carregando validador...\n');
+      const validator = await createValidator();
+      console.log('✅ Validador carregado!\n');
+      
+      if (options.work && options.type) {
+        // Validar obra específica
+        console.log(`✅ Validando ${options.type}/${options.work}...\n`);
+        
+        const result = await validator.validateWork(options.type, options.work, options.baseDir);
+        
+        if (result.valid) {
+          console.log('✅ Dados válidos!\n');
+        } else {
+          console.log('❌ Erros encontrados:\n');
+          for (const err of result.errors) {
+            console.log(`${err.file}:`);
+            err.errors.forEach(e => console.log(`  - ${e}`));
+          }
+          console.log();
+        }
+      } else {
+        // Validar tudo
+        console.log('✅ Validando todos os dados...\n');
+        
+        const result = await validator.validateAll(options.baseDir);
+        
+        if (result.valid) {
+          console.log('✅ Todos os dados são válidos!\n');
+        } else {
+          console.log('❌ Erros encontrados:\n');
+          for (const err of result.errors) {
+            console.log(`${err.file}:`);
+            err.errors.forEach(e => console.log(`  - ${e}`));
+          }
+          console.log();
+        }
+      }
+
+    } catch (error) {
+      logger.error(`Erro: ${error.message}`);
+      process.exit(1);
+    }
+  });
+
+/**
  * Comando: interactive
  * Interface interativa (TUI) para todas as operações
  */
@@ -781,14 +859,62 @@ program
 program.parse();
 
 /**
+ * Menu de scripts úteis
+ */
+async function handleScriptsMenu() {
+  console.log('\n🛠️ Scripts Úteis\n');
+  
+  const { script } = await inquirer.prompt([
+    {
+      type: 'list',
+      name: 'script',
+      message: 'Qual script deseja executar?',
+      choices: [
+        { name: '📊 Gerar Índices (generate-indexes)', value: 'generate-indexes' },
+        { name: '🎮 Importar Jogos (import:game)', value: 'import-game' },
+        { name: '🤖 Exemplo de Crawling (crawl-example)', value: 'crawl-example' }
+      ]
+    }
+  ]);
+  
+  console.log(`\n⏳ Executando: npm run ${script}\n`);
+  
+  try {
+    const { spawn } = await import('child_process');
+    
+    const command = script === 'import-game' ? 'npm run import:game' : `npm run ${script}`;
+    
+    const child = spawn('bash', ['-c', command], {
+      stdio: 'inherit',
+      cwd: process.cwd()
+    });
+    
+    await new Promise((resolve, reject) => {
+      child.on('close', (code) => {
+        if (code === 0) {
+          resolve();
+        } else {
+          reject(new Error(`Script falhou com código ${code}`));
+        }
+      });
+      child.on('error', reject);
+    });
+    
+    console.log('\n✅ Script executado com sucesso!\n');
+  } catch (error) {
+    console.error(`\n❌ Erro ao executar script: ${error.message}\n`);
+  }
+}
+
+/**
  * Inicia o modo interativo (TUI)
  */
 async function startInteractiveMode() {
   console.clear();
   
   console.log('╔══════════════════════════════════════════════════════════════╗');
-  console.log('║                    📚 CharLib - TUI                    ║');
-  console.log('║            Database de Personagens Interativa            ║');
+  console.log('║                    CharLib                                   ║');
+  console.log('║            Database de Personagens Interativa                ║');
   console.log('╚══════════════════════════════════════════════════════════════╝\n');
   
   let continuar = true;
@@ -805,8 +931,11 @@ async function startInteractiveMode() {
           { name: '📊 Ver Estatísticas', value: 'stats' },
           { name: '🔄 Atualizar Dados', value: 'update' },
           { name: '🤖 Auto-Crawling', value: 'crawl' },
+          { name: '📋 Listar Obras', value: 'list' },
           { name: '✅ Validar Dados', value: 'validate' },
+          { name: '💾 Gerenciar Cache', value: 'cache' },
           { name: '🚀 Deploy Web', value: 'deploy' },
+          { name: '🛠️ Scripts Úteis', value: 'scripts' },
           new inquirer.Separator(),
           { name: '❌ Sair', value: 'exit' }
         ]
@@ -830,11 +959,20 @@ async function startInteractiveMode() {
         case 'crawl':
           await handleCrawlingMenu();
           break;
+        case 'list':
+          await handleListMenu();
+          break;
         case 'validate':
           await handleValidateMenu();
           break;
+        case 'cache':
+          await handleCacheMenu();
+          break;
         case 'deploy':
           await handleDeployMenu();
+          break;
+        case 'scripts':
+          await handleScriptsMenu();
           break;
         case 'exit':
           continuar = false;
@@ -851,10 +989,10 @@ async function startInteractiveMode() {
           }
         ]);
         console.clear();
-        console.log('╔══════════════════════════════════════════════════════════════╗');
-        console.log('║                    📚 CharLib - TUI                    ║');
-        console.log('║            Database de Personagens Interativa            ║');
-        console.log('╚══════════════════════════════════════════════════════════════╝\n');
+  console.log('╔══════════════════════════════════════════════════════════════╗');
+  console.log('║                    CharLib                                   ║');
+  console.log('║            Database de Personagens Interativa                ║');
+  console.log('╚══════════════════════════════════════════════════════════════╝\n');
       }
     } catch (error) {
       console.error(`\n❌ Erro: ${error.message}\n`);
@@ -1025,16 +1163,132 @@ async function handleStatsMenu() {
  */
 async function handleUpdateMenu() {
   console.log('\n🔄 Atualizar Dados\n');
-  console.log('⏳ Atualizando todas as obras...\n');
   
-  const job = createUpdateJob({ baseDir: './data' });
-  const result = await job.updateAll();
+  const answers = await inquirer.prompt([
+    {
+      type: 'confirm',
+      name: 'noCharacters',
+      message: 'Não atualizar personagens (apenas info da obra)?',
+      default: false
+    },
+    {
+      type: 'confirm',
+      name: 'enrich',
+      message: 'Usar enrichment com DuckDuckGo/wikis em caso de rate limit?',
+      default: false
+    },
+    {
+      type: 'confirm',
+      name: 'anilistSafe',
+      message: '🛡️ Usar configurações ultra-conservadoras para AniList (5 req/min, delays altos)?',
+      default: false
+    },
+    {
+      type: 'confirm',
+      name: 'smartDelay',
+      message: 'Usar delay inteligente baseado no número de personagens?',
+      default: false,
+      when: (answers) => !answers.anilistSafe
+    },
+    {
+      type: 'input',
+      name: 'delay',
+      message: 'Delay entre atualizações (ms):',
+      default: '2000',
+      filter: (input) => parseInt(input)
+    },
+    {
+      type: 'input',
+      name: 'pageDelay',
+      message: 'Delay entre páginas de personagens (ms):',
+      default: '1000',
+      filter: (input) => parseInt(input),
+      when: (answers) => !answers.smartDelay
+    },
+    {
+      type: 'input',
+      name: 'baseDelay',
+      message: 'Delay base para smart delay (ms):',
+      default: '1000',
+      filter: (input) => parseInt(input),
+      when: (answers) => answers.smartDelay
+    },
+    {
+      type: 'input',
+      name: 'delayMultiplier',
+      message: 'Multiplicador para smart delay:',
+      default: '50',
+      filter: (input) => parseInt(input),
+      when: (answers) => answers.smartDelay
+    },
+    {
+      type: 'input',
+      name: 'maxDelay',
+      message: 'Delay máximo para smart delay (ms):',
+      default: '10000',
+      filter: (input) => parseInt(input),
+      when: (answers) => answers.smartDelay
+    }
+  ]);
+  
+  console.log('\n⏳ Atualizando todas as obras...\n');
+  
+  // Aplicar configurações ultra-conservadoras se --anilist-safe
+  let updateOptions = {
+    baseDir: './data',
+    updateCharacters: !answers.noCharacters,
+    useEnrichment: answers.enrich,
+    delayBetweenPages: answers.pageDelay || answers.baseDelay,
+    smartDelay: answers.smartDelay,
+    baseDelay: answers.baseDelay,
+    delayMultiplier: answers.delayMultiplier,
+    maxDelay: answers.maxDelay
+  };
+  
+  if (answers.anilistSafe) {
+    console.log('🛡️ Modo AniList Safe ativado - configurações ultra-conservadoras');
+    updateOptions = {
+      ...updateOptions,
+      delayBetweenPages: 30000, // 30s entre páginas
+      smartDelay: true,
+      baseDelay: 30000, // 30s base
+      delayMultiplier: 100, // Multiplicador alto
+      maxDelay: 120000, // 2 minutos máximo
+      anilistSafe: true
+    };
+  }
+  
+  const job = createUpdateJob(updateOptions);
+  
+  let updateAllOptions = {
+    delayBetween: answers.delay
+  };
+  
+  if (answers.anilistSafe) {
+    updateAllOptions.delayBetween = 120000; // 2 minutos entre obras
+  }
+  
+  const result = await job.updateAll(updateAllOptions);
   
   console.log('\n✅ Atualização concluída!');
-  console.log(`Processadas: ${result.processed}`);
+  console.log(`Total de obras: ${result.total}`);
   console.log(`Atualizadas: ${result.updated}`);
   console.log(`Erros: ${result.errors}`);
-  console.log(`Duração: ${result.duration}s\n`);
+  console.log(`Puladas: ${result.skipped}`);
+  console.log(`Duração: ${result.duration}s`);
+  
+  if (result.details.length > 0) {
+    console.log('\n📋 Detalhes:');
+    for (const detail of result.details.slice(0, 5)) { // Mostra primeiras 5
+      const status = detail.success ? '✅' : '❌';
+      const chars = detail.characters ? ` (${detail.characters} chars)` : '';
+      console.log(`   ${status} ${detail.type}/${detail.workId}${chars}`);
+    }
+    if (result.details.length > 5) {
+      console.log(`   ... e mais ${result.details.length - 5} obras`);
+    }
+  }
+  console.log();
 }
 
 /**
@@ -1043,45 +1297,42 @@ async function handleUpdateMenu() {
 async function handleCrawlingMenu() {
   console.log('\n🤖 Auto-Crawling\n');
   
-  const answers = await inquirer.prompt([
+  const { crawlAction } = await inquirer.prompt([
     {
       type: 'list',
-      name: 'type',
-      message: 'Tipo:',
-      choices: ['anime', 'manga'],
-      default: 'anime'
-    },
-    {
-      type: 'input',
-      name: 'maxWorks',
-      message: 'Máximo de obras:',
-      default: '10',
-      filter: (input) => parseInt(input)
-    },
-    {
-      type: 'input',
-      name: 'limit',
-      message: 'Limite de personagens por obra:',
-      default: '25',
-      filter: (input) => parseInt(input)
+      name: 'crawlAction',
+      message: 'O que deseja fazer?',
+      choices: [
+        { name: '🚀 Executar Crawling', value: 'crawl' },
+        { name: '📊 Ver Status', value: 'status' },
+        { name: '📋 Listar Processadas', value: 'list' },
+        { name: '🧹 Limpar Fila', value: 'clear' },
+        { name: '➕ Aumentar Fila', value: 'grow' },
+        { name: '🔄 AutoCraw Contínuo', value: 'autocraw' }
+      ]
     }
   ]);
   
-  console.log('\n⏳ Iniciando crawling...\n');
-  
-  const job = createAutoCrawlJob({
-    baseDir: './data',
-    maxWorks: answers.maxWorks,
-    characterLimit: answers.limit,
-    type: answers.type
-  });
-  
-  const report = await job.crawl();
-  
-  console.log('\n✅ Crawling concluído!');
-  console.log(`Processadas: ${report.processed}`);
-  console.log(`Novas: ${report.new}`);
-  console.log(`Erros: ${report.errors}\n`);
+  switch (crawlAction) {
+    case 'crawl':
+      await handleCrawlExecute();
+      break;
+    case 'status':
+      await handleCrawlStatus();
+      break;
+    case 'list':
+      await handleCrawlList();
+      break;
+    case 'clear':
+      await handleCrawlClear();
+      break;
+    case 'grow':
+      await handleCrawlGrow();
+      break;
+    case 'autocraw':
+      await handleAutoCraw();
+      break;
+  }
 }
 
 /**
@@ -1121,4 +1372,610 @@ async function handleDeployMenu() {
   
   console.log('\n✅ Deploy concluído!');
   console.log(`Dados atualizados em: ${publicDataDir}\n`);
+}
+
+/**
+ * Executar crawling básico
+ */
+async function handleCrawlExecute() {
+  console.log('\n🚀 Executar Crawling\n');
+  
+  const answers = await inquirer.prompt([
+    {
+      type: 'list',
+      name: 'type',
+      message: 'Tipo:',
+      choices: ['anime', 'manga'],
+      default: 'anime'
+    },
+    {
+      type: 'input',
+      name: 'maxWorks',
+      message: 'Máximo de obras:',
+      default: '10',
+      filter: (input) => parseInt(input)
+    },
+    {
+      type: 'input',
+      name: 'limit',
+      message: 'Limite de personagens por obra:',
+      default: '25',
+      filter: (input) => parseInt(input)
+    },
+    {
+      type: 'confirm',
+      name: 'smartDelay',
+      message: 'Usar delay inteligente baseado no número de personagens?',
+      default: false
+    },
+    {
+      type: 'input',
+      name: 'pageDelay',
+      message: 'Delay entre páginas de personagens (ms):',
+      default: '1000',
+      filter: (input) => parseInt(input),
+      when: (answers) => !answers.smartDelay
+    },
+    {
+      type: 'input',
+      name: 'baseDelay',
+      message: 'Delay base para smart delay (ms):',
+      default: '1000',
+      filter: (input) => parseInt(input),
+      when: (answers) => answers.smartDelay
+    },
+    {
+      type: 'input',
+      name: 'delayMultiplier',
+      message: 'Multiplicador para smart delay:',
+      default: '50',
+      filter: (input) => parseInt(input),
+      when: (answers) => answers.smartDelay
+    },
+    {
+      type: 'input',
+      name: 'maxDelay',
+      message: 'Delay máximo para smart delay (ms):',
+      default: '10000',
+      filter: (input) => parseInt(input),
+      when: (answers) => answers.smartDelay
+    },
+    {
+      type: 'confirm',
+      name: 'continue',
+      message: 'Continuar da fila existente?',
+      default: false
+    }
+  ]);
+  
+  console.log('\n⏳ Iniciando crawling...\n');
+  
+  const job = createAutoCrawlJob({
+    baseDir: './data',
+    maxWorks: answers.maxWorks,
+    characterLimit: answers.limit,
+    delayBetweenPages: answers.pageDelay || answers.baseDelay,
+    smartDelay: answers.smartDelay,
+    baseDelay: answers.baseDelay,
+    delayMultiplier: answers.delayMultiplier,
+    maxDelay: answers.maxDelay,
+    type: answers.type
+  });
+  
+  const report = await job.crawl({
+    maxWorks: answers.maxWorks,
+    continueFromQueue: answers.continue
+  });
+  
+  console.log('\n✅ Crawling concluído!');
+  console.log(`Tipo: ${answers.type}`);
+  console.log(`Processadas: ${report.processed}`);
+  console.log(`Puladas: ${report.skipped}`);
+  console.log(`Restantes na fila: ${report.remaining}`);
+  console.log(`Total acumulado: ${report.totalProcessed} obras, ${report.totalCharacters} personagens\n`);
+}
+
+/**
+ * Ver status do crawling
+ */
+async function handleCrawlStatus() {
+  console.log('\n📊 Status do Crawling\n');
+  
+  const { type } = await inquirer.prompt([
+    {
+      type: 'list',
+      name: 'type',
+      message: 'Tipo:',
+      choices: ['anime', 'manga'],
+      default: 'anime'
+    }
+  ]);
+  
+  console.log('\n⏳ Carregando status...\n');
+  
+  const job = createAutoCrawlJob({ 
+    baseDir: './data',
+    type: type
+  });
+  
+  await job.showStatus();
+}
+
+/**
+ * Listar obras processadas
+ */
+async function handleCrawlList() {
+  console.log('\n📋 Listar Processadas\n');
+  
+  const answers = await inquirer.prompt([
+    {
+      type: 'list',
+      name: 'type',
+      message: 'Tipo:',
+      choices: ['anime', 'manga'],
+      default: 'anime'
+    },
+    {
+      type: 'input',
+      name: 'limit',
+      message: 'Limite de resultados:',
+      default: '20',
+      filter: (input) => parseInt(input)
+    }
+  ]);
+  
+  console.log('\n⏳ Carregando lista...\n');
+  
+  const job = createAutoCrawlJob({ 
+    baseDir: './data',
+    type: answers.type
+  });
+  
+  await job.listProcessed({ limit: answers.limit });
+}
+
+/**
+ * Limpar fila
+ */
+async function handleCrawlClear() {
+  console.log('\n🧹 Limpar Fila\n');
+  
+  const { type } = await inquirer.prompt([
+    {
+      type: 'list',
+      name: 'type',
+      message: 'Tipo:',
+      choices: ['anime', 'manga', 'game'],
+      default: 'anime'
+    }
+  ]);
+  
+  const { confirm } = await inquirer.prompt([
+    {
+      type: 'confirm',
+      name: 'confirm',
+      message: `Tem certeza que deseja limpar a fila de ${type}?`,
+      default: false
+    }
+  ]);
+  
+  if (confirm) {
+    const job = createAutoCrawlJob({ 
+      baseDir: './data',
+      type: type
+    });
+    
+    await job.clearQueue();
+    console.log('\n✅ Fila limpa!\n');
+  } else {
+    console.log('\n❌ Operação cancelada.\n');
+  }
+}
+
+/**
+ * Aumentar fila
+ */
+async function handleCrawlGrow() {
+  console.log('\n➕ Aumentar Fila\n');
+  
+  const answers = await inquirer.prompt([
+    {
+      type: 'list',
+      name: 'type',
+      message: 'Tipo:',
+      choices: ['anime', 'manga'],
+      default: 'anime'
+    },
+    {
+      type: 'input',
+      name: 'count',
+      message: 'Número de obras a adicionar:',
+      default: '20',
+      filter: (input) => parseInt(input)
+    },
+    {
+      type: 'input',
+      name: 'page',
+      message: 'Página inicial:',
+      default: '1',
+      filter: (input) => parseInt(input)
+    }
+  ]);
+  
+  console.log('\n⏳ Descobrindo novas obras...\n');
+  
+  const job = createAutoCrawlJob({ 
+    baseDir: './data',
+    type: answers.type
+  });
+  
+  const report = await job.growQueue({
+    count: answers.count,
+    page: answers.page
+  });
+  
+  console.log('\n✅ Fila aumentada!');
+  console.log(`Solicitadas: ${report.requested}`);
+  console.log(`Adicionadas: ${report.added}`);
+  console.log(`Total na fila: ${report.totalQueue}\n`);
+}
+
+/**
+ * AutoCraw contínuo
+ */
+async function handleAutoCraw() {
+  console.log('\n🔄 AutoCraw Contínuo\n');
+  
+  const answers = await inquirer.prompt([
+    {
+      type: 'list',
+      name: 'type',
+      message: 'Tipo:',
+      choices: ['anime', 'manga'],
+      default: 'anime'
+    },
+    {
+      type: 'input',
+      name: 'maxWorks',
+      message: 'Máximo de obras por ciclo:',
+      default: '5',
+      filter: (input) => parseInt(input)
+    },
+    {
+      type: 'input',
+      name: 'limit',
+      message: 'Limite de personagens por obra:',
+      default: '25',
+      filter: (input) => parseInt(input)
+    },
+    {
+      type: 'confirm',
+      name: 'anilistSafe',
+      message: '🛡️ Usar configurações ultra-conservadoras para AniList (5 req/min, delays altos)?',
+      default: false
+    },
+    {
+      type: 'confirm',
+      name: 'smartDelay',
+      message: 'Usar delay inteligente baseado no número de personagens?',
+      default: false,
+      when: (answers) => !answers.anilistSafe
+    },
+    {
+      type: 'input',
+      name: 'pageDelay',
+      message: 'Delay entre páginas de personagens (ms):',
+      default: '1000',
+      filter: (input) => parseInt(input),
+      when: (answers) => !answers.smartDelay
+    },
+    {
+      type: 'input',
+      name: 'baseDelay',
+      message: 'Delay base para smart delay (ms):',
+      default: '1000',
+      filter: (input) => parseInt(input),
+      when: (answers) => answers.smartDelay
+    },
+    {
+      type: 'input',
+      name: 'delayMultiplier',
+      message: 'Multiplicador para smart delay:',
+      default: '50',
+      filter: (input) => parseInt(input),
+      when: (answers) => answers.smartDelay
+    },
+    {
+      type: 'input',
+      name: 'maxDelay',
+      message: 'Delay máximo para smart delay (ms):',
+      default: '10000',
+      filter: (input) => parseInt(input),
+      when: (answers) => answers.smartDelay
+    },
+    {
+      type: 'input',
+      name: 'delay',
+      message: 'Delay entre importações (ms):',
+      default: '15000',
+      filter: (input) => parseInt(input)
+    },
+    {
+      type: 'input',
+      name: 'maxTotal',
+      message: 'Limite total de obras (0 = infinito):',
+      default: '0',
+      filter: (input) => parseInt(input)
+    }
+  ]);
+  
+  const { confirm } = await inquirer.prompt([
+    {
+      type: 'confirm',
+      name: 'confirm',
+      message: 'Isso iniciará um processo contínuo. Deseja continuar?',
+      default: false
+    }
+  ]);
+  
+  if (!confirm) {
+    console.log('\n❌ Operação cancelada.\n');
+    return;
+  }
+  
+  console.log('\n🤖 Iniciando AutoCraw contínuo...\n');
+  
+  // Aplicar configurações ultra-conservadoras se --anilist-safe
+  let crawlOptions = {
+    baseDir: './data',
+    type: answers.type,
+    maxWorks: answers.maxWorks,
+    characterLimit: answers.limit,
+    delayBetweenImports: answers.delay,
+    delayBetweenPages: answers.pageDelay || answers.baseDelay,
+    smartDelay: answers.smartDelay,
+    baseDelay: answers.baseDelay,
+    delayMultiplier: answers.delayMultiplier,
+    maxDelay: answers.maxDelay
+  };
+  
+  if (answers.anilistSafe) {
+    console.log('🛡️ Modo AniList Safe ativado - configurações ultra-conservadoras');
+    crawlOptions = {
+      ...crawlOptions,
+      maxWorks: Math.min(answers.maxWorks, 3), // Máximo 3 obras por ciclo
+      characterLimit: Math.min(answers.limit, 15), // Máximo 15 personagens
+      delayBetweenImports: 240000, // 4 minutos entre importações
+      delayBetweenPages: 60000, // 1 minuto entre páginas
+      smartDelay: true,
+      baseDelay: 60000, // 1 minuto base
+      delayMultiplier: 200, // Multiplicador muito alto
+      maxDelay: 300000, // 5 minutos máximo
+      anilistSafe: true
+    };
+  }
+  
+  console.log(`Config: type=${answers.type}, max-works=${crawlOptions.maxWorks}, delay=${crawlOptions.delayBetweenImports}ms, safe=${answers.anilistSafe ? 'sim' : 'não'}\n`);
+  
+  const job = createAutoCrawlJob(crawlOptions);
+  
+  let totalProcessed = 0;
+  let cycleCount = 0;
+  
+  try {
+    while (true) {
+      cycleCount++;
+      console.log(`\n🔄 Ciclo ${cycleCount} - Verificando fila...`);
+      
+      const report = await job.crawl({
+        maxWorks: answers.maxWorks,
+        continueFromQueue: true
+      });
+      
+      totalProcessed += report.processed;
+      
+      console.log(`📈 Ciclo ${cycleCount} concluído:`);
+      console.log(`   ✅ Processadas: ${report.processed}`);
+      console.log(`   ⏭️  Restantes na fila: ${report.remaining}`);
+      console.log(`   📊 Total acumulado: ${totalProcessed} obras`);
+      
+      // Verificar limite total
+      if (answers.maxTotal > 0 && totalProcessed >= answers.maxTotal) {
+        console.log(`\n🎯 Limite total atingido: ${totalProcessed} obras`);
+        break;
+      }
+      
+      // Se não há mais obras na fila, esperar antes de buscar mais
+      if (report.remaining === 0) {
+        console.log('📭 Fila vazia, aguardando novas descobertas...');
+        await sleep(30000); // 30 segundos
+      } else {
+        // Pequena pausa entre ciclos
+        await sleep(5000); // 5 segundos
+      }
+    }
+  } catch (error) {
+    if (error.message === 'User force closed the terminal') {
+      console.log('\n🛑 AutoCraw interrompido pelo usuário');
+    } else {
+      console.log(`\n❌ Erro no AutoCraw: ${error.message}`);
+    }
+  }
+  
+  console.log('\n✅ AutoCraw finalizado!\n');
+}
+
+/**
+ * Menu de listagem
+ */
+async function handleListMenu() {
+  console.log('\n📋 Listar Obras\n');
+  
+  const { type } = await inquirer.prompt([
+    {
+      type: 'list',
+      name: 'type',
+      message: 'Filtrar por tipo (ou "todos"):',
+      choices: ['todos', 'anime', 'manga', 'game'],
+      default: 'todos'
+    }
+  ]);
+  
+  console.log('\n⏳ Carregando obras...\n');
+  
+  const types = type === 'todos' ? ['anime', 'manga', 'game'] : [type];
+  
+  console.log('📚 Obras na database:\n');
+  
+  for (const workType of types) {
+    try {
+      const typePath = join('./data', workType);
+      const works = await fs.readdir(typePath, { withFileTypes: true });
+      const dirs = works.filter(w => w.isDirectory());
+      
+      if (dirs.length > 0) {
+        console.log(`${workType.toUpperCase()}:`);
+        
+        for (const dir of dirs) {
+          const infoPath = join(typePath, dir.name, 'info.json');
+          try {
+            const info = await readJson(infoPath);
+            console.log(`  - ${info.title} (${dir.name})`);
+          } catch {
+            console.log(`  - ${dir.name}`);
+          }
+        }
+        console.log('');
+      }
+    } catch {
+      // Tipo não existe, ignorar
+    }
+  }
+}
+
+/**
+ * Menu de cache
+ */
+async function handleCacheMenu() {
+  console.log('\n💾 Gerenciar Cache\n');
+  
+  const { cacheAction } = await inquirer.prompt([
+    {
+      type: 'list',
+      name: 'cacheAction',
+      message: 'O que deseja fazer?',
+      choices: [
+        { name: '📊 Ver Status', value: 'status' },
+        { name: '🧹 Limpar Cache', value: 'clear' },
+        { name: '🔄 Reconstruir Cache', value: 'rebuild' }
+      ]
+    }
+  ]);
+  
+  switch (cacheAction) {
+    case 'status':
+      await handleCacheStatus();
+      break;
+    case 'clear':
+      await handleCacheClear();
+      break;
+    case 'rebuild':
+      await handleCacheRebuild();
+      break;
+  }
+}
+
+/**
+ * Status do cache
+ */
+async function handleCacheStatus() {
+  console.log('\n📊 Status do Cache\n');
+  console.log('⏳ Carregando...\n');
+  
+  const { createWorkCache } = await import('./utils/cache.js');
+  const cache = createWorkCache({ cacheFile: './data/work-cache.json' });
+  await cache.load();
+  
+  const stats = cache.getStats();
+  console.log('📊 Status do Cache:');
+  console.log(`   Arquivo: ${stats.cacheFile}`);
+  console.log(`   Total de obras: ${stats.totalWorks}`);
+  
+  const processed = cache.listProcessed();
+  if (processed.length > 0) {
+    console.log('\n📋 Últimas obras processadas:');
+    for (const workId of processed.slice(-10)) { // Últimas 10
+      const metadata = cache.getMetadata(workId);
+      const date = metadata?.processedAt ? new Date(metadata.processedAt).toLocaleDateString() : 'N/A';
+      console.log(`   ${workId} (${date})`);
+    }
+  }
+  console.log();
+}
+
+/**
+ * Limpar cache
+ */
+async function handleCacheClear() {
+  console.log('\n🧹 Limpar Cache\n');
+  
+  const { confirm } = await inquirer.prompt([
+    {
+      type: 'confirm',
+      name: 'confirm',
+      message: 'Tem certeza que deseja limpar o cache completamente?',
+      default: false
+    }
+  ]);
+  
+  if (confirm) {
+    const { createWorkCache } = await import('./utils/cache.js');
+    const cache = createWorkCache({ cacheFile: './data/work-cache.json' });
+    cache.clear();
+    await cache.save();
+    
+    console.log('\n✅ Cache limpo com sucesso!\n');
+  } else {
+    console.log('\n❌ Operação cancelada.\n');
+  }
+}
+
+/**
+ * Reconstruir cache
+ */
+async function handleCacheRebuild() {
+  console.log('\n🔄 Reconstruir Cache\n');
+  console.log('⏳ Reconstruindo cache...\n');
+  
+  const { createWorkCache } = await import('./utils/cache.js');
+  const { createUpdateJob } = await import('./jobs/updateWork.js');
+  
+  const cache = createWorkCache({ cacheFile: './data/work-cache.json' });
+  const updateJob = createUpdateJob({ baseDir: './data' });
+  
+  // Lista todas as obras existentes
+  const existingWorks = await updateJob.listExistingWorks();
+  
+  // Reconstrói o cache
+  await cache.load();
+  cache.clear();
+  
+  for (const work of existingWorks) {
+    try {
+      const info = await readJson(work.infoPath);
+      cache.markProcessed(work.workId, {
+        type: work.type,
+        title: info.title,
+        source: info.source,
+        charactersCount: info.charactersCount || 0,
+        processedAt: info.updated_at || new Date().toISOString()
+      });
+    } catch (error) {
+      // Ignora erros individuais
+    }
+  }
+  
+  await cache.save();
+  
+  console.log(`\n✅ Cache reconstruído com ${existingWorks.length} obras!\n`);
 }

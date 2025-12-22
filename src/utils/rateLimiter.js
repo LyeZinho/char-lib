@@ -30,6 +30,7 @@ export class RateLimiter {
       const oldestRequest = this.requests[0];
       const waitTime = this.timeWindow - (now - oldestRequest);
       
+      console.log(`RateLimiter: Aguardando ${waitTime}ms (requests: ${this.requests.length}/${this.maxRequests})`);
       if (waitTime > 0) {
         await this.delay(waitTime);
         return this.waitForSlot(); // Tentar novamente
