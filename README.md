@@ -4,6 +4,21 @@
 
 Sistema de wiki de personagens 100% em JavaScript, com coleta via APIs públicas (AniList), batch controlado, rate limit e armazenamento incremental em JSON.
 
+## 🚀 Início Rápido
+
+```bash
+# Instalação
+npm install
+
+# Seu primeiro import
+node src/cli.js import anime "Naruto" --limit 10
+
+# Ver estatísticas
+node src/cli.js stats anime naruto
+```
+
+📖 **[Guia Completo de Início Rápido →](docs/QUICKSTART.md)**
+
 ## ✨ Features
 
 - 🎯 **Database JSON local** - Sem dependência de banco de dados externo
@@ -303,6 +318,15 @@ Contribuições são bem-vindas! Por favor:
 3. Commit suas mudanças (`git commit -m 'Adiciona MinhaFeature'`)
 4. Push para a branch (`git push origin feature/MinhaFeature`)
 5. Abra um Pull Request
+
+📖 **[Guia de Desenvolvimento →](docs/DEVELOPMENT.md)**
+
+## 📚 Documentação
+
+- **[🚀 Início Rápido](docs/QUICKSTART.md)** - Comece em 5 minutos
+- **[📋 Exemplos](docs/EXAMPLES.md)** - Casos de uso práticos
+- **[🏗️ Estrutura](docs/STRUCTURE.md)** - Arquitetura do projeto
+- **[💻 Desenvolvimento](docs/DEVELOPMENT.md)** - Guia para contribuidores
 
 ## 📝 Licença
 

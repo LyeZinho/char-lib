@@ -1,3 +1,12 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database (opcional - descomentar para versioná-la)
+# data/
+
 # Python
 __pycache__/
 *.py[cod]
