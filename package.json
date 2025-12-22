@@ -1,0 +1,43 @@
+{
+  "name": "char-lib",
+  "version": "1.0.0",
+  "description": "Database local de personagens (anime, games, etc.) usando arquivos JSON",
+  "type": "module",
+  "main": "src/cli.js",
+  "bin": {
+    "char-lib": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "import": "node src/cli.js import",
+    "validate": "node src/cli.js validate",
+    "search": "node src/cli.js search",
+    "stats": "node src/cli.js stats",
+    "list": "node src/cli.js list"
+  },
+  "keywords": [
+    "anime",
+    "characters",
+    "database",
+    "json",
+    "wiki",
+    "anilist",
+    "manga",
+    "game"
+  ],
+  "author": "LyeZinho",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.12.0",
+    "ajv-formats": "^2.1.1",
+    "commander": "^11.1.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LyeZinho/char-lib.git"
+  }
+}

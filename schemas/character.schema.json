@@ -1,0 +1,134 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://char-lib.local/schemas/character.schema.json",
+  "title": "Character",
+  "description": "Schema para representar um personagem",
+  "type": "object",
+  "required": ["id", "name"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Identificador único do personagem (slug)",
+      "pattern": "^[a-z0-9-_]+$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Nome principal do personagem",
+      "minLength": 1
+    },
+    "alt_names": {
+      "type": "array",
+      "description": "Nomes alternativos",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "role": {
+      "type": "string",
+      "description": "Papel do personagem na obra",
+      "enum": ["protagonist", "deuteragonist", "antagonist", "supporting", "minor", "other"]
+    },
+    "description": {
+      "type": "string",
+      "description": "Descrição do personagem",
+      "default": ""
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Metadados adicionais do personagem",
+      "additionalProperties": true
+    },
+    "images": {
+      "type": "array",
+      "description": "Imagens do personagem",
+      "items": {
+        "type": "object",
+        "required": ["url"],
+        "properties": {
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["portrait", "full-body", "screenshot", "art", "other"]
+          },
+          "source": {
+            "type": "string"
+          }
+        }
+      },
+      "default": []
+    },
+    "external_ids": {
+      "type": "object",
+      "description": "IDs em outras plataformas",
+      "additionalProperties": {
+        "type": ["string", "number"]
+      },
+      "default": {}
+    },
+    "tags": {
+      "type": "array",
+      "description": "Tags/atributos do personagem",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "relations": {
+      "type": "array",
+      "description": "Relacionamentos com outros personagens",
+      "items": {
+        "type": "object",
+        "required": ["character_id", "type"],
+        "properties": {
+          "character_id": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string",
+            "description": "Tipo de relação (ex: friend, family, rival, love-interest)"
+          },
+          "description": {
+            "type": "string"
+          }
+        }
+      },
+      "default": []
+    },
+    "voice_actors": {
+      "type": "array",
+      "description": "Dubladores/atores de voz",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "language": {
+            "type": "string",
+            "description": "Idioma (ex: ja, en, pt-BR)"
+          },
+          "image": {
+            "type": "string",
+            "format": "uri"
+          }
+        }
+      },
+      "default": []
+    },
+    "updated_at": {
+      "type": "string",
+      "description": "Data da última atualização (ISO 8601)",
+      "format": "date-time"
+    },
+    "created_at": {
+      "type": "string",
+      "description": "Data de criação do registro (ISO 8601)",
+      "format": "date-time"
+    }
+  }
+}

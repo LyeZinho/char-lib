@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://char-lib.local/schemas/characters_collection.schema.json",
+  "title": "CharactersCollection",
+  "description": "Schema para o arquivo characters.json que contém todos os personagens de uma obra",
+  "type": "object",
+  "required": ["work_id", "count", "characters"],
+  "properties": {
+    "work_id": {
+      "type": "string",
+      "description": "ID da obra à qual os personagens pertencem"
+    },
+    "count": {
+      "type": "integer",
+      "description": "Número total de personagens",
+      "minimum": 0
+    },
+    "characters": {
+      "type": "array",
+      "description": "Lista de personagens",
+      "items": {
+        "$ref": "character.schema.json"
+      }
+    },
+    "updated_at": {
+      "type": "string",
+      "description": "Data da última atualização (ISO 8601)",
+      "format": "date-time"
+    }
+  }
+}

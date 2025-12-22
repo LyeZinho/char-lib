@@ -1,0 +1,100 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://char-lib.local/schemas/work.schema.json",
+  "title": "Work",
+  "description": "Schema para representar uma obra (anime, game, manga, etc.)",
+  "type": "object",
+  "required": ["id", "type", "title", "source", "updated_at"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Identificador único da obra (slug)",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "type": {
+      "type": "string",
+      "description": "Tipo da obra",
+      "enum": ["anime", "manga", "game", "light-novel", "visual-novel", "movie", "other"]
+    },
+    "title": {
+      "type": "string",
+      "description": "Título principal da obra",
+      "minLength": 1
+    },
+    "alt_titles": {
+      "type": "array",
+      "description": "Títulos alternativos",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "source": {
+      "type": "string",
+      "description": "Origem dos dados (ex: MyAnimeList, AniList, IGDB)",
+      "minLength": 1
+    },
+    "source_id": {
+      "type": ["string", "number"],
+      "description": "ID da obra na fonte de dados"
+    },
+    "description": {
+      "type": "string",
+      "description": "Descrição/sinopse da obra",
+      "default": ""
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Metadados adicionais específicos do tipo de obra",
+      "additionalProperties": true
+    },
+    "images": {
+      "type": "array",
+      "description": "Imagens relacionadas à obra",
+      "items": {
+        "type": "object",
+        "required": ["url"],
+        "properties": {
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["cover", "banner", "poster", "screenshot", "other"]
+          },
+          "source": {
+            "type": "string"
+          }
+        }
+      },
+      "default": []
+    },
+    "external_ids": {
+      "type": "object",
+      "description": "IDs em outras plataformas",
+      "additionalProperties": {
+        "type": ["string", "number"]
+      },
+      "default": {}
+    },
+    "tags": {
+      "type": "array",
+      "description": "Tags/categorias da obra",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "updated_at": {
+      "type": "string",
+      "description": "Data da última atualização (ISO 8601)",
+      "format": "date-time"
+    },
+    "created_at": {
+      "type": "string",
+      "description": "Data de criação do registro (ISO 8601)",
+      "format": "date-time"
+    }
+  }
+}
