@@ -1,0 +1,578 @@
+{
+  "work_id": "death-parade",
+  "count": 25,
+  "characters": [
+    {
+      "id": "decim",
+      "name": "Decim",
+      "alt_names": [
+        "デキム",
+        "Bartender",
+        "Dekim"
+      ],
+      "role": "protagonist",
+      "description": "Decim is the bartender of Quindecim and also the arbiter of floor 15. \n\nHis faction deals with people who have died at the same time. He can create threads and use them to restrict rude customers from moving, or use them to hang things. They are strong enough to stop a person in their tracks and swing them hard against the wall.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b81853-CY99xwoziDG4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81853
+      }
+    },
+    {
+      "id": "kurokami-no-onna",
+      "name": "Kurokami no Onna",
+      "alt_names": [
+        "黒髪の女",
+        "Black-haired Woman"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 170cm\n\nShe is an amnesiac woman taken in by Nona to Quindecim and hired as Decim's assistant.\n\nWhen she first awoke, she appeared to be an innocent but skeptical woman. However, once she became accustomed to living in Quindecim, she acted as a strong-willed woman who always spoke her mind whenever she felt it was necessary. She is not afraid to disagree with Decim if she believes he is wrong.",
+      "metadata": {
+        "gender": "female",
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82037-xvKHWk4AE4df.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82037
+      }
+    },
+    {
+      "id": "nona",
+      "name": "Nona",
+      "alt_names": [
+        "ノーナ"
+      ],
+      "role": "protagonist",
+      "description": "Nona is the manager of the Arbiter system, as well as the bartender of Nona Ginta located on the ninetieth floor. She is the boss of Decim, Ginti, Clavis, along with the rest of the other arbiters.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88681-tTuJXN5ds3gy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88681
+      }
+    },
+    {
+      "id": "ginti",
+      "name": "Ginti",
+      "alt_names": [
+        "ギンティ"
+      ],
+      "role": "protagonist",
+      "description": "Ginti is bartender of a bar named Viginti, which is located on the 20th floor.\n\n(Source: Death Parade Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88683-S0xJzL8QY3gI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88683
+      }
+    },
+    {
+      "id": "clavis",
+      "name": "Clavis",
+      "alt_names": [
+        "クラヴィス"
+      ],
+      "role": "supporting",
+      "description": "He is an elevator operator in the arbiter system, as well as a personal valet to Nona. His task is to transport arbiters and guests between floors. Also, he smiles a lot.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88780-76uJe60Gkw70.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88780
+      }
+    },
+    {
+      "id": "castra",
+      "name": "Castra",
+      "alt_names": [
+        "カストラ",
+        "Queen Of The Dead"
+      ],
+      "role": "supporting",
+      "description": "She is an organization clerk who measures coefficients of the dead and classifies them in various fields in order to determine their bar destination.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88789-hPssZIZLIk5Z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88789
+      }
+    },
+    {
+      "id": "oculus",
+      "name": "Oculus",
+      "alt_names": [
+        "オクルス"
+      ],
+      "role": "supporting",
+      "description": "Occulus is the founder of the post-death arbitration system. He spends most of his time playing billiards, especially with Nona, whose presence he appreciates for discussion. Oculus is strictly opposed to the idea that referees can have human feelings because he says \"humans cannot judge humans.\"\n\nThe lotus flower under his chin can be enlarged, allowing him to see through the memories of the people he \"absorbs\" with.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88790-W1bTgBcjjZvk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88790
+      }
+    },
+    {
+      "id": "quin",
+      "name": "Quin",
+      "alt_names": [
+        "クイーン"
+      ],
+      "role": "supporting",
+      "description": "Quin works in the information processing section, and is now in charge of sending the “memories of the dead” to arbiters. She used to work as an arbiter and was the owner of Quindecim prior to Decim's appointment there.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122637-H9msJ0AHv3wl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122637
+      }
+    },
+    {
+      "id": "harada",
+      "name": "Harada",
+      "alt_names": [
+        "原田"
+      ],
+      "role": "supporting",
+      "description": "One of the main dancers in Cross Heart Attack. He is a great dancer and a womanizer.\n\n~!In the living world, Harada dated a fan of his named Kana. He broke up with Kana and left her devastated. When Kana explained how terrible she felt when he broke up with her, Harada laughed and apologized. This led to Kana committing suicide.\nIt is later revealed that he was killed by Kana's sister with a bomb as revenge for Kana's death. It is implied that Harada and Kana's sister slept together before he was killed by her.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122638-ZLGQTmVYgdXp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122638
+      }
+    },
+    {
+      "id": "mayu-arita",
+      "name": "Mayu Arita",
+      "alt_names": [
+        "有田マユ"
+      ],
+      "role": "supporting",
+      "description": "Mayu is a student who is a huge fan of the idol group C.H.A, of which Harada is a member. She is a happy go lucky girl who is also a bit of a klutz. Her death was what would be called a freak accident, where while entering the bath she slipped on a bar of soap lying on the floor, hit her head and died instantly.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122639-wLie2FSFb1Nf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122639
+      }
+    },
+    {
+      "id": "jirou",
+      "name": "Jirou",
+      "alt_names": [
+        "次郎"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n134077-rolZmBpcKoSj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134077
+      }
+    },
+    {
+      "id": "chiyuki-no-haha",
+      "name": "Chiyuki no Haha",
+      "alt_names": [
+        "知幸の母"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158220-HEGJeedD9tBX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158220
+      }
+    },
+    {
+      "id": "fujii",
+      "name": "Fujii",
+      "alt_names": [
+        "藤井"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158229-uFLL1YrYiqwp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158229
+      }
+    },
+    {
+      "id": "kana",
+      "name": "Kana",
+      "alt_names": [
+        "カナ"
+      ],
+      "role": "supporting",
+      "description": "She previously dated Harada, the member of the boy group C.H.A. After they ended their relationship, she became hysterical about how Harada was too cheerful about it. She later committed suicide because of their breakup.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158230-qgSB55GNougH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158230
+      }
+    },
+    {
+      "id": "tria",
+      "name": "Tria",
+      "alt_names": [
+        "トリア"
+      ],
+      "role": "supporting",
+      "description": "Arbiter who is employed on an unknown floor.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158231-OpAOv2DOsb3D.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158231
+      }
+    },
+    {
+      "id": "takashi",
+      "name": "Takashi",
+      "alt_names": [
+        "たかし"
+      ],
+      "role": "supporting",
+      "description": "~!It is later realized that the reason for their death was because of Takashi's jealousy. Early in the game, he finds out that Machiko is pregnant, only to figure out later that it isn't his and that she was having an affair. He then proceeds to try attacking Machiko with one of the darts, but is stopped by Decim. He then passes out and gets sent back into the elevators; there, he is sent to be reincarnated.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158452-5JtBOJTe4gQR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158452
+      }
+    },
+    {
+      "id": "tateishi-no-chichioya",
+      "name": "Tateishi no Chichioya",
+      "alt_names": [
+        "洋介の父親",
+        "Tateishi's Father"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158477-ETLrZIWm8AcP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158477
+      }
+    },
+    {
+      "id": "yousuke-tateishi",
+      "name": "Yousuke Tateishi",
+      "alt_names": [
+        "立石洋介"
+      ],
+      "role": "supporting",
+      "description": "Hikikomori who works part time as a security guard, he spends most of his free time locked up in his room where he does nothing but read manga, watch anime and play games. His parents' divorced when he was still child left him devastated and depressed that he has been a loner ever since. Though his father has remarried, he is very hostile towards his stepmother despite her attempts to become close to him.\n\nHe met Misaki in Quindecim, where both of them are forced to play an arcade game that will decide their fates. He later remembers that he committed suicide after jumping off several stories from his apartment complex. The last thing he saw before dying was his stepmother, who was crying and begging him to hold on as they drove to the hospital in the back of an ambulance.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158518-KM7oKSEfTiPW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158518
+      }
+    },
+    {
+      "id": "tateishi-no-mamahaha",
+      "name": "Tateishi no Mamahaha",
+      "alt_names": [
+        "洋介の継母",
+        "Tateishi's Stepmother"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158520-qchaT8H4wfqN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158520
+      }
+    },
+    {
+      "id": "mai-takada",
+      "name": "Mai Takada",
+      "alt_names": [
+        "高田舞"
+      ],
+      "role": "supporting",
+      "description": "Part time attendant at a local bowling alley where Miura and his friends frequent.\n~!She found herself at Quindecim where she was later joined by Miura. They were forced to play a game of bowling that would decide their fate. During the game, the two of them realized that they had died in a bus accident. She starts to remember the time when she was with with Miura and Chisato during their childhood days. At first she had her memories are confused, believing that she was Chisato; however, it was revealed that she had plastic surgery to look like Chisato.\n\nLittle is know as what their fate has become, but is was strongly implied that the two were to be reincarnated.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158572-G4Gw9eWBtyxy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158572
+      }
+    },
+    {
+      "id": "lisa",
+      "name": "Lisa",
+      "alt_names": [
+        "リサ"
+      ],
+      "role": "supporting",
+      "description": "Kana's sister. She dated Harada in order to decieve him and avenge her sister's suicide. Lisa murders Harada by planting a bomb in his room while he slept.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158623-ec5xpnKW0udL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158623
+      }
+    },
+    {
+      "id": "machiko",
+      "name": "Machiko",
+      "alt_names": [
+        "真智子"
+      ],
+      "role": "supporting",
+      "description": "Machiko along with her husband Takashi take part in the death game of darts.\n~!It is later found out that she was having an affair and carrying the baby of her boyfriend, which leads to Takashi trying to attack her with a dart. After Takashi passes out, Machiko re-enters one of the elevators which takes her to the void. However, in Onna's opinion, the baby she carries actually belongs to Takashi and she acted guilty because she truly loves the latter, where later on Decim realizing that he made a mistake but it was too late for any rectification.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158682-cPjaLyKhDB7j.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158682
+      }
+    },
+    {
+      "id": "shigeru-miura",
+      "name": "Shigeru Miura",
+      "alt_names": [
+        "三浦しげる"
+      ],
+      "role": "supporting",
+      "description": "College student and the childhood friend of Chisato Miyazaki and Mai Takada.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158783-vbbSN6EpnD3z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158783
+      }
+    },
+    {
+      "id": "chisato-miyazaki",
+      "name": "Chisato Miyazaki",
+      "alt_names": [
+        "宮崎ちさと"
+      ],
+      "role": "supporting",
+      "description": "Miura and Mai's childhood friend who moved out when they were little.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158794-g6tuRYbO29oe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158794
+      }
+    },
+    {
+      "id": "novem",
+      "name": "Novem",
+      "alt_names": [
+        "ノエム"
+      ],
+      "role": "supporting",
+      "description": "Arbiter who is employed on an unknown floor.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158795-kovZvYBaKLBC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158795
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:32:52.575Z"
+}

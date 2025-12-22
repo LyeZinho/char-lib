@@ -1,0 +1,378 @@
+{
+  "work_id": "spirited-away",
+  "count": 16,
+  "characters": [
+    {
+      "id": "chihiro-ogino",
+      "name": "Chihiro Ogino",
+      "alt_names": [
+        "荻野千尋",
+        "Sen"
+      ],
+      "role": "protagonist",
+      "description": "Chihiro is a shy, pessimistic girl. At the beginning of the movie, she and her parents are in the process of moving to a new town. When her father takes the wrong turn, they end up near what her father thinks is \"an abandoned amusement park.\" In reality, it is a bathhouse for spirits that operates at night time. Her parents are turned into pigs after they eat the food of the spirits. She attempts to run away, but Haku advises her to work for Yubaba, until she can find a way to turn her parents back to normal.",
+      "metadata": {
+        "gender": "female",
+        "age": "10",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 384
+      }
+    },
+    {
+      "id": "haku",
+      "name": "Haku",
+      "alt_names": [
+        "ハク"
+      ],
+      "role": "protagonist",
+      "description": "Haku is [Chihiro](https://anilist.co/character/384/Chihiro-Ogino)'s first friend in the strange world. He studies with the sorceress [Yubaba](https://anilist.co/character/4716/Yubaba) and has magical powers. It's said that he lost his way home and his name in the world of spirits.\n\n~!At the end of the movie, it is revealed that his real name is Nigihayami Kohaku Nushi (Spirit of the Kohaku River).!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b385-pKGCy3oYWxRa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 385
+      }
+    },
+    {
+      "id": "yubaba",
+      "name": "Yubaba",
+      "alt_names": [
+        "湯婆婆"
+      ],
+      "role": "supporting",
+      "description": "The evil, greedy witch that runs the spirits bath house where Chihiro is forced to work. She is known to be very powerful and has the ability to turn into a bird. She has a very large son whom she takes care of at the bath house and only shows her nice nature to him. When people begin to work at the bathhouse she signs a contract with them in which she changes and takes their name.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4716-8uiG2k2xQKvN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4716
+      }
+    },
+    {
+      "id": "rin",
+      "name": "Rin",
+      "alt_names": [
+        "リン",
+        "Lin"
+      ],
+      "role": "supporting",
+      "description": "A worker at the bathhouse who becomes Chihiro's caretaker. Although cold at first, she warms up to Chihiro and grows a strong bond with her. She warns No Face, who had previously gone on a rampage, not to harm Chihiro or there would be trouble. At the end, she is very happy for Chihiro when she finally manages to find her way home.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5465-ZWJpBoYKPbAY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5465
+      }
+    },
+    {
+      "id": "kaonashi",
+      "name": "Kaonashi",
+      "alt_names": [
+        "カオナシ",
+        "No Face"
+      ],
+      "role": "supporting",
+      "description": "No Face is an odd spirit that takes an interest in Chihiro. Chihiro lets No Face into the bathhouse through a side door. At first, he is a strange, cloaked, masked wraith that merely breathes and smiles. No Face is a lonely being who seems to sustain itself on the emotions of those he encounters, particularly their emotional reception to his gifts. He is helpful to Chihiro because she helped him, whereas after observing the bathhouse staff's reaction to gold and his own attempts to win them over with more gold, he reacts to their greed by becoming a grotesque monster which eats lots of food and some of the staff. He calms down and reverts to his former state after he leaves the bathhouse's influence. At the end, he stays with Zeniba as a helper. No Face's mask, movement, and name share many similarities with the Japanese Noh theater. He also assumes the voice(s) and personality of those he &quot;eats&quot;.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8298-ATUVKng0oyHR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8298
+      }
+    },
+    {
+      "id": "akio-ogino",
+      "name": "Akio Ogino",
+      "alt_names": [
+        "荻野明夫"
+      ],
+      "role": "supporting",
+      "description": "Chihiro's father. He is very optimistic and is unreasonably confident. Although Chihiro feels uneasy, he just goes into the tunnel they happened to find. He has a careless side, as he helped himself to the food in front of him. Because he ate the food intended for the gods, he was turned into a pig, as was his wife.",
+      "metadata": {
+        "age": "38",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8299-0Dcu7zi6ZU9Q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8299
+      }
+    },
+    {
+      "id": "yuuko-ogino",
+      "name": "Yuuko Ogino",
+      "alt_names": [
+        "荻野悠子"
+      ],
+      "role": "supporting",
+      "description": "Chihiro's mother. She is realistic and strong. She is used to Chihiro's temper, and she doesn’t care so much even though Chihiro has a sullen expression in the back seat of the car. She speaks her mind without hesitation to her husband, but in the end, she follows him.",
+      "metadata": {
+        "gender": "female",
+        "age": "36",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8300-R6Xzdnj5qXJE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8300
+      }
+    },
+    {
+      "id": "kamajii",
+      "name": "Kamajii",
+      "alt_names": [
+        "釜爺"
+      ],
+      "role": "supporting",
+      "description": "An old man who is responsible for the boiler room of ABURAYA. He also makes medicines that are put in the baths. He helps Chihiro many times. He seems to be a spirit of a spider, as he has six limbs.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8301-ASa313sbbcI3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8301
+      }
+    },
+    {
+      "id": "bou",
+      "name": "Bou",
+      "alt_names": [
+        "坊",
+        "Boh"
+      ],
+      "role": "supporting",
+      "description": "A son of [Yubaaba](https://anilist.co/character/4716/). Judging from his appearance, he is probably a baby, but he is quite huge, and he eats enormously. He is quite spoiled as Yubaaba dotes on him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8302-nDLFWgXoulqJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8302
+      }
+    },
+    {
+      "id": "kashira",
+      "name": "Kashira",
+      "alt_names": [
+        "カシラ"
+      ],
+      "role": "supporting",
+      "description": "Strange trio of brothers in Yu-baaba's room. They only have heads and move about by bouncing on the floor.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8303-phGUUxVsnILN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8303
+      }
+    },
+    {
+      "id": "zeniba",
+      "name": "Zeniba",
+      "alt_names": [
+        "銭婆"
+      ],
+      "role": "supporting",
+      "description": "The twin sister of Yu-baaba. Although she looks exactly the same as Yu-baaba, she seems to have a very different personality. She holds the key to the story.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8305-EGm4vAcY75BG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8305
+      }
+    },
+    {
+      "id": "makkuro-kurosuke",
+      "name": "Makkuro-Kurosuke",
+      "alt_names": [
+        "まっくろくろすけ",
+        "Susuwatari",
+        "Dust Bunnies",
+        "Soot Sprites"
+      ],
+      "role": "supporting",
+      "description": "The \"dust bunnies\" or \"soot sprites\" first featured in My Neighbor Totoro as shy, slightly frightful creatures that live in abandoned buildings such as houses. They later reappeared in Spirited Away as workers in Kamaji's boiler room. They are small, black as soot and apparently fuzzy, with spherical bodies and two inquisitive eyes. They move by hovering around, but they can extend stick-like legs and arms from their bodies to do certain tasks, and can lift objects many times heavier than their own weight. They make a squeaky murmuring sound when excited, and dissolve into powder (soot) if crushed.\n\nIn My Neighbour Totoro, the house the main characters move into is full of Susuwatari, which are rationalized as Makkuro Kurosuke (pitch-black blackie), an optical illusion caused by moving quickly from light into darkness. Later, the family drives the Susuwatari out of the house, as the home that was once abandoned is now inhabited. They would move to another abandoned area.\n\nIn Spirited Away, the protagonist Sen (Chihiro) befriends a number of them by helping them carry coal. Sen is told that if these Susuwatari aren't given a job to do, they turn back into soot. Another character, Lin, feeds the Susuwatari much like farmers feed chickens, throwing handfuls of the Japanese candy Kompeito onto the ground for them to eat.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13393-YggqgLU41aiP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 13393
+      }
+    },
+    {
+      "id": "ootori-sama",
+      "name": "Ootori-sama",
+      "alt_names": [
+        "オオトリさま",
+        "Bird Gods"
+      ],
+      "role": "supporting",
+      "description": "These Gods of Birds look like giant ducks and are only shown in large groups. They love to bathe, as shown at Yubaba's Bath House for Spirits.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/81517.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81517
+      }
+    },
+    {
+      "id": "oshira-sama",
+      "name": "Oshira-sama",
+      "alt_names": [
+        "お白様",
+        "Daikon Radish Spirit"
+      ],
+      "role": "supporting",
+      "description": "The God of Daiken Radish is a large white spirit that wears a red hat. His main appearance in \"Sen to Chihiro no Kamikakushi\" is when Chihiro and Rin are in the elevator and he/she enters too, leaving little space for Chihiro and causing her a great struggle to pull the elevator lever. He never talks but as he walks, his feet make an adorable \"pui\" sound which seems a little out of character considering his size.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/81519.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81519
+      }
+    },
+    {
+      "id": "kawa-no-kami",
+      "name": "Kawa no Kami",
+      "alt_names": [
+        "河の神",
+        "River Spirit"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b176903-EDFpyRNy1kIN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 176903
+      }
+    },
+    {
+      "id": "aogaeru",
+      "name": "Aogaeru",
+      "alt_names": [
+        "青蛙",
+        "Tree frog"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279064-vMl5VUpUrDdh.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 279064
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:32:40.890Z"
+}

@@ -10,7 +10,7 @@ export class AniListCollector {
   constructor(options = {}) {
     this.apiUrl = 'https://graphql.anilist.co';
     this.rateLimiter = new RateLimiter(
-      options.requestsPerMinute || 90, // AniList permite ~90 req/min
+      options.requestsPerMinute || 60, // Reduzido para 60 req/min para ser mais seguro
       60000
     );
   }
@@ -194,7 +194,7 @@ export class AniListCollector {
 
       // Pequeno delay adicional entre páginas
       if (hasNextPage) {
-        await this.delay(500);
+        await this.delay(1000);
       }
     }
 

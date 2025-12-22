@@ -110,12 +110,33 @@ node scripts/batch-import-example.js
 node scripts/usage-example.js
 \`\`\`
 
+### Auto-Crawling (Novo!)
+
+Descubra e importe automaticamente obras populares:
+
+\`\`\`bash
+# Crawling automático
+npm run crawl
+
+# Ver status e fila
+npm run crawl-status
+
+# Listar obras processadas
+npm run crawl-list
+
+# Exemplo completo
+npm run crawl-example
+\`\`\`
+
 ## Comandos Essenciais
 
 | Comando | Descrição |
 |---------|-----------|
-| \`import anime <nome>\` | Importa um anime |
-| \`import manga <nome>\` | Importa um manga |
+| \`crawl\` | Crawling automático de obras populares |
+| \`crawl-status\` | Ver status do crawling |
+| \`crawl-list\` | Listar obras processadas |
+| \`import anime <nome>\` | Importa um anime específico |
+| \`import manga <nome>\` | Importa um manga específico |
 | \`stats <tipo> <id>\` | Ver estatísticas |
 | \`search <termo>\` | Buscar personagens |
 | \`validate <tipo> <id>\` | Validar dados |
@@ -133,6 +154,12 @@ node scripts/usage-example.js
 ## Exemplos Rápidos
 
 \`\`\`bash
+# Crawling automático (10 obras populares)
+npm run crawl
+
+# Ver status do que já foi processado
+npm run crawl-status
+
 # Import rápido (poucos personagens)
 node src/cli.js import anime "Cowboy Bebop" --limit 5
 

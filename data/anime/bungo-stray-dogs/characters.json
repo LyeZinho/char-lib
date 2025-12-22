@@ -1,0 +1,617 @@
+{
+  "work_id": "bungo-stray-dogs",
+  "count": 25,
+  "characters": [
+    {
+      "id": "atsushi-nakajima",
+      "name": "Atsushi Nakajima",
+      "alt_names": [
+        "中島敦",
+        "Jinko",
+        "Weretiger",
+        "White Reaper"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 170 cm (5'7\")\n__Ability:__ Beast Beneath the Moonlight\n\nHe came to Yokohama after being driven out of a poor orphanage that was attacked by a man-eating tiger. On the verge of starvation, he meets Dazai and gets a job helping at the detective agency. Because he's never had friends or family and was labeled as \"useless,\" he lacks self-confidence.\n\n(Source: Bungo Stray Dogs Wiki)",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89197-vB5kP72ruckV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89197
+      }
+    },
+    {
+      "id": "osamu-dazai",
+      "name": "Osamu Dazai",
+      "alt_names": [
+        "太宰治",
+        "Mackerel",
+        "Bandage Wasting Device"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 181 cm (5'11\")\n**Ability:** No Longer Human\n\nA member of the Armed Detective Agency. He's a suicide enthusiast who searches for a place to die. However, he doesn't like pain, and would prefer a lovers' suicide with a beautiful woman. He's aimless, elusive, nonchalant, and jokes around normally, but, when he is serious, it is clear that he is an insightful and intelligent individual. He loves to annoy his fellow Agency member, Kunikida.\n\n~!He was a former Executive of the city's worst underworld organization, the Port Mafia.!~\n\n(Source: Bungo Stray Dogs Wiki)",
+      "metadata": {
+        "gender": "male",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89198-qKmRTw4Y3PRC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89198
+      }
+    },
+    {
+      "id": "ryuunosuke-akutagawa",
+      "name": "Ryuunosuke Akutagawa",
+      "alt_names": [
+        "芥川龍之介",
+        "Silent Rabid Dog",
+        "Black-Fanged Hellhound",
+        "Ability User of Destruction and Disaster"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 172cm (5'8\")\n__Likes:__ Curios and antiques, tea, figs\n__Dislikes:__ Bonsai trees, dogs, baths\n\n\"The weak will die. Die, and make way for others.\"\nA member of the notorious \"Port Mafia\" that operates by the harbor. Akutagawa has a black and white \"survival of the fittest\" view of the world, claiming that weak people should die and give way to the stronger ones. His ability is called \"Rashōmon\" (羅生門).\n\nHe is not afraid of pain and defeat, if only to hear a word from a \"certain person\". His ruthless, vicious nature makes him one of the Port Mafia's most dangerous members, feared by both ally and foe. Much of the obedience he receives from subordinates of Black Lizard , and the Mafia in general, largely stems from fear of his short temper and general intolerance of incompetence. \n\nIn chapter 87,\n~!it is revealed that Akutagawa doesn't have much time left to live, as he is suffering from a vital lung disease.!~\n\nIn chapter 88 of the manga,\n~!Akutagawa turns undead, being bitten by Bram Stoker after a fatal blow which results in his death.!~\n\n(Source: Bungou Stray Doys Wiki, Anime News Network)",
+      "metadata": {
+        "gender": "male",
+        "age": "18-20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89199-h8tHKG8vKPNZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89199
+      }
+    },
+    {
+      "id": "doppo-kunikida",
+      "name": "Doppo Kunikida",
+      "alt_names": [
+        "国木田独歩",
+        "Four-Eyes"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 189 cm (6'2\")\n__Ability:__ The Matchless Poet\n\nA member of the Armed Detective Agency. He carries a notepad with the word \"Ideal\" written on the cover, and what is written inside are guides for life. He has a straight-laced personality and hates nothing more than schedules going awry. As a partner to the free-spirited Dazai, his troubles never end.",
+      "metadata": {
+        "gender": "male",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89200-mZJo7iEwJGzg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89200
+      }
+    },
+    {
+      "id": "yukichi-fukuzawa",
+      "name": "Yukichi Fukuzawa",
+      "alt_names": [
+        "福沢諭吉",
+        "Silver Wolf",
+        "The Lone Swordsman \"Ginrou\""
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 186 cm (6'1\")\n\nThe president of the Armed Detective Agency, who manages the hooligans. Although he doesn't often come out, at a critical moment, he triumphantly takes command. Because Yukichi is a man of dignity and status, it seems even the frivolous Ranpo will actually work if he orders it.\n\n(Source: Bungou Stray Dogs wiki)",
+      "metadata": {
+        "gender": "male",
+        "age": "45",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89196-E2tIf6nIPKnW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89196
+      }
+    },
+    {
+      "id": "ranpo-edogawa",
+      "name": "Ranpo Edogawa",
+      "alt_names": [
+        "江戸川乱歩",
+        "Rampo"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 168 cm (5'6\")\n\nThe great detective of the Armed Detective Agency. He possesses sharp observation skills that are acknowledged by his coworkers, and he settles difficult cases at the request of the police. Because of his self-confidence, his speech is brazen and child-like. His motto is \"If you'll have me, everything will be ok!\" He likes logical thinking and fantastic tales.",
+      "metadata": {
+        "gender": "male",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89201-K0X5HNq88Oub.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89201
+      }
+    },
+    {
+      "id": "junichirou-tanizaki",
+      "name": "Junichirou Tanizaki",
+      "alt_names": [
+        "谷崎潤一郎"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 174 cm (5'8.5\")\n__Ability:__ Light Snow\n\nHe is a member of the Armed Detective Agency and the older brother of Naomi.",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89205-69AfPXd4QmX3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89205
+      }
+    },
+    {
+      "id": "kenji-miyazawa",
+      "name": "Kenji Miyazawa",
+      "alt_names": [
+        "宮沢賢治",
+        "Ken-chan"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 158 cm (5'2\")\n__Ability:__ Undefeated by the Rain\n\nA member of the Armed Detective Agency. Before he was scouted, he lived in a rural area without electricity. He knows no suspicion, and will be understanding and considerate no matter who he is talking to. He has a lot of friends who call him \"Ken-chan.\" He likes music, tempura soba, and Mitsuya cider.\n\n(Source: Bungou Stray Dogs Wikia)",
+      "metadata": {
+        "gender": "male",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89207-i7pw9zNQqXpZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89207
+      }
+    },
+    {
+      "id": "akiko-yosano",
+      "name": "Akiko Yosano",
+      "alt_names": [
+        "与謝野晶子",
+        "The Doctor",
+        "Angel of Death"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 166 cm (5'5\")\n__Ability:__ Thou Shalt Not Die\n\nA modern woman with a bob cut who's a member of the Armed Detective Agency. Although she's an excellent doctor who is indispensable to the Agency, all members of the the Agency are scared to be placed into her care. It's recommended that you don't use outdated misogynistic expressions in front of her.",
+      "metadata": {
+        "gender": "female",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89208-Zjsz22lCmrIE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89208
+      }
+    },
+    {
+      "id": "naomi-tanizaki",
+      "name": "Naomi Tanizaki",
+      "alt_names": [
+        "谷崎ナオミ"
+      ],
+      "role": "supporting",
+      "description": "Naomi Tanizaki is a member of the Armed Detective Agency and the younger sister of Junichirou.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89209-ABXFID46q7LW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89209
+      }
+    },
+    {
+      "id": "chuuya-nakahara",
+      "name": "Chuuya Nakahara",
+      "alt_names": [
+        "中原中也",
+        "Slug",
+        "Mr. Fancy Hat",
+        "Hat Rack",
+        "Snail",
+        "Ability User A5158"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 160 cm (5'3\")\n\nChuuya is a Port Mafia member who detests Osamu Dazai for betraying the mafia and joining the Armed Detective Agency. He's also constantly teased by Dazai what makes him hate Dazai even more. Chuuya is short but he's quick and uses powerful martial arts. \n\nHis ability, \"For The Tainted Sorrow,\" revolves around gravity manipulation, allowing him to manipulate and alter the gravity of anything he touches, keeping it that way until a certain period of time.",
+      "metadata": {
+        "gender": "male",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89853-06qMPkrGlgP1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89853
+      }
+    },
+    {
+      "id": "motojirou-kajii",
+      "name": "Motojirou Kajii",
+      "alt_names": [
+        "梶井基次郎"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 180 cm (5'11\")\n\nA member of Port Mafia. He's a bomber wanted for the explosion at the Maruzen Building. He's an enthusiastic scientist who boasts that \"death\" is the \"ultimate experiment.\"",
+      "metadata": {
+        "gender": "male",
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89854-OJkUYnorbaRZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89854
+      }
+    },
+    {
+      "id": "ichiyou-higuchi",
+      "name": "Ichiyou Higuchi",
+      "alt_names": [
+        "樋口一葉"
+      ],
+      "role": "supporting",
+      "description": "A beautiful and intelligent woman who wears pants. She belongs to a commando unit that answers to the leader of Port Mafia, and has authority over the military group \"Black Lizard.\" She adores Akutagawa and calls him \"senpai.\"",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89855-wWUfJVCKhGOJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89855
+      }
+    },
+    {
+      "id": "kyouka-izumi",
+      "name": "Kyouka Izumi",
+      "alt_names": [
+        "泉鏡花"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 148cm (4'10\")\n\nA docile young lady who dresses in a kimono, but also a member of Port Mafia. As she holds a killing ability, she was found by the organization and raised as an assassin.\n\n~!She later joins the Armed Detective Agency.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89856-GB3SOKXTBnrX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89856
+      }
+    },
+    {
+      "id": "francis-fitzgerald",
+      "name": "Francis Fitzgerald",
+      "alt_names": [
+        "フランシス・スコット・キー・フィッツジェラルド"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 191 cm (6'3\")\n__Ability:__ The Great Fitzgerald\n\nFrancis poses as the leader for an american secret society, ''The Guild''. Said organization is composed by rich and notorious individuals, who all have some type of powerful influence in the USA. His ability, ''The Great Fitzgerald'', allows him to power up his own atributes and traits, according to the money he spent from his countless fortune. A fierce man, who loves his family, and would do pretty much anything to achieve his goals.",
+      "metadata": {
+        "gender": "male",
+        "age": "32",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121164-JI5C2eMIQrSG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121164
+      }
+    },
+    {
+      "id": "ougai-mori",
+      "name": "Ougai Mori",
+      "alt_names": [
+        "森鷗外",
+        "Rintarou",
+        "森鴎外"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 175 cm\n__Ability:__ Vita Sexualis\n\nOugai Mori is the boss of the Port Mafia. Ougai is analytical and tactical. He often puts on overdramatic acts but rarely breaks his composure internally. \n\nHe has been shown to be somewhat ruthless and unfaltering when it comes to violence. He hasn't, however, shown any particular enjoyment from killing. His ruthlessness comes from his pragmaticism.\n\nAlthough he can be intimidating at times and emit a scary formal aura, he is often polite to the point of seeming approachable. He is polite to allies and enemies alike.",
+      "metadata": {
+        "gender": "male",
+        "age": "40",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121168-XkWaYGESyQpZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121168
+      }
+    },
+    {
+      "id": "lucy-montgomery",
+      "name": "Lucy Montgomery",
+      "alt_names": [
+        "ルーシー・モード・モンゴメリ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165cm (5'5\")\n\nA member of Ability User Society \"Fellowship of The Guild.\" \n\nHer ability is known as \"Anne of Abyssal Red\". ~! She helped Atsushi escape the Guild because they bonded over their past trauma and loneliness. !~",
+      "metadata": {
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132222-Ue3zZMq9aqMg.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132222
+      }
+    },
+    {
+      "id": "michizou-tachihara",
+      "name": "Michizou Tachihara",
+      "alt_names": [
+        "立原道造"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 176 cm\n__Ability:__ Midwinter Memento\n\nA commander of the Black Lizards, the Port Mafia's squad of hitmen. Though he puts up a tough and violent front, he cares deeply for his friends. Very skilled gunner, especially when dual wielding.",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136705-qd9sowaD7SKW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136705
+      }
+    },
+    {
+      "id": "gin-akutagawa",
+      "name": "Gin Akutagawa",
+      "alt_names": [
+        "芥川銀",
+        "Gin-chan Gin-kun"
+      ],
+      "role": "supporting",
+      "description": "Ryuunosuke's younger sister and a member of the \"Black Lizards\" Assault Unit. It seems she is in good terms with Dazai.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137512-5mJhKeyVdMB5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137512
+      }
+    },
+    {
+      "id": "elise",
+      "name": "Elise",
+      "alt_names": [
+        "エリス"
+      ],
+      "role": "supporting",
+      "description": "Member of Port Mafia, a young girl usually seen with Ougai Mori.\n\n~!She is the ability of Mori Ougai!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138063-oT7IVCxhKidq.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138063
+      }
+    },
+    {
+      "id": "ryuurou-hirotsu",
+      "name": "Ryuurou Hirotsu",
+      "alt_names": [
+        "広津柳浪"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 178cm\n__Ability:__ Falling Camellia\n\nMember of Port Mafia, \"Black Lizards\" Assault Unit Captain. His ability, Falling Camellia, cause things that he touches to fly backward with immense force.",
+      "metadata": {
+        "gender": "male",
+        "age": "50",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138066-0cF5m4qGEOpY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138066
+      }
+    },
+    {
+      "id": "yamagiwa",
+      "name": "Yamagiwa",
+      "alt_names": [
+        "山際"
+      ],
+      "role": "supporting",
+      "description": "She  was an officer who was murdered, whose body was found floating in the river. The case of her murder was investigated by Ranpo Edogawa of the Armed Detective Company, along with Atsushi and Dazai.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138144-quOn7F8Kjrpo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138144
+      }
+    },
+    {
+      "id": "nobuko-sasaki",
+      "name": "Nobuko Sasaki",
+      "alt_names": [
+        "佐々城信子"
+      ],
+      "role": "supporting",
+      "description": "a lecturer at a university in Tokyo.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138147-a5oHSFbyTIPS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138147
+      }
+    },
+    {
+      "id": "rokuzou-taguchi",
+      "name": "Rokuzou Taguchi",
+      "alt_names": [
+        "田口六蔵"
+      ],
+      "role": "supporting",
+      "description": "An information broker who provided info for the Armed Detective Company.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138151-rYabBnn3G6SK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138151
+      }
+    },
+    {
+      "id": "minoura",
+      "name": "Minoura",
+      "alt_names": [
+        "箕浦"
+      ],
+      "role": "supporting",
+      "description": "Member of the Japanese Police Force. Successor of Yasui-san whom Ranpo had worked with previously on cases.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138152-nVRl3fXOukFw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138152
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:37:35.424Z"
+}

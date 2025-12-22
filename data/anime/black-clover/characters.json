@@ -1,0 +1,616 @@
+{
+  "work_id": "black-clover",
+  "count": 25,
+  "characters": [
+    {
+      "id": "asta",
+      "name": "Asta",
+      "alt_names": [
+        "アスタ",
+        "Bakasta"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 155 cm (5'1\")\n\nAn orphan who was left under the care of a church in the village of Hage. He dreams of becoming ​the Wizard King but is unable to use magic, so he trains to build up his physical strength. He is the wielder of a five-leaf clover anti-magic grimoire and is a 3rd Class Junior Magic Knight of the Clover Kingdom's Black Bull and Royal Knights squads.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123285-tKijiuQErDS0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123285
+      }
+    },
+    {
+      "id": "noelle-silva",
+      "name": "Noelle Silva",
+      "alt_names": [
+        "ノエル・シルヴァ"
+      ],
+      "role": "protagonist",
+      "description": "__Height__: 161 cm (5'3\")\n\nNoelle Silva is a member of the Black Bulls and was inducted into the squad around the same time as Asta. She is the second daughter of one of the Clover Kingdom's royal families, House Silva, and the younger sister of the captain of the Silver Eagles, Nozel Silva. She likes sweets.\n\n~!Her family disowned her due to her lack of control on her magic and having their mother die while giving birth to her.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123283-7nJHtKha0LSm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123283
+      }
+    },
+    {
+      "id": "yuno",
+      "name": "Yuno",
+      "alt_names": [
+        "ユノ"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 172 cm (5'7\")\n\nYuno was left, along with Asta, in front of a church in a village called Hage when he was an infant. He grew up at the church and spends most of his day with Asta. Sometime later, a thug tries to take his necklace away from him and sell it for money. Fortunately, Asta steps in and tries to take it back. In the end, the thug decided to leave without the necklace after Asta keeps charging at him. Since then, Yuno stopped crying and decides to take Asta's dream to be the Wizard King as his own as well.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123284-w6kIFYnTclMd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123284
+      }
+    },
+    {
+      "id": "finral-roulacase",
+      "name": "Finral Roulacase",
+      "alt_names": [
+        "フィンラル・ルーラケイス"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 173 cm (5'8'')\n\nHe is a nobleman of House Vaude and a member of Clover Kingdom's Black Bull squad of the Magic Knights. He is from Tota, a village within the Clover Kingdom.",
+      "metadata": {
+        "gender": "male",
+        "age": "21-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124433-QyoZrgIUsSpd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124433
+      }
+    },
+    {
+      "id": "charlotte-roselei",
+      "name": "Charlotte Roselei",
+      "alt_names": [
+        "シャーロット・ローズレイ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 171 cm\n\nCharlotte is a noblewoman of House Roselei and the captain of Clover Kingdom's Blue Rose squad of the Magic Knights.\n\nShe appears as a quiet, cold, and indifferent woman who keeps her emotions controlled and well hidden. She is constantly shown to appear as a rather stern woman, despite inwardly having an inward monologue that constantly appears to say calm down, especially around Yami Sukehiro. She often does not respond to situations that go out of hand, preferring to appear indifferent and let things play out. She does respond well to emergencies and pressing concerns, performing her duties and moving swiftly to take care of any problems that come up. However, she still is capable of losing her composure and becoming annoyed, which almost always involves Yami teasing of her. She is also a lightweight when it comes to alcohol, barely able to finish a pint before becoming drunk.\n\nCharlotte considers her duty to the kingdom to be her foremost responsibility, with little interest in the social aspects of life. Her beauty is quite noticeable when she chooses to show it, but she is more comfortable in plate mail than silk dresses and cares little for the opinions of most others. She also has a hard time being open with most people and expressing herself on occasion. That said, she often quips back at her fellow captains when they make rash decisions or do something she considers stupid, particularly Yami. However, she also has admiration for those who are competent and work hard, though she rarely ever shows it. Outwardly, she displays little interest in finding a husband and becomes angry when the subject is brought up, for which Yami repeatedly teases her and calls her \"Spiny Prickly Queen.\"",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124434-ZmaDj2J5lSId.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124434
+      }
+    },
+    {
+      "id": "julius-novachrono",
+      "name": "Julius Novachrono",
+      "alt_names": [
+        "ユリウス・ノヴァクロノ",
+        "Wizard King"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 180 cm\n\nThe Wizard King of Clover Kingdom's Order of the Magic Knights.\n\n__Chapter 333 spoiler:__\n~!It is revealed that Julius was born in a body with two souls, with the other being [Lucius Zogratis](https://anilist.co/character/319876)!~",
+      "metadata": {
+        "gender": "male",
+        "age": "42",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124435-gXFVXWrCcieK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124435
+      }
+    },
+    {
+      "id": "vanessa-enoteca",
+      "name": "Vanessa Enoteca",
+      "alt_names": [
+        "バネッサ・エノテーカ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170 cm\n\nOriginally from the Forest of Witches, Vanessa is a member of the Black Bull Brigade.",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124436-dES6CtprlZNy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124436
+      }
+    },
+    {
+      "id": "klaus-lunettes",
+      "name": "Klaus Lunettes",
+      "alt_names": [
+        "クラウス・リュネット"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 176 cm\n\nKlaus is a nobleman and a member of Clover Kingdom's Golden Dawn squad of the Magic Knights.",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124437-3C1plJbD8jSn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124437
+      }
+    },
+    {
+      "id": "mimosa-vermillion",
+      "name": "Mimosa Vermillion",
+      "alt_names": [
+        "ミモザ・ヴァーミリオン"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 158 cm\n\nMimosa is a noblewoman of Clover Kingdom's House Vermillion and a member of the Golden Dawn squad of the Magic Knights.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124438-nTvKfJaMD4d5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124438
+      }
+    },
+    {
+      "id": "magna-swing",
+      "name": "Magna Swing",
+      "alt_names": [
+        "マグナ・スウィング"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 169 cm\n\nA member of the Black Bulls magic knight squad. Coming from Rayaka out in the countryside, he can easily bond with Asta whom he is profoundly impressed by.\n\nHis magic allows him to form fireballs which he can hurl at targets. He uses them as baseballs for the unofficial welcoming ceremonies he holds for new recruits. He can also form a magic bat for hitting his fireballs.",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124439-EqjbyC8GOKW0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124439
+      }
+    },
+    {
+      "id": "yami-sukehiro",
+      "name": "Yami Sukehiro",
+      "alt_names": [
+        "ヤミ・スケヒロ",
+        "Destruction God (破壊神)",
+        "Hakaishin"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 183 cm\n\nYami Sukehiro is a foreigner from the Land of the Sun and the first captain of the Clover Kingdom's Black Bulls squad of the Magic Knights. ~!He is also a former member of the Grey Deer squad.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124440-Lpdo6y8cljV6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124440
+      }
+    },
+    {
+      "id": "william-vangeance",
+      "name": "William Vangeance",
+      "alt_names": [
+        "ウィリアム・ヴァンジャンス"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 172 cm\n\nIs the captain of Clover Kingdom's Golden Dawn squad of the Magic Knights. He is currently the closest person to becoming the next Wizard King.",
+      "metadata": {
+        "gender": "male",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124441-nggzgZExhb1w.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124441
+      }
+    },
+    {
+      "id": "nozel-silva",
+      "name": "Nozel Silva",
+      "alt_names": [
+        "ノゼル・シルヴァ",
+        "Nozeru Shiruva"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 177 cm\n\nIs a nobleman and the oldest son of the Clover Kingdom's ruling family, House Silva. He is also the captain of the Silver Eagle squad of the Magic Knights. ~!He is also the son of Acier Silva, the older brother of Nebra Silva, Solid Silva and Noelle Silva, and the cousin of Kirsch Vermilion and Mimosa Vermilion.!~",
+      "metadata": {
+        "age": "29",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124442-KpZhHmhjw2EG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124442
+      }
+    },
+    {
+      "id": "lily-aquaria",
+      "name": "Lily Aquaria",
+      "alt_names": [
+        "リリー・アクアリア",
+        "Sister Lily"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 160 cm\n__Affinity:__ Water\n\nA nun and caretaker at the orphanage in Hage.\n ~!In chapter 334, Lucius Zogratis transforms her to a Paladin.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124443-1O3YJ33njYJ9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124443
+      }
+    },
+    {
+      "id": "grey",
+      "name": "Grey",
+      "alt_names": [
+        "グレイ"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Affinity: __Transformation\n__Height:__ 159cm\n\nA 3rd Class Junior Magic Knight of Clover Kingdom's Black Bull squad.",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124444-01PmRKd8Sned.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124444
+      }
+    },
+    {
+      "id": "gauche-adlai",
+      "name": "Gauche Adlai",
+      "alt_names": [
+        "ゴーシュ・アドレイ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 181 cm\n\nHe is a nobleman of House Adlai and a member of Clover Kingdom's Black Bull squad. He is also the smartest and most clever member of the Black Bulls. Obsessed with his sister Marie.",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124446-4YXFoCIllCKh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124446
+      }
+    },
+    {
+      "id": "charmy-pappitson",
+      "name": "Charmy Pappitson",
+      "alt_names": [
+        "チャーミー・パピットソン"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 142 cm\n\nMember of the Black Bull squad. She is an extremely big eater and tougher than she looks. When someone threatens to steal her meals, she becomes cold and merciless. In contrast, she is actually very generous and loves to share her meals with her friends, going so far as to constantly give them food after they have already expressed their satisfaction.",
+      "metadata": {
+        "gender": "female",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124447-2J1PKMgWETNT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124447
+      }
+    },
+    {
+      "id": "gordon-agrippa",
+      "name": "Gordon Agrippa",
+      "alt_names": [
+        "ゴードン・アグリッパ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 187 cm (6'1.6\")\n__Affinity:__ Poison Magic\n\nHe is a member of Clover Kingdom's Black Bull squad of the Magic Knights.\n\nGordon was born into the Agrippa Family, a commoner family infamous for their Curse Magic. He grew up lonely and unable to make friends due to his magic and appearance. After receiving his grimoire, Gordon abandoned his family and joined the Black Bull squad of the Magic Knights. Over the years, he comes to view them as friends.",
+      "metadata": {
+        "gender": "male",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124448-YHRpWxJUhNnw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124448
+      }
+    },
+    {
+      "id": "luck-voltia",
+      "name": "Luck Voltia",
+      "alt_names": [
+        "ラック・ボルティア"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Affinity:__ Lightning\n__Height:__ 167 cm\n\nA 5th Class Junior Magic Knight of Clover Kingdom's Black Bull and Royal Knights squads.",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124449-M67Ex2GcxmYM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124449
+      }
+    },
+    {
+      "id": "marx-francois",
+      "name": "Marx Francois",
+      "alt_names": [
+        "マルクス・フランソワ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 167 cm\n__Species:__ Human\n__Affinity:__ Memory\n\nHe is one of the advisers of the Magic Emperor.",
+      "metadata": {
+        "gender": "male",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124454-6iHuVDLPEfrj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124454
+      }
+    },
+    {
+      "id": "gueldre-poizot",
+      "name": "Gueldre Poizot",
+      "alt_names": [
+        "ゲルドル・ポイゾット"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 194 cm\n\nHe is the former captain of Clover Kingdom's Violet Orca squad of the Magic Knights.",
+      "metadata": {
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124455-cRPjIIy7C6b7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124455
+      }
+    },
+    {
+      "id": "jack-the-ripper",
+      "name": "Jack the Ripper",
+      "alt_names": [
+        "ジャック・ザリッパー",
+        "ジャック・ザ・リッパー"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 197 cm\n\nJack is the captain of Clover Kingdom's Green Mantis squad of the Magic Knights.",
+      "metadata": {
+        "gender": "male",
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124456-llrSWfAXlnbb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124456
+      }
+    },
+    {
+      "id": "rill-boismortier",
+      "name": "Rill Boismortier",
+      "alt_names": [
+        "リル・ボワモルティエ",
+        "Riru Bowamorutie"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165 cm\n\nRill is the captain of Clover Kingdom's Azure Deer squad of the Magic Knights and a member of the Royal Knights squad.",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124457-d3MtJfUT6yqI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124457
+      }
+    },
+    {
+      "id": "dorothy-unsworth",
+      "name": "Dorothy Unsworth",
+      "alt_names": [
+        "ドロシー・アンズワース",
+        "Dorothy Ansoit",
+        "Doroshī Anzuwāsu"
+      ],
+      "role": "supporting",
+      "description": "Dorothy is the captain of Clover Kingdom's Coral Peacock squad of the Magic Knights. She sleeps most of the time, but when she is awake she can bring enemies into a dream world where she controls everything.",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124458-U6zNf813fDxG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124458
+      }
+    },
+    {
+      "id": "zora-ideale",
+      "name": "Zora Ideale",
+      "alt_names": [
+        "ゾラ・イデアーレ",
+        "Xerx Lugner"
+      ],
+      "role": "supporting",
+      "description": "~!Zora is the son of Zara Ideale, the first commoner Magic Knight, and is a rogue member of Clover Kingdom's Black Bull squad. He assumes the identity of Xerx Lugner during the Royal Knights Selection Exam. Zora changes during the Selection Exam where he begins to take on a similar mindset to his father, with a strong trust in his comrades. The current Wizard King confronts Zora after the exam, speaking of how he was a friend of his fathers having met on the battlefield. The Wizard King prompts Zora to join the Magic Knight Squad he belongs in (presumably the Black Bulls), however Zora shrugs this off, ignoring the Wizard King. !~",
+      "metadata": {
+        "gender": "male",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124459-UggsjRUfNtko.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124459
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:26:32.112Z"
+}

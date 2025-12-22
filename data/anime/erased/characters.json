@@ -1,0 +1,486 @@
+{
+  "work_id": "erased",
+  "count": 20,
+  "characters": [
+    {
+      "id": "satoru-fujinuma",
+      "name": "Satoru Fujinuma",
+      "alt_names": [
+        "藤沼悟"
+      ],
+      "role": "protagonist",
+      "description": "A struggling manga author with a supernatural power that enables, or rather, forces him to prevent deaths and catastrophes that happen near him by sending him back in time when an accident occurs, repeating the scene until the accident is prevented.\n\n~!He falls into a coma for 15 years after he was nearly murdered by Yashiro!~",
+      "metadata": {
+        "gender": "male",
+        "age": "10-11 (Past), 29 (Present)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89275-xCGzh6jAGe2v.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89275
+      }
+    },
+    {
+      "id": "kayo-hinazuki",
+      "name": "Kayo Hinazuki",
+      "alt_names": [
+        "雛月加代"
+      ],
+      "role": "protagonist",
+      "description": "A 10-year-old girl and the first victim of the serial killer/kidnapper. She went missing on the 2nd of March 1988. Her body was found a few days later once the snow had thawed.",
+      "metadata": {
+        "gender": "female",
+        "age": "10-11 (Past)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89276-LjlYvXfOnjHB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89276
+      }
+    },
+    {
+      "id": "sachiko-fujinuma",
+      "name": "Sachiko Fujinuma",
+      "alt_names": [
+        "藤沼佐知子"
+      ],
+      "role": "supporting",
+      "description": "Sachiko is Satoru's mother and former news announcer. She possesses a sharp eye and is quick to observe any irregularities. She knows about the cold cases of serial kidnapping in her town but decided to keep quiet and ignore it due to her child's growth and safety.",
+      "metadata": {
+        "gender": "female",
+        "age": "52 (Past) 66 (Present)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89326-zNVEqTuDt7kL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89326
+      }
+    },
+    {
+      "id": "airi-katagiri",
+      "name": "Airi Katagiri",
+      "alt_names": [
+        "片桐愛梨"
+      ],
+      "role": "supporting",
+      "description": "Airi Katagiri is a high school student and Satoru's co-worker at Oasi Pizza. She becomes involved in Satoru's life when he manages to prevent life-threatening incidents from occurring.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89355-w1xEKGHisGWE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89355
+      }
+    },
+    {
+      "id": "kazu",
+      "name": "Kazu",
+      "alt_names": [
+        "カズ"
+      ],
+      "role": "supporting",
+      "description": "Kazu is one of Satoru's primary school classmates.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89356-O2NYct6HMlYj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89356
+      }
+    },
+    {
+      "id": "kenya-kobayashi",
+      "name": "Kenya Kobayashi",
+      "alt_names": [
+        "小林賢也",
+        "ケンヤ"
+      ],
+      "role": "supporting",
+      "description": "Kenya is one of Satoru's primary school classmates. He has a strong sense of justice and has a sharp eye for abnormalities.\n\n~!He becomes a lawyer in the future.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89357-E9erSMef5EJC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89357
+      }
+    },
+    {
+      "id": "osamu",
+      "name": "Osamu",
+      "alt_names": [
+        "修",
+        "オサム"
+      ],
+      "role": "supporting",
+      "description": "Osamu is one of Satoru's primary school classmates.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89358-FA7IQL7z0MvL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89358
+      }
+    },
+    {
+      "id": "jun-shiratori",
+      "name": "Jun Shiratori",
+      "alt_names": [
+        "白鳥潤",
+        "Yuuki"
+      ],
+      "role": "supporting",
+      "description": "Jun Shiratori was a food delivery worker in Satoru's hometown and often approached lone students around his house. He was nicknamed \"Yuuki\" because he was always encouraging the children to be courageous. He was originally framed as the killer of the three kidnapped students in the town and sentenced to death.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89359-xsqTQviyS5Ii.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89359
+      }
+    },
+    {
+      "id": "hiromi-sugita",
+      "name": "Hiromi Sugita",
+      "alt_names": [
+        "杉田広美",
+        "ヒロミ"
+      ],
+      "role": "supporting",
+      "description": "Hiromi is one of Satoru's primary school classmates. \n~!He was one of the original victims in the serial kidnapping case.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89360-C9pecRWkJExF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89360
+      }
+    },
+    {
+      "id": "gaku-yashiro",
+      "name": "Gaku Yashiro",
+      "alt_names": [
+        "八代学"
+      ],
+      "role": "supporting",
+      "description": "Gaku is Satoru's homeroom teacher during primary school.\n\n~!In the original timeline, Yashiro successfully murdered two children at Mikoto Elementary School—Kayo Hinazuki and Hiromi Sugita—as well as another student from Izumi Primary named Aya Nakanishi. After being a school teacher, he inherited his father-in-law's constituency and became a council member in his place. During his time as a council member, he is seen by Sachiko Fujinuma during his attempt to abduct another child. After Sachiko remembers his identity, she is immediately murdered and her son, Satoru, is framed for the murder.!~\n\n~!\nIn the third Revival, while Satoru is unaware of Yashiro's true identity as the murderer, he completely renders Yashiro's plans useless. Yashiro attempts to murder Satoru by drowning him in a car in which he is locked in tight by a seatbelt. Satoru somehow survives, and Yashiro is left entertained about Satoru's persistence. Satoru goes into a coma for 15 years, and Yashiro watches over him until he wakes up again. Upon Satoru's awakening, Yashiro again tries to frame Satoru for murder, only to be caught by a plan formulated by Satoru.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "28-33 (first appearance) 46-52 (2006)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89365-Esm33rYZ3x0s.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89365
+      }
+    },
+    {
+      "id": "misato",
+      "name": "Misato",
+      "alt_names": [
+        "美里"
+      ],
+      "role": "supporting",
+      "description": "Misato is one of [Satoru](https://anilist.co/character/89275/Satoru-Fujinuma)’s primary school classmates. She holds a grudge against [Kayo](https://anilist.co/character/89276/Kayo-Hinazuki).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89366-5KwJW3NNmmti.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89366
+      }
+    },
+    {
+      "id": "akemi-hinazuki",
+      "name": "Akemi  Hinazuki",
+      "alt_names": [
+        "雛月明美",
+        "雛月母"
+      ],
+      "role": "supporting",
+      "description": "Mother of [Kayo Hinazuki](https://anilist.co/character/89276/Kayo-Hinazuki).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129807-4AM8Oe3szyxL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129807
+      }
+    },
+    {
+      "id": "takahashi",
+      "name": "Takahashi",
+      "alt_names": [
+        "高橋"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382880-lBvb1PKOoAiI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382880
+      }
+    },
+    {
+      "id": "kumi",
+      "name": "Kumi",
+      "alt_names": [
+        "久美"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382885-Wvl27kuVoKnf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382885
+      }
+    },
+    {
+      "id": "sawada",
+      "name": "Sawada",
+      "alt_names": [
+        "澤田"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382886-QXMx72vtxGmZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382886
+      }
+    },
+    {
+      "id": "hamada",
+      "name": "Hamada",
+      "alt_names": [
+        "浜田"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382887-zeZRz20M1eRF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382887
+      }
+    },
+    {
+      "id": "aya-nakanishi",
+      "name": "Aya Nakanishi",
+      "alt_names": [
+        "中西彩"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382888-wWk2cja1E8Hc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382888
+      }
+    },
+    {
+      "id": "shiratori-no-chichi",
+      "name": "Shiratori no Chichi",
+      "alt_names": [
+        "白鳥父",
+        "Jun's Father"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382883-tdT5mjeqw6UO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382883
+      }
+    },
+    {
+      "id": "hinazuki-sobo",
+      "name": "Hinazuki Sobo",
+      "alt_names": [
+        "雛月祖母",
+        "Kayo's Grandmother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382884-zQApEriAaFDZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382884
+      }
+    },
+    {
+      "id": "sonohokasei",
+      "name": "Sonohokasei",
+      "alt_names": [
+        "その他声",
+        "その他の登場人物",
+        "Others",
+        "Additional Voices",
+        "Various Voices",
+        "Mumei (無名)",
+        "Nameless",
+        "Non-credit (ノンクレジット)",
+        "Yakufumei (役不明)"
+      ],
+      "role": "minor",
+      "description": "This character page is set to represent and list credits for voice roles without a specific character name/role attributed. Character roles named specifically should be added separately.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36310-MxvktN1rvC91.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36310
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:18:07.597Z"
+}

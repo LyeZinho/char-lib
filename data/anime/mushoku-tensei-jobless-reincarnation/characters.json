@@ -1,0 +1,605 @@
+{
+  "work_id": "mushoku-tensei-jobless-reincarnation",
+  "count": 25,
+  "characters": [
+    {
+      "id": "rudeus-greyrat",
+      "name": "Rudeus Greyrat",
+      "alt_names": [
+        "ルーデウス・グレイラット",
+        "Rudy",
+        "Quagmire",
+        "Doronuma (泥沼)",
+        "Kennel Master",
+        "Shadow Moon Knight"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 175 cm (5'9\")\n\nRudeus is a tall, well-built, and cool-looking man. However, before his reincarnation, he was originally an overweight 34-year-old Japanese NEET who became a recluse following his high-school persecution. Because of his former life, he is careful not to get carried away and become arrogant. As a result, he is extremely self-aware and humble because he does not want to revert to his old self. He is a kind person, helping his friends and protecting his family whenever needed. Due to being capable in many fields, people have high expectations of him. His current body possesses a high affinity for magic even as a child. Rudeus is very polite to others, often making them uncomfortable.\n\nRudeus is one of the few people capable of using a voiceless incantation, and even rarer as a person who can use voiceless incantation with melded magics. He cannot use voiceless incantation for healing magic due to his lack of understanding in regards to how mana is manipulated to heal. A normal Magician takes at least five seconds for a simple spell, while for higher-level spells it's thirty to sixty seconds. Rudeus can do it almost instantly no matter what difficulty of the spell, with the exception of healing magic.",
+      "metadata": {
+        "gender": "male",
+        "age": "34 (previous life), 23 (current)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88348-bIe5XnXdRpmX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88348
+      }
+    },
+    {
+      "id": "roxy-migurdia",
+      "name": "Roxy Migurdia",
+      "alt_names": [
+        "ロキシー・ミグルディア"
+      ],
+      "role": "protagonist",
+      "description": "Roxy Migurdia is a talented mage from the Migurd race, and a former magic tutor. Because she can't use telepathy, she left her village due to feeling isolated from her peers. Unable to make a stable living as an adventurer, she became a travelling tutor and eventually becomes [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat)' teacher.\n\n~!She is Rudeus' second wife and gives birth to their daughter Lara & Lily. She is one of the three goddesses Rudeus worships in his religion. Her panties that serves as a relic for the Goddess of Wisdom is enshrined in the basement.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88350-QU1iwgZ887U8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88350
+      }
+    },
+    {
+      "id": "sylphiette",
+      "name": "Sylphiette",
+      "alt_names": [
+        "シルフィエット",
+        "Sylphy"
+      ],
+      "role": "protagonist",
+      "description": "Sylphiette is [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat)' childhood friend who is part human, elf, and beast race.\n\n~!Following the teleportation incident, during which her hair turned white from mana exhaustion, she became Princess Ariel's personal bodyguard under the alias Fitz.!~\n\n~!She is Rudeus' first wife and gives birth to their daughter Lucy and son Sieghardt. She is one of the three goddesses Rudeus worships in his religion. A cloth stained with her virgin blood that serves as a relic for the Goddess of Love is enshrined in the basement.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88346-h8kCL93AXj4n.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88346
+      }
+    },
+    {
+      "id": "eris-boreas-greyrat",
+      "name": "Eris Boreas Greyrat",
+      "alt_names": [
+        "エリス・ボレアス・グレイラット",
+        "Mad Dog"
+      ],
+      "role": "protagonist",
+      "description": "Eris Boreas Greyrat is a noble girl and distant relative of [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat). She is a tsundere character with a short temper but has potential in the Sword-God style.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88349-5dsNUah3oBj8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88349
+      }
+    },
+    {
+      "id": "ruijerd-superdia",
+      "name": "Ruijerd Superdia",
+      "alt_names": [
+        "ルイジェルド・スペルディア",
+        "Watch Dog",
+        "Dead End"
+      ],
+      "role": "protagonist",
+      "description": "Ruijerd Superdia is the former leader of the Superd's Warrior group whom once served under Laplace with unwavering loyalty. He was accompanying [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat) and [Eris](https://anilist.co/character/88349/Eris-Boreas-Greyrat).\n\n~!Laplace betrayed his group by giving them each a devil spear which made them ecstatic from killing, even their own family. After giving his son a fatal wound, his son managed to destroy the devil spear and Ruijerd finally wakes up from the brainwash. He considered committing suicide but decided not to and everyone of that warrior group swore revenged on Laplace.\n\nHe finally got his revenge after several years of hiding. He interfered in the battle between Laplace and the three heroes. But even if Laplace was defeated, there was no way to change the things that had already transpired.\n\nAfter exacting his revenge, he now has a goal of removing the infamy the Superd race has.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88351-grqY44xz6bvP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88351
+      }
+    },
+    {
+      "id": "paul-greyrat",
+      "name": "Paul Greyrat",
+      "alt_names": [
+        "パウロ・グレイラット"
+      ],
+      "role": "supporting",
+      "description": "Paul Greyrat is the father of [Rudeus Greyrat](https://anilist.co/character/88348/Rudeus-Greyrat), Norn Greyrat and Aisha Greyrat. He is both a talented man that became advanced in all three sword arts at a young age and a lustful man that attracts and sleeps with many women before [Zenith](https://anilist.co/character/179855/Zenith-Greyrat) chained him down.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88347-YtQTlChhN50m.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88347
+      }
+    },
+    {
+      "id": "shizuka-nanahoshi",
+      "name": "Shizuka Nanahoshi",
+      "alt_names": [
+        "七星静香",
+        "ナナホシ",
+        "Silent Sevenstar (サイレント・セブンスター)",
+        "Kamen no Onna (仮面の女)"
+      ],
+      "role": "supporting",
+      "description": "__Light Novel Volume 9 spoiler__\n\n~! Nanahoshi Shizuka is a Japanese girl that was saved by [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat) in his past life, but instead of reincarnating like Rudeus, she was teleported to Asura Kingdom and was saved by [Orsted](https://anilist.co/character/187382/Orsted). !~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137816-ub5QE86fHD3C.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137816
+      }
+    },
+    {
+      "id": "norn-greyrat",
+      "name": "Norn Greyrat",
+      "alt_names": [
+        "ノルン・グレイラット"
+      ],
+      "role": "supporting",
+      "description": "Norn Greyrat is the daughter of [Zenith Greyrat](https://anilist.co/character/179855/Zenith-Greyrat) and [Paul Greyrat](https://anilist.co/character/88347/Paul-Greyrat) and is the younger sister of [Rudeus Greyrat](https://anilist.co/character/88348) and older half-sister of [Aisha Greyrat](https://anilist.co/character/145459/Aisha-Greyrat).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145458-JG4FkAjUjw2l.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145458
+      }
+    },
+    {
+      "id": "aisha-greyrat",
+      "name": "Aisha Greyrat",
+      "alt_names": [
+        "アイシャ・グレイラット"
+      ],
+      "role": "supporting",
+      "description": "Aisha Greyrat is the daughter of [Lilia](https://anilist.co/character/179854/Lilia) and [Paul Greyrat](https://anilist.co/character/88347/Paul-Greyrat) and is the younger half-sister of [Rudeus Greyrat](https://anilist.co/character/88348/Rudeus-Greyrat) and [Norn Greyrat](https://anilist.co/character/145458/Norn-Greyrat).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145459-qCq1vKZtxkT3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145459
+      }
+    },
+    {
+      "id": "lilia",
+      "name": "Lilia",
+      "alt_names": [
+        "リーリャ"
+      ],
+      "role": "supporting",
+      "description": "Lilia is a maid of the Greyrat household. She was [Paul](https://anilist.co/character/88347/Paul-Greyrat)'s classmate in a swordsman dojo. A crippling injury forces her to leave her position as a princess guard, and she becomes a maid to Paul and [Zenith](https://anilist.co/character/179855/Zenith-Greyrat).\n\n~!After working through the revelation with the family, she is taken in as Paul's second wife and becomes closer friends with Zenith. Lillia gets pregnant with Paul's daughter and becomes the mother of [Aisha Greyrat](https://anilist.co/character/145459/Aisha-Greyrat)!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b179854-hgRPJ1646RIK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 179854
+      }
+    },
+    {
+      "id": "zenith-greyrat",
+      "name": "Zenith Greyrat",
+      "alt_names": [
+        "ゼニス・グレイラット"
+      ],
+      "role": "supporting",
+      "description": "Zenith Greyrat is the wife of [Paul Greyrat](https://anilist.co/character/88347) and the mother of [Rudeus Greyrat](https://anilist.co/character/88348) and [Norn Greyrat](https://anilist.co/character/145458/Norn-Greyrat).\n\n~!Zenith was born in the Holy Country of Milis, as the second daughter of an earl of Milis. She grew up following the Milis Church religion, never breaking the rules, getting good grade in school, and had nickname Milis young lady standard. But, when Zenith reached the age of 15, she rebelled against her parents and ran away from home.\n\nWhile trying to find a job as a Healer, she was a solo adventurer for a time. However she was frequently conned out of a large amount of money due to the little knowledge she had on how expensive healer's are, but was saved by Paul Greyrat. She then join Paul's party, the Fangs of the Black Wolf, as a healer. She spent a long time in the party as a healer and gradually began to fall in love with Paul and wanted to marry him. However Paul was a womanizer who frequently slept with multiple women and she didn't want to be with someone like that so she told him if he promised to be faithful to her then she would sleep with him, to which he agreed.\nShortly after, she became pregnant with Rudeus and as a result both her and Paul retired from adventuring and settled down in the countryside.!~\n\n__Light Novel Volume 13 Spoiler__\n~!After being freed from the Teleport Labyrinth, she does not express emotions actively since she sees the world around her as if she were in a trance or dream. Occasionally she will display actions that show her emotions, such as when she smiled at Norn or hit Rudeus when he said he was going to add Eris to his family as a wife, which shows signs of her personality basically unchanged but hidden and suppressed by her dream state caused by her Miko Powers.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b179855-Tape2W456xwI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 179855
+      }
+    },
+    {
+      "id": "elinalise-dragonroad",
+      "name": "Elinalise Dragonroad",
+      "alt_names": [
+        "エリナリーゼ・ドラゴンロード"
+      ],
+      "role": "supporting",
+      "description": "Elinalise is a former member of Paul's party. She has an erotic nature due to her curse. She is a warrior that is good at managing monster aggro but isn't a great fighter.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186490-18Y2kFHZhr1m.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 186490
+      }
+    },
+    {
+      "id": "kishirika-kishirisu",
+      "name": "Kishirika Kishirisu",
+      "alt_names": [
+        "キシリカ・キシリス",
+        "The Immortal Demon Empress",
+        "Demon Emperor of Resurrection",
+        "Demon Emperor of Demon Eyes",
+        "Great Demon Emperor",
+        "The Great Empress of the Demon Realm"
+      ],
+      "role": "supporting",
+      "description": "Kishirika Kishirisu is The Great Empress of the Demon Realm. She is the demon empress known for her demon eyes' powers and the ability to bestow others with demon eyes. She is engaged to [Badigadi](https://anilist.co/character/262620/Badigadi), the demon lord of immortality.\n\n__Light Novel Volume 4 Spoiler__\n~!Kishirika Kishirisu is the person that is responsible for giving [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat) his demon eye, among other favors!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186588-hooSSJ8S9Wcv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 186588
+      }
+    },
+    {
+      "id": "orsted",
+      "name": "Orsted",
+      "alt_names": [
+        "オルステッド",
+        "Dragon God"
+      ],
+      "role": "supporting",
+      "description": "Orsted is the current Dragon God, 2nd-ranked of the 7 World Powers, and the sworn enemy of [Hitogami](https://anilist.co/character/211165/Hitogami). Similar to other Dragon Race people such as [Perugius](https://anilist.co/character/209572/Perugius-Dola), he has silver hair and golden sanpaku eyes with an overpowering look. He carries no visible equipment and wears a white coat adorned with fur.\n\nOrsted has a curse that makes every living being feel an overwhelming fear just from being within his presence. Strangely enough, this curse does not affect [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat) or [Nanahoshi](https://anilist.co/character/137816/Nanahoshi-Shizuka).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187382-NBP6I5OKXHH9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187382
+      }
+    },
+    {
+      "id": "ghislaine-dedoldia",
+      "name": "Ghislaine Dedoldia",
+      "alt_names": [
+        "ギレーヌ・デドルディア"
+      ],
+      "role": "supporting",
+      "description": "__Ghislaine Dedoldia__ is the daughter of Gustav the former Doldia village chief, and the mentor of [Eris](https://anilist.co/character/88349/Eris-Boreas-Greyrat) and she is also the student of [Rudeus Greyrat](https://anilist.co/character/88348/Rudeus-Greyrat) in magic and other subjects. She is one of the few people who have become a Sword King.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206392-BKJ4J3S2FzpF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 206392
+      }
+    },
+    {
+      "id": "pax-shirone",
+      "name": "Pax Shirone",
+      "alt_names": [
+        "パックス・シーローン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206430-lhz550WfFrgz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 206430
+      }
+    },
+    {
+      "id": "philip-boreas-greyrat",
+      "name": "Philip Boreas Greyrat",
+      "alt_names": [
+        "フィリップ・ボレアス・グレイラット"
+      ],
+      "role": "supporting",
+      "description": "**Philip Boreas Greyrat** is the son of Sauros and father of Eris. He holds the position as mayor of Roa.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207341-Mq2nb61otzI3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207341
+      }
+    },
+    {
+      "id": "thomas",
+      "name": "Thomas",
+      "alt_names": [
+        "トーマス"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207342-zgfUndU5NlEc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207342
+      }
+    },
+    {
+      "id": "sauros-boreas-greyrat",
+      "name": "Sauros Boreas Greyrat",
+      "alt_names": [
+        "サウロス・ボレアス・グレイラット"
+      ],
+      "role": "supporting",
+      "description": "__Sauros Boreas Greyrat__ was the Landlord of the Fittoa Region, Asura Kingdom and the grandfather of [Eris](https://anilist.co/character/88349/Eris-Boreas-Greyrat).\n\n~!After the Teleport Incident, he was blamed for the loss of the Fittoa Region and was executed.!~\n\n(Source: Mushoku Tensei Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207786-K3ND5XfwzHkc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207786
+      }
+    },
+    {
+      "id": "hilda-boreas-greyrat",
+      "name": "Hilda Boreas Greyrat",
+      "alt_names": [
+        "ヒルダ・ボレアス・グレイラット"
+      ],
+      "role": "supporting",
+      "description": "**Hilda Boreas Greyrat** is the mother of Eris and the wife of Philip.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208081-IkGyzIBSLI8H.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208081
+      }
+    },
+    {
+      "id": "alphonse",
+      "name": "Alphonse",
+      "alt_names": [
+        "アルフォンス"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208082-Wr3D49EwT5Tj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208082
+      }
+    },
+    {
+      "id": "edna-leylune",
+      "name": "Edna Leylune",
+      "alt_names": [
+        "エドナ・レイルーン"
+      ],
+      "role": "supporting",
+      "description": "**Edna Rayrune** is a middle-aged woman who is Eris' tutor in etiquette.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208754-ScSBf0sEYXbO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208754
+      }
+    },
+    {
+      "id": "almanfi",
+      "name": "Almanfi",
+      "alt_names": [
+        "アルマンフィ",
+        "Almanfi of the Bright"
+      ],
+      "role": "supporting",
+      "description": "Almanfi is one of eleven servants of Perugius.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209571-dq7u2VypFESR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209571
+      }
+    },
+    {
+      "id": "perugius-dola",
+      "name": "Perugius Dola",
+      "alt_names": [
+        "ペルギウス・ドーラ",
+        "Armored Dragon King"
+      ],
+      "role": "supporting",
+      "description": "Perugius Dola is one of the heroes who banished Demon God Laplace.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209572-UqorSZ7Gf5aK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209572
+      }
+    },
+    {
+      "id": "hitogami",
+      "name": "Hitogami",
+      "alt_names": [
+        "ヒトガミ",
+        "Human God",
+        "Man God"
+      ],
+      "role": "supporting",
+      "description": "Hitogami is the Man God, having the power to see into the future, and the sworn enemy of [Orsted](https://anilist.co/character/187382). He has a blank white face coupled with a grin that eludes memory, which gives off the feeling that his face is covered in a mosaic. He helps [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat) throughout key points in his journey.\n\n~!Hitogami later becomes the overarching antagonist of the series following the revelation that he actually sought to prevent the birth of Rudeus' children, who are prophesied to kill him one day.!~\n\n~!Hitogami's exact origins are unknown, however it is known that after the Creator God's death, unbeknownst to anyone, he was born within the Void World. At some point in the distant past, the being who would come to be known as Hitogami killed or otherwise usurped the original Man God and took his form. He then began manipulating the Dragon God and his five Dragon Generals into destroying the other four worlds and then proceeded to help the survivors of those ruined world to flee into the human world.!~",
+      "metadata": {
+        "age": "5000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b211165-4hszgVDUJ228.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 211165
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:37:11.944Z"
+}

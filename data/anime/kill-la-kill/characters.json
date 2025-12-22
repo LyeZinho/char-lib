@@ -1,0 +1,573 @@
+{
+  "work_id": "kill-la-kill",
+  "count": 25,
+  "characters": [
+    {
+      "id": "ryuuko-matoi",
+      "name": "Ryuuko Matoi",
+      "alt_names": [
+        "纏流子",
+        "Ryuko Matoi"
+      ],
+      "role": "protagonist",
+      "description": "She transfers into Honnouji Academy as a second-year student, an Academy ruled by power and authority. She wields a huge single-bladed scissor, and demands to know the owner of the other half. As she remembers, the wielder of the lost half of the scissor blade is the same person who killed her father.\n\n~!Her body has been fused with life fibers, making her a \"life fiber monster\"!~\n~!She is the daughter of Kiryuuin Ragyou, making Kiryuuin Satsuki her older sister!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 83797
+      }
+    },
+    {
+      "id": "satsuki-kiryuuin",
+      "name": "Satsuki Kiryuuin",
+      "alt_names": [
+        "鬼龍院皐月",
+        "Satsuki Kiryuin",
+        "Steel Queen"
+      ],
+      "role": "protagonist",
+      "description": "Satsuki Kiryuin is another main heroine of the anime, \"Kill La Kill.\" She is an 18-year-old woman, and is the Student Council President of Honnouji Academy. She rules the school with an iron first, and assesses the students' abilities, holding the position/authority to draw out power surpassing that of humans.\n\n~!She seems to have information regarding the death of Ryuko's father, putting the two at odds immediately after her arrival.!~\n\n~!She later states that she was the one to send Harime Nui to kill her father, however that was a lie, as the entire murder was orchestrated by Kiryuuin Ragyou and Harime Nui.!~\n\n~!After betraying her mother, she shares the same goal as Ryuuko Matoi.!~\n\n~!She is the sister of Ryuuko Matoi.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b83799-oPxSwMA9XAvu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 83799
+      }
+    },
+    {
+      "id": "senketsu",
+      "name": "Senketsu",
+      "alt_names": [
+        "鮮血",
+        "Kamui"
+      ],
+      "role": "protagonist",
+      "description": "A living sailor uniform Ryūko finds beneath her house. Senketsu is a Kamui (神衣 lit. \"God Clothes\"), an outfit that provides its wearer with godlike abilities in exchange for their blood. He has the power to transform into an indestructible suit of armor, albeit with a skimpy appearance, much to Ryūko's embarrassment. His name, given to him by Ryūko, literally means 'fresh blood'.\n\n~!After defeating Kiryuuin Ragyou, while falling through the earth's stratosphere, Senketsu burns up protecting Ryuuko.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87510-ZH2qoBYc6XNH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87510
+      }
+    },
+    {
+      "id": "mako-mankanshoku",
+      "name": "Mako Mankanshoku",
+      "alt_names": [
+        "満艦飾マコ"
+      ],
+      "role": "protagonist",
+      "description": "Mako is a second year student at Honnouji Academy. She is an uber air-head, so her unbelievable actions never cease to shock and awe the people around her. She strongly believes that she and Ryuko are best of friends even though they have just met.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87511-T8lwlQKd6SoK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87511
+      }
+    },
+    {
+      "id": "ira-gamagoori",
+      "name": "Ira Gamagoori",
+      "alt_names": [
+        "蟇郡 苛"
+      ],
+      "role": "supporting",
+      "description": "Gamagoori Ira is one of Four Kings. He is the Head of the Public Morals Committee.\n\r\nHe sworn absolute loyalty to the Student Council President.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87604.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87604
+      }
+    },
+    {
+      "id": "houka-inumuta",
+      "name": "Houka Inumuta",
+      "alt_names": [
+        "犬牟田 宝火"
+      ],
+      "role": "supporting",
+      "description": "Houka Inumuta is one of Four Kings, as he is the Student Council Secretary and Intelligence and Strategic Analyst.\nHe always tries to use the least effort to achieve the greatest results.\n\n~!After the events of episode 17, He and the other 4 kings join Nudist Beach!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87605.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87605
+      }
+    },
+    {
+      "id": "nonon-jakuzure",
+      "name": "Nonon Jakuzure",
+      "alt_names": [
+        "蛇崩乃音",
+        "The Snake"
+      ],
+      "role": "supporting",
+      "description": "Nonon Jakuzure is one of the main characters in Kill la Kill and one of the Student Council's Elite Four. She regulates the school's non-athletic groups, such as the gardening and biology clubs. Nonon also runs the school's Rakugo Club, 100 Poems by 100 Poets Club and most likely the marching band. Nonon's Three-Star Goku Uniform resembles that of a drum majorette. Her baton is not just for show, as Nonon is a conductor as well. \n\n~!After the events of episode 17, she and the other 4 kings join Nudist Beach!~",
+      "metadata": {
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87606-3A51LUnRuyHf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87606
+      }
+    },
+    {
+      "id": "matarou-mankanshoku",
+      "name": "Matarou Mankanshoku",
+      "alt_names": [
+        "満艦飾 又郎"
+      ],
+      "role": "supporting",
+      "description": "Mako's little brother. He acts as the leader of the local troublemakers who mostly loiters around the Honnouji Town cul-de-sac.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87607.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87607
+      }
+    },
+    {
+      "id": "barazou-mankanshoku",
+      "name": "Barazou Mankanshoku",
+      "alt_names": [
+        "満艦飾 薔薇蔵"
+      ],
+      "role": "supporting",
+      "description": "Mako's father. He is the town’s unlicensed doctor. He's killed more patients than actually saved them.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87608.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87608
+      }
+    },
+    {
+      "id": "sukuyo-mankanshoku",
+      "name": "Sukuyo Mankanshoku",
+      "alt_names": [
+        "満艦飾好代"
+      ],
+      "role": "supporting",
+      "description": "Mako's carefree mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87609.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87609
+      }
+    },
+    {
+      "id": "aikurou-mikisugi",
+      "name": "Aikurou Mikisugi",
+      "alt_names": [
+        "美木杉 愛九郎"
+      ],
+      "role": "supporting",
+      "description": "A mysterious male teacher who develops an interest in Ryuko soon after she arrives at Honnouji Academy.\n\n~!He is secretly an operative of the terrorist organization Nudist Beach, working to prevent Satsuki Kiryuin's influence from spreading any further. He also knew Ryuko's father before he was murdered. Has a tendency to strip, as fitting with his organization's name.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87610-8k8UKS9Mkhlo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87610
+      }
+    },
+    {
+      "id": "maiko-oogure",
+      "name": "Maiko Oogure",
+      "alt_names": [
+        "大暮麻衣子"
+      ],
+      "role": "supporting",
+      "description": "Oogure Maiko is the Head of Trap development.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87611.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87611
+      }
+    },
+    {
+      "id": "uzu-sanageyama",
+      "name": "Uzu Sanageyama",
+      "alt_names": [
+        "猿投山渦"
+      ],
+      "role": "supporting",
+      "description": "Sanageyama Uzu is one of Four Kings. He is the Head of the Sports Club.\n\n~!After losing a battle to Ryuuko Matoi, he resolves himself to ask Iori Shirou to sew his eyes shut.!~\n\n~!After the events of episode 17, he and the other 4 kings join Nudist Beach.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87612-jnXPJSksYrV1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87612
+      }
+    },
+    {
+      "id": "takaharu-fukuroda",
+      "name": "Takaharu Fukuroda",
+      "alt_names": [
+        "袋田隆治"
+      ],
+      "role": "supporting",
+      "description": "The Boxing Club Captain.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87613.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87613
+      }
+    },
+    {
+      "id": "omiko-hakodate",
+      "name": "Omiko Hakodate",
+      "alt_names": [
+        "臣子 函館"
+      ],
+      "role": "supporting",
+      "description": "Omiko Hakodate is a Third Year Class T student and Captain of the Tennis Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87614.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87614
+      }
+    },
+    {
+      "id": "takiji-kuroido",
+      "name": "Takiji Kuroido",
+      "alt_names": [
+        "黒井戸滝司"
+      ],
+      "role": "supporting",
+      "description": "The head steward to the Kiryuin Family. He has been entrusted to care for the Kiryuin mansion in Satsuki’s mother’s absence.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87615.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87615
+      }
+    },
+    {
+      "id": "shirou-iori",
+      "name": "Shirou Iori",
+      "alt_names": [
+        "伊織糸郎"
+      ],
+      "role": "supporting",
+      "description": "The president of the Honnouji Academy Sewing Club. The Sewing Club is responsible for manufacturing the Goku Uniforms.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87616-KnkRogdwB0sR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87616
+      }
+    },
+    {
+      "id": "guts",
+      "name": "Guts",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "The Mankanshoku family’s pet.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87617.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87617
+      }
+    },
+    {
+      "id": "sanzou-soroi",
+      "name": "Sanzou Soroi",
+      "alt_names": [
+        "揃三蔵"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87618.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87618
+      }
+    },
+    {
+      "id": "nui-harime",
+      "name": "Nui Harime",
+      "alt_names": [
+        "針目縫"
+      ],
+      "role": "supporting",
+      "description": "**Hair Color**: Blonde\n**Eye Color**: Dark Blue\n**Occupation**: Grand Couturier\n**Affiliation**: Revocs Corporation\n~!\n**Race**: Life Fiber/Human hybrid\n**Relatives**: [Ragyo Kiryuin](https://anilist.co/character/126061/Ragyo-Kiryuin) (creator)\n!~\n\nNui Harime is the Grand Couturier of the Revocs Corporation. She is known for her cute appearance, sadistic yet childish nature, and incredible fighting power.\n\nNui appears to be a young teenage girl of medium height. She has long blonde hair styled in drill-like pigtails, with smaller locks framing her face. Her eyes are sapphire blue, with highlights that resemble a smiling face. She wears a richly adorned pink lolita-styled dress with matching boots and fingerless gloves. She accentuates her ensemble with a parasol, a large pink hair bow, and a purple eyepatch. Her design has a prominent heart motif, such as on her collar, the center of her bow, her earrings, and even the highlights on her pigtails.\n\nNui has a childlike, jovial, and happy-go-lucky demeanor; always smiling, and acting very friendly and even polite with everyone, demonstrating excessive intimacy towards even [Satsuki Kiryuin](https://anilist.co/character/83799/Satsuki-Kiryuin). According to [Ragyo Kiryuin](https://anilist.co/character/126061/Ragyo-Kiryuin), Nui is free-spirited and will do whatever she wants according to her whims. Her bubbly behavior and nonchalance towards anyone that stands in her way often puts her at odds with the main cast, and can easily become bored while she playfully seeks violence to a sadistic degree. When she finds herself injured or outmatched, she becomes more frantic, obstreperous, and aggressive, dropping all manner of her cheerful demeanor. She holds heavy grudges against some people.\n\n~!Nui was born about 17 years before the events of the series prior, following Ragyo's failed attempt to fuse her newborn daughter with Life Fibers. Concluding that a child born by a human cannot merge with Life Fibers, Ragyo created an artificial Life Fiber womb from the mass of the Original Life Fiber, which Nui was grown within. Upon reaching her full development, Nui was raised by Ragyo as a servant of the Life Fibers, becoming the Grand Couturier of the Kiryūin Conglomerate (and of REVOCS as a whole).!~\n\n~!Six months before the events of the series, Nui was sent to the Matoi Residence by Ragyo in search of Isshin Matoi's secret creation. After a short battle, Isshin unveiled the Scissor Blades to use against her, but Nui overwhelmed him, stabbing him repeatedly. Before she could deliver the final blow, Nui was distracted by the sound of [Ryuuko](https://anilist.co/character/83797/Ryuuko-Matoi) calling for her father, allowing him to stab her left eye with the purple Scissor Blade. Infuriated by this, she impaled him to the wall with the red Scissor Blade, taking half of the purple blade for herself before planting a bomb in the Matoi Residence and making her escape.\n\nUnbeknownst to Nui, her actions planted the seeds of defeat for Ragyo's ultimate plan. Not only did Isshin trick her into ignoring his real secret project, Kamui [Senketsu](https://anilist.co/character/87510/Senketsu), but his last act in life would encourage Ryuuko to take up the red Scissor Blade and seek out the one who killed her father.!~\n\n~!Following Satsuki's defeat at Honnoji Academy, the Life Fibers began a full-scale takeover of the Earth, seeking to flush out and consume all remaining resistance.\n\nA month later, [Ryuuko](https://anilist.co/character/83797/Ryuuko-Matoi) emerged from hiding, operating independently of [Senketsu](https://anilist.co/character/87510/Senketsu) and Nudist Beach out of confusion and self-loathing over the revelation of her true ancestry. Using her instability, Ragyo and Nui used a pair of COVERS to send a message to Ryuuko, challenging her to face them at Honnoji Academy. Despite the warnings of her allies, Ryuuko obliged, breaking into Honnoji Academy and clashing blades with Nui once again.\n\nDuring the battle, Nui secretly stitched Life Fiber threads all over Ryuuko's body before taking a seemingly-fatal blow from the red Scissor Blade. After a moment of melodramatic agony, Nui laughed off the injury and pulled out her own heart, revealing that she is also a Life Fiber hybrid. As her injuries healed themselves, Nui explained her origins to her opponent and claimed that she was able to understand Ryuuko's true feelings in a way that no one else could, due to their shared nature.!~\n\n~!During the attack on the S.S. Naked Sun, [Ryuuko](https://anilist.co/character/83797/Ryuuko-Matoi) cuts off both of Nui's arms, with the power of the combined weapons preventing them from regenerating. The permanent loss of her arms drove Nui into a demented fury. Before Ryuuko could inflict more damage, [Rei Hououmaru](https://anilist.co/character/138197/Rei-Hououmaru) took Nui away in a helicopter, leaving an army of COVERS behind to prevent pursuit.\n\nDuring the final battle, Nui cuts off her own head (as did all of her clones), allowing her to merge with the remains of the Original Life Fiber. Manifesting as an enormous, distorted version of Nui's head, the entity fused with Ragyo, healing her wounds and empowering her even further than before. Nui was last heard expressing her happiness at being worn by her \"Mama\" before Ragyo blasted off into space to manually initiate the final phase of their plan.\n\nIt is unclear what happened to Nui after her fusion with Ragyo, but her consciousness was likely destroyed.!~\n\nThroughout the series, Nui has displayed several powers, abilities, and skills:\n\n- **Regeneration**: Nui can regenerate from any wounds and even lost limbs almost instantly, regardless of their severity. The only exception to this healing power is if her entire limb is cut with either the Scissor Blades or two weapons forged from Bazukan.\n\n- **Mon-Mignon Prêt-à-Porter**: Nui can create replicas of herself that can fight her opponents or act as a distraction. Although identical, the duplicates are far less powerful than the original, relying on their superior numbers.\n\n- **Infiltration and Disguise Skills**: Nui appears extremely skilled when it comes to mimicry and infiltration. She was able to completely disguise her height, hairstyle, gender, and voice almost perfectly. She was also able to create fake student data, which appeared genuine upon inspection, but disappeared immediately when discarding the disguise. The only clue to her true identity that she could not change was her eyepatch, which she instead covered up. She also appears skilled at puppetry and ventriloquism as she was able to use lifelike puppets to intimidate the One-Star students.\n\n- **Piloting Skills**: Nui is a skilled pilot, as seen when she hijacked Satsuki's personal helicopter.\n\n- **Fingernail Hooks**: The bottom edge of Nui's fingernails is lined with small hooks that can catch threads. She can use these hooks to grab and remove Banshis from uniforms.\n\n- **Scissor Blade**: Nui's signature weapon is one half of a giant pair of scissors. The blade is capable of cutting otherwise indestructible Life Fibers. Her skill with the blade is equal, if not superior to that of Ryuuko's own. Like Ryuuko, Nui can alter the shape of her Scissor Blade. During the S.S. Naked Sun battle, she converted her blade into a large, double-sided scythe.\n\n- **Superhuman Physical Prowess**: Nui possesses immense physical strength, speed, reflexes, durability, and endurance. She can handle herself exceptionally well in battle, being able to effortlessly fight against the Four Devas, who were all wearing enhanced, Three-Star Goku Uniforms, fight on even grounds against Kamui-wielding fighters such as Satsuki Kiryūin and Ryuuko Matoi, and easily defeat the Nudist Beach forces.\n\n  ~!Despite her natural strength, due to the particular nature of the Life Fibers infused to her, she is unable to wear a Kamui as it would not affect her.!~\n\n- ~!**Mental Refitting**: Nui can release Life Fibers from her hands that ensnare opponents and turn them into mindless puppets.!~\n\n- ~!**Shapeshifting Arms**: For the final battle, Nui's new arms transformed into blades for melee combat and bat-like wings for flight.!~\n\n- ~!**Master Sewing Skills**: Being a Life Fibers/human hybrid and the Grand Couturier, Nui has a deep knowledge of how Life Fibers clothing is made, as demonstrated when she effortlessly spotted and removed Sanageyama's uniform's Banshi, dismantling the uniform. Likewise, she altered the Kamui Junketsu to be worn by Ryuuko by sewing the Kamui's Life Fibers to Ryuuko's own for the Kamui to possess her, making it extremely difficult for it to be removed from her body. She can sew high-quality garments, especially Life Fiber-based with ease, even after losing her arms as seen by her completion of the Shinra Koketsu.!~\n\n- ~!**Razor Tape Measure**: Nui used a measuring tape with retractable blades during her attack on Isshin Matoi's lab. It was destroyed by the Scissor Blades.!~\n\n(Source: Kill la Kill Wiki, edited)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88475-gZiGkkhyOuDM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88475
+      }
+    },
+    {
+      "id": "tsumugu-kinagase",
+      "name": "Tsumugu Kinagase",
+      "alt_names": [
+        "黄長瀬紬"
+      ],
+      "role": "supporting",
+      "description": "A member of the organization called Nudist Beach whose main purpose is to rid the world of Life Fibers.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/121617-VY0ohVCBUqLg.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121617
+      }
+    },
+    {
+      "id": "ragyou-kiryuuin",
+      "name": "Ragyou Kiryuuin",
+      "alt_names": [
+        "鬼龍院羅暁"
+      ],
+      "role": "supporting",
+      "description": "The head of the Kiryuuin family.\n~!After being betrayed by Satsuki in the events of episode 17, she becomes the main antagonist!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126061-lWC6xeiD4KxZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126061
+      }
+    },
+    {
+      "id": "rei-hououmaru",
+      "name": "Rei Hououmaru",
+      "alt_names": [
+        "鳳凰丸礼"
+      ],
+      "role": "supporting",
+      "description": "Rei is originally from Africa but her hometown was caught in a civil war. Ragyou saved her and gave her the name she has now, “Rei Hououmaru”. She now works as secretary for Kiryuuin Ragyou at Revocs Corporation.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138197-GcCXHqbZVvrV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138197
+      }
+    },
+    {
+      "id": "ryousuke-todoroki",
+      "name": "Ryousuke Todoroki",
+      "alt_names": [
+        "轟輌輔"
+      ],
+      "role": "supporting",
+      "description": "Ryōsuke Todoroki is the president of the Automotive Airsoft Club, a club made from the merger of the Automotive and Airsoft Clubs.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190944-u176mTXtM0bK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190944
+      }
+    },
+    {
+      "id": "aizenbou-fuguhara",
+      "name": "Aizenbou Fuguhara",
+      "alt_names": [
+        "河豚原愛善坊"
+      ],
+      "role": "supporting",
+      "description": "Aizenbou Fuguhara is the president of the Ping Pong club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190945-vG4ISMKTOvUt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190945
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:37:47.090Z"
+}

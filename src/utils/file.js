@@ -1,4 +1,4 @@
-import { promises as fs } from 'fs';
+import fs from 'fs/promises';
 import { dirname } from 'path';
 
 /**
@@ -12,7 +12,7 @@ export async function readJson(filePath, defaultValue = null) {
     const content = await fs.readFile(filePath, 'utf-8');
     return JSON.parse(content);
   } catch (error) {
-    if (error.code === 'ENOENT' && defaultValue !== null) {
+    if (error.code === 'ENOENT' || error instanceof SyntaxError) {
       return defaultValue;
     }
     throw error;
@@ -32,6 +32,7 @@ export async function writeJson(filePath, data, options = {}) {
   
   // Criar diretório se não existir
   const dir = dirname(filePath);
+  console.log('Creating dir:', dir);
   await fs.mkdir(dir, { recursive: true });
   
   // Escrever arquivo

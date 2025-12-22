@@ -9,10 +9,17 @@
   },
   "scripts": {
     "start": "node src/cli.js",
+    "autocraw": "node src/cli.js autocraw",
     "import": "node src/cli.js import",
+    "update": "node src/cli.js update",
+    "crawl": "node src/cli.js crawl",    "crawl-grow": "node src/cli.js crawl-grow",    "crawl-status": "node src/cli.js crawl-status",
+    "crawl-list": "node src/cli.js crawl-list",
+    "crawl-example": "node scripts/crawl-example.js",
+    "enrichment-example": "node scripts/enrichment-example.js",
     "validate": "node src/cli.js validate",
     "search": "node src/cli.js search",
     "stats": "node src/cli.js stats",
+    "cache": "node src/cli.js cache",
     "list": "node src/cli.js list"
   },
   "keywords": [
@@ -30,9 +37,9 @@
   "dependencies": {
     "ajv": "^8.12.0",
     "ajv-formats": "^2.1.1",
+    "axios": "^1.13.2",
     "commander": "^11.1.0"
   },
-  "devDependencies": {},
   "engines": {
     "node": ">=18.0.0"
   },

@@ -19,15 +19,96 @@ node src/cli.js stats anime naruto
 
 📖 **[Guia Completo de Início Rápido →](docs/QUICKSTART.md)**
 
+## 🤖 Auto-Crawling (Novo!)
+
+Sistema automático que descobre e importa obras populares do AniList:
+
+```bash
+# Executar crawling automático (10 obras por vez)
+npm run crawl
+
+# Ver status do crawling
+npm run crawl-status
+
+# Listar obras já processadas
+npm run crawl-list
+
+# Aumentar a fila com mais obras
+npm run crawl-grow -- --count 50
+
+# Crawling personalizado
+node src/cli.js crawl --max-works 5 --character-limit 25 --delay 10000
+```
+
+**Como funciona:**
+- 🔍 Descobre automaticamente animes populares
+- 📋 Mantém fila de obras pendentes
+- ✅ Rastreia progresso em `data/crawl-state.json`
+- ⏱️ Respeita rate limits das APIs
+
+## 🚀 AutoCraw Contínuo (Novo!)
+
+Sistema autônomo de crawling contínuo com enrichment inteligente:
+
+```bash
+# Executar crawling contínuo (recomendado)
+npm run autocraw
+
+# Com configurações personalizadas
+node src/cli.js autocraw --max-works 3 --delay 20000 --max-total 50
+
+# Apenas para teste (limite pequeno)
+node src/cli.js autocraw --max-works 1 --max-total 2 --delay 5000
+```
+
+**Características:**
+- 🤖 **Totalmente autônomo**: Roda indefinidamente até ser interrompido (Ctrl+C)
+- 🔄 **Ciclos inteligentes**: Processa lotes e continua automaticamente
+- 🛡️ **Enrichment fallback**: Usa DuckDuckGo/wikis quando APIs atingem rate limit
+- 📊 **Limite opcional**: Configure `--max-total` para limitar obras processadas
+- ⏱️ **Rate limit seguro**: Delays configuráveis para evitar bloqueios
+
+**Como funciona:**
+1. Processa obras da fila em ciclos
+2. Quando APIs falham (429), usa enrichment como fallback
+3. Continua até fila vazia ou limite atingido
+4. Pode ser interrompido a qualquer momento
+- 📊 Gera índice para pesquisa futura
+
 ## ✨ Features
 
 - 🎯 **Database JSON local** - Sem dependência de banco de dados externo
 - 🔄 **Import incremental** - Merge inteligente sem duplicação
+- 🤖 **Auto-Crawling** - Descoberta automática de obras populares
 - 🌐 **API AniList** - Coleta de animes e mangas
+- 🔍 **Enrichment System** - Fallback para wikis quando APIs atingem limite
 - ⚡ **Rate limiting** - Respeita limites das APIs
 - 🔍 **Busca local** - Query rápida nos dados importados
 - ✅ **Validação JSON Schema** - Garante consistência dos dados
 - 🎨 **CLI completa** - Interface de linha de comando amigável
+
+## 🔍 Sistema de Enrichment
+
+Para evitar dependência excessiva de APIs e erros de rate limit, o sistema inclui um **Enrichment Collector** que:
+
+- 🔎 **Busca no DuckDuckGo** por wikis e fontes complementares
+- 📖 **Integra dados de Fandom** e outras wikis públicas
+- 🛡️ **Fallback automático** quando APIs principais atingem limite
+- 🔗 **Adiciona links externos** para mais informações
+
+```bash
+# Atualização com enrichment ativado
+node src/cli.js update --enrich
+
+# Atualização apenas de informações (sem personagens)
+node src/cli.js update --no-characters --enrich
+```
+
+**Como funciona:**
+- Quando uma API retorna erro 429 (rate limit), o sistema automaticamente busca informações complementares
+- Adiciona links para wikis do Fandom, Anime-Planet e outras fontes
+- Mantém dados principais das APIs quando disponíveis
+- Reduz dependência de uma única fonte de dados
 
 ## 📁 Estrutura do Projeto
 
@@ -282,6 +363,34 @@ Todos os dados são validados contra JSON Schemas antes de serem salvos.
 # Validar manualmente
 node src/cli.js validate anime naruto
 \`\`\`
+
+## ⚠️ Limitações das APIs
+
+### Descrições de Personagens
+
+**MyAnimeList (MAL)**: A API Jikan não fornece descrições detalhadas dos personagens. Quando importado via `--source mal`, os personagens terão uma mensagem explicativa no campo `description`:
+
+```json
+{
+  "description": "Descrição não disponível via MyAnimeList. Use --source anilist para obter descrições completas dos personagens."
+}
+```
+
+**AniList**: Fornece descrições completas e ricas dos personagens. Recomendado para importações que precisam de informações detalhadas.
+
+### Recomendação
+
+Para obter descrições completas dos personagens, sempre use:
+
+```bash
+node src/cli.js import anime "Nome do Anime" --source anilist
+```
+
+### Rate Limits
+
+- **AniList**: ~90 requisições/minuto (configurado em `anilist.js`)
+- **MyAnimeList (Jikan)**: ~60 requisições/minuto
+- Ajustável via classes `RateLimiter`
 
 ## 🗺️ Roadmap
 

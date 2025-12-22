@@ -1,0 +1,619 @@
+{
+  "work_id": "classroom-of-the-elite",
+  "count": 25,
+  "characters": [
+    {
+      "id": "kiyotaka-ayanokouji",
+      "name": "Kiyotaka Ayanokouji",
+      "alt_names": [
+        "綾小路清隆",
+        "Argos-4",
+        "Ayanokoji",
+        "Aya-non",
+        "Kiyo-pon",
+        "X",
+        "The False Genius",
+        "Elevator Boy"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 176 cm (5'9\")\n\nAyanokouji is an inconspicuous and unobtrusive student. He is shown to be extremely intelligent and possesses a profound insight to study the emotions of people around him. Almost everything about his life prior to the entrance exams is unknown. He is shown to be extremely calculating and possessing superhuman intellect, perception, and strength. He's skilled at fighting and is able to easily manipulate the people around him. He is quite fond of his friends and protects those that he can without standing out. He has little regard for others' feelings and will coldly let them suffer to succeed, occasionally even his friends.",
+      "metadata": {
+        "gender": "male",
+        "age": "16-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123212-ewZgUQr9vvEM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123212
+      }
+    },
+    {
+      "id": "suzune-horikita",
+      "name": "Suzune Horikita",
+      "alt_names": [
+        "堀北鈴音",
+        "Muddykita"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 156 cm (5'1½\")\n\nA beautiful girl who sits next to Ayanokouji. She is the opposite of Ayanokouji when it comes to friendship; she disregards it and thinks of making friends unnecessary, thus she does not communicate much with her classmates. She is not convinced that she was placed in the D class, therefore she aims to get promoted to the A class.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123213-jUfrGBXfW7BL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123213
+      }
+    },
+    {
+      "id": "kikyou-kushida",
+      "name": "Kikyou Kushida",
+      "alt_names": [
+        "櫛田桔梗",
+        "Kikyo"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 155 cm\n\nShe boasts tremendous popularity among men and women as the D class' idol. She aims to be friends with everyone not just in D class. She wants to get along well with her classmate, Horikita.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123214-Ym9cldopi3yR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123214
+      }
+    },
+    {
+      "id": "airi-sakura",
+      "name": "Airi Sakura",
+      "alt_names": [
+        "佐倉愛里",
+        "Shizuku"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 153 cm (5'0\")\n\nA girl who is into photography. She hates standing out and likes to take modeling pictures.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123215-sMQJk35TqQv4.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123215
+      }
+    },
+    {
+      "id": "honami-ichinose",
+      "name": "Honami Ichinose",
+      "alt_names": [
+        "一之瀬帆波",
+        "Class Rep Ichinose"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 159 cm (5'2\")\n\nIf there was one sentence to describe Honami, it would be that she is genuinely kind-hearted, benevolent, and a pacifist to the core who is against using underhanded means and violence. One of her main traits is her unselfish and supportive personality, combined with her excellent social skills and her being naturally people-oriented. Honami is also a charismatic and energetic person, and extends her sweet and benign character even to those of the lower classes, unlike many other upper-class students.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123216-N9tQZf2XIKu6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123216
+      }
+    },
+    {
+      "id": "sae-chabashira",
+      "name": "Sae Chabashira",
+      "alt_names": [
+        "茶柱佐枝"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 160 cm\n\nThe homeroom teacher of the protagonist's class (D). She is originally indifferent to her class, doing almost nothing to help them in the battle between classes, and remains unmotivated for the most part.",
+      "metadata": {
+        "gender": "female",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123217-sZaSZQGBYTcu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123217
+      }
+    },
+    {
+      "id": "yousuke-hirata",
+      "name": "Yousuke Hirata",
+      "alt_names": [
+        "平田洋介"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 174 cm (5'8\")\n\nThe social leader of the D class. He has excellent academic and athletic ability, and is considered extremely handsome by his classmates, he is shown to be extremely compassionate and puts others before himself, considering everybody equal. He is considered a perfect male student and his placement in the D-class is originally considered a mystery.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123218-HLOaxZINQojE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123218
+      }
+    },
+    {
+      "id": "manabu-horikita",
+      "name": "Manabu Horikita",
+      "alt_names": [
+        "堀北学"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 178 cm (5'10\")\n\nHe is the leader of the school council and is Horikita Suzune's elder brother.",
+      "metadata": {
+        "gender": "male",
+        "age": "18-19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123219-OEMawnnYXMFY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123219
+      }
+    },
+    {
+      "id": "arisu-sakayanagi",
+      "name": "Arisu Sakayanagi",
+      "alt_names": [
+        "坂柳有栖",
+        "Little Girl (リトルガール)",
+        "Princess"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 150 cm (4'11\")\n\nArisu Sakayanagi is one of the class representatives of class 1-A along with Kōhei Katsuragi. She suffers from congenital heart disease which limits her physical ability. \n\nShe appears as a petite teenage girl with lilac-coloured hair and violet eyes. She wears a black beret on her head with a grey ribbon connected to it and wears the standard school uniform. She often walks with a cane due to her health condition. \n\nShe appears to possess a \"go with the flow\" attitude as she accepts most situations with no protest though she voices her dislike of boring situations after Katsuragi noted of the class scores. Unlike Kōhei Katsuragi, who has a conservative stance, Arisu possesses an innovative attitude. Together, the pair effectively lead class A through the school years.\n\nShe enjoys situations she finds interesting as shown when she smiled at Kakeru Ryūen's declaration to rule the school or when she listened to the speech of Suzune Horikita and found it amusing. In the light novels, Arisu enjoys toying with people as seen when she cryptically hinted to Kiyotaka Ayanokōji of knowing him while he had voiced he never saw her before. Later on, while being together with Honami Ichinose, she also had the chance to show her confidence and complacency after Teruhiko Yukimura of Ayanokōji Group boldly claimed that D-Class has the plan to overtake A-Class soon.\n\nAdditionally, although she has an easygoing personality, it was shown in the later part of the series that she's easily provoked when being described based on her petite appearance (e.g. \"Little Girl\") as she believes that it doesn't give her justice due to her domineering quality.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124691-S9GyfwMAkkJ9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124691
+      }
+    },
+    {
+      "id": "mei-yu-wang",
+      "name": "Mei-Yu Wang",
+      "alt_names": [
+        "王美雨",
+        "Mii-chan"
+      ],
+      "role": "supporting",
+      "description": "Mei-Yu is of Chinese descent and is shown to be one of the academically gifted students. She has a visible crush on Hirata Yosuke.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136233-wmiulsKzTMND.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136233
+      }
+    },
+    {
+      "id": "kei-karuizawa",
+      "name": "Kei Karuizawa",
+      "alt_names": [
+        "軽井沢恵"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 154 cm (5'0\")\n\nShe is a girl with a bad attitude who is located at the top of the D class hierarchy. She fights with Kushida for their class' top 2 places. Even though she gives off the impression of someone who is careless, arrogant, and messy, Kei's true self is very logical and astute with a sharp mind. She has remarkable ability to read the environment and the people around her, and makes the correct decision often.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141122-6Zk52eU3VK3O.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141122
+      }
+    },
+    {
+      "id": "rokusuke-kouenji",
+      "name": "Rokusuke Kouenji",
+      "alt_names": [
+        "高円寺六助"
+      ],
+      "role": "supporting",
+      "description": "Rokusuke Kouenji is one of the students of class 1-D. He came from a well-known family of scholars. However, he ended up in D-Class for his egotistical behavior.\n\n~!In Year 1, Volume 11, he watches a scuffle between Hirata and Mii-Chan, which ended with Hirata pushing a desperate Mii-Chan, who was trying to help him, on the ground. Kouenji then intervenes and states his annoyance at Hirata \"for treating a girl wrong\" referring him as \"like a fly, very irritating\". His friendship with Mii-Chan is then showed to progress in Year 2, Volume 5, when they are seen walking together often, and Mii-chan referring to him as \"someone easy to talk to\" when asked about their relationship by Satou and Matsushita.\"!~\n\n~!During the Second Year Uninhabited Island Special Exam, he strikes an agreement with Suzune Horikita, in which he would try for a first-place finish and Suzune would reward him with complete protection from class vote expulsion until graduation and exempt him from being forced to co-operate with the rest of the class, which he wins.!~\n\n(Source: You-Zitsu Wikia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158988-P28e8SU3WpGK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158988
+      }
+    },
+    {
+      "id": "kakeru-ryuuen",
+      "name": "Kakeru Ryuuen",
+      "alt_names": [
+        "龍園翔",
+        "Dragon Boy",
+        "ドラゴンボーイ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 173 cm (5'8\")\n\nKakeru Ryuuen is the class representative of class 1-C and is known for being an infamous delinquent. He does not lead his class by trust, but rather by fear. He has a group of henchmen who do his dirty work, which contributes to his fearsome reputation.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b159627-kWwSUA1XR1Kx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 159627
+      }
+    },
+    {
+      "id": "haruka-hasebe",
+      "name": "Haruka Hasebe",
+      "alt_names": [
+        "長谷部波瑠加"
+      ],
+      "role": "supporting",
+      "description": "Haruka is a pretty normal person, but she is not very open to other people as shown when she didn't participate in the class's swimming session where she tends to prefer keeping to herself and not bothering people, simply to avoid trouble. She is considered to have good looks and is often viewed lustfully by boys, thus wanting to seclude herself. She is mostly seen wearing the school's uniform, with the difference that she has the upper button of her shirt undone and her tie relatively loosened. She prefers giving people nicknames the moment she meets them, which is said by Kushida to be a method for her \"to appear closer to the people she isn't close to\". \n\n~! In Year 2, Volume 5, Haruka is told off by Kushida when she tries to help the latter. She is then seen aggressively opposing the motion by Ayanokoji to expel Airi Sakura, being her closest friend, to no avail. She is one of the 4 remaining members and the sole remaining girl of the Ayanokoji Group.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163517-pBRJeR0pkw0Z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 163517
+      }
+    },
+    {
+      "id": "maya-satou",
+      "name": "Maya Satou",
+      "alt_names": [
+        "佐藤麻耶"
+      ],
+      "role": "supporting",
+      "description": "She is a student of class 2-D. \n\n~!In Volume 7.5, Maya asks for Kei Karuizawa's help to plan her \"date\" with Kiyotaka Ayanokouji. Kei was surprised and suggested other boys to her, but she refused, and said that she only liked Kiyotaka. She told her plan to Kei and made some changes according to her suggestions. She then later asked Kei if they could make it a \"double-date\", by including her and Yousuke Hirata in the plan. Eventually, Kei agreed and decided to schedule the double date on December 25. She confessed to Kiyotaka after the double date during Christmas, but was rejected and ran away crying. They promised each other that they will hang out again in the future and wants to see each other again but Sato couldn’t hold her feelings and excused herself first as she didn’t want him to see her in a pathetic state. She was hinted to have cried an innumerable amount of times behind closed doors after being rejected as the next time we saw her, she was able to frankly tell her friends she was rejected without being choked up. Her friends summarised that this could only had happened if she had come to terms with the rejection showing an immense amount of willpower to move on. That said, she still harbours feelings for Kiyotaka and has admitted that she finds him way cooler and hotter than Hirata not holding against Kei for liking the same person. She still feels conflicted that her best friend was in a relationship with her crush but decided to uphold their secret and support them in whatever way she can.!~\n\n~!Maya has below average academic abilities as was apparent during the Paper Shuffle special exam. Her physical abilities are of the lower echelon as well. However, she is one of more popular girls in her class. Although not to the tier of Kei, many observers were astonished to see someone like her talk to and publicly flirt with the 'uninteresting' Kiyotaka. She is also out-going and not afraid to take risks such as confessing to Kiyotaka on their first date.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163519-as1ccGaDehxI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 163519
+      }
+    },
+    {
+      "id": "teruhiko-yukimura",
+      "name": "Teruhiko Yukimura",
+      "alt_names": [
+        "幸村輝彦",
+        "Keisei (啓誠)",
+        "Yukimuu (ゆきむー)"
+      ],
+      "role": "supporting",
+      "description": "Teruhiko Yukimura is a student of class 1-D. Despite his excellent academic ability, he was placed there due to his poor athletic ability and lack of social skills. \n\nDuring the formation of the Ayanokoji Group, it is revealed that he does not like his first name Teruhiko, given to him by his mother who left their family. He prefers the name his father gave him: Keisei",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b173450-3W4X5drCuO21.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 173450
+      }
+    },
+    {
+      "id": "mio-ibuki",
+      "name": "Mio Ibuki",
+      "alt_names": [
+        "伊吹澪"
+      ],
+      "role": "supporting",
+      "description": "Mio Ibuki is a student of class 1-C. Not only does she possess excellent academic qualities, but her physical ability is also not to be underestimated. She is skilled in combat, having the knowledge of several martial skills that can rival those of many martial artists.\n\n(Source: You-Zitsu Wikia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174781-jzyPHUz3JBwi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174781
+      }
+    },
+    {
+      "id": "chiaki-matsushita",
+      "name": "Chiaki Matsushita",
+      "alt_names": [
+        "松下千秋"
+      ],
+      "role": "supporting",
+      "description": "Matsushita is one of the students of class 2-D. She has a quiet older sister type of personality. She is generally kind to all the boys and girls alike, but she does not actively go out to make friends.\n\n~!Chiaki had believed from early on in the first year that Class D had no hopes of ever reaching Class A and thus resigned herself to a carefree school life, never putting in any real effort into her academics. She considers herself to be a major underachiever, believing that she could easily score in the top 10% of her class if she truly tried to, but believed it to be pointless as long as she was in Class D. Later on in the light novels, she starts seeing improvements in the class and becomes willing to start contributing to the class. She is also known to be skilled at mental arithmetic and can calculate quickly. She even held her own against Kouhei Katsuragi from Class A in the Mental Arithmetic event in the Event Selection Exam.!~\n\n~!Later, in her monologue, she states that she had started to pay close attention to Kiyotaka after the end of year special exam, but she was not romantically interested in him. According to her, she was probably among the top 10% of students in their year, but had not revealed her abilities since she did not want people to be jealous of her. She had thought that even if she tried her best, the chance of Class-D being able to rank up the classes was minimal. However, after closely observing Kiyotaka, she had arrived at the conclusion that Class-D might be able to reach the higher classes if both she and Kiyotaka tried and used their complete abilities. By observing Kei's behavior in class, she was able to deduce that she was attracted to Kiyotaka, and the only logical solution to this change of liking from Hirata to Kiyotaka would be that Kiyotaka was actually very gifted.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191401-QIpXOM9iZoG2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191401
+      }
+    },
+    {
+      "id": "akane-tachibana",
+      "name": "Akane Tachibana",
+      "alt_names": [
+        "橘茜"
+      ],
+      "role": "supporting",
+      "description": "Akane Tachibana is a former student of Advanced Nurturing High School who has graduated from Class 3-A and the former secretary of the Student Council.",
+      "metadata": {
+        "gender": "female",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191504-gMTtAwzDo8Sp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191504
+      }
+    },
+    {
+      "id": "yume-kobashi",
+      "name": "Yume Kobashi",
+      "alt_names": [
+        "小橋夢"
+      ],
+      "role": "supporting",
+      "description": "Yume Kobashi is one of the students in class 1-B.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191505-HKDg5oKO1ErQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191505
+      }
+    },
+    {
+      "id": "satsuki-shinohara",
+      "name": "Satsuki Shinohara",
+      "alt_names": [
+        "篠原さつき"
+      ],
+      "role": "supporting",
+      "description": "Satsuki Shinohara is one of the students of class 2-D. She is considered to have below-average looks. She has an outspoken personality and can often be seen arguing with Ike.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191506-4eKgEo4z62Cz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191506
+      }
+    },
+    {
+      "id": "masumi-kamuro",
+      "name": "Masumi Kamuro",
+      "alt_names": [
+        "神室真澄"
+      ],
+      "role": "supporting",
+      "description": "Masumi Kamuro is a student of Class 2-A and a member of the Art Club. She is one of the members of the inner circle of Sakayanagi faction but is shown to be only interested in doing so as Sakayanagi has some information about her criminal history.",
+      "metadata": {
+        "gender": "female",
+        "age": "16-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191507-YIt6i1p7GIXU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191507
+      }
+    },
+    {
+      "id": "chie-hoshinomiya",
+      "name": "Chie Hoshinomiya",
+      "alt_names": [
+        "星之宮知恵"
+      ],
+      "role": "supporting",
+      "description": "Chie Hoshinomiya is the homeroom teacher of class 1-B. She has a cheerful, flirty personality and is referred to as \"never having grown from her high school days\" by Ayanokoji. She shows glimpses of a more serious side of hers upon matters relating to reaching Class-A. She was a classmate of her colleague Sae Chabashira during their time in the Advanced Nurturing High School.",
+      "metadata": {
+        "gender": "female",
+        "age": "29-30",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191508-GekReas1uAlI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191508
+      }
+    },
+    {
+      "id": "ryuuji-kanzaki",
+      "name": "Ryuuji Kanzaki",
+      "alt_names": [
+        "神崎隆二"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 174 cm (5'8½\")\n\nApart of Class 1-B and Honami Ichinose's right hand man. Not much is known about Ryūji, but he appears to be a diligent student who behaves seriously and he is a very helpful person as shown when he aided Honami Ichinose in the case of Ken Sudō. He is a friendly person as he does not look down on D-Class and gets along with them.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207022-dfXyWDXyBVKC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207022
+      }
+    },
+    {
+      "id": "haruki-yamauchi",
+      "name": "Haruki Yamauchi",
+      "alt_names": [
+        "山内春樹"
+      ],
+      "role": "supporting",
+      "description": "Haruki is apart of Class 1-D. He is apart of the three idiots of Class D along with Ike and Sudou. He has a tendency to lie and his grades are the lowest in the class. Similar to his friends, Haruki has a perverted side who is attracted to Kikyō Kushida as he was willing to peep on the girls. He is also very attracted to Airi Sakura and Haruka Hasebe, mainly for their well-endowed bodies and quiet nature.\n\n~!Haruki got expelled during the Class Vote Exam.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207023-dyxChkVbd5qZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207023
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:37:23.740Z"
+}

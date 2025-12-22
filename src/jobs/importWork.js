@@ -1,7 +1,12 @@
 import { createAniListCollector } from '../collectors/anilist.js';
-import { normalizeWork, normalizeCharacters } from '../normalizers/anilist.js';
+import { createJikanCollector } from '../collectors/jikan.js';
+import { createEnrichmentCollector } from '../collectors/enrichment.js';
+import { normalizeWork as normalizeAniListWork, normalizeCharacters as normalizeAniListCharacters } from '../normalizers/anilist.js';
+import { normalizeWork as normalizeJikanWork, normalizeCharacters as normalizeJikanCharacters } from '../normalizers/jikan.js';
 import { createWriter } from '../writers/jsonWriter.js';
 import { logger } from '../utils/logger.js';
+import { slugify } from '../utils/slugify.js';
+import path from 'path';
 
 /**
  * Job de importação de obras e personagens
@@ -9,9 +14,52 @@ import { logger } from '../utils/logger.js';
  */
 export class ImportWorkJob {
   constructor(options = {}) {
-    this.baseDir = options.baseDir || './data';
-    this.collector = createAniListCollector(options.collectorOptions);
+    this.baseDir = path.resolve(options.baseDir || './data');
+    this.source = options.source || 'anilist';
+    this.enrich = options.enrich || false;
+    
+    // Instancia o collector baseado na fonte
+    this.collector = this.createCollector(this.source, options.collectorOptions);
+    
+    // Instancia enrichment se necessário
+    this.enrichmentCollector = this.enrich ? createEnrichmentCollector() : null;
+    
+    // Define as funções de normalização
+    this.normalizeWork = this.source === 'mal' ? normalizeJikanWork : normalizeAniListWork;
+    this.normalizeCharacters = this.source === 'mal' ? normalizeJikanCharacters : normalizeAniListCharacters;
+    
     this.writer = createWriter(this.baseDir);
+  }
+
+  /**
+   * Verifica se o erro é recuperável (rate limit, API indisponível)
+   * @param {Error} error - Erro ocorrido
+   * @returns {boolean}
+   */
+  isRecoverableError(error) {
+    const message = error.message.toLowerCase();
+    return message.includes('429') || 
+           message.includes('rate limit') || 
+           message.includes('too many requests') ||
+           message.includes('timeout') ||
+           message.includes('network');
+  }
+
+  /**
+   * Cria o collector apropriado baseado na fonte
+   * @param {string} source - Fonte dos dados (anilist, mal)
+   * @param {Object} options - Opções do collector
+   * @returns {Object} Instância do collector
+   */
+  createCollector(source, options) {
+    switch (source.toLowerCase()) {
+      case 'anilist':
+        return createAniListCollector(options);
+      case 'mal':
+        return createJikanCollector(options);
+      default:
+        throw new Error(`Fonte não suportada: ${source}`);
+    }
   }
 
   /**
@@ -39,13 +87,10 @@ export class ImportWorkJob {
         throw new Error('Obra não encontrada');
       }
 
-      logger.success(`Encontrado: ${mediaData.title.romaji || mediaData.title.english}`);
-
       // 2. Normalizar dados da obra
-      const normalizedWork = normalizeWork(mediaData);
+      const normalizedWork = this.normalizeWork(mediaData);
       
-      logger.info(`ID gerado: ${normalizedWork.id}`);
-      logger.info(`Tipo: ${normalizedWork.type}`);
+      logger.success(`Encontrado: ${normalizedWork.title}`);
 
       // 3. Salvar info da obra
       await this.writer.upsertWork(
@@ -61,7 +106,7 @@ export class ImportWorkJob {
         logger.progress('Coletando personagens...');
         
         const rawCharacters = await this.collector.collectCharacters(
-          mediaData.id,
+          normalizedWork.source_id,
           {
             perPage: 25,
             onProgress: (progress) => {
@@ -81,7 +126,7 @@ export class ImportWorkJob {
           logger.warn('Nenhum personagem encontrado');
         } else {
           // 5. Normalizar personagens
-          const normalizedCharacters = normalizeCharacters(
+          const normalizedCharacters = this.normalizeCharacters(
             charactersToImport,
             normalizedWork.id
           );
@@ -111,9 +156,95 @@ export class ImportWorkJob {
       };
 
     } catch (error) {
+      // Tentar enrichment como fallback se habilitado e erro for recuperável
+      if (this.enrich && this.isRecoverableError(error)) {
+        logger.warn(`API falhou (${error.message}), tentando enrichment...`);
+        return await this.importWithEnrichment(criteria, options, startTime);
+      }
+      
       logger.error(`Erro na importação: ${error.message}`);
       throw error;
     }
+  }
+
+  /**
+   * Tenta importar usando enrichment como fallback
+   * @param {Object} criteria - Critérios da obra
+   * @param {Object} options - Opções de importação
+   * @param {number} startTime - Tempo de início
+   * @returns {Promise<Object>} Resultado da importação
+   */
+  async importWithEnrichment(criteria, options, startTime) {
+    try {
+      const title = criteria.search || `ID ${criteria.id}`;
+      const type = criteria.type;
+
+      logger.progress(`Buscando dados via enrichment para: ${title}`);
+
+      const enrichmentData = await this.enrichmentCollector.enrichWork(title, type);
+
+      if (!enrichmentData.found) {
+        throw new Error('Enrichment não encontrou dados suficientes');
+      }
+
+      // Criar obra básica a partir dos dados de enrichment
+      const basicWork = this.createBasicWorkFromEnrichment(title, type, enrichmentData);
+
+      logger.success(`Enrichment encontrou: ${basicWork.title}`);
+
+      // Salvar info básica da obra
+      await this.writer.upsertWork(
+        basicWork.type,
+        basicWork.id,
+        basicWork
+      );
+
+      const duration = ((Date.now() - startTime) / 1000).toFixed(2);
+      
+      logger.success(`✅ Importação via enrichment concluída em ${duration}s`);
+
+      return {
+        success: true,
+        work: {
+          id: basicWork.id,
+          type: basicWork.type,
+          title: basicWork.title
+        },
+        characters: null, // Enrichment não coleta personagens
+        duration: parseFloat(duration),
+        enriched: true
+      };
+
+    } catch (enrichmentError) {
+      logger.error(`Enrichment também falhou: ${enrichmentError.message}`);
+      throw enrichmentError;
+    }
+  }
+
+  /**
+   * Cria uma obra básica a partir dos dados de enrichment
+   * @param {string} title - Título da obra
+   * @param {string} type - Tipo da obra
+   * @param {Object} enrichmentData - Dados do enrichment
+   * @returns {Object} Obra básica
+   */
+  createBasicWorkFromEnrichment(title, type, enrichmentData) {
+    return {
+      id: slugify(title),
+      type: type,
+      title: title,
+      source: 'enrichment',
+      source_id: null,
+      description: enrichmentData.description || 'Descrição não disponível via enrichment.',
+      metadata: {},
+      images: [],
+      external_ids: {
+        wiki_links: enrichmentData.wikiLinks
+      },
+      tags: [],
+      updated_at: new Date().toISOString(),
+      created_at: new Date().toISOString()
+    };
   }
 
   /**
