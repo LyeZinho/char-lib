@@ -20,6 +20,7 @@ export class ImportWorkJob {
     this.source = options.source;
     this.type = options.type; // anime, manga, game, etc.
     this.enrich = options.enrich || false;
+    this.delayBetweenPages = options.delayBetweenPages || 1000; // Delay entre páginas
     
     // Mapeamento de tipos para fontes padrão
     this.sourceMap = {
@@ -40,7 +41,10 @@ export class ImportWorkJob {
     }
     
     // Instancia o collector baseado na fonte
-    this.collector = this.createCollector(this.source, options.collectorOptions);
+    this.collector = this.createCollector(this.source, {
+      ...options.collectorOptions,
+      delayBetweenPages: this.delayBetweenPages
+    });
     
     // Instancia enrichment se necessário
     this.enrichmentCollector = this.enrich ? createEnrichmentCollector() : null;

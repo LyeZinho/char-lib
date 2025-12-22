@@ -21,6 +21,45 @@ node src/cli.js stats anime naruto
 
 📖 **[Guia Completo de Início Rápido →](docs/QUICKSTART.md)**
 
+## 🎛️ Interface Interativa (TUI)
+
+Interface interativa baseada em menus para todas as operações:
+
+```bash
+# Iniciar interface interativa
+node src/cli.js interactive
+# ou
+node src/cli.js tui
+```
+
+**Funcionalidades:**
+- 📥 Importar obras com configuração interativa
+- 🔍 Buscar personagens
+- 📊 Visualizar estatísticas
+- 🔄 Atualizar dados
+- 🤖 Auto-crawling
+- ✅ Validar dados
+- 🚀 Deploy web
+
+**Navegação:** Use setas ↑↓ para navegar e Enter para selecionar.
+
+## ⚡ Controle de Rate Limit
+
+Novo parâmetro `--delay` para controlar o tempo entre requisições e evitar bans:
+
+```bash
+# Import com delay de 3 segundos entre páginas
+node src/cli.js import anime "One Piece" --limit 100 --delay 3000
+
+# Crawling com delay maior para execuções longas
+node src/cli.js crawl --max-works 50 --delay 5000
+```
+
+**Por que isso importa:**
+- Evita erros "too many requests"
+- Permite execuções longas sem interrupção
+- Respeita as APIs de terceiros
+
 ## 🤖 Auto-Crawling (Novo!)
 
 Sistema automático que descobre e importa obras populares do AniList:

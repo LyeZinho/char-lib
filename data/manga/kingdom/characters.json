@@ -1,0 +1,2235 @@
+{
+  "work_id": "kingdom",
+  "count": 96,
+  "characters": [
+    {
+      "id": "zheng-ying",
+      "name": "Zheng Ying",
+      "alt_names": [
+        "嬴政",
+        "Shi Huangdi",
+        "Ei Sei"
+      ],
+      "role": "protagonist",
+      "description": "The young king of Qin who bears a striking resemblance to Piao. Later becomes Qin Shi Huang.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b64109-L69p4dz68Dms.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 64109
+      }
+    },
+    {
+      "id": "xin-li",
+      "name": "Xin Li",
+      "alt_names": [
+        "李信",
+        "Shin Ri",
+        "Shin Li"
+      ],
+      "role": "protagonist",
+      "description": "The hero of the story. A war orphan who aims to become the \"World's Greatest General\". He later meets Zheng Ying, the future first king that would rule all of China.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b64573-Lketo3ID6eNl.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 64573
+      }
+    },
+    {
+      "id": "liao-diao-he",
+      "name": "Liao Diao He",
+      "alt_names": [
+        "河了貂",
+        "Ka Ryou Ten",
+        "Ka RyouTen",
+        "Ka Ryo Ten",
+        "Ka RyoTen"
+      ],
+      "role": "protagonist",
+      "description": "He Liao Diao is the last known descendent of the Kyuumei Mountain Tribe, which was destroyed in the war with Yuang Duanhe, king of the Qin mountains. As a result of this, she moved to Kokuhi village, a place of outlaws in which she eventually encounters and befriends Ying Zheng and Li Xin.\n\nShe becomes an expert in blowing poisonous needles using a hollow bamboo stem acquired following the defeat of the assassin Muta by Xin.  It is initially assumed by Xin, Zheng and Bi that Diao is a boy, however it is revealed early on that she is a girl after she is wounded in a skirmish with their pursuers.\n\nShe remains with Xin after they part ways with Zheng and she cares for their home during some of Xin's early campaigns before heading to strategy academy, where she is taught by Shou Hei Kun. Her expertise result in her eventual appointment as lead strategist of the Hi Shin Unit ~!and later the Hi Shin Army!~. One of the most notable displays of her strategic prowess was during the battle of Koku You Hill.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65407-Thy96GwaSNdf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65407
+      }
+    },
+    {
+      "id": "lei-qiang",
+      "name": "Lei Qiang",
+      "alt_names": [
+        "羌瘣",
+        "Kyou Kai"
+      ],
+      "role": "protagonist",
+      "description": "A member of a legendary assassin clan called \"Chi You\" that is exceptional in combat and uses the notorious Dance of Death. She fights with a sword named \"Lu Seui\".",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65445-bdvFkod8JpZ1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65445
+      }
+    },
+    {
+      "id": "chang-wen-jun",
+      "name": "Chang Wen Jun",
+      "alt_names": [
+        "昌文君",
+        "Shou Bun Kun",
+        "Lord Changwen"
+      ],
+      "role": "supporting",
+      "description": "Chang Wen is the official who later worked his way up to Chancellor of the Left in the Qin state, and is extremely loyal to the king, Zheng Ying. He used to be a warrior of great fame and was skilled with the spear. In the past, he fought alongside Qi Wang and Hyou in the military.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n65399-7Wn91xpF2u3s.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65399
+      }
+    },
+    {
+      "id": "jiao-cheng",
+      "name": "Jiao Cheng",
+      "alt_names": [
+        "成蟜",
+        "Sei Kyou"
+      ],
+      "role": "supporting",
+      "description": "The half-brother of Zheng Ying.\n\n~!In chapter 377, he is slain at Tonryuu.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65405-fKYBUDi49sTp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65405
+      }
+    },
+    {
+      "id": "piao",
+      "name": "Piao",
+      "alt_names": [
+        "漂",
+        "Hyou",
+        "孝"
+      ],
+      "role": "supporting",
+      "description": "He grew up as a slave together with his best friend and fellow orphan, Xin. When Xin first arrives at the village head's home, Piao befriends him and gives him the dream of becoming the greatest general ever. Not much else is known of Piao's family or past.\n\nPiao was much more level-headed than his best friend, but their swordsmanship skills were practically on par with each other. It seems Piao did not have the same ability as Xin because he admitted to Zheng Ying that he thought Xin was stronger than him. Unlike Xin, Piao also seems more domesticated because he was a much better cook and could also clean very well. He also has more self-evident ability as a leader than Xin when he later charges into the member and inspires all the Kings troops into thinking that he was the King and even after realizing the truth. They were still captivated by his charisma and can never forget him and his sacrifice. Therefore it can be said that his leadership ability is far higher than Xin.\n\nTo clarify, in the manga, the reason Xin's potential is higher is because of his 'gorilla' strength and that Xin has a 'special' 'ambition/anger' stat to his strength ability. This means Xin does even better under pressure and he 'entered' a tranquil fury of a sort, while Piao does about the same under pressure as he would under normal condition (which is good enough for normal people but not enough to be called exceptional like Xin).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n65409-W6TcMtHI6dhA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65409
+      }
+    },
+    {
+      "id": "bi",
+      "name": "Bi",
+      "alt_names": [
+        "壁",
+        "Heki"
+      ],
+      "role": "supporting",
+      "description": "Lord Changwen's subordinate.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65411-6djQdrUHFtmV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65411
+      }
+    },
+    {
+      "id": "qi-wang",
+      "name": "Qi Wang",
+      "alt_names": [
+        "王騎",
+        "Ou Ki",
+        "The Monstrous Bird of Qin"
+      ],
+      "role": "supporting",
+      "description": "Ou Ki, a branch member of the Ou Family, was a Great General and one of the Six Great Generals of Qin. He served as a close retainer to King Sho and was widely known under alias \"Monstrous Bird of Qin\".",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/65443-IJjkkvRrnsvH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65443
+      }
+    },
+    {
+      "id": "duanhe-yang",
+      "name": "Duanhe Yang",
+      "alt_names": [
+        "楊端和",
+        "Mountain King",
+        "Lord of Death",
+        "Yo Tan Wa"
+      ],
+      "role": "supporting",
+      "description": "Yang Duanhe is the mysterious King of Qin’s Mountain Tribes, is the leader and spokesperson for the Confederation of different tribes that reside in Qin's mountain area. She is known in the mountain realms as the Lord of Death. After the Coalition War, she was also rewarded with the title of Da Shang Zhao of Qin.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66701-UJIKRkxzzG1D.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66701
+      }
+    },
+    {
+      "id": "buwei-lu",
+      "name": "Buwei Lü",
+      "alt_names": [
+        "呂不韋",
+        "Ryo Fui"
+      ],
+      "role": "supporting",
+      "description": "A merchant who ranked up as Qin's Right Chancellor.   ~!Shortly after he is introduced, it is revealed that he is planning to keep his army in Wei until Zheng Ying dies, then storm Qin's capital of Xianyang, denouncing Jiao Cheng as a tyrant and taking the throne for himself. !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/66705-6D99gyHLBr8n.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66705
+      }
+    },
+    {
+      "id": "teng",
+      "name": "Teng",
+      "alt_names": [
+        "騰",
+        "Tou"
+      ],
+      "role": "supporting",
+      "description": "Teng is Wang Qi's aide and seems to be an army man himself. He is the only one who actually has any idea what Wang Qi's plans are.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/66931-NgtPIjU6TQnI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66931
+      }
+    },
+    {
+      "id": "wu-meng",
+      "name": "Wu Meng",
+      "alt_names": [
+        "蒙武",
+        "Mou Bu"
+      ],
+      "role": "supporting",
+      "description": "One of the \"Four Pillars\" of Buwei Lü. Father of Meng Tian and Meng Yi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70195-EG7Jhy0sKpFH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70195
+      }
+    },
+    {
+      "id": "si-li",
+      "name": "Si Li",
+      "alt_names": [
+        "李斯",
+        "Ri Shi"
+      ],
+      "role": "supporting",
+      "description": "One of the \"Four Pillars\" of Lü Buwei. He was a famous Legalist, but also a notable calligrapher.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70197-rsC2K2pHoifJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70197
+      }
+    },
+    {
+      "id": "chang-ping-jun",
+      "name": "Chang Ping Jun",
+      "alt_names": [
+        "昌平君",
+        "Shou Hei Kun",
+        "Lord Changping"
+      ],
+      "role": "supporting",
+      "description": "Chang Ping is one of the Four Pillars of Ryo and the Chancellor of the Right in the Qin court. He is a strategic genius and the Head of Military Affairs under King Zheng Ying of Qin. In the strategist academy, he instructed Mou Ten, Mou Ki, ​and Ten in the ways of strategic warfare.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70199-Ze0BXbCWJDvx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70199
+      }
+    },
+    {
+      "id": "mu-li",
+      "name": "Mu Li",
+      "alt_names": [
+        "李牧",
+        "Ri Boku"
+      ],
+      "role": "supporting",
+      "description": "One of the 3 great heavens generals of Zhao",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/76788-Ln8sT7C6DhR8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 76788
+      }
+    },
+    {
+      "id": "xiang",
+      "name": "Xiang",
+      "alt_names": [
+        "向",
+        "Kō"
+      ],
+      "role": "supporting",
+      "description": "A palace maid who is from a poor merchant family in the countryside. Genuinely devoted to Zheng.  wikipedia.org",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b86781-UBrF1NWcdGB7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 86781
+      }
+    },
+    {
+      "id": "ben-wang",
+      "name": "Ben Wang",
+      "alt_names": [
+        "王賁",
+        "Ou Hon"
+      ],
+      "role": "supporting",
+      "description": "Ou Hon is a General of Qin and the leader of the Gyoku Hou Army. The heir to the Ou Family's main branch, he is the son of Great General Ou Sen and a relative to the late Great General Ou Ki.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87535-x70f4WECTTcJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87535
+      }
+    },
+    {
+      "id": "tian-meng",
+      "name": "Tian Meng",
+      "alt_names": [
+        "蒙恬",
+        "Mou Ten"
+      ],
+      "role": "supporting",
+      "description": "The son of Meng Wu and a Qin General leading the Gaku Ka army.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87538-6TtSKneZ3etw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87538
+      }
+    },
+    {
+      "id": "jian-wang",
+      "name": "Jian Wang",
+      "alt_names": [
+        "王翦",
+        "Ou Sen"
+      ],
+      "role": "supporting",
+      "description": "General of Qin and the leader of Wang Jian Army. He is also the current head of the Wang Family",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87540-QE419IogVrad.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87540
+      }
+    },
+    {
+      "id": "hu-lun",
+      "name": "Hu Lun",
+      "alt_names": [
+        "輪虎",
+        "Rin Ko"
+      ],
+      "role": "supporting",
+      "description": "Po Lian's subordinate, one of Four Heavenly Kings.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87542-MW3YXoPFg5R6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87542
+      }
+    },
+    {
+      "id": "po-lian",
+      "name": "Po Lian",
+      "alt_names": [
+        "廉頗",
+        "Ren Pa"
+      ],
+      "role": "supporting",
+      "description": "Po Lian is a Great General from the state of Zhao and a former member of Zhao's Great Three Heavens. He left the state due to conflict with the current king of Zhao and is now situated in Wei.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87543.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87543
+      }
+    },
+    {
+      "id": "xia-zi",
+      "name": "Xia Zi",
+      "alt_names": [
+        "紫夏",
+        "Shika"
+      ],
+      "role": "supporting",
+      "description": "Shika was a black market merchant based in the state of Zhao and the one who smuggled Ei Sei out of Zhao and into Qin.\n\n(Source: Kingdom Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87545.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87545
+      }
+    },
+    {
+      "id": "biao-gong",
+      "name": "Biao Gong",
+      "alt_names": [
+        "麃公",
+        "Duke Hyou"
+      ],
+      "role": "supporting",
+      "description": "Biao Gong is a Great General from the state of Qin who led an invading Qin army to besiege the Wei city of Keiyou.\n\nHe is known for being an instinctive general for his use of crude tactics and striking after upsetting the battlefield with his use of infantry. The Duke's skills at war have made him a great asset to the state of Qin.\n\n~!In manga chapter 325, Duke Hyou is slain by Hou Ken!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/121231-uTEKI2nmCXxN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121231
+      }
+    },
+    {
+      "id": "you-long",
+      "name": "You Long",
+      "alt_names": [
+        "竜有",
+        "Ryuu Yuu"
+      ],
+      "role": "supporting",
+      "description": "You Long is one of the squad leaders of the Hi Shin Unit. Later, a 100-men unit commander in Hi Shin Unit.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132034-LuyWP4QJ6Yme.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132034
+      }
+    },
+    {
+      "id": "hai-yin",
+      "name": "Hai Yin",
+      "alt_names": [
+        "Kaine"
+      ],
+      "role": "supporting",
+      "description": "Yin Hai is a commander in the Zhao Military and Mu Li's bodyguard.\n\nYin Hai is a slim, young and beautiful woman. She has long dark hair tied at the back and wears a robe with armor around her torso. Unlike other army commanders, she doesn't wear any kind of armor protection on her head.\n\nSTATS:\nStrength 84\nLeadership 85\nKnowledge 82\nCapable dual wield swordsman",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132035-jCrKIBw6rVVG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132035
+      }
+    },
+    {
+      "id": "yuan",
+      "name": "Yuan",
+      "alt_names": [
+        "渕",
+        "En"
+      ],
+      "role": "supporting",
+      "description": "Yuan is a member of the Qin Military and a lieutenant in the Hi Shin Unit.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132036-FAC63v1GN4af.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132036
+      }
+    },
+    {
+      "id": "jio-ba",
+      "name": "Jio Ba",
+      "alt_names": [
+        "バジオウ"
+      ],
+      "role": "supporting",
+      "description": "Jio Ba is a commander in the Duanghe Yang Army and one of the most notable warriors of the Chouga Tribe.\n\nBa Jio was the only survivor from his tribe after a battle at a very young age. After a few years of living in the wild, he became a beast in human form. This would lead to confrontation with Duanhe Yang when she was on her way to conquer neighboring tribes. After losing a fight against Duanhe Yang, she gave him an option of dying as a beast or becoming her companion. This led to him being accepted into her tribe and over time he was able to speak multiple languages and become a powerful warrior.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132037-VH6uAllnGv7l.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132037
+      }
+    },
+    {
+      "id": "zhuang-zhao",
+      "name": "Zhuang Zhao",
+      "alt_names": [
+        "赵庄",
+        "Chou Sou"
+      ],
+      "role": "supporting",
+      "description": "Zhuang Zhao is a Zhao general and was appointed as a strategist for the Commander-in-Chief Pang Nuan by Mu Li for the Qin-Zhao War.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132038-G6ojZwjZOqTf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132038
+      }
+    },
+    {
+      "id": "lang-pie",
+      "name": "Lang Pie",
+      "alt_names": [
+        "沛浪",
+        "Hai Rou"
+      ],
+      "role": "supporting",
+      "description": "Lang Pie is one of the 100-man Commanders of the Hi Shin Unit.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132039-v8S2SpQ9K8gu.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132039
+      }
+    },
+    {
+      "id": "chuan-long",
+      "name": "Chuan Long",
+      "alt_names": [
+        "竜川",
+        "Ryuu Sen"
+      ],
+      "role": "supporting",
+      "description": "Chuan Long is one of the 100-man commanders of the Fei Xin Force. \nHe is three times stronger than Tian You and therefore a member of the Four Monster Squad.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132040-hSysIxsf3wRZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132040
+      }
+    },
+    {
+      "id": "ping-wei",
+      "name": "Ping Wei",
+      "alt_names": [
+        "尾平",
+        "Bi Hei"
+      ],
+      "role": "supporting",
+      "description": "Ping Wei is one of the squad leaders of the Fei Xin Force. He comes from the same village as Xin, the village of Jouto.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132041-9mpKNz9mKLLA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132041
+      }
+    },
+    {
+      "id": "yi-meng",
+      "name": "Yi Meng",
+      "alt_names": [
+        "蒙毅",
+        "Mou Ki"
+      ],
+      "role": "supporting",
+      "description": "Yi Meng is Wu Meng's son, Ao Meng's grandson and Tian Meng's brother. He is alongside Liao Diao He as one of Lord Changping's students at the strategist academy. \n\nSTATS:\nStrength\t80\nLeadership 80\nIntelligence 90",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132042-v6wKyKCJdco2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132042
+      }
+    },
+    {
+      "id": "liao",
+      "name": "Liao",
+      "alt_names": [
+        "摎",
+        "Kyou"
+      ],
+      "role": "supporting",
+      "description": "The daughter of King Zhaoxiang, she was one of the Six Great Generals of Qin and Qi Wang's fiancee. \n\nSTATS:\nStrength 94\nLeadership 97\nKnowledge 95",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132043-UkZf4ba2JnR6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132043
+      }
+    },
+    {
+      "id": "yuan-chong",
+      "name": "Yuan Chong",
+      "alt_names": [
+        "崇原",
+        "Suu Gen"
+      ],
+      "role": "supporting",
+      "description": "One of the squad leaders of the Fei Xin Force. \n\nCalled a sword fanatic by Xin, he is a skilled swordsman for a militia soldier.\nHe is able to asses others abilities.\nSurprisingly good craving skills.\n\n~!After the Qin-Zhao war he started wearing an eyepatch over his right eye.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132044-WWIJlRnNb1mW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132044
+      }
+    },
+    {
+      "id": "nuan-pang",
+      "name": "Nuan Pang",
+      "alt_names": [
+        "龐煖",
+        "Hou Ken"
+      ],
+      "role": "supporting",
+      "description": "Nuan Pang is one of Zhao's \"Three Great Heavens\" and the most hated enemy of Wang Qi. He is also a Wushen, making him Lei Qiang's foretold enemy. \n\nThinks of himself as a Wushen but is actually a failed \"Path Seeker\". He spent most of his time in the mountains training with his guandao. ~!He appeared during the conquest of Bayou to fight Liao, one of the Six Great Generals, as her presence drew him out of his training. Nuan Pang easily cutting through her elite bodyguards before Liao arrived on the scene. She was killed by him in combat and he was, in turn, severely wounded by Qi Wang who gave him a scar across his face before his body was riddled with arrows. He came to after the Qin army had left and headed out to do more training as his might was nowhere near that of the man who just defeated him. !~\n\n~!It took him 3 years to recover from his wounds and he took another 6 years to train before he was approached by Mu Li to be involved in Zhao's plans against Qin. !~\n\nSTATS:\nStrength 100\nLeadership unknown\nKnowledge unknown",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132045-rxygSKUPZciR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132045
+      }
+    },
+    {
+      "id": "kai-lan",
+      "name": "Kai Lan",
+      "alt_names": [
+        "ランカイ",
+        "Ran Kai"
+      ],
+      "role": "supporting",
+      "description": "Kai Lan is Jiao Cheng's bodyguard. He has a giant body and massive strength that makes him a deadly foe, and his mouth seems to be full of sharp fangs.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132046-UpgzEprEbFTQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132046
+      }
+    },
+    {
+      "id": "dao-wei",
+      "name": "Dao Wei",
+      "alt_names": [
+        "尾到",
+        "Bi Tou"
+      ],
+      "role": "supporting",
+      "description": "Dao Wei is one of the squad leaders of the Fei Xin Force. He comes from the same village as Xin, thevillage of Jouto. He is the brother of Ping Wei.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132047-2KVCx7INDjcN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132047
+      }
+    },
+    {
+      "id": "qing-wu",
+      "name": "Qing Wu",
+      "alt_names": [
+        "呉慶",
+        "Go Kei"
+      ],
+      "role": "supporting",
+      "description": "Wing Wu is a Great General and one of the seven remaining Fire Dragons from the state of Wei whom fought against an invading Qin force led by Biao Gong on the Dakan Plains in the Western part of Wei. He is known for being a strategic general for his use of methodical tactics which have led him to many victories and made him a great asset to the Wei king. His genius in warfare is known as far as Qin, making his a name to fear. Known as Shinryoukun's bastion of knowledge, his military knowledge is the greatest in all of Wei. His son, Feng Ming Wu, followed after him as a general in Wei. \n\nAs a child, his home was destroyed some 30 years ago by the Zhao forces who killed his parents and conquered his kingdom in the small state of Jia. He is the royal survivor of a fallen kingdom. By changing his name and painting his face, he entered Wei and served under Shinryoukun, a royal member of the state. \n\nSTATS:\nStrength\t89\nLeadership 92\nKnowledge 97\nWillpower - 100",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132048-Q1fbSWC7tpm5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132048
+      }
+    },
+    {
+      "id": "you-tian",
+      "name": "You Tian",
+      "alt_names": [
+        "田有",
+        "Den Yuu"
+      ],
+      "role": "supporting",
+      "description": "You Tian is a 100-man Commander in the Qin Military and one of the original members of the Fei Xin Force. \n\nHe was tasked with gathering strong people for Shin's 100-man SquadronConsidered strong enough to be counted as part of the Four Monster Squad. He has trained in the carpentry trade.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132049-sV0NjOri2R9w.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132049
+      }
+    },
+    {
+      "id": "yong-tian",
+      "name": "Yong Tian",
+      "alt_names": [
+        "田永",
+        "Den Ei"
+      ],
+      "role": "supporting",
+      "description": "One of the squad leaders of the Fei Xin Force.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132050-2qPjZ5lAYt8c.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132050
+      }
+    },
+    {
+      "id": "tajifu",
+      "name": "Tajifu",
+      "alt_names": [
+        "タジフ"
+      ],
+      "role": "supporting",
+      "description": "Tajifu is a powerful mountain warrior and a member of the Duan He Yang Army.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132051-HrdvQlHhgsLy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132051
+      }
+    },
+    {
+      "id": "xiang-qiang",
+      "name": "Xiang Qiang",
+      "alt_names": [
+        "羌象",
+        "Kyou Shou"
+      ],
+      "role": "supporting",
+      "description": "Lei Qiang's elder sister.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132052-T3qMaTZ49lJs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132052
+      }
+    },
+    {
+      "id": "wu-wei-lu",
+      "name": "Wu Wei Lu",
+      "alt_names": [
+        "録嗚未",
+        "Wu Wei Lǜ",
+        "Roku O Mi",
+        "Rokuomi"
+      ],
+      "role": "supporting",
+      "description": "Wu Wei Lu is a vassal of Great General Qi Wang and was appointed as a commander by his lord when the Qin General was made commander-in-chief over the Qin relief army. He led the 1st army into battle against the Zhao forces and is rumored to possess capabilities on par with actual generals.\n\nIt is also rumored that he may possibly be the strongest out of all the vassals. \n\nSTATS:\nStrength 90\nLeadership 87\nKnowledge 82\nHot Bloodedness: a lot",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132053-8I1zpBAyt4ov.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132053
+      }
+    },
+    {
+      "id": "shunmen",
+      "name": "Shunmen",
+      "alt_names": [
+        "シュンメン"
+      ],
+      "role": "supporting",
+      "description": "Shunmen is a mountain warrior under service of Duan He Yang. He is possibly the strongest Chouga (Bird) tribe warrior.\n\nThe Bird Fang Tribe was said to be the strongest of the mountain lands. Their strongest warrior was Shunmen. But eight years ago, Shuman was defeated by Dan He Yang, and they were absorbed into Duan He Yang's Faction. In those eight years, each time he and Yotanwa duelled he was beaten within an inch of his life.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132054-CB9doqazXaIW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132054
+      }
+    },
+    {
+      "id": "hai-qu",
+      "name": "Hai Qu",
+      "alt_names": [
+        "去亥",
+        "Kyo Gai"
+      ],
+      "role": "supporting",
+      "description": "Hai Qu is One of the squad leaders of the Fei Xin Force.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132055-AO8yE0SkIlzt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132055
+      }
+    },
+    {
+      "id": "ji-wan",
+      "name": "Ji Wan",
+      "alt_names": [
+        "万極",
+        "Man Goku"
+      ],
+      "role": "supporting",
+      "description": "Ji Wan is a Zhao General who was under the command of Houken during the Zhao invasion of Qin.\n \nJi Wan is a survivor of Chouhei where he lost his father who was a commander of an unidentified amount of men. He is responsible for destroying all the villages surrounding the City of Baou before the battle of Bayou, but that was no isolated incident. He repeated the same brutality time and time again in his numerous incursions into Qin land. \n\nSTATS:\nStrength\t88\nLeadership 80\nKnowledge 70\nHatred 100",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132056-AxxnnD5VJcqe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132056
+      }
+    },
+    {
+      "id": "qing",
+      "name": "Qing",
+      "alt_names": [
+        "慶",
+        "Kei"
+      ],
+      "role": "supporting",
+      "description": "Qing comes from the same village as Xin, Dao Wei and Ping Wei.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132057-kJFmAaizc5QO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132057
+      }
+    },
+    {
+      "id": "yi-huan",
+      "name": "Yi Huan",
+      "alt_names": [
+        "桓騎",
+        "The Beheader",
+        "Kan Ki"
+      ],
+      "role": "supporting",
+      "description": "Yi Huan is a Vice General who serves in Great General Ao Meng's army. In the past, he was a bandit leader with the moniker Yi Huan the Beheader.\n\nHis personality is said to be extremely brutal as he has no qualms in killing surrendered soldiers and personally beheaded every person in any city or village he conquered. This is shown in how he sends Wei soldiers, who have been severely tortured, along with bags of eyeballs back to their camp to decrease morale and incite fear.\n\nHe always has an arrogant smirk on his face and talks in a crude manner at times. He shows no respect for his foes as he calls Feng Xuan \"an old fart\" and \"trash\" before killing him. He is exhibits a sense of humor and sarcasm as in the case when a fellow crew member asked him why he made an unskilled man named Ogiko as 1000-man commander of The Yi Huan army, he replied \"Gyahaha cause it's funny obviously.\"\n\nHe also has a cool demeanor and almost never displays any shock no matter how bad the situation is. Yi Huan also shows a very dark side as he toys with Xi Bai Gui by dangling the idea of escape from death if he begged for his life then stabbed him several times after he refused to grovel.\n\nHe does exhibits a sense of loyalty exclusive to Ao Meng by holding the rank of Vice General in his army and coming when summoned as demonstrated when Tang Zhang used Ao Meng's name, as he knew that Yi Huan would simply ignore an request for a conversation with him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137855-2DbejZ4TErnw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137855
+      }
+    },
+    {
+      "id": "lin-wa",
+      "name": "Lin Wa",
+      "alt_names": [
+        "媧燐",
+        "Ka Rin"
+      ],
+      "role": "supporting",
+      "description": "Lin Wa is the current Prime Minister and the leading martial figure of the state of Chu.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138865-ztJdRCgnsH79.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138865
+      }
+    },
+    {
+      "id": "chun-shen-jun",
+      "name": "Chun Shen Jun",
+      "alt_names": [
+        "春申君",
+        "Shun Shin Kun",
+        "Lord Chunshen"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158725-zZepMxHlAJYu.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158725
+      }
+    },
+    {
+      "id": "ming-han",
+      "name": "Ming Han",
+      "alt_names": [
+        "汗明",
+        "Kan Mei"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158726-NhvQkfovHMmr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158726
+      }
+    },
+    {
+      "id": "feng-ming-wu",
+      "name": "Feng Ming Wu",
+      "alt_names": [
+        "吴凤明",
+        "Go Hou Mei"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b159239-Sm41S3IlWFG1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 159239
+      }
+    },
+    {
+      "id": "li-bai",
+      "name": "Li Bai",
+      "alt_names": [
+        "白麗",
+        "Haku Rei"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b159240-cuYLxuK7WCqE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 159240
+      }
+    },
+    {
+      "id": "yi-xiang",
+      "name": "Yi Xiang",
+      "alt_names": [
+        "項翼",
+        "Kou Yoku"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b159241-MPdWe2szt6Va.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 159241
+      }
+    },
+    {
+      "id": "xiang-ru-lin",
+      "name": "Xiang Ru Lin",
+      "alt_names": [
+        "蔺相如",
+        "Rin Shou Jo",
+        "Phantasmal General"
+      ],
+      "role": "supporting",
+      "description": "__Status__: Deceased due to Illness\n__Marital Status__: Unknown\n__Gender__: Male\n__State__: Zhao\n\n__Rin Shou Jo__ was a Great General and a member of the Three Great Heavens of Zhao. He was later known as Phantasmal General due to passing away in his prime, because of illness.\n\n__Appearance__:\nRin Shou Jo was a thin man with long black hair and a short goatee. On the battlefield, he wears armor and ornamented helmet.\n\n__Personality__:\n__Rin Shou Jo__ was described as a man of wisdom and courage. He was also considered by __Ren Pa__ as the best friend.\n\n(Source: Kingdom wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b185030-7aQM1y2GGOxE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 185030
+      }
+    },
+    {
+      "id": "meng-ao",
+      "name": "Meng Ao",
+      "alt_names": [
+        "蒙驁",
+        "Mou Gou",
+        "Haku Rou"
+      ],
+      "role": "supporting",
+      "description": "__Status__ :\n~!Deceased!~\nMarital Status:\tWidower\nHair: White\n__Relatives__ : \nMou Bu (Son)\nMou Aki (Daughter)\nMou Ten (Grandson)\nMou Ki (Grandson)\n__State__ : Qi (Originated), Qin\n\nMou Gou \"Haku Rou\", a Great General and leader of the Mou Gou Army of the State of Qin, was the father of Great General Mou Bu and the grandfather of Mou Ten and Mou Ki.\n\n__Appearance__ :\nHe was an old man with a large body frame, who had a long beard. \n~!He later lost his left arm to Ren Pa.!~\n\n__Personality__ :\n~!He had a relaxed, almost lax personality, as he kept telling his men to take it slow and easy. Mou Gou always had a calm look on his face but was troubled by the insurmountable wall in his life that was the Zhao great general Ren Pa. He was abnormally strict when it comes to his own family. When under pressure, Mou Gou used to dress as a normal foot soldier and find a quiet place somewhere nearby to clear his head.!~\n\n__STATS__\nStrength\t85 (but strong enough to push back Ren Pa)\nLeadership\t90\nIntelligence\t91\nExperience\tS\n\n(Source: Kingdom wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b185031-xNR5a0qTMk30.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 185031
+      }
+    },
+    {
+      "id": "yao-yun",
+      "name": "Yao Yun",
+      "alt_names": [
+        "堯雲",
+        "Gyou’un",
+        "Rin Shou Jo's Sword"
+      ],
+      "role": "supporting",
+      "description": "__Status__ :\n~!Deceased!~\n__Age__ : Late 50s\n__Gender__ :\tMale\n__State__ : Zhao \n\n__Gyou’un__ was an Instinctual General from the state of Zhao and a former deputy of Rin Shou Jo of the Three Great Heavens.\n\n__Appearance__ :\nGyou’un is a tall man with a long goatee, but his most distinct features were his inhuman, reptile-like eyes. He wears a helmet ornamented with a snake, the same armor he wore back in his days as one of the Rin Family's Ten Heroes under Rin Shou Jo's command.\n\n__Personality__ :\nGyou'un is a man who wore the mantle that once symbolizes the might of Zhao when Rin Shou Jo was alive. Opposite to Chou Gar Ryuu who has a calm demeanor, Gyou'un wore a Grim personality. Despite being a man who doesn't seem to be sociable due to his grim personality, he is a caring/considerate individual, showing concern for his master's health and for others around him.\n\n~!Gyou'un was very attached to Rin Shou Jo and the rest of Rin's family ten heroes, as shown by his deep grief for Rin Shou Jo's passing and the fact that he shouldered the legacy and memoirs of his fallen comrades. On a rare occasion, he was grateful that his master's prophecy came true, showing great inspiration after going through an empty existence.!~\n\n(Source: Kingdom wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b185032-vDYKeRpoEgw8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 185032
+      }
+    },
+    {
+      "id": "si-ma-shang",
+      "name": "Si Ma Shang",
+      "alt_names": [
+        "司马尚",
+        "Shi Ba Shou",
+        "Lord of Seika City"
+      ],
+      "role": "supporting",
+      "description": "Shi Ba Shou is the lord of Seika City, which lies in the eastern part of Zhao.\n\n(Source: Kingdom wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b185033-oKpDWcCJFSOV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 185033
+      }
+    },
+    {
+      "id": "hui-ji",
+      "name": "Hui Ji",
+      "alt_names": [
+        "紀彗",
+        "Ki Sui",
+        "The Lord of the City of Rigan"
+      ],
+      "role": "supporting",
+      "description": "__Status__ : Alive\n__Age__ : 36 \n__Relatives__ : \nKi Shou (father)\nBa Tei (adopted brother)\nRyuu Tou (adopted brother) \n__State__ : Zhao\n__Residence__ : City of Rigan\n\nKi Sui is a General of the Zhao Military forces and the Lord of the City of Rigan.\n\n__Appearance__ : \nKi Sui possesses a wore thinly mustache and beard. He has long brown hair slicked back and sports a white cape.\n\n__Personality__ :\nKi Sui's overwhelming love for his hometown, Rigan inspires his soldiers to fight until the end.\n\nSTATS\n__Strength__ : 86\n__Leadership__ : 90\n__Intelligence__ : 90\n__Experience__ : B",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b185199-g5TES3RQqtgj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 185199
+      }
+    },
+    {
+      "id": "di-fu",
+      "name": "Di  Fu",
+      "alt_names": [
+        "傅抵",
+        "Fu Tei"
+      ],
+      "role": "supporting",
+      "description": "Fu Tei is a 3000-man commander from the state of Zhao. Fu Tei's goal is to attain a seat between the Three Great Heavens of Zhao.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187539-VGyMvWBfPZam.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187539
+      }
+    },
+    {
+      "id": "xuan-feng",
+      "name": "Xuan Feng",
+      "alt_names": [
+        "Gen Pou"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187540-zjJVFFmG6vvS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187540
+      }
+    },
+    {
+      "id": "ordo",
+      "name": "Ordo ",
+      "alt_names": [
+        "オルド"
+      ],
+      "role": "supporting",
+      "description": "__Strength:__ 93\n__Leadership:__ 95\n__Knowledge:__ 85\n\nOrdo is a general from the state of Yan. He was born a plains folk but grew up in the mountains. He later united and became king of 50 different tribes.\n\n(Source: Kingdom Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187541-LRHPSaHo0gG9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187541
+      }
+    },
+    {
+      "id": "hui-cheng",
+      "name": "Hui  Cheng",
+      "alt_names": [
+        "Sei Kai"
+      ],
+      "role": "supporting",
+      "description": "__Strength:__ 50\n__Leadership:__ 86\n__Knowledge:__ 88\n\nSei Kai is a General from the state of Han.\n\n(Source: Kingdom Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187542-3ur2qUPealNg.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187542
+      }
+    },
+    {
+      "id": "ma-nan-ci",
+      "name": "Ma  Nan Ci",
+      "alt_names": [
+        "馬南慈",
+        "Ba Nan Ji ",
+        "Demon of Ganmon"
+      ],
+      "role": "supporting",
+      "description": "Ba Nan Ji is a Zhao General of the inner circle of Ri Boku of the Three Great Heavens. He is known under the moniker \"Demon of Ganmon\" for his vicious battles against Xiongnu in the Ganmon region.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187543-rclt4V9b78vY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187543
+      }
+    },
+    {
+      "id": "zhao-e-long",
+      "name": "Zhao E Long",
+      "alt_names": [
+        "Chou Ga Ryuu ",
+        "Rin Shou Jo's Shield"
+      ],
+      "role": "supporting",
+      "description": "Chou Ga Ryuu was a general from the state of Zhao, and the former deputy of Rin Shou Jo of the Three Great Heavens.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187544-iSPrWFKcxRgP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187544
+      }
+    },
+    {
+      "id": "kitari",
+      "name": "Kitari",
+      "alt_names": [
+        "Chieftain of the Mera Tribe"
+      ],
+      "role": "supporting",
+      "description": "Kitari has a fiery temper, quick to anger and short in patience (and she's no stranger to mocking either). Kitari is very honest and straightforward, caring deeply about her tribe and her family. She has shown herself to be a responsible individual, capable of overcoming grief in order to do her duty.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187545-RgvUW2thCOSy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187545
+      }
+    },
+    {
+      "id": "taihou",
+      "name": "Taihou",
+      "alt_names": [
+        "太后",
+        "Queen Mother",
+        "Jewel of Kantan",
+        "Bi Ki"
+      ],
+      "role": "supporting",
+      "description": "The Queen Mother is an extremely beautiful, mature woman who still retains her youthful appearance. She has a mesmerizing look in her eyes and a unique air of sexual sensuality.\n\nIn her youth, Bi Ki possessed an innocent and almost naive outlook on her life but after going through the horrible hardships she endured during her days as a hostage in Zhao, she became cold and cruel and since becoming the Queen Mother of the State of Qin she has turned into a vain and conceited person, unable to have feelings of love and compassion. Blaming the birth of her son, Ei Sei, for her misery she bares a deep hatred for him and attempted to kill him by choking the boy to death when he was a child.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b188824-mvh65tdU0CeU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 188824
+      }
+    },
+    {
+      "id": "she-qing",
+      "name": "She Qing",
+      "alt_names": [
+        "慶舎",
+        "Kei Sha"
+      ],
+      "role": "supporting",
+      "description": "Kei Sha was an Instinctual General and Ri Boku's vassal. During king Tou Jou's reign he was considered one of the most important commanders of the Zhao Military. He was known under the moniker \"The Silent Hunter\".",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190157-e5kX8AID123h.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190157
+      }
+    },
+    {
+      "id": "jian-tian",
+      "name": "Jian Tian",
+      "alt_names": [
+        "Ou Ken ",
+        "King Ou Ken"
+      ],
+      "role": "supporting",
+      "description": "King Ou Ken is the 8th and current King of the state of Qi.\n\nHe is an old friend of Sai Taku, Qin's highest diplomat.\n\n__Appearance__ :\nOu Ken has a long goatee with slick, black hair. He is seen with regal court robes which look eccentric and strange, to add to this strangeness he is also frequently seen having a snake in his mouth.\n\n__Personality__ :\nOu Ken has a strange personality and an observant mind. Sai Taku describes him as peculiar and difficult to read. He is not above being bought out and sees war as an opportunity to profit greatly. He appears to have a taste for dried snakes as a delicacy.\n\nHe is loyal to old friends as he easily recalled his troops when Sai Taku made a better offer. He is also a man of principles as he explained to Ei Sei when meeting him that one of the reasons he withdrew from the Coalition was due to the distaste at the thought of the remaining states devolved into a pack of dogs fighting over scraps after Qin is annihilated.\n\nDue to his experience of residing over a much reduced state of Qi after the first Coalition war, he was convinced that there would be no end to the Warring States if there is no answer to how to end the bloodshed permanently due to the lack of long term effect of perpetual force. It was not until Ei Sei laid out his vision of one kingdom united by laws above both commoners and nobles that he began to see a possible exit to the Warring States Period.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191696-mXDvjydcr6mj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191696
+      }
+    },
+    {
+      "id": "ei-jun",
+      "name": "Ei Jun ",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Jun Ei is a General from the state of Wei and one of the closest vassals in the Go Hou Mei Army.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191697-WxdedXq0Npcz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191697
+      }
+    },
+    {
+      "id": "u-man",
+      "name": "U Man",
+      "alt_names": [
+        "Lord Of Juuko"
+      ],
+      "role": "supporting",
+      "description": "Man U is the lord of Juuko City and General of Chu.  \n\nHe has big figure as large as Mou Bu or larger. Man U has a tattoo that reach across his eyes and a goatee beard. \n\nLike all fellow generals in Juuko's army, he is not loyal to CHU and also a warmonger.  A man who express excitement over the hearing of approaching battlefield or famous great general, such as the news of the arrival of Mou'Bu.\n\nHe has a lack of common sense when it comes to clothing, playing a game of mah'jong in full naked body except wearing boots and cape which he believes he is not naked at all. \n\nA cheerful and easy going man, he is however, eager to put himself on the frontline of the battlefield. He would argue with his subordinates for taking things too seriously on the battlefield.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191698-mwpp3bVCFY2E.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191698
+      }
+    },
+    {
+      "id": "han-ryuu",
+      "name": "Han Ryuu",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Ryuu Han is a General from the state of Wei and vassal in the Go Hou Mei Army.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191699-Ee5hie4ZfCZr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191699
+      }
+    },
+    {
+      "id": "sen-to-un",
+      "name": "Sen To Un",
+      "alt_names": [
+        "Sen To Un"
+      ],
+      "role": "supporting",
+      "description": "Sen To Un is a General of Chu who stations in the city of Juuko.\n\nA warmongering man who takes delight on taking on a suicide situations on the battlefield. \n\nHe has lack of common sense of clothing like believing that wearing boots and cape have covered his whole naked body when playing Mah'Jong.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191700-fACUNR5pzeKF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191700
+      }
+    },
+    {
+      "id": "kai-ba",
+      "name": "Kai  Ba",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Ba Kai was a General from the state of Wei and deputy in the Go Hou Mei Army.\n\nHe wears an armor and a helmet ornamented with eyes. His cape had pines in front with an eye-like staple.  He has a  what look-like Scar/ Birthmark covers his top left side.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191701-2zTX86jKOlW9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191701
+      }
+    },
+    {
+      "id": "ju-ko-ou",
+      "name": "Ju Ko  Ou",
+      "alt_names": [
+        "Ju Ko Ou ,Sage of Juuko"
+      ],
+      "role": "supporting",
+      "description": "Ju Ko Ou is a strategist of Chu who stations in the city of Juuko. He is known under the moniker \"Sage of Juuko\".\n\nJu Ko Ou is wearing casual robes and decorated hat. he is a short middle-age men with long black hair, mustache and a goatee.\n\nLike the rest of Juuko's general, he isn't loyal to Chu, he is also a warmonger type. Unlike Sento'un and Man'u who easily gets excited like the arrival of great general Moubu, he wasn't interested until it reach to the point When the arrival of Wei army join hands with Qin army. He was more interested on strategies and tactical manevure when he deciphered Go Hou Mei's decisions to ordered three armies to attack Gen'U forces tactically. \n\nDespite being the strategist of Juuko, he has great confidence with his fellow generals of Juuko that his tactics and strategy isn't much needed as each of them were Great Generals from minor nations.\n\nHe has a habit of drinking Tea in the midst of battle with a special design High Tower Tea Table and Customize Tower seat to look at the Scene. He laughed at Qin-Wei army for being overly optimistic even when Juuko's being heavily pressured from pincer attack.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191702-r6ErLvKx6tzR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191702
+      }
+    },
+    {
+      "id": "u-gen",
+      "name": "U Gen",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Gen U is a General of Chu who stations in the city of Juuko. \n\nLike the rest of fellow Generals of Juuko army, he isn't loyal to CHU. He is also a warmonger type.  Unlike Sen to un and Man u who easily express their excitement when hearing the invasion of Qin led by Great General Mou bu. Gen U didn't show much hints. \n\nGen'u is a quiet man who speaks when he got something to say.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191703-UtwAiZfbIJtn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191703
+      }
+    },
+    {
+      "id": "ling-huang",
+      "name": "Ling Huang",
+      "alt_names": [
+        "靈鳳",
+        "Rei Ou"
+      ],
+      "role": "supporting",
+      "description": "Rei Ou was a part of the Seven Fire Dragons of Wei, whose abilities are on par with those of the Zhao Three Great Heavens and the Six Great Generals of Qin.\n\nAt some point, Rei Ou along with Gai Mou sided with Earl Shi in his conflict against Tai Ro Ji, Ben Tou and Shou Sen, the other three Fire Dragons, with Tai Ro Ji being personally responsible for the death of Earl Shi's younger sister. This resulted in the deaths of the opposing Fire Dragons.\n\nAs a punishment, Rei Ou and the two other generals were incarcerated in an underground prison for 14 years.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192027-5KX0pCSflwWz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192027
+      }
+    },
+    {
+      "id": "luan-mei-po",
+      "name": "Luan Mei Po",
+      "alt_names": [
+        "乱美迫",
+        "Ran Bi Haku"
+      ],
+      "role": "supporting",
+      "description": "A berserker who serves as lieutenant to one of 7 Wei Dragon, doesn't speak much. Focusing only to kill as many foes as he can, disregarding any sense of danger and would have himself charge right through the thickest battle.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192028-4wHm5U2tIc1i.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192028
+      }
+    },
+    {
+      "id": "kai-meng",
+      "name": "Kai Meng",
+      "alt_names": [
+        "凱孟",
+        "Gai Mou",
+        "The raging bull"
+      ],
+      "role": "supporting",
+      "description": "Gai Mou is an easy going laid-back General who only goes on the battlefield if he finds someone interesting to duel. He is very boastful to the point of even saying lies about his strength.\n\nHe also appears to be rather dense often having his lieutenant Jun Sou chiding him on his incompetence. An example of this is shown when he misinterprets Jun Sou's explanation about Shin going as far to assume Shin killed Ou Ki and Kyou. Another example of his simple-minded attitude is when he yelled his name and rank at the Hi Shin Unit in hopes of having a one on one duel with Shin at the risk of giving away his location to everyone (which was ultimately successful). \n\nGai Mou is also rather lecherous as seen when he is indulging himself with four girls (claiming to be making up for 14 years of being imprisoned) before clashing with the Hi Shin Unit. He is later seen with them again when he questions Ka Ryo Ten after having some action with his concubines.\n\nPhilosophically, he sees Ren Pa and Ou Ki's opinion of war as a struggle of dreams and sentiments as a delusion meant to disguise the slaughter for what it really is. Thus he concludes that war is just a practice where the strong slaughter the weak. With this, Ou Ki and Ren Pa never took his challenges to duel him seriously and would withdraw as he didn't have a reason to fight that was worthy enough for them to consider.\n\n(Source: Kingdom wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192029-AQrBJNfaFOOP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192029
+      }
+    },
+    {
+      "id": "jige-zi",
+      "name": "Jige Zi",
+      "alt_names": [
+        "紫季歌",
+        "Kika Shi"
+      ],
+      "role": "supporting",
+      "description": "Shi Kika was Shi Ei's younger stepsister who was killed before the start of the series. Her death was the cause of the internal dispute among the Seven Fire Dragons of Wei.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192032-J8OMj4EDrmAJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192032
+      }
+    },
+    {
+      "id": "shang-hu",
+      "name": "Shang Hu",
+      "alt_names": [
+        "胡傷",
+        "Shou Ko"
+      ],
+      "role": "supporting",
+      "description": "Ko Shou was one of the Six Great Generals of Qin.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192033-m2X4x2GOoMxe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192033
+      }
+    },
+    {
+      "id": "zhao-qin",
+      "name": "Zhao Qin",
+      "alt_names": [
+        "秦昭",
+        "Shou",
+        "King Shou",
+        "God of War"
+      ],
+      "role": "supporting",
+      "description": "Sho was the 29th king of Qin. He was the father of Kyou and the great-grandfather of Ei Sei.\n\nKing Sho ruled for 55 years and most of them were spent warring against the other states. In the course of those wars came to the forefront under his reign were the Six Great Generals of Qin who had an unshakeable bond of loyalty to King Sho.\n\n(Source: Kingdom wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192038-6hS9Ie2ctr8T.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192038
+      }
+    },
+    {
+      "id": "bo-zi",
+      "name": "Bo Zi",
+      "alt_names": [
+        "紫伯",
+        "Earl Shi",
+        "Shi Ei"
+      ],
+      "role": "supporting",
+      "description": "Shi Haku is a Great General from the state of Wei. He is a part of the Seven Fire Dragons of Wei who are Great Generals who's abilities are on par of those of the Zhao Three Great Heavens and Qin Six Great Generals. However internal fights occured, and three generals including Shi Haku killed 3 of the other generals, while Go Kei stayed neutral. As a punishment, Shi Haku and the two other generals were in an underground prison for 14 years.\n\nShi Haku is said to be Wei's best spear wielder. His mastery with the spear is said to be so skilled that he is able to deal grievous blows to the point his enemies are incapable of noticing that they've been struck. It is also said that his skills didn't go rusty but rather he surpassed his form over the last decade despite being incarcerated for 14 years.\n\n(Source: Kingdom Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b197691-20JkpRfOy17W.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 197691
+      }
+    },
+    {
+      "id": "li-qiang",
+      "name": "Li Qiang",
+      "alt_names": [
+        "羌",
+        "Kyou Rei",
+        "Qiāng lǐ"
+      ],
+      "role": "supporting",
+      "description": "Kyou Rei is an assassin from the Qiang Tribe and the holder of the Chiyou title. Currently she's a member of the Li Xin Army",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210454-qOa9yew2Vnsk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210454
+      }
+    },
+    {
+      "id": "cheng-ma",
+      "name": "Cheng Ma",
+      "alt_names": [
+        "馬呈",
+        "Ba Tei"
+      ],
+      "role": "supporting",
+      "description": "Ba Tei is a General of the Zhao Military forces and one of the deputies under General Ji Hui the Lord of the City of Rigan.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212568-gVs5PgK3pRGv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212568
+      }
+    },
+    {
+      "id": "dong-liu",
+      "name": "Dong Liu",
+      "alt_names": [
+        "劉冬",
+        "Ryuu Tou"
+      ],
+      "role": "supporting",
+      "description": "Ryuu Tou was a General of the Zhao Military forces and one of the Deputies under General Ki Sui, the Lord of the City of Rigan.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212569-QgFNWWAMyTq9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212569
+      }
+    },
+    {
+      "id": "zuo-song",
+      "name": "Zuo Song",
+      "alt_names": [
+        "松左",
+        "Shou Sa"
+      ],
+      "role": "supporting",
+      "description": "Song Zuo was a 100-Man Commander and the Deputy Infantry Commander of the Fei Xin Unit. He is probably the most skilled spear user in the unit.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213918-WF6wAMPB4gPs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 213918
+      }
+    },
+    {
+      "id": "rai-do",
+      "name": "Rai Do",
+      "alt_names": [
+        "雷土",
+        "Lei Tu. Raii Duu"
+      ],
+      "role": "supporting",
+      "description": "Rai Do was ex-bandit from Qin serving in the Kan Ki Army and the leader of Rai Do Clan. He later became a General during the Battle of Eikyuu.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b253976-Z0HXkVsaIerW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 253976
+      }
+    },
+    {
+      "id": "yi-liu",
+      "name": "Yi Liu",
+      "alt_names": [
+        "瑠衣",
+        "Rui"
+      ],
+      "role": "supporting",
+      "description": "A palace girl of the state of Qin and Sei Kyou's first wife.",
+      "metadata": {
+        "gender": "female",
+        "age": "Early 20s",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b273194-lJ5ifyJXNwNL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 273194
+      }
+    },
+    {
+      "id": "wu-yi-hu",
+      "name": "Wu Yi Hu",
+      "alt_names": [
+        "Ogiko (オギコ)"
+      ],
+      "role": "supporting",
+      "description": "Ogiko is a 1000-Man Commander and the personal messenger of Great General Kan Ki. He is the leader of the Ogiko Unit.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314814-mm5Vxoeq4FJc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314814
+      }
+    },
+    {
+      "id": "muta",
+      "name": "Muta",
+      "alt_names": [
+        "ムタ"
+      ],
+      "role": "minor",
+      "description": "A warrior of the Bessa Tribe of Nanyue. Uses a blowgun with poisonous darts and an adze.  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/65401.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65401
+      }
+    },
+    {
+      "id": "wan-xu",
+      "name": "Wan Xu",
+      "alt_names": [
+        "徐完",
+        "Jo Kan"
+      ],
+      "role": "minor",
+      "description": "A member of the assassin clan \"Zhuxiong\". The one who killed Piao after mistaking him as Zheng Ying. Later gets finished off by Xin.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65403-DDDLjpxJsWKU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65403
+      }
+    },
+    {
+      "id": "shi-jie",
+      "name": "Shi Jie",
+      "alt_names": [
+        "竭氏",
+        "Ketsushi"
+      ],
+      "role": "minor",
+      "description": "The Left Chancellor of Qin, supporter of Jiao Cheng.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65413-YRAn0wMPZ2ZD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65413
+      }
+    },
+    {
+      "id": "shi-si",
+      "name": "Shi Si",
+      "alt_names": [
+        "肆氏"
+      ],
+      "role": "minor",
+      "description": "Shi Jie's strategist. Futilely tries warning Shi Jie that Wang Qi should not be trusted.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/66779.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66779
+      }
+    },
+    {
+      "id": "ze-cai",
+      "name": "Ze Cai",
+      "alt_names": [
+        "蔡澤",
+        "Sai Taku"
+      ],
+      "role": "minor",
+      "description": "One of the \"Four Pillars\" of Buwei Lü who was the chancellor of Qin during the reign of King Zhao.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70193-zDvsOkAuUmSN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70193
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T21:59:14.220Z"
+}

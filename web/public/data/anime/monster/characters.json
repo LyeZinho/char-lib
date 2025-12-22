@@ -1,0 +1,611 @@
+{
+  "work_id": "monster",
+  "count": 25,
+  "characters": [
+    {
+      "id": "kenzou-tenma",
+      "name": "Kenzou Tenma",
+      "alt_names": [
+        "天馬賢三",
+        "ケンゾー・テンマ",
+        "Kenzo Tenma",
+        "Dr. Tenma"
+      ],
+      "role": "protagonist",
+      "description": "Doctor Kenzo Tenma is a Japanese neurosurgeon working at the Eisler Memorial Hospital in D&uuml;sseldorf. At the beginning of Monster he is favored by the department director for his prodigious surgical skill. After a crisis of conscience, he chooses to save the life of a young boy instead of the city&#039;s mayor, and is unjustly demoted as a result; he then becomes suspect for murder when the department director and several prominent doctors are killed weeks later. It is only after nine years that Dr. Tenma learns the perpetrator of the hospital murders is none other than the boy he saved years before, Johan Liebert. Plagued by guilt, he resolves to find Johan and end the life of this &quot;monster&quot; he feels responsible for creating. Despite his mission, Dr. Tenma is a humanitarian who genuinely cares about the lives of others. These acts of kindness make him very influential with the people he meets.",
+      "metadata": {
+        "gender": "male",
+        "age": "28-37",
+        "dateOfBirth": "1958-01-02"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b718-b6ZZVp822lw0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 718
+      }
+    },
+    {
+      "id": "johan-liebert",
+      "name": "Johan Liebert",
+      "alt_names": [
+        "ヨハン・リーベルト",
+        "Liebheart",
+        "Johann",
+        "Michael Reichmann",
+        "Franz Heinau",
+        "Erich Springer",
+        "The Nameless Monster",
+        "Otto",
+        "Hans",
+        "Thomas",
+        "The Devil",
+        "J"
+      ],
+      "role": "protagonist",
+      "description": "Johan Liebert is the titular \"monster\" of the story and the mystery of his past is the focus of the plot. He has been called a monster, the next Adolf Hitler and even the devil himself. Johan Liebert was shot in the head at a young age but saved from death by Dr. Tenma. Because of this, he regards Dr. Tenma almost as though he was his father. He has spent portions of his life in different places under different aliases and possesses an extraordinary level of charisma and intelligence. He uses his gifts to cruelly manipulate and corrupt others, often with no apparent end other than to cause suffering and destruction. His goal, as he stated when he was young, is to be the last one standing at the end of the world. One of the themes of Monster is how individuals are capable of transforming into monsters; Johan often acts as both a direct and indirect catalyst for this transformation.\n~! During his \"perfect suicide\" he was shot in the head by a bystander and seemingly died, but was later saved by Kenzo Tenma !~",
+      "metadata": {
+        "gender": "male",
+        "age": "19-23, (30's in Another Monster)",
+        "dateOfBirth": "1975-04-07"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b719-y984mDWyGf5n.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 719
+      }
+    },
+    {
+      "id": "anna-liebert",
+      "name": "Anna Liebert",
+      "alt_names": [
+        "アンナ・リーベルト",
+        "Nina Fortner (ニナ・フォルトナー)"
+      ],
+      "role": "protagonist",
+      "description": "Johan's twin sister and the only unharmed survivor of the night when both her parents and her brother were shot in what appeared to be a botched burglary. At first she showed signs of amnesia due to the psychological trauma of the incident. After she and her brother disappeared, she was adopted by the Fortner family from Heidelberg, who were unaware of her previous identity as Anna Liebert. As Nina Fortner, she was a hardworking law student at an unnamed university (likely the University of Heidelberg), as well as an adept practitioner of Aikido. She lived her life in peace until Johan made contact with her on her twentieth birthday. She comes to pursue Johan, albeit by different methods and for a different reason than Tenma.",
+      "metadata": {
+        "gender": "female",
+        "age": "19-23, (30's in Another Monster)",
+        "dateOfBirth": "1975-04-07"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b720-VFo5SzZsVfzl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 720
+      }
+    },
+    {
+      "id": "heinrich-runge",
+      "name": "Heinrich Runge",
+      "alt_names": [
+        "ハインリッヒ・ルンゲ",
+        "Heinrich Lunge"
+      ],
+      "role": "protagonist",
+      "description": "Inspector Runge is a dedicated detective belonging to the BKA, which is like the FBI of Germany. When Dr. Tenma is accused of murder in Düsseldorf, Inspector Runge is assigned to Tenma's case. Runge moves his hand to \"store\" information from his cases. He has such a successful track record for solving his cases that he believes that he can't be wrong.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b721-VSOxZHBedxtD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 721
+      }
+    },
+    {
+      "id": "eva-heinemann",
+      "name": "Eva Heinemann",
+      "alt_names": [
+        "エヴァ・ハイネマン",
+        "Heineman"
+      ],
+      "role": "protagonist",
+      "description": "Eva Heinemann is Doctor Tenma's fiancée and the daughter of the Director of Eisler Memorial Hospital. She leaves Doctor Tenma after he is demoted by the Director for disobeying his orders. After Director Heinemann is murdered by Johan, she tries to return to Tenma, then recently promoted Chief of Surgery due to holes created in the staff by the murder. After being rejected by Doctor Tenma, she later becomes an extremely embittered alcoholic, a three time divorcee who uses the money from divorce settlements to finance her lavish lifestyle. After burning her house down in a drunken rage, she wanders throughout Germany and is also caught up in the investigation of the Monster. Although she does not personally suspect Dr. Tenma as having caused her father's death, one of the things she lives for is to see him suffer in prison in retribution for his rejection of her, as she had previously turned over evidence incriminating Dr. Tenma to Inspector Runge. Her relationship with Tenma can be characterized as obsessive. During the series, she becomes a main target of Roberto.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6123-kLLVgdI8Elv4.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6123
+      }
+    },
+    {
+      "id": "wolfgang-grimmer",
+      "name": "Wolfgang Grimmer",
+      "alt_names": [
+        "ヴォルフガング・グリマー",
+        "Neumeier (ノイマイヤー)"
+      ],
+      "role": "supporting",
+      "description": "A freelance journalist who is researching Kinderheim 511; he is also soon drawn into the search for Johan, as he decides to help Tenma.   ~!As a former subject in 511 Kinderheim, he had developed another personality: an aggressive fighter that comes out and protects him whenever he is under dire stress, inspired by his childhood adoration for an Incredible Hulk-type TV character whom he refers to as the Magnificent Steiner. He also received training as a spy after his time in Kinderheim 511.!~ (Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": "1954-01-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b3096-qCXXA8G0J8rk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 3096
+      }
+    },
+    {
+      "id": "dieter",
+      "name": "Dieter",
+      "alt_names": [
+        "ディーター"
+      ],
+      "role": "supporting",
+      "description": "Dieter is a young boy when found by Tenma to be under the care of a man named Hartmann. Upon meeting Dieter, Tenma notices that the young boy is covered in bruises. It turns out that Hartmann was trying to make Dieter into another Johan, a kind of leader that had not been produced from 511 Kinderheim before. Dieter later becomes more optimistic after being saved by Doctor Tenma from Hartmann's physical and mental abuse. He follows Doctor Tenma in his search for Johan, partially to prevent Tenma from becoming a murderer, but also because he is fond of Tenma. He later teams up with Nina, to give her moral support whenever her traumatic memories resurface as he was also subjected to similar abuse.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6329-1EP0t4paLi3y.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6329
+      }
+    },
+    {
+      "id": "roberto",
+      "name": "Roberto",
+      "alt_names": [
+        "ロベルト"
+      ],
+      "role": "supporting",
+      "description": "A big, burly man and one of the many people from the orphanage 511 Kinderheim that Johan controls. He admires Johan very much, and often acts as Johan&#039;s bodyguard and henchman. He is also a professional hitman with substantial proficiency.     ~!His true name, already forgotten by himself, is Adolf Reinhart. Wolfgang Grimmer is the only person who remembered him and also considered him as a friend in the their childhood at the orphanage. He was shot by Tenma in chapter 73 and seemed to fall into a sea of flames, but he comes back in chapter 108 as an attorney for Tenma under the name of &#039;Baul&#039;, still faithful to Johan. He appears the most out of any of Johan&#039;s henchmen in the series and is a recurring enemy. He later appears in the final gunfight in the series as second-in-command of the operation. He enters a fight with Lunge and is shot in the gut, he escapes and kills Franz Bonaparte and dies of his earlier wound. First seen in Chapter 37.!~\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8611.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8611
+      }
+    },
+    {
+      "id": "akanbou",
+      "name": "Akanbou",
+      "alt_names": [
+        "赤ん坊",
+        "Baby"
+      ],
+      "role": "supporting",
+      "description": "First mentioned in Chapter 25, the \"Baby\" is a short, elderly man, and an infamous Neo-Nazi leader. He worships Johan as an ideal Aryan leader who would be able to become the next Hitler to lead Germany into prominence. He also works for the four individuals who would gladly welcome Johan as a political leader. To this end, he hoped to use Nina as bait to coerce Johan, but also as a precautionary measure to protect him (and the other group members) from Johan. ~! This fails as Johan kills one of the first of four members in the organization.\n\nIn the second half of the series he grows depressed and confides in a prostitute, he is later killed by this prostitute in a scheme engineered by Johann.!~\n\nThe characteristics of the \"Baby\" is heavily influenced by the character \"[The Man from Another Place](https://en.wikipedia.org/wiki/The_Man_from_Another_Place)\" from [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks). His first appearance, in Chapter 26/Episode 15, is also nearly identical, appearing to Nina Fortner from behind a red curtain (akin to the Black Lodge's waiting room) while dancing to the tune \"Be My Baby\".\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8612-3k0OoEaDXzQI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8612
+      }
+    },
+    {
+      "id": "helmut-wolf",
+      "name": "Helmut Wolf",
+      "alt_names": [
+        "ヘルムート・ヴォルフ"
+      ],
+      "role": "supporting",
+      "description": "A very old soldier who was the first one to find the twins, he is the second of the four individuals behind the organization. He gave Johan his name, the name from the boy in the picture book called &quot;The Monster without a Name&quot;. General Wolf is actually the only one of four individuals that did not want to make Johan a new Fuhrer. Wolf&#039;s family and acquaintances have all been killed by Johan, thus teaching him true loneliness as seen through Johan&#039;s eyes. He dies of natural causes, before he dies he begs Dr. Tenma to yell out his name as proof that he existed. First mentioned in Chapter 27, first seen in Chapter 29.    *Wikipedia",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8613.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8613
+      }
+    },
+    {
+      "id": "christof-sievernich",
+      "name": "Christof Sievernich",
+      "alt_names": [
+        "クリストフ・ジーヴァーニッヒ",
+        "Demon's Disciple"
+      ],
+      "role": "supporting",
+      "description": "Johan's disciple and another survivor of 511 Kinderheim. He and Johan decided to meet each other again in 10 years after they escaped the orphanage, and in the end they meet at a party with the guidance of Eva Heinemann, who was hired to point Johan out. His deceased stepfather was one of the four individuals of Neo-Nazi, and he was likely to succeed the post. He possesses qualities similar to Johan's and intimidated Martin, Eva Heinemann's bodyguard, by reminding him of what happened to his mother and wife. Nothing else is known about Christoph, other than that either Johan or the organization of the four individuals tried to change him into the second monster. He first appears in chapter 124.  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8614-muRUQIkXjl6A.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8614
+      }
+    },
+    {
+      "id": "franz-bonaparta",
+      "name": "Franz Bonaparta",
+      "alt_names": [
+        "フランツ・ボナパルタ"
+      ],
+      "role": "supporting",
+      "description": "~!Relatives: Johan Liebert (Half nephew), Anna Liebert (Half Niece), Viera Černá (Sister in law)!~\n\nFranz Bonaparta is considered to be the one responsible for the eugenics experiment that led to the birth of the Liebert twins and is also attributed as the author of the storybooks used to indoctrinate the children of Rose Mansion. Most notable of them was The Nameless Monster, from which Johan took both is name and his mode of operation. Other famous books of his included The Big Eyed Man and the Big Mouthed Man, The God of Peace, and The Quiet Village. His storybooks deal very heavily in metaphor and symbolism, often with monsters as important characters in them. Most also deal with the idea that human nature contains the ability to become good or evil, though his works tend to denounce humanity rather than uplift it. ~!He repents for all his actions after witnessing the death of Grimmer, he confronts Johan with the intention of killing him but he is in turn killed by Roberto before he can go through with it. !~ ~!While his real name is Klaus Poppe, other names that he has used include Emil Scherbe and Jakov Vyrobek.!~ \n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8615-8eOPwbeu9jZh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8615
+      }
+    },
+    {
+      "id": "petr-capek",
+      "name": "Petr Čapek",
+      "alt_names": [
+        "ペトル・チャペック",
+        "Peter Chapek",
+        "The Man with the Glasses"
+      ],
+      "role": "supporting",
+      "description": "The last individual of the organization is the mysterious man with glasses who is responsible for a large amount of incidents during Monster. He is the highest in the organization, and tried to control the devil by letting him meet with Christoph Sievernich.  ~!In his youth Peter was actually Franz Bonaparta's apprentice who took part in the experiment on the Liebert twins. Peter thinks that everything is going the right way according to his plan, but Johan tells him clearly later that everything is going the right way according to his own plan. In his paranoia he kills his bodyguard when he goes for his lighter thinking he was trying to kill him, in retribution Čapek is executed by his other bodyguards. He first appeared in chapter 121, but his face isn't shown until the end of chapter 123. He was a childhood friend with Milan Kolacsh. Peter killed the loved ones that live with Milan and he tried to kill Peter at the convention but police shot Milan before he was able to take revenge. !~  Source: Wikipedia",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8616-pAuphO7Cla8o.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8616
+      }
+    },
+    {
+      "id": "rudy-ulrich-gillen",
+      "name": "Rudy-Ulrich Gillen",
+      "alt_names": [
+        "ルーディ・ギーレン",
+        "Rudy",
+        "Rudi"
+      ],
+      "role": "supporting",
+      "description": "A criminologist, and one of Tenma's former classmates; he helped Tenma by saving him from arrest and also acquiring information about Johan from all the criminals that Johan had met. He also helped Nina to recall her past, to the point of endangering his life. Rudy is able to get into some insight about Johan and how he works but despite all that he knows, he is still baffled by Johan's actions. Dr. Gillen is also a former student of Dr. Reichwein. First seen in Chapter 33.    *Wikipedia",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8617.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8617
+      }
+    },
+    {
+      "id": "jan-suk",
+      "name": "Jan Suk",
+      "alt_names": [
+        "ヤン・スーク",
+        "Yan"
+      ],
+      "role": "supporting",
+      "description": "A detective with the Prague police, he tries to find the mystery involving the death of his superior, Filip Zeman. Zeman was investigating the death of a former headmaster of 511 Kinderheim with Grimmer as a possible suspect, when Suk discovered that Zeman was working with the former Czechoslovakian secret police. When three more officers are murdered, he too is cast under suspicion, and when police attempt to monitor Suk&#039;s movements, two more are killed. Suk manages to obtain a tape made by the former headmaster of 511 Kinderheim, but is badly wounded by those seeking the tape. While all this is happening, he confides to someone who he believes is Anna Liebert, a beautiful blonde woman he meets at a bar.    *Wikipedia",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8618.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8618
+      }
+    },
+    {
+      "id": "fritz-vardemann",
+      "name": "Fritz Vardemann",
+      "alt_names": [
+        "フリッツ・ヴァーデマン",
+        "Verdeman"
+      ],
+      "role": "supporting",
+      "description": "A lawyer hired by residents in Dusseldorf after Tenma was arrested in Prague at one point. Vardemann has made a name for himself proving the innocence of his clients, including his father, who died in prison before being exonerated. He is married and during the series his wife gives birth to a daughter. He enjoys listening to Over the Rainbow from The Wizard of Oz. However, it is revealed later on that Vardemann found notes written by his father which may indicate that he was guilty in the first place. He then teams up with Suk in order to find out the truth regarding an author named Franz Bonaparta in the hopes of discovering the truth about his father&#039;s past as well.    *Wikipedia",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8619-TU1dqO0CFOoH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8619
+      }
+    },
+    {
+      "id": "hans-georg-schuwald",
+      "name": "Hans Georg Schuwald",
+      "alt_names": [
+        "ハンス・ゲオルグ・シューバルト",
+        "Bayern Vampire",
+        "Bayern's Howard Hughes"
+      ],
+      "role": "supporting",
+      "description": "Known as the &quot;Bayern Vampire&quot;, Schuwald is a recluse. He is also a successful businessman, and his success allows him to donate his book collection to the University of Munich. He also has several students from the university in his employ, reading him Latin. However, he does have a past, namely, he fathered a son with a prostitute named Margot Langer. Incidentally, Margot Langer had a friend in Prague who mothered twins. While his book dedication ceremony was targeted by Johan in a scheme to unleash terror and pandemonium, authorities believe that Schuwald is the real target and that Dr. Tenma is indeed responsible. Schuwald is first seen in Chapter 47.    *Wikipedia",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8620.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8620
+      }
+    },
+    {
+      "id": "karl-neumann",
+      "name": "Karl Neumann",
+      "alt_names": [
+        "カール・ノイマン",
+        "Neuman",
+        "Karl Shubert (カール・シューバルト)"
+      ],
+      "role": "supporting",
+      "description": "A male college student at the University of Munich, who is the son of Schuwald and Langer. He is trying to get close to his father without actually letting him know that he is his son. At the same time, he is also caught up in the mystery of a dead student, and the disappearance of Johan Liebert after his father&#039;s book collection is burned in a massive inferno during a ceremony at the University Library. After he reconciles with his father, he stays on as Schuwald&#039;s personal assistant.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8622.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8622
+      }
+    },
+    {
+      "id": "lotte-frank",
+      "name": "Lotte Frank",
+      "alt_names": [
+        "ロッテ・フランク",
+        "Franck"
+      ],
+      "role": "supporting",
+      "description": "A female college student also at the University of Munich who is trying to go after Karl Neumann's heart and thus aids his investigation into his father and late mother. When Karl rejects her by getting a proxy to go on a date with her, she is immensely crushed and is comforted by Nina. Given that moment, Nina and Lotte become fast friends. She too wants to know about the mysteries behind Johan Liebert as well as the death of the student who worked with them for Schuwald. First seen in Chapter 47. (Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8623.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8623
+      }
+    },
+    {
+      "id": "otto-heckel",
+      "name": "Otto Heckel",
+      "alt_names": [
+        "オットー・ヘッケル"
+      ],
+      "role": "supporting",
+      "description": "A common thief who runs into Tenma in Chapter 17 when he breaks into a murder victim's house where Tenma is investigating. Heckel is not interested in solving the mystery surrounding the monster, he is more preoccupied in making quick cash by any means necessary. Nonetheless, both Tenma and Heckel must rely on each other in order to survive.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8624-Ui2NPXiWXV3B.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8624
+      }
+    },
+    {
+      "id": "julius-reichwein",
+      "name": "Julius Reichwein",
+      "alt_names": [
+        "ユーリウス・ライヒワイン"
+      ],
+      "role": "supporting",
+      "description": "A psychologist who deals in counseling as well as assisting recovering alcoholics. He is caught up in the mystery surrounding the Monster after one of his patients, Richard Braun, supposedly dies in a drunken accident while investigating Johan Liebert. Later on, he becomes guardian to Dieter and aids Tenma in any way he can while defending Tenma&#039;s character. He also provides psychological care to Nina, Eva, and others. The Character of Dr. Reichwein bears a physical resemblance to the American Actor Wilford Brimley and Shunsaku Ban from Astroboy. Naoki Urasawa has also used the physical appearance of Brimley in the Pluto manga as well. First seen in Chapter 49.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/11080-QZxwmy36GaQH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 11080
+      }
+    },
+    {
+      "id": "martin-reest",
+      "name": "Martin Reest",
+      "alt_names": [
+        "マルティン・レースト"
+      ],
+      "role": "supporting",
+      "description": "Martin Reest works for Baby and has worked for him for three years. He says he'll do any job as long as it doesn't involve women. He went to prison for eight years, charged for killing his girlfriend and her lover.\n\nPeter Čapek calls Martin up for a job; to look after and protect Eva Heinemann as her bodyguard after she was being targeted by Roberto.\n\nVery reluctantly Martin accepts the job and spends time looking after Eva, during which he becomes closer to her.\n\n~!When ordered to kill her, he refuses and escapes with her.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12117-bIHpLFAb9fiD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 12117
+      }
+    },
+    {
+      "id": "jaromir-lipsky",
+      "name": "Jaromír Lipský",
+      "alt_names": [
+        "ヤロミール・リプスキー",
+        "Lipsky",
+        "Lipsk"
+      ],
+      "role": "supporting",
+      "description": "Lispky appears in episode 56.  He lives in Czechoslovakia and is a puppeteer, although nobody watches his performance. To earn money, he works in a restaurant to clean dishes in the evening.      ~! When Anna collapses at the Mansion of Red Roses, he finds her and takes her and Dieter at his place. He cares for her for three months and after having made a puppet that looks like Anna, she and Dieter leaves to continue their journey.   Lipsky is the son of Franz Bonaparta. He was a student at the Mansion of Red Roses where his father would give children reading sessions Roses, but Lipsky was considered as useless. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/23328.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 23328
+      }
+    },
+    {
+      "id": "gunther-milch",
+      "name": "Gunther Milch",
+      "alt_names": [
+        "ギュンター・ミルヒ",
+        "The King of Escapes"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/28692.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 28692
+      }
+    },
+    {
+      "id": "gustav-milch",
+      "name": "Gustav Milch",
+      "alt_names": [
+        "グスタフ・ミルヒ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/32430.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 32430
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T21:21:44.693Z"
+}

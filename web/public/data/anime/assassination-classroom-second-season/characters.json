@@ -1,6 +1,6 @@
 {
   "work_id": "assassination-classroom-second-season",
-  "count": 25,
+  "count": 59,
   "characters": [
     {
       "id": "koro-sensei",
@@ -635,7 +635,800 @@
       "external_ids": {
         "anilist": 88799
       }
+    },
+    {
+      "id": "koutarou-takebayashi",
+      "name": "Koutarou Takebayashi",
+      "alt_names": [
+        "竹林考太郎",
+        "Four-Eyes Kaboom-Boom"
+      ],
+      "role": "supporting",
+      "description": "He is a student in Korosensei's Class 3-E. Takebayashi is mostly a quiet person. However, he seems somewhat eccentric in his behavior and stands out as the oddball in the class. He also seems to be clumsy at physical activity, having ping pong balls hit his glasses while playing with others and nearly losing balance in one of Tadaomi Karasuma's lessons. He is also obsessed with anime, at one point stating \"A girl isn't a true girl until she loses the third D\" implying he likes anime girls more than real women. He also enjoys going to maid cafes.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88800-4L36Qpe6CeDG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88800
+      }
+    },
+    {
+      "id": "kouki-mimura",
+      "name": "Kouki Mimura",
+      "alt_names": [
+        "三村航輝"
+      ],
+      "role": "supporting",
+      "description": "He is a student in Korosensei's Class 3-E.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88801-GkOn8i8LmkQl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88801
+      }
+    },
+    {
+      "id": "masayoshi-kimura",
+      "name": "Masayoshi Kimura",
+      "alt_names": [
+        "木村正義"
+      ],
+      "role": "supporting",
+      "description": "He is a student in Korosensei's Class 3-E. Kimura is one of the relatively proactive students when it comes to assassination and aims to claim the 10 billion yen reward.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88802-5bvdO2byRTCS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88802
+      }
+    },
+    {
+      "id": "hinano-kurahashi",
+      "name": "Hinano Kurahashi",
+      "alt_names": [
+        "倉橋陽菜乃"
+      ],
+      "role": "supporting",
+      "description": "She is a student in Korosensei's Class 3-E. Hinano's personality is an energetic and positive girl and is always seen with a smile on her face regardless of whether she's trying to assassinate Korosensei, or whatever else. Hinano is also a passionate animal and nature lover.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88803-7EBkEmMtnGGb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88803
+      }
+    },
+    {
+      "id": "hinata-okano",
+      "name": "Hinata Okano",
+      "alt_names": [
+        "岡野ひなた"
+      ],
+      "role": "supporting",
+      "description": "She is a student in Korosensei's Class 3-E. In her initial appearances, Okano was often shown to be serious with a relatively neutral expression. As the series goes on, she's later shown to also be playful in addition to being serious. She is also described as someone who acts before she thinks.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88804-b8GOEB5DcbNU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88804
+      }
+    },
+    {
+      "id": "ryuunosuke-chiba",
+      "name": "Ryuunosuke Chiba",
+      "alt_names": [
+        "千葉龍之介",
+        "Dating Sim Emo Character",
+        "Mr. Carpenter"
+      ],
+      "role": "supporting",
+      "description": "__Height::__ 172 cm (5’8”)\n__School:__ Kunugigaoka Junior High School\n__Class:__ 3-E\n__Seat Number:__ 15\n\nHe is a student in Korosensei's Class 3-E of Kunugigaoka Junior High School. Chiba is a serious and stoic boy. He's very calm and doesn't talk a lot. He is the best marksman among all of Class 3-E. He excels in spatial calculation and, as such, is unmatched in long distance shooting. His abilities have even earned him the praises of Lovro, a hitman dealer and a retired assassin.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88805-HMHIQ3XQz8bN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88805
+      }
+    },
+    {
+      "id": "rinka-hayami",
+      "name": "Rinka Hayami",
+      "alt_names": [
+        "速水凛香",
+        "Tsundere Sniper",
+        "Hot-and-Cold Sniper"
+      ],
+      "role": "supporting",
+      "description": "She is a student in Korosensei's Class 3-E. Rinka is a very stoic, businesslike and professional girl who has been compared to a working adult along with Chiba. As a result of her serious demeanor, she can be quite straightforward and direct.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88806-C8CfODmDFdz0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88806
+      }
+    },
+    {
+      "id": "gakushuu-asano",
+      "name": "Gakushuu Asano",
+      "alt_names": [
+        "浅野学秀"
+      ],
+      "role": "supporting",
+      "description": "A student in class 3-A in Kunugigaoka Junior High School. He is the student council president and the son of the Board Chairman, Gakuhou Asano. He is a genius student who, like many main building students, look down upon class 3-E.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89352-zIHiE6CEKdv3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89352
+      }
+    },
+    {
+      "id": "kunudon",
+      "name": "Kunudon",
+      "alt_names": [
+        "くぬどん"
+      ],
+      "role": "supporting",
+      "description": "Kunudon is the mascot of Kununigoaka. He hates E class and is a propaganda tool used by the director.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b172719-z5vrTMTtknNH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 172719
+      }
+    },
+    {
+      "id": "ren-sakakibara",
+      "name": "Ren Sakakibara",
+      "alt_names": [
+        "榊原蓮"
+      ],
+      "role": "supporting",
+      "description": "is a student in Class 3-A in Kunugigaoka Junior High School and one of the Big Five. He is also the Student Council secretary.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175947-CbNhS9NGJhej.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175947
+      }
+    },
+    {
+      "id": "smog",
+      "name": "Smog",
+      "alt_names": [
+        "スモッグ"
+      ],
+      "role": "supporting",
+      "description": "One of three assassins in Okinawa along with Gastro and Grip. He specializes in creating/making poisons.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b176242-IGiELZZ1RBOz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 176242
+      }
+    },
+    {
+      "id": "gastro",
+      "name": "Gastro",
+      "alt_names": [
+        "ガストロ"
+      ],
+      "role": "supporting",
+      "description": "One of three assassins in Okinawa, along with Smog and Grip. He loves the taste of a gun so much that he uses it as a utensil.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b176243-At9lh9z5xd8L.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 176243
+      }
+    },
+    {
+      "id": "yuuji-norita",
+      "name": "Yuuji Norita",
+      "alt_names": [
+        "法田勇治"
+      ],
+      "role": "supporting",
+      "description": "A rich teenage boy. Although he is initially lazy and rides on his father's coattails, with encouragement from Nagisa he decides to change himself for the better.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b176245-cAHPGt4Sgx9K.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 176245
+      }
+    },
+    {
+      "id": "shiro",
+      "name": "Shiro",
+      "alt_names": [
+        "シロ"
+      ],
+      "role": "supporting",
+      "description": "A mysterious man in white clothes who hides secrets about Koro-sensei's past.\n\n~!His real name is Kotarou Yanagisawa!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b176246-YxAJ8KvJ0TxK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 176246
+      }
+    },
+    {
+      "id": "reaper",
+      "name": "Reaper",
+      "alt_names": [
+        "死神",
+        "The Assassins Assassin"
+      ],
+      "role": "supporting",
+      "description": "Before becoming the Reaper, he was born in an extremely wealthy family. One night, his father was killed by the original Reaper. As he witnessed his father's assassination from a window, he fell head over heels over the act, calling it \"a beautiful skill\"; in turn, this motivated him to become an assassin under the current Reaper's tutelage.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b176275-DtP1q0t2nZmD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 176275
+      }
+    },
+    {
+      "id": "sakura-kiyashiki",
+      "name": "Sakura Kiyashiki",
+      "alt_names": [
+        "鬼屋敷さくら"
+      ],
+      "role": "supporting",
+      "description": "Sakura is a young girl that Nagisa meets when Class 3-E helps out at Wakaba Park's nursery.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207930-WYSOXx3swFy6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207930
+      }
+    },
+    {
+      "id": "nagai",
+      "name": "Nagai",
+      "alt_names": [
+        "永井"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207931-xTQux0aFSN58.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207931
+      }
+    },
+    {
+      "id": "matsukata",
+      "name": "Matsukata",
+      "alt_names": [
+        "松方"
+      ],
+      "role": "supporting",
+      "description": "Matsukata is the principal of Wakaba Park cram school.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207932-AivO2OvCkwVf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207932
+      }
+    },
+    {
+      "id": "rikuto-ikeda",
+      "name": "Rikuto Ikeda",
+      "alt_names": [
+        "池田陸"
+      ],
+      "role": "supporting",
+      "description": "Rikuto Ikeda was one of the three first students in Gakuhō Asano's cram school 10 years prior to the Assassination Classroom series along with Nakai and Mori.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207933-lM6Se1fQmtrK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207933
+      }
+    },
+    {
+      "id": "mori",
+      "name": "Mori",
+      "alt_names": [
+        "森"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207934-rRASBW8ocR9J.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207934
+      }
+    },
+    {
+      "id": "natsuhiko-koyama",
+      "name": "Natsuhiko Koyama",
+      "alt_names": [
+        "小山夏彦"
+      ],
+      "role": "supporting",
+      "description": "Natsuhiko Koyama is a student in Class 3-A in Kunugigaoka Junior High School and the president of the Biology Club who is one of the Big Five.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207935-VNKjlcUAdT83.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207935
+      }
+    },
+    {
+      "id": "aguri-yukimura",
+      "name": "Aguri Yukimura",
+      "alt_names": [
+        "雪村あぐり"
+      ],
+      "role": "supporting",
+      "description": "Aguri Yukimura is the former teacher of Class 3-E.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207936-GawgOqMS5onk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207936
+      }
+    },
+    {
+      "id": "teppei-araki",
+      "name": "Teppei Araki",
+      "alt_names": [
+        "荒木鉄平"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245009-sfmgGl3zqKyF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245009
+      }
+    },
+    {
+      "id": "tomoya-seo",
+      "name": "Tomoya Seo",
+      "alt_names": [
+        "瀬尾智也"
+      ],
+      "role": "supporting",
+      "description": "Tomoya Seo is a student in Class 3-A in Kunugigaoka Junior High School and one of the Five Virtuosos. He is also the Student Assembly Chairman.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245010-KCIbMAPsfya4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245010
+      }
+    },
+    {
+      "id": "red-eye",
+      "name": "Red Eye",
+      "alt_names": [
+        "レッドアイ"
+      ],
+      "role": "supporting",
+      "description": "Sniper hired to kill Koro-sensei during the Kyoto trip.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245011-HfmsLxCrdapz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245011
+      }
+    },
+    {
+      "id": "kazutaka-shindo",
+      "name": "Kazutaka Shindo",
+      "alt_names": [
+        "進藤一考"
+      ],
+      "role": "supporting",
+      "description": "Kazutaka Shindou is a student in Class 3-A in Kunugigaoka Junior High School and plays in the baseball team.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245012-gXdJyhGQTepj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245012
+      }
+    },
+    {
+      "id": "lovro-brovski",
+      "name": "Lovro Brovski",
+      "alt_names": [
+        "ロヴロ・ブロフスキ"
+      ],
+      "role": "supporting",
+      "description": "Lovro is a hitman dealer who was once a talented assassin. He is the Japanese government's only link with the world of hitmen.",
+      "metadata": {
+        "gender": "male",
+        "age": "59",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b265570-lfJjtAOwjzx4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 265570
+      }
+    },
+    {
+      "id": "chousuke-takada",
+      "name": "Chousuke Takada",
+      "alt_names": [
+        "高田長助"
+      ],
+      "role": "supporting",
+      "description": "Chosuke Takada is a student in Class 3-D of Kunugigaoka Junior High School who is often seen with Nobuta Tanaka.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b266253-Qik3mMk5qSoO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 266253
+      }
+    },
+    {
+      "id": "nobuta-tanaka",
+      "name": "Nobuta Tanaka",
+      "alt_names": [
+        "田中信太"
+      ],
+      "role": "supporting",
+      "description": "Nobuta Tanaka  is a student in Class 3-D of Kunugigaoka Junior High School who is often seen with Chosuke Takada.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b266254-Mlcc4ednHcWs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 266254
+      }
+    },
+    {
+      "id": "hiromi-shiota",
+      "name": "Hiromi Shiota",
+      "alt_names": [
+        "潮田広海"
+      ],
+      "role": "supporting",
+      "description": "[Nagisa](https://anilist.co/character/65645/Nagisa-Shiota)'s mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289465-CZGq50v40V1R.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289465
+      }
+    },
+    {
+      "id": "bobobo-bo-bo-bobo",
+      "name": "Bobobo-bo Bo-bobo",
+      "alt_names": [
+        "ボボボーボ・ボーボボ",
+        "Bobobo"
+      ],
+      "role": "minor",
+      "description": "This is the cool and incomprehensible hero, swarthy and musclebound, sporting sunglasses and a large golden afro. His hair is 24-karat gold but is usually said to be yellow or blonde; some viewers even argue about its true color. He is called Bo-bobo for short. He refuses to let people call him Bo. He fights with his nose hair using the Hanage Shinken (sometimes &quot;Super Fist of the Nose Hair&quot;, other times &quot;Snot Fou-You&quot;), as well as simply confusing his enemies. His only weakness, which he discovered while visiting the world of Blabsalot, is the fact that he doesn't have as many deadly attacks. He believes that the Fist of the Nose Hair is sacred and that he shouldn't overuse it. He has three brothers and one sister. Bo-BoBo directs small &quot;micromovies&quot; in his own movie theatre &quot;Bo-BoBo Gekijou&quot; (Bo-BoBo Theater, but also called other names in the dub). He apparently has some control over an army of stuffed teddy bears which are seen in many episodes. There is an apparently large colony of tiny humans and humanoid boogers living in his nose. They sometimes aid him in battle.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/3227.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 3227
+      }
+    },
+    {
+      "id": "tetsuya-kuroko",
+      "name": "Tetsuya Kuroko",
+      "alt_names": [
+        "黒子テツヤ",
+        "The Phantom Sixth Member",
+        "Tetsu",
+        "Kurokocchi",
+        "Kuro-chin"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 168 cm (5'6\")\n__School:__ Seirin High \n__Number:__ #11  \n__Speciality:__ Simple sleight of hand tricks  \n__Motto:__ (Every encounter is a) once-in-a-lifetime encounter  \n\nThe phantom sixth member of the \"Generation of Miracles.\" He has a very weak presence and often seemingly appears out of nowhere as a result. \n\nAt the first glance all of his abilities seem to be below average, but despite being bad at dribbling and shooting he can be a dangerous opponent. He specializes in circulating passes without being seen. Because of his largely complementary skill set, Kuroko considers himself a \"shadow\" whose goal is to help his \"light\" achieve greatness.   \n\n~!After being defeated by Aomine, Kuroko trains himself to evolve his play style. He overcomes his previous limitations, and has developed the ability to move past players unseen while dribbling the ball, creating his own 'vanishing' drive. After his misdirection effect runs out, Kuroko can force the opponent to just focus on him, allowing his teammates to go by unnoticed. Thanks to Aomine's coaching later on, Kuroko also develops some shooting skill, making his own shooting style called \"Phantom Shot\" where the ball disappears.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b18769-7ms6XKt8jCzU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18769
+      }
+    },
+    {
+      "id": "nika-tamiya",
+      "name": "Nika Tamiya",
+      "alt_names": [
+        "田宮仁香"
+      ],
+      "role": "minor",
+      "description": "Nika is a person with the ability of a switch girl. She can change personalities just like that. There are only 2 people in her school that know this about her. Her best friend from childhood and a handsome guy who also has an On and Off mode like her.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b22467-C0zIVOUbp4HB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22467
+      }
+    },
+    {
+      "id": "kusuo-saiki",
+      "name": "Kusuo Saiki",
+      "alt_names": [
+        "斉木楠雄",
+        "Kuu",
+        "Kusuko",
+        "Kuriko",
+        "Cyborg Sodaman Mark II",
+        "Psi",
+        "Cyborg Ciderman II",
+        "Saichael",
+        "Four Eyes"
+      ],
+      "role": "minor",
+      "description": "**Height:** 167 cm\n\nSaiki has an extremely uncaring, neutral personality. As a gifted psychic that can do anything he wants, he has long stopped caring about the world; however, he has shown to be extremely cautious, as he often runs from Nendou, the only person he fears and is prone to immediately teleporting to faraway places upon spotting an insect. Saiki has a sweet tooth, so he loves sweets, especially Coffee Jelly.\n\nFourteen days after his birth, Kusuo uttered his first word without moving his mouth and 1 month after birth he took his first step in midair. At the age of 1 was the first time Kusuo has voluntarily used his abilities, when his mother said they were out of mirin, Kusuo teleported away and returned with several bottles of mirin.\n\nSaiki is a gifted psychic. Having obtained his powers since birth, the first signs of Saiki's powers came from when he was able to hear the voices of his parents and he subsequently telepathically spoke back to them. Two months later, he demonstrated the ability to walk in the air. Saiki has stated that in three days, he can wipe out humanity. The full extent of all of his abilities is unknown.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b90107-ZULW5HlPX1uU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 90107
+      }
     }
   ],
-  "updated_at": "2025-12-22T17:55:55.664Z"
+  "updated_at": "2025-12-22T22:02:05.398Z"
 }

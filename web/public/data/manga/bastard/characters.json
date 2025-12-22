@@ -1,0 +1,102 @@
+{
+  "work_id": "bastard",
+  "count": 4,
+  "characters": [
+    {
+      "id": "jin-seon",
+      "name": "Jin Seon",
+      "alt_names": [
+        "선우진"
+      ],
+      "role": "protagonist",
+      "description": "Jin is the main protagonist and the son of the murderous CEO Dongsoo Seon. Jin is a scrawny teenager with pale skin, brown hair, and a blue right eye. Because of the \"accident\" during his childhood, Jin's left eye was substituted with a reddish-brown glass eye, which he hides with his irregular bangs. Due to his brutal nature, while dealing with bullies and other opponents, Jin will occasionally appear bruised and cut from his fights. Even though Jin wants to be righteous and well-meaning, he has a sociopathic side that emerges in times of intense stress or anger. When this trait shows itself, he shows no fear, uses rather a foul language, and his face turns dark and menacing. When provoked into an extreme rage, Jin shows no remorse or hesitation for any violent actions he may commit in this state. He is also prone to outbursts, breakdowns, or temporary lapses of fear when he is questioned about his father, hears mention of his father, or he notices his father in action.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126821-WcuV5GMptoO4.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126821
+      }
+    },
+    {
+      "id": "dong-soo-seon",
+      "name": "Dong-Soo Seon",
+      "alt_names": [
+        "선우 동수",
+        "Seonu"
+      ],
+      "role": "protagonist",
+      "description": "Dongsoo Seon is the father of Jin Seon and the executive CEO of G Corporation.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127412-oxkS5FPg5Nrf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127412
+      }
+    },
+    {
+      "id": "kyun-yoon",
+      "name": "Kyun Yoon",
+      "alt_names": [
+        "윤견"
+      ],
+      "role": "protagonist",
+      "description": "Kyun is known to be a sociable butterfly and friendly, she has a lot of morality as well as common sense. However there are times where she can be quite cold when the time calls for it.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127413-IRhIduOC7Bbr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127413
+      }
+    },
+    {
+      "id": "jae-hyeok-kim",
+      "name": "Jae-Hyeok Kim",
+      "alt_names": [
+        "김재혁",
+        "Manny"
+      ],
+      "role": "protagonist",
+      "description": "Manny Kim is the 'alpha' of his school, being quite popular with everyone. ~!That changed when an accident took his legs.!~ He comes from a rich family, gets good grades, and is quite good at fighting. He and Jin Seon have a very complicated relationship.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127414-042G86A8bkl2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127414
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T21:58:48.142Z"
+}

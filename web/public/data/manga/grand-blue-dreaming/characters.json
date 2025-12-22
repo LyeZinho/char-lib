@@ -1,0 +1,706 @@
+{
+  "work_id": "grand-blue-dreaming",
+  "count": 30,
+  "characters": [
+    {
+      "id": "iori-kitahara",
+      "name": "Iori Kitahara",
+      "alt_names": [
+        "北原伊織"
+      ],
+      "role": "protagonist",
+      "description": "Iori Kitahara is a first year Mechanical Engineering student at Izu University. Despite no initial interest, Iori comes to love diving and spending time with the members of the club, whom he becomes friends with and cares about despite their rambunctious behavior and endless crazy schemes.",
+      "metadata": {
+        "gender": "male",
+        "age": "18 (Manga), 20 (Anime)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123182-tuQ2yf5IEx02.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123182
+      }
+    },
+    {
+      "id": "chisa-kotegawa",
+      "name": "Chisa Kotegawa",
+      "alt_names": [
+        "古手川千紗",
+        "Chii-chan"
+      ],
+      "role": "protagonist",
+      "description": "Chisa Kotegawa is Iori's cousin and a first-year mechanical engineering student at Izu University. Chisa appears to more level-headed and serious compared to other characters. She has a clear dislike for rowdy behavior and can be quite hostile, especially when it is directed towards her (especially with Iori). She rarely takes part in drinking or crazy antics and is usually seen sitting off the side as an observer. She loves diving and looking at diving equipment. Chisa is one of three female students in her class idolized by her male classmates due to her major's lack of females.\n\n~!It is later revealed that she and Iori are not related by blood since Iori's father is adopted by her maternal grandparent.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "18 (Manga), 20 (Anime)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123181-t0pV6LtaDUf6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123181
+      }
+    },
+    {
+      "id": "kouhei-imamura",
+      "name": "Kouhei Imamura",
+      "alt_names": [
+        "今村耕平"
+      ],
+      "role": "protagonist",
+      "description": "A first-year Mechanical Engineering student at Izu University. He is Iori's best friend and a diehard otaku, perceived to be a lolicon by his acquaintances. He happens to be particularly obsessed with the little sister character trope (hence his obsession with Shiori Kitahara). While many are repulsed by his otaku lifestyle, he is indifferent to how he is perceived by others.",
+      "metadata": {
+        "gender": "male",
+        "age": "18 (Manga), 20 (Anime)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125917-FBK4DlUGycsr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125917
+      }
+    },
+    {
+      "id": "aina-yoshiwara",
+      "name": "Aina Yoshiwara",
+      "alt_names": [
+        "吉原愛菜",
+        "Cakey"
+      ],
+      "role": "protagonist",
+      "description": "Aina is a first year at Oumi Women's University. She joins Grand Blue Diving Club after getting to know Iori and Kouhei. She is a really shy girl and hates having to expose her skin. She soon becomes good friends with Chisa.\n\n~!She used to wear strong makeups to appear attractive not realizing her very makeup was a turn-off for men. She was part of the Tinkerbell Tennis Club but she was always looked down upon and made fun of by her seniors. Iori and Kouhei came to her rescue when she had it enough during the Miss Izu Contest as she resorted to getting drunk and broke down in tears in front of them.!~\n\n~!Iori's words after saving Aina from the depth of despair during the Miss Izu Contest moved her so much so that suddenly her heart skipped a beat for him. She soon finds herself having feelings for Iori but she has been keeping her feelings to herself and she is yet to tell Iori how she feels about him. Iori is also the reason why she approached Azusa to let her join Grand Blue Diving Club.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "18 (Manga), 20 (Anime)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127420-ssYIvTQrmliT.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127420
+      }
+    },
+    {
+      "id": "sakurako-busujima",
+      "name": "Sakurako Busujima",
+      "alt_names": [
+        "毒島桜子"
+      ],
+      "role": "protagonist",
+      "description": "She is a student at Oumi Women's University and the coworker of Iori Kitahara and Naomi Otoya. She has a crush on Otoya Naomi.\n~!She was cheered up by Iori after Naomi rejected her confession. Soon after that, she has developed romantic feelings for Iori, of which he is unaware. She lip-locked him in front of Chisa and Aina during their second trip to Okinawa islands.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157207-W4FWkSYmnG7z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157207
+      }
+    },
+    {
+      "id": "azusa-hamaoka",
+      "name": "Azusa Hamaoka",
+      "alt_names": [
+        "浜岡梓"
+      ],
+      "role": "supporting",
+      "description": "Azusa Hamaoka is a third-year at Oumi University and is a part of the intercollegiate diving club with Izu University. Known for her very outgoing and exhibitionist personality, she displays particular friendship/comradeship to Iori.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123180-ryixZDXI8Wwe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123180
+      }
+    },
+    {
+      "id": "shiori-kitahara",
+      "name": "Shiori Kitahara",
+      "alt_names": [
+        "北原 栞"
+      ],
+      "role": "supporting",
+      "description": "She is a third year middle school student and the younger sister of Iori Kitahara.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125928-c9RlL22xjsJL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125928
+      }
+    },
+    {
+      "id": "shinji-tokita",
+      "name": "Shinji Tokita",
+      "alt_names": [
+        "時田信治",
+        "Tokki"
+      ],
+      "role": "supporting",
+      "description": "He is a third year Mechanical Engineering student at Izu University.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127066-PkESsXlvduxz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127066
+      }
+    },
+    {
+      "id": "ryuujirou-kotobuki",
+      "name": "Ryuujirou Kotobuki",
+      "alt_names": [
+        "寿竜次郎",
+        "Bukki"
+      ],
+      "role": "supporting",
+      "description": "He is a third year Mechanical Engineering student at Izu University.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127067-C3esXLQR7yyF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127067
+      }
+    },
+    {
+      "id": "nanaka-kotegawa",
+      "name": "Nanaka Kotegawa",
+      "alt_names": [
+        "古手川奈々華"
+      ],
+      "role": "supporting",
+      "description": "Iori's Elder Cousin. When Iori comes to Grand Blue he doesn't recognise her at first since she had become very beautiful and gets attracted to her only to find out later that she has become a siscon who smells her younger sister Chisa's after worn clothes and takes her photo all the time.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127068-pXKnnlyha3aL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127068
+      }
+    },
+    {
+      "id": "otoya-naomi",
+      "name": "Otoya Naomi",
+      "alt_names": [
+        "尚海乙矢"
+      ],
+      "role": "supporting",
+      "description": "Otoya Naomi is a high school student who loves diving. He is the captain of the diving club at his school and the coworker of Iori and Sakurako.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138467-2TIQzU8xVDO3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138467
+      }
+    },
+    {
+      "id": "yuu-mitarai",
+      "name": "Yuu Mitarai ",
+      "alt_names": [
+        "御手洗優"
+      ],
+      "role": "supporting",
+      "description": "One of Iori's classmates at Izu University. Unlike most of the others, Yuu is in a relationship with his childhood friend Rie, which his friends immediately attempt to sabotage once they find out.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139309-aaOjyishO7pu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139309
+      }
+    },
+    {
+      "id": "rie-oohashi",
+      "name": "Rie Oohashi",
+      "alt_names": [
+        "大橋りえ"
+      ],
+      "role": "supporting",
+      "description": "She is a first year student at Oumi Women's University and Yuu Mitarai's childhood friend.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139310-PX79lFq2Msvm.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139310
+      }
+    },
+    {
+      "id": "shinichirou-yamamoto",
+      "name": "Shinichirou Yamamoto",
+      "alt_names": [
+        "山本真一郎"
+      ],
+      "role": "supporting",
+      "description": "He is a first year Mechanical Engineering student at Izu University. He is a chubby young man with short hair parted in the middle. He mostly seen wearing a plain t-shirt under a sweatshirt and sweatpants. He is really bent on the idea that he needs a girlfriend and he is a complete virgin",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139311-wO7aYjarIfNr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139311
+      }
+    },
+    {
+      "id": "toshio-kotegawa",
+      "name": "Toshio Kotegawa",
+      "alt_names": [
+        "古手川登志夫"
+      ],
+      "role": "supporting",
+      "description": "The owner of the diving shop Grand Blue and Iori's uncle. Toshio seems to have a jovial personality and is quite laid back, as he doesn't seem to mind all the havoc that the club members wreck when drinking and partying.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139312-CakMePcpjzk9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139312
+      }
+    },
+    {
+      "id": "hajime-nojima",
+      "name": "Hajime Nojima",
+      "alt_names": [
+        "野島元"
+      ],
+      "role": "supporting",
+      "description": "He is a first year Mechanical Engineering student at Izu University. Nojima is a tall and self-proclaimed handsome young man.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139313-U8fKccv8kp89.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139313
+      }
+    },
+    {
+      "id": "kudou",
+      "name": "Kudou",
+      "alt_names": [
+        "工藤会長"
+      ],
+      "role": "supporting",
+      "description": "The Captain of the Tennis Club \"Tinkerbell\" and a beautiful young man who is attracted to Azusa. Kudou is an arrogant womanizer that would do almost anything to achieve his goal. He tends to mistreat those whom he considers lowly.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139314-qUbbEAmHio7L.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139314
+      }
+    },
+    {
+      "id": "kaya-mizuki",
+      "name": "Kaya Mizuki",
+      "alt_names": [
+        "水樹カヤ",
+        "Maya",
+        "水木カヤ"
+      ],
+      "role": "supporting",
+      "description": "Famous voice actor and idol who is worshipped by Kouhei. Her real name is Maya.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139315-qnGEFVYb7n51.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139315
+      }
+    },
+    {
+      "id": "kenta-fujiwara",
+      "name": "Kenta Fujiwara",
+      "alt_names": [
+        "藤原健太"
+      ],
+      "role": "supporting",
+      "description": "One of Iori's classmates at Izu University. A muscular man who is jealous of Iori supposedly getting Chisa's affection.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139316-YymL3BgWclQ3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139316
+      }
+    },
+    {
+      "id": "sayaka-kotegawa",
+      "name": "Sayaka Kotegawa",
+      "alt_names": [
+        "古手川紗耶華"
+      ],
+      "role": "supporting",
+      "description": "She is Chisa and Nanaka's mother and the manager of Dophin diving pad at Palau, where Chisa, Iori, Kouhei and Aina work part-time during summer break. Sayaka is a serious and straightforward person, who doesn't talk beyond what is necessary and acts cold towards Chisa.\n~!She is deaf in her left ear, because of constantly ear pressure during diving, and never told Chisa because she knows how much she loves diving.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157213-h8zhbXn5BTgG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157213
+      }
+    },
+    {
+      "id": "ushironomiya",
+      "name": "Ushironomiya",
+      "alt_names": [
+        "右代宮"
+      ],
+      "role": "supporting",
+      "description": "He works as an associate professor at Izu University.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157218-sHtltpt3gEn5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157218
+      }
+    },
+    {
+      "id": "carina",
+      "name": "Carina",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "She is a German woman who's come to Japan for 90 days. She's a big fan of the mobile game Blue Spring.\n~!Blue Spring is an 18+ game which she wants to recreate in real life, replacing the in-game characters with Chisa and Shiori.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157233-12XhIb8QEZJW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157233
+      }
+    },
+    {
+      "id": "ioris-father",
+      "name": "Iori's father",
+      "alt_names": [
+        "Chisa's uncle"
+      ],
+      "role": "supporting",
+      "description": "He is [Iori's](https://anilist.co/character/123182/Iori-Kitahara) father and [Chisa's](https://anilist.co/character/123181/Chisa-Kotegawa) uncle.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157234-A3XuUNGIuW1D.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157234
+      }
+    },
+    {
+      "id": "bar-master",
+      "name": "Bar Master",
+      "alt_names": [
+        "バーのマスター"
+      ],
+      "role": "supporting",
+      "description": "Bar Master is the manager of the bar where [Ryuujirou Kotobuki](https://anilist.co/character/127067/Ryuujirou-Kotobuki) works part-time as a bartender.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157286-wKYNLrOYUWj6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157286
+      }
+    },
+    {
+      "id": "german-lecturer",
+      "name": "German Lecturer",
+      "alt_names": [
+        "ドイツ語講師"
+      ],
+      "role": "supporting",
+      "description": "German lecturer at Izu University.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157287-rCU9PN0bHqA2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157287
+      }
+    },
+    {
+      "id": "kanako-iida",
+      "name": "Kanako Iida",
+      "alt_names": [
+        "飯田かなこ"
+      ],
+      "role": "supporting",
+      "description": "Aina's freshmen friend and a first year student at Oumi Women's University.\n~!Kanako is actually the younger sister of Idol Singer Kaya Mizuki.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b159403-pUnm8wZUrLKh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 159403
+      }
+    },
+    {
+      "id": "keiko-suzuki",
+      "name": "Keiko Suzuki",
+      "alt_names": [
+        "鈴木恵子"
+      ],
+      "role": "supporting",
+      "description": "Aina's freshmen friend and a first year student at Oumi Women's University. She admits that whenever someone is innocent and pure, she feels the need to corrupt them.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b159404-MZkT0bXgxOqi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 159404
+      }
+    },
+    {
+      "id": "kiyoko-kamio",
+      "name": "Kiyoko  Kamio",
+      "alt_names": [
+        "神尾清子",
+        "Kikko"
+      ],
+      "role": "supporting",
+      "description": "Aina's freshmen friend and a first year student at Oumi Women's University.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b159405-ThskKGpjsy0D.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 159405
+      }
+    },
+    {
+      "id": "yuuichi-ikegoshi",
+      "name": "Yuuichi Ikegoshi",
+      "alt_names": [
+        "池越雄一"
+      ],
+      "role": "supporting",
+      "description": "Yuichi Ikegoshi is a male Idol part of the SIPS (Boy Band) who was first introduced in Chapter 52 on Palau as part of the TV Crew where he is one of the hosts for the TV show.\nYuichi and Kouhei Imamura look-a-like, so when Yuichi got injured, Kouhei replaced him as the TV-host by offering him an autograph of Yurika Muranaka.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b239563-TV0P9ATLS2Mx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 239563
+      }
+    },
+    {
+      "id": "yurika-muranaka",
+      "name": "Yurika Muranaka",
+      "alt_names": [
+        "村中ゆりか"
+      ],
+      "role": "supporting",
+      "description": "An idol and voice actress. Engaged to Yuichi Ikegoshi.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b263937-v2Q6G3EfDhMB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 263937
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T22:01:40.191Z"
+}

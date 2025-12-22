@@ -1,0 +1,570 @@
+{
+  "work_id": "hyouka",
+  "count": 25,
+  "characters": [
+    {
+      "id": "houtarou-oreki",
+      "name": "Houtarou Oreki",
+      "alt_names": [
+        "折木奉太郎"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 172 cm (5'8\")\n\nOreki is a high-schooler with messy brown hair and green eyes. Due to his very lazy lifestyle, he almost always has a tired or bored look on his face. His hair is especially very messy when he wakes up.   He is shown to be a quiet student, and never concerned about things that happens around him. Despite being shown as an average high school student, he is quite intelligent and perceptive. The reason for his usual laziness is because he wishes to \"save energy\". Even though he is shown to be quite lazy, he never leaves his homework undone, as pointed out by Satoshi. He's considered lazy and apathetic, always living on the \"gray\" side, and is not interested in any activities that might waste his time and energy. He actually never intended to join any club, but his sister ordered him to join the Classics Club to save it from being disbanded. Even though he might not seem it, he's unbelievably good at solving mysteries and seems to be able to always find a solution if he gives it a thought. He has a habit of holding his bangs whenever he's thinking about a mystery.",
+      "metadata": {
+        "gender": "male",
+        "age": "16-17",
+        "dateOfBirth": "1984-04-28"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55131-ypodHQCyHbzD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55131
+      }
+    },
+    {
+      "id": "eru-chitanda",
+      "name": "Eru Chitanda",
+      "alt_names": [
+        "千反田える",
+        "Chi-chan",
+        "Chitandael"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 160 cm (5'3\")\n\nChitanda is a calm and happy person but can become very excited when new or interesting things happen, especially when it involves her club. She is described as a beautiful 16 year old girl with long black hair and purple eyes. She usually sports a cheerful expression as well as seen in her uniform.  \n\nEru is the single daughter of the Chitanda Family, one of the four remaining wealthy farming families in the area, according to Satoshi. She joined the Classics Club due to \"personal reasons\", and is the president of the club due to it not retaining any members from the previous year. She likes mysteries and has a great curiosity, which often drags Houtarou into solving them. \n\nShe often expresses her curiosity with the phrase \"私気になります！\" (\"watashi kininarimasu\"), often translated as \"I'm curious!\".",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55133-S7lRrP0gKXpX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55133
+      }
+    },
+    {
+      "id": "satoshi-fukube",
+      "name": "Satoshi Fukube",
+      "alt_names": [
+        "福部里志",
+        "Fuku-chan"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 160cm (5'3\")\n\n Satoshi went to the same middle school as Houtarou and Mayaka. He knows many things, but most of them are trivial. He's cheerful and a great match to befriend the apathetic Houtarou. He is active, already being a part of the Student Council and Handicraft Club before joining the Classics Club. He is the \"database\" of the club and has a very good memory.   ~!It was later revealed that he is obsessed with not becoming obsessed with anything. Because of this, he steals Mayaka's Valentine's chocolates to prevent himself from becoming obsessed with her. However, he also admits that he wishes to be with her.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55135-rSgLOX86JRSO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55135
+      }
+    },
+    {
+      "id": "mayaka-ibara",
+      "name": "Mayaka Ibara",
+      "alt_names": [
+        "伊原摩耶花"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 148 cm (4'10\")\n\nAn inseparable friend who's been in the same class with Houtarou since their first grade in elementary school. She is interested in Satoshi, which leads her to join the classic literature club. She is also a member of the Library and Manga Society. She has a blunt and frank personality and usually makes nicknames for some of her friends (i.e: Fuku-chan, Chi-chan).",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55137-PO5CLLnbTwyg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55137
+      }
+    },
+    {
+      "id": "fuyumi-irisu",
+      "name": "Fuyumi Irisu",
+      "alt_names": [
+        "入須冬実",
+        "The Empress"
+      ],
+      "role": "supporting",
+      "description": "Member of Class 2-F who had been assigned late leadership of the non-official titled movie, \"Mystery\". She is famous through her families success in owning the general hospital.  She is also an old family friend of Chitanda.\n\n~!She manipulates Houtarou into writing the rest of the movie script.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b56157-UmLhSFREXcme.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 56157
+      }
+    },
+    {
+      "id": "youko-itoigawa",
+      "name": "Youko Itoigawa",
+      "alt_names": [
+        "糸魚川養子"
+      ],
+      "role": "supporting",
+      "description": "The school's 61 yr-old librarian and was the Classic Club's first president during the time of the incident.   ~!Her maiden name is Kouriyama.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b56159-aq16wg33oWAn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 56159
+      }
+    },
+    {
+      "id": "tomoe-oreki",
+      "name": "Tomoe Oreki",
+      "alt_names": [
+        "折木供恵"
+      ],
+      "role": "supporting",
+      "description": "She is the older sister of Houtarou and is the reason he joined the Classics Club. Her face is barely shown, especially her eyes.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b56161-ERypdOyVLgHb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 56161
+      }
+    },
+    {
+      "id": "masashi-tohgaito",
+      "name": "Masashi Tohgaito",
+      "alt_names": [
+        "遠垣内将司"
+      ],
+      "role": "supporting",
+      "description": "Masashi, as an upperclassman to the main characters, acts a bit mature and composed. He has some secrets behind his back that he can't bare to be found wherein he even resorts to lying, just like anyone who wants to uphold their family's honor. He also the president of News Poster Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b56163-cdGK815DAoog.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 56163
+      }
+    },
+    {
+      "id": "kaho-juumonji",
+      "name": "Kaho Juumonji",
+      "alt_names": [
+        "十文字かほ"
+      ],
+      "role": "supporting",
+      "description": "A first-year student of Kamiyama High School, belonging to Class 1-D, and the only member of the school's Fortune Telling Club. She is introduced during the Kamiyama High School Festival, where her name was linked to a series of lost items during the event's duration.\n\n(Source: wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59967-HPkwqQ5u6lzj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59967
+      }
+    },
+    {
+      "id": "kurako-eba",
+      "name": "Kurako Eba",
+      "alt_names": [
+        "江波倉子"
+      ],
+      "role": "supporting",
+      "description": "A close friend of Hongou's. She seems shy and reserved, and also describes Hongou as \"diligent, careful, has a strong sense of responsibility, ridiculously kind, and easily moved.\"",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59969-IZwNVKbncCCy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59969
+      }
+    },
+    {
+      "id": "koreyuki-tani",
+      "name": "Koreyuki Tani",
+      "alt_names": [
+        "谷惟之"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59971-1sObSlFKC9tv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59971
+      }
+    },
+    {
+      "id": "ayako-kouchi",
+      "name": "Ayako Kouchi",
+      "alt_names": [
+        "河内亜也子"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59973-A6FpkggLoNFe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59973
+      }
+    },
+    {
+      "id": "rie-zenna",
+      "name": "Rie Zenna",
+      "alt_names": [
+        "善名梨絵"
+      ],
+      "role": "supporting",
+      "description": "A relative of Maya's, and Kayo's older sister. She has a habit of writing names on her own items, not allowing her sister using them.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59975-rtWk9gokdnuD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59975
+      }
+    },
+    {
+      "id": "kayo-zenna",
+      "name": "Kayo Zenna",
+      "alt_names": [
+        "善名嘉代"
+      ],
+      "role": "supporting",
+      "description": "A relative of Maya and Rie's younger sister. Unlike her sister Rie, she tends to not put her name on anything that is rightfully hers. She is also more shy and quiet than her sister.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59977-E4yOJHwdvl9U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59977
+      }
+    },
+    {
+      "id": "tomohiro-haba",
+      "name": "Tomohiro Haba",
+      "alt_names": [
+        "羽場智博"
+      ],
+      "role": "supporting",
+      "description": "The Props Master in Fuyumi Irisu's independent film. He also was one of the three detectives involved in solving the mystery of Hongou's unfinished script.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59979-UDAHbt0XtpVj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59979
+      }
+    },
+    {
+      "id": "misaki-sawakiguchi",
+      "name": "Misaki Sawakiguchi",
+      "alt_names": [
+        "沢木口美崎"
+      ],
+      "role": "supporting",
+      "description": "The Publicity Manager in Fuyumi Irisu's independent film. She was one of the three detectives involved in solving the mystery of Hongou's unfinished script.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59981-Vc671RcqH9UA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59981
+      }
+    },
+    {
+      "id": "jirou-sugimura",
+      "name": "Jirou Sugimura",
+      "alt_names": [
+        "杉村二郎"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59983-PXOkEIc04AxV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59983
+      }
+    },
+    {
+      "id": "midori-yamanishi",
+      "name": "Midori Yamanishi",
+      "alt_names": [
+        "山西みどり"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59985-29wGhzVZvXnp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59985
+      }
+    },
+    {
+      "id": "mamiko-senoue",
+      "name": "Mamiko Senoue",
+      "alt_names": [
+        "瀬之上真美子"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59987-spipNPz3vE9T.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59987
+      }
+    },
+    {
+      "id": "takeo-katsuta",
+      "name": "Takeo Katsuta",
+      "alt_names": [
+        "勝田竹男"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59989-2JHLStDvsgse.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59989
+      }
+    },
+    {
+      "id": "omichi",
+      "name": "Omichi",
+      "alt_names": [
+        "尾道"
+      ],
+      "role": "supporting",
+      "description": "Class A's math teacher. He's described by Satoshi as 'Strict but only because he's strict on himself.'",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59991-41kbNLBBfaHL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59991
+      }
+    },
+    {
+      "id": "takeo-kaitou",
+      "name": "Takeo Kaitou",
+      "alt_names": [
+        "海藤武雄"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59993-QoASiKVJek2C.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59993
+      }
+    },
+    {
+      "id": "yuri-kounosu",
+      "name": "Yuri Kounosu",
+      "alt_names": [
+        "鴻巣友里"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b64407-9bboMZNrvhgi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 64407
+      }
+    },
+    {
+      "id": "junya-nakajou",
+      "name": "Junya Nakajou",
+      "alt_names": [
+        "中城順哉"
+      ],
+      "role": "supporting",
+      "description": "Assistant Director in Fuyumi Irisu's independent film. He was one of the three detectives involved in solving the mystery of Hongou's unfinished script.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b64409-XftdIn3mH2tb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 64409
+      }
+    },
+    {
+      "id": "yamauchi",
+      "name": "Yamauchi",
+      "alt_names": [
+        "山内"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 10.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65187-XRUgFVjtTxon.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65187
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T21:16:15.205Z"
+}

@@ -1,0 +1,613 @@
+{
+  "work_id": "the-promised-neverland-season-2",
+  "count": 25,
+  "characters": [
+    {
+      "id": "ray",
+      "name": "Ray",
+      "alt_names": [
+        "レイ",
+        "Sleepy Cyclops"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 150 cm\n__Farm Identifier:__ 81194\n\nAs one of the three perfect students at the orphanage, Ray is very logical, smart, cunning, extremely patient and is usually shown to read books by himself. Although he is extremely book smart he says that he never liked to study. According to data obtained by sister [Krone](https://anilist.co/character/121702/Krone), his weakness is that he gives up easily.",
+      "metadata": {
+        "gender": "male",
+        "age": "11",
+        "dateOfBirth": "2034-01-15"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121724-SJTdODjeO7e6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121724
+      }
+    },
+    {
+      "id": "emma",
+      "name": "Emma",
+      "alt_names": [
+        "エマ",
+        "Antenna"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 145 cm\n__Farm Identifier:__ 63194\n\nEmma acts as an older sister to the other children and loves her family very intensely. She is sweet, heroic, caring, and has a big heart. She can also be naive and reckless, and doesn't hesitate to put herself at risk to ensure the safety of the group. The other kids describe her as having monster reflexes and an astounding ability to learn, which enables her to think fast in difficult situations and makes her a very good strategist. She could be considered a beacon of hope for the rest of the children.",
+      "metadata": {
+        "gender": "female",
+        "age": "11-15",
+        "dateOfBirth": "2034-08-22"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121725-LQciVJOjnMVh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121725
+      }
+    },
+    {
+      "id": "norman",
+      "name": "Norman",
+      "alt_names": [
+        "ノーマン"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 145 cm\n__Farm Identifier:__ 22194\n\nNorman seems to be logical, well-meaning, and devoted, with a slightly naive side. He can easily plan his actions in advance and he anticipates on other's actions. He is one of the top 3 ranking orphans, along with [Emma](https://anilist.co/character/121725/Emma) and [Ray](https://anilist.co/character/121724/Ray). Norman loves Emma and he is helpful and loyal towards her.",
+      "metadata": {
+        "gender": "male",
+        "age": "11",
+        "dateOfBirth": "2034-03-21"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121700-CRwKIlcBcjbv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121700
+      }
+    },
+    {
+      "id": "isabella",
+      "name": "Isabella",
+      "alt_names": [
+        "イザベラ",
+        "Mama (ママ)",
+        "Mom"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170 cm\n__Farm Identifier:__ 73584\n\nIsabella worked as a Mama at Grace Field House, taking care of the orphans that reside within.",
+      "metadata": {
+        "gender": "female",
+        "age": "31",
+        "dateOfBirth": "2014-09-09"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121701-hP5hanKRUH9u.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121701
+      }
+    },
+    {
+      "id": "don",
+      "name": "Don",
+      "alt_names": [
+        "ドン",
+        "Bean Head"
+      ],
+      "role": "supporting",
+      "description": "__Age (2045):__ 10 yo\n__Farm Identifier:__ 16194\n__D.O.B:__ 2035/7/4\n__Height (2045-2049):__ 155 - 174 cm\n\nDon has dark skin and a tall and slender appearance. He has short, messy black hair with an undercut and brown eyes. He wears the standard white uniform. Like [Emma](https://anilist.co/character/121725/Emma), Don cares deeply about his siblings. Don is portrayed as a cheerful and slightly careless boy, however, he too is fairly intelligent, coming around 5th place in the everyday test, after [Gilda](https://anilist.co/character/126455/Gilda). He also has talents in pick pocketing. His physical ability is also fairly strong.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126454-TI3LXk2oN7WV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126454
+      }
+    },
+    {
+      "id": "gilda",
+      "name": "Gilda",
+      "alt_names": [
+        "ギルダ",
+        "Prissy Four-eyes"
+      ],
+      "role": "supporting",
+      "description": "__Farm Identifier:__ 65194\n__Height (2045-2049):__ 138 - 155 cm\n\nGilda has short olive drab hair kept in a Chinese bob hairstyle and wears circular-lensed glasses. Gilda is an intuitive young girl. She also has a caring personality. She seems to be an introvert, however she also has her moments of bravery. She can also be quite threatening.",
+      "metadata": {
+        "gender": "female",
+        "age": "10",
+        "dateOfBirth": "2035-05-13"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126455-ki6wpr5Un4fF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126455
+      }
+    },
+    {
+      "id": "peter-ratri",
+      "name": "Peter Ratri",
+      "alt_names": [
+        "ピーターラートリー"
+      ],
+      "role": "supporting",
+      "description": "Peter Ratri is the 36th and current head of the famous Ratri Clan and the younger brother of James Ratri.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126495-rOG3lcE3GBfD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126495
+      }
+    },
+    {
+      "id": "sonju",
+      "name": "Sonju",
+      "alt_names": [
+        "Song-Joo"
+      ],
+      "role": "supporting",
+      "description": "__Age:__ At-Least 1000\n__Hair Color:__ Red\n__Eye Color:__ Black\n\nSonju (or Sung-Joo) is a demon that lives outside Grace Field House. ~!He saved Ray just before he was captured by his demon-hound pursuers. He and Mujika were suspected to be demons by Ray.\nSonju believes in the same religion as Mujika, hence is strongly against the practice of eating humans. However, Sonju remained reluctant and was eager to resume his intention of eating humans once their population increased.!~ Sonju retains a stoic and composed personality, as he sometimes refrained himself from interacting with the orphans, and during the times when he does, he was known to intimidate them due to his appearance. Nevertheless, Sonju on a certain degree still care for the orphans' safety and have faith in them being able to break the promise.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126497-tzUtqWwy3Mkf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126497
+      }
+    },
+    {
+      "id": "mujika",
+      "name": "Mujika",
+      "alt_names": [
+        "ムジカ",
+        "Musica"
+      ],
+      "role": "supporting",
+      "description": "Mujika (or Musica) is a demon descent traveling in the forest outside the Grace Field House. ~!She saved Emma and the other orphans of Grace Field House from the pursuing demons. She, together with Sonju believe in a religious principle to not eat humans.!~\n\n~!She is considered the \"Evil Blooded Girl\" because if her blood is consumed by a demon, it will make them be able to not eat humans and still keep their form!~\n\nMujika has long, purple hair braided pigtails covering parts of her horns, and wears a mask with two holes positioned vertically. She has a pale complexion and wears a bluish-white cloak.\n\n~!She later is crowned as the new Demon Queen!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126498-w5eif6lqQLoC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126498
+      }
+    },
+    {
+      "id": "anna",
+      "name": "Anna",
+      "alt_names": [
+        "アンナ",
+        "Nanny"
+      ],
+      "role": "supporting",
+      "description": "__Age (2045):__ 9 yo\n__Farm Identifier:__ 48194 (Grace Field House)\n__D.O.B:__ 2036/4/25\n__Height (2045-2049):__ 135 - 162 cm \n\nJust like every other orphans of Grace Field, she wears the standard Grace Field Orphanage uniform. Anna grows to be a surprisingly big boned, tall girl. She has blonde hair tied into twin braids. \n~!Later, she cuts her hair in order to help with the escape.!~~!During her time at the B06-32 shelter, she spends a lot of time studying medicine in order to help her family.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n126504-xHMVYY9uEfkh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126504
+      }
+    },
+    {
+      "id": "lannion",
+      "name": "Lannion",
+      "alt_names": [
+        "ラニオン",
+        "Lani",
+        "Curry Chow"
+      ],
+      "role": "supporting",
+      "description": "__Age (2045):__ 7 yo\n__Farm Identifier:__ 54294 (Grace Field House)\n__D.O.B:__ 2038/4/28\n__Height (2045-2049):__ 125 - 144 cm \n\nLani is a mischievous and resourceful boy, who enjoys pulling pranks with his best friend, [Thoma](https://anilist.co/character/129784/Thoma). He is a bit cowardly, but also blunt and straightforward.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129783-6KAMdcOzkmCv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129783
+      }
+    },
+    {
+      "id": "thoma",
+      "name": "Thoma",
+      "alt_names": [
+        "トーマ",
+        "Pizza Topping"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 123 cm\n__Farm Identifier:__ 55294 (Grace Field House)\n\nThoma is a resourceful and mischievous boy, who enjoys pulling pranks alongside his best friend [Lani](https://anilist.co/character/129783). He is blunt, but can also be quite cowardly.",
+      "metadata": {
+        "gender": "male",
+        "age": "7",
+        "dateOfBirth": "2038-08-30"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129784-fn5VoMYAqCsk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129784
+      }
+    },
+    {
+      "id": "nat",
+      "name": "Nat",
+      "alt_names": [
+        "ナット",
+        "Nose"
+      ],
+      "role": "supporting",
+      "description": "__Age (2045):__ 9 yo\n__Farm Identifier:__ 48194 (Grace Field House)\n__D.O.B:__ 2036/12/18\n__Height (2045-2049):__ 133 - 156 cm\n\nNat is a rather frail boy, with brown eyes and a tall nose line (which he takes great pride in).  He wears the standard orphanage uniform. Even though he can be easily intimidated, he does have his moments of bravery.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129805-rUUS2wWGIAnH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129805
+      }
+    },
+    {
+      "id": "sobo",
+      "name": "Sobo",
+      "alt_names": [
+        "祖母",
+        "Sarah",
+        "Grandma",
+        "Grandmother"
+      ],
+      "role": "supporting",
+      "description": "Grandmother is a high-ranking human and once worked as [Isabella's](https://anilist.co/character/121701/Isabella) Mama although she treated her more as a pawn than a human. \n\n~!On January 27, 2046, it was revealed that all of Isabella's mistakes and responsibilities, as in letting the children escape, were placed on Grandma Sarah. Although Isabella wasn't able to manage her products, Sarah wasn't able to manage Isabella. As a result, Sarah was shipped out to be served at the upcoming Tifari in order to make up for the escapees. Isabella took the role of Grandmother after that.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136463-CHTYDFuQnr7Q.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136463
+      }
+    },
+    {
+      "id": "zazie",
+      "name": "Zazie",
+      "alt_names": [
+        "ザジー"
+      ],
+      "role": "supporting",
+      "description": "Zazie is a former Λ7214 experiment. He is the strongest among the humans. He gets mad when he doesn't wear the paper bag. He loves his boss, Norman.",
+      "metadata": {
+        "gender": "male",
+        "age": "5",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169006-wVXUuayBDq9q.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 169006
+      }
+    },
+    {
+      "id": "cislo",
+      "name": "Cislo",
+      "alt_names": [
+        "シスロ",
+        "Shisuro"
+      ],
+      "role": "supporting",
+      "description": "Cislo is a former Lambda 7214 (aka Λ7214) experiment. His hobby is weight training, despite his looks he is easily moved to tears and he loves boss(Norman) . He was shipped to Lambda at age 12/13 from Goodwill Ridge, along with his close friend Barbara. Goodwill is one of the four premium farms.",
+      "metadata": {
+        "gender": "male",
+        "age": "17-19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192864-BHyTEeQZAu7o.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192864
+      }
+    },
+    {
+      "id": "vincent",
+      "name": "Vincent",
+      "alt_names": [
+        "ヴィンセント",
+        "Vinsento"
+      ],
+      "role": "supporting",
+      "description": "Vincent is a previous Lambda 7214 (aka Λ7214) experiment. He was born in Glory bell. He is known to have medical knowledge and is very fashionable. Also he can make snacks , cloths and weapons. He loves boss(aka Norman).",
+      "metadata": {
+        "gender": "male",
+        "age": "18-20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192865-ZVapJOXSrXkv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192865
+      }
+    },
+    {
+      "id": "barbara",
+      "name": "Barbara",
+      "alt_names": [
+        "バーバラ"
+      ],
+      "role": "supporting",
+      "description": "Barbara is a former Lambda 7214 (aka Λ7214) experiment. She eats a lot, and as a result of the experiments that were done on her she has inherited superhuman strength. At age 12, she was shipped from Goodwill Ridge to Lambda along with her close friend Cislo. Goodwill is one of the four premium farms.\n\n~!She likes to eat demon meat because she is \"pissed off\" that humans are the only ones getting eaten. It seems to be safe to do, as she shows no symptoms of it affecting her.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192866-Cqo4XXcYT8cR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192866
+      }
+    },
+    {
+      "id": "yvette",
+      "name": "Yvette",
+      "alt_names": [
+        "イベット",
+        "Shaggy"
+      ],
+      "role": "supporting",
+      "description": "__Farm Identifier:__ 59294\n__Height:__ 110 - 133 cm\n\nYvette is a smart and observant girl who is very artistic. She carries a pencil and a block with her.\n~!Once they escape, she helps to collect food and draws maps when asked.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "5-",
+        "dateOfBirth": "2040-12-31"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199112-xyVfJn8irWMX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199112
+      }
+    },
+    {
+      "id": "christie",
+      "name": "Christie",
+      "alt_names": [
+        "クリスティ",
+        "Chris"
+      ],
+      "role": "supporting",
+      "description": "__Farm Identifier:__ 70394 (Grace Field House)\n__Height (2045):__ 103 cm \n\nChris is a curious young boy, who is very cheerful and outspoken.",
+      "metadata": {
+        "gender": "male",
+        "age": "5",
+        "dateOfBirth": "2040-05-15"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199113-o58sBqMb1m3h.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199113
+      }
+    },
+    {
+      "id": "jemima",
+      "name": "Jemima",
+      "alt_names": [
+        "ジェミマ"
+      ],
+      "role": "supporting",
+      "description": "__Age (2045):__ 5 yo\n__Farm Identifier:__ 31394 (Grace Field House)\n__Height (2045-2049):__ 107 - 134 cm \n\nJemima is cheerful and well-behaved. Though, she can display acts of mischievousness. She is seen to have a strong bond with [Alicia](https://anilist.co/character/199115).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": "2040-07-20"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199114-dyn7IeoolRi1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199114
+      }
+    },
+    {
+      "id": "alicia",
+      "name": "Alicia",
+      "alt_names": [
+        "アリシア",
+        "Hairball "
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 109cm\n__Farm Identifier:__ 71394 (Grace Field House)\n\nAlicia is a cheerful, extroverted young girl with a tomboyish personality. She can also be sneaky, and knows how to stand up for herself. She is shown to have a strong bond with [Jemima](https://anilist.co/character/199114/Jemima).",
+      "metadata": {
+        "gender": "female",
+        "age": "5",
+        "dateOfBirth": "2036-09-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199115-IDyDlyokeLHw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199115
+      }
+    },
+    {
+      "id": "rossi",
+      "name": "Rossi",
+      "alt_names": [
+        "ロッシー"
+      ],
+      "role": "supporting",
+      "description": "__Age (2045):__ 5 yo\n__Farm Identifier:__ 50394 (Grace Field House)\n__D.O.B:__ 2040/4/14\n__Height (2045-2049):__ 108 - 130 cm \n\nRossi is a delicate and prudent boy, but he can also be quite mischievous.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199116-njqloLk0EMXO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199116
+      }
+    },
+    {
+      "id": "mark",
+      "name": "Mark",
+      "alt_names": [
+        "マルク"
+      ],
+      "role": "supporting",
+      "description": "__Age (2045):__ 5 yo\n__Farm Identifier:__ 79294\n__D.O.B:__ 2040/1/8\n__Height (2045-2049):__ 115 - 136 cm",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199117-hf0KR44q2XkP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199117
+      }
+    },
+    {
+      "id": "dominic",
+      "name": "Dominic",
+      "alt_names": [
+        "ドミニク"
+      ],
+      "role": "supporting",
+      "description": "__Farm Identifier:__ 07294 (Grace Field House)\n__Height (2045-2049):__ 119 - 147 cm \n\nDominic is an energetic and rather muscular young boy. He is very brave as well as caring towards others, and is willing to risk much to make sure everyone is safe.",
+      "metadata": {
+        "gender": "male",
+        "age": "6",
+        "dateOfBirth": "2039-02-28"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199118-FEIoj5A6GSxW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199118
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T21:20:28.775Z"
+}

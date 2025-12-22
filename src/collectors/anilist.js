@@ -13,6 +13,7 @@ export class AniListCollector {
       options.requestsPerMinute || 60, // Reduzido para 60 req/min para ser mais seguro
       60000
     );
+    this.delayBetweenPages = options.delayBetweenPages || 1000; // Delay padrão de 1s
   }
 
   /**
@@ -194,7 +195,7 @@ export class AniListCollector {
 
       // Pequeno delay adicional entre páginas
       if (hasNextPage) {
-        await this.delay(1000);
+        await this.delay(this.delayBetweenPages);
       }
     }
 

@@ -1,0 +1,286 @@
+{
+  "work_id": "howls-moving-castle",
+  "count": 12,
+  "characters": [
+    {
+      "id": "howl",
+      "name": "Howl",
+      "alt_names": [
+        "ハウル",
+        "Jenkins",
+        "Pendragon",
+        "哈尔"
+      ],
+      "role": "protagonist",
+      "description": "Wizard Howl is a mysterious, reclusive wizard. He is twenty-seven years old and known for being very flamboyant and wicked. His notorious moving castle has recently been spotted near Market Chipping and rumours have begun to spread that he is searching for beautiful young women whose hearts he may steal. He comes from Wales, a country unknown to most in the book, where his family still remain unaware of his activities in Sophie&#039;s world or of its existence.    Despite his reputation, Howl is in reality an endearing, charming man who is intelligent and considerate, if somewhat self-appreciative and stubborn at times. He enjoys &quot;slithering out&quot; of uncomfortable situations, often in comical ways.    Howl is described as being tall and suave, fond of dyeing his hair and wearing impressive suits. However, he is described by Calcifer as &quot;very vain for a plain man with mud-coloured hair&quot; - Howl is not naturally handsome, but he has &quot;charm&quot;, both literally and figuratively.",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b507-g9yz1GTLtPla.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 507
+      }
+    },
+    {
+      "id": "sophie-hatter",
+      "name": "Sophie Hatter",
+      "alt_names": [
+        "ソフィーハッター"
+      ],
+      "role": "protagonist",
+      "description": "She is a plain looking 18-year-old young adult, who passes all of her time working in a hat shop. She has big brown eyes and matching hair, tied with two pink ribbons, in a long braid. She has thick eyebrows, and Howl says that her smile is beautiful. She wears a cerulean dress with a white neck and black buttons. Sophie is a gentle, quiet young woman who doesn't like being in the spotlight. She is mature, and wears clothes meant for women older than her, despite her sister, Lettie's, protests. Sophie also initiates cleaning the massive castle. After getting cursed by the Witch of the Waste, she gains the appearance of a 90-year-old woman (with a similar appearance to Yubaba or Zeniba) with wrinkled skin and pain on her spine. According to her, she becomes more cunning as she has grown older. She still wears her dress, and now wears her straw hat adorned with a red ribbon. Due to her love for Howl, Sophie de-ages depending on her emotional state.",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b508-ONXMgE281eHe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 508
+      }
+    },
+    {
+      "id": "markl",
+      "name": "Markl",
+      "alt_names": [
+        "マルクル"
+      ],
+      "role": "supporting",
+      "description": "Howl's apprentice. He is an orphan who lives in Howl's castle. His apprenticeship in magic largely consists of running errands and doing the shopping. In the book he is a fifteen year old boy named Michael Fisher, in love with Sophie's half-sister, Martha.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b509-6VwYgQtqu63T.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 509
+      }
+    },
+    {
+      "id": "arechi-no-majo",
+      "name": "Arechi no Majo",
+      "alt_names": [
+        "荒地の魔女",
+        "Witch of the Waste",
+        "Ødeheksa",
+        "Ödehäxan"
+      ],
+      "role": "supporting",
+      "description": "A terrifying witch who doggedly chases after Howl. She is a master of magic, and dispatches her magical creations, the spooky blob men.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b510-jrHhYextl4o0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 510
+      }
+    },
+    {
+      "id": "kakashi-no-kabu",
+      "name": "Kakashi no Kabu",
+      "alt_names": [
+        "かかしのカブ",
+        "Turnip-Head",
+        "Herr Kålrot"
+      ],
+      "role": "supporting",
+      "description": "~!A prince from a neighboring land who was turned into a scarecrow with a turnip for a head. The curse on him could only be broken by his true love&#039;s kiss.!~\n Sophie rescues him from the wasteland, and now he follows her around.    \n~!In the book Justin is actually the king&#039;s brother, who had disappeared after searching for the missing Wizard Suliman. The witch of the waste took him and mixed some of his body parts with Suliman&#039;s, in order to make the perfect man, who she could make the new king. The scarecrow, who does not have a name, was actually summoned by Suliman to inform someone of his and Prince Justin&#039;s whereabouts.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4987-S8wsDPmMLBdD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4987
+      }
+    },
+    {
+      "id": "calcifer",
+      "name": "Calcifer",
+      "alt_names": [
+        "カルシファー"
+      ],
+      "role": "supporting",
+      "description": "Calcifer is a fallen star who was caught by Howl. He didn't want to die, so he struck a deal with the wizard. Calcifer got Howl's heart and a prolonged life, and Howl received full access to all of Calcifer's considerable powers.  As it turns out, neither of them liked it after a while, but it couldn't be broken by people who were part of the contract. When Sophie Hatter comes to Howl's moving castle, Calcifer recognizes that she is under a curse thanks to the Witch of Waste and that Sophie has considerable powers of her own of which she is unaware. To break his own curse, Calcifer offers to lift the curse placed on Sophie once she manages to break Calcifer's contract with Howl.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6752-T8tNirdJJ8rw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6752
+      }
+    },
+    {
+      "id": "heen",
+      "name": "Heen",
+      "alt_names": [
+        "ヒン"
+      ],
+      "role": "supporting",
+      "description": "Heen is an odd dog who follows Sophie around. He is Madame Sulliman&rsquo;s errand dog. He is introduced when Howl asks Sophie to go to the Royal Castle as &quot;Mrs. Pendragon&quot;, while Howl follows behind disguised, and tell Madame Suliman that Howl is cowardly and of no use. As Sophie is going to the Royal Castle she is wondering what Howl disguised himself as. Right after, an old dog begins to follow her, and she thinks it is Howl. Heen is on the large side, old, and wheezes a lot, and leaves the castle with Howl, Sophie, and the Witch of the Waste. One would say he becomes their pet.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12188-XdvCoWM0wR0n.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 12188
+      }
+    },
+    {
+      "id": "kokuou",
+      "name": "Kokuou",
+      "alt_names": [
+        "国王"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168135-2xsCaQiSkCXA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168135
+      }
+    },
+    {
+      "id": "madge",
+      "name": "Madge",
+      "alt_names": [
+        "マッジ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168136-4kND9SMeTElg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168136
+      }
+    },
+    {
+      "id": "lettie-hatter",
+      "name": "Lettie Hatter",
+      "alt_names": [
+        "レティー・ハッター"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168138-1scUOJfHVB74.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168138
+      }
+    },
+    {
+      "id": "suliman",
+      "name": "Suliman",
+      "alt_names": [
+        "サリマン",
+        "Madame Suliman"
+      ],
+      "role": "supporting",
+      "description": "Madame Suliman serves as the king's royal sorcerer and is Howl's former mentor in magic.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212868-RpH2WLiB8EAO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212868
+      }
+    },
+    {
+      "id": "honey",
+      "name": "Honey",
+      "alt_names": [
+        "ハニー",
+        "Fanny Hatter"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279025-FislaRWHN9UE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 279025
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T21:15:57.144Z"
+}

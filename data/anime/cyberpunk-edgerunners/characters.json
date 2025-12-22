@@ -1,0 +1,590 @@
+{
+  "work_id": "cyberpunk-edgerunners",
+  "count": 25,
+  "characters": [
+    {
+      "id": "david-martinez",
+      "name": "David Martinez",
+      "alt_names": [
+        "デイビッド・マルティネズ",
+        "D",
+        "Davey"
+      ],
+      "role": "protagonist",
+      "description": "David is a street kid from Arroyo, Santo Domingo in Night City, who is enrolled into Arasaka's educational system at Arasaka Academy. He lives with his mother Gloria in an apartment of Megabuilding H4.\n\nAfter experiencing a personal tragedy, David has the powerful Sandevistan speedware installed in his body and becomes one of Night City's edgerunners. He also becomes acquainted with [Lucy](https://anilist.co/character/284157/Lucy), who leads him into the city's criminal underworld, and chooses to join the gang of edgerunners she is a part of, led by [Maine](https://anilist.co/character/284159/Maine).",
+      "metadata": {
+        "gender": "male",
+        "age": "17-18",
+        "dateOfBirth": "2059-01-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284158-z1uGKC3IYVa1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284158
+      }
+    },
+    {
+      "id": "lucy",
+      "name": "Lucy",
+      "alt_names": [
+        "ルーシー",
+        "Lucyna Kushinada"
+      ],
+      "role": "protagonist",
+      "description": "Lucy is a mysterious netrunner from Night City. She is quite introverted and doesn't like to talk much about her past. Although she looks innocent, she won't hesitate to kill a person in a heartbeat if they tick her off. Lucy also considers Night City a prison and dreams of one day leaving it for the moon.\n\nLucy is a part of Maine's crew of edgerunners. One of its members, a netrunner named [Kiwi](https://anilist.co/character/284161/Kiwi), is her mentor. She also becomes acquainted with [David](https://anilist.co/character/284158/David-Martinez) and takes him on a tour through Night City's criminal underworld, leading the two of them to become partners in [Maine](https://anilist.co/character/284159/Maine)'s crew.\n\n~!She is Half Polish and Half Japanese!~",
+      "metadata": {
+        "gender": "female",
+        "age": "~20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284157-cqYawN7XCNJx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284157
+      }
+    },
+    {
+      "id": "maine",
+      "name": "Maine",
+      "alt_names": [
+        "メイン"
+      ],
+      "role": "supporting",
+      "description": "Maine used to be a military soldier before he became a mercenary. Now a veteran edgerunner in Night City, Maine dreams of \"making it big\", although he values his friendships with his crew more than his own glory.",
+      "metadata": {
+        "gender": "male",
+        "age": "30s",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284159-RvuKShSpDOS5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284159
+      }
+    },
+    {
+      "id": "dorio",
+      "name": "Dorio",
+      "alt_names": [
+        "ドリオ"
+      ],
+      "role": "supporting",
+      "description": "Dorio is a veteran edgerunner and Maine's right-hand. She's jacked and strong, but despite her tough exterior, Dorio has a soft side that she only shows to the people she trusts.",
+      "metadata": {
+        "gender": "female",
+        "age": "30s",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284160-pfwyNhxrsZOP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284160
+      }
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi",
+      "alt_names": [
+        "キーウィ"
+      ],
+      "role": "supporting",
+      "description": "A member of Maine's crew of mercenaries, Kiwi is an enigmatic and snarky netrunner with a detachable cybernetic jaw. She also acts as a mentor to Lucy.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284161-QlVuoXKKONLM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284161
+      }
+    },
+    {
+      "id": "pilar",
+      "name": "Pilar",
+      "alt_names": [
+        "ピラル"
+      ],
+      "role": "supporting",
+      "description": "Pilar is an edgerunner of Night City, and is described as a comical and crude techie. He and his sister, Rebecca, often team up with Maine and his crew to conduct mercenary jobs.\n\n~!He dies when yelling at a cyberpsycho who was pissing on a metal drum.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "30s",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284162-KnRpkNpdbqx8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284162
+      }
+    },
+    {
+      "id": "rebecca",
+      "name": "Rebecca",
+      "alt_names": [
+        "レベッカ"
+      ],
+      "role": "supporting",
+      "description": "Rebecca is an edgerunner of Night City, and is described as a short, spunky, trigger-happy solo who is always fighting with her brother Pilar. The two siblings often team up with Maine and his crew to conduct mercenary jobs.",
+      "metadata": {
+        "gender": "female",
+        "age": "~20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284163-tt8smoAXl24x.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284163
+      }
+    },
+    {
+      "id": "ripperdoc",
+      "name": "Ripperdoc",
+      "alt_names": [
+        "リパードク"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284164-U9A3c65rl1il.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284164
+      }
+    },
+    {
+      "id": "faraday",
+      "name": "Faraday",
+      "alt_names": [
+        "ファラデー"
+      ],
+      "role": "supporting",
+      "description": "Faraday is a ruthless fixer with ties to Militech and a distinctive optic cyberware that gives him four eyes. He is based in Santo Domingo and often employs Maine to conduct jobs.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284165-sQpdUhtcWquN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284165
+      }
+    },
+    {
+      "id": "gloria-martinez",
+      "name": "Gloria Martinez",
+      "alt_names": [
+        "グロリア・マルティネズ"
+      ],
+      "role": "supporting",
+      "description": "Both Gloria and her son David live in an apartment of Megabuilding H4 in Santo Domingo, Night City. She is an emergency medical technician (EMT).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284166-nB27pcRfIxvj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284166
+      }
+    },
+    {
+      "id": "katsuo-tanaka",
+      "name": "Katsuo Tanaka",
+      "alt_names": [
+        "カツオ・タナカ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287410-D2qGjLD3wPp0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287410
+      }
+    },
+    {
+      "id": "falco",
+      "name": "Falco",
+      "alt_names": [
+        "ファルコ"
+      ],
+      "role": "supporting",
+      "description": "Falco is a Nomad wheelman, and part of Maine's edgerunner crew.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287420-AzHYB6Sjt2Vj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287420
+      }
+    },
+    {
+      "id": "gillean-jordan",
+      "name": "Gillean Jordan",
+      "alt_names": [
+        "ジリアン・ジョーダン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287424-d8kIR8tQHSKe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287424
+      }
+    },
+    {
+      "id": "jimmy-kurosaki",
+      "name": "Jimmy Kurosaki",
+      "alt_names": [
+        "ジミー・黒崎"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287439-lMrTnG8AWzg1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287439
+      }
+    },
+    {
+      "id": "tanaka",
+      "name": "Tanaka",
+      "alt_names": [
+        "タナカ"
+      ],
+      "role": "supporting",
+      "description": "Katsuo's father and a high-ranking executive on the Arasaka Academy board.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287442-8kfb2pqfqIiI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287442
+      }
+    },
+    {
+      "id": "aldo",
+      "name": "Aldo",
+      "alt_names": [
+        "アルド"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287451-1JCZGQndKaje.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287451
+      }
+    },
+    {
+      "id": "cyberpsycho",
+      "name": "Cyberpsycho",
+      "alt_names": [
+        "サイバーサイコ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287452-G21jwc9AVEUb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287452
+      }
+    },
+    {
+      "id": "delamain",
+      "name": "Delamain",
+      "alt_names": [
+        "デラマン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287455-RhQOyRmoFGSb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287455
+      }
+    },
+    {
+      "id": "adam-smasher",
+      "name": "Adam Smasher",
+      "alt_names": [
+        "アダム・スマッシャー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287490-Q8gZBPizCCGp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287490
+      }
+    },
+    {
+      "id": "wakako-okada",
+      "name": "Wakako Okada",
+      "alt_names": [
+        "ワカコ・オカダ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287939-5yh2JFEe6fUz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287939
+      }
+    },
+    {
+      "id": "julio",
+      "name": "Julio",
+      "alt_names": [
+        "フリオ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287940-EImqVzV8sirU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287940
+      }
+    },
+    {
+      "id": "jamie-netrunner",
+      "name": "Jamie (Netrunner)",
+      "alt_names": [
+        "ジェイミー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287941-WhpBw0FnNNy0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287941
+      }
+    },
+    {
+      "id": "isabella-morgan",
+      "name": "Isabella Morgan",
+      "alt_names": [
+        "イザベラ・モーガン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287942-YD7aREaeMhGr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287942
+      }
+    },
+    {
+      "id": "kate",
+      "name": "Kate",
+      "alt_names": [
+        "ケイト"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287947-ltdXiLP8WfJj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287947
+      }
+    },
+    {
+      "id": "douglas",
+      "name": "Douglas",
+      "alt_names": [
+        "ダグラス"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287948-DmFtvSaOwk4U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287948
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T21:19:13.717Z"
+}

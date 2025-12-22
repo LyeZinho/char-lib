@@ -1,0 +1,668 @@
+{
+  "work_id": "the-way-of-the-househusband",
+  "count": 28,
+  "characters": [
+    {
+      "id": "tatsu",
+      "name": "Tatsu",
+      "alt_names": [
+        "龍",
+        "Immortal Dragon",
+        "Tacchan"
+      ],
+      "role": "protagonist",
+      "description": "An ex-yakuza who now lives peacefully as a househusband.",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131519-KgmdjieEssj7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131519
+      }
+    },
+    {
+      "id": "masa",
+      "name": "Masa",
+      "alt_names": [
+        "雅"
+      ],
+      "role": "supporting",
+      "description": "Tatsu's former subordinate.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131520-qtGDNO05CsVX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131520
+      }
+    },
+    {
+      "id": "miku",
+      "name": "Miku",
+      "alt_names": [
+        "美久"
+      ],
+      "role": "supporting",
+      "description": "Tatsu's wife. A graphic designer who loves Policure",
+      "metadata": {
+        "gender": "female",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131521-6DGz4B3dTF84.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131521
+      }
+    },
+    {
+      "id": "torajirou",
+      "name": "Torajirou",
+      "alt_names": [
+        "虎二郎",
+        "Steelfist Tiger"
+      ],
+      "role": "supporting",
+      "description": "Torajirou was part of a yakuza gang that had a rivalry with Tatsu. He became a food truck owner after serving time in prison.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b151205-vDvCsLpjHkcz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 151205
+      }
+    },
+    {
+      "id": "hibari-torii",
+      "name": "Hibari Torii",
+      "alt_names": [
+        "酉井ひばり"
+      ],
+      "role": "supporting",
+      "description": "Boss lady of the Tori Clan. Currently employed in a supermarket to maintain income after the loss of her husband, the former Tori Clan leader",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180245-TocGYGkH719B.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180245
+      }
+    },
+    {
+      "id": "bob",
+      "name": "Bob",
+      "alt_names": [
+        "ボブ"
+      ],
+      "role": "supporting",
+      "description": "Tatsu’s neighbor.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180246-2pvti0vi2viB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180246
+      }
+    },
+    {
+      "id": "ryouta",
+      "name": "Ryouta",
+      "alt_names": [
+        "亮太"
+      ],
+      "role": "supporting",
+      "description": "Ryouta is a child from one of Tatsu's neighbors.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180247-4JbqUpkXQf31.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180247
+      }
+    },
+    {
+      "id": "urita",
+      "name": "Urita",
+      "alt_names": [
+        "瓜田"
+      ],
+      "role": "supporting",
+      "description": "Urita is a door-to-door salesman who sells fishy products.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180248-Oo2Wkv2TZgiK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180248
+      }
+    },
+    {
+      "id": "koharu",
+      "name": "Koharu",
+      "alt_names": [
+        "虎春"
+      ],
+      "role": "supporting",
+      "description": "[Torajirou](https://anilist.co/character/151205/)'s sister. She runs a donut stand.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206270-ACvEYr8Ck0Y3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 206270
+      }
+    },
+    {
+      "id": "gin",
+      "name": "Gin",
+      "alt_names": [
+        "銀"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215855-XtqtsBHITHej.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215855
+      }
+    },
+    {
+      "id": "buka",
+      "name": "Buka",
+      "alt_names": [
+        "部下",
+        "Policeman"
+      ],
+      "role": "supporting",
+      "description": "Buka is a police officer.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217251-Tj3T0efCuBPo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217251
+      }
+    },
+    {
+      "id": "nagai",
+      "name": "Nagai",
+      "alt_names": [
+        "長井",
+        "Policeman"
+      ],
+      "role": "supporting",
+      "description": "Nagai is a police officer.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217252-T06P9klAchw5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217252
+      }
+    },
+    {
+      "id": "wakagashira",
+      "name": "Wakagashira",
+      "alt_names": [
+        "若頭",
+        "Young Yakuza Lieutenant"
+      ],
+      "role": "supporting",
+      "description": "Wakagashira is a Young Yakuza Lieutenant.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217253-Dw3VBhcVAw3E.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217253
+      }
+    },
+    {
+      "id": "otaku",
+      "name": "Otaku",
+      "alt_names": [
+        "小宅"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217324-DRNKda93DcLs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217324
+      }
+    },
+    {
+      "id": "miku-no-haha",
+      "name": "Miku no Haha",
+      "alt_names": [
+        "美久の母",
+        "Miku's Mother"
+      ],
+      "role": "supporting",
+      "description": "She is Miku's Mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217359-85JmruHetNJQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217359
+      }
+    },
+    {
+      "id": "miku-no-chichi",
+      "name": "Miku no Chichi",
+      "alt_names": [
+        "美久の父",
+        "Miku's Father"
+      ],
+      "role": "supporting",
+      "description": "He is Miku's Father.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217360-qYqHsTgRjUbj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217360
+      }
+    },
+    {
+      "id": "kumichou",
+      "name": "Kumichou",
+      "alt_names": [
+        "組長",
+        "Boss"
+      ],
+      "role": "supporting",
+      "description": "Tatsu's former yakuza boss.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217378-GTxqc90CeCEb.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217378
+      }
+    },
+    {
+      "id": "shufu",
+      "name": "Shufu",
+      "alt_names": [
+        "主婦",
+        "Housewife"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217379-2jIpIm4gt9j1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217379
+      }
+    },
+    {
+      "id": "kaichou",
+      "name": "Kaichou",
+      "alt_names": [
+        "会長",
+        "Chairwoman"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217380-Ho7xqt2u2GsL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217380
+      }
+    },
+    {
+      "id": "gouda",
+      "name": "Gouda",
+      "alt_names": [
+        "剛田"
+      ],
+      "role": "supporting",
+      "description": "Gouda is a Yakuza that was formerly in the Hiroka Clan before it dissolved thanks to Tatsu.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b247509-NYZBNRVgmKqX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 247509
+      }
+    },
+    {
+      "id": "hirono",
+      "name": "Hirono",
+      "alt_names": [
+        "広野"
+      ],
+      "role": "supporting",
+      "description": "Hirono is a Yakuza belonging to the Kunimi Clan.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b251372-gKg2fk8CL7ec.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 251372
+      }
+    },
+    {
+      "id": "yuzuru",
+      "name": "Yuzuru",
+      "alt_names": [
+        "ゆずる"
+      ],
+      "role": "supporting",
+      "description": "Yuzuru is Yuriko's husband.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b251373-iQwnzcWHOiHb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 251373
+      }
+    },
+    {
+      "id": "yuriko",
+      "name": "Yuriko",
+      "alt_names": [
+        "百合子"
+      ],
+      "role": "supporting",
+      "description": "Yuriko is a friend of Miku's. She is Yuzuru's wife.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b251374-1xpwFXnm49Q3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 251374
+      }
+    },
+    {
+      "id": "master",
+      "name": "Master",
+      "alt_names": [
+        "マスター",
+        "Barkeep"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b251380-3xbFPvUaPK8C.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 251380
+      }
+    },
+    {
+      "id": "elizabeth",
+      "name": "Elizabeth",
+      "alt_names": [
+        "エリザベス"
+      ],
+      "role": "minor",
+      "description": "Elizabeth is a dog owned by Kunimi Group yakuza.",
+      "metadata": {
+        "gender": "female",
+        "age": "5",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217325-GHxlfnupvN7P.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217325
+      }
+    },
+    {
+      "id": "kai-neko",
+      "name": "Kai Neko",
+      "alt_names": [
+        "飼い猫",
+        "Housecat"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217326-dIAuGAuARCpK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217326
+      }
+    },
+    {
+      "id": "chen",
+      "name": "Chen",
+      "alt_names": [
+        "陳"
+      ],
+      "role": "minor",
+      "description": "He owns a curry shop.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b223577-k4qVcADPQc0L.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 223577
+      }
+    },
+    {
+      "id": "sumiyoshi",
+      "name": "Sumiyoshi",
+      "alt_names": [
+        "住吉",
+        "Keikan Sumiyoshi"
+      ],
+      "role": "minor",
+      "description": "A police officer at the Ninbashi station.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b228782-UY7wEj4hGU19.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 228782
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T22:00:23.286Z"
+}

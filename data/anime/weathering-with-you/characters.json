@@ -1,0 +1,495 @@
+{
+  "work_id": "weathering-with-you",
+  "count": 21,
+  "characters": [
+    {
+      "id": "hodaka-morishima",
+      "name": "Hodaka Morishima",
+      "alt_names": [
+        "森嶋帆高"
+      ],
+      "role": "protagonist",
+      "description": "__Height__: >173 cm\n\nHodaka is a high school student of average build with medium length black hair and light brown eyes. He is often seen wearing a plain black t-shirt and jeans along with his yellow knapsack that he carries along everywhere he goes. Hodoka ran away from his parents and home to live a new life in Tokyo as his previous life was too \"suffocating\" for him. However, after arriving in Tokyo, he struggled to live the new life he was hoping for and was forced to live in manga cafes and in the streets. Fortunately, he met [Keisuke Suga](https://anilist.co/character/139707/Keisuke-Suga), a writer for a small editing company, who took him in as an employee and gave Hodoka a roof over his head.\n\nHodoka is a courageous boy as he was able to leave his home by himself and start a new life in Tokyo. Accompanying his courageous trait however is an impulsive nature which often leads him to make irrational choices that cause many misunderstandings.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139709-LipsW9CYvlu1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139709
+      }
+    },
+    {
+      "id": "hina-amano",
+      "name": "Hina Amano",
+      "alt_names": [
+        "天野陽菜",
+        "100% Sunshine Girl"
+      ],
+      "role": "protagonist",
+      "description": "__Height__: > 160 cm\n\nHina is a young and cheerful girl with long black-blue hair tied into twin ponytails and large blue eyes. She wears a blue stone necklace and often wears a grey hoodie over a sleeveless dress. Hina takes in many jobs in other to support her younger brother who is still in elementary school. She possesses the ability to clear the weather for a short period of time in a desired area by praying to the sky which she obtained after praying and walking through a Torii (traditional Japanese gate) on the roof of an abandoned building.\n\nHina is a cheerful, energetic, and strong-willed teen. She is also a caring and kind individual as seen when she gives Hodoka a free burger when she noticed he looked lost. She uses her power to clear the weather to brighten people's days and see the smiles on their face.\n\n~!It was later revealed that she's only 15 years old.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "14-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139710-EnN2wXd5YeDb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139710
+      }
+    },
+    {
+      "id": "nagi-amano",
+      "name": "Nagi Amano",
+      "alt_names": [
+        "天野凪",
+        "Sempai"
+      ],
+      "role": "supporting",
+      "description": "He is [Hina](https://anilist.co/character/139710)'s younger brother who is an elementary student. Despite being young, he is popular with the girls due to his \"mature behavior\".\n\n(Source: Tenki no Ko Wikia, edited)",
+      "metadata": {
+        "gender": "male",
+        "age": "10-13",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139703-A9GVtE2EscpF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139703
+      }
+    },
+    {
+      "id": "fumi-tachibana",
+      "name": "Fumi Tachibana",
+      "alt_names": [
+        "立花冨美"
+      ],
+      "role": "supporting",
+      "description": "Taki Tachibana's paternal grandmother.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139704-wtkqueYgLPMw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139704
+      }
+    },
+    {
+      "id": "natsumi-suga",
+      "name": "Natsumi Suga",
+      "alt_names": [
+        "須賀夏美"
+      ],
+      "role": "supporting",
+      "description": "She is a curious student who works at a small editing studio.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139705-65t4At2MN9q8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139705
+      }
+    },
+    {
+      "id": "takai",
+      "name": "Takai",
+      "alt_names": [
+        "高井"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139706-aOA7CZxlfjPV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139706
+      }
+    },
+    {
+      "id": "keisuke-suga",
+      "name": "Keisuke Suga",
+      "alt_names": [
+        "須賀圭介",
+        "Kei"
+      ],
+      "role": "supporting",
+      "description": "He is a writer from a small editing studio.",
+      "metadata": {
+        "gender": "male",
+        "age": "42",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139707-xeFrO3OsCoYC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139707
+      }
+    },
+    {
+      "id": "detective-yasui",
+      "name": "Detective Yasui",
+      "alt_names": [
+        "安井",
+        "Yasui"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139708-iZk1c6rKJatW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139708
+      }
+    },
+    {
+      "id": "kana-sakura",
+      "name": "Kana Sakura",
+      "alt_names": [
+        "カナ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b172234-sbkFuzOIMEU4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 172234
+      }
+    },
+    {
+      "id": "uranai-obaba",
+      "name": "Uranai Obaba",
+      "alt_names": [
+        "占いおババ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174610-gadqFuQz3FaT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174610
+      }
+    },
+    {
+      "id": "ayane-hanazawa",
+      "name": "Ayane Hanazawa",
+      "alt_names": [
+        "花澤綾音",
+        "アヤネ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174611-1hNQ5WUFDpoF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174611
+      }
+    },
+    {
+      "id": "scoutman-kimura",
+      "name": "Scoutman Kimura",
+      "alt_names": [
+        "スカウトマン木村"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174612-qW6atbGoIrLn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174612
+      }
+    },
+    {
+      "id": "ame",
+      "name": "Ame",
+      "alt_names": [
+        "アメ"
+      ],
+      "role": "supporting",
+      "description": "He's a stray kitten that is adopted by Hodaka Morishima later Keisuke Suga.\n\n~!He became obese three years later.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174613-HsrRSOUcpV3b.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174613
+      }
+    },
+    {
+      "id": "sasaki-junsa",
+      "name": "Sasaki Junsa",
+      "alt_names": [
+        "佐々木巡査",
+        "Sgt. Sasaki"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174614-mVbMRgtGwIez.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174614
+      }
+    },
+    {
+      "id": "kannushi",
+      "name": "Kannushi",
+      "alt_names": [
+        "神主"
+      ],
+      "role": "supporting",
+      "description": "He is the caretaker of the Meteorological Shrine.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174615-d0S6m01WM8VI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174615
+      }
+    },
+    {
+      "id": "mamiya",
+      "name": "Mamiya",
+      "alt_names": [
+        "間宮",
+        "Mrs. Mamiya"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b227910-YWtqiBEky0GW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 227910
+      }
+    },
+    {
+      "id": "mitsuha-miyamizu",
+      "name": "Mitsuha Miyamizu",
+      "alt_names": [
+        "宮水三葉"
+      ],
+      "role": "minor",
+      "description": "**Height:** 163 cm\n~!**Age after timeskip:** 25-26!~\n\nShe lives in a small town called Itomori. She is a part of her family's shrine and participates in old traditions as a shrine maiden with her younger sister [Yotsuha](https://anilist.co/character/121518/Yotsuha-Miyamizu).",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121514-MGI7JRluscpz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121514
+      }
+    },
+    {
+      "id": "taki-tachibana",
+      "name": "Taki Tachibana",
+      "alt_names": [
+        "立花瀧"
+      ],
+      "role": "minor",
+      "description": "~!**Age after timeskip:** 22-23!~\n\nHe lives in Tokyo, juggling between his part-time job at an Italian restaurant, his relation with his friends, and his dreams to eventually become an architect.",
+      "metadata": {
+        "gender": "male",
+        "age": "14-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121516-kuPVJLNsH5uE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121516
+      }
+    },
+    {
+      "id": "yotsuha-miyamizu",
+      "name": "Yotsuha Miyamizu",
+      "alt_names": [
+        "宮水四葉"
+      ],
+      "role": "minor",
+      "description": "Mitsuha's younger sister, who lives with her and their grandmother. She thinks her sister is somewhat crazy but loves her despite the situation. She participates in creating both kumihimo and kuchikamizake.",
+      "metadata": {
+        "gender": "female",
+        "age": "9",
+        "dateOfBirth": "2004-07-02"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/121518-wB61TbuDbqOc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121518
+      }
+    },
+    {
+      "id": "sayaka-natori",
+      "name": "Sayaka Natori",
+      "alt_names": [
+        "名取早耶香"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/121521-Kicx28xd5UGp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121521
+      }
+    },
+    {
+      "id": "katsuhiko-teshigawara",
+      "name": "Katsuhiko Teshigawara",
+      "alt_names": [
+        "勅使河原克彦",
+        "Tessie"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/121524-aSUbujPYjFRX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121524
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T21:17:09.717Z"
+}

@@ -1,0 +1,221 @@
+{
+  "work_id": "i-want-to-eat-your-pancreas",
+  "count": 9,
+  "characters": [
+    {
+      "id": "haruki-shiga",
+      "name": "Haruki Shiga",
+      "alt_names": [
+        "志賀春樹",
+        "Boku (I)"
+      ],
+      "role": "protagonist",
+      "description": "A guy who incidentally found a book in the hospital titled \"Disease Coexistence Journal\" which is owned by his classmate Sakura Yamauchi.\n\n~!It is revealed in the last chapter of the novel that his name is Haruki Shiga (志賀春樹).!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127116-u2fIKMSYDdVj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127116
+      }
+    },
+    {
+      "id": "sakura-yamauchi",
+      "name": "Sakura Yamauchi",
+      "alt_names": [
+        "山内桜良"
+      ],
+      "role": "protagonist",
+      "description": "A high school student who suffers a pancreatic disease, having her lifespan cut in half. She has a diary called \"Living with Dying\" where she writes about her daily experiences, since her illness was first diagnosed. \n\nDespite her situation, she keeps her smile and even makes jokes about it.\n\n~!She was later stabbed after being discharged from the hospital and sadly passed away.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127118-XEvgt4yHSkQv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127118
+      }
+    },
+    {
+      "id": "issei-miyata",
+      "name": "Issei Miyata",
+      "alt_names": [
+        "宮田一晴",
+        "Gum Boy"
+      ],
+      "role": "supporting",
+      "description": "A classmate who started talking to Haruki, since meeting Haruki and Sakura. For some reason, he offers a piece of gum to Haruki whenever they talk.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133276-4KX7vtZ6oQfN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133276
+      }
+    },
+    {
+      "id": "takahiro",
+      "name": "Takahiro",
+      "alt_names": [
+        "隆弘"
+      ],
+      "role": "supporting",
+      "description": "Class representative who is in love with Sakura. He is very obstinate and gets jealous easily yet hides it to keep face with his classmates.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133277-yBGHCfo77UUv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133277
+      }
+    },
+    {
+      "id": "haruki-no-haha",
+      "name": "Haruki no Haha",
+      "alt_names": [
+        "春樹の母",
+        "Haruki's Mother",
+        "My Mother"
+      ],
+      "role": "supporting",
+      "description": "As his mother, she quietly and protectively watches over Haruki. Though she rarely intervenes, she has very good instincts.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b134460-PVwi6xwYXqTS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134460
+      }
+    },
+    {
+      "id": "kyoko-takimoto",
+      "name": "Kyoko Takimoto",
+      "alt_names": [
+        "滝本恭子"
+      ],
+      "role": "supporting",
+      "description": "Sakura’s best friend since they were little. She is protective of Sakura and will not let anyone who may be harmful near her. Very assertive.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b134461-0JqcCi30rN45.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134461
+      }
+    },
+    {
+      "id": "haruki-no-chichi",
+      "name": "Haruki no Chichi",
+      "alt_names": [
+        "春樹の父",
+        "Haruki's Father"
+      ],
+      "role": "supporting",
+      "description": "A humble and genuinely nice father, whose relationship with Haruki is neither good nor bad. Has a good relationship with his wife.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b134462-AeWlVY6YZryS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134462
+      }
+    },
+    {
+      "id": "sakura-no-haha",
+      "name": "Sakura no Haha",
+      "alt_names": [
+        "桜良の母",
+        "Sakura's Mother"
+      ],
+      "role": "supporting",
+      "description": "A very kind hearted woman, who strives to grant all of Sakura’s wishes since her daughter’s diagnosis.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b134463-SXhA6Tg1n00H.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134463
+      }
+    },
+    {
+      "id": "omawari-san-1",
+      "name": "Omawari-san 1",
+      "alt_names": [
+        "お巡りさん1",
+        "Police Man 1"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 377945
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T21:15:41.738Z"
+}

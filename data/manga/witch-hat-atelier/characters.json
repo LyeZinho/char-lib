@@ -1,0 +1,960 @@
+{
+  "work_id": "witch-hat-atelier",
+  "count": 40,
+  "characters": [
+    {
+      "id": "coco",
+      "name": "Coco",
+      "alt_names": [
+        "ココ"
+      ],
+      "role": "protagonist",
+      "description": "She is a young girl who becomes an apprentice witch under the witch Qifrey after her initial accidental use of forbidden magic turned her mother to crystal. She hopes to search the Tower of Books for the book containing the magic, in order to reverse its effects on her mother.\n\nShe is quite a dork for magic, with a child-like (even for her age) widen eyed look whenever she sees things that are common for every other witch. The very magic that inspired her was simple magic made by Qifrey's watcher that caused glowstone path to light up.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129840-B2CVE0TIcKpT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129840
+      }
+    },
+    {
+      "id": "qifrey",
+      "name": "Qifrey",
+      "alt_names": [
+        "キーフリー"
+      ],
+      "role": "protagonist",
+      "description": "Qifrey is a witch and Coco's teacher. He runs an atelier and currently has four disciples.\n\nHe is a caring teacher who patiently teaches his students magic. This is especially true for Coco, who has no special abilities as a witch at first but he continues to encourage her until she can draw magic skillfully. He is protective of all his disciples, as seen from how he protects them from being taken by Esheath from the Magic Security Council. However, Qifrey is overly obsessed with his goal to locate the Brimmed Hats, with his gentle attitude oftentimes replaced by a buried hatred he has always hidden. It appears he had a personal agenda against the Brimmed Hats, as well.\n\n~!The reason Qifrey has a grudge towards the Brimmed Hats is that they are responsible for taking away his memories and right eye as a child. He was later locked in a coffin, buried under a tree, and left there to die as it slowly filled with water. Thankfully, people from the Magic Security Council and Sage Beldarut found him and rescued him from his miserable condition, which later on he would become the pupil of Sage Beldarut. Qifrey also went to the Tower of Books in order to find an answer on how to solve the problem of his missing memories and right eye, but for that, he must use forbidden magic, and as such his issue remains unsolved.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129841-brgGFuOv1h0n.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129841
+      }
+    },
+    {
+      "id": "olruggio",
+      "name": "Olruggio",
+      "alt_names": [
+        "オルーギオ",
+        "Oruugio",
+        "Oru"
+      ],
+      "role": "protagonist",
+      "description": "He is a witch and serves as the Watchful Eye for Qifrey's atelier. He has a gruff way of speaking but his magic is often described as \"warm\". He has created a lot of magical items, such as the Glowstone Path, the Snugstone and the Searneedle Wand. His specialty is fire-based magic.\n\nHe is very caring to the apprentices and gives them things that might be helpful, as well as rushing to Qifrey's aid, but every time someone points out he's acting very nicely, he tries to brush it off as something anyone would do or to his work as watchful eye.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137972-4sSEu1132KZM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137972
+      }
+    },
+    {
+      "id": "richeh",
+      "name": "Richeh",
+      "alt_names": [
+        "リチェ",
+        "Riche",
+        "Richérotto",
+        "Riché",
+        "Richehlette"
+      ],
+      "role": "protagonist",
+      "description": "Richeh is a young witch in training and a disciple of Qifrey. She wants to keep her magic essentially \"pure\" and unchanged and resents having to do what others tell her to do. \n\nRicheh specializes in crystal magic, particularly in creating transparent crystal ribbons. She also excels at drawing small, intricate glyphs, and has been shown to be adept at connecting these together to form magical portal holes. She has a seemingly emotionless and childish personality. She avoids showing much emotion, though others can still notice emotions on her. She is particularly prone to showing that she's angry at people.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129838-DRjxUa0u7Lyg.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129838
+      }
+    },
+    {
+      "id": "tetia",
+      "name": "Tetia",
+      "alt_names": [
+        "テティア"
+      ],
+      "role": "protagonist",
+      "description": "Tetia is a young witch in training at Qifrey's Atelier. She loves clouds and dreams of creating the perfect cloud magic.\n\nShe's perpetually energetic and has a habit of thanking people for thanking her. Tetia is an extremely upbeat, loving girl that tries to help everyone she knows and keep the mood high.She is also the one who often gets everyone grounded and keeps the mood up by being loving to her friends.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129839-7KP7lqLC7ZdW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129839
+      }
+    },
+    {
+      "id": "agott-arkrome",
+      "name": "Agott Arkrome",
+      "alt_names": [
+        "アガット",
+        "Agete"
+      ],
+      "role": "protagonist",
+      "description": "Agott is a witch in training and Qifrey's student. She belongs to the famous Arkrome house, who have served as librarians at the Tower of Books for generations.\n\nShe has a tendency to focus on how much more she still needs to accomplish, leading her to express dissatisfaction with her current progress. Agott suffers from self-esteem issues over being considered merely average and she takes that out on others who she doesn't think either deserves magic or have the talent to do so, which is usually [Coco](https://anilist.co/character/129840/Coco).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129842-n9YfEU63mDNm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129842
+      }
+    },
+    {
+      "id": "tartah",
+      "name": "Tartah",
+      "alt_names": [
+        "タータ",
+        "Tartar"
+      ],
+      "role": "supporting",
+      "description": "Nolnoa's young assistant in the shop. He suffers from argentosis, a rare sight condition which makes him effectively colorblind and thus initially unable to use magic because certain effects rely on inks differentiated by their color. He becomes a dear friend to Coco, who helps him by teaching him magic with which to circumvent his disability.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158680-uSo7mCDoFqoA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158680
+      }
+    },
+    {
+      "id": "easthies",
+      "name": "Easthies",
+      "alt_names": [
+        "イースヒース",
+        "Estheath",
+        "Ysheath"
+      ],
+      "role": "supporting",
+      "description": "A member of the Knights Moralis and the leader of a squad of five.\n\nA strict and serious individual, he is pretty stern and does not care about trivial things such as his birthday. Work is his top priority, he is dedicated to his job of enforcing the law and has no interest for his appearance or personal care. He shows himself to be ruthless, ignoring the pleas of others and does not hesitate to take action as a Knight.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158683-zwBynDci5MwD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158683
+      }
+    },
+    {
+      "id": "ininia",
+      "name": "Ininia",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Ininia is an apprentice witch currently serving under a mysterious witch named Restis.\n\nShe is very lawful to her master, Lord Restis. Ininia talks in third person and is very aloof, barely showing any emotion. She also has a very simple view on friendship, viewing those as friends as ones that will be spared from her more harmful magic.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b255935-f8vwbASRwXql.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 255935
+      }
+    },
+    {
+      "id": "alaira",
+      "name": "Alaira",
+      "alt_names": [
+        "アライラ"
+      ],
+      "role": "supporting",
+      "description": "Alaira is a senior witch who lives at the Witch Auditorium. She is friends with Qifrey.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137973-fSPnGrGZ5Ffh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137973
+      }
+    },
+    {
+      "id": "euini",
+      "name": "Euini",
+      "alt_names": [
+        "ユイニィ",
+        "Eunie"
+      ],
+      "role": "supporting",
+      "description": "He is a nervous apprentice witch studying under Kukrow.\n\nEuini is a very anxious witch who worries about his own abilities and is very aware of his own faults; he confesses that he is most comfortable practicing magic when there isn't an audience watching him. Euini tends to think lowly of himself and that causes him to under-perform in any given situation.\n\n(Source: Witch Hat Atelier Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158684-rzE9MKjufnlZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158684
+      }
+    },
+    {
+      "id": "beldaruit",
+      "name": "Beldaruit",
+      "alt_names": [
+        "ベルダルート",
+        "The Wise in Teachings"
+      ],
+      "role": "supporting",
+      "description": "One of the Three Wise, he is responsible for overseeing the education of new witches. He was also Qifrey's professor.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b249346-bVlhzMjeI2A2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 249346
+      }
+    },
+    {
+      "id": "nolnoa",
+      "name": "Nolnoa",
+      "alt_names": [
+        "ノルノア"
+      ],
+      "role": "supporting",
+      "description": "Nolnoa is an old witch who runs a magic shop called The Starry Sword with his grandson Tartah in the town of Kalhn.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158681-eob3QnRJZUKV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158681
+      }
+    },
+    {
+      "id": "iguin",
+      "name": "Iguin",
+      "alt_names": [
+        "イグイーン",
+        "The Book Selling Witch",
+        "Sight of the World",
+        "The Lidless Eye"
+      ],
+      "role": "supporting",
+      "description": "Iguin is the Brimmed Hat Witch who sold a book of forbidden magic to Coco. His motivation is somewhat unknown, but it has something to do with Coco. He appears to be incredibly powerful, possessing magic that is beyond the scope of normal witches. Iguin also has incredible agility, being able to jump while casting magic. He rarely appears except to interfere with Coco from the sidelines.\n\n(Source: Witch Hat Atelier Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163622-7JwIdTTnctpV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 163622
+      }
+    },
+    {
+      "id": "luluci",
+      "name": "Luluci",
+      "alt_names": [
+        "ルルシィ"
+      ],
+      "role": "supporting",
+      "description": "Member of the Knight Moralis.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219490-9jG2lowO73B8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 219490
+      }
+    },
+    {
+      "id": "coustas",
+      "name": "Coustas",
+      "alt_names": [
+        "クスタス",
+        "Custas"
+      ],
+      "role": "supporting",
+      "description": "He is a young boy with dark skin, dark eyes, and long dark hair. He is occasionally drawn with sharp and noticeable canines. After an incident that left his legs unusable, he also uses a sealchair.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b236474-5bE9cQlFgAJU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 236474
+      }
+    },
+    {
+      "id": "dagda",
+      "name": "Dagda",
+      "alt_names": [
+        "ダグザ"
+      ],
+      "role": "supporting",
+      "description": "Dagda is a traveling minstrel. He appears alongside the boy Coustas who is like a son to him.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b249347-ArSM8UJWTOlc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 249347
+      }
+    },
+    {
+      "id": "utowin",
+      "name": "Utowin",
+      "alt_names": [
+        "ウトウィン"
+      ],
+      "role": "supporting",
+      "description": "Member of the Knights Moralis. He works directly under Easthies.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b253736-VsMSQqogFzTI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 253736
+      }
+    },
+    {
+      "id": "deanreldy-ezrest",
+      "name": "Deanreldy Ezrest",
+      "alt_names": [
+        "ディンレルディ・エズレスト",
+        "Island King"
+      ],
+      "role": "supporting",
+      "description": "The king of Ezrest and ruler of the Six Monarchs of Zozah Peninsula, and the father of Eolio Ezrest, Ezrest's prince.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b318196-se5V9wI9shvh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 318196
+      }
+    },
+    {
+      "id": "riliphin",
+      "name": "Riliphin",
+      "alt_names": [
+        "リリフィン",
+        "利利芬"
+      ],
+      "role": "supporting",
+      "description": "Riliphin is Richeh's older brother and an apprentice witch.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331253-pJ5zHKH1utIM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331253
+      }
+    },
+    {
+      "id": "laglah",
+      "name": "Laglah",
+      "alt_names": [
+        "ラーグラー",
+        "Sage of Friendship"
+      ],
+      "role": "supporting",
+      "description": "Laglah is one of the Three Wise, succeding the previous Wise of Friendship, Engendill.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331254-p4QSA1A8qTli.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331254
+      }
+    },
+    {
+      "id": "cladd",
+      "name": "Cladd",
+      "alt_names": [
+        "クラッド",
+        "Lord Cladd"
+      ],
+      "role": "supporting",
+      "description": "Lord Cladd is a noble lord of the Cladd Territory and a member of the Cladd Family, and father of Princess Mia.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331255-6lqgJPtiLwkF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331255
+      }
+    },
+    {
+      "id": "ermile",
+      "name": "Ermile",
+      "alt_names": [
+        "エルマイル"
+      ],
+      "role": "supporting",
+      "description": "Ermile is one of the unknowings working as a doctor within the Healing Spire together with Sinocia and the other doctors employed there.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331256-S1JTq6diodKN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331256
+      }
+    },
+    {
+      "id": "mia",
+      "name": "Mia",
+      "alt_names": [
+        "ミア",
+        "Princess Mia"
+      ],
+      "role": "supporting",
+      "description": "Princess Mia is a noble princess of the Cladd Territory. She is a member of the Cladd Family, and daughter of Lord Cladd, as well as the fiance of her unnamed future groom, who is a member of the Norwill Clan.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331257-2kdXfKtQyloC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331257
+      }
+    },
+    {
+      "id": "eolio",
+      "name": "Eolio",
+      "alt_names": [
+        "エオレオ",
+        "Prince"
+      ],
+      "role": "supporting",
+      "description": "Eolio is the son of Deanreldea Ezrest, thus making him the prince of the Zozah Peninsula.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331258-1iKDvTSmFPxz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331258
+      }
+    },
+    {
+      "id": "sasaran",
+      "name": "Sasaran",
+      "alt_names": [
+        "ササラン",
+        "杀杀狼",
+        "Empty Cloak Witch"
+      ],
+      "role": "supporting",
+      "description": "Sasaran, also known as the \"Empty Cloak Witch\" and the \"very embodiment of forbidden magic\" is a mysterious member of the Brimmed Cap Group.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331259-yKA3jChDVX5d.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331259
+      }
+    },
+    {
+      "id": "fudemushi",
+      "name": "Fudemushi",
+      "alt_names": [
+        "フデムシ",
+        "Brushbuddy",
+        "Pinpin"
+      ],
+      "role": "supporting",
+      "description": "A member of a species called the brushbuddy.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331260-gFDtCsnBWfq7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331260
+      }
+    },
+    {
+      "id": "coco-no-haha",
+      "name": "Coco no Haha",
+      "alt_names": [
+        "ココの母"
+      ],
+      "role": "supporting",
+      "description": "Coco's mother is a middle-aged woman who owns her own tailoring shop. She raised Coco by herself after her husband died.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331261-zkM3WYS1ZCh4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331261
+      }
+    },
+    {
+      "id": "sinocia",
+      "name": "Sinocia",
+      "alt_names": [
+        "シノーシア"
+      ],
+      "role": "supporting",
+      "description": "Sinocia is an Unknowing doctor working at the Healing Spire.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331262-FdbZaGbAVTCM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331262
+      }
+    },
+    {
+      "id": "ekoh",
+      "name": "Ekoh",
+      "alt_names": [
+        "エコー",
+        "艾可",
+        "Echo"
+      ],
+      "role": "supporting",
+      "description": "Ekoh is a member of the Knights Moralis and the younger twin brother of Etlan.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331263-NC6dORhJNijC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331263
+      }
+    },
+    {
+      "id": "restys",
+      "name": "Restys",
+      "alt_names": [
+        "レスティス",
+        "Lestis"
+      ],
+      "role": "supporting",
+      "description": "Restys is a Brimmed Cap Witch currently tutoring Ininia and Custas.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331264-tYPhyoYb31VB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331264
+      }
+    },
+    {
+      "id": "galga",
+      "name": "Galga",
+      "alt_names": [
+        "ガルガ",
+        "加尔",
+        "Garga"
+      ],
+      "role": "supporting",
+      "description": "Galga is a member of the Knights Moralis.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331274-I8wPCAQY3Aeo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331274
+      }
+    },
+    {
+      "id": "etlan",
+      "name": "Etlan",
+      "alt_names": [
+        "エトラン",
+        "艾特兰",
+        "Etranne"
+      ],
+      "role": "supporting",
+      "description": "Etlan is a member of the Knights Moralis and the older twin brother of Ekoh.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331275-yr8tEDIZ9HQn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331275
+      }
+    },
+    {
+      "id": "loroga-lowenton",
+      "name": "Loroga Lowenton",
+      "alt_names": [
+        "ロロガ・ローウェントン"
+      ],
+      "role": "supporting",
+      "description": "Loroga is a young apprentice witch at the Great Hall.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331276-34PvCqVGLCq5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331276
+      }
+    },
+    {
+      "id": "atwert",
+      "name": "Atwert",
+      "alt_names": [
+        "アトワート"
+      ],
+      "role": "supporting",
+      "description": "Atwert is a Pointed Hat Witch that is introduced as Galga's lover.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331277-hqFIgByjQINE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331277
+      }
+    },
+    {
+      "id": "jujy",
+      "name": "Jujy",
+      "alt_names": [
+        "ジュジー"
+      ],
+      "role": "supporting",
+      "description": "Jujy is an apprentice learning under the witch Hieheart.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331278-E4ipN2XhtPYI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331278
+      }
+    },
+    {
+      "id": "kukrow",
+      "name": "Kukrow",
+      "alt_names": [
+        "クックロウ",
+        "Cuckrow"
+      ],
+      "role": "supporting",
+      "description": "He is the disparaging teacher of Euini.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331279-559pzlWnNVE6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331279
+      }
+    },
+    {
+      "id": "vinanna",
+      "name": "Vinanna",
+      "alt_names": [
+        "ヴィナンナ",
+        "The Wise in Principles"
+      ],
+      "role": "supporting",
+      "description": "Vinanna is one of the Three Wise. She is the \"Wise in Principles\", and is responsible for adjudicating transgressions of magic law.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331280-uLtZPf4ikRHv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331280
+      }
+    },
+    {
+      "id": "hieheart",
+      "name": "Hieheart",
+      "alt_names": [
+        "ハイハート",
+        "Hayhart"
+      ],
+      "role": "supporting",
+      "description": "Hieheart is a witch and Jujy's professor.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331281-hEakzaU1Q5KC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331281
+      }
+    },
+    {
+      "id": "engendale",
+      "name": "Engendale",
+      "alt_names": [
+        "エンゲンディル",
+        "Sage of Friendship"
+      ],
+      "role": "supporting",
+      "description": "Engendale is a former member of the Three Wise.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b347317-FZaNLCPYAu7U.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 347317
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T22:00:55.880Z"
+}

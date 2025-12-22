@@ -1,14 +1,14 @@
 {
-  "generated_at": "2025-12-22T20:41:00.908Z",
+  "generated_at": "2025-12-22T22:05:29.842Z",
   "types": {
     "anime": {
-      "works_count": 100,
-      "characters_count": 2982,
-      "genres_count": 17
+      "works_count": 129,
+      "characters_count": 3724,
+      "genres_count": 18
     },
     "manga": {
-      "works_count": 50,
-      "characters_count": 1261,
+      "works_count": 65,
+      "characters_count": 2546,
       "genres_count": 15
     },
     "game": {
@@ -17,83 +17,85 @@
       "genres_count": 4
     }
   },
-  "total_works": 152,
-  "total_characters": 4246,
-  "total_genres": 36,
+  "total_works": 196,
+  "total_characters": 6273,
+  "total_genres": 37,
   "average_score": 81,
   "database_info": {
     "first_import": "2025-12-22T12:09:22.201Z",
-    "last_import": "2025-12-22T19:38:31.334Z",
-    "total_file_size": 5127632,
-    "average_characters_per_work": 27.93
+    "last_import": "2025-12-22T22:03:05.736Z",
+    "total_file_size": 7189163,
+    "average_characters_per_work": 32.01
   },
   "distribution": {
     "by_status": {
-      "FINISHED": 133,
-      "RELEASING": 16,
+      "FINISHED": 170,
+      "RELEASING": 23,
       "Finished Airing": 1,
       "unknown": 2
     },
     "by_source": {
-      "AniList": 149,
+      "AniList": 193,
       "MyAnimeList": 1,
       "RAWG": 2
     },
     "top_genres": [
       {
         "genre": "Action",
-        "count": 102
+        "count": 124
       },
       {
         "genre": "Drama",
-        "count": 91
-      },
-      {
-        "genre": "Adventure",
-        "count": 61
-      },
-      {
-        "genre": "Comedy",
-        "count": 60
+        "count": 121
       },
       {
         "genre": "Supernatural",
-        "count": 57
+        "count": 77
+      },
+      {
+        "genre": "Comedy",
+        "count": 76
+      },
+      {
+        "genre": "Adventure",
+        "count": 73
       },
       {
         "genre": "Fantasy",
-        "count": 54
+        "count": 66
       },
       {
         "genre": "Psychological",
-        "count": 38
+        "count": 50
       },
       {
         "genre": "Mystery",
-        "count": 35
+        "count": 45
       },
       {
         "genre": "Romance",
-        "count": 28
+        "count": 43
       },
       {
-        "genre": "Sci-Fi",
-        "count": 24
+        "genre": "Slice of Life",
+        "count": 33
       }
     ],
     "by_format": {
-      "MOVIE": 5,
-      "TV": 94,
+      "MOVIE": 9,
+      "TV": 116,
+      "ONA": 2,
       "Movie": 1,
-      "MANGA": 49,
+      "TV_SHORT": 1,
+      "MANGA": 64,
       "ONE_SHOT": 1,
       "unknown": 2
     }
   },
   "performance": {
     "last_updated_by_type": {
-      "anime": "2025-12-22T19:19:11.908Z",
-      "manga": "2025-12-22T19:38:31.334Z",
+      "anime": "2025-12-22T22:02:05.392Z",
+      "manga": "2025-12-22T22:03:05.736Z",
       "game": "2025-12-22T18:40:30.185Z"
     }
   }

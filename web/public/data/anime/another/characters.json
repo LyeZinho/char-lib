@@ -1,6 +1,6 @@
 {
   "work_id": "another",
-  "count": 25,
+  "count": 33,
   "characters": [
     {
       "id": "kouichi-sakakibara",
@@ -560,7 +560,185 @@
       "external_ids": {
         "anilist": 58853
       }
+    },
+    {
+      "id": "sayuri-kakinuma",
+      "name": "Sayuri Kakinuma",
+      "alt_names": [
+        "柿沼小百合"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58855-uglQSSmGRZ3R.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58855
+      }
+    },
+    {
+      "id": "katsumi-matsunaga",
+      "name": "Katsumi Matsunaga",
+      "alt_names": [
+        "松永克己"
+      ],
+      "role": "supporting",
+      "description": "A former Yomiyama North Middle School student from Class 3-3 of 1983.  ~!During 1983, he managed to successfully stop the calamity in class 3-3; the only recorded case of the phenomenon stopping halfway through the year. Afraid he would forget his findings, he recorded his theories and confession on an audio casette for future students to find. After graduation, he moved to Tokyo to pursue his studies. He became a banker, but dropped out after a few years, returning to Yomiyama to help with the family business. He is a regular at Inoya Cafė, where Tomoka Inose works.!~ (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58861-cmaMkSIeUuwu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58861
+      }
+    },
+    {
+      "id": "makoto-ouji",
+      "name": "Makoto Ouji",
+      "alt_names": [
+        "王子誠"
+      ],
+      "role": "supporting",
+      "description": "Class 3-3 students.   ~!He was burned to death when the dining hall exploded.!~  (Source: Another Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58865-f8LnQuODV3xH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58865
+      }
+    },
+    {
+      "id": "manabu-maejima",
+      "name": "Manabu Maejima",
+      "alt_names": [
+        "前島学"
+      ],
+      "role": "supporting",
+      "description": "Student in Class 3-3.   ~! In the novel,he dies during the assasin attack while in the manga he dies in the fire.In the anime he was stabbed but Kouichi and the others found him and bring him outside.!~\n(Source: Another Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58867-dq4HmEOyqrF9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58867
+      }
+    },
+    {
+      "id": "noboru-saruta",
+      "name": "Noboru Saruta",
+      "alt_names": [
+        "猿田昇"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58869-iJ6nIM7rLa39.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58869
+      }
+    },
+    {
+      "id": "yukito-tsujii",
+      "name": "Yukito Tsujii",
+      "alt_names": [
+        "辻井雪人"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58875-QxH5hiHArqrz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58875
+      }
+    },
+    {
+      "id": "junta-nakao",
+      "name": "Junta Nakao",
+      "alt_names": [
+        "中尾順太"
+      ],
+      "role": "supporting",
+      "description": "3-3 classmate. He appears to have a crush on Akazawa. He also seems to be car sick.    ~!While swimming to the beach ball which had flown into sea he gets unconscious and he was probably already dead while he was floating in the water. Seconds after Kouichi, Naoya and Katsumi rushed into the water to help him he got hit by a boat. After his funeral Chibiki shares his thoughts with Kouichi and Mei. According to the police and his parents he had hit his head which was the cause of his death which meant the cause of the death happened in Yomiyama. !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/58881.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58881
+      }
+    },
+    {
+      "id": "misaki-fujioka",
+      "name": "Misaki Fujioka",
+      "alt_names": [
+        "藤岡未咲"
+      ],
+      "role": "supporting",
+      "description": "Mei's cousin.   ~!Mei and her are twins at birth, but due to circumstances, one was adopted.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58923-hCPBRJtv5WGL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58923
+      }
     }
   ],
-  "updated_at": "2025-12-22T17:54:47.849Z"
+  "updated_at": "2025-12-22T22:02:00.628Z"
 }

@@ -1,0 +1,485 @@
+{
+  "work_id": "the-fragrant-flower-blooms-with-dignity",
+  "count": 20,
+  "characters": [
+    {
+      "id": "kaoruko-waguri",
+      "name": "Kaoruko Waguri",
+      "alt_names": [
+        "和栗薫子"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 148 cm\n\nAn ace student at Kikyo Private Academy. Kaoruko is incredibly intelligent and kind, but often acts airheaded as well. She greatly enjoys eating sweets, meeting [Rintaro](https://anilist.co/character/268677/Rintarou-Tsumugi) in his family's cake shop and quickly befriending him. Despite later learning that he attends Chidori High—a school at bitter odds with her own—she continues to be close with him.\n\n~!Later, Rintaro confesses to Kaoruko and shortly after she returns his feelings, revealing that she has had feelings for him for much longer than what Rintaro remembers as their initial meeting.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268676-aQmqvqj0DNoJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268676
+      }
+    },
+    {
+      "id": "rintarou-tsumugi",
+      "name": "Rintarou Tsumugi",
+      "alt_names": [
+        "紬凛太郎"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 190 cm\n\nA student at Chidori High. Rintarou is a very kind and calm person, but his blonde hair and piercings—adopted due to struggles with self-expression in his childhood—have led to many writing him off as a delinquent. The exceptions to this are his close friends at Chidori High, as well as [Kaoruko](https://anilist.co/character/268676), a girl from an opposing school known as Kikyo Private Academy. After first meeting Kaoruko in his family's cake shop, Rintarou gradually begins to spend more time with her.\n\n~!Later, Rintarou falls for Kaoruko and confesses his feelings to her. While this causes some awkwardness between the two at first, she eventually returns his feelings and they begin dating.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268677-oTCZrGWtenMv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268677
+      }
+    },
+    {
+      "id": "subaru-hoshina",
+      "name": "Subaru Hoshina",
+      "alt_names": [
+        "保科昴"
+      ],
+      "role": "supporting",
+      "description": "[Kaoruko](https://anilist.co/character/268676/Kaoruko-Waguri)'s closest friend since middle school. Subaru is noted to be exceptionally pretty by her peers but has a somewhat withdrawn personality, particularly having trouble whilst talking to boys. She's also very protective of Kaoruko, initially disapproving of her relationship with [Rintaro](https://anilist.co/character/268677/Rintarou-Tsumugi) and the others before discovering how kindhearted the boys are.\n\n~!Despite becoming friendly with the Chidori High boys, Subaru feels as though she doesn't fit in with the group despite wanting to be close with them. However, with Kaoruko and the boys' help she reaffirms her friendship with them, even becoming comfortable enough to casually tease [Saku](https://anilist.co/character/272241/Saku-Natsusawa) and bring him presents for his birthday.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270095-Z5KpvacVXp1S.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270095
+      }
+    },
+    {
+      "id": "shohei-usami",
+      "name": "Shohei Usami",
+      "alt_names": [
+        "宇佐美翔平"
+      ],
+      "role": "supporting",
+      "description": "A student at Chidori High and a close friend of [Rintaro](https://anilist.co/character/268677/Rintarou-Tsumugi)'s, alongside [Ayato](https://anilist.co/character/272243/Ayato-Yorita) and [Saku](https://anilist.co/character/272241/Saku-Natsusawa). Shohei is extremely outgoing, being the most talkative member of Rintaro's friend group. He also holds no hostility towards Kikyo's students despite the opposing school's vitriol towards each other.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b272240-1okw3miy0dPX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 272240
+      }
+    },
+    {
+      "id": "saku-natsusawa",
+      "name": "Saku Natsusawa",
+      "alt_names": [
+        "夏沢朔"
+      ],
+      "role": "supporting",
+      "description": "A student at Chidori High and a close friend of [Rintaro](https://anilist.co/character/268677/Rintarou-Tsumugi)'s, alongside [Shouhei](https://anilist.co/character/272240/Shohei-Usami) and [Ayato](https://anilist.co/character/272243/Ayato-Yorita).\n\nDespite his attractive features he always appears gloomy, making makes him appear hard to talk to. But while he is more withdrawn than his friends he cares deeply about them and is naturally kind despite his cynical exterior. He is also incredibly intelligent, being the smartest student at Chidori High and even outdoing Kikyo's students, as noted by [Subaru](https://anilist.co/character/270095/Subaru-Hoshina) who begins to study with him.\n\n~!Due to his standing as a genius he became isolated from his peers in middle school, resulting in his current introverted personality.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b272241-6NHTwQDIUXQk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 272241
+      }
+    },
+    {
+      "id": "ayato-yorita",
+      "name": "Ayato Yorita",
+      "alt_names": [
+        "依田絢斗"
+      ],
+      "role": "supporting",
+      "description": "A student at Chidori High and a close friend of [Rintarou](https://anilist.co/character/268677/Rintarou-Tsumugi)'s, along with [Saku](https://anilist.co/character/272241/Saku-Natsusawa) and [Shohei](https://anilist.co/character/272240/Shohei-Usami). Ayato is rather friendly, and while he prefers to avoid situations involving violence, he is highly capable of defending himself and will readily fight should his friends be threatened.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b272243-i9xYmuUQaI3q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 272243
+      }
+    },
+    {
+      "id": "kyouko-tsumugi",
+      "name": "Kyouko Tsumugi",
+      "alt_names": [
+        "紬杏子",
+        "Rintaro's Mother"
+      ],
+      "role": "supporting",
+      "description": "[Rintaro](https://anilist.co/character/268677/Rintarou-Tsumugi)'s mother. She runs the Tsumugi Family Bakery alongside her husband [Keichiro](https://anilist.co/character/299398/Keichiro-Tsumugi).",
+      "metadata": {
+        "gender": "female",
+        "age": "45",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b286245-iZhNiS29Mw2B.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 286245
+      }
+    },
+    {
+      "id": "keichiro-tsumugi",
+      "name": "Keichiro Tsumugi",
+      "alt_names": [
+        "紬圭一郎"
+      ],
+      "role": "supporting",
+      "description": "[Rintaro](https://anilist.co/character/268677/Rintarou-Tsumugi)'s father. He runs the Tsumugi Family Bakery alongside his wife [Kyouko](https://anilist.co/character/286245/Kyouko-Tsumugi). He is dedicated to his work as a baker, spending nearly every day in the kitchen perfecting his technique.",
+      "metadata": {
+        "gender": "male",
+        "age": "47",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b299398-Xs4z2ZR8lywB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 299398
+      }
+    },
+    {
+      "id": "madoka-yuzuhara",
+      "name": "Madoka Yuzuhara",
+      "alt_names": [
+        "柚原まどか"
+      ],
+      "role": "supporting",
+      "description": "A good friend of [Kaoruko](https://anilist.co/character/268676/Kaoruko-Waguri)'s that attends Kikyo Private Academy. Extremely friendly and outgoing, and unlike her fellow classmates at Kikyo, harbors no animosity or negative feelings towards the students at Chidori High.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312197-fVxaGSxid7oF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312197
+      }
+    },
+    {
+      "id": "kousuke-waguri",
+      "name": "Kousuke Waguri",
+      "alt_names": [
+        "和栗洸介"
+      ],
+      "role": "supporting",
+      "description": "[Kaoruko](https://anilist.co/character/268676/Kaoruko-Waguri)'s brother.",
+      "metadata": {
+        "gender": "male",
+        "age": "13",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312201-A2vZqjtjfnLa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312201
+      }
+    },
+    {
+      "id": "fuuko-waguri",
+      "name": "Fuuko Waguri",
+      "alt_names": [
+        "和栗楓子"
+      ],
+      "role": "supporting",
+      "description": "[Kaoruko](https://anilist.co/character/268676/Kaoruko-Waguri)'s mother.",
+      "metadata": {
+        "gender": "female",
+        "age": "46",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312202-SB2XNOtOEvIw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312202
+      }
+    },
+    {
+      "id": "mio-natsusawa",
+      "name": "Mio Natsusawa",
+      "alt_names": [
+        "夏沢澪"
+      ],
+      "role": "supporting",
+      "description": "[Saku](https://anilist.co/character/272241/Saku-Natsusawa)'s younger sister.",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312203-n0UsKHCgeU4t.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312203
+      }
+    },
+    {
+      "id": "chisa-minamoto",
+      "name": "Chisa Minamoto",
+      "alt_names": [
+        "源千紗"
+      ],
+      "role": "supporting",
+      "description": "[Kaoruko's](https://anilist.co/character/268676/Kaoruko-Waguri) friend and classmate at Kikyo Private Academy.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312258-JI5qducsifMY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312258
+      }
+    },
+    {
+      "id": "ayumi-sawatari",
+      "name": "Ayumi Sawatari",
+      "alt_names": [
+        "沢渡亜由美"
+      ],
+      "role": "supporting",
+      "description": "A good friend and classmate of [Kaoruko](https://anilist.co/character/268676/Kaoruko-Waguri)'s, and a student at Kikyo Private Academy. Raised in a strict and accomplished family, she grew to rely on the negative rumors about the students at Chidori Public High School to protect her self-esteem.\n\n~!Later, with Kaoruko's help, she overcomes her self esteem issues and becomes friends with the Chidori High boys, letting go of her previous preconceptions of them.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312259-lVFZJJ0cjLTA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312259
+      }
+    },
+    {
+      "id": "suzuka-asakura",
+      "name": "Suzuka Asakura",
+      "alt_names": [
+        "浅倉すずか"
+      ],
+      "role": "supporting",
+      "description": "A friend of [Kaoruko](https://anilist.co/character/268676/Kaoruko-Waguri)'s, and a student at Kikyo Private Academy.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312260-4YsLvZoIhitx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312260
+      }
+    },
+    {
+      "id": "soutarou-tsumugi",
+      "name": "Soutarou Tsumugi",
+      "alt_names": [
+        "紬宗太郎"
+      ],
+      "role": "supporting",
+      "description": "[Rintarou](https://anilist.co/character/268677/Rintarou-Tsumugi)'s older brother. He moved out of his family's house and works as a beautician.",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b334758-Ip6MDjXutI7s.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 334758
+      }
+    },
+    {
+      "id": "satsuki-nabata",
+      "name": "Satsuki Nabata",
+      "alt_names": [
+        "菜畑皐月"
+      ],
+      "role": "supporting",
+      "description": "Classmate of [Tsumugi Rintaro](https://anilist.co/character/268677/Rintarou-Tsumugi) from middle school. She was initially scared of him but gradually learnt about his gentle nature. She dyes her hair blonde after being inspired by Tsumugi to change.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b348803-FXiJF920Qnan.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 348803
+      }
+    },
+    {
+      "id": "reo-hidaka",
+      "name": "Reo Hidaka",
+      "alt_names": [
+        "飛鷹怜央"
+      ],
+      "role": "supporting",
+      "description": "Reo was a friend and study partner to [Saku Natsusawa](https://anilist.co/character/272241/Saku-Natsusawa), before they got into a disagreement and parted ways.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b371378-cbEm2t5xiUzf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 371378
+      }
+    },
+    {
+      "id": "ayame-toki",
+      "name": "Ayame Toki",
+      "alt_names": [
+        "土岐菖蒲"
+      ],
+      "role": "supporting",
+      "description": "Teacher & student guidance counselor at Kikyo Private Academy. Homeroom teacher for [Kaoruko](https://anilist.co/character/268676/Kaoruko-Waguri)’s class; extremely strict and holds bias against Chidori students.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b376746-ksE9CoC7AfRj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 376746
+      }
+    },
+    {
+      "id": "tsukada-shin",
+      "name": "Tsukada Shin",
+      "alt_names": [
+        "塚田慎",
+        "Tsuka-chan"
+      ],
+      "role": "minor",
+      "description": "Professor of Rintaro and his friends at Chidori High.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b286246-AC7LfzvbhWl3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 286246
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T22:00:33.796Z"
+}

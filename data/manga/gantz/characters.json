@@ -1,0 +1,2264 @@
+{
+  "work_id": "gantz",
+  "count": 100,
+  "characters": [
+    {
+      "id": "kei-kurono",
+      "name": "Kei Kurono",
+      "alt_names": [
+        "玄野計",
+        "Midday Lantern"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 168 cm\n\nKei is a 10th grader summoned by Gantz, along with [Kato](https://anilist.co/character/3111/Masaru-Katou), after being hit by a subway train in an effort to help a hobo passed out on the tracks. \nInitially Gantz refers to Kurono as \"Bitch\" and \"Loser\", though he settles on \"Kurono\" as the series progresses.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2867-So343NC24fTM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2867
+      }
+    },
+    {
+      "id": "masaru-katou",
+      "name": "Masaru Katou",
+      "alt_names": [
+        "加藤勝"
+      ],
+      "role": "protagonist",
+      "description": "Height: 192 cm  Masaru Katou has a good personality; he loves to help people and easily cares for everyone. His parents are dead so he is responsible for his younger brother who he is fiercely protective of. Katou usually takes the position of being a leader because he has good authority, but is unable to hurt others which hinders his performance in the game of Gantz.  Masaru Katou was Kei Kurono's childhood friend. They meet each other again the day they die because Katou was trying to help a drunk off of the train line, with Kurono reluctantly lending him a hand.",
+      "metadata": {
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n3111-ndAzAa5N4gEh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 3111
+      }
+    },
+    {
+      "id": "shion-izumi",
+      "name": "Shion Izumi",
+      "alt_names": [
+        "和泉 紫音"
+      ],
+      "role": "protagonist",
+      "description": "~!He was a psychotic yet powerful teenager who participated in the game and won his freedom before the series's events. He desired to return to the game and used a SMG and a pistol to rampage through Shinjuku, killing Hiroto Sakurai, Kenzo Sakata, and Daizaemon Kaze, and either injuring or killing 387 bystanders in broad daylight. He thus not only brought Gantz new participants but also himself because he was killed by Kurono in a standoff. He is an incredible swordsman and was the first to use the Gantz Saber, a katana with a retractable blade that was hidden in one of the apartment's rooms. He can easily be seen as Kei Kurono's \"unfeeling\" and arrogant rival whose only ambition is to live his life striving to be the best Gantz fighter. He has proved willing to take innocent lives to make it happen (e.g. killing Tae Kojima in one of the missions.) When he earned 100 points for the second time, Izumi chose Option #2 - a strong weapon. Before he can use it, however, he is attacked by a legion of vampires in front of his apartment. After he killed all of them, the four vampire leaders attack him. Izumi managed to kill three of the leaders and was in combat with the blonde vampire before his girlfriend, Ryōko, tried to save him from the blonde vampire. Izumi protected her from the final blow by shielding her with his back. He then marveled at the scores of dead vampires he felled and states that he is definitely going to hell. As of the end of Phase I, Shion Izumi has not been revived.  (Source: Wikipedia)!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n5518-fP3ZlcW4tiDa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5518
+      }
+    },
+    {
+      "id": "joichiro-nishi",
+      "name": "Joichiro Nishi",
+      "alt_names": [
+        "西丈一郎"
+      ],
+      "role": "protagonist",
+      "description": "Joichiro Nishi is a middle-school veteran of the Gantz world, having arrived there over a year before the beginning of the series. While running away from police officers after shoplifting, he fled onto an apartment building roof where he fell to his death.    Much like how Kurono started out, he is also selfish and has a Social Darwinist approach to life. Nishi is reluctant to reveal anything about the Gantz or himself, but he runs a web site where he posts information about it (carefully avoiding Gantz&#039;s rule about informing outsiders, which would in turn prove fatal). Gantz calls him &quot;Mr. Nishi,&quot; which is rather interesting given how informally or derisively he refers to most of the other participants.      ~!Nishi is killed at the beginning of the Tanaka/Suzuki Alien mission, but after six months of existing only inside Gantz&#039;s memory banks, he is revived by Kaze at Kurono&#039;s request following the end of the Oni mission. Ostensibly, Kurono hopes that Nishi will be able to provide information about Gantz to the game players.     After being ostracized and bullied by his classmates, which ended with them hurling him out of the classroom window, he has killed all of them (except one girl who had a crush on him and did not support the rest in wanting to chase him out of the school). After this, civil armed forces are sent to kill Nishi. Nishi manages to kill many of the men sent to kill him, but after an intense battle with the armed forces he is severely wounded and was only able to avoid death because Gantz called the Hunters for a new mission.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5519-hShgcXNVMUEz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5519
+      }
+    },
+    {
+      "id": "hiroto-sakurai",
+      "name": "Hiroto Sakurai",
+      "alt_names": [
+        "桜井 弘斗",
+        "Cherry"
+      ],
+      "role": "protagonist",
+      "description": "He is a psychic who receives instructions on how to unlock his latent powers from Sakata after attempting suicide. He is then encouraged by Sakata to kill his bullies who sexually abused him with the use of his powers, which he does. However, he later regrets it, realizing how it feels to be a murderer. When he and Sakata witness Izumi's Shinjuku massacre, he insists in trying to stop Izumi and convinces Sakata to join him, arguing that it is a good opportunity to redeem themselves for the murders they committed themselves. While they do put up a good fight, Izumi still does manage to kill both, leading them to Gantz.  A phenomenal learner, he masters his abilities rather quickly. He dies in the fight against the Flame Oni, but is revived by Sakata. Gantz calls him \"Cherry\", taken from the Japanese Sakura and which is his online handle. He has a girlfriend named Tonkotsu who he first met after he murdered the people who abused him. With her, he is seen trying to catch murderers using his psychic powers, in order to further redeem himself. After the mission in Osaka, Gantz names him \"no longer a Cherry (Cherry is also the way Japanese address a virgin boy. No longer a Cherry in this term means that he is no longer a virgin)\".",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5521-PpYggFeEp98i.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5521
+      }
+    },
+    {
+      "id": "reika-shimohira",
+      "name": "Reika Shimohira",
+      "alt_names": [
+        "下平玲花"
+      ],
+      "role": "protagonist",
+      "description": "She is a beautiful, young and popular idol. Like almost everyone else, she is caught in the line of fire during Izumi's killing spree in Shinjuku. She develops a crush on Kurono after seeing him in action during her first night as a participant in the game. Surprisingly enough, she proves to be a formidable opponent against the Aliens.   \n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5523-ctPgXRMABCR6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5523
+      }
+    },
+    {
+      "id": "daizaemon-kaze",
+      "name": "Daizaemon Kaze",
+      "alt_names": [
+        "風 大左衛門",
+        "Muscle Rider"
+      ],
+      "role": "protagonist",
+      "description": "A tall and incredibly powerful martial artist who came from the countryside to Tokyo looking for a good fight. One of his signature moves is the \"back attack\", in which he thrusts his back against his enemies with incredible force, often sending them flying. He died against Izumi in the Shinjuku massacre. He seems to care about Takeshi, a young child who recently joined the game and admires Kaze as his \"Muscle Rider\" savior. On Kurono's request, he uses his points to revive Nishi. Gantz calls him \"Countryside General,\" and later on \"Muscle Rider.\" He has chosen to remain in the Gantz game in order to both continue testing his strength and fighting skills against more powerful enemies and to protect Takeshi. Despite his cold outlook, he does have a softer side - in fact, he wept when he thinks of how Takeshi dies at such a young age without ever having experienced love.  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5524-4w9uthtLOly0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5524
+      }
+    },
+    {
+      "id": "tae-kojima",
+      "name": "Tae Kojima",
+      "alt_names": [
+        "小島多恵"
+      ],
+      "role": "protagonist",
+      "description": "She is Kurono's first actual girlfriend, first dated on a dare. He actually falls in love with her, and they build a real relationship, Kurono appearing to be very protective of her.  \n\n~!After taking pictures of the Game's participants during their mission, she immediately becomes the next target (considering Gantz wants to remain unknown to outsiders). To end the mission and preserve his points, Shion Izumi takes the pleasure of murdering Tae (while Kei and Reika want to deliberately fail the mission by protecting her life), but Reika later on brings her back to life. Similar to Kurono, she also realizes parts of her memory were missing, as hinted by pictures of her with Kurono and her paintings of him. Much of Phase 3 involves Kurono trying to rescue her from the giants. !~  \n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8787-ppyi8Q9THoYe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8787
+      }
+    },
+    {
+      "id": "kei-kishimoto",
+      "name": "Kei Kishimoto",
+      "alt_names": [
+        "岸本恵",
+        "Big Tits",
+        "Miss Melons"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 160 cm \n\nKei Kishimoto appeared in the Gantz room naked due to her committing suicide in the bath. Originally Kurono is infatuated with Kishimoto. Yet Kishimoto doesn't feel the same way as she's very much in love with Katou, who reciprocates. Gantz gives her many nicknames such as \"Big Tits\" due to her incredibly large breasts.",
+      "metadata": {
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n2953-SLWoP3dH14AR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2953
+      }
+    },
+    {
+      "id": "masanobu-hojo",
+      "name": "Masanobu Hojo",
+      "alt_names": [
+        "北条政信",
+        "Homo"
+      ],
+      "role": "supporting",
+      "description": "A former model who died after being hit by a truck driver who fell asleep. At his time of death, his stalker, Sadako, was on the back of the bike he borrowed to escape her. (from Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4310-fFdepfmqyDH7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4310
+      }
+    },
+    {
+      "id": "sei-sakuraoka",
+      "name": "Sei Sakuraoka",
+      "alt_names": [
+        "楼丘聖"
+      ],
+      "role": "supporting",
+      "description": "Height: 177 cm    Soon after her first appearance, she has sex with Kurono Kei. This does not appear to be for any particular reason (aside from the fact that he asked and she stated that he was cute), however as Kurono displays his bravery and cunning through the Buddha mission Sei becomes fascinated by him. Before the second half of the mission, she asks Kurono if he will be her boyfriend. When he agrees, she states that she will take him for a ride in her car upon their return.     ~!After the majority of the Gantz Team fall to the Buddha Temple boss Sei realizes that Kurono does not feel the same way about her - instead he thinks more of the deceased Kishimoto than her. Seeing the boss approach, she asks Kurono if he would love her if she defeated the enemy. Once she receives her answer, she fights against it both solo and with her bare fists. Although Sei is able to injure the alien she is unable to defeat it and she dies defending Kurono.!~     ~!When Kaze asks Kurono who he wishes to revive, Kurono briefly deliberates between her and Kishimoto. In the end, he chooses neither and revives Nishi Joichiro.    Sei has not been revived since the end of Phase I. !~",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4311-EUm1LUKhDJkA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4311
+      }
+    },
+    {
+      "id": "sadayo-suzumura",
+      "name": "Sadayo Suzumura",
+      "alt_names": [
+        "鈴村貞代",
+        "Sadako"
+      ],
+      "role": "supporting",
+      "description": "She was a stalker of Masanobu. She died after being hit by a truck driver who fell asleep. Her nickname given by Gantz, \"Sadako,\" is due to her bearing an extremely uncanny and creepy resemblance to the homicidal \"ghost\" Sadako in the Japanese \"Ringu\" horror novels and movies.  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4410-85PWYXCvgO2a.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4410
+      }
+    },
+    {
+      "id": "yoshikazu-suzuki",
+      "name": "Yoshikazu Suzuki",
+      "alt_names": [
+        "鈴木 良一",
+        "Old Man"
+      ],
+      "role": "supporting",
+      "description": "Yoshikazu Suzuki (鈴木 良一 Suzuki Yoshikazu?), best known as \"Old Man\" (おっちゃん Occhan?). Not much is known about him except that he is a fairly old widower who has a grandson. Surprisingly, it does not take long for Kurono to grow attached to him and vice versa. He sees Kurono as a role model, and even gives his 100 points to revive his friend Masaru Kato so that Kei may leave the game. He sees Kurono as the world's hope for \"survival\". He has saved Kei's life multiple times and he emulates Kei. After Kei dies however, it seems as if his morale lowers and he sides with the majority on not trying to help others because it was too dangerous. During the mission in Italy, he is killed by dismemberment while protecting Inaba from a group of new powerful enemies.  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/5520.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5520
+      }
+    },
+    {
+      "id": "kenzo-sakata",
+      "name": "Kenzo Sakata",
+      "alt_names": [
+        "坂田 研三"
+      ],
+      "role": "supporting",
+      "description": "Kenzo Sakata (坂田 研三, Sakata Kenzō?) is another psychic. He teaches Hiroto Sakurai to use his latent psychic powers, thus Sakurai refers to him as &quot;master&quot;. He and Sakurai die while trying to stop Izumi's massacre in Shinjuku, leading to his arrival to Gantz. He seems to have an unorthodox view on people's lives; he tells Sakurai that he was like him once and that he himself has killed, and encourages his pupil to kill those bullying him. Gantz calls him &quot;Stupid Newb&quot; and &quot;Dumbass&quot;. His psychic powers are significantly reduced, and a recent medical examination indicates that continued use of his powers has significantly aged his internal organs. After the Oni mission he uses his 100 points to revive Sakurai.      ~!In the Osaka mission however, he says that they should forget about the dead and that by bringing them back it &quot;cheapens&quot; their lives. He is killed in the battle of Nurarihyon by holding off the 100-point alien while the rest of the Tokyo team escapes.!~     (Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5522-iz7iNxqJZiZS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5522
+      }
+    },
+    {
+      "id": "hoi-hoi",
+      "name": "Hoi Hoi",
+      "alt_names": [
+        "開開"
+      ],
+      "role": "supporting",
+      "description": "Dead animals can also enter the Gantz room. The first animal seen in the Gantz room was a dog (Butter Dog). Hoi Hoi the panda entered the room a while after the dog got killed in the Buddha arc, like every other character, save Kurono. Hoi Hoi is especially fond of Izumi and can be seen hugging him whenever a chance presents itself. Like the butter dog in the two missions before he was crushed (in the anime) who hadn't gained a single point by then, it will be difficult for animals who enter the Gantz game to survive or even clear it. It is assumed that most animals who enter the game usually die when wandering around and eventually leaving the selected location and have their heads blown up.    \n\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13674-829RwZiRHloU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 13674
+      }
+    },
+    {
+      "id": "hikawa",
+      "name": "Hikawa",
+      "alt_names": [
+        "Host Samurai"
+      ],
+      "role": "supporting",
+      "description": "&quot;Host Samurai&quot; is the leader of the vampires, who fight against the Gantz players. He appears as a handsome man with shoulder-length light hair. He is shown to be a skilled fighter and swordsman who cares only for himself. When questioned by his partner, &quot;Kill Bill&quot;, if he would miss her if she died, he hesitantly responds that he wouldn&#039;t. He is transported to the Gantz room after killing Kurono and holding onto Suzuki, intending to kill him next. Gantz nicknames him &quot;Host Samurai,&quot; as a reference to hostesses. He is placed under the same limitations as the other players, but later kills members of the Osaka Gantz team. Like the other players, Host Samurai is sent free after the Italian mission. With &quot;Kill Bill&quot;, he leaves the others and tells her that he doesn&#039;t feel like eliminating them at that moment.    (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b14334-iHtju4BX2wOn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 14334
+      }
+    },
+    {
+      "id": "takeshi-koumoto",
+      "name": "Takeshi Koumoto",
+      "alt_names": [
+        "コウモト タケシ"
+      ],
+      "role": "supporting",
+      "description": "He is a young boy of toddler's age who dies due to abuse from his mother's boyfriend. His mother had been half-asleep and gave the hungry Takeshi permission to eat pudding from the refrigerator. When her boyfriend later comes home, he reacts violently and unintentionally kills Takeshi. Takeshi does not die instantly, and his mother and her boyfriend leave him, believing him to be alive. Before his death, draws a fictional hero called \"Muscle Rider\", and when he awakes inside Gantz's room as a participant in the game he believes that Kaze is \"Muscle Rider\". Kaze watches over Takeshi during his first mission, and Kaze later decides to let him stay with him after learning of Takeshi's cause of death. Takeshi continues to believe that Kaze is Muscle Rider. By chapter 240, he discovers and uses the abilities of the suit, including the utilization of the \"back attack\", Kaze's signature move. Despite Takeshi's small size, he is capable of defending himself against average opponents. Having imitated Kaze's fighting style, Takeshi manages to dispel a group of monsters that surround him, as well as injure a rather large creature that comes from the river, earning himself 26 points at the end of the mission. He later even lands a surprise attack on the Gantz veteran, Nishi.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b15451-kujZUPPT7Zkg.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 15451
+      }
+    },
+    {
+      "id": "gantz",
+      "name": "Gantz",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Gantz gives out individual suits for each person there. The suits give them great strength, speed, jumping ability, and protection from harm. There are also three types of guns at the start, the controller, and a room with swords and two vehicles. Additional weapons and items are gained from the hundred point menu. When each person reaches a hundred points they are given three choices:  1. Get your memories erased and be set free to the normal world 2. Get a stronger weapon 3. Revive a deceased person within Gantz memory",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/19290.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19290
+      }
+    },
+    {
+      "id": "inaba-kouki",
+      "name": "Inaba Kouki",
+      "alt_names": [
+        "稲葉光輝"
+      ],
+      "role": "supporting",
+      "description": "An ordinary Joe, gunned down in the Shinjuku massacre. His full-time occupation is later revealed to be as a designer. He is the only participant apart from Izumi that does not train with Kurono as he thinks Kurono should not be leader. He even sides with Izumi during the Tae Alien mission to assassinate Tae. Eventually, he realizes his only chance of survival is under Kurono&#039;s guidance. And at the end of the Oni mission, he gives Kurono his support. He is quite the coward when it comes to fighting, and tries to feign a cool head in these situations. It is hinted at numerous occasions that he is attracted to Reika, and he has admitted the fact to an Oni Alien he thought was Reika, subsequently having sex with the alien. After the Oni mission, he gains respect for Kurono and believes that Kurono could actually become the group leader. Despite the fact that Kurono dies, he still participates with the other Gantz team members in fighting the aliens.    (Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19460-s6ZzSScYavF7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19460
+      }
+    },
+    {
+      "id": "sebastian",
+      "name": "Sebastian",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/25622.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 25622
+      }
+    },
+    {
+      "id": "tetsuo-nemoto",
+      "name": "Tetsuo Nemoto",
+      "alt_names": [
+        "根本鉄男"
+      ],
+      "role": "supporting",
+      "description": "Has a wife and a son. Head of a small gang.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b28060-7WYbrWRahExR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 28060
+      }
+    },
+    {
+      "id": "anzu-yamasaki",
+      "name": "Anzu Yamasaki",
+      "alt_names": [
+        "山崎杏"
+      ],
+      "role": "supporting",
+      "description": "Part of the Osaka Gantz Team.   \n\nShe first sees Kato Masaru help a family from one of the aliens. Bewildered by his actions, she asks him what he was doing. When he responded that he was saving the family, she immediately laughs at him. Initially she follows him around while waiting for him to show a contradiction in his actions and words. When he does not show one and even puts himself in danger to save others, she leaves his side. Feeling strangely guilty, she returns to help Kato defeat the alien he was facing. Unfortunately she gets in his way more than anything else and Kato ends up rescuing her. \n\nYamasaki continues to follow Kato throughout the next few chapters, and finds herself attracted to his kindness and compassion. In the end she tells him about her son (she feels closer to Kato after he tells her of a similar situation between himself and his younger brother). After Kato announces that he will act as bait for the 100 point alien, Yamasaki asks Kato if he and his brother will move in with her and her son. In order to make this reality, she vows to not let Kato die no matter what.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/28107-nz34MWO8lOpe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 28107
+      }
+    },
+    {
+      "id": "jouji-shimaki",
+      "name": "Jouji  Shimaki",
+      "alt_names": [
+        "島木譲二",
+        "George"
+      ],
+      "role": "supporting",
+      "description": "He is a veteran of Osaka Team. He finished the game 3 times. And he was the first one to show how the H- Gun works.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b28108-XMcdeIP56HNM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 28108
+      }
+    },
+    {
+      "id": "kurokami-no-onna",
+      "name": "Kurokami no Onna",
+      "alt_names": [
+        "黒髪の女",
+        "Chiaki",
+        "Killbill"
+      ],
+      "role": "supporting",
+      "description": "She is a vampire under \"Host Samurai\"'s leadership. Although Akira Kurono tries to protect her, Host Samurai defeats him and takes her. She then appears as vampire attacking Kei Kurono, and after she attempts to kills Reika and is sent to the Gantz room with Host Samurai. She is a skilled fighter who uses a katana in battle though that can be debated as she was swiftly taken out and nearly killed by one of the yokai aliens. She is quiet and rarely shows emotion, prompting her partner to become surprised when she laughs at the nickname Gantz gives him.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b28390-s9NgZxTBhqxI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 28390
+      }
+    },
+    {
+      "id": "oka-hachirou",
+      "name": "Oka Hachirou",
+      "alt_names": [
+        "岡 八郎"
+      ],
+      "role": "supporting",
+      "description": "Oka Hachirou is an almost legendarily skilled Gantzer from the Osaka Team, a veteran of a very large number of games, he was said to have gained a hundred points at least seven times. Oka is a brilliant tactician and hand-to-hand fighter, using all of his equipment to his advantage. He uses his advanced suit's abilities to stay invisible and hidden until he locates the strongest alien among all. Although his equipment is more superior, when he faces an enemy he can´t beat, he has sense enough to retreat without getting his emotions in his way.  His advanced suit includes : a build in X-ray scanner, a beam weapon that fires out of its palms, sharp swords protruding out from the back of the elbows, a complete conceal of the body wearer, leaving no point in which a psychic attack may rip  someone apart. The wearer can also unhook their arms from the larger robotic arms so they can use weapons and equipment. Oka also fights with a mecha, flying monowheel, H-gun, and a normal \"Gantz sword\".",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b28703-nemf5F3W5HtY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 28703
+      }
+    },
+    {
+      "id": "nobuo-muroya",
+      "name": "Nobuo Muroya",
+      "alt_names": [
+        "Knob "
+      ],
+      "role": "supporting",
+      "description": "A veteran of the Osaka team and has cleared the game 4 times.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b28737-h3k3UJLHKsMV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 28737
+      }
+    },
+    {
+      "id": "hiroshi-hatanaka",
+      "name": "Hiroshi Hatanaka",
+      "alt_names": [
+        "畑中寛"
+      ],
+      "role": "supporting",
+      "description": "Hatanaka is the Yakuza who grabbed Kishimoto after she appeared naked, and dragged her off to the back room to rape her. His horrible actions were stopped by Kato. He was killed in the Onion Alien mission, as the father alien grabbed him and used him as a shield against someone&#039;s shot, thus he getting hit, and exploding.    He arrived in the room with holes in his clothing, from being shot to death earlier that day.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31762-S5hsVuQpOEte.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31762
+      }
+    },
+    {
+      "id": "masashi-yamada",
+      "name": "Masashi Yamada",
+      "alt_names": [
+        "山田雅史"
+      ],
+      "role": "supporting",
+      "description": "A school teacher revived by Gantz.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/31763.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31763
+      }
+    },
+    {
+      "id": "gorou-suzuki",
+      "name": "Gorou Suzuki",
+      "alt_names": [
+        "鈴木吾郎"
+      ],
+      "role": "supporting",
+      "description": "A politician dying from cancer.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31790-fsRnNVA6a6Ey.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31790
+      }
+    },
+    {
+      "id": "tachibana-yonekura",
+      "name": "Tachibana Yonekura",
+      "alt_names": [
+        "米倉正智"
+      ],
+      "role": "supporting",
+      "description": "Leader of a gang, is a dentist's son.   Collects peoples teeth of those he bullies.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31796-JORlXzHolY3t.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31796
+      }
+    },
+    {
+      "id": "kyohiko-matsumura",
+      "name": "Kyohiko Matsumura",
+      "alt_names": [
+        "松村清彦"
+      ],
+      "role": "supporting",
+      "description": "Kuruno's classmate that gets bullied by Yonekura.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/31797.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31797
+      }
+    },
+    {
+      "id": "kiyoshi-yoshioka",
+      "name": "Kiyoshi Yoshioka",
+      "alt_names": [
+        "吉岡清"
+      ],
+      "role": "supporting",
+      "description": "One of two Yakuza who arrived in the Gantz room before the start of the Onion Alien mission. Like his partner in crime, he had bullet holes in his clothing, indicating that he died from gunfire. He dies his first mission out.    Trivia: The internet meme face &quot;Y U No Guy&quot; originated from Kiyoshi&#039;s expression in chapter 55 of Gantz.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/31832.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31832
+      }
+    },
+    {
+      "id": "chiaki-onizuka",
+      "name": "Chiaki Onizuka",
+      "alt_names": [
+        "鬼塚千明"
+      ],
+      "role": "supporting",
+      "description": "Is a bully, and hangs out in the junior toilets.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31833-RXakdzJyv74z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31833
+      }
+    },
+    {
+      "id": "ayumu-katou",
+      "name": "Ayumu Katou",
+      "alt_names": [
+        "加藤歩"
+      ],
+      "role": "supporting",
+      "description": "[Masaru's](https://anilist.co/character/3111/Katou-Masaru) little brother.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31834-NCWOHjalkrjJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31834
+      }
+    },
+    {
+      "id": "ryouta-sugimoto",
+      "name": "Ryouta Sugimoto",
+      "alt_names": [
+        "杉本亮太",
+        "Ryouta Sugihara"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31835-u1AHGYIni8yr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31835
+      }
+    },
+    {
+      "id": "haruya-numata",
+      "name": "Haruya Numata",
+      "alt_names": [
+        "沼田春哉"
+      ],
+      "role": "supporting",
+      "description": "One of the underlings of Nemoto Tetsuo. One of the hunters at the Tanaka Aliens mission.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/31836.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31836
+      }
+    },
+    {
+      "id": "kayo-sugimoto",
+      "name": "Kayo Sugimoto",
+      "alt_names": [
+        "杉本カヨ",
+        "Kayo Sugihara"
+      ],
+      "role": "supporting",
+      "description": "A grandmother pulled in by gantz. Likes to spoil her grandson.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/31852.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31852
+      }
+    },
+    {
+      "id": "nishikawa-shinsuke",
+      "name": "Nishikawa Shinsuke",
+      "alt_names": [
+        "西川信介",
+        "Kinji"
+      ],
+      "role": "supporting",
+      "description": "Zoku Biker Gang Member 3) Before the mission, him and his gang gets jumped by a rival gang, he gets killed during the fight. Gets killed by Gantz, by having his head explode because he was walking out of the \"playing zone.\"",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/31853.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31853
+      }
+    },
+    {
+      "id": "kosuke-nakajima",
+      "name": "Kosuke Nakajima",
+      "alt_names": [
+        "中島康介"
+      ],
+      "role": "supporting",
+      "description": "One of the underlings of Nemoto Tetsuo. One of the hunters at the Tanaka Aliens mission.   ~!Shoots Nishi with an X-gun before the mission starts, but Nishi's suit absorbs the damage, and Nishi then kills him with his own X-gun. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31854-h5BxD3vZCHxP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31854
+      }
+    },
+    {
+      "id": "shiroi-kishimoto",
+      "name": "Shiroi Kishimoto",
+      "alt_names": [
+        "岸本しおり"
+      ],
+      "role": "supporting",
+      "description": "Shiori Kishimoto is Kei Kishimoto's younger sister.  After Kei Kishimoto failed to get good grades, her mother stated she was worthless, and shifted all of her attention towards Shiori. This led to Kei's suicide. Nothing else is known about Shiori.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31855-02cy27NimcR1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31855
+      }
+    },
+    {
+      "id": "juzo-togo",
+      "name": "Juzo Togo",
+      "alt_names": [
+        "東郷 十三"
+      ],
+      "role": "supporting",
+      "description": "Juzo Togo is a member of the Tokyo Team also known as the Gantz Team in one of their missions.\n\nHe entered the JSDF with a university degree and quickly showed himself to be a capable sniper, it can be assumed that he mostly lay in wait protecting high priority people and events.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31857-3pAgwl2IWBkw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31857
+      }
+    },
+    {
+      "id": "kiyoshi-miyafuji",
+      "name": "Kiyoshi Miyafuji",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/31859.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31859
+      }
+    },
+    {
+      "id": "kyou-hanaki",
+      "name": "Kyou Hanaki",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Hanaki Kyou is a member of the Osaka Team, who is first seen while injecting heroin. Unlike the other members of the Osaka Team, he is capable of using the bike to approach the enemy at speed, before leaping off and defeating it with a gun. ~!He is also seen while trying to snipe the 100-Pointer, even though he fails and ends up dying.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b33822-hJV0rNVhsRIH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 33822
+      }
+    },
+    {
+      "id": "kazuo-kuwabara",
+      "name": "Kazuo Kuwabara",
+      "alt_names": [
+        "桑原 和男",
+        "Hentai"
+      ],
+      "role": "supporting",
+      "description": "A veteran member of the Osaka team who has cleared the game three times before the Nuri mission. He has sex with \"everything that has a wet hole\" (quoted by Anzu) before he kills it.    ~!During the mission, the 100 point alien grabs him and tries to suffocate him, and in the process, knowing that he'll die, Kuwabara has sex with the alien before the inevitable (the alien is a shapeshifter, and his current shape was a demon made out of hundreds of nude women). And he takes drugs before the hunt like the other Osaka Team members. He was caught by Kato and was ran to safety, he is one of the only survivors of the Osaka Gantz team currently. After the mission he decided that he wants to leave Gantz. !~  In a special chapter dedicated for Osaka team, it was shown that his occupation is an english teacher. Other's attitude towards him suggest that he only show his perveted side to few people, especially Gantz team.   (Source: Gantz Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b34686-WG0jrjZU7UlO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 34686
+      }
+    },
+    {
+      "id": "akira-kurono",
+      "name": "Akira Kurono",
+      "alt_names": [
+        "玄野アキラ"
+      ],
+      "role": "supporting",
+      "description": "Akira Kurono is Kei Kurono's younger brother. Despite their age difference, Akira looks older than he does. Their parents treated Akira much better and favored him because of his achievements. Kei and Akira did not get along well, and eventually Kei moved away to escape his family. Akira enjoyed his life, having a girlfriend and doing well in school, but began to notice changes, such a skin condition developing on his back and headaches.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b34842-bgl4Vt5igXHl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 34842
+      }
+    },
+    {
+      "id": "fra-rarada",
+      "name": "Fra Rarada",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "A citizen of the giant aliens. When Kei and Tae get stuck on the alien ship, she helps them reunite.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/38079.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 38079
+      }
+    },
+    {
+      "id": "eeva-gund",
+      "name": "Eeva Gund",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "His civilization calls him the &quot;God of War.&quot; He is their national hero according to Fra. He is out to seek vengence on Kurono for killing his brother, Oltra. Hes incredibly fast and powerful, not even Kaze, Kato and both Kuronos were able to harm him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/40513.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 40513
+      }
+    },
+    {
+      "id": "takeda-hyouma",
+      "name": "Takeda Hyouma",
+      "alt_names": [
+        "武田 彪馬"
+      ],
+      "role": "supporting",
+      "description": "He is a hunter from Kanagawa. He responded to Kurono's and Reika's call, to join the Tokyo team and fight against the invading aliens. He seems more interested in Reika, than the fight considering that he jealously asked Kato if he was Reika's boyfriend. Takeda seems to be more of a gentlemen type.   He assists his team in rescuing humans from the Mothership. When they are attacked, he attempts to retaliate using the H-Gun but he couldn't fire it as a human was caught by the three headed beast.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/43205.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 43205
+      }
+    },
+    {
+      "id": "mary-mclane",
+      "name": "Mary McLane",
+      "alt_names": [
+        "メアリー マクレーン"
+      ],
+      "role": "supporting",
+      "description": "Hunter who responded the call to join the Tokyo team on the fight against the invading aliens.  She is not a gaijin and can't speak english.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/45727.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 45727
+      }
+    },
+    {
+      "id": "kikuchi-seiichi",
+      "name": "Kikuchi Seiichi",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Is an journalist who comes in contact with Kurono after seeing his name on a website dedicated to GANTZ. He has been tracking the story of GANTZ for two years.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/70635.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70635
+      }
+    },
+    {
+      "id": "yoshikawa-kaiji",
+      "name": "Yoshikawa Kaiji",
+      "alt_names": [
+        "吉川 海司"
+      ],
+      "role": "supporting",
+      "description": "He is a 25 year old hunter from Gunma who responded the call to join the Tokyo team on the fight against the invading aliens.  Fights armed with two Gantz swords.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72475.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72475
+      }
+    },
+    {
+      "id": "maeshima-ryuuji",
+      "name": "Maeshima Ryuuji",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Hunter from Hiroshima who responded the call to join the Tokyo team on the fight against the invading aliens.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72477.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72477
+      }
+    },
+    {
+      "id": "makoto-sekine",
+      "name": "Makoto Sekine",
+      "alt_names": [
+        "関根 誠"
+      ],
+      "role": "supporting",
+      "description": "He is from Kyoto, he responded to Kurono's and Reika's call, to join the Tokyo team and fight against the invading aliens. He speaks very good English.   ~! He was killed in Chapter 348 after being infected by an alien spore that mutated his entire body. Kurono ended up putting him out of his misery by killing him with the Z-Gun. !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72481.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72481
+      }
+    },
+    {
+      "id": "toshio-yazawa",
+      "name": "Toshio Yazawa",
+      "alt_names": [
+        "矢沢 年男"
+      ],
+      "role": "supporting",
+      "description": "He comes from Hokkaido, and looks like George Clooney. He seems fairly skilled, due to still actually being alive. He seems rather old, but has a sense of humour, openly mocking Kaze about how old he looks. He is knowledgeable enough to spot skilled combatants, such as Kei, Kaze, Kato, Yoshikawa and Mary Mclane, and even seemed pleased he joined with them, because of their strength. It seems he isn't keen on fighting.   (Source: Gantz Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72487.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72487
+      }
+    },
+    {
+      "id": "sumiko-yamada",
+      "name": "Sumiko Yamada",
+      "alt_names": [
+        "山田スミ子",
+        "Sumi-chan"
+      ],
+      "role": "supporting",
+      "description": "She is a member of the Osakan Gantz team, and is in a friendship with Miho Yamanaka.    ~!After she survives the Nurayihon mission, she chooses to get out of Gantz. !~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72489-PX7Su4E6kctk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72489
+      }
+    },
+    {
+      "id": "miho-yamanaka",
+      "name": "Miho Yamanaka",
+      "alt_names": [
+        "中山美保",
+        "Miporin"
+      ],
+      "role": "supporting",
+      "description": "Member of the Osaka team. Girlfriend of Muroya Nobuo. Friend of Yamada Sumiko.  After the mission she decided that she want to get out of Gantz.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72491-jhzuv4Bs1N2u.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72491
+      }
+    },
+    {
+      "id": "heinz-bernstein",
+      "name": "Heinz Bernstein",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "President of Maier Bacher, the company responsible for manufacturing the black balls.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72493.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72493
+      }
+    },
+    {
+      "id": "ryoko-shinosaki",
+      "name": "Ryoko Shinosaki",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Izumi Shion's girlfriend.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72495-u96UqYaEI8jZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72495
+      }
+    },
+    {
+      "id": "tonkotsu",
+      "name": "Tonkotsu",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "A girl Sakurai Hiroto mets online and decides to meet in person. They find an intrest in each other and have begun dating.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72497-6EHczmGCqL2B.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72497
+      }
+    },
+    {
+      "id": "eiji-nagasawa",
+      "name": "Eiji Nagasawa",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Kurono Kei´s Classmate.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72499-XfMpMWmeDeQN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72499
+      }
+    },
+    {
+      "id": "nakano",
+      "name": "Nakano",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Student of the same school that Kurono Kei. A alien copy his appearance and start a killing in spread.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72501-OBhIbHWhrW4I.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72501
+      }
+    },
+    {
+      "id": "chikako-matsuura",
+      "name": "Chikako Matsuura",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Katou Masaru and Katou Ayumu´s Aunt.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72505-NbKuQvHI59Z9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72505
+      }
+    },
+    {
+      "id": "hanae-suzuki",
+      "name": "Hanae Suzuki",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Suzuki Yoshikazu´s wife.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72507-ezsN23a1hPAu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72507
+      }
+    },
+    {
+      "id": "takashi-inamori",
+      "name": "Takashi Inamori",
+      "alt_names": [
+        "岸本恵",
+        "Pakkin",
+        "Blondin"
+      ],
+      "role": "supporting",
+      "description": "Inamori is a blond, 20 year old guy who showed up in the Gantz room before the Onion Alien mission. When Yamada Masashi tried to get everyone in the room to tell their names, ages, what they did when they were alive and how they died, he refused to do so. Instead, he kept asking for cigarettes. Kurono thought that Inamori had a girly face.   ~!During the mission Inamori was careless with the weapons. When he first picked up an X-Gun he pulled a single trigger while pointing it at Masashi, avoiding killing him only by chance. He also pointed the rifle at Hatanaka Hiroshi, making him angry, and demolished a wall when he missed shooting the Onion Alien. He later killed Hatanaka by accidentally shooting him when the big onion alien used his body as a shield to block the X-rifle.  Inamori was killed by the big onion alien during the first mission. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72841-SAew2Itopnqr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72841
+      }
+    },
+    {
+      "id": "musou-tokugawa",
+      "name": "Musou Tokugawa",
+      "alt_names": [
+        "徳川夢想"
+      ],
+      "role": "supporting",
+      "description": "Hunter at the Buddhist Temple mission.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b73457-qsXOegILb87C.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73457
+      }
+    },
+    {
+      "id": "yuuta-kondou",
+      "name": "Yuuta Kondou",
+      "alt_names": [
+        "近藤裕太",
+        "Konta",
+        "DJ Konta (DJコンタ)"
+      ],
+      "role": "supporting",
+      "description": "Hunter at the Buddhist Temple mission. Friend of Tomao.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b73459-DyMnmYdwIpF3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73459
+      }
+    },
+    {
+      "id": "tomashino-jiro",
+      "name": "Tomashino Jiro",
+      "alt_names": [
+        "苫篠次郎",
+        "Tamao"
+      ],
+      "role": "supporting",
+      "description": "The one with the blue hair. A friend of Konta, he fights the smaller aliens without a suit and surprisingly defeats some. After he found his Gantz suit, he tries to confront the boss alien with Konta.    ~!They get easily defeated by getting sliced to multiple pieces by Kannon's sword !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b73461-h8j1pfnGnOPN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73461
+      }
+    },
+    {
+      "id": "akitoshi-okazaki",
+      "name": "Akitoshi Okazaki",
+      "alt_names": [
+        "岡崎明俊"
+      ],
+      "role": "supporting",
+      "description": "Hunter at the Buddhist Temple mission.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b73463-7zYIA26KX9cm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73463
+      }
+    },
+    {
+      "id": "shunichi-ike",
+      "name": "Shunichi Ike",
+      "alt_names": [
+        "池俊一"
+      ],
+      "role": "supporting",
+      "description": "Hunter at the Buddhist Temple mission.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/73467.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73467
+      }
+    },
+    {
+      "id": "jay-jay",
+      "name": "Jay Jay",
+      "alt_names": [
+        "ジェイジェイ",
+        "JJ"
+      ],
+      "role": "supporting",
+      "description": "JJ is an American martial artists visiting Japan. He is very quiet and thoughtful.   JJ stands at the back of the room and doesn't really say anything. He follows the prayer by the priest and that's all he does. After seeing Kato lift up two members of the room to demonstrate the strength of the suit, he challenges him, Kato accepting, and hits him hard to test out how strong he is. He did not put on a suit before they were all transferred to the temple, nor did he bring one along just in case.   He goes along with the others, running with them when the two large statues at the front of the temple come to life and chase them. When all the human size aliens start to appear he starts to fight them using martial arts. He takes a few down on his own. When Kato makes 2 groups he goes with Hojo's group. When most of the group runs inside at the end, to the final building with aliens in it, he goes along with them.    ~!He fights one of the spawns and wins for the most part. JJ gets his hand trapped by the spawn and snaps his bone. JJ head buts him and then another one of the spawn breaks his neck before he has time to recover. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b83649-loLSVoosoFus.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 83649
+      }
+    },
+    {
+      "id": "bob-morris",
+      "name": "Bob Morris",
+      "alt_names": [
+        "ボブ・モリス"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85637-KUSCntTyZChH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85637
+      }
+    },
+    {
+      "id": "sean-lewis",
+      "name": "Sean Lewis",
+      "alt_names": [
+        "ショーン・ルイス"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85641-3X212C91Mr2L.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85641
+      }
+    },
+    {
+      "id": "nathan-rich",
+      "name": "Nathan Rich",
+      "alt_names": [
+        "ネイサン・リッチ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85645-dsRveC62TurP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85645
+      }
+    },
+    {
+      "id": "ayaka-uranaka",
+      "name": "Ayaka Uranaka",
+      "alt_names": [
+        "浦中アヤカ"
+      ],
+      "role": "supporting",
+      "description": "She was the rape victim who arrived naked, along with the five guys that raped her, after they all died in a car accident. She later talks to Reika, who agrees to let her use her cell phone to call the police.   She was briefly seen naked, hiding and peeking out, in issue 171, having apparently run off to hide when arriving. She was seen again in issue 174, after returning with everyone else from the mission, she talking Reika, who she recognized as the famous idol.  On the Tae Hunt mission she has a chance to shoot the rapists, but freezes up, unable to do so.    ~!She dies burned during the oni mission.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85653-vCySVq3JrVf9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85653
+      }
+    },
+    {
+      "id": "yoshiaru-ueda",
+      "name": "Yoshiaru Ueda",
+      "alt_names": [
+        "上田 義治"
+      ],
+      "role": "supporting",
+      "description": "He is the one of the five rapist. After Tae Kojima took pictures, he was in one of them and in return, Gantz killed him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85657-SGpsSvxkrLfG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85657
+      }
+    },
+    {
+      "id": "kaoru-iwamoto",
+      "name": "Kaoru Iwamoto",
+      "alt_names": [
+        "岩本 薫"
+      ],
+      "role": "supporting",
+      "description": "He died in car accident with his four friends and a girl they had all gang raped. He was killed by Kurono in the Tae mission by a punch from him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85659-SGuPHcAJACx7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85659
+      }
+    },
+    {
+      "id": "joji-tomioka",
+      "name": "Joji Tomioka",
+      "alt_names": [
+        "富岡穣治"
+      ],
+      "role": "supporting",
+      "description": "He was one of the five guys who gang raped Ayaka Uranaka and died with her during a car accident, before all of them ended up in the Gantz room.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85661-4UQacDN7a4Yp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85661
+      }
+    },
+    {
+      "id": "ryotarou-haga",
+      "name": "Ryotarou Haga",
+      "alt_names": [
+        "芳賀綾太郎"
+      ],
+      "role": "supporting",
+      "description": "He was one of the five guys who gang raped Ayaka Uranaka and died with her during a car accident, before all of them ended up in the Gantz room.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85663-BhVnueE9Cirv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85663
+      }
+    },
+    {
+      "id": "naoichi-mikawa",
+      "name": "Naoichi Mikawa",
+      "alt_names": [
+        "三河直一",
+        "Iwaki"
+      ],
+      "role": "supporting",
+      "description": "He was one of the five guys who gang raped Ayaka Uranaka and died with her during a car accident, before all of them ended up in the Gantz room.    ~!He was killed in the Oni mission. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85665-cpAOev5dAhrd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85665
+      }
+    },
+    {
+      "id": "sanpei-taira",
+      "name": "Sanpei Taira",
+      "alt_names": [
+        "平参平"
+      ],
+      "role": "supporting",
+      "description": "He is one of the Osaka sadistic trio. He cleared the game once.   ~!He died in the Nurarihyon mission. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85667-Jg0wZTnlsXhv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85667
+      }
+    },
+    {
+      "id": "susumu-kimura",
+      "name": "Susumu Kimura",
+      "alt_names": [
+        "木村進"
+      ],
+      "role": "supporting",
+      "description": "He is one of the sadistic trio.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85669-UpCfv4pYPRdA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85669
+      }
+    },
+    {
+      "id": "tetsuo-hara",
+      "name": "Tetsuo Hara",
+      "alt_names": [
+        "原哲男"
+      ],
+      "role": "supporting",
+      "description": "He is one of the Okasa sadistic trio.    ~!He died in the Nurarihyon mission. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85671-uNdL4NXQMrsG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85671
+      }
+    },
+    {
+      "id": "haruko-otani",
+      "name": "Haruko Otani",
+      "alt_names": [
+        "大谷 治子"
+      ],
+      "role": "supporting",
+      "description": "Takashi Otani's wife and Masaki Otani's mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85673-AXgEOQEasxaV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85673
+      }
+    },
+    {
+      "id": "takashi-otani",
+      "name": "Takashi Otani",
+      "alt_names": [
+        "大谷 貴"
+      ],
+      "role": "supporting",
+      "description": "Haruko Otani's husband and father of Masaki Otani",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85675-kS5VQUehuiLE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85675
+      }
+    },
+    {
+      "id": "masaki-otani",
+      "name": "Masaki Otani",
+      "alt_names": [
+        "大谷 将貴"
+      ],
+      "role": "supporting",
+      "description": "Son of Haruko and Takashi Otani.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85677-GtawegRwLEpV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85677
+      }
+    },
+    {
+      "id": "miki-oyama",
+      "name": "Miki Oyama",
+      "alt_names": [
+        "大山 美紀"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85679-7n43UfowMQAE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85679
+      }
+    },
+    {
+      "id": "izumi-tatsumi",
+      "name": "Izumi Tatsumi",
+      "alt_names": [
+        "立見 いずみ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85681-aVgzPtam16yl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85681
+      }
+    },
+    {
+      "id": "shiraishi-rika",
+      "name": "Shiraishi Rika",
+      "alt_names": [
+        "白石リカ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85683-x6TvN1wFlIgJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85683
+      }
+    },
+    {
+      "id": "keiko-morino",
+      "name": "Keiko Morino",
+      "alt_names": [
+        "森野 恵子"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85685-Nk8bxI4iVDhE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85685
+      }
+    },
+    {
+      "id": "tetsuo-tamura",
+      "name": "Tetsuo Tamura",
+      "alt_names": [
+        "田村 哲夫"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85687-MrHTYgF15dJK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85687
+      }
+    },
+    {
+      "id": "akira-nishida",
+      "name": "Akira Nishida",
+      "alt_names": [
+        "西田 明"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85689-jp50zrTpCsZv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85689
+      }
+    },
+    {
+      "id": "okada-hiroshi",
+      "name": "Okada Hiroshi",
+      "alt_names": [
+        "岡田 弘"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85691-hSBzsOSKnIiI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85691
+      }
+    },
+    {
+      "id": "yuki-toshiki",
+      "name": "Yuki Toshiki",
+      "alt_names": [
+        "俊樹ユキ"
+      ],
+      "role": "supporting",
+      "description": "Former host",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85693-tui1V17gbywh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85693
+      }
+    },
+    {
+      "id": "katou-yujiro",
+      "name": "Katou Yujiro",
+      "alt_names": [
+        "華光ユウジ"
+      ],
+      "role": "supporting",
+      "description": "Former host.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85695-1QTSk0q9BWMK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85695
+      }
+    },
+    {
+      "id": "rice",
+      "name": "Rice ",
+      "alt_names": [
+        "ライス"
+      ],
+      "role": "supporting",
+      "description": "Rice the Dog is present during the first few Gantz missions Kurono and the gang go on  and is one of the animal members of the Tokyo Team. He never gets any points because of \"too much tongue/tail wagging\". He is present in every mission until he is replaced by the panda.  Rice was abandoned on a walk by its owner, who ran away from him. When trying to chase its owner it was hit by a dump truck, killing it and sending it to the Tokyo room for the first time, surprising its only veteran hunter Joichiro Nishi who expected it to die just like all others, but being surprised the first four times the dog survives just like him. Nishi then ignores the dog for their following missions until finally three others survive who inquire about him, with Nishi flatly stating he always survives, ~!which held true until after Nishi's own death.!~ \n\nRice is an enthusiastic, friendly dog. Whom is pretty aware of the things that happen around him. When Gantz starts scoring people he eagerly waits for his own only to be berated by him for not doing anything while showing him his score of zero points which upsets Rice. Rice's most characteristic trait is that he appears to be a butter dog, trying on more then one occasion to lick Kei Kishimoto's vagina. Making Kurono wonder if he used to belong to some lonely housewife who trained him to do so.\n\nIn the anime, Rice was also able to warn the other players that there were more enemies to fight, such as when he started barking at the smaller statues during the Buddhist Temple mission. All in all out of all the humans he interacts with he seems the most fond of Kishimoto. The anime shows her putting his Gants suit on him and hugs him when she learns he survived and in the manga they even appear on a number of chapter covers together.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b152218-2ar27fo11cbA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 152218
+      }
+    },
+    {
+      "id": "tsuneo-nikaido",
+      "name": "Tsuneo Nikaido",
+      "alt_names": [
+        "Virgin Kun "
+      ],
+      "role": "supporting",
+      "description": "A virgin of the Gantz-team from Osaka, an unwitting hero who survives the Nurarihyon mission with a lot of luck. During the mission he gets to admire and idolizes Kato very much for his heroic and brave acts. ~! Thus, at the end of the mission he swears, he will revive Anzu for Kato.!~\nHis name is not given, probably for the reason, that he represents the average manga reader/otaku, who dreams about becoming a hero, doing some respectful deeds if he gets the power to.\n\nDespite being a much more valuable rookie than any of his idols ever were, and in fact the fastest-to-clear and top-scoring average points per game player known, he continues his inferiority complex and hero worship of veteran Gantz sempais. He wonders if he could ever reach Katou, although his own shy and self-deprecating actions are consistently as brave or braver and far more selfless than Katou's (also fights Nuri 1on1, successfully saves little girl from the hell of Italy despite his terror and losing limbs protecting her, scores over 100 points in just 2 rounds to resurrect near-stranger Yamazaki for Katou's sake, loses a foot protecting Yamazaki in alien colony, attacks alien Hero in mothership while Katou stands frozen with fear and doubt, etc.).",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b167885-bzVKOBBKbiUI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 167885
+      }
+    },
+    {
+      "id": "fumiko-no-chichi",
+      "name": "Fumiko no Chichi",
+      "alt_names": [
+        "富美子の父",
+        "Fumiko's Father"
+      ],
+      "role": "supporting",
+      "description": "He is the only person who helps Tae Kojima during the alien invasion in the final story arc. At first his intentions seem lecherous in nature as he declares he is a \"lolicon \" but eventually it's revealed in his death that he helped Tae survive because she looked like his dead daughter Fumiko. In the end he dies without the readers learning his name therefore dying an unnamed hero.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b211288-eJHHjTlGXUB2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 211288
+      }
+    },
+    {
+      "id": "nurarihyon",
+      "name": "Nurarihyon",
+      "alt_names": [
+        "ぬらりひょん"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b343831-LHQekDsXyvTi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 343831
+      }
+    },
+    {
+      "id": "inugami",
+      "name": "Inugami",
+      "alt_names": [
+        "犬神"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b343832-jxCc3WBySKTh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 343832
+      }
+    },
+    {
+      "id": "tenmukai",
+      "name": "Tenmukai",
+      "alt_names": [
+        "天向"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b343833-UBmA1vjisnuq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 343833
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T22:01:10.317Z"
+}

@@ -4,6 +4,7 @@ import { config } from 'dotenv';
 config(); // Carrega variáveis do .env
 
 import { Command } from 'commander';
+import inquirer from 'inquirer';
 import { createImportJob } from './jobs/importWork.js';
 import { createAutoCrawlJob } from './jobs/autoCrawl.js';
 import { createUpdateJob } from './jobs/updateWork.js';
@@ -22,6 +23,27 @@ import { existsSync } from 'fs';
  */
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+/**
+ * Copia diretório recursivamente
+ * @param {string} src - Diretório origem
+ * @param {string} dest - Diretório destino
+ */
+async function copyDir(src, dest) {
+  const entries = await fs.readdir(src, { withFileTypes: true });
+
+  for (const entry of entries) {
+    const srcPath = join(src, entry.name);
+    const destPath = join(dest, entry.name);
+
+    if (entry.isDirectory()) {
+      await fs.mkdir(destPath, { recursive: true });
+      await copyDir(srcPath, destPath);
+    } else {
+      await fs.copyFile(srcPath, destPath);
+    }
+  }
 }
 
 const program = new Command();
@@ -45,6 +67,7 @@ program
   .option('--slug <slug>', 'Slug da obra (para RAWG)')
   .option('--skip-characters', 'Importar apenas informações da obra')
   .option('--limit <number>', 'Limite de personagens/criadores', parseInt)
+  .option('--delay <ms>', 'Delay entre páginas em ms (padrão: 1000)', parseInt)
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (type, search, options) => {
     try {
@@ -60,7 +83,8 @@ program
       const job = createImportJob({ 
         baseDir: options.baseDir,
         source: options.source,
-        type: type // Passa o tipo para auto-detectar fonte
+        type: type, // Passa o tipo para auto-detectar fonte
+        delayBetweenPages: options.delay || 1000
       });
       
       const result = await job.import(criteria, {
@@ -730,23 +754,6 @@ program
       // Copiar data/ para web/public/data
       console.log(`📋 Copiando dados de ${dataDir} para ${publicDataDir}`);
 
-      // Função recursiva para copiar diretório
-      async function copyDir(src, dest) {
-        const entries = await fs.readdir(src, { withFileTypes: true });
-
-        for (const entry of entries) {
-          const srcPath = join(src, entry.name);
-          const destPath = join(dest, entry.name);
-
-          if (entry.isDirectory()) {
-            await fs.mkdir(destPath, { recursive: true });
-            await copyDir(srcPath, destPath);
-          } else {
-            await fs.copyFile(srcPath, destPath);
-          }
-        }
-      }
-
       await copyDir(dataDir, publicDataDir);
 
       console.log('\n✅ Deploy concluído com sucesso!');
@@ -758,5 +765,360 @@ program
     }
   });
 
+/**
+ * Comando: interactive
+ * Interface interativa (TUI) para todas as operações
+ */
+program
+  .command('interactive')
+  .alias('tui')
+  .description('Interface interativa para todas as operações')
+  .action(async () => {
+    await startInteractiveMode();
+  });
+
 // Parse dos argumentos
 program.parse();
+
+/**
+ * Inicia o modo interativo (TUI)
+ */
+async function startInteractiveMode() {
+  console.clear();
+  
+  console.log('╔══════════════════════════════════════════════════════════════╗');
+  console.log('║                    📚 CharLib - TUI                    ║');
+  console.log('║            Database de Personagens Interativa            ║');
+  console.log('╚══════════════════════════════════════════════════════════════╝\n');
+  
+  let continuar = true;
+  
+  while (continuar) {
+    const { action } = await inquirer.prompt([
+      {
+        type: 'list',
+        name: 'action',
+        message: 'O que deseja fazer?',
+        choices: [
+          { name: '📥 Importar Obra', value: 'import' },
+          { name: '🔍 Buscar Personagens', value: 'search' },
+          { name: '📊 Ver Estatísticas', value: 'stats' },
+          { name: '🔄 Atualizar Dados', value: 'update' },
+          { name: '🤖 Auto-Crawling', value: 'crawl' },
+          { name: '✅ Validar Dados', value: 'validate' },
+          { name: '🚀 Deploy Web', value: 'deploy' },
+          new inquirer.Separator(),
+          { name: '❌ Sair', value: 'exit' }
+        ]
+      }
+    ]);
+    
+    try {
+      switch (action) {
+        case 'import':
+          await handleImportMenu();
+          break;
+        case 'search':
+          await handleSearchMenu();
+          break;
+        case 'stats':
+          await handleStatsMenu();
+          break;
+        case 'update':
+          await handleUpdateMenu();
+          break;
+        case 'crawl':
+          await handleCrawlingMenu();
+          break;
+        case 'validate':
+          await handleValidateMenu();
+          break;
+        case 'deploy':
+          await handleDeployMenu();
+          break;
+        case 'exit':
+          continuar = false;
+          console.log('\n👋 Até logo!\n');
+          break;
+      }
+      
+      if (action !== 'exit') {
+        await inquirer.prompt([
+          {
+            type: 'input',
+            name: 'continue',
+            message: 'Pressione Enter para continuar...'
+          }
+        ]);
+        console.clear();
+        console.log('╔══════════════════════════════════════════════════════════════╗');
+        console.log('║                    📚 CharLib - TUI                    ║');
+        console.log('║            Database de Personagens Interativa            ║');
+        console.log('╚══════════════════════════════════════════════════════════════╝\n');
+      }
+    } catch (error) {
+      console.error(`\n❌ Erro: ${error.message}\n`);
+      await inquirer.prompt([
+        {
+          type: 'input',
+          name: 'continue',
+          message: 'Pressione Enter para continuar...'
+        }
+      ]);
+    }
+  }
+  
+  process.exit(0);
+}
+
+/**
+ * Menu de importação
+ */
+async function handleImportMenu() {
+  console.log('\n📥 Importar Obra\n');
+  
+  const answers = await inquirer.prompt([
+    {
+      type: 'list',
+      name: 'type',
+      message: 'Tipo de obra:',
+      choices: ['anime', 'manga', 'game'],
+      default: 'anime'
+    },
+    {
+      type: 'input',
+      name: 'search',
+      message: 'Nome da obra:',
+      validate: (input) => input.trim() !== '' || 'Digite um nome válido'
+    },
+    {
+      type: 'input',
+      name: 'limit',
+      message: 'Limite de personagens (deixe vazio para sem limite):',
+      default: '',
+      filter: (input) => input === '' ? undefined : parseInt(input)
+    },
+    {
+      type: 'input',
+      name: 'delay',
+      message: 'Delay entre páginas em ms:',
+      default: '1000',
+      filter: (input) => parseInt(input)
+    }
+  ]);
+  
+  console.log('\n⏳ Iniciando importação...\n');
+  
+  const job = createImportJob({ 
+    baseDir: './data',
+    type: answers.type,
+    delayBetweenPages: answers.delay
+  });
+  
+  const result = await job.import({ 
+    search: answers.search, 
+    type: answers.type 
+  }, {
+    characterLimit: answers.limit
+  });
+  
+  console.log('\n✅ Importação concluída!');
+  console.log(`Obra: ${result.work.title}`);
+  if (result.characters) {
+    console.log(`Personagens: ${result.characters.total} (${result.characters.added} novos)`);
+  }
+  console.log(`Duração: ${result.duration}s\n`);
+}
+
+/**
+ * Menu de busca
+ */
+async function handleSearchMenu() {
+  console.log('\n🔍 Buscar Personagens\n');
+  
+  const answers = await inquirer.prompt([
+    {
+      type: 'list',
+      name: 'type',
+      message: 'Tipo:',
+      choices: ['anime', 'manga', 'game']
+    },
+    {
+      type: 'input',
+      name: 'workId',
+      message: 'Obra (slug):',
+      validate: (input) => input.trim() !== '' || 'Digite um slug válido'
+    },
+    {
+      type: 'input',
+      name: 'query',
+      message: 'Buscar por:',
+      validate: (input) => input.trim() !== '' || 'Digite uma busca válida'
+    }
+  ]);
+  
+  console.log('\n⏳ Buscando...\n');
+  
+  const writer = createWriter('./data');
+  const results = await writer.findCharacters(answers.type, answers.workId, { 
+    name: answers.query 
+  });
+  
+  console.log(`\n✅ Encontrados ${results.length} personagens:\n`);
+  
+  results.forEach(char => {
+    console.log(`• ${char.name} (${char.role || 'unknown'})`);
+    if (char.alt_names?.length > 0) {
+      console.log(`  Aka: ${char.alt_names.join(', ')}`);
+    }
+  });
+  
+  console.log();
+}
+
+/**
+ * Menu de estatísticas
+ */
+async function handleStatsMenu() {
+  console.log('\n📊 Estatísticas\n');
+  
+  const answers = await inquirer.prompt([
+    {
+      type: 'list',
+      name: 'type',
+      message: 'Tipo:',
+      choices: ['anime', 'manga', 'game']
+    },
+    {
+      type: 'input',
+      name: 'workId',
+      message: 'Obra (slug):',
+      validate: (input) => input.trim() !== '' || 'Digite um slug válido'
+    }
+  ]);
+  
+  console.log('\n⏳ Carregando...\n');
+  
+  const writer = createWriter('./data');
+  const stats = await writer.getStats(answers.type, answers.workId);
+  
+  if (!stats) {
+    console.log('\n❌ Obra não encontrada\n');
+    return;
+  }
+  
+  console.log(`\n📊 ${stats.title}\n`);
+  console.log(`ID: ${stats.workId}`);
+  console.log(`Tipo: ${stats.type}`);
+  console.log(`Total de personagens: ${stats.totalCharacters}`);
+  console.log('\nPor role:');
+  
+  for (const [role, count] of Object.entries(stats.byRole)) {
+    console.log(`  ${role}: ${count}`);
+  }
+  
+  console.log();
+}
+
+/**
+ * Menu de atualização
+ */
+async function handleUpdateMenu() {
+  console.log('\n🔄 Atualizar Dados\n');
+  console.log('⏳ Atualizando todas as obras...\n');
+  
+  const job = createUpdateJob({ baseDir: './data' });
+  const result = await job.updateAll();
+  
+  console.log('\n✅ Atualização concluída!');
+  console.log(`Processadas: ${result.processed}`);
+  console.log(`Atualizadas: ${result.updated}`);
+  console.log(`Erros: ${result.errors}`);
+  console.log(`Duração: ${result.duration}s\n`);
+}
+
+/**
+ * Menu de crawling
+ */
+async function handleCrawlingMenu() {
+  console.log('\n🤖 Auto-Crawling\n');
+  
+  const answers = await inquirer.prompt([
+    {
+      type: 'list',
+      name: 'type',
+      message: 'Tipo:',
+      choices: ['anime', 'manga'],
+      default: 'anime'
+    },
+    {
+      type: 'input',
+      name: 'maxWorks',
+      message: 'Máximo de obras:',
+      default: '10',
+      filter: (input) => parseInt(input)
+    },
+    {
+      type: 'input',
+      name: 'limit',
+      message: 'Limite de personagens por obra:',
+      default: '25',
+      filter: (input) => parseInt(input)
+    }
+  ]);
+  
+  console.log('\n⏳ Iniciando crawling...\n');
+  
+  const job = createAutoCrawlJob({
+    baseDir: './data',
+    maxWorks: answers.maxWorks,
+    characterLimit: answers.limit,
+    type: answers.type
+  });
+  
+  const report = await job.crawl();
+  
+  console.log('\n✅ Crawling concluído!');
+  console.log(`Processadas: ${report.processed}`);
+  console.log(`Novas: ${report.new}`);
+  console.log(`Erros: ${report.errors}\n`);
+}
+
+/**
+ * Menu de validação
+ */
+async function handleValidateMenu() {
+  console.log('\n✅ Validar Dados\n');
+  console.log('⏳ Validando schemas...\n');
+  
+  const validator = await createValidator();
+  const result = await validator.validateAll('./data');
+  
+  if (result.valid) {
+    console.log('\n✅ Todos os dados são válidos!\n');
+  } else {
+    console.log('\n❌ Erros encontrados:\n');
+    for (const err of result.errors) {
+      console.log(`${err.file}:`);
+      err.errors.forEach(e => console.log(`  - ${e}`));
+    }
+    console.log();
+  }
+}
+
+/**
+ * Menu de deploy
+ */
+async function handleDeployMenu() {
+  console.log('\n🚀 Deploy Web\n');
+  console.log('⏳ Fazendo deploy...\n');
+  
+  // Copiar dados para web
+  const dataDir = './data';
+  const publicDataDir = './web/public/data';
+  
+  await copyDir(dataDir, publicDataDir);
+  
+  console.log('\n✅ Deploy concluído!');
+  console.log(`Dados atualizados em: ${publicDataDir}\n`);
+}
