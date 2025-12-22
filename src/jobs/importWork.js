@@ -1,8 +1,10 @@
 import { createAniListCollector } from '../collectors/anilist.js';
 import { createJikanCollector } from '../collectors/jikan.js';
+import { createRawgCollector } from '../collectors/rawg.js';
 import { createEnrichmentCollector } from '../collectors/enrichment.js';
 import { normalizeWork as normalizeAniListWork, normalizeCharacters as normalizeAniListCharacters } from '../normalizers/anilist.js';
 import { normalizeWork as normalizeJikanWork, normalizeCharacters as normalizeJikanCharacters } from '../normalizers/jikan.js';
+import { normalizeWork as normalizeRawgWork, normalizeCharacters as normalizeRawgCharacters } from '../normalizers/rawg.js';
 import { createWriter } from '../writers/jsonWriter.js';
 import { logger } from '../utils/logger.js';
 import { slugify } from '../utils/slugify.js';
@@ -15,8 +17,27 @@ import path from 'path';
 export class ImportWorkJob {
   constructor(options = {}) {
     this.baseDir = path.resolve(options.baseDir || './data');
-    this.source = options.source || 'anilist';
+    this.source = options.source;
+    this.type = options.type; // anime, manga, game, etc.
     this.enrich = options.enrich || false;
+    
+    // Mapeamento de tipos para fontes padrão
+    this.sourceMap = {
+      'anime': 'anilist',
+      'manga': 'anilist',
+      'game': 'rawg',
+      'light-novel': 'anilist',
+      // Preparado para futuras expansões:
+      'cartoon': 'tvmaze', // Exemplo para desenhos animados
+      'comic': 'marvel', // Exemplo para quadrinhos
+    };
+    
+    // Determina a fonte baseada no tipo se não foi especificada
+    if (!this.source && this.type) {
+      this.source = this.sourceMap[this.type] || 'anilist';
+    } else if (!this.source) {
+      this.source = 'anilist'; // Fallback padrão
+    }
     
     // Instancia o collector baseado na fonte
     this.collector = this.createCollector(this.source, options.collectorOptions);
@@ -24,9 +45,8 @@ export class ImportWorkJob {
     // Instancia enrichment se necessário
     this.enrichmentCollector = this.enrich ? createEnrichmentCollector() : null;
     
-    // Define as funções de normalização
-    this.normalizeWork = this.source === 'mal' ? normalizeJikanWork : normalizeAniListWork;
-    this.normalizeCharacters = this.source === 'mal' ? normalizeJikanCharacters : normalizeAniListCharacters;
+    // Define as funções de normalização baseadas na fonte
+    this.setNormalizers(this.source);
     
     this.writer = createWriter(this.baseDir);
   }
@@ -47,7 +67,7 @@ export class ImportWorkJob {
 
   /**
    * Cria o collector apropriado baseado na fonte
-   * @param {string} source - Fonte dos dados (anilist, mal)
+   * @param {string} source - Fonte dos dados (anilist, mal, rawg, etc.)
    * @param {Object} options - Opções do collector
    * @returns {Object} Instância do collector
    */
@@ -57,8 +77,45 @@ export class ImportWorkJob {
         return createAniListCollector(options);
       case 'mal':
         return createJikanCollector(options);
+      case 'rawg':
+        return createRawgCollector(options);
+      // Preparado para futuras expansões:
+      // case 'tvmaze':
+      //   return createTVMazeCollector(options);
+      // case 'marvel':
+      //   return createMarvelCollector(options);
       default:
-        throw new Error(`Fonte não suportada: ${source}`);
+        throw new Error(`Fonte não suportada: ${source}. Fontes disponíveis: anilist, mal, rawg`);
+    }
+  }
+  
+  /**
+   * Define as funções de normalização baseadas na fonte
+   * @param {string} source - Fonte dos dados
+   */
+  setNormalizers(source) {
+    switch (source.toLowerCase()) {
+      case 'anilist':
+        this.normalizeWork = normalizeAniListWork;
+        this.normalizeCharacters = normalizeAniListCharacters;
+        break;
+      case 'mal':
+        this.normalizeWork = normalizeJikanWork;
+        this.normalizeCharacters = normalizeJikanCharacters;
+        break;
+      case 'rawg':
+        this.normalizeWork = normalizeRawgWork;
+        this.normalizeCharacters = normalizeRawgCharacters;
+        break;
+      // Preparado para futuras expansões:
+      // case 'tvmaze':
+      //   this.normalizeWork = normalizeTVMazeWork;
+      //   this.normalizeCharacters = normalizeTVMazeCharacters;
+      //   break;
+      default:
+        // Fallback para AniList
+        this.normalizeWork = normalizeAniListWork;
+        this.normalizeCharacters = normalizeAniListCharacters;
     }
   }
 
@@ -66,8 +123,9 @@ export class ImportWorkJob {
    * Importa uma obra completa (info + personagens)
    * @param {Object} criteria - Critérios para buscar a obra
    * @param {string} criteria.search - Nome da obra
-   * @param {number} criteria.id - ID do AniList
-   * @param {string} criteria.type - anime ou manga
+   * @param {number} criteria.id - ID da obra na fonte
+   * @param {string} criteria.slug - Slug da obra na fonte
+   * @param {string} criteria.type - anime, manga, game, etc.
    * @param {Object} options - Opções de importação
    * @param {boolean} options.skipCharacters - Importar apenas info da obra
    * @param {number} options.characterLimit - Limite de personagens
@@ -77,11 +135,18 @@ export class ImportWorkJob {
     const startTime = Date.now();
     
     try {
-      logger.info(`Iniciando importação: ${criteria.search || criteria.id}`);
+      logger.info(`Iniciando importação: ${criteria.search || criteria.id || criteria.slug}`);
 
       // 1. Buscar dados da obra
       logger.progress('Buscando informações da obra...');
-      const mediaData = await this.collector.searchMedia(criteria);
+      
+      // Para jogos, usa método específico
+      let mediaData;
+      if (this.source === 'rawg') {
+        mediaData = await this.collector.searchGame(criteria);
+      } else {
+        mediaData = await this.collector.searchMedia(criteria);
+      }
       
       if (!mediaData) {
         throw new Error('Obra não encontrada');
@@ -105,17 +170,28 @@ export class ImportWorkJob {
       if (!options.skipCharacters) {
         logger.progress('Coletando personagens...');
         
-        const rawCharacters = await this.collector.collectCharacters(
-          normalizedWork.source_id,
-          {
-            perPage: 25,
-            onProgress: (progress) => {
-              logger.info(
-                `Página ${progress.page}: ${progress.collected}/${progress.total} personagens`
-              );
+        // Adapta coleta baseado no tipo de fonte
+        let rawCharacters;
+        if (this.source === 'rawg') {
+          // Para jogos, usa método específico
+          rawCharacters = await this.collector.collectCharacters(
+            normalizedWork.source_id,
+            { limit: options.characterLimit || 50 }
+          );
+        } else {
+          // Para anime/manga, usa método padrão com paginação
+          rawCharacters = await this.collector.collectCharacters(
+            normalizedWork.source_id,
+            {
+              perPage: 25,
+              onProgress: (progress) => {
+                logger.info(
+                  `Página ${progress.page}: ${progress.collected}/${progress.total} personagens`
+                );
+              }
             }
-          }
-        );
+          );
+        }
 
         // Aplicar limite se especificado
         const charactersToImport = options.characterLimit

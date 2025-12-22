@@ -1,0 +1,597 @@
+{
+  "work_id": "charlotte",
+  "count": 25,
+  "characters": [
+    {
+      "id": "yuu-otosaka",
+      "name": "Yuu Otosaka",
+      "alt_names": [
+        "乙坂有宇",
+        "One-Eyed Grim Reaper"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 174 cm (5' 8½\")\n__Ability:__ ~!Looting: an ability that allows its user to take over another person for 5 seconds. However, it can also be used to take abilities from other ability-wielders if they are possessed.!~\n__Affiliations:__ Hoshinoumi Academy student council\n\nYuu is a first-year student at Hoshinoumi Academy. He is rude and bad at studying. He usually behaves as if he were smart, but he is actually a chronic cheater. He says things which sound clever, and he is a narcissist. He has the ability to take over another person's body for five seconds.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88950-0ER2ke5pswxq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88950
+      }
+    },
+    {
+      "id": "nao-tomori",
+      "name": "Nao Tomori",
+      "alt_names": [
+        "友利奈緒"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 154.5 cm (5’ 1\")\n__Ability:__ Imperfect Invisibility\n__Affiliations:__ Hoshinoumi Academy student council\n\nNao is a first-year student and also the student council president of Hoshinoumi Academy. She has the ability to make herself invisible to any one person of her choosing at a time. She is a huge fan of the band Zhiend. She hates people who use their power for no good.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88951-bRm610RrrXp9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88951
+      }
+    },
+    {
+      "id": "joujirou-takajou",
+      "name": "Joujirou Takajou",
+      "alt_names": [
+        "高城丈士朗"
+      ],
+      "role": "protagonist",
+      "description": "A first-year student and member of the student council. He can move at such high speeds that he looks like he's teleporting. However, he's not totally able to control where he stops, so he has to wear protective gear under his school uniform to prevent injury.\n\n~!Takajou lets his ability be plundered by Yuu for his plan to succeed. He no longer possesses his ability.!~\n\n(Source: Crunchyroll, edited)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88952-0wmPqlWytiRx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88952
+      }
+    },
+    {
+      "id": "yusa-kurobane",
+      "name": "Yusa Kurobane",
+      "alt_names": [
+        "西森柚咲",
+        "Yusa Nishimori",
+        "Yusarin"
+      ],
+      "role": "protagonist",
+      "description": "Yusa is a first-year student and the vocalist for the band How-Low-Hello. She is able to speak to the dead. She uncontrollably channels her dead older sister Misa, who occasionally possesses her. When this occurs, her appearance changes, such as her eye color turning from blue to red.\n\n~!Misa lets Yuu plunder her abilities after hearing his plan from Nao. Before that she had written a letter to Yusa, after her ability is taken she reads it and starts crying knowing that she was with her and everyone the whole time. She no longer possesses any powers.!~\n\n(Source: Crunchyroll, edited)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88953-wAWVk2jOGZqf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88953
+      }
+    },
+    {
+      "id": "ayumi-otosaka",
+      "name": "Ayumi Otosaka",
+      "alt_names": [
+        "乙坂歩未",
+        "Ayu",
+        "Ayucchi"
+      ],
+      "role": "protagonist",
+      "description": "A middle-school student and Yuu's younger sister. She likes stars. She is also a huge fan of the Idol Yusa Nishimori. \n\n~!She awakens the ability to make everything around her collapse, but ultimately, this awakening leads to her death. In episode 6, during a lunch break at school, Ayumi is threatened with a box cutter by a jealous classmate; she begins to run, but is soon cornered. Instinctively, she uses her ability, which collapses both the roof above her and the floor below; killing her.!~\n\n~!In episode 10, she is saved by her brother Yuu who traveled back in time using their brother Shunsuke's ability of time leap. Her ability was plundered by Yuu after he had time leaped backwards, so she no longer has the ability.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "12",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88955-iKYbTaBsmIF0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88955
+      }
+    },
+    {
+      "id": "misa-kurobane",
+      "name": "Misa Kurobane",
+      "alt_names": [
+        "西森美砂"
+      ],
+      "role": "supporting",
+      "description": "Misa is Yusa's older sister by one year. She died in a motorcycle accident. She's the exact opposite of her sister: she has a sharp tongue, doesn't trust people easily and is mischievous but she really cares a lot about her sister. That's also the reason why she's now something like a ghost following her sister around. Thanks to her sister's ability she can possess her and use her body. She only does that to protect Yusa.\n\nIn Yusa's body she can also use her pyrokinetic ability meaning she can control fire at her will.\n\nShe had two friends, one nicknamed Sho. Sho was also in love with her. She remains at her sister's side helping her when she's in trouble.\n\n~!In episode 12, she bids farewell to her sister since Yuu got her and Yusa's ability in order to save everyone, specifically the ability wielders so they may return to their normal lives.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88954-Mc5TurYknYTn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88954
+      }
+    },
+    {
+      "id": "arifumi-fukuyama",
+      "name": "Arifumi Fukuyama",
+      "alt_names": [
+        "福山有史"
+      ],
+      "role": "supporting",
+      "description": "Arifumi is a student and a pitcher for the baseball team in Kannai Academy. He has the ability telekinesis, which he uses to his advantage in baseball games. After losing to the Hoshinoumi Academy baseball team and the Student Council in a baseball match, he agrees to stop using his ability.\n\n~!His ability was taken by Yuu.!~\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125378-1ffmev7NJWtT.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125378
+      }
+    },
+    {
+      "id": "furuki",
+      "name": "Furuki",
+      "alt_names": [
+        "古木"
+      ],
+      "role": "supporting",
+      "description": "Furuki is a fellow comrade of Shunsuke's syndicate, and a hired driver in the new facility.\n\n~!In episode 11, he was the one who was told to bring Kumagami and then Yuu Otosaka to the group of foreigners in an abandoned factory after being threatened about his family that was kidnapped and would kill them if he did not do so.\n\nThe group of foreigners then dropped the Condo key to Furuki to free his family after he brought Yuu Otosaka over to the abandoned factory that they are located.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125379-L39OUoCiW05X.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125379
+      }
+    },
+    {
+      "id": "konishi",
+      "name": "Konishi",
+      "alt_names": [
+        "小西"
+      ],
+      "role": "supporting",
+      "description": "Ayumi's classmate.\n\n~!During episode 6, Konishi attempts to hurt Ayumi using a box cutter due to her enviousness. She is soon cornered until Ayumi uses her ability ''collapse'' which collapses both the roof above her and the floor below, killing her. Konishi, on the other hand, runs as the collapse started so that she would be able to escape the building in time.!~\n\n~!In episode 10, Konishi attempts to hurt Ayumi, though fails due to Yuu saving Ayumi.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125380-ghKw1LRI4YpP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125380
+      }
+    },
+    {
+      "id": "kouta",
+      "name": "Kouta",
+      "alt_names": [
+        "コータ"
+      ],
+      "role": "supporting",
+      "description": "A friend of Shou and Misa.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125381-q0mhyN0ocmvo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125381
+      }
+    },
+    {
+      "id": "takehito-kumagami",
+      "name": "Takehito Kumagami",
+      "alt_names": [
+        "熊耳武仁",
+        "Pooh",
+        "The Helper"
+      ],
+      "role": "supporting",
+      "description": "Kumagami is a mysterious student at Hoshinoumi Academy. His ability is being able to locate anyone who possesses an ability. He has to get soaking wet while fully clothed in order to use his ability. He helps the student council find ability users.\n\n~!In episode 9, it is revealed that he was one of two people who were held captive in research lab. He is one of Yuu's friends who helped him prison break his brother Shunsuke.!~\n\n~!In episode 11, he is kidnapped and tortured in a factory by mysterious people. After Yuu accidentally uses his collapse to bring the factory down, Pooh saves an unconscious Nao from the debris. He succumbs to death from his injuries while in Shunsuke's arms.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125382-DuWfjGKog4vU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125382
+      }
+    },
+    {
+      "id": "maedomari",
+      "name": "Maedomari",
+      "alt_names": [
+        "前泊"
+      ],
+      "role": "supporting",
+      "description": "Shunsuke's friend. He has the ability to erase people's memories. But this ability is limited because it takes a long time to search and erase the memories from someone's body.\n\n~!Maedomari is the one who erased Yuu and Ayumi's memories about Shunsuke.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125383-haEcfUrdhlw1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125383
+      }
+    },
+    {
+      "id": "medoki",
+      "name": "Medoki",
+      "alt_names": [
+        "目時"
+      ],
+      "role": "supporting",
+      "description": "Shunsuke's friend who has an ability to make someone sleep.",
+      "metadata": {
+        "gender": "female",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125384-jTjaeDbDgF4J.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125384
+      }
+    },
+    {
+      "id": "mishima",
+      "name": "Mishima",
+      "alt_names": [
+        "三嶋"
+      ],
+      "role": "supporting",
+      "description": "Yumi's best friend.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125385-phySyEwXv9ae.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125385
+      }
+    },
+    {
+      "id": "nomura",
+      "name": "Nomura",
+      "alt_names": [
+        "野村"
+      ],
+      "role": "supporting",
+      "description": "Ayumi's friend.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125386-HDE5KamUXin0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125386
+      }
+    },
+    {
+      "id": "oikawa",
+      "name": "Oikawa",
+      "alt_names": [
+        "及川"
+      ],
+      "role": "supporting",
+      "description": "Ayumi's classmate. He asked her out once and was rejected.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125387-AKdzKmF1AI67.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125387
+      }
+    },
+    {
+      "id": "shunsuke-otosaka",
+      "name": "Shunsuke Otosaka",
+      "alt_names": [
+        "乙坂隼翼",
+        "Shun"
+      ],
+      "role": "supporting",
+      "description": "Shunsuke is the older brother of Ayumi and Yuu.\n\n~!In his first appearance during a future flashback in Episode 9, it is revealed that he has the power of Time Leap, but is limited to whether or not he is able to see with both eyes.!~\n\n~!In the current timeline, he is blind. He tells Yuu and the others that every time he used his time leaping ability, his vision got progressively worse, until it finally blinded him completely. As a consequence, he is unable to use his powers anymore. Fortunately, Yuu is still able to steal the power to go back in time to save Ayumi.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125388-USug5UNdEAHH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125388
+      }
+    },
+    {
+      "id": "sara-shane",
+      "name": "Sara Shane",
+      "alt_names": [
+        "Sara Shane"
+      ],
+      "role": "supporting",
+      "description": "The vocalist of the band ZHIEND. She is blind.\n\n~!In episode 8, Yuu brings Sara with him to check on Tomori Nao's older brother, Tomori Kazuki, he believes that Sara may be able to help him in some way. When they arrive, Sala sings her song \"Fallin'\" to calm Kazuki down from his rage, allowing him to recognize others once again.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125389-Ct9EhweyHRGb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125389
+      }
+    },
+    {
+      "id": "kazuki-tomori",
+      "name": "Kazuki Tomori",
+      "alt_names": [
+        "友利一希"
+      ],
+      "role": "supporting",
+      "description": "Nao's older brother who was a member of a band. Previously, he had the ability to make air vibrate which he used on live performances to change his guitar sound. But scientists experimented on him, and now he stays at the hospital. He didn't even recognize Nao as his little sister anymore. \n\nHe's the reason that Nao is a fan of band ZHIEND.\n\n~!In episode 8, due to the singing from the lead vocalist of ZHIEND he calms down. During this time, Yuu Otosaka speaks with him, which leads him to remembering Nao.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125390-vOueNppmy5uK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125390
+      }
+    },
+    {
+      "id": "yumi-shirayanagi",
+      "name": "Yumi Shirayanagi",
+      "alt_names": [
+        "白柳弓"
+      ],
+      "role": "supporting",
+      "description": "Yumi Shirayanagi is the madonna of Yuu's previous high school who initially falls for Yuu after he saves her from a traffic accident (which he himself caused); however, she dumps him after he transfers to Hoshiumi Academy.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125391-KhKGzBAxhFkK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125391
+      }
+    },
+    {
+      "id": "shou",
+      "name": "Shou",
+      "alt_names": [
+        "ショウ"
+      ],
+      "role": "supporting",
+      "description": "Sho was a friend of Misa and Kota back when Misa was alive, He along with Kota helped Yusa about the Problem with the TV Producer. He rode with her during her Incident 6 months ago. He has feelings for Misa and he confessed to her.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125392-tcP2FexI20Wk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125392
+      }
+    },
+    {
+      "id": "shichino",
+      "name": "Shichino",
+      "alt_names": [
+        "七野"
+      ],
+      "role": "supporting",
+      "description": "Shunsuke's friend who has the ability to pass through walls but gets very tired after passing through an object each time.",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125393-Vsf2gNziA1M2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125393
+      }
+    },
+    {
+      "id": "yoshiyuki-oomura",
+      "name": "Yoshiyuki Oomura",
+      "alt_names": [
+        "大村佳之"
+      ],
+      "role": "supporting",
+      "description": "Yoshiyuki Oomura is the president of the Student Council in Hinomori High School.",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244256-ZxpAXW6zDkvC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244256
+      }
+    },
+    {
+      "id": "udou",
+      "name": "Udou",
+      "alt_names": [
+        "有働"
+      ],
+      "role": "supporting",
+      "description": "Udou is a student from Class 2-E of Nanba High School, and the captain of the archery club.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244264-YX5F19Z42SuD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244264
+      }
+    },
+    {
+      "id": "takato",
+      "name": "Takato",
+      "alt_names": [
+        "隆人"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244273-PCPc4MM1GpA4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244273
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:36:58.937Z"
+}

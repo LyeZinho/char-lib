@@ -1,0 +1,1222 @@
+{
+  "work_id": "solo-leveling",
+  "count": 50,
+  "characters": [
+    {
+      "id": "jin-u-seong",
+      "name": "Jin-U Seong",
+      "alt_names": [
+        "성진우",
+        "Sung Jin-Woo",
+        "Shun Mizushino (水篠旬)",
+        "World's Weakest Hunter",
+        "2nd Rate Asian Hunter",
+        "The Weakest Hunter of All Mankind"
+      ],
+      "role": "protagonist",
+      "description": "__Class:__ Mage\n__Relative(s):__ [Park Kyung-Hye](https://anilist.co/character/209396/KyungHye-Park) (Mother), [Sung Jin-Ah](https://anilist.co/character/138791/JinAh-Sung) (Sister), ~![Sung Il-Hwan](https://anilist.co/character/138790/IlHwan-Sung) (Father), [Cha Hae-In](https://anilist.co/character/138789/HaeIn-Cha) (Wife), [Sung Su-Ho](https://anilist.co/character/306654/Suho-Sung) (Son), [Yoo Jin-Ho](https://anilist.co/character/136076/JinHo-Yoo) (Brother in Law)!~ \n~!__Guild:__ Ahjin Guild (Guild Master)\n__Affiliation:__ Korean Hunters Association (helper), White Tiger Guild (helper), Hunters Guild (helper), Knights Guild (helper), Ahjin Guild (Guild Master)!~\n\nSeong Jin-U is the protagonist of [Solo Leveling](https://anilist.co/manga/105398/Solo-Leveling/) and is known as an infamously weak E-Rank Hunter. He is a humble and benevolent individual who cares deeply for his family and has an ardent desire to become stronger. As a result, he shares a close relationship with his sister and his mother, and rarely wastes an opportunity to refine his skills and gain more power.\n\n~!He becomes an S-Rank hunter after being given a chance to become stronger by the System.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "23-24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129928
+      }
+    },
+    {
+      "id": "hae-in-cha",
+      "name": "Hae-In Cha",
+      "alt_names": [
+        "차해인",
+        "Shizuku Kousaka (向坂雫)",
+        "Blade Dancer"
+      ],
+      "role": "supporting",
+      "description": "__Guild:__ Hunters Guild\n__Class:__ Sword Fighter\n__Affiliations:__ Jeju Island Raid Party, [Song Chi-Yul](https://anilist.co/character/136073/ChiYul--Song)’s Dojo (Disciple)\n\nCha Hae-In is the Vice-Guild Master of the Hunters Guild. She is an S rank hunter and the 9th ranked hunter in South Korea. She possesses the unique ability of mana smell and hates the smell of hunters except for [Sung Jin-Woo](https://anilist.co/character/129928/JinWoo-Sung).",
+      "metadata": {
+        "gender": "female",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138789
+      }
+    },
+    {
+      "id": "chi-yul-song",
+      "name": "Chi-Yul Song",
+      "alt_names": [
+        "송치율",
+        "Isao Mabuchi (馬渕勲)",
+        "Chi-Yeol (송치열)"
+      ],
+      "role": "supporting",
+      "description": "__Magic Type:__ Fire\n\nKorean C-Rank Hunter and kumdo teacher. He is also one of Jinwoo's old friends, having known him since he was a E-Rank Hunter.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136073-0hZNgsWB9ZLH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136073
+      }
+    },
+    {
+      "id": "ju-hui-lee",
+      "name": "Ju-Hui Lee",
+      "alt_names": [
+        "이주희",
+        "Lee Joohee",
+        "Lee Ju-Hee",
+        "Eri Mizuki (観月絵里)"
+      ],
+      "role": "supporting",
+      "description": "She is a healer with rank B.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136074
+      }
+    },
+    {
+      "id": "dong-su-hwang",
+      "name": "Dong-Su Hwang",
+      "alt_names": [
+        "황동수",
+        "Dongsoo Hwang",
+        "Masato Ukyou (右京将人)"
+      ],
+      "role": "supporting",
+      "description": "Hwang Dong-su is an​ S-class hunter who works for Scavenger's Guild in America.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136075-M6VRrZyHpaI5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136075
+      }
+    },
+    {
+      "id": "jin-ho-yu",
+      "name": "Jin-Ho Yu",
+      "alt_names": [
+        "유진호",
+        "Kenta Morobishi (諸菱賢太)",
+        "Yoo Jin-Ho"
+      ],
+      "role": "supporting",
+      "description": "__Class:__ Tanker\n__Guild:__ ~!Ahjin Guild (Vice-Guild Master)!~\n\nYoo Jin-Ho is a D rank hunter and is [Jin-U Seong](https://anilist.co/character/129928/JinWoo-Sung)'s faithful assistant and combat partner.",
+      "metadata": {
+        "gender": "male",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136076-D7eiE3pA9U8g.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136076
+      }
+    },
+    {
+      "id": "yun-ho-baek",
+      "name": "Yun-Ho Baek",
+      "alt_names": [
+        "백윤호",
+        "Taiga Shirakawa (白川大虎)",
+        "Baek Yoon-Ho"
+      ],
+      "role": "supporting",
+      "description": "He is a S rank hunter and master of the White Tiger guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136077-IIMqRmMK5Fgs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136077
+      }
+    },
+    {
+      "id": "jin-cheol-u",
+      "name": "Jin-Cheol U",
+      "alt_names": [
+        "우진철",
+        "Akira Inukai (犬飼晃)",
+        "Woo Jin-Chul",
+        "Wool Jinchu"
+      ],
+      "role": "supporting",
+      "description": "An A rank hunter that works for Hunter's association of Korea.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136819-okbPuuFAefYX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136819
+      }
+    },
+    {
+      "id": "il-hwan-seong",
+      "name": "Il-Hwan Seong",
+      "alt_names": [
+        "성일환",
+        "Suspect-S",
+        "Sung Il-hwan",
+        "Junichirou Mizushino (水篠潤一郎)"
+      ],
+      "role": "supporting",
+      "description": "Il-Hwan is a muscular middle-aged man with black eyes, shaggy black hair, and slight facial hair. When using his powers or agitated, his eyes glows bright yellow.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138790-i3DFMscWID9D.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138790
+      }
+    },
+    {
+      "id": "jin-a-seong",
+      "name": "Jin-A Seong",
+      "alt_names": [
+        "성진아",
+        "Aoi Mizushino (水篠葵)",
+        "Sung Jin-Ah",
+        "Sung Jinah"
+      ],
+      "role": "supporting",
+      "description": "Younger sister of [Jin-U](https://anilist.co/character/129928).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138791-IngjgBQqGMWc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138791
+      }
+    },
+    {
+      "id": "geon-hui-go",
+      "name": "Geon-Hui Go",
+      "alt_names": [
+        "고건희",
+        "Kiyoomi Gotou (後藤清臣)",
+        "Go Gun-Hee"
+      ],
+      "role": "supporting",
+      "description": "Go Gun-Hee (고건희) is a South Korean S-Rank Hunter and the Chairman of the Korean Hunters Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138792-TXFrDA1wpbmo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138792
+      }
+    },
+    {
+      "id": "song-i-han",
+      "name": "Song-I Han",
+      "alt_names": [
+        "한송이",
+        "Song-Yi Han"
+      ],
+      "role": "supporting",
+      "description": "Han Song-I is an E-Rank hunter who quit school after gaining money through the Yoo Jin-Ho and Sung Jin-Woo motley group of party. She is friends with Sung Jin-Ah. She first appeared when Jin-Ah visited Jin-Woo in the hospital but she didn't know him then.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138793-eijpaPPkcipD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138793
+      }
+    },
+    {
+      "id": "jong-in-choi",
+      "name": "Jong-In Choi",
+      "alt_names": [
+        "최종인",
+        "Shin Mogami (最上真)"
+      ],
+      "role": "supporting",
+      "description": "Choi Jong-In is one of the 10 S-Rank Hunters of South Korea. He is also the Guild Master of the Hunters Guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138794-dZNdO0pvZ659.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138794
+      }
+    },
+    {
+      "id": "igris",
+      "name": "Igris",
+      "alt_names": [
+        "이그리트",
+        "Ygritte"
+      ],
+      "role": "supporting",
+      "description": "Igris is one of the first Shadows that Sung Jin-Woo acquired. He was initially protecting an empty throne in an Instant Dungeon where Jin-Woo was doing his Job Quest in the Job Change Quest Dungeon.\n\nAfter two failed attempts of Shadow Extraction, Sung Jin-Woo convinced him to protect him instead of protecting an Empty throne, obtaining him as a Knight Grade Shadow.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145722-qSJ71S6vpeeM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145722
+      }
+    },
+    {
+      "id": "byeong-gyu-min",
+      "name": "Byeong-Gyu Min",
+      "alt_names": [
+        "민병규",
+        "Min Byeong-Gu",
+        "Min Byung-gu",
+        "Min Byung-gyu",
+        "Tsuyoshi Minobe (美濃部剛)"
+      ],
+      "role": "supporting",
+      "description": "Min Byung-Gyu was a retired hunter and one of the 10 S-Rank and only S-Rank Healer of South Korea. He was a close friend with the White Tiger's Guild Master Baek Yoon-Ho. He took part in the 4th Jeju Island Reclamation Raid and was a member of the Korean Raid Team tasked with killing the boss of the Jeju Island Gate.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b148789-HmGZf4RUzEFw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 148789
+      }
+    },
+    {
+      "id": "beru",
+      "name": "Beru ",
+      "alt_names": [
+        "왕",
+        "Ant King",
+        "Ari no Ou (アリの王)"
+      ],
+      "role": "supporting",
+      "description": "Born from the Ant Queen on Jeju Island, The Ant King becomes the main threat during the Fourth Jeju Island Raid.\n\n~!Single-handedly responsible for the deaths of over 8 of the 16 S-Rank Hunters during the raid.!~ \n\n~!After being killed by Sung Jinwoo, the Ant King was revived as one of his shadow soldiers, and was given him the new name of Beru.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b159849-p0Szb7KzD2DD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 159849
+      }
+    },
+    {
+      "id": "esil-radiru",
+      "name": "Esil Radiru",
+      "alt_names": [
+        "에실",
+        "Elisa"
+      ],
+      "role": "supporting",
+      "description": "Esil Radiru, or Elisa Radiru, is a daughter of the Radiru chief and an Aristocratic Demon found at the S-Rank Demon's Castle Instant Dungeon.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b164675-ZrAxmOOwGSa6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 164675
+      }
+    },
+    {
+      "id": "atsushi-kumamoto",
+      "name": "Atsushi Kumamoto",
+      "alt_names": [
+        "쿠마모토 아츠시",
+        "熊本敦"
+      ],
+      "role": "supporting",
+      "description": "Atsushi Kumamoto is one of Japan's strongest S-Rank Hunters. He is a member of Japan's most powerful guild, the Draw Sword Guild led by Goto Ryuji.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174040-uXYmiPUHnUPl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174040
+      }
+    },
+    {
+      "id": "goto-ryuji",
+      "name": "Goto Ryuji",
+      "alt_names": [
+        "고토류지",
+        "Japan's Best Hunter"
+      ],
+      "role": "supporting",
+      "description": "Goto Ryuji is Japan's strongest S-Ranked Hunter and the Guild Master of Draw Sword Guild, one of the most powerful guilds in Asia.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181154-cYOPK6mij2kI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181154
+      }
+    },
+    {
+      "id": "tae-shik-kang",
+      "name": "Tae-Shik Kang",
+      "alt_names": [
+        "강태식",
+        "Taisei Michikado (道門泰星)"
+      ],
+      "role": "supporting",
+      "description": "B-rank Hunter and An inspector working for South Korea's Hunter Association, Monitoring Division.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181155-IkXnHuzG6he9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181155
+      }
+    },
+    {
+      "id": "myung-han-yu",
+      "name": "Myung-Han Yu",
+      "alt_names": [
+        "유명한",
+        "Akinari Morobishi (諸菱明成)"
+      ],
+      "role": "supporting",
+      "description": "Yu Myung-Han (유명한) is Jin-Ho's father and the CEO of Yoojin Construction.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184530-prSQOxMJid47.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184530
+      }
+    },
+    {
+      "id": "min-sung-lee",
+      "name": "Min-Sung Lee",
+      "alt_names": [
+        "이민성"
+      ],
+      "role": "supporting",
+      "description": "Famous Korean actor, known as Asia's biggest movie star. He is also an A-Rank Hunter.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184535-JQleIoFpQoRg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184535
+      }
+    },
+    {
+      "id": "hee-jin-park",
+      "name": "Hee-Jin Park",
+      "alt_names": [
+        "박희진",
+        "Park Heejin"
+      ],
+      "role": "supporting",
+      "description": "Park Hee-Jin (박희진) is a member of White Tiger Guild that Sung Jin-Woo helped when they got stuck inside the Red Gate.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184538-4J5sRSFKNLGQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184538
+      }
+    },
+    {
+      "id": "thomas-andre",
+      "name": "Thomas Andre",
+      "alt_names": [
+        "트마스아드레",
+        "The Goliath"
+      ],
+      "role": "supporting",
+      "description": "Thomas Andre (트마스 아드레) is one of only 5 National Level Hunters that exist and is considered to be the strongest Tank on Earth. He is also the Guild Master of the Scavenger Guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184540-JNscGAnjHExA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184540
+      }
+    },
+    {
+      "id": "ki-hoon-son",
+      "name": "Ki-Hoon Son",
+      "alt_names": [
+        "손기훈"
+      ],
+      "role": "supporting",
+      "description": "Son Ki-Hoon (손기훈) is the Team Leader of Attack Force B of the Hunters Guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184541-tOghZsQZgBS4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184541
+      }
+    },
+    {
+      "id": "minoru-hoshino",
+      "name": "Minoru Hoshino",
+      "alt_names": [
+        "호시노미노루"
+      ],
+      "role": "supporting",
+      "description": "Minoru Hoshino (호시노 미노루) is one of Japan's strongest S-Rank Hunters. He is a member of Japan's strongest guild, the Draw Sword Guild led by Goto Ryuji.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184543-6u5chfqdaVoA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184543
+      }
+    },
+    {
+      "id": "tank",
+      "name": "Tank",
+      "alt_names": [
+        "탱크",
+        "Ice Bear"
+      ],
+      "role": "supporting",
+      "description": "Shadow of an ice bear that Jinwoo encountered during the Red Gate Incident.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184545-zoRmBPp8l7Mi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184545
+      }
+    },
+    {
+      "id": "kaisel",
+      "name": "Kaisel",
+      "alt_names": [
+        "카이셀",
+        "Kaisellin"
+      ],
+      "role": "supporting",
+      "description": "Kaisel is a shadow Sung Jin-Woo obtained in the Demon Castle. Kaisel is the shadow of Kaisellin, a Drake/Wyvern that Demon King Baran used as a mount.\n\nKaisel used to be a mount that the Demon King Baran rode in battle. After Sung Jin-Woo's fight, he looks around and found that Iron already killed Kaisellin, dragging his corpse towards Sung Jin-Woo. After he was extracted, his grade was Knight, which concludes he was at least an A-Rank.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184546-7auQqtPuhlUO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184546
+      }
+    },
+    {
+      "id": "kei",
+      "name": "Kei",
+      "alt_names": [
+        "케이"
+      ],
+      "role": "supporting",
+      "description": "Kei (케이) was one of Japan's strongest S-Rank Hunters who was a member of the Draw Sword Guild, the strongest guild in japan led by Goto Ryuji.\n\nHe was a powerful mage class hunter specializing in ice magic.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184547-PYsRYG61Bacv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184547
+      }
+    },
+    {
+      "id": "reiji-sugimoto",
+      "name": "Reiji Sugimoto",
+      "alt_names": [
+        "스기모토레이지"
+      ],
+      "role": "supporting",
+      "description": "Reiji Sugimoto is the Vice-Master of Draw Sword Guild, the second most powerful guild in Asia.\n\nDuring the 4th Jeju Island Reclamation Raid, Reiji Sugimoto did not directly participate in the raid like his guild master Goto Ryuji. However, he was onboard the second DDH-184, one of the numerous Japanese boats surrounding the island.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184549-TwrBPK3ARm8x.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184549
+      }
+    },
+    {
+      "id": "mari-ishida",
+      "name": "Mari Ishida",
+      "alt_names": [
+        "이시다마리"
+      ],
+      "role": "supporting",
+      "description": "Mari Ishida was one of Japans strongest S-Rank Hunters.\n\n~!She was effortlessly killed during the 4th Jeju Island Reclamation Raid.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184551-et9ZgmRWP5iu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184551
+      }
+    },
+    {
+      "id": "ippei-izawa",
+      "name": "Ippei Izawa",
+      "alt_names": [
+        "이자와잇페이"
+      ],
+      "role": "supporting",
+      "description": "One of Japan's strongest S-Rank Hunters. He took part in the 4th Jeju Island Reclamation Raid.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184552-fhBSVaYnmndC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184552
+      }
+    },
+    {
+      "id": "zhigang-liu",
+      "name": "Zhigang Liu",
+      "alt_names": [
+        "류즈캉",
+        "The Hero of China"
+      ],
+      "role": "supporting",
+      "description": "Zhigang Liu is one of the top five National Level Hunters in the world. Zhigang, who originated from China, was hired by the United States Government to aid with the first S-Rank Gate that appeared in the US.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184553-8dz0Dw1bvQ8G.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184553
+      }
+    },
+    {
+      "id": "dong-wook-ma",
+      "name": "Dong-Wook Ma",
+      "alt_names": [
+        "마동욱"
+      ],
+      "role": "supporting",
+      "description": "Ma Dong-Wook (마동욱) is one of the 10 S-Rank hunters of South Korea and the guild master of Fame Guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184555-NMCZb01p2Aqp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184555
+      }
+    },
+    {
+      "id": "baruka",
+      "name": "Baruka",
+      "alt_names": [
+        "바루카",
+        "Barca"
+      ],
+      "role": "supporting",
+      "description": "S-Rank Ice Elf and the boss of the Red Gate Dungeon.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184954-ITUjIeGETUf8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184954
+      }
+    },
+    {
+      "id": "iron",
+      "name": "Iron",
+      "alt_names": [
+        "아이언"
+      ],
+      "role": "supporting",
+      "description": "A shadow Sung Jin-Woo gained after entering the Red Gate. ~!Before being reawakened as a Shadow he was Chul Kim (김철), an A-Rank Hunter of the White Tiger Guild.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184956-uy2dOVHacMsf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184956
+      }
+    },
+    {
+      "id": "tusk",
+      "name": "Tusk",
+      "alt_names": [
+        "어금니",
+        "Kiba (キバ)",
+        "Kargalgan (칼갈간)"
+      ],
+      "role": "supporting",
+      "description": "A shadow Sung Jin-Woo gained after entering the Hunters Guild Gate.\n\n~!Tusk is a shadow of Kargalgan, originally a High Orc Shaman defeated by Jinwoo Sung during the Hunters Guild Gate Arc. After being resurrected, Tusk becomes one of Jinwoo's most potent magic users, known for his devastating area-of-effect spells and high intelligence. Even as a Shadow, Tusk kept his powerful abilities and spells, making him just as capable and even stronger than when he was alive.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184957-b9X1TeiuteqR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184957
+      }
+    },
+    {
+      "id": "ashborn",
+      "name": "Ashborn",
+      "alt_names": [
+        "아스본",
+        "그림자 군주 (Geurimja Gunju)",
+        "Shadow Monarch",
+        "망자들의 왕 (Mangjadeurui Wang)",
+        "King of the Dead",
+        "Osborne"
+      ],
+      "role": "supporting",
+      "description": "Ashborn is the former Shadow Monarch. He was extremely powerful, being the Greatest Fragment of Brilliant Light. In other words, the Strongest Ruler and equalling the power of the Monarch of Destruction.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b198257-qi06d0qgcX1Y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 198257
+      }
+    },
+    {
+      "id": "hokanui-gunju",
+      "name": "Hokanui Gunju",
+      "alt_names": [
+        "혹한의 군주",
+        "Arte",
+        "the Monarch of Frost",
+        "the Ice Monarch",
+        "설인들의 왕 (Seorindeurui Wang)"
+      ],
+      "role": "supporting",
+      "description": "The Ice Monarch is an extremely powerful Mage type being, holding powers that are related to the cold, such as ice and snow.\n\n ~!He was the second Monarch that met Jin-Woo, the first being Legia, the King of Giants. The Ice Monarch was also responsible for killing the Korean Hunters Association president, Go Gun-Hee.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b204867-LjKxzybhCMd8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 204867
+      }
+    },
+    {
+      "id": "yogumunt",
+      "name": "Yogumunt",
+      "alt_names": [
+        "요그문트",
+        "The Monarch of Transfiguration",
+        "환계의 군주 망령들의 왕"
+      ],
+      "role": "supporting",
+      "description": "Yogumunt is one of the Monarchs who invaded earth, an archenemy of the Rulers.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207013-KfQDMebcmS7k.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207013
+      }
+    },
+    {
+      "id": "christopher-reed",
+      "name": "Christopher Reed",
+      "alt_names": [
+        "크리스토퍼 리드"
+      ],
+      "role": "supporting",
+      "description": "Christopher Reed is an S-Rank hunter from USA. Reed is one of the few National Level Hunters.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208458-p4bX3kbfUl1N.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208458
+      }
+    },
+    {
+      "id": "yasu-songgonniui-gunju",
+      "name": "Yasu Songgonniui Gunju",
+      "alt_names": [
+        "야수 송곳니의 군주",
+        "Beast Monarch",
+        "the Monarch of Beastly Fangs",
+        "the King of Beasts",
+        "Greatest Hunter in the Chaos World"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209177-3t4ZvLM7uKcR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209177
+      }
+    },
+    {
+      "id": "norma-selner",
+      "name": "Norma Selner",
+      "alt_names": [
+        "노마 셀너",
+        "Lady Selner",
+        "The Seer"
+      ],
+      "role": "supporting",
+      "description": "Norma Selner is a hidden member of Federal Bureau of Hunters. She is an awakened human that possesses the ability to increase the strength of other awakened.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209178-T04heWE0jDcc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209178
+      }
+    },
+    {
+      "id": "adam-white",
+      "name": "Adam White",
+      "alt_names": [
+        "애덤 화이트"
+      ],
+      "role": "supporting",
+      "description": "Adam White is an agent of Federal Bureau of Hunters. A polyglot who served as Jin-Woo's translator while Beru is unavailable. He is said to be able to speak 10 languages. He is one of the most prominent foreign association-related figures along with David Brennon, director of the Federal Bureau of Hunters.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209179-PK0X7vYFo079.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209179
+      }
+    },
+    {
+      "id": "querehsha",
+      "name": "Querehsha",
+      "alt_names": [
+        "퀘레샤",
+        "역병의 군주 벌레들의 왕 (Yeokbyeongui Gunju Beolledeurui Wang)",
+        "Monarch of Plagues",
+        "the Queen of Insects"
+      ],
+      "role": "supporting",
+      "description": "Querehsha is one of the Monarchs who invaded Earth, an archenemy of the Rulers.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209181-4wEID01Jgmne.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209181
+      }
+    },
+    {
+      "id": "kamish",
+      "name": "Kamish",
+      "alt_names": [
+        "카미쉬"
+      ],
+      "role": "supporting",
+      "description": "Kamish was an immensely powerful Magic Beast that appeared after a Dungeon Break occurred within the first S-Ranked Gate that opened within the USA and was responsible for destroying a portion of the western part of the USA and killing hundreds of Elite Hunters. Kamish is regarded as Humanity's worst calamity.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209182-PUuu7rpNh0Us.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209182
+      }
+    },
+    {
+      "id": "legia",
+      "name": "Legia",
+      "alt_names": [
+        "레기아",
+        "Monarch of the Beginning",
+        "King of Giants"
+      ],
+      "role": "supporting",
+      "description": "Legia is the Monarch of the Beginning.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209184-w70Ft3HJEgRd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209184
+      }
+    },
+    {
+      "id": "kyung-hye-park",
+      "name": "Kyung-Hye Park",
+      "alt_names": [
+        "박경혜",
+        "Gyeong-Hye Park"
+      ],
+      "role": "supporting",
+      "description": "Park Kyung-He is the mother of Jin-U and Jin-Ah. She was in the hospital because of the Eternal Sleep.\n\nHer sickness served as the primary motivation for Jin-U becoming a hunter alongside his desire to support his sister with the absence of their father.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209396-ZEr0YZIQE0Z0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209396
+      }
+    },
+    {
+      "id": "hanekawa",
+      "name": "Hanekawa",
+      "alt_names": [
+        "하네카와"
+      ],
+      "role": "supporting",
+      "description": "Hanekawa is a member and official translator of Japan's most powerful Guild, Draw Sword. Despite serving primarily as a translator of Japan's best hunter, Goto Ryuji, she is also an A-Rank Hunter.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209397-9Q91b9sY8Dl6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209397
+      }
+    },
+    {
+      "id": "akari-shimizu",
+      "name": "Akari Shimizu",
+      "alt_names": [
+        "시미즈 아카리"
+      ],
+      "role": "supporting",
+      "description": "Japanese S-Rank healer and a member of the Draw Sword Guild.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209901-WtVWh82YZLDK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209901
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T18:55:52.601Z"
+}

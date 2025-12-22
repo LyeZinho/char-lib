@@ -238,6 +238,71 @@ tests/
     └── import.test.js
 \`\`\`
 
+## Deploy
+
+### Comando Deploy
+
+O comando \`deploy\` atualiza a base de dados pública do site, sincronizando o diretório \`web/public/data\` com os dados atuais do projeto.
+
+**Implementação em \`src/cli.js\`:**
+
+\`\`\`javascript
+program
+  .command('deploy')
+  .description('Deploy data to web/public/data directory')
+  .action(async () => {
+    try {
+      const sourceDir = path.join(process.cwd(), 'data');
+      const targetDir = path.join(process.cwd(), 'web', 'public', 'data');
+      
+      // Remove old data
+      if (existsSync(targetDir)) {
+        await fs.rm(targetDir, { recursive: true, force: true });
+        console.log('🗑️  Removed old web/public/data');
+      }
+      
+      // Copy fresh data
+      await copyDirRecursive(sourceDir, targetDir);
+      console.log('📋 Copied data/ to web/public/data');
+      console.log('✅ Deploy completed successfully');
+    } catch (error) {
+      console.error('❌ Deploy failed:', error.message);
+      process.exit(1);
+    }
+  });
+\`\`\`
+
+**Função auxiliar para cópia recursiva:**
+
+\`\`\`javascript
+async function copyDirRecursive(source, target) {
+  const stats = await fs.stat(source);
+  
+  if (stats.isDirectory()) {
+    await fs.mkdir(target, { recursive: true });
+    const entries = await fs.readdir(source);
+    
+    for (const entry of entries) {
+      const sourcePath = path.join(source, entry);
+      const targetPath = path.join(target, entry);
+      await copyDirRecursive(sourcePath, targetPath);
+    }
+  } else {
+    await fs.copyFile(source, target);
+  }
+}
+\`\`\`
+
+**Uso:**
+
+\`\`\`bash
+# Executar deploy
+npm run deploy
+
+# Ou diretamente
+node src/cli.js deploy
+\`\`\`
+
 ## Debugging
 
 ### Logs Detalhados

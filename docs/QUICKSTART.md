@@ -196,6 +196,25 @@ Tente com o ID direto:
 node src/cli.js import anime "Naruto" --id 20
 \`\`\`
 
+## Publicando seus Dados
+
+Depois de coletar dados, você pode publicá-los em um site usando o comando deploy:
+
+\`\`\`bash
+# Atualizar a base de dados pública
+npm run deploy
+\`\`\`
+
+Isso vai:
+1. 🗑️ **Remover** dados antigos de \`web/public/data\`
+2. 📋 **Copiar** todos os dados de \`data/\` para \`web/public/data\`
+3. ✅ **Atualizar** o site com dados frescos
+
+**Para sites:**
+- Configure um servidor web servindo a pasta \`web/\`
+- Os dados estarão disponíveis em \`/data/\` via HTTP
+- Pronto para consumo por aplicações frontend
+
 ## Documentação Completa
 
 - [README.md](../README.md) - Visão geral

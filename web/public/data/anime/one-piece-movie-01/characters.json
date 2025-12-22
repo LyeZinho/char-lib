@@ -1,0 +1,369 @@
+{
+  "work_id": "one-piece-movie-01",
+  "count": 5,
+  "characters": [
+    {
+      "id": "one-piece-movie-01_el-drago",
+      "name": "El Drago",
+      "alt_names": [],
+      "role": "protagonist",
+      "description": "Descrição não disponível via MyAnimeList API. Para descrições completas, importe usando --source anilist.",
+      "metadata": {
+        "age": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.myanimelist.net/images/characters/15/384809.jpg?s=fd7cd170304f5814ca58b2277cb889f9",
+          "type": "portrait",
+          "source": "MyAnimeList"
+        }
+      ],
+      "external_ids": {
+        "mal": 25914
+      },
+      "tags": [],
+      "relations": [],
+      "voice_actors": [
+        {
+          "id": 138,
+          "name": "Utsumi, Kenji",
+          "language": "Japanese",
+          "external_ids": {
+            "mal": 138
+          }
+        },
+        {
+          "id": 9868,
+          "name": "Souterelle, Frédéric",
+          "language": "French",
+          "external_ids": {
+            "mal": 9868
+          }
+        },
+        {
+          "id": 1089,
+          "name": "Zucca, Mario",
+          "language": "Italian",
+          "external_ids": {
+            "mal": 1089
+          }
+        },
+        {
+          "id": 40674,
+          "name": "Vallés, Alfonso",
+          "language": "Spanish",
+          "external_ids": {
+            "mal": 40674
+          }
+        },
+        {
+          "id": 42719,
+          "name": "Röbke, Willi",
+          "language": "German",
+          "external_ids": {
+            "mal": 42719
+          }
+        }
+      ],
+      "updated_at": "2025-12-22T12:16:33.117Z",
+      "created_at": "2025-12-22T12:16:33.117Z"
+    },
+    {
+      "id": "one-piece-movie-01_ganzo",
+      "name": "Ganzo",
+      "alt_names": [],
+      "role": "protagonist",
+      "description": "Descrição não disponível via MyAnimeList API. Para descrições completas, importe usando --source anilist.",
+      "metadata": {
+        "age": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.myanimelist.net/images/characters/11/384807.jpg?s=3b8e41e580bf8632f7e3af79568c1b2c",
+          "type": "portrait",
+          "source": "MyAnimeList"
+        }
+      ],
+      "external_ids": {
+        "mal": 53003
+      },
+      "tags": [],
+      "relations": [],
+      "voice_actors": [
+        {
+          "id": 142,
+          "name": "Aono, Takeshi",
+          "language": "Japanese",
+          "external_ids": {
+            "mal": 142
+          }
+        },
+        {
+          "id": 686,
+          "name": "Matsuno, Taiki",
+          "language": "Japanese",
+          "external_ids": {
+            "mal": 686
+          }
+        },
+        {
+          "id": 6796,
+          "name": "Keen, Jérôme",
+          "language": "French",
+          "external_ids": {
+            "mal": 6796
+          }
+        },
+        {
+          "id": 23611,
+          "name": "Fuochi, Tony",
+          "language": "Italian",
+          "external_ids": {
+            "mal": 23611
+          }
+        },
+        {
+          "id": 46123,
+          "name": "Jenner, Miguel Ángel",
+          "language": "Spanish",
+          "external_ids": {
+            "mal": 46123
+          }
+        },
+        {
+          "id": 9240,
+          "name": "von Hauff, Walter",
+          "language": "German",
+          "external_ids": {
+            "mal": 9240
+          }
+        },
+        {
+          "id": 40330,
+          "name": "Döring, John-Alexander",
+          "language": "German",
+          "external_ids": {
+            "mal": 40330
+          }
+        },
+        {
+          "id": 46786,
+          "name": "Ceriotti, Roberto",
+          "language": "Italian",
+          "external_ids": {
+            "mal": 46786
+          }
+        }
+      ],
+      "updated_at": "2025-12-22T12:16:33.117Z",
+      "created_at": "2025-12-22T12:16:33.117Z"
+    },
+    {
+      "id": "one-piece-movie-01_monkey-d-luffy",
+      "name": "Monkey D., Luffy",
+      "alt_names": [],
+      "role": "protagonist",
+      "description": "Descrição não disponível via MyAnimeList API. Para descrições completas, importe usando --source anilist.",
+      "metadata": {
+        "age": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.myanimelist.net/images/characters/9/310307.jpg?s=3a27ab33bee665febfba970f24f203ba",
+          "type": "portrait",
+          "source": "MyAnimeList"
+        }
+      ],
+      "external_ids": {
+        "mal": 40
+      },
+      "tags": [],
+      "relations": [],
+      "voice_actors": [
+        {
+          "id": 75,
+          "name": "Tanaka, Mayumi",
+          "language": "Japanese",
+          "external_ids": {
+            "mal": 75
+          }
+        },
+        {
+          "id": 1267,
+          "name": "Rosa, Luigi",
+          "language": "Italian",
+          "external_ids": {
+            "mal": 1267
+          }
+        },
+        {
+          "id": 5143,
+          "name": "Schlauch, Daniel",
+          "language": "German",
+          "external_ids": {
+            "mal": 5143
+          }
+        },
+        {
+          "id": 21407,
+          "name": "Excoffier, Stéphane",
+          "language": "French",
+          "external_ids": {
+            "mal": 21407
+          }
+        },
+        {
+          "id": 6616,
+          "name": "Roca, Jaime",
+          "language": "Spanish",
+          "external_ids": {
+            "mal": 6616
+          }
+        }
+      ],
+      "updated_at": "2025-12-22T12:16:33.117Z",
+      "created_at": "2025-12-22T12:16:33.117Z"
+    },
+    {
+      "id": "one-piece-movie-01_nami",
+      "name": "Nami",
+      "alt_names": [],
+      "role": "protagonist",
+      "description": "Descrição não disponível via MyAnimeList API. Para descrições completas, importe usando --source anilist.",
+      "metadata": {
+        "age": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.myanimelist.net/images/characters/2/263249.jpg?s=e6c7015918ec37d6b31d680f8944790c",
+          "type": "portrait",
+          "source": "MyAnimeList"
+        }
+      ],
+      "external_ids": {
+        "mal": 723
+      },
+      "tags": [],
+      "relations": [],
+      "voice_actors": [
+        {
+          "id": 76,
+          "name": "Okamura, Akemi",
+          "language": "Japanese",
+          "external_ids": {
+            "mal": 76
+          }
+        },
+        {
+          "id": 1090,
+          "name": "Pacotto, Emanuela",
+          "language": "Italian",
+          "external_ids": {
+            "mal": 1090
+          }
+        },
+        {
+          "id": 10717,
+          "name": "Kellner, Stephanie",
+          "language": "German",
+          "external_ids": {
+            "mal": 10717
+          }
+        },
+        {
+          "id": 21429,
+          "name": "Marot, Kelly",
+          "language": "French",
+          "external_ids": {
+            "mal": 21429
+          }
+        },
+        {
+          "id": 7228,
+          "name": "Torres, Diana",
+          "language": "Spanish",
+          "external_ids": {
+            "mal": 7228
+          }
+        },
+        {
+          "id": 89971,
+          "name": "Hsu, Maggie",
+          "language": "Mandarin",
+          "external_ids": {
+            "mal": 89971
+          }
+        }
+      ],
+      "updated_at": "2025-12-22T12:16:33.117Z",
+      "created_at": "2025-12-22T12:16:33.117Z"
+    },
+    {
+      "id": "one-piece-movie-01_roronoa-zoro",
+      "name": "Roronoa, Zoro",
+      "alt_names": [],
+      "role": "protagonist",
+      "description": "Descrição não disponível via MyAnimeList API. Para descrições completas, importe usando --source anilist.",
+      "metadata": {
+        "age": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.myanimelist.net/images/characters/3/100534.jpg?s=4a00840eacc26e9ad86bae6f505e4826",
+          "type": "portrait",
+          "source": "MyAnimeList"
+        }
+      ],
+      "external_ids": {
+        "mal": 62
+      },
+      "tags": [],
+      "relations": [],
+      "voice_actors": [
+        {
+          "id": 123,
+          "name": "Nakai, Kazuya",
+          "language": "Japanese",
+          "external_ids": {
+            "mal": 123
+          }
+        },
+        {
+          "id": 1268,
+          "name": "Prata, Patrizio",
+          "language": "Italian",
+          "external_ids": {
+            "mal": 1268
+          }
+        },
+        {
+          "id": 5144,
+          "name": "Brammer, Philipp",
+          "language": "German",
+          "external_ids": {
+            "mal": 5144
+          }
+        },
+        {
+          "id": 26651,
+          "name": "Noérie, Patrick",
+          "language": "French",
+          "external_ids": {
+            "mal": 26651
+          }
+        },
+        {
+          "id": 13959,
+          "name": "Saudinós, Jorge",
+          "language": "Spanish",
+          "external_ids": {
+            "mal": 13959
+          }
+        }
+      ],
+      "updated_at": "2025-12-22T12:16:33.117Z",
+      "created_at": "2025-12-22T12:16:33.117Z"
+    }
+  ],
+  "updated_at": "2025-12-22T12:16:33.118Z"
+}

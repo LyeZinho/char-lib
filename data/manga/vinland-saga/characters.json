@@ -1,0 +1,613 @@
+{
+  "work_id": "vinland-saga",
+  "count": 25,
+  "characters": [
+    {
+      "id": "thorfinn-karlsefni",
+      "name": "Thorfinn Karlsefni",
+      "alt_names": [
+        "トルフィン・カルルセヴニ",
+        "ثورفين",
+        "Thorsson"
+      ],
+      "role": "protagonist",
+      "description": "__Birthyear:__ 996\n__Height:__ 100 cm (6-7 years old), 153 cm (16-18 years old), 155 cm (19 years old)\n\nThorfinn is a courageous young man armed with two twin blades he inherited from his deceased [father](https://anilist.co/character/13021). He's traveling with [Askeladd](https://anilist.co/character/13020), who is the leader of a ruthless group of mercenaries who take jobs from whoever they think can offer them a reasonable reward. Besides, Askeladd is the man who killed Thorfinn's father, Thors, and the only reason Thorfinn is traveling with Askeladd is so he can defeat him in a duel and win back his father's pride. Thorfinn only wants to win his father's pride with a fair duel. Askeladd only agrees to these duels when Thorfinn completes a certain task (like bringing him the head of the opposing armies general on the battlefield).  He does not fight for the love of battle, but is still prone to losing his composure when in combat. This hotheadedness often costs him battles against more experienced opponents.",
+      "metadata": {
+        "gender": "male",
+        "age": "6-25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b10138-zOPrka0ddZOR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 10138
+      }
+    },
+    {
+      "id": "askeladd",
+      "name": "Askeladd",
+      "alt_names": [
+        "アシェラッド",
+        "أسكيلاد",
+        "آشيلاد"
+      ],
+      "role": "supporting",
+      "description": "Askeladd is the commander of a small but powerful Viking band, which owed its success to Askeladd's exceptional intelligence. Ten years before the main Vinland Saga storyline, Askeladd accepted a contract to assassinate [Thors](https://anilist.co/character/13021), father of [Thorfinn](https://anilist.co/character/10138). During the Viking invasion and war in England, he manipulated Thorfinn's desire for revenge against him as a way of keeping the gifted young fighter in his service. Askeladd is one of the most skilled fighters in the series, and is particularly adept at predicting his opponents' moves in combat. Askeladd shares the name of Askeladden, a Norwegian folk character known for his cleverness.\n\n~!He is half-Danish and half-Welsh, being the son of a Welsh princess captured by a Viking raider. He believes in the legend of Avalon, which inspired him to support Prince [Canute](https://anilist.co/character/17438)'s bid for kingship of the Danes and ultimately sacrifices himself assassinating King [Sweyn](https://anilist.co/character/27957) in order to install Canute as the Danish King and to ensure the safety of Wales from Denmark.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "33-44 ",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13020-ZdiYlNmpRUNS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 13020
+      }
+    },
+    {
+      "id": "thors-snorresson",
+      "name": "Thors Snorresson",
+      "alt_names": [
+        "トールズ・スノーレソン",
+        "The Troll of Jom",
+        "Jomstrollet",
+        "ثورز"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 180 cm (5'11\")\n\nThors is the father of [Thorfinn](https://anilist.co/character/10138), a Jomsviking general whose phenomenal combat prowess earns him the epithet &quot;The Troll of Jom&quot;. Thors grows weary of battle after the birth of his children, fakes his own death, and retires to become a pacifist farmer.\n\nThors is largely considered the greatest fighter to appear in the series, having defeated the likes of Askeladd and [Thorkell](https://anilist.co/character/17440) in single combat. Such was his strength that Floki was unwilling to engage him directly, even with an entire squadron of Jomsviking warriors. Unlike his son, Thors has no explicit or implied historical basis.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13021-XJAVDHwMWek2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 13021
+      }
+    },
+    {
+      "id": "canute-svenson",
+      "name": "Canute Svenson",
+      "alt_names": [
+        "クヌート",
+        "Cnut the Great",
+        "Canuto",
+        "Knut",
+        "Prince"
+      ],
+      "role": "supporting",
+      "description": "__Birthyear:__ 996\n__Height:__ 170 cm\n\nCanute is the prince of the Danes. He is initially portrayed as timid and womanly, with a bishounen appearance and inability to function without his retainer [Ragnar](https://anilist.co/character/82533). These traits, along with his strong Christianity, earn him the mockery of the Vikings with whom he works. ~!After Ragnar's death, however, he has a sharp reversal of personality, becomes strong and kingly, and develops an ambition to create utopia on earth before God's return. Towards this end, he plots to overthrow his father [Sweyn Forkbeard](https://anilist.co/character/27957) and take the crown of the Danes. Canute is based on the historical King Canute the Great, the most prominent Danish ruler of England.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "17-22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17438-NwyOSMxycmck.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17438
+      }
+    },
+    {
+      "id": "thorkell",
+      "name": "Thorkell",
+      "alt_names": [
+        "トルケル",
+        "Thorkell the Tall",
+        "Thorkell the Invincible",
+        "Torkjell Høge"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 230 cm (7'7\")\n\nThorkell is a Jomsviking general and brother of the Jomsviking Chief. A giant man who loves combat, Thorkell defected from the Danish army to become a mercenary for the English, believing that fighting his fellow Vikings will give him a better challenge. This same love of war leads him to support Prince [Canute](https://anilist.co/character/17438)'s bid for kingship of the Danes. Before [Thors](https://anilist.co/character/13021)' defection he works with and highly respects the man, and bears a fondness for his son [Thorfinn](https://anilist.co/character/10138) in the main plot. He duels twice with Thorfinn and dominates each time, though he loses two fingers in the first duel and an eye in the second. In battle, Thorkell typically wields a pair of axes as his primary weapons, but his greatest asset is probably his vast physical strength. During a skirmish with [Askeladd](https://anilist.co/character/13020)'s band, he hurled a spear with such force that it skewered three men at once, despite having been thrown from several hundred feet away. Thorkell's character is based on Thorkell the Tall, a historical Jomsviking lord who is a mentor to Canute in the Flateyjarbók.   \n\n~!Joined Canute as his servant after seeing him change in front of Askeladd and Thorfinn.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17440-XvYe5JY862ZT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17440
+      }
+    },
+    {
+      "id": "bjorn",
+      "name": "Bjorn",
+      "alt_names": [
+        "ビョルン",
+        "Bjørn"
+      ],
+      "role": "supporting",
+      "description": "Bjorn is [Askeladd](https://anilist.co/character/13020)'s second in command, a burly man who fights for the love of combat. He is a berserker, able to enter powerful rages through the consumption of certain mushrooms.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19485-GqL2A0NKp3Tf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19485
+      }
+    },
+    {
+      "id": "leif-erikson",
+      "name": "Leif Erikson",
+      "alt_names": [
+        "レイフ"
+      ],
+      "role": "supporting",
+      "description": "__Birthyear:__ 965\n__Height:__ 152 cm (4'11\")\n\n~!An explorer who joins [Thorfinn](https://anilist.co/character/10138) in his quest to find paradise.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "37-52",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19486-XRzBNqoLb5Le.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19486
+      }
+    },
+    {
+      "id": "willibald",
+      "name": "Willibald",
+      "alt_names": [
+        "ヴィリバルド"
+      ],
+      "role": "supporting",
+      "description": "A 23-year-old Friar who travels with and mentors Prince [Canute](https://anilist.co/character/17438). He enjoys alcohol and is searching for true love.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b20704-N5pntGOae3F4.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 20704
+      }
+    },
+    {
+      "id": "ylva",
+      "name": "Ylva",
+      "alt_names": [
+        "ユルヴァ",
+        "Ylfa"
+      ],
+      "role": "supporting",
+      "description": "She is [Thorfinn](https://anilist.co/character/10138)'s older sister. After Thorfinn has set on a journey to avenge his father, [Thors](https://anilist.co/character/13021), she takes care of household and [her mother](https://anilist.co/character/141589).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b27876-Oji0y5oi88oc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27876
+      }
+    },
+    {
+      "id": "sweyn",
+      "name": "Sweyn",
+      "alt_names": [
+        "スヴェン",
+        "Sweyn Forkbeard",
+        "King Sweyn",
+        "Sven",
+        "Svein Tjugeskjegg"
+      ],
+      "role": "supporting",
+      "description": "Danish king who managed to conquer almost the entirety of England and Wales, all the while keeping control of his more northern kingdoms. Father of [Canute](https://anilist.co/character/17438). ~!After being provoked by Sweyn, [Askeladd](https://anilist.co/character/13020) executes the king by cutting off his head with a sword.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "52",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b27957-1eAJeuybBavR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27957
+      }
+    },
+    {
+      "id": "einar",
+      "name": "Einar",
+      "alt_names": [
+        "エイナル"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 184 cm\n\nEinar is a man from Northern England that was sold into slavery. He ends up in Denmark, where he meets [Thorfinn](https://anilist.co/character/10138). Together with him, Einar is working his way out of slavery by harvesting the land his master has lent to him and Thorfinn.\n~!After [Arnheid's](https://anilist.co/character/75590) death, he and Thorfinn agree to create a country of peace in Vinland!~",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b28030-APYJLr7FvqtM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 28030
+      }
+    },
+    {
+      "id": "arnheid",
+      "name": "Arnheid",
+      "alt_names": [
+        "アルネイズ",
+        "Aruneizu"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 155cm\n\nOne of Ketil's slaves, serving as his personal maid and concubine. Arnheid is kind, hard-working, honest, and tries her best to get through her slave life without trouble.",
+      "metadata": {
+        "gender": "female",
+        "age": "21-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b75590-grddrcysIfPx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 75590
+      }
+    },
+    {
+      "id": "hebi",
+      "name": "Hebi",
+      "alt_names": [
+        "蛇",
+        "Snake"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 172 cm\n__Occupation:__ Leader of the Guests\n\nA warrior employed by Ketil as head of his farm's guards. He is an extremely formidable warrior, with Thorfinn attesting that Snake is faster than anyone he has ever faught. ~!Snake was formerly a warrior of Miklagard (the Old Norse name of Constantinople).!~",
+      "metadata": {
+        "gender": "male",
+        "age": "34-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b79913-FKEmQ3dutqp3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79913
+      }
+    },
+    {
+      "id": "ragnar",
+      "name": "Ragnar",
+      "alt_names": [
+        "ラグナル",
+        "Ragunaru"
+      ],
+      "role": "supporting",
+      "description": "He is the main adviser for Prince [Canute](https://anilist.co/character/17438). Ragnar is bald apart from very long, black, curly hair on the sides of his head. He has very thick black eyebrows that lie close to his deepset eyes. His wrinkles are also very deep, especially in his cheeks, just above his thick beard.\n\n(Source: Vinland Saga Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82533-EN57FGoTIHn3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82533
+      }
+    },
+    {
+      "id": "thorgil",
+      "name": "Thorgil",
+      "alt_names": [
+        "トールギル"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 176 cm\n\nEldest son of [Ketil](https://anilist.co/character/223346) and brother of [Olmar](https://anilist.co/character/224512). Much like [Thorkell](https://anilist.co/character/17440) he loves a good fight and has no qualms killing anybody who gets in his way. Served as a Thegn under Canute.",
+      "metadata": {
+        "gender": "male",
+        "age": "24-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82535-xwMqaJpEQQ4n.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82535
+      }
+    },
+    {
+      "id": "floki",
+      "name": "Floki",
+      "alt_names": [
+        "フローキ"
+      ],
+      "role": "supporting",
+      "description": "A Jomsviking commander whom contracted [Askeladd](https://anilist.co/character/13020) to assassinate [Thors](https://anilist.co/character/13021), Floki's former comrade.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82537-8WGHoXQcaKNI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82537
+      }
+    },
+    {
+      "id": "hild",
+      "name": "Hild",
+      "alt_names": [
+        "ヒルド"
+      ],
+      "role": "supporting",
+      "description": "An engineering genius from a young age. ~!Hild seeks revenge against Thorfinn after the death of her father.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89269-X04rdrY6AcMa.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89269
+      }
+    },
+    {
+      "id": "gudrid",
+      "name": "Gudrid",
+      "alt_names": [
+        "グズリーズ"
+      ],
+      "role": "supporting",
+      "description": "A strange woman, given the times, she wishes to be a sailing adventurer, so she stabs her husband, and flees as he is attempting to consummate their marriage. Thorfinn allows her to join them, and they set off together, attempting to outpace her spouse.\n\n~!She later marries Thorfinn.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89270-c4b2dZsLUP8v.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89270
+      }
+    },
+    {
+      "id": "halfdan",
+      "name": "Halfdan",
+      "alt_names": [
+        "ハーフダン"
+      ],
+      "role": "supporting",
+      "description": "Halfdan is a wealthy and powerful landowner and moneylender known for his ruthlessness, earning the nickname \"Iron Chain\" for his skilled use of one as a weapon and symbol of his philosophy of chaining others.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140356-GtF803Q3VytA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 140356
+      }
+    },
+    {
+      "id": "ari",
+      "name": "Ari",
+      "alt_names": [
+        "アーレ",
+        "アリ",
+        "Little Rat"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170 cm\n\nAri is from [Thorfinn](https://anilist.co/character/10138/Thorfinn-Karlsefni)’s village in Iceland.~!He is the husband of [Ylva](https://anilist.co/character/27876) and the father of their four children.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "16-32",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140357-4RwRiP5fFFhl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 140357
+      }
+    },
+    {
+      "id": "helga",
+      "name": "Helga",
+      "alt_names": [
+        "ヘルガ"
+      ],
+      "role": "supporting",
+      "description": "She is the mother of [Thorfinn](https://anilist.co/character/10138) and [Ylva](https://anilist.co/character/27876), and the wife of [Thors](https://anilist.co/character/13021). ~!She's the daughter of the Jomsviking Chief.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141589-z9PsqosVAEpr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141589
+      }
+    },
+    {
+      "id": "asgeir",
+      "name": "Asgeir",
+      "alt_names": [
+        "アスゲード"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170cm\n\n[Thorkell](https://anilist.co/character/17440)'s first mate. Asgeir is one of the few characters Thorkell outwardly respects, meeting him at eye-level in conversation, listening to his advice, and putting him in charge of strategies and planning. Asgeir is often shown yelling at Thorkell and becoming easily worried and even panicked when Thorkell is in danger.",
+      "metadata": {
+        "gender": "male",
+        "age": "36-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141590-2XC1g81PDAnu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141590
+      }
+    },
+    {
+      "id": "torgrim",
+      "name": "Torgrim",
+      "alt_names": [
+        "トルグリム"
+      ],
+      "role": "supporting",
+      "description": "He is [Atli](https://anilist.co/character/141592)'s older brother.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141591-N9phXav8yAv5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141591
+      }
+    },
+    {
+      "id": "atli",
+      "name": "Atli",
+      "alt_names": [
+        "アトリ"
+      ],
+      "role": "supporting",
+      "description": "He is [Torgrim](https://anilist.co/character/141591)'s younger brother.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141592-mCB6PhQSb0z0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141592
+      }
+    },
+    {
+      "id": "mimi",
+      "name": "Mimi",
+      "alt_names": [
+        "耳",
+        "Ear"
+      ],
+      "role": "supporting",
+      "description": "A member of [Askeladd](https://anilist.co/character/13020)'s band whose remarkable hearing allows him estimate distance and marching speed of enemy troops just by pressing his ear to the ground. He needs complete silence to work, and snow dampens sound enough to severely limit this ability.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141593-Yvmnhb2uGwRA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141593
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T19:27:36.281Z"
+}

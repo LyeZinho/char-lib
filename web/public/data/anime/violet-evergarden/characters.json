@@ -1,0 +1,576 @@
+{
+  "work_id": "violet-evergarden",
+  "count": 25,
+  "characters": [
+    {
+      "id": "violet-evergarden",
+      "name": "Violet Evergarden",
+      "alt_names": [
+        "ヴァイオレット・エヴァーガーデン",
+        "Auto Memories Doll",
+        "Leidenschaftlich's Soldier Maiden",
+        "Vi"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 161 cm\n\nViolet is described as a very beautiful young woman, being almost doll-like in appearance, with light-blue eyes, a fair complexion, and a slender frame. She is noted for her womanly semblance. She has waist-length golden hair with locks that frame her face. She either has her hair untied, in a low ponytail, or, after becoming a Doll, pulled up into two braided buns with two red ribbons. Due to losing her arms in the war, Violet received maneuverable prosthetic arms made of adamant silver. After the end of the war and on normal occasions, Violet is often seen wearing a white blouse, a green skirt and a pair of heeled brown boots.\n\n~!Growing up as an orphaned child soldier in the army who was treated as a mere tool, Violet was not educated like a regular human being and did not understand human feelings well. She was raised and grew up as a person who had feelings, but couldn't perceive or express them. For this reason, she could be mistaken as emotionless, or apathetic. Even before she was found and taken into the army, she couldn't speak or understand speech, only understanding orders to kill. She did not possess any sense of right or wrong from the start; she didn't understand what could be considered righteous or erroneous. She merely chased after the adults who gave her orders. She followed the idea of \"kill or be killed,\" thus she could kill countless people without feeling guilt or remorse. She did anything that was asked of her and always followed orders, which was a trait from her life as a soldier. Even after the war ended and she was discharged from the military, Violet had a habit of using words back from her life as a soldier; saluting, disliking being defenseless, and doing tasks without taking any breaks. She also continued to think of herself as a \"tool\" and believed that it would be appropriate to discard her if she can no longer be used as a weapon.!~ \n\nViolet is also aloof, expressionless and is said to have the attitude and the presence of a doll. Her expressions are mostly deadpan, so it is hard to tell her mood changes. This is why she sometimes has trouble expressing her own feelings and comes off as expressionless, which makes it difficult to get through her, but she will give a smile from time to time. Through her work as a Doll where she helps people write heartfelt letters, she slowly learns about human emotions, leading her to become more skilled at writing letters and conveying her clients' feelings, as well as becoming understanding of others. She is proven to be a good listener and someone who always thinks about other people's happiness.",
+      "metadata": {
+        "gender": "female",
+        "age": "14-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b90169-4wr1Zehnsac8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 90169
+      }
+    },
+    {
+      "id": "cattleya-baudelaire",
+      "name": "Cattleya Baudelaire",
+      "alt_names": [
+        "カトレア・ボードレール"
+      ],
+      "role": "supporting",
+      "description": "Cattleya Baudelaire is a character in the Violet Evergarden series. Being a figurehead Auto Memories Doll who works for the CH Postal Company, Cattleya never stops being requested and often takes on clients with love troubles. She works alongside Violet and has been close with Hodgins since before the company was established, joining as one of its initial employees.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124787-1HuZGawvoejp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124787
+      }
+    },
+    {
+      "id": "benedict-blue",
+      "name": "Benedict Blue",
+      "alt_names": [
+        "ベネディクト・ブルー"
+      ],
+      "role": "supporting",
+      "description": "Benedict Blue (ベネディクト・ブルー, Benedikuto Burū?) is a character in the Violet Evergarden series. He is a postman working at the CH Postal Company. He has known Hodgins since before the company's establishment and has had a brusque attitude towards him since he started working there.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124788-upZ5vtGwndzt.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124788
+      }
+    },
+    {
+      "id": "dietfried-bougainvillea",
+      "name": "Dietfried Bougainvillea",
+      "alt_names": [
+        "ディートフリート・ブーゲンビリア"
+      ],
+      "role": "supporting",
+      "description": "Dietfried Bougainvillea is a naval captain in the navy and [Gilbert](https://anilist.co/character/124790/)'s older brother. He was the one who found [Violet](https://anilist.co/character/90169/) and made her into Gilbert's \"weapon\" on his promotion to a major in the army.\n\n(Source: Violet Evergarden wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124789-DLp0QEJZeiQ8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124789
+      }
+    },
+    {
+      "id": "gilbert-bougainvillea",
+      "name": "Gilbert Bougainvillea",
+      "alt_names": [
+        "ギルベルト・ブーゲンビリア",
+        "Gil",
+        "Major Gilbert"
+      ],
+      "role": "supporting",
+      "description": "Gilbert Bougainvillea is a character in the Violet Evergarden series. He is a major in the Leidenschaftlich army who values Violet more than anything, seeing her as a human being rather than a tool.\n\n~!Violet was \"given\" to Gilbert as a gift to commemorate his promotion, having being promoted to a major in light of his wartime achievements and expectations from his bloodline. Dietfried, not wanting to take care of Violet, pushed this task to his younger brother. Gilbert then decided to enlist her on a militant unit that he had been appointed to take overall command of in his promotion to major. He later received permission to conduct private experiments at the training grounds as to whether Violet could be officially classified as a \"weapon.\"!~",
+      "metadata": {
+        "age": "29",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124790-QR7zyemTK0zq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124790
+      }
+    },
+    {
+      "id": "bridget",
+      "name": "Bridget",
+      "alt_names": [
+        "ブリジット"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124791-UZv7eQrf3b2J.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124791
+      }
+    },
+    {
+      "id": "erica-brown",
+      "name": "Erica Brown",
+      "alt_names": [
+        "エリカ・ブラウン"
+      ],
+      "role": "supporting",
+      "description": "Erica Brown is a character in the Violet Evergarden series. She is an Auto Memories Doll who has been working at the CH Postal Company for a while. She is not good at communicating and isn't confident in her work.\n\n~!Erica is an anime-original character.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124792-NWFK2r8zIxYX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124792
+      }
+    },
+    {
+      "id": "iris-cannary",
+      "name": "Iris Cannary",
+      "alt_names": [
+        "アイリス・カナリー"
+      ],
+      "role": "supporting",
+      "description": "Iris Cannary is a character in the Violet Evergarden series. A rookie Auto Memories Doll with an unyielding spirit who works at CH Postal Company, Iris admires young working women and is enthusiastic about quickly making a name for herself in the industry.\n\n~!As a child, she became friends with a boy named Emonn Snow and the two were very close. Iris was in love with him, and she had also supposedly convinced herself that her feelings were reciprocated. Because of that, she confessed to him before they graduated school, but he rejected her confession. The emotional pain caused by Emonn's rejection was what caused her to leave her hometown to become an Auto Memories Doll.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124793-dLsKOcQbMu85.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124793
+      }
+    },
+    {
+      "id": "iberis-conoway",
+      "name": "Iberis Conoway",
+      "alt_names": [
+        "イベリス・コノウェ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124794-nNNzoCGufkAF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124794
+      }
+    },
+    {
+      "id": "tiffany-evergarden",
+      "name": "Tiffany Evergarden",
+      "alt_names": [
+        "ティファニー・エヴァーガーデン"
+      ],
+      "role": "supporting",
+      "description": "An old woman who wants to take in Violet after being contacted by Gilbert. She has lost her son during the war.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124795-TVTdrCVsDONn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124795
+      }
+    },
+    {
+      "id": "dansei-kyaku",
+      "name": "Dansei Kyaku",
+      "alt_names": [
+        "男性客",
+        "Male Customer"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 2 of the anime.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124798-CKa1Jqfjm8nN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124798
+      }
+    },
+    {
+      "id": "claudia-hodgins",
+      "name": "Claudia Hodgins",
+      "alt_names": [
+        "クラウディア・ホッジンズ"
+      ],
+      "role": "supporting",
+      "description": "A former army commander. He founded the CH postal company and serves as president.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124799-htaqVGZd83GW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124799
+      }
+    },
+    {
+      "id": "lilian",
+      "name": "Lilian",
+      "alt_names": [
+        "リリアン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124801-RQQ3TxLi4d4y.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124801
+      }
+    },
+    {
+      "id": "iris-no-mei",
+      "name": "Iris no Mei",
+      "alt_names": [
+        "アイリスの姪",
+        "Iris' Niece"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124803-9qK35gh1KwkO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124803
+      }
+    },
+    {
+      "id": "spencer-marlborough",
+      "name": "Spencer Marlborough",
+      "alt_names": [
+        "スペンサー・モールバラ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124805-EouyBUScvHdi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124805
+      }
+    },
+    {
+      "id": "bluebell-unoa",
+      "name": "Bluebell Unoa",
+      "alt_names": [
+        "ブルーベル・ユノア"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124806-s4r4rTM7JTwN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124806
+      }
+    },
+    {
+      "id": "roland",
+      "name": "Roland",
+      "alt_names": [
+        "ローランド"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124807-cTrQjEhuQC5e.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124807
+      }
+    },
+    {
+      "id": "oliver",
+      "name": "Oliver",
+      "alt_names": [
+        "オリバー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124808-zzb8RhH6z3LX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124808
+      }
+    },
+    {
+      "id": "nerine",
+      "name": "Nerine",
+      "alt_names": [
+        "ネリネ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124809-0xAWuBr638EZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124809
+      }
+    },
+    {
+      "id": "luculia-marlborough",
+      "name": "Luculia Marlborough",
+      "alt_names": [
+        "ルクリア・モールバラ"
+      ],
+      "role": "supporting",
+      "description": "Luculia is a graduate of the Auto Memories Doll Training School and a novice Auto Memories Doll. Luculia and Violet became friends as fellow classmates at the training school, and she is the one who helped Violet graduate and earn her licence.\n\nShe is shown to be a kind and considerate person who is willing to go out of her way to assist others, such as her offering Violet some of her food the first day they met as well as attempting to help her write a letter to Gilbert. Despite a tragic backstory, she is shown to carry a positive attitude and cheerful demeanor when around other people, but tends to be more quiet and solemn when alone. She is expressive and sociable, but she struggles to communicate her own feelings, particularly regarding her brother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124810-CuoTUTc7U08r.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124810
+      }
+    },
+    {
+      "id": "leon-stephanotis",
+      "name": "Leon Stephanotis",
+      "alt_names": [
+        "レオン・ステファノティス"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129999-jMLXrlIQ98GK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129999
+      }
+    },
+    {
+      "id": "charlotte-abelfreyja-drossel",
+      "name": "Charlotte Abelfreyja Drossel",
+      "alt_names": [
+        "シャルロッテ・エーベルフレイヤ・ドロッセル",
+        "Princess Charlotte"
+      ],
+      "role": "supporting",
+      "description": "She is the princess of Drossel, and the narrator for the 5th episode of Violet Evergarden.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142149-YY3OJb6VnZNy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142149
+      }
+    },
+    {
+      "id": "toby-selwyn",
+      "name": "Toby Selwyn",
+      "alt_names": [
+        "トビー・セルウィン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161638-bOsXdyPsdiAq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161638
+      }
+    },
+    {
+      "id": "aidan-field",
+      "name": "Aidan Field",
+      "alt_names": [
+        "エイダン・フィールド"
+      ],
+      "role": "supporting",
+      "description": "Aidan is a soldier who appeared in episode 11 and was the one who requested the Auto Memories Doll in Ctrigall.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b195572-sQ1VEYktRY9X.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 195572
+      }
+    },
+    {
+      "id": "ann-magnolia",
+      "name": "Ann Magnolia",
+      "alt_names": [
+        "アン・マグノリア",
+        "Anne Magnolia"
+      ],
+      "role": "supporting",
+      "description": "Ann Magnolia is a character in the Violet Evergarden series and the protagonist of the second chapter of the first volume of the light novel. She is a young girl who lives with her terminally ill [mother](https://anilist.co/character/223026/Clara-Magnolia).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213148-YPki9cHn5qrw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 213148
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:27:42.483Z"
+}

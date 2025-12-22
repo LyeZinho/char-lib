@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "portal",
+    "title": "Portal",
+    "cover_image": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg",
+    "description": "Every single time you click your mouse while holding a gun, you expect bullets to fly and enemies to fall. But here you will try out the FPS game filled with environmental puzzles and engaging story. ",
+    "genres": [
+      "Action",
+      "Puzzle"
+    ],
+    "characters_count": 3,
+    "source": "RAWG",
+    "created_at": "2025-12-22T18:40:30.185Z",
+    "updated_at": "2025-12-22T18:40:30.185Z",
+    "type": "game"
+  },
+  {
+    "slug": "the-legend-of-zelda-breath-of-the-wild",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "cover_image": "https://media.rawg.io/media/games/cc1/cc196a5ad763955d6532cdba236f730c.jpg",
+    "description": "The Legend of Zelda: Breath of the Wild is an adventure game developed by Nintendo. It is the nineteenth installment in the series.\n\nAfter awakening from a hundred year sleep, memoryless Link hears a ",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "characters_count": 0,
+    "source": "RAWG",
+    "created_at": "2025-12-22T18:34:07.581Z",
+    "updated_at": "2025-12-22T18:34:07.581Z",
+    "type": "game"
+  }
+]

@@ -1,0 +1,607 @@
+{
+  "work_id": "the-future-diary",
+  "count": 25,
+  "characters": [
+    {
+      "id": "yukiteru-amano",
+      "name": "Yukiteru Amano",
+      "alt_names": [
+        "天野雪輝",
+        "Yukkī",
+        "First"
+      ],
+      "role": "protagonist",
+      "description": "__Occupation__: Middle School Student  \n__Alternate Name__: First  \n__Likes__: Having friends, writing in diary \n __Height__: 161 cm  \n\nThe main male protagonist of the series and the First Diary user. Also known as Yuki (ユッキー, Yukkī), he is a 14-year-old middle schooler who is a rather quiet boy with an anti-social behavior who doesn't talk much. He mostly sees things around him as a bystander and writes it down in his cell phone diary. Yuki becomes involved in the Diary Game when to his shock that Deus, a god-like being whom he thought was an imaginary friend turns out to be real, selects him as one of twelve contestants in a 90 day battle royale where they must kill each other using their special diaries where the last survivor becomes Deus' new heir. Yuki's diary is called the Random Diary, which written from his point of view, gives a detailed explanation of his surroundings very accurately whether it be the present or the future. While versatile in any situation, the main disadvantage of the Random Diary is that it doesn't tells him what is happening to himself which leaves him vulnerable. Furthermore, since the diary is written from his point of view, Yuki can be tricked into thinking something he sees is true without realizing it which is a disadvantage for other people who use the Random Diary.  Unlike most of the contestants, Yuki doesn't want any part of the game as he just wants to live peacefully and doesn't want to kill anyone, but is forced to play to survive and will only kill as a last resort as he is the main target by the other diary users because Deus sees Yuki as his favorite to win. Because he is weak, in order to protect himself, he quickly makes friends and allies to help him including Yuno Gasai, a girl in his class who is madly in love with him and is another diary user. Yuki is kind person yet is naive for quickly trusting people whether they be friend or other diary users as they may have ulterior motives. The most complex relationship he has is Yuno, while Yuno is a formidable ally, her mad obsessive love for him to the point she is willing to kill or use anyone so both of them can survive scares him yet despite the many things she does that shocks him including kidnapping him against his will and learning she killed her parents, Yuki still relies on Yuno in order to protect himself.   ~!Originally, Yuki's main goal was to find a way to end the game peacefully without killing anyone but that goal quickly changes when during the middle of the game, his mother is accidentally killed by his father, who is also later killed by agents of John Bacchus, the Eleventh Diary user. Grieving over his parents death, Yuno seduces and convinces him that in order to bring his parents back to life, he should win the game and once he becomes the new God of Time and Space, he can use his divine powers to bring them back from the dead. With this new goal, Yuki becomes determined to win no matter what including lying, killing, backstabbing and destruction. His new behavior shocks his friends as his and Yuno actions cause a series of terrorist attacks across the city. !~ He is named after Jupiter, the Roman god of the sky, weather and lightning.",
+      "metadata": {
+        "gender": "male",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4962-CpqPBVJngbq2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4962
+      }
+    },
+    {
+      "id": "yuno-gasai",
+      "name": "Yuno Gasai",
+      "alt_names": [
+        "我妻由乃",
+        "Second",
+        "Yunocchi"
+      ],
+      "role": "protagonist",
+      "description": "__Occupation:__ Middle School Student\n__Height:__ 159 cm (5'2\")\n\nYuno Gasai is obsessively in love with Yukiteru. Yukiteru's condition and actions are recorded every ten minutes in her \"Yukiteru\" diary, it also provides small commentary made by Yuno in some of the entries. Its most obvious weakness is that it does not show Yuno's future at all -- her condition, situation, or surroundings — unless it somehow involves Yuki. Working with Yukiteru's \"Random Diary\" diary, however, covers both of their diaries' individual flaws; as it has been said the two make for a perfect combo.  Smart, beautiful and diligent — those who don't truly know Gasai Yuno would simply see the model student role she plays while at school. She is secretly obsessed with Yukiteru and would do anything within her power to assist him. She can be quite clingy and is highly fond of stalking him. When obstacles arise that either endangers Yukki's life or threatens their relationship, her thoughts turn murderous and she lets nothing get in the way of her path. Yuno is also able to quickly analyze and adapt to unexpected situations that may arise, and she puts thoughts into action without hesitation, performing what needs to be done without ever losing her nerves.\n\nShe is named after the Roman goddess Juno.",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4963-7ZMcCtXW5hkY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4963
+      }
+    },
+    {
+      "id": "deus-ex-machina",
+      "name": "Deus Ex Machina",
+      "alt_names": [
+        "デウス・エクス・マキナ"
+      ],
+      "role": "supporting",
+      "description": "The god of time and space, Yukiteru's supposed imaginary friend and the mastermind behind the game. He is looking for a successor, which is why he gave future diaries to twelve candidates and placed them in a game of life and death. He seems to favor Yukiteru the most out of all the other candidates as his next possible successor due to the miracles Yukiteru is able to pull off, not paying attention to the fact that Yuno is helping him.   _Deus_ means God in Latin.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4964-lIULYnq59GaV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4964
+      }
+    },
+    {
+      "id": "mur-mur",
+      "name": "Mur Mur",
+      "alt_names": [
+        "ムルムル",
+        "Muru Muru"
+      ],
+      "role": "supporting",
+      "description": "__Occupation__: Deus's Servant\n__Height__: 95 cm\n\nDeus' servant, Mur Mur is often seen with the eliminated candidates in omake panels. As of chapter twenty-four it is revealed her favorite is Yuno Gasai, and she is betting on her to win the game. She has a rather playful and nonchalant attitude toward Deus despite his warnings to her.   In a spin-off series she accidentally destroyed Yuno from existence, so she currently has taken Yuno's place as the Second till the damage can be fixed.    ~!In the final chapter of Mirai Nikki Paradox, Akise Aru goes into Mur Mur's memories. Before the paradox is restored she is seen conspiring with the fake Gasai Yuno, next to the corpse of the real Yuno.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4965-kfp8cXLa4n6y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4965
+      }
+    },
+    {
+      "id": "minene-uryuu",
+      "name": "Minene Uryuu",
+      "alt_names": [
+        "雨流みねね",
+        "Natsuko Ooshima",
+        "Nacchan",
+        "Ninth"
+      ],
+      "role": "supporting",
+      "description": "__Occupation__: International Wanted Terrorist\n__Height__: 168 cm\n\nMinene Uryuu is a terrorist bomber. Like the Fourth, her \"Escape\" diary goes along with the type of profession she is involved in. Whenever Minene faces a dire situation, the diary will chart out the best course of actions she can take in order to get out of a tight spot. Based on the function of her diary, it might even help reduce the chances of her receiving a Dead End and it is probably one of the best diaries to have in Deus' game of survival. The diary's only shortcoming is that there are some circumstances where the odds are too heavily stacked against Minene to the point where the diary won't be able to secure an escape route for her.   An infamous atheistic terrorist, Minene is a young woman who bears a strong hatred for organized religion, particularly God.    ~!Her hatred of religion stems from her past when she and parents were traveling in a city in the Middle East but got caught in a battle, which is hinted between Israelis and Palestinians, where her parents were killed in the crossfire. Blaming God for her parents death, she leads a crusade of destruction against those associated with God.   Minene got involved in the Diary game when after a failed assassination to kill a Catholic Cardinal, she tried to escape but almost fell to her death but was saved by Deus who gave her an offer to save her if she join his game. Minene's diary is the Escape Diary, which will chart out the best course of actions for her to escape whenever she finds herself in a dangerous situation. While it means she can escape anything, it is not perfect as the diary can only tell her how to escape if there are favorably conditions that allow her any chance to escape.   Originally, she wants to win the game to destroy religion worldwide but later mellows out after befriending Yuki and his friends. While she began as an antagonist against Yuki, she later became his ally, becoming a big sister figure to him and both of them hold no animosity with each other despite Minene was responsible for the destruction and deaths at his school and Yuki was the one who blinded her left eye. She shares an interesting relationship with Masumi Nishijima of the police whom she met during her failed assassination of the Cardinal. While she constantly dismisses all of his attempts to get to know her, she finally relents and eventually falls in love with Masumi.   In the anime, during the last episode it was shown that Minene, from the second world, and Masumi, from the third world live together and have two children. Third world Minene is still a terrorist. !~ She is named after Minerva — the Roman goddess of wisdom, commerce, weaving, crafts and magic.",
+      "metadata": {
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4966-Bb0hjxjJtidY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4966
+      }
+    },
+    {
+      "id": "tsubaki-kasugano",
+      "name": "Tsubaki Kasugano",
+      "alt_names": [
+        "春日野椿",
+        "Omekata",
+        "Sixth"
+      ],
+      "role": "supporting",
+      "description": "__Occupation:__ Maiden Alternate\n__Height:__ 157 cm\n\nTsubaki Kasugano is a maiden and figurehead of the Omekata religion. Her \"Thousand League Eyes\" diary is unlike the other diaries, as it is a scroll, rather than a cell phone. As its name would suggest, it is able to report the future of all her followers. Unlike Yukiteru's diary, it is not limited to just her surroundings, but also sees far events, such as seeing the events Yuki had accomplished a great distance away from where she resides. Her diary can also record near events; the short-term future that will occur after only a few seconds away from the present. This provides Tsubaki with massive amounts of information to work with. However, it can pose as a hindrance in times where a situation changes constantly or when she needs to react quickly.   ~! She was born with bad eyesight, only able to see a few feet in front of her. Her parents capitalized on this by setting her up as an \"oracle\" and creating a cult around her. After her parents died in a car crash, however, she became a plaything for the Omekata and was even raped by it's members. As a result of her experiences, she has become jaded with the world beyond her vision, and wishes for it to disappear. Tsubaki wants Yukiteru's abilities in order to avoid the prediction her diary made about herself. As she is able to control her worshippers, Tsubaki does not make use of any weaponry. !~  ~!When Yuki and Yuno travel in time to the next world their actions shape a future in which Tsubaki's parents never take their fatal car ride. This prevents the cult's transformation into an evil cult, and Tsubaki is spared from her horrible fate.!~ She is named after Proserpine(Furrin) — roman goddess of Underworld.　The characters of her name mean \"Spiring\" (春), \"Day\" (日), \"Field\" (野), and \"Camellia\"(椿), respectively.",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4967-Wa34H0uvUKYz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4967
+      }
+    },
+    {
+      "id": "keigo-kurusu",
+      "name": "Keigo Kurusu",
+      "alt_names": [
+        "来須圭悟",
+        "Fourth"
+      ],
+      "role": "supporting",
+      "description": "__Occupation__: Police Officer  \n__Height__: 183 cm  \n\nKeigo Kurusu is a police officer, so it follows with reason that his diary relates to his work. The \"Investigation\" diary gives Keigo information of future crimes and activities committed anywhere within the prefecture he is assigned to. Whether or not this means his diary can record events that will happen simultaneously in different locations is still up in the air. Its major flaw is a location issue; his diary is rendered useless at predicting anywhere outside his patrolling district.  \n\n ~!Calm, cool and collected, Keiga at first does not appear to care about winning the game. His goal is only to stop the murders being caused by it. He makes an effort to recruit some of the other diary holders into his cause, including First and Second. As the series progresses however, MurMur gives him information of his sons imminent death before he should have known to make him more active in the game. He was chosen by Deus to balance out the criminals and maniacs that are also taking part in the game.!~    \n\nHe is named after Mercury — roman god of merchants and travelers.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4968-i6fI9PpQ8TiA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4968
+      }
+    },
+    {
+      "id": "reisuke-houjou",
+      "name": "Reisuke Houjou",
+      "alt_names": [
+        "豊穣礼佑",
+        "Rei-kun",
+        "Fifth"
+      ],
+      "role": "supporting",
+      "description": "Houjou Reisuke is a seemingly harmless 4-year-old child. His parents were killed during the Sacred Eye incident and so he was asked to be taken care of by a co-worker of theirs, Yukiteru's mother Amano Rea.    ~!Accompanied by some drawings, his \"Super Vision\" diary is a coloring book that gives a small summary of the activities he will perform for the day. However, not only is there a large time gap between the entries, the diary only shows three of them per day: morning, noon and night. It does have a certain advantage of giving Reisuke all three entries at the same time, which allows him ample time to carefully plot his next move. He was killed by Second, supporting her to become God.  Reisuke comes from an unhappy background where his parents neglected him and his family was gradually falling apart. He is highly intelligent for his age, yet still possesses both a child's innocence as well as a child's cruelty. Often, his actions make it difficult to tell which of the two traits is the more dominant. During his time at the Amano household, Reisuke grows fond of Yukiteru and especially Yuno; calling them brother and sister. Due to his size, Reisuke improvises with non-visual weaponry such as poison syringe and cyanide gas.!~\n He is named after Ceres —the Roman goddess of fertility.",
+      "metadata": {
+        "gender": "male",
+        "age": "4",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8158-cRgD3SBzMaUP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8158
+      }
+    },
+    {
+      "id": "aru-akise",
+      "name": "Aru Akise",
+      "alt_names": [
+        "秋瀬或",
+        "Akki"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 163 cm (5'4\")\n\nA classmate in Yukiteru's school, Aru Akise dreams of one day becoming the world's greatest detective. The student detective is able to correctly deduce the culprit behind the serial dog murders even before the police.\n\nMirai Nikki Paradox  He is the main character in a spin off series (Mirai Nikki Paradox) where Murumuru accidentally destroyed Yuno from existence, meaning Yukiteru is still vulnerable from the Third. So until the damage is fixed, Aru collaborates with Murumuru and together, take the place of the First and Second.",
+      "metadata": {
+        "gender": "male",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8306-1plj927kFBCf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8306
+      }
+    },
+    {
+      "id": "takao-hiyama",
+      "name": "Takao Hiyama",
+      "alt_names": [
+        "火山高夫",
+        "Third"
+      ],
+      "role": "supporting",
+      "description": "Takao Hiyama is a teacher in Yuki's school and is the serial killer reported within its vicinity. Not much is known about Takao character-wise, since the man was only given four lines of dialogue in the series, all related with finding and being surprised by Yukiteru. He is the Third diary owner. His \"Killer\" diary records the location of his next intended victim. It is a handy diary if one knew the true identity of the other diary holders and wishes to take the offensive in the game, but it does little in the way of anything else.  Takao wears a heavy trenchcoat complete with a hat and mask that hides his identity when stalking prey, and carries a large machete as his weapon of choice.  He is named after Vulcan — roman god of blacksmithing.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8307-4B86P7r2IlMo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8307
+      }
+    },
+    {
+      "id": "yomotsu-hirasaka",
+      "name": "Yomotsu Hirasaka",
+      "alt_names": [
+        "平坂黄泉",
+        "Twelfth"
+      ],
+      "role": "supporting",
+      "description": "Yomotsu Hirasaka is a blind man who makes use of a tape recorder that he dubs the \"Justice\" diary, where it records the wrong-doings of future events he thinks need correcting. It's a pretty misleading name since Yomotsu considers the evil deeds committed by a religion cult as much of an injustice as finding random trash on the floor. His diary's actual functions are actually similar to the Sixth's \"Thousand League Eyes,\" but rather it's the \"Thousand League Hearing.\" He is able to create illusions using hypnosis granted by his diary.    ~!While trying to kill himself, Yukiteru, Yuno, and Tsubaki through the use of a bomb, Yuno manages to stop Yomotsu and he ends up killing only himself as the bomb explodes. !~ Yomotsu is quite possibly insane and fancies calling himself a Hero of Justice. He talks using katakana and not the more common hiragana. He defines justice as always being on the side of the winner. He wears spandex along with a toy transformation belt as seen in many super sentai series, as well as a strange one-hole mask which bears similarities to a large eyeball.   He is named after Pluto (Hades) —the Roman god of the Afterlife.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8308-vwXduDuS8J39.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8308
+      }
+    },
+    {
+      "id": "hinata-hino",
+      "name": "Hinata Hino",
+      "alt_names": [
+        "日野日向"
+      ],
+      "role": "supporting",
+      "description": "__Occupation__: Middle School Student  \n__Height__: 168 cm \n\nA classmate of Yukiteru and Yuno.\n\n ~!The Tenth's daughter, Hinata is aware that her father is instigating the carnivorous hound attacks. In order to shake off suspicion from her father's pursuer, she accepts the \"Rearing\" Diary and uses it in her father's place. Hinata is a classmate in Yukiteru's homeroom and is the first person to reach out to him and become his friend.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8309-fQZWDvMP094O.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8309
+      }
+    },
+    {
+      "id": "mao-nonosaka",
+      "name": "Mao Nonosaka",
+      "alt_names": [
+        "野々坂まお"
+      ],
+      "role": "supporting",
+      "description": "__Occupation__: Middle School Student\n__Likes__: Hinata Hino\n__Height__: 160 cm\n\nAnother of Yukiteru's classmates, Mao is good friends with Hinata.\n\n~!A willing accomplice in Hinata's scheme to kill Akise Aru. She is overly obsessed with Hinata's breast size and considers her more than a friend. Always has a camera handy.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8310.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8310
+      }
+    },
+    {
+      "id": "masumi-nishijima",
+      "name": "Masumi Nishijima",
+      "alt_names": [
+        "西島真澄"
+      ],
+      "role": "supporting",
+      "description": "__Position__: Chief Investigator\n__Height__: 174 cm\n\nChief Investigator and Keigo's subordinate, Masumi was part of the investigation team assigned to protect Father Haiman from the terrorist, Minene Uryuu. Masumi had feelings for Minene and, much to Minene's confusion and dismay, would take every opportunity to ask \"her\" out for breakfast, lunch and dinner.\n\n~!He proposes to Minene, who, by that time, has also fallen for him. However, before they could officially get married, he is shot to death.   In the last episode Minene from Second World and Nishijima from the Third lives together, though it may be considered as 'happy end' for them!~",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16123-KwhuJzZcGYkC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 16123
+      }
+    },
+    {
+      "id": "ouji-kousaka",
+      "name": "Ouji Kousaka",
+      "alt_names": [
+        "高坂王子"
+      ],
+      "role": "supporting",
+      "description": "Another one of Yukiteru's classmate, Ouji is in Yukki and Yuno's classroom during the previous semester and is one of the first people to betray him during the terrorist bombing incident. He writes down a list of all of his proudest accomplishments in a blog he dubs the \"Kousaka King Diary\", often using the phrase \"I'm Shining!\" after each sentence.    ~!Due to having blogged many times on his cellphone, which is connected to the Eighth's diary, he becomes a \"Diary Holder Apprentice\". His diary helps him save his friends, but it only reveals his successes, not his failures, which makes Yuno able to shoot him with a crossbow. Since he is inadvertently working as the Eighth's spy, Yukki destroys his diary in chapter twenty-seven, though does not die because it was not a true future diary. !~ (Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21701-wQFtB1MnKffk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21701
+      }
+    },
+    {
+      "id": "rea-amano",
+      "name": "Rea Amano",
+      "alt_names": [
+        "天野礼亜"
+      ],
+      "role": "supporting",
+      "description": "__Age__: Unknown, Estimated 32 years old\n__Occupation__: Video Game Programmer\n__Likes__: Yukiteru and Yuno's relationship\n__Height__: 164 cm\n__Weight__: 53 kg\n\nYukiteru's mother, Rea is rarely at home because of her work as a video game programmer. Despite this, she maintains a very casual and close relationship with Yukiteru and approves of Yuno as a potential bride for her son.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21813-TLgFCURdu2ho.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21813
+      }
+    },
+    {
+      "id": "kurou-amano",
+      "name": "Kurou Amano",
+      "alt_names": [
+        "天野九郎"
+      ],
+      "role": "supporting",
+      "description": "Yukiteru's father who is divorced with Yukiteru's mother due to a debt amounting to three million yen which he could not pay. Initially, he appears in chapter thirty claiming to just want to check on his son.    ~!It turns out that he has only returned to destroy Yukiteru's diary in order to fulfill a deal with the Eleventh. Despite his only clear desire being to free himself from his debts, he does try to save Yukki when the latter almost falls to his death, but takes the parachute away from Yukki before the tower crumbles soon after. He then stabs his wife when she tries to take him to the police and escapes, though is stabbed to death himself two chapters later by the Eleventh's men.!~  (Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21814-l7nkq0dlvd3H.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21814
+      }
+    },
+    {
+      "id": "john-bacchus",
+      "name": "John Bacchus",
+      "alt_names": [
+        "ジョン・バックス"
+      ],
+      "role": "supporting",
+      "description": "The mayor of Sakurami.    ~!He the 11th diary holder. He uses his influence as mayor to take down the other diary holders. His Diary, The Watcher Diary, has the ability to look at other diary entries, whether they are true or not, which leads to his weakness. He is able to move the voters with his words alone to demolish Mother's Home and even convince Deus to remove the First and Second because of their absences. His true goal has later been revealed that he wished to use the 8th's diary to hook up with a super computer, given everyone in the city the potential to becoming a Apprentice Diary Holder to hope to make a new and great kingdom that he will rule. Interesting, the Eighth considers him to be a gentleman. !~ He is named after Bacchus —the Roman god of winery.   (Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21815-MDTct7BhUwof.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21815
+      }
+    },
+    {
+      "id": "karyuudo-tsukishima",
+      "name": "Karyuudo Tsukishima",
+      "alt_names": [
+        "月島狩人",
+        "Tenth"
+      ],
+      "role": "supporting",
+      "description": "This man loves and values his dogs more than himself; as shown when he cooked them steak and give them thirty-year-old wine for dinner, while he himself was content with eating cup ramen.   ~!He is the owner of the Tenth diary, The Breeder's Diary, which allows him to check on the status of his beloved dogs and control them in squads via voice commands. The dogs can be used to chase and kill people. The diary's weakness seems to be issuing the order of chasing multiple targets, which would require greater concentration in herding the dogs and would also leave the user vulnerable to attack as the holder would be alone.   As he was concerned about a stalker and potential diary user, the Tenth literally placed his future in the hands of his daughter, Hinata Hino, who recognized the stalker as a classmate of hers, Akise. Armed with the diary and her father's dogs, Hinata set an elaborate trap to capture Akise, using Yukiteru as bait. The Tenth was killed by Keigo. !~  He is named after Diana —the Roman goddess of hunting.   (Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21816-XYjNZl25l6zE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21816
+      }
+    },
+    {
+      "id": "kamado-ueshita",
+      "name": "Kamado Ueshita",
+      "alt_names": [
+        "上下かまど",
+        "Eighth"
+      ],
+      "role": "supporting",
+      "description": "Kamado Ueshita is the woman in charge of an orphanage named \"Mother's Home\".    ~!Kamado is the eighth diary owner. Kamado's diary seems to be in the form of a website where she can rent out blog space to others and can automatically promote its users' rank based on the number of posts the user makes. For instance, Ouji Kousaka, in chapter twenty-five, submits enough entries to be promoted from \"commoner\" to \"apprentice diary holder\". The latter rank appears to give users the same abilities that the original diary holders possess without the drawback of the user dying if his or her diary is destroyed. The only apparent problem with this diary's effects is that the apprentices have to stay connected to the server, or else they will lose use of their diaries. She is currently in the process of having her orphanage about to be demolished as part of the Eleventh's plan. Noted by the children in her orphanage, she has no motivation to become God, where it is her \"children\" who wish to make her God so she won't be killed. All of her \"children\", who also each possessed an apprentice diary, are killed by Yuno during a failed attempt to kill the 11th. She is later recruited by the 11th, in hoping to use her Diary combined with the Holon III, a massive computer system for Sakurami, to turn the whole city into Apprentice Diary Holders. !~ She is named after Vesta —the Roman goddess of the hearth, home, and family.   (Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21817-Cb29koEmsovx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21817
+      }
+    },
+    {
+      "id": "marco-ikusaba",
+      "name": "Marco Ikusaba",
+      "alt_names": [
+        "戦場マルコ"
+      ],
+      "role": "supporting",
+      "description": "~!Originally assumed to be two separate Diary users, Marco and Ai are in fact both the Seventh Diary user. When first introduced, Marco and Ai were using apprentice diaries which were assume by Yuki and his allies as their real Future diaries with Marco's The Unbeatable Brawler Diary predicting attacks before they happened, while Ai's Flirting Diary locates any man she wants to flirt in the future. Their real diaries is the Exchange Diaries which report each other's immediate future. The couple displays excellent teamwork as they use their diaries to cover each other's weaknesses.      Marco and Ai are orphans who fell in love with each other after Ai was adopted by Kamado Ueshita, Marco's guardian. Their devotion is so strong that they want to win the game so they can become God and live for eternity together.      Marco and Ai are named after the Roman gods Mars and Venus, respectively. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b23492-fYCMTjvSOHoU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 23492
+      }
+    },
+    {
+      "id": "ai-mikami",
+      "name": "Ai Mikami",
+      "alt_names": [
+        "美神愛"
+      ],
+      "role": "supporting",
+      "description": "~!Originally assumed to be two separate Diary users, Marco and Ai are in fact both the Seventh Diary user. Ai appeared early in the series working undercover as member of the Onukata cult with her friend Orin Miyashiro to spy on Tsubaki. She returns later, this time with her boyfriend, Marco to eliminate the threat that is Yuki and Yuno.  When first introduced, Marco and Ai were using apprentice diaries which were assume by Yuki and his allies as their real Future diaries with Marco's The Unbeatable Brawler Diary predicting attacks before they happened, while Ai's Flirting Diary locates any man she wants to flirt in the future. Their real diaries is the Exchange Diaries which report each other's immediate future. The couple displays excellent teamwork as they use their diaries to cover each other's weaknesses.      Marco and Ai are orphans who fell in love with each other after Ai was adopted by Kamado Ueshita, Marco's guardian. Their devotion is so strong that they want to win the game so they can become God and live for eternity together.  Apparently she was raped during high school due to a group of girls who were \"annoyed\" with the way she acted at school.      Marco and Ai are named after the Roman gods Mars and Venus, respectively.    !~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/23493.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 23493
+      }
+    },
+    {
+      "id": "orin-miyashiro",
+      "name": "Orin Miyashiro",
+      "alt_names": [
+        "宮代お鈴"
+      ],
+      "role": "supporting",
+      "description": "An assistant to the 8th.    ~!She eventually trusts Yuki when they agree to attack the 11th together and leads the attack with her \"Orphanage Diary\", but is killed by Yuno when Yuki and her suddenly turn on the 8th.  Despite of her appearence, she is very intelligent, having an IQ of 200 as stated by Akise Aru in \"Mirai Nikki Mosaic\" chapter 5.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b24928-gVadyEVQCIZ3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 24928
+      }
+    },
+    {
+      "id": "tarou-nanba",
+      "name": "Tarou Nanba",
+      "alt_names": [
+        "難波太郎",
+        "Ta-kun"
+      ],
+      "role": "supporting",
+      "description": "An orphan living in the Mother's Village orphanage. He owns the Apprentice Diary, the \"Copy Diary\".",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82745-6MLpjcjf9RAI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82745
+      }
+    },
+    {
+      "id": "ryuji-kurosaki",
+      "name": "Ryuji  Kurosaki",
+      "alt_names": [
+        "黒崎竜司"
+      ],
+      "role": "supporting",
+      "description": "The secretary of John Bacchus, mayor of Sakurami City. Ryuji is the holder of an Apprentice Diary, the \"Secretary Diary\".",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82747-TiyySj8qhxvk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82747
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:36:32.842Z"
+}

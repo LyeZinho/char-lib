@@ -1,0 +1,598 @@
+{
+  "work_id": "frieren-beyond-journeys-end",
+  "count": 25,
+  "characters": [
+    {
+      "id": "frieren",
+      "name": "Frieren",
+      "alt_names": [
+        "フリーレン",
+        "Frieren the Slayer"
+      ],
+      "role": "protagonist",
+      "description": "Frieren is the protagonist of _Sousou no Frieren_ and [Fern](https://anilist.co/character/183965)'s master. She was the Mage of the Hero Party and traveled alongside Hero [Himmel](https://anilist.co/character/184311/Himmel), Warrior [Eisen](https://anilist.co/character/184312/Eisen), and Priest [Heiter](https://anilist.co/character/184310/Heiter) in a 10-year journey to defeat the Demon King. \n\nShe was a magic prodigy at a young age, with an impressive quantity of mana, which caught the interest of [Flamme](https://anilist.co/character/219733/Flamme), a human wizard who taught her everything there is to know about magic and mana control until she passed away. Frieren persists in collecting magic knowledge no matter how trivial it may be.",
+      "metadata": {
+        "gender": "female",
+        "age": "1000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 176754
+      }
+    },
+    {
+      "id": "fern",
+      "name": "Fern",
+      "alt_names": [
+        "フェルン"
+      ],
+      "role": "protagonist",
+      "description": "Fern is the young mage apprentice of [Frieren](https://anilist.co/character/176754/Frieren) and accompanies her as a member of her party. She is an orphaned war refugee originally from the Southern Lands, later adopted by  [Heiter](https://anilist.co/character/184310/Heiter) and placed under Frieren's care.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 183965
+      }
+    },
+    {
+      "id": "stark",
+      "name": "Stark",
+      "alt_names": [
+        "シュタルク"
+      ],
+      "role": "protagonist",
+      "description": "Stark is a warrior who fights alongside [Frieren](https://anilist.co/character/176754/Frieren) and [Fern](https://anilist.co/character/183965/Fern). After his village was attacked by demons, he fled and became [Eisen](https://anilist.co/character/184312/Eisen)'s apprentice. At Eisen's instruction, he joined Frieren's party as their vanguard.",
+      "metadata": {
+        "gender": "male",
+        "age": "17-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184313
+      }
+    },
+    {
+      "id": "heiter",
+      "name": "Heiter",
+      "alt_names": [
+        "ハイター",
+        "Corrupt Priest"
+      ],
+      "role": "supporting",
+      "description": "A priest who is a part of the Hero's party. He later took care of [Fern](https://anilist.co/character/183965/Fern) until [Frieren](https://anilist.co/character/176754/Frieren) arrived.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184310-tiXvrq4FINXP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184310
+      }
+    },
+    {
+      "id": "himmel",
+      "name": "Himmel",
+      "alt_names": [
+        "ヒンメル"
+      ],
+      "role": "supporting",
+      "description": "Hero and Leader of the party that defeated the Demon King, and a self-proclaimed handsome narcissist. He cares about his friends and can't help but help those in need. He had a great influence on [Frieren](https://anilist.co/character/176754/Frieren), with whom he had adventures for 10 years.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-re77QUMpxazj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184311
+      }
+    },
+    {
+      "id": "eisen",
+      "name": "Eisen",
+      "alt_names": [
+        "アイゼン"
+      ],
+      "role": "supporting",
+      "description": "Dwarf warrior who was a part of the Hero's party, later became a mentor to [Stark](https://anilist.co/character/184313/Stark).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184312-kxd5H6iOHIq4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184312
+      }
+    },
+    {
+      "id": "flamme",
+      "name": "Flamme",
+      "alt_names": [
+        "フランメ",
+        "The Great Mage Flamme"
+      ],
+      "role": "supporting",
+      "description": "She lived a millennium before the story and was [Frieren](https://anilist.co/character/176754/Frieren)'s teacher.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219733-FgXseEhMdDE9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 219733
+      }
+    },
+    {
+      "id": "qual",
+      "name": "Qual",
+      "alt_names": [
+        "クヴァール",
+        "Fuhai no Ken Rou (腐敗の賢老)",
+        "Elder Sage of Corruption",
+        "Kvar"
+      ],
+      "role": "supporting",
+      "description": "A feared and powerful demon who served the Demon King.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315278-PKRDf4IJJ1GK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315278
+      }
+    },
+    {
+      "id": "sein",
+      "name": "Sein",
+      "alt_names": [
+        "ザイン",
+        "Goatee Priest"
+      ],
+      "role": "supporting",
+      "description": "Sein is a Priest from a small village in the Alt Woods. After [Frieren](https://anilist.co/character/176754/Frieren) spotted his talent, he joined her group for a period of time with the goal of reuniting with his childhood friend Gorilla.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205177-hLV4nVQjoBIC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205177
+      }
+    },
+    {
+      "id": "aura",
+      "name": "Aura",
+      "alt_names": [
+        "アウラ",
+        "Dantoudai no Aura (断頭台のアウラ)",
+        "Aura the Guillotine"
+      ],
+      "role": "supporting",
+      "description": "Aura is one of the Seven Sages of Destruction directly serving the Demon King. \n\n~!She later was killed by Frieren after being commanded to kill herself using her own Auserlese.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219110-LEB5T4oG0gel.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 219110
+      }
+    },
+    {
+      "id": "kraft",
+      "name": "Kraft",
+      "alt_names": [
+        "クラフト"
+      ],
+      "role": "supporting",
+      "description": "He is an elf that Frieren's group meets in a cabin in the mountains. He's a monk and believed to be the last elf alive until meeting Frieren.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219732-GKmSY9oTm6cR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 219732
+      }
+    },
+    {
+      "id": "serie",
+      "name": "Serie",
+      "alt_names": [
+        "ゼーリエ"
+      ],
+      "role": "supporting",
+      "description": "An elven mage who is said to possess knowledge about nearly every magic that exists. She was Flamme's master. She founded the Continental Magic Association around 20 years before Himmel's death. First-class mages get the privilege of meeting her and can ask for any magic they desire.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219734-aS4UMAb16DGd.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 219734
+      }
+    },
+    {
+      "id": "genau",
+      "name": "Genau",
+      "alt_names": [
+        "ゲナウ"
+      ],
+      "role": "supporting",
+      "description": "First-class mage who was a proctor for the first examination.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246055-3eoVNiZu3bTy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246055
+      }
+    },
+    {
+      "id": "laufen",
+      "name": "Laufen",
+      "alt_names": [
+        "ラオフェン"
+      ],
+      "role": "supporting",
+      "description": "A third-class mage. Specializes in magic that makes her move at high speed. Treats Denken as her grandfather.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246056-erQexxLtGHVU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246056
+      }
+    },
+    {
+      "id": "ubel",
+      "name": "Übel",
+      "alt_names": [
+        "ユーベル",
+        "Ubel"
+      ],
+      "role": "supporting",
+      "description": "Übel is a third-class mage. Was disqualified in an earlier examination due to killing a first-class wizard. Specializes in magic that allows her to copy the spells of people she can empathize with. Relies mostly on her intuition and is not bound by logical reasoning. ~!Becomes a first-class mage after the examination.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246057
+      }
+    },
+    {
+      "id": "denken",
+      "name": "Denken",
+      "alt_names": [
+        "デンケン"
+      ],
+      "role": "supporting",
+      "description": "Denken is an imperial mage of the second-class. In his youth he belonged to an army but became an imperial mage after winning a power struggle. Often calm and calculating, however he still has a fire burning within despite his old age. He saw Frieren as his motivation to become a mage. ~!Becomes a first-class mage after the examination.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246058-FOtuSIUBQ4WJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246058
+      }
+    },
+    {
+      "id": "lawine",
+      "name": "Lawine",
+      "alt_names": [
+        "ラヴィーネ"
+      ],
+      "role": "supporting",
+      "description": "Lawine is a third-class mage in the Second Party of the First Class Mage Examinations. She specializes in manipulating ice.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293727-Jaf2eiNfINWx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293727
+      }
+    },
+    {
+      "id": "kanne",
+      "name": "Kanne",
+      "alt_names": [
+        "カンネ"
+      ],
+      "role": "supporting",
+      "description": "Kanne is a third-class mage who graduated from the Academy of Magic. She is childhood friends and classmates with [Lawine](https://anilist.co/character/293727), and the two entered the first-class mage exam together. In the first stage of the exam, she was paired with Lawine and [Frieren](https://anilist.co/character/176754).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293728-0ylNRoIOORcD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293728
+      }
+    },
+    {
+      "id": "edel",
+      "name": "Edel",
+      "alt_names": [
+        "エーデル"
+      ],
+      "role": "supporting",
+      "description": "Edel is a second-class mage in the Seventeenth Party, alongside Blei and Dunst, of the First Class Mage Exam. She specializes in Hypnosis Magic.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315929-mJfCA4CLVxJZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315929
+      }
+    },
+    {
+      "id": "lugner",
+      "name": "Lügner",
+      "alt_names": [
+        "リュグナー",
+        "Lugner"
+      ],
+      "role": "supporting",
+      "description": "Lügner was a demon who served [Aura the Guillotine](https://anilist.co/character/219110/Aura).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b316985-YkCeSIfDF7U1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 316985
+      }
+    },
+    {
+      "id": "linie",
+      "name": "Linie",
+      "alt_names": [
+        "リーニエ"
+      ],
+      "role": "supporting",
+      "description": "Linie is a Demon working under [Aura](https://anilist.co/character/219110/Aura). Under Aura's instruction, she was sent to assist [Lügner](https://anilist.co/character/316985/Lgner) alongside [Draht](https://anilist.co/character/316987/Draht) to perform negotiations with [Graf Granat](https://anilist.co/character/318147/Granat-Hakushaku).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b316986-spmwGktNwX3W.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 316986
+      }
+    },
+    {
+      "id": "draht",
+      "name": "Draht",
+      "alt_names": [
+        "ドラート",
+        "Dorat"
+      ],
+      "role": "supporting",
+      "description": "Draht was a demon who served [Aura the Guillotine](https://anilist.co/character/219110/Aura).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b316987-QDp2A6SoHsee.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 316987
+      }
+    },
+    {
+      "id": "granat-hakushaku",
+      "name": "Granat Hakushaku",
+      "alt_names": [
+        "グラナト伯爵",
+        "Graf Granat"
+      ],
+      "role": "supporting",
+      "description": "Ruler of Graf Granat's Domain, a fortified city in the Northern Lands constantly at war with Aura.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b318147-BcJTRcTqSIYy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 318147
+      }
+    },
+    {
+      "id": "akuma-no-ko",
+      "name": "Akuma no Ko",
+      "alt_names": [
+        "悪魔の子",
+        "Demon Child"
+      ],
+      "role": "supporting",
+      "description": "A young demon girl that ate the daughter of two villagers in a town the Hero Party visited. She called for \"mother\" when Himmel attempted to kill her, and the village chief takes her in as his own family and tries to give her a chance to atone.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b318148-u49X2U8E5jS6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 318148
+      }
+    },
+    {
+      "id": "stoltz",
+      "name": "Stoltz",
+      "alt_names": [
+        "シュトルツ"
+      ],
+      "role": "supporting",
+      "description": "Stark's older brother, referred to as the strongest warrior in the village.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b319598-R0kVKvFug65D.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 319598
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T17:53:59.803Z"
+}

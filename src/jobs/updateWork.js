@@ -1,8 +1,10 @@
 import { createAniListCollector } from '../collectors/anilist.js';
 import { createJikanCollector } from '../collectors/jikan.js';
+import { createRawgCollector } from '../collectors/rawg.js';
 import { createEnrichmentCollector } from '../collectors/enrichment.js';
 import { normalizeWork as normalizeAniListWork, normalizeCharacters as normalizeAniListCharacters } from '../normalizers/anilist.js';
 import { normalizeWork as normalizeJikanWork, normalizeCharacters as normalizeJikanCharacters } from '../normalizers/jikan.js';
+import { normalizeWork as normalizeRawgWork, normalizeCharacters as normalizeRawgCharacters } from '../normalizers/rawg.js';
 import { createWriter } from '../writers/jsonWriter.js';
 import { createWorkCache } from '../utils/cache.js';
 import { logger } from '../utils/logger.js';
@@ -78,13 +80,27 @@ export class UpdateWorkJob {
       // Tenta buscar dados da API principal
       const collector = this.createCollector(existingInfo.source, {});
 
-      workData = await collector.searchMedia({
-        id: existingInfo.source_id,
-        type: type === 'anime' ? 'ANIME' : type === 'manga' ? 'MANGA' : 'ANIME'
-      });
+      // Adapta critérios baseado no tipo de fonte
+      if (existingInfo.source.toLowerCase() === 'rawg') {
+        // Para jogos (RAWG)
+        workData = await collector.searchGame({
+          id: existingInfo.source_id,
+          slug: existingInfo.external_ids?.rawg_slug
+        });
+        
+        if (this.updateCharacters) {
+          charactersData = await collector.collectCharacters(existingInfo.source_id, {});
+        }
+      } else {
+        // Para anime/manga (AniList, MAL)
+        workData = await collector.searchMedia({
+          id: existingInfo.source_id,
+          type: type === 'anime' ? 'ANIME' : type === 'manga' ? 'MANGA' : 'ANIME'
+        });
 
-      if (this.updateCharacters) {
-        charactersData = await collector.collectCharacters(existingInfo.source_id, {});
+        if (this.updateCharacters) {
+          charactersData = await collector.collectCharacters(existingInfo.source_id, {});
+        }
       }
 
     } catch (error) {
@@ -200,8 +216,11 @@ export class UpdateWorkJob {
       case 'myanimelist':
       case 'mal':
         return createJikanCollector(options);
+      case 'rawg':
+        return createRawgCollector(options);
       default:
-        throw new Error(`Fonte não suportada: ${source}`);
+        // Fallback para AniList
+        return createAniListCollector(options);
     }
   }
 
@@ -210,13 +229,36 @@ export class UpdateWorkJob {
    * @param {string} source - Fonte
    */
   setNormalizers(source) {
-    if (source === 'mal' || source === 'myanimelist') {
-      this.normalizeWork = normalizeJikanWork;
-      this.normalizeCharacters = normalizeJikanCharacters;
-    } else {
-      this.normalizeWork = normalizeAniListWork;
-      this.normalizeCharacters = normalizeAniListCharacters;
+    switch (source.toLowerCase()) {
+      case 'mal':
+      case 'myanimelist':
+        this.normalizeWork = normalizeJikanWork;
+        this.normalizeCharacters = normalizeJikanCharacters;
+        break;
+      case 'rawg':
+        this.normalizeWork = normalizeRawgWork;
+        this.normalizeCharacters = normalizeRawgCharacters;
+        break;
+      default:
+        // Fallback para AniList
+        this.normalizeWork = normalizeAniListWork;
+        this.normalizeCharacters = normalizeAniListCharacters;
     }
+  }
+
+  /**
+   * Cria dados da obra a partir do enrichment
+   * @param {Object} existingInfo - Info existente
+   * @param {Object} enrichment - Dados do enrichment
+   * @returns {Object} Dados da obra
+   */
+  createWorkFromEnrichment(existingInfo, enrichment) {
+    // Implementação básica - usa os dados do enrichment como base
+    return {
+      ...existingInfo,
+      ...enrichment,
+      source: 'enrichment'
+    };
   }
 }
 

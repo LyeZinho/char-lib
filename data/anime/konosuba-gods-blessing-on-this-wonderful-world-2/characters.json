@@ -1,0 +1,601 @@
+{
+  "work_id": "konosuba-gods-blessing-on-this-wonderful-world-2",
+  "count": 25,
+  "characters": [
+    {
+      "id": "megumin",
+      "name": "Megumin",
+      "alt_names": [
+        "めぐみん",
+        "Crazy Explosion Girl",
+        "Psycho Girl"
+      ],
+      "role": "protagonist",
+      "description": "Megumin is an archmage and the self-proclaimed top genius of the Crimson Demons, an order of magicians who are born with high intelligence and magical powers.\n\nDespite being an archwizard, she can only use the high level skill 'Explosion', the strongest of all offensive magic, and only once a day as it consumes tremendous magical power. Due to this she is more often a liability than an asset.\n\nMegumin speaks and dresses as a Chuunibyou and her only desire is to unleash explosion magic in the face of her enemies.",
+      "metadata": {
+        "gender": "female",
+        "age": "13-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89361
+      }
+    },
+    {
+      "id": "aqua",
+      "name": "Aqua",
+      "alt_names": [
+        "アクア"
+      ],
+      "role": "protagonist",
+      "description": "Aqua is a goddess of water. She guides humans who die young to the afterlife.\n\nDue to her cocky attitude towards [Kazuma](https://anilist.co/character/89364), she ends up being dragged to another world with him to defeat the Demon King.\n\nAqua chose the advanced job of archpriest, as being a goddess she's naturally a strong wielder of healing magic. However, she spends most of her skillpoints on party trick skills.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89362
+      }
+    },
+    {
+      "id": "darkness",
+      "name": "Darkness",
+      "alt_names": [
+        "ダクネス"
+      ],
+      "role": "protagonist",
+      "description": "A crusader and a masochist.\n\nDespite being an advanced knight, she is extremely clumsy and none of her attacks ever hit their mark. However, she has great endurance and stamina and acts as the frontline of the party. She often throws herself in front of enemies to \"shield\" her party, but in reality it's just her masochism.",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89363
+      }
+    },
+    {
+      "id": "kazuma-satou",
+      "name": "Kazuma Satou",
+      "alt_names": [
+        "佐藤和真",
+        "Kazutrash",
+        "Crapuma"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 162 cm (5'4\")\n\nA hikikomori (shut-in), otaku and NEET, Kazuma arrives in the afterlife after a traffic accident and decides to go to another world to defeat the Demon King, taking [Aqua](https://anilist.co/character/89362) with him.\n\nHe has the weakest job of 'Adventurer', but has decent intelligence and extraordinarily high luck. This is demonstrated whenever he uses his 'steal' skill.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89364
+      }
+    },
+    {
+      "id": "yunyun",
+      "name": "Yunyun",
+      "alt_names": [
+        "ゆんゆん",
+        "Frog Slayer"
+      ],
+      "role": "supporting",
+      "description": "Yunyun is a member of the Crimson Magic Clan, and she and [Megumin](https://anilist.co/character/89361) are friends as well as rivals.",
+      "metadata": {
+        "gender": "female",
+        "age": "13",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120652
+      }
+    },
+    {
+      "id": "chomusuke",
+      "name": "Chomusuke",
+      "alt_names": [
+        "ちょむすけ",
+        "Kuro (クロ)",
+        "Shikkoku no Majuu (しっこくの魔獣)",
+        "Megumin (めぐみん)",
+        "Ink"
+      ],
+      "role": "supporting",
+      "description": "Chomusuke acts as [Megumin](https://anilist.co/character/89361)'s familiar. She is a black cat with a red cross-shaped marking on her forehead and bat like wings. She cannot speak human language, but she seems to be fairly intelligent and can understand human speech to some extent.  \n\n~!She is actually the other half of Lady Wolbach, who was sealed in the Crimson Demon Village.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120654-9yWTm8QyQy0O.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120654
+      }
+    },
+    {
+      "id": "wiz",
+      "name": "Wiz",
+      "alt_names": [
+        "ウィズ",
+        "Kouri no Majo (氷の魔女",
+        "Ice Witch)"
+      ],
+      "role": "supporting",
+      "description": "Wiz is the owner of a famous Magic Item Shop in Axel that has many unsalable items with quirky defects. She used to be a renowned Arch Wizard, but has since retired. At night, she has a secret identity as a kind-hearted lich who helps lingering spirits pass on. She is also the only harmless Demon King's General and prefers to live as a human.",
+      "metadata": {
+        "gender": "female",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120655-LfUD7Mb1Mncg.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120655
+      }
+    },
+    {
+      "id": "luna",
+      "name": "Luna",
+      "alt_names": [
+        "ルナ",
+        "Uketsukejou (受付嬢)"
+      ],
+      "role": "supporting",
+      "description": "Part of the Guild Staff, she is the go-to woman for adventurers visiting the guild. Luna is a very kind, caring and cheerful young woman who has a rather ''Onee-chan'' (big sister) aura about her. She has common sense which is a rarity in the Fantasy World. Luna is also a calm person, taking everything in stride.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120657-xT7lUbz4uk0k.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120657
+      }
+    },
+    {
+      "id": "eris",
+      "name": "Eris",
+      "alt_names": [
+        "エリス"
+      ],
+      "role": "supporting",
+      "description": "Eris is the Goddess of Fortune and [Aqua's](https://anilist.co/character/89362) junior. Eris is a very kind and gentle girl who treats others with kindness and respect. She is also very caring and she always interest her adherents. She has a very cheerful attitude but at times can act a bit childish. She is insecure about her breast size and uses breast pads to compensate. Aqua often embarrasses her with this knowledge, as Eris wants as few people as possible to notice her lack in bust. She is also kind-hearted and gentle, and therefore, her scent is very fragrant, according to her peers and Aegis.\n\n~!Eris disguises herself as Chris, a friend to [Darkness](https://anilist.co/character/89363) listed under the occupation of thief. Chris is an innocent, cheerful and energetic girl that is almost always seen with a big smile and boasting a bright personality. She also seems to have high confidence in herself. Though at times she acts quite childish and mischievous, Chris has a big, kind heart.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120658-SJ9YrXEluqaX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120658
+      }
+    },
+    {
+      "id": "sena",
+      "name": "Sena",
+      "alt_names": [
+        "セナ"
+      ],
+      "role": "supporting",
+      "description": "Royal Prosecutor for the Kingdom of Belzerg.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/122424-hRsHYqmISnmG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122424
+      }
+    },
+    {
+      "id": "arakuremono",
+      "name": "Arakuremono",
+      "alt_names": [
+        "荒くれ者",
+        "Ruffian"
+      ],
+      "role": "supporting",
+      "description": "An anime-exclusive character. The first person [Kazuma](https://anilist.co/character/89364) speaks with in Axel's guildhall.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126854-AVwxFTMoGFMe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126854
+      }
+    },
+    {
+      "id": "vanir",
+      "name": "Vanir",
+      "alt_names": [
+        "バニル"
+      ],
+      "role": "supporting",
+      "description": "Demon King's army ex-general.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130106-SmSbkyTcmmTl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130106
+      }
+    },
+    {
+      "id": "keith",
+      "name": "Keith",
+      "alt_names": [
+        "キース"
+      ],
+      "role": "supporting",
+      "description": "A frivolous archer who is part of Taylor's party.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136043-7R5IZmkW6MqE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136043
+      }
+    },
+    {
+      "id": "kyouya-mitsurugi",
+      "name": "Kyouya Mitsurugi",
+      "alt_names": [
+        "御剣響夜",
+        "Maken no Yuusha (魔剣の勇者)"
+      ],
+      "role": "supporting",
+      "description": "A Japanese citizen who was also reincarnated to the fantasy world by Aqua. He is one of Belzerg's strongest adventurers and wields the cursed sword Gram. The sword was his gift from Aqua.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136044-oWcFALodYp4n.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136044
+      }
+    },
+    {
+      "id": "dust",
+      "name": "Dust",
+      "alt_names": [
+        "ダスト",
+        "Lain Sheyka"
+      ],
+      "role": "supporting",
+      "description": "A warrior and a member of the party consisting of [Rin](https://anilist.co/character/240105/Rin), [Keith](https://anilist.co/character/136043/Keith), and [Taylor](https://anilist.co/character/242932/Taylor). He is a major supporting character in the main KonoSuba series, as well as the protagonist of the Limelight spinoff series alongside [Rin](https://anilist.co/character/240105/Rin).\n\nDust is rumored to be one of the strongest adventurers in Axel, to the point where he could become a highly accomplished individual if not for his lazy personality. However, he appears to actively hide his true abilities, handicapping himself by using a longsword rather than a spear, his preferred weapon of choice.\n\n~!In the Limelight spinoff series, Dust is revealed to be a formerly renowned knight born of lower-ranking nobility. Having been banished and stripped of his status after helping the princess [Leonor](https://anilist.co/character/340950/Leonor) avoid her wedding, he became a delinquent adventurer, joining [Taylor](https://anilist.co/character/242932/Taylor)'s party and quickly becoming close with [Rin](https://anilist.co/character/240105/Rin) due to her striking resemblance of [Leonor](https://anilist.co/character/340950/Leonor). Promising the princess to do so, he only makes use of his full abilities when those he cares about are at stake.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136046-lq9XrHBsalDn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136046
+      }
+    },
+    {
+      "id": "alderp-alexei-barnes",
+      "name": "Alderp Alexei Barnes",
+      "alt_names": [
+        "アルダープ・アレクセイ・バーネス"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b177154-7zIwwGUcTIeC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 177154
+      }
+    },
+    {
+      "id": "hans",
+      "name": "Hans",
+      "alt_names": [
+        "ハンス"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b177158-rEuPJGEdLjqs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 177158
+      }
+    },
+    {
+      "id": "keele",
+      "name": "Keele",
+      "alt_names": [
+        "キール"
+      ],
+      "role": "supporting",
+      "description": "Was a former Arch Wizard who later became a Lich to save his love.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b177159-IjAx5lEgFdAz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 177159
+      }
+    },
+    {
+      "id": "ignis-dustiness-ford",
+      "name": "Ignis  Dustiness Ford",
+      "alt_names": [
+        "イグニス ダスティネス フォード"
+      ],
+      "role": "supporting",
+      "description": "Is the father of Darkness and the current head of the Dustiness House.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b177160-KiEJO4ZHnKJd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 177160
+      }
+    },
+    {
+      "id": "walter-alexei-barnes",
+      "name": "Walter Alexei Barnes",
+      "alt_names": [
+        "バルター・アレクセイ・バーネス"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b177164-2mbkkO0Z3wym.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 177164
+      }
+    },
+    {
+      "id": "rin",
+      "name": "Rin",
+      "alt_names": [
+        "リーン",
+        "Lean",
+        "Lynn"
+      ],
+      "role": "supporting",
+      "description": "An intermediate wizard and a member of [Taylor](https://anilist.co/character/242932/Taylor)'s party, alongside [Keith](https://anilist.co/character/136043/Keith) and [Dust](https://anilist.co/character/136046/Dust).\n\nRin is a highly capable magic user, although she is humble and describes herself as a rookie wizard. She is also a very direct and honest person, and although she's usually calm, she knows how to hit someone back when she is teased. Her level-headedness compared to the boys in her party often leads to her getting Dust out of trouble and scolding him for his actions.\n\nDespite her strict demeanor however she is a pleasant person, and at times shows genuine kindness and concern for Dust as well.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b240105-qO8xrTa3Br8s.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 240105
+      }
+    },
+    {
+      "id": "fio",
+      "name": "Fio",
+      "alt_names": [
+        "フィオ",
+        "Maken no Yuusha no Nakama (魔剣の勇者の仲間)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b307853-tMffbuM9RA0q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 307853
+      }
+    },
+    {
+      "id": "cremea",
+      "name": "Cremea",
+      "alt_names": [
+        "クレメア"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b307854-DCNtKCNmTOIw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 307854
+      }
+    },
+    {
+      "id": "saibankan",
+      "name": "Saibankan",
+      "alt_names": [
+        "裁判官",
+        "Judge"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327410-fECJUB2OEFTF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327410
+      }
+    },
+    {
+      "id": "komekko",
+      "name": "Komekko",
+      "alt_names": [
+        "こめっこ"
+      ],
+      "role": "minor",
+      "description": "Komekko is [Megumin](https://anilist.co/character/89361)'s adorable younger sister. She is a young Crimson Demon and the only Crimson Magic kid around her age.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120653-q4uPVQC2iSg8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120653
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T17:55:23.599Z"
+}

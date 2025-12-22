@@ -1,0 +1,100 @@
+{
+  "generated_at": "2025-12-22T20:41:00.908Z",
+  "types": {
+    "anime": {
+      "works_count": 100,
+      "characters_count": 2982,
+      "genres_count": 17
+    },
+    "manga": {
+      "works_count": 50,
+      "characters_count": 1261,
+      "genres_count": 15
+    },
+    "game": {
+      "works_count": 2,
+      "characters_count": 3,
+      "genres_count": 4
+    }
+  },
+  "total_works": 152,
+  "total_characters": 4246,
+  "total_genres": 36,
+  "average_score": 81,
+  "database_info": {
+    "first_import": "2025-12-22T12:09:22.201Z",
+    "last_import": "2025-12-22T19:38:31.334Z",
+    "total_file_size": 5127632,
+    "average_characters_per_work": 27.93
+  },
+  "distribution": {
+    "by_status": {
+      "FINISHED": 133,
+      "RELEASING": 16,
+      "Finished Airing": 1,
+      "unknown": 2
+    },
+    "by_source": {
+      "AniList": 149,
+      "MyAnimeList": 1,
+      "RAWG": 2
+    },
+    "top_genres": [
+      {
+        "genre": "Action",
+        "count": 102
+      },
+      {
+        "genre": "Drama",
+        "count": 91
+      },
+      {
+        "genre": "Adventure",
+        "count": 61
+      },
+      {
+        "genre": "Comedy",
+        "count": 60
+      },
+      {
+        "genre": "Supernatural",
+        "count": 57
+      },
+      {
+        "genre": "Fantasy",
+        "count": 54
+      },
+      {
+        "genre": "Psychological",
+        "count": 38
+      },
+      {
+        "genre": "Mystery",
+        "count": 35
+      },
+      {
+        "genre": "Romance",
+        "count": 28
+      },
+      {
+        "genre": "Sci-Fi",
+        "count": 24
+      }
+    ],
+    "by_format": {
+      "MOVIE": 5,
+      "TV": 94,
+      "Movie": 1,
+      "MANGA": 49,
+      "ONE_SHOT": 1,
+      "unknown": 2
+    }
+  },
+  "performance": {
+    "last_updated_by_type": {
+      "anime": "2025-12-22T19:19:11.908Z",
+      "manga": "2025-12-22T19:38:31.334Z",
+      "game": "2025-12-22T18:40:30.185Z"
+    }
+  }
+}

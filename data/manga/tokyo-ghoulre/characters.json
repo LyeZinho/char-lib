@@ -1,0 +1,615 @@
+{
+  "work_id": "tokyo-ghoulre",
+  "count": 25,
+  "characters": [
+    {
+      "id": "ken-kaneki",
+      "name": "Ken Kaneki",
+      "alt_names": [
+        "金木研",
+        "Eyepatch",
+        "Kane-yan",
+        "Kanekichi"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 169 cm (5'6\")\n\nKen Kaneki was originally a human and a normal college student until he encountered a female ghoul named [Rize](https://anilist.co/character/88413/Rize-Kamishiro) who was posing as a human at the time. Rize, using Kaneki's crush on her as leverage, managed to lure him into an alley and tried to eat him but ended up dying when construction beams fell on top of her. Kaneki, already in a half-dead state from Rize's attempts at killing him, ends up in a hospital and has some of Rize's organs transplanted into his body. This results in him absorbing some of Rize's powers and characteristics, such as a ghoul eye, powers of regeneration, and the inability to stomach human food.\n\nTerrified and lost, Kaneki's life takes a dramatic turn from then on as he tries to find a place for himself in the world, realizing he now belongs to neither the human nor ghoul world and refusing to eat humans to sustain himself. Meeting some of the ​other ghouls, as well as humans, makes him realize that things aren't just black and white and that there are more to ghouls and humans than originally thought.",
+      "metadata": {
+        "gender": "male",
+        "age": "18-29",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87275-mb13EWZBdbh3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87275
+      }
+    },
+    {
+      "id": "touka-kirishima",
+      "name": "Touka Kirishima",
+      "alt_names": [
+        "霧嶋董香",
+        "Rabbit"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 156 cm (5'1\")\n\nTouka is a ghoul successfully posing as a human and working as a waitress at a cafe which serves as a gathering place for other ghouls, as well as a food resource.\n\nShe saves Kaneki's life at one point and acts as a reluctant guide to him and his adaptation to the ghoul society. She doesn't like Kaneki much and has no qualms about expressing her dislike for him. She is very serious, tough and hard-working, trying to keep their district as safe for ghouls and humans as possible. Her powers and strength are also quite great and she makes for a formidable opponent.",
+      "metadata": {
+        "gender": "female",
+        "age": "17-28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87277-oUaqrI1iBzu6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87277
+      }
+    },
+    {
+      "id": "saiko-yonebayashi",
+      "name": "Saiko Yonebayashi",
+      "alt_names": [
+        "米林才子"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 143 cm\n\nSaiko Yonebayashi is a Rank 3 Ghoul Investigator, a Quinx, and a member of the Quinx Squad. She dislikes having to work, as she prefers having a peaceful, happy-go-lucky and carefree life by playing video games and eating junk food excessively. Saiko often oversleeps, which earns her the absence from most missions. While not trying to reduce it, she is apparently embarrassed about her weight, humorously covering it during her introduction.\n\nShe is excessively lazy to the point of being a hikikomori, unable to remove herself from her room without the intervention and often force of others, even jeopardizing her occupation. Saiko is also depicted as greedy, and heavily involved in her video games to the point of escapism.",
+      "metadata": {
+        "gender": "female",
+        "age": "19-20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88872-uhlmoT4vBxE3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88872
+      }
+    },
+    {
+      "id": "tooru-mutsuki",
+      "name": "Tooru Mutsuki",
+      "alt_names": [
+        "六月透",
+        "Eyepatch"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 165 cm (5'4\")\n\nTooru Mutsuki is a Rank 3 Ghoul Investigator, a Quinx and a member of the Quinx Squad. Tooru is kind with a gentle heart and seems to be shy with little self-confidence. Having a constant case of Anemia, ironically, Mutsuki feels repulsive when he comes into contact with blood. Because of this anxiety, he faces discouragement as a ghoul investigator, to the point where he feels as though he isn’t even needed for the job. He expresses frustration with his own weakness, feeling anger at his lack of ability compared to his comrades. When not working, he is shown to enjoy reading books and is the one often left to relate information to Haise Sasaki. As such, he is shown to be a reliable and hard-working individual, following orders in contrast to the more troublesome or lazy members of his team. Though lacking in confidence, he shows a strong desire to help others and does not hesitate to place himself at risk to protect the innocent.\n\n~!A flashback reveals him to have been born female, but unable to reconcile his feelings of discomfort towards his birth sex. As such, he has began living as a man and uses highly-masculine personal pronouns.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n88886-bGodL2ANji2m.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88886
+      }
+    },
+    {
+      "id": "ginshi-shirazu",
+      "name": "Ginshi Shirazu",
+      "alt_names": [
+        "不知吟士"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 176 cm (5'9\")\n\nGinshi Shirazu is a Rank 3 Ghoul Investigator, a Quinx and the Current Squad Leader of the Quinx Squad. Shirazu, like most of his teammates, is shown to have great respect for his mentor, Haise Sasaki. However, this doesn’t stop him from going out of his way to execute missions without Sasaki’s permission, and so he is constantly seen accompanying Kuki Urie, the former squad leader, on dangerous assignments. Although he is a competent fighter with a ruthless nature, Urie describes Shirazu as a simple-minded person. \n\nHe also seems to be quite exaggerated in his expressions and movements. His primary motive for joining the Quinx Squad is to get fast money for a purpose unknown at this point in time. Shirazu is also a quite carefree individual, and he seems to have an obsession for exterminating ghouls; both of which are traits that submit to the cocky grin he usually displays.\n\nHe is stated to be poor at tasks that require thought, such as academics or investigation. However, his consideration for others and attention to his surroundings convince Sasaki he has potential as a Squad Leader. In contrast to his loud and violent mannerisms, he is also someone that cares greatly for his team. While prone to bickering with Urie, he shows a gentler side when interacting with Mutsuki or civilians such as Chie",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88887-XjY2i5Jhkwl1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88887
+      }
+    },
+    {
+      "id": "kuki-urie",
+      "name": "Kuki Urie",
+      "alt_names": [
+        "瓜江久生"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 173,5 cm\n__Species:__ Quinx\n__Affiliations:__ CCG's Quinx Squad - Former squad leader\n__RC type:__ Koukaku\n__Quinque:__ Tsunagi (Bikaku)\n\nHe is a Rank 2 Ghoul Investigator,a Quinx and the former Squad Leader of the Quinx Squad.\n\nUrie often displays himself as a cool-headed individual, holding a monotonous facial expression the majority of the time. As a Ghoul Investigator, he appears to be very dedicated and stern about his work, to the point where it may seem as though he is ruthlessly slaughtering more ghouls than necessary, which is a habit he often gets berated for. Urie also tends to be quite hasty when investigating the slightest details or signs of a suspect. He has a tendency to execute mission objectives independently, without awaiting the arrival of his fellow team mates, or even requesting their help. This is because he is an ambitious person, and does not wish to share credit with others, as he merely wishes to achieve higher ranks as a Ghoul Investigator. To achieve his personal goals, he is willing to go as far as manipulating his comrades or causing discord within the team. But beneath his ambition and cool-headed demeanor is an insatiable jealousy towards his superiors, particularly Sasaki. Urie believes that ghouls, under any circumstance, must cease to exist. He is a person who is always striving for power and as a result, constantly looks for ways to one-up everyone around him which is shown by asking Professor Shiba to help augments his kagune's power to presumably to get an edge over Sasaki. \n\nUrie believes that as an investigator, he must never retreat and will fight on even if it means straining himself to the end. This belief stemmed from the fact that his father, a special class investigator in charge of the S3 squad, ordered his team members to retreat while he stayed to fight the One-Eyed Owl to the death. He also holds a grudge against Takeomi Kuroiwa and Iwao, for not fighting by his father's side during the Owl battle; and therefore thinks that they are inconsiderate of his loss. Thus, Urie refuses to forgive them.\n\nAn omake in Volume 1, shows that he is a talented painter.\n\n(Source: Tokyo Ghoul Wikia)",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88935-AtMsL0lEmeK6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88935
+      }
+    },
+    {
+      "id": "nimura-furuta",
+      "name": "Nimura Furuta",
+      "alt_names": [
+        "旧多二福"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 175 cm\n~!__RC Type:__ Rinkaku!~\n\n~!Kichimura Washuu is the primary antagonist of the Tokyo Ghoul series and the former Bureau Director of the CCG. He is involved in numerous organizations and is responsible for several major events of the series.!~\n\n~!He was originally the illegitimate son of former CCG Chairman Tsuneyoshi Washuu and an agent of V raised in the Sunlit Garden.\n\nTo further his own agenda, he has used various identities to infiltrate organizations or build personal alliances. As a member of the Clowns, he was responsible for the Steel Beam Incident. He also joined the Ghoul Restaurant as __PG__, and has been a partner in Akihiro Kanou's ghoulification experiments. Like [Ken Kaneki](https://anilist.co/character/87275/Ken-Kaneki), he is an artificial one-eyed ghoul who possesses [Rize Kamishiro](https://anilist.co/character/88413/Rize-Kamishiro)'s kagune.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "20-25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126031-3tBpl6tvYwaZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126031
+      }
+    },
+    {
+      "id": "hinami-fueguchi",
+      "name": "Hinami Fueguchi",
+      "alt_names": [
+        "笛口雛実",
+        "Yotsume"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 148 cm - 152 cm (4'10\" - 4'11\")\n\nHinami is a child ghoul whose parents were killed by ghoul investigators. Before, she and her mother seek help from the owner of the Antique Cafe to acquire food. Hinami is initially quite shy, but when she opens up, she is cheerful and earnest. Ken helps her learn kanji, as she cannot attend school, and is very eager to learn. Currently, she is living together with Touka Kirishima.",
+      "metadata": {
+        "gender": "female",
+        "age": "13-24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88293-4J36uyflNWvb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88293
+      }
+    },
+    {
+      "id": "koutarou-amon",
+      "name": "Koutarou Amon",
+      "alt_names": [
+        "亜門鋼太朗"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 191 cm (6'3\")\n\nA first class police investigator who investigates Ghouls, also known as a Dove. He comes to the 20th ward with his mentor, Mado Kureo, to investigate Ghoul incidents in the area. He has a strong sense of justice, fervently believing it is the right and moral thing to do to exterminate the Ghouls. He hunts the Ghouls in order to prevent more human children from becoming orphaned like himself, and he often works after hours to achieve his goals.\n\nHe wields a \"Quinque\" (a weapon made from the \"Kagune\" of a Ghoul) that has the appearance of a pole-arm with a large cylindrical bludgeon at the end.",
+      "metadata": {
+        "gender": "male",
+        "age": "26\r",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88407-YwE6D75Xskxl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88407
+      }
+    },
+    {
+      "id": "nishiki-nishio",
+      "name": "Nishiki Nishio",
+      "alt_names": [
+        "西尾錦",
+        "Serpent"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 177 cm (5'9\")\n\nNishiki Nishio is a ghoul whose original feeding ground was taken from Rize. He is a sophomore in the Pharmaceutical Department of Kamii University and Kimi Nishino's boyfriend.",
+      "metadata": {
+        "gender": "male",
+        "age": "19-25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88409-rOaEex2Ml2ah.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88409
+      }
+    },
+    {
+      "id": "kimi-nishino",
+      "name": "Kimi Nishino",
+      "alt_names": [
+        "西野貴未"
+      ],
+      "role": "supporting",
+      "description": "Kimi Nishino is a assistant for Akihiro Kanou who aids in his ghoulification experiments, the previous human lover of Nishiki Nishio and a medical student at Kamii University.~!Although she is aware of his ghoul nature, she remained loyal to him and kept his secret. After the Owl Suppression Operation, he left her in order to keep her safe.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88410.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88410
+      }
+    },
+    {
+      "id": "ayato-kirishima",
+      "name": "Ayato Kirishima",
+      "alt_names": [
+        "霧嶋絢都",
+        "Black Rabbit"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 159 cm (5'2\")\n\nAyato Kirishima is [Touka Kirishima](https://anilist.co/character/87277/Touka-Kirishima)'s younger brother. He grew up with his sister in the 20th ward but at some point of time, he disappeared. Currently, he is an executive of Aogiri Tree. An arrogant youth with a similar harsh attitude that resembles his sister. Other than physical looks, he shares many similarities with Touka such as his cold, hotblooded attitude and a habit for kicking people. However, he's more harsh compared to her and surprisingly nicer than his Aogiri superiors.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88411-dI6vqLy4pvHK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88411
+      }
+    },
+    {
+      "id": "juuzou-suzuya",
+      "name": "Juuzou Suzuya",
+      "alt_names": [
+        "鈴屋什造",
+        "Rei"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 160 cm (5'3\")\n\nA Rank 3 Ghoul Investigator. In the past, he went by the name Rei Suzuya. He is the partner of Yukinori Shinohara. He is a young man with androgynous appearance. He has many stitches used as both first-aid and fashion. His hair is tied with a stitching string in a roman numeral 13 pattern, with large pupils that leaves an eerie and frightening impression.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88412-sIOJUnIkyFRe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88412
+      }
+    },
+    {
+      "id": "rize-kamishiro",
+      "name": "Rize Kamishiro",
+      "alt_names": [
+        "神代利世",
+        "Binge Eater"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 164 cm\n\nRize Kamishiro is a ghoul that was hanging out at Anteiku. She set her eyes on Ken Kaneki, but moments before eating him, she died in an accident and her organs were transplanted in Ken Kaneki, making him half-ghoul.",
+      "metadata": {
+        "gender": "female",
+        "age": "18-22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88413-FmAvV0hGSljG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88413
+      }
+    },
+    {
+      "id": "uta",
+      "name": "Uta",
+      "alt_names": [
+        "ウタ",
+        "No Face"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 177 cm\n\nA ghoul that has his own art studio where he makes masks for other ghouls. He has a lot of piercings and tattoos on his body, making him look pretty intimidating, even as a normal-looking human. He's the one who also made a mask for Kaneki.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88414-r2Xd7jJeMrvR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88414
+      }
+    },
+    {
+      "id": "nico",
+      "name": "Nico",
+      "alt_names": [
+        "ニコ"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Ghoul\n__Height:__ 175 cm\n__Affiliations:__ Clown Mask Ghoul Gang\n\nA gay ghoul (okama) in love. He was once acting together with Yamori and participating in Aogiri Tree.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88419.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88419
+      }
+    },
+    {
+      "id": "hideyoshi-nagachika",
+      "name": "Hideyoshi Nagachika",
+      "alt_names": [
+        "永近英良",
+        "Hide"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human\n\nHideyoshi is a normal human and the best friend of Ken Kaneki. Hide is incredibly observant and can figure things out about people in a almost sherlock-like manner. He also becomes interested in things and works hard on them until he finds something else to interest him.",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88421-F8yaeVfHjwYn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88421
+      }
+    },
+    {
+      "id": "shuu-tsukiyama",
+      "name": "Shuu Tsukiyama",
+      "alt_names": [
+        "月山習",
+        "Gourmet"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 180 cm\n\nShuu Tsukiyama was the infamous Gourmet ghoul of the 20th ward. He was a fourth-year student studying Social Welfare at the Department of Human Sciences at Seinan Gakuin University. He comes from the extremely wealthy and influential Tsukiyama family which his father, Mirumo Tsukiyama was the head of. Tsukiyama himself became the head of his family after the Tsukiyama Family Extermination Operation. He was also a member of the Ghoul Restaurant, known as MM until he betrayed them.\n\nHe joined Kaneki's group with the hidden intention of eating Ken Kaneki, obsessed with his scent and taste but eventually came to genuinely care for Kaneki. Two years later, his severe depression and anorexia after Kaneki's apparent demise left him emaciated and required constant care from his family servants. After finding out Kaneki was alive and meeting him, he recovers, being able to walk and eat on his own as well as take measures to help Kaneki regain his memories.",
+      "metadata": {
+        "gender": "male",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88424-mFPgcZlCuODC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88424
+      }
+    },
+    {
+      "id": "akira-mado",
+      "name": "Akira Mado",
+      "alt_names": [
+        "真戸暁"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Height:__ 164 cm\n__Affiliations:__ CCG\n__Quinque:__ Amatsu (Koukaku/Bikaku)\n__Likes:__ making quinques, solving puzzles and cats\n\nAkira Mado is a Rank 2 Ghoul Investigator and Kureo's daughter. She is currently partnered with Koutarou Amon.\n\nShe is an intelligent woman and seems to be always serious about work and her daily routine in general. Like her father, she has deep insight and intuition that helps her in investigation and determining what is going on around her while on the field. She shares her father's \"quinque-mania,\" but it is not as extreme as his was.\n\nAkira remains professional in most situations, no matter who she is faced with, and she isn't one to admit her own feelings on a subject unless provoked to a certain degree. Seen through her interactions with others, it is most likely that she would prefer to make a quinque rather than to interact with someone else.",
+      "metadata": {
+        "gender": "female",
+        "age": "21 (Tokyo Ghoul), 24 (Tokyo Ghoul:re)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88838-LWDgYMTqb1pd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88838
+      }
+    },
+    {
+      "id": "kishou-arima",
+      "name": "Kishou Arima",
+      "alt_names": [
+        "有馬貴将",
+        "CCG's Reaper",
+        "White Reaper"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 180 cm\n__Quinque:__ IXA (Koukaku), Narukami (Ukaku), Yukimura 1/3 (Koukaku) \n\nKishou Arima is a famed Special Class Ghoul Investigator known as the CCG's Reaper. He is undefeated as a Ghoul Investigator and at some point was formerly partnered with Take Hirako.\n\nHis investigative skills and prowess in combat has led many investigators such as [Koutarou Amon](https://anilist.co/character/88407/Koutarou-Amon) to admire him.\n\n__Tokyo Ghoul:Re__\n\n~!He later passes down his Yukimura 1/3 (Koukaku) quinque to [Sasaki Haise](https://anilist.co/character/87275/Ken-Kaneki), a rank 1 investigator and mentor of Quinx squad.\n\nAlong with [Akira Mado](https://anilist.co/character/88838/Akira-Mado), he is the overseer of the Quinx squad and keeps a check on Sasaki Haise along with the Quinx members.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "29",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88946-YbTQAGJAdpoH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88946
+      }
+    },
+    {
+      "id": "eto",
+      "name": "Eto",
+      "alt_names": [
+        "エト"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 151 cm\n__RC Type:__ Ukaku\n__Rating:__\n~!S as Eto\nSSS as One Eyed Owl!~\n\nEto is an executive of Aogiri Tree from the 24th ward. Eto is often seen interacting with fellow Aogiri member [Tatara](https://anilist.co/character/88418/Tatara).\n\n~!She is the daughter of [Yoshimura](https://anilist.co/character/136024/Yoshimura), and the half-Ghoul known as the One-Eyed Owl. Her human identity is Sen Takatsuki (高槻 泉), a best-selling horror novelist mentioned throughout the series. Her relation with the One-Eyed King is unclear. However the CCG and [Nico](https://anilist.co/character/88419/Nico) speculate that they are the same person.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b90231-7ZeFK1DbrAxw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 90231
+      }
+    },
+    {
+      "id": "naki",
+      "name": "Naki",
+      "alt_names": [
+        "ナキ"
+      ],
+      "role": "supporting",
+      "description": "Naki is a ghoul who was imprisoned in Cochlea until Aogiri Tree's invasion on the prison. He was liberated by Aogiri Tree due to being a direct underling and supposedly the right hand man of Yamori. He was almost always accompanied by the Twins Gagi and Guge.\n\nHe eventually climbs the ranks within Aogiri, and has become an Executive in his own right. The number of Ghouls following him has grown considerably, forming a gang known as the White Suits for their distinctive dressing style. Naki is left handed.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/90232-7lFh0vRCty6s.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 90232
+      }
+    },
+    {
+      "id": "hairu-ihei",
+      "name": "Hairu Ihei",
+      "alt_names": [
+        "伊丙入"
+      ],
+      "role": "supporting",
+      "description": "Hairu Ihei is a First Class Ghoul investigator and the partner of Koori Ui. She is the deputy leader of S1 Squad.\n\nShe is a veteran of the Owl Suppression Operation and serves as a member of Squad 0, commanded by Kishou Arima.\n\n~!She is killed during the Tsukiyama Extermination Operation.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b90234-56Qw3D3nmV2A.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 90234
+      }
+    },
+    {
+      "id": "kurona-yasuhisa",
+      "name": "Kurona Yasuhisa",
+      "alt_names": [
+        "安久黒奈"
+      ],
+      "role": "supporting",
+      "description": "Kurona Yasuhisa is an artificial one-eyed ghoul who impeded Ken Kaneki's pursuit of Madam A alongside her twin sister Nashiro.\n\n~!After being abandoned by Akihiro Kanou, she vanished until her appearance during the Rushima Landing Operation. She merged with her sister and became known to the CCG as Floppy.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "18-29",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/90236-N3omdU6A3scr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 90236
+      }
+    },
+    {
+      "id": "chie-hori",
+      "name": "Chie Hori",
+      "alt_names": [
+        "掘ちえ",
+        "Little Mouse (子ネズミ",
+        "Ko nezumi)"
+      ],
+      "role": "supporting",
+      "description": "Chie is a human photographer and information broker. She is a long-time friend of Shuu Tsukiyama, aware of his secret but uninterested in exposing him as a Ghoul. At his request, she serves as an informant to Kaneki's group. (Source: MAL)\n\nShe seeks out the members of the Quinx Squad, and offers to sell them information pertaining to Torso. This is because she has an unusual interest in their leader, Sasaki.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/121595-qMkSZxjKbvMV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121595
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T19:32:49.555Z"
+}

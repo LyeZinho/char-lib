@@ -1,0 +1,640 @@
+{
+  "work_id": "fullmetal-alchemist",
+  "count": 25,
+  "characters": [
+    {
+      "id": "edward-elric",
+      "name": "Edward Elric",
+      "alt_names": [
+        "エドワード・エルリック",
+        "Ed",
+        "Fullmetal Alchemist",
+        "Pipsqueak",
+        "Little Red Runt",
+        "Shorty",
+        "Insect",
+        "Hero of the People"
+      ],
+      "role": "protagonist",
+      "description": "__Birthplace:__ Resembool, Amestris\n__Height:__ 1,65m\n__Family:__ [Alphonse Elric](https://anilist.co/character/12/Alphonse-Elric) (brother), [Van Hohenheim](https://anilist.co/character/9792/Van-Hohenheim) (father), [Trisha Elric](https://anilist.co/character/10085/Trisha-Elric) (mother, deceased)\n__Affiliations:__ State Military, [Pinako Rockbell](https://anilist.co/character/65/Pinako-Rockbell), [Izumi Curtis (teacher)](https://anilist.co/character/67/Izumi-Curtis), [Roy Mustang (Commander)](https://anilist.co/character/68/Roy-Mustang)\n__Occupation:__ State Alchemist\n\nEdward \"Fullmetal Alchemist\" Elric is a young alchemical prodigy. He is the youngest State Alchemist ever to be recognized by the Amestris State Military, having received the title at the age of 12. Ed's primary motivation throughout the series is to return his younger brother, Alphonse, to his original body, which was lost in a failed human transmutation. Edward, despite his occasional bouts of immaturity, is a selfless boy who gains a reputation as a \"hero of the people\" throughout his youth. Notably, he doesn't seem concerned about returning his own arm and leg, instead focusing entirely on Al's suffering.\n\nEdward is small for his age, standing at only 149 cm (4'11\"), however his body is that of an experienced martial artist, with noticeable muscles and a wealth of agility. Although he lacks both his right arm and left leg, Ed's ability to fight is not impaired, and is in fact improved, as he will often use alchemy to cause his metal arm to partly transform into a blade or shield. His heavy automail limbs are considered by him to be the very best in Amestris. They were made by his childhood friend, Winry Rockbell, and she is constantly working on them. He is able to think quickly, even in desperate situations, though can still be frightened into paralysis. These qualities, combined with his alchemical powers and physical strength, make him a formidable fighter.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-16 (series), 18 (movie, End of the series)",
+        "dateOfBirth": "1899-01-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 11
+      }
+    },
+    {
+      "id": "alphonse-elric",
+      "name": "Alphonse Elric",
+      "alt_names": [
+        "アルフォンス・エルリック",
+        "Al",
+        "Armored Alchemist"
+      ],
+      "role": "protagonist",
+      "description": "__Birthplace:__ Resembool\n__Family:__ Edward Elric (brother), Trisha Elric (mother, deceased)\n__Occupation:__ Alchemist\n\nAlphonse Elric is a fictional character in the manga and anime series Fullmetal Alchemist. He is a human child who lost his body during a forbidden alchemical transmutation to bring his deceased mother back to life, and had his soul transmuted into a suit of armor by his brother, Edward Elric. \n\nAl's blood seal lies just below the base of the neck at the back of the suit, on the inside. It is drawn with Ed's blood. According to Edward, he needs to be careful whenever he reconstructs Alphonse's body because he must keep the blood seal intact during the transmutation. If the blood seal is removed, Al's soul will be lost.",
+      "metadata": {
+        "gender": "male",
+        "age": "14-15",
+        "dateOfBirth": "1900-01-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 12
+      }
+    },
+    {
+      "id": "winry-rockbell",
+      "name": "Winry Rockbell",
+      "alt_names": [
+        "ウィンリィ・ロックベル",
+        "Win",
+        "Mechanic Otaku",
+        "Automail Geek",
+        "Crazy Gearhead"
+      ],
+      "role": "supporting",
+      "description": "__Birthplace:__ Resembool\n__Occupation:__ Automail Mechanic \n__Family:__ Pinako Rockbell (grandmother), Urey Rockbell (father, deceased), Sara Rockbell (mother, deceased)\n__Affiliations:__ Rockbell Automail  Atelier Garfiel\n\nA childhood friend of the central characters, the Elric brothers, she is often seen in their company throughout the series. She is evidently Edward&#039;s love interest. Specializing in mechanical repair, specifically with automail, Winry services Edward&#039;s arm and leg whenever it is in need of repair or replacement.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-16",
+        "dateOfBirth": "1899-06-09"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 63
+      }
+    },
+    {
+      "id": "pinako-rockbell",
+      "name": "Pinako Rockbell",
+      "alt_names": [
+        "ピナコ・ロックベル",
+        "Pantheress of Resembool"
+      ],
+      "role": "supporting",
+      "description": "__Occupation:__ Surgeon, Automail Technician\n\nGrandmother of Winry, and old resident of Risembool. Also, a parent like figure to both Edward and Alphonse, after they lost their mother. It is shown that Pinako was Hohenheim&#039;s drinking buddy, and that she was the one to introduce Hohenheim with his future wife, Trisha.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65-Yw7j20Y9uewh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65
+      }
+    },
+    {
+      "id": "scar",
+      "name": "Scar",
+      "alt_names": [
+        "スカー",
+        "Kizu no Otoko (傷の男)",
+        "The Scarred Man"
+      ],
+      "role": "supporting",
+      "description": "Scar is a disturbed loner. His right arm does not belong to him, but his brother. His brother was obsessed with finding the Philosopher's Stone and tattooed his whole body.   During the Ishval civil war...  ~!an alchemist, Solf J. Kimblee, killed his brother, blew off Scar's arm, and gave him the \"X\" scar on his forehead. Scar's brother then transmuted his own arm onto Scar's shoulder, giving the maimed warrior priest the powers of alchemic deconstruction that he then uses in his quest for vengeance.!~ Scar seeks his revenge against the state alchemists, all of whom he blames for the destruction of Ishval. His wrath does not extend, however, to non-state alchemists, which is why he does not seek to kill Alphonse Elric during their frequent confrontations.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66-bLbGWXrmDqfV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66
+      }
+    },
+    {
+      "id": "izumi-curtis",
+      "name": "Izumi Curtis",
+      "alt_names": [
+        "イズミ･カーティス",
+        "Izumi Harnet",
+        "Auntie",
+        "Teacher",
+        "A Passing Housewife"
+      ],
+      "role": "supporting",
+      "description": "__Nationality:__ Amestrian\n\nIzumi Curtis, born Izumi Harnet, the teacher of Ed and Alphonse Elric, agreed to train the brothers to hone their alchemical abilities after their mother died. She expands their training with a regimen of philosophy, martial arts, and living off the land. Her methods are derived from her own alchemy training: in the manga and second anime, she was forced to survive in the northern region surrounding Briggs Fortress for a month (although it turns out she succeeded by stealing supplies from the northern fortress), whereas in the first anime she was taught by Dante. She thinks of the Elrics as her own sons, and although she severs her student-teacher ties with them after learning of their attempts with human transmutation (and similarly Ed's joining the State Military), she continues to do all she can to help them. She can be quite violent when punishing or sparring with the Elric brothers, so they tend to be deathly afraid of her. Her claim of \"I'm a housewife!\" while confronting Greed was a favorite scene of Arakawa's to draw.  Izumi and her husband Sig Curtis (シグ・カーティス, Shigu Kātisu) were expecting a child years before the start of the series; however, their son was stillborn. Izumi tried and failed to revive the child through human transmutation (an act that created Wrath in the first anime). The failed attempt took some of her internal organs, resulting in infertility, and causing her to periodically cough up blood. Izumi gained the ability to use alchemy without a transmutation circle after seeing the \"truth.\"  In the manga, Izumi attracts the attention of the State Military for surviving the failed human transmutation. As she and her husband travel around Amestris in order to avoid the military, they eventually meet Ed and Al's father Hohenheim. He rearranges her insides to ease the blood flow, and persuades her to help collaborate in bringing down the State Military.",
+      "metadata": {
+        "gender": "female",
+        "age": "35-36",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67-ggB3aC6DzQqB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67
+      }
+    },
+    {
+      "id": "roy-mustang",
+      "name": "Roy Mustang",
+      "alt_names": [
+        "ロイ・マスタング",
+        "Flame Alchemist",
+        "Hero of Ishval",
+        "Roy-Boy"
+      ],
+      "role": "supporting",
+      "description": "Roy Mustang is a state alchemist and officer in the Amestrian state military. A hero of the Ishval Civil War and [Edward Elric](https://anilist.co/character/11/Edward-Elric)’s superior officer, Mustang is a remarkably capable commander who plans to become the next Führer of Amestris.\n\nMustang is a clean-shaven young man with dark eyes. His dark hair is casually unkempt, falling over his eyes; in more formal or somber situations, however, he is known to wear it neatly slicked back. A great fan of classy attire, Mustang is rarely seen out of uniform (and even while in uniform will often don other accouterments, such as a long, black overcoat and white formal-wear gloves), but when dressed in civilian clothes, he appears rather partial to the three-piece suit and black tie (frequently coupled with classic scarves, polished dress shoes, and the aforementioned overcoat and gloves). He tends toward dark or neutral colors in his dress, such as dark blue, brown, and black tempered with minimal white.\n\n~!After the events of his fight with [Lust](https://anilist.co/character/650/Lust), Mustang carries a faint scar on the back of his right hand in the shape of the flame alchemy transmutation circle. He also carries a large burn wound on his left side, lower back, and abdomen from the same event.!~\n\nOn the surface, Mustang is presented as a shallow, self-absorbed, and incorrigible womanizer who is infamous among many of his colleagues and subordinates alike for the selfish and narcissistic aura he gives off. Easily as arrogant as Edward Elric, Mustang is one to act ostentatiously and appears to act mostly out of self-interest rather than any sort of philanthropy. He comes off to most as a sort of cocky layabout, shirking most of his duties and delegating his paperwork to subordinates while sitting idly at his desk with an amused smile on his face as he procrastinates, but is quick to take action when it appears that there is glory and military notoriety to be gained. Mustang is expertly manipulative and prone to think several steps ahead of those around him, giving him a remarkable talent for making subordinates act exactly as he wishes despite appearing not to have had a hand in their decisions - all traits which make the fact that he has managed to attain the lofty rank of colonel at such a young age a matter of public gossip.\n\nMustang also has a reputation of being a shameless flirt, and it's rumored that he spends much of his time cavorting about town with various women and wooing several of the servicewomen with his abundant charm, good looks, and charisma. This adds another facet to his unpopularity among the enlisted men, many of whom fear having sweethearts and crushes romanced away from them by his hand. He has, however, never actually been shown to be on a serious date with any woman; any flirtatious interactions he had with women seemed to be nothing more than a cover to discretely pass along information.\n\nAt the core, Mustang is a remarkably devoted commander whose primary focus and personal duty is to his friends and subordinates. Though he hides it well behind a veil of cynicism and self-importance, Mustang is a man who cares deeply about the people who trust and support him and goes to great lengths to ensure their safety and well-being, even at the risk of his own. As a man with considerable power, Mustang considers himself a protector to those without and acts accordingly, earning the staunch loyalty of his most trusted compatriots.\n\nOrphaned at a young age, Mustang was adopted by his father's younger sister, who brought him up intending to make him into a fine gentleman. Presumably, in his teens, he discovered an affinity for alchemy and took basic instruction in the craft from master alchemist [Berthold Hawkeye](https://anilist.co/character/75922/Berthold-Hawkeye) in the hopes of becoming a source of strength and knowledge for the people of Amestris. However, faced with the increasing frequency of border wars, he left his teacher's charge and enrolled in the state military academy with the intent of becoming a state alchemist and devoting himself to the protection of citizens caught in the crossfire of international struggles. While at the military academy, he became friends with fellow cadet [Maes Hughes](https://anilist.co/character/69/Maes-Hughes), with whom he often discussed his idealistic dreams for the future of the country.\n\n~![Pride](https://anilist.co/character/10982/Selim-Bradley) uses the Gold-Toothed Doctor to open the Gate of Truth, forcing Mustang into it. What happens while Mustang is at the gate is unclear, but as he leaves, he is transported to the room where Edward Elric, [Alphonse Elric](https://anilist.co/character/12/Alphonse-Elric), and [Izumi Curtis](https://anilist.co/character/67/Izumi-Curtis) were taken before. Elric tries to talk to him, and Mustang replies that he cannot see; [Truth](https://anilist.co/character/33816/Truth) has taken his sight as the price of looking inside the gate, either to \"deprive the man who had a grand vision to save his country from his eyesight, denying him to see what his beloved nation will become\". as Homunculus claims it to be, or merely to give a price for seeing the Truth.\n\nMustang's blindness is later cured with a Philosopher's Stone at the end of the series. In [Brotherhood](https://anilist.co/anime/5114/Fullmetal-Alchemist-Brotherhood/), the stone is used to heal Havoc's paralysis before curing his blindness.!~\n\n(Source: Fullmetal Alchemist Wiki, edited)",
+      "metadata": {
+        "gender": "male",
+        "age": "29-32",
+        "dateOfBirth": "1885-01-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 68
+      }
+    },
+    {
+      "id": "maes-hughes",
+      "name": "Maes Hughes",
+      "alt_names": [
+        "マース･ヒューズ"
+      ],
+      "role": "supporting",
+      "description": "__Nationality:__ Amestrian\n__Occupation:__ Intelligence Agent\n\nMaes Hughes is an Amestrian State Military officer stationed in the Investigations Office in Central City and Colonel Roy Mustang's best friend, as well as the closest supporter of Mustang's secret bid for the position of Führer. A devoted family man and exemplary soldier, Hughes is generally well-liked by the other characters.     ~!He is killed by Envy upon his discovery of Father&#039;s plans, and is posthumously promoted to Brigadier General!~",
+      "metadata": {
+        "gender": "male",
+        "age": "29",
+        "dateOfBirth": "1885-01-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b69-MRetSG8Qevvu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 69
+      }
+    },
+    {
+      "id": "riza-hawkeye",
+      "name": "Riza Hawkeye",
+      "alt_names": [
+        "リザ・ホークアイ",
+        " Lieutenant",
+        "Elizabeth",
+        "The Hawk's Eye"
+      ],
+      "role": "supporting",
+      "description": "Riza Hawkeye is Roy Mustang's most trusted subordinate. She carries out many of the tasks he is too lazy to do, acts as his personal assistant, and protects him from danger. She also doubles as his voice of reason, keeping cool in heated situations and scolding him when he allows his emotions to get in the way. Riza and Roy seem to share a close relationship in both adaptations of Fullmetal Alchemist; in the anime she identifies him as her most precious person, whereas in the manga she loses her resolve to live when believing he has been killed. Riza specializes in firearms, particularly sniper rifles, and can hit nearly any target with lethal accuracy. She adopts a dog, called Black Hayate in both the anime and the manga, which she raises with stern discipline; when Hayate goes to the bathroom inside, she shoots at the wall behind him to reinforce that doing so is bad.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70
+      }
+    },
+    {
+      "id": "greed",
+      "name": "Greed",
+      "alt_names": [
+        "グリード",
+        "Ultimate Shield",
+        "Mightiest Shield",
+        "Greed the Avaricious"
+      ],
+      "role": "supporting",
+      "description": "Greed is a greedy Homunculus, nicknamed the &quot;Ultimate Shield&quot;. He is able to rearrange the carbon in his body to make his skin as hard as diamond, thus making himself almost impossible to injure. As his name implies he is a very avaricious character, who likes living in luxury, surrounded by powerful minions and beautiful women. Despite his generally greedy nature, he’s shown to honestly care for his subordinates. He also has a habit of flipping people off in the manga.    \n\n __In the 2003 anime series:__  Greed is the second oldest of the Homunculi created by Dante. However, due to his avarice, Greed rebelled and was eventually captured and imprisoned in lab 5. He was imprisoned for 130 years until an explosion broke his seal. He then freed the caged chimera at Lab 5 in exchange for helping him get his revenge on the other homunculi and their master.    \n\n __In the manga and 2009 anime series:__  He is the third Homunculus created by Father. Greed apparently abandoned the other Homunculi over 100 years before the start of the series and claims to be around two centuries old. He first appears hiding in the Devil&#039;s Nest in Dublith, with his gang of chimeras all of whom he apparently rescued from military experimentation.      ~!After Greed is punished by Father, he later returns as Father removes his son&#039;s Philosopher&#039;s Stone core from his own body and inserts it directly into the body of Ling Yao to create a second Human-based Homunculus. This second Greed maintains all the same personality and powers as the first (his Ouroboros tattoo is even in the same spot), but appears to have none of his previous memories, not recognizing Envy, Gluttony, or the Elric Brothers. As such, he becomes a faithful servant of his Father, as the first Greed was presumed to have been initially, and refers to all actions prior to his rebirth as having been done by &quot;the other Greed&quot;.    After killing a past comrade and follower of his, memories from Greed&#039;s previous life returned, including his time in the Devil&#039;s Nest and the feelings he had for his followers. Remembering this, along with how Bradley killed most of his followers, leads Greed to betray Father once again. He also stops referring to his &quot;previous self&quot; as &quot;the other Greed&quot; upon regaining his memories.  !~ (Source: Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b351-XMQzTuMy2Xtn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 351
+      }
+    },
+    {
+      "id": "lust",
+      "name": "Lust",
+      "alt_names": [
+        "ラスト",
+        "Ultimate Spear",
+        "Lust the Lascivious",
+        "Solaris"
+      ],
+      "role": "supporting",
+      "description": "Lust is a Homunculus, nicknamed the &quot;Ultimate Spear&quot;, and one of the first antagonists in the Fullmetal Alchemist series. She is the first Homunculus to appear in the series and plays a significant role in the plot of both the manga and 2003 anime series. Lust is also usually partnered with Gluttony to whom she appears to have a particular almost motherly closeness. Her Ouroboros mark is located on her collarbone, just above her breasts.     \n\n __In the 2003 anime series;__  She is largely the same as her manga counterpart, highly intelligent, manipulative, devoted to her own ideals, however she begins to crave becoming a human as the series progresses. Her main purpose amongst the Homunculi is gathering information and traveling abroad, manipulating alchemists into creating Philosopher&#039;s Stones. Gaining true humanity is the focal point of her ambition, arguably much more so than the rest of the Homunculi.     \n\n~!Lust was created by Scar&#039;s brother, when he attempted to use alchemy to bring his lover back from the dead. After he was cast out from Ishbalan society as a heretic, Envy visited the wretched creature and fed it red stones, giving her human shape, and her new name. She was not the first Homunculus to bear the name of Lust, and is the third youngest Homunculus.!~\n\n __In the manga and 2009 anime series;__  Lust is the only female Homunculus and the second to be created by Father. Due to her high intelligence and devotion to Father&#039;s plan, Lust appears to have a great deal of free reign and authority within the organization, seeming to have a position second only to Pride and on par with Wrath. Lust also has a great disdain for humans, thinking them frail, predictable and generally stupid. Moreover, she appears to take pleasure in using and throwing them away. Lust is the first to introduce the idea of Homunculi as superhuman, the next wave of evolution of humanity, and takes pride in her nature.    -Taken in part from Wikia.",
+      "metadata": {
+        "gender": "female",
+        "age": "250",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b650-viEy6bOIcGiU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 650
+      }
+    },
+    {
+      "id": "envy",
+      "name": "Envy",
+      "alt_names": [
+        "エンヴィー",
+        "Envy the Jealous",
+        "Envy the Bizarre"
+      ],
+      "role": "supporting",
+      "description": "__Occupation:__ Instigator for Father\n__Ability:__ Shapeshifting\n__Goal:__ Cause discord among humans\n\nEnvy is a homunculus who has the ability to shapeshift. They use this power to assume the form of any person and even copy their voice. They usually serve as a spy, but their abilities are also extremely useful for assassinations. Envy may not be as smart as some of the other homunculi, but they are by no means an idiot. In fact, they can be just as good a puppet master as Lust, but this is overshadowed by their cockiness and bad temper. This temper can easily be set off by insulting their large and delicate ego, causing them to make mistakes.  \n\n__In the 2003 anime series:__ As the oldest Homunculus, Envy claimed that they had forgotten what they originally looked like. Envy also greatly hates all humans and followed Dante mostly for the opportunity of killing as many people as they could. This is what drove Envy in all that they did and unlike other Homunculi, Envy does not care about the Philosopher's Stone, nor about becoming human. ~!Towards the very end of the series it is revealed that Envy was created four hundred years ago by Hohenheim in an attempt to resurrect the son he and Dante had, who later died from mercury poisoning when he was eighteen years old. Envy held a great hatred toward Hohenheim for never being acknowledged as his son and for abandoning them and Dante.!~  \n\n__In the manga and 2009 anime series:__ Envy was the fourth Homunculus created by Father. Though often referred to as a 'he' Envy is apparently genderless and can take almost any form it chooses. Referred to by Lust as the most cruel or sadistic of the Homunculi, Envy shows the most open disdain of humans and relishes in any opportunity to hurt, humiliate, or insult them. They are also quite vain and short tempered and dislikes anyone insulting their appearance. ~!Beneath this cruel exterior, however, Envy is secretly envious of humans' inner strength and the mutually beneficial friendships that they share, since most of the Homunculi show little real concern or emotional support for each other.!~  \n\n(Source: Fullmetal Alchemist Wikia)",
+      "metadata": {
+        "gender": "non-binary",
+        "age": "~175",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b651-S4mzVOTMzej6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 651
+      }
+    },
+    {
+      "id": "alex-louis-armstrong",
+      "name": "Alex Louis Armstrong",
+      "alt_names": [
+        "アレックス・ルイ・アームストロング",
+        "Strong Arm Alchemist"
+      ],
+      "role": "supporting",
+      "description": "__Birthplace:__ Amestris\n__Occupation:__ State Alchemist\n\nMajor Alex Louis Armstrong, the Strong Arm Alchemist, was born into an elite family of alchemists and has mastered his family's techniques. Members of his family have, in the past, filled the highest military and political positions in the state. He acquired his alchemy titles for his skill of using arm strength in his alchemy. All though he may look intimidating, he is really friendly and (overly)affectionate, and often stays behind or risks his life for the safety of others. He also has a tendency to show off techniques passed down to him to his enemies, and make them feel somewhat awkward during a battle.\n\n(Source: Fullmetal Alchemist wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2079-RnhPS44vyqpJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2079
+      }
+    },
+    {
+      "id": "grand-basque",
+      "name": "Grand Basque",
+      "alt_names": [
+        "バスク・グラン",
+        "Basque Gran",
+        "Iron Blood Alchemist"
+      ],
+      "role": "supporting",
+      "description": "Brigadier General Basque Grand (the Iron Blood Alchemist) is an ambitious alchemist known for going to any lengths to complete an assignment. His alchemy title refers to Grand's ability to transmute the iron in his blood to an assortment of guns and other weapons. Grand was also in charge of the &quot;defunct&quot; Laboratory 5 in Central, which he ran in hope of creating a philosopher's stone for his own purposes.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2439-ETW3tuNekJ1w.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2439
+      }
+    },
+    {
+      "id": "lan-fan",
+      "name": "Lan Fan",
+      "alt_names": [
+        "ランファン",
+        "Ran Fan",
+        "Ranfan"
+      ],
+      "role": "supporting",
+      "description": "Lan Fan is one of two bodyguards of Ling Yao and the granddaughter of Ling's other bodyguard, Fu. She is very quiet and cares deeply for Ling. As a result, she is constantly thinking of his safety and often forgets her own. Lan Fan is a very skilled fighter and is able to sense the presence of a soul (referred to as chi); thus she can quickly identify Homunculi like Envy that have more than one soul in their Philosopher's Stones (meaning she can easily see through Envy's disguises). Although we are never told her age Ling refers to her as a \"girl\" so we can assume that she and Ling are around the same age.   ~!After being heavily injured by the Führer himself, Lan Fan sacrifices her arm to help Ling and herself escape. Later, She leaves with Fu to have an automail arm made for her. Lan Fan comes back six months later with an automail left arm. The automail is equipped with retractable blade starting from her elbow and ending around her shoulder. She uses it in a fight against Gluttony and in the siege of Central.!~ (Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b3292-aK72k3syf1qP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 3292
+      }
+    },
+    {
+      "id": "ling-yao",
+      "name": "Ling Yao",
+      "alt_names": [
+        "リン・ヤオ",
+        "Prince Ling",
+        "Lin Yao"
+      ],
+      "role": "supporting",
+      "description": "__Occupation:__ Prince\n__Goal:__ To find the secret of immortality and become Xingese Emperor\n\nLing Yao is a Xingese character exclusive to the manga and the 2009 anime series. Due to his father, the Emperor's, declining health, Ling left his country to find the Philosopher's Stone to stabilize Xing, as well as grant him the key to immortality. Although he is the 12th son of the Emperor, Ling hopes the Philosopher's Stone will help him rise in the order of succession and achieve the throne thereby securing his clan's welfare. Though he is often laid back and hungry, he's very noble and will do whatever it takes to help his clan. He is also a skilled fighter and has had many incidents involving assassination attempts at his life. He has formed a strong rivalry with Ed, by doing things such as use Ed's money to annoy him.   ~!After the 1st Greed is punished by Father, he gives Ling the secret to immortality by transforming him into the succeeding Greed. Ed tries to help, but Ling denies his help as it is the only way to help his clan in the land of Xing. Even while his body is taken over by Greed his mind and soul are kept intact and can come to the surface. Since Greed understands his strong points their relationship is on some kind of symbiotic level.!~\n\n(Source: Fullmetal Alchemist wiki)",
+      "metadata": {
+        "gender": "male",
+        "age": "15-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b3293-2GiFTmLQnBw8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 3293
+      }
+    },
+    {
+      "id": "shou-tucker",
+      "name": "Shou Tucker",
+      "alt_names": [
+        "ショウ タッカー",
+        "Sewing-Life Alchemist"
+      ],
+      "role": "supporting",
+      "description": "__Age:__ Early fifties\n__Birthplace:__ Amestris\n__Occupation:__ State Alchemist\n\nThe \"Sewing-Life\" Alchemist who created a talking chimera. Later on it is realized that the first speaking chimera he created was made from lab animals and his wife who he transmuted into a chimera out of a fit of anger.    ~!He also created a second \"talking chimera\" by transmuting his daughter Nina and his dog.!~  In the 2003 Series:   ~!Later on he makes another appearance at the abandoned lab. He is first thought to be a chimera by Ed, when he can see Shou's twisted body wrapped around the creature's upper body due to a failed alchemy experiment. Shou then wishes Ed to complete the philosopher's stone so he can then resurrect Nina whom he killed in the first place.!~\n\n(Source: Fullmetal Alchemist wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b3696-FXnbdWQXziOr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 3696
+      }
+    },
+    {
+      "id": "olivier-mira-armstrong",
+      "name": "Olivier Mira Armstrong",
+      "alt_names": [
+        "オリヴィエ・ミラ・アームストロング",
+        "Northern Cliff of Briggs",
+        "Ice Queen",
+        "Northern Wall of Briggs"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Occupation:__ Military Officer, Briggs General\n__Weapon:__ A family heirloom sword\n__Known relatives:__ Philip Gargantos Armstrong (father), Alex Louis Armstrong (younger brother), Catherine Elle Armstrong (youngest sister), Amue Armstrong (younger sister), Strongine Armstrong (younger sister)\n\nMajor General Olivier Mira Armstrong is Alex Louis Armstrong&#039;s older sister. She is in charge of Briggs, the northern military border. She scoffs at the concept of &quot;equivalent exchange&quot; and believes &quot;survival of the fittest&quot; is the only law in life. Her subordinates are loyal, but if it ensured the survival of Briggs (or for the sake of the greater good), they are instructed to leave her to die if ever the need arose, and she wouldn&#039;t hold it against them.    One of her closest subordinates is Major Miles, a soldier whose grandfather was Ishvalan; he is of many bloods due to several inter-racial unions, beginning with his grandparents. It is possible that he is also part Xingese, but his Ishvalan blood is the most prominent.     Being the General of Briggs, Olivier has full command of the Fortress. She is also very skilled with her family heirloom sword which she uses unhesitatingly. She also seems to have some proficiency with tanks and artillery.",
+      "metadata": {
+        "gender": "female",
+        "age": "37",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n3934-MKTV6tQeP8T3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 3934
+      }
+    },
+    {
+      "id": "nina-tucker",
+      "name": "Nina Tucker",
+      "alt_names": [
+        "ニーナ・タッカー"
+      ],
+      "role": "supporting",
+      "description": "__Nationality:__ Amestrian\n\nNina's father was Shou Tucker, the Sowing Life Alchemist.  \n\n~! When her father became desperate in forming another talking chimera he transmuted her and her dog into a chimera that was able to speak the human language.  Shortly after, she is killed by Scar to put her out of her misery. Later on in the first anime, with the philosopher's stone, the disfigured Chimeric Shou Tucker is able to resurrect his fallen daughter into the form of a chimera homunculus, an artificial human being. However, she never speaks and little is known about what happens after that.!~",
+      "metadata": {
+        "age": "5",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4159-g0Q6tQ9SCq6R.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4159
+      }
+    },
+    {
+      "id": "jean-havoc",
+      "name": "Jean Havoc",
+      "alt_names": [
+        "ジャン・ハボック",
+        "Jacqueline",
+        "The Knight"
+      ],
+      "role": "supporting",
+      "description": "Second Lieutenant Jean Havoc likes to smoke, and is almost always pictured with a cigarette in his mouth. He is a fair shot with a gun, and one of Roy Mustang's loyal followers; he gives Edward a stern talking-to when Ed bad-mouths Mustang for only caring about promotions. Havoc is a strict man of duty, a very by-the-book soldier, even if he doesn't always agree with the orders.\n\n~!He becomes paralysed from the legs down due to a wound given to him by Lust.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n4685-9uloq4hxlcTw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4685
+      }
+    },
+    {
+      "id": "king-bradley",
+      "name": "King Bradley",
+      "alt_names": [
+        "キング・ブラッドレイ"
+      ],
+      "role": "supporting",
+      "description": "King Bradley is the Führer of the Amestris state military and has all state alchemist under his direct command. King Bradley almost always maintains a kind and calm demeanor even when issuing orders to engage in battle. This trait often confuses his subordinates, and Roy Mustang admits that he \"can't figure the guy out.\" King Bradley has a son, Selim, and an unnamed wife.  In both iterations of Bradley, he is shown to be highly skilled with a saber. He can move and attack with incredible speed and dismember with ease.",
+      "metadata": {
+        "gender": "male",
+        "age": "59-60",
+        "dateOfBirth": "1854-08-24"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5103-jnflrjKevO3z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5103
+      }
+    },
+    {
+      "id": "gluttony",
+      "name": "Gluttony",
+      "alt_names": [
+        "グラトニー",
+        "Gluttony the Voracious"
+      ],
+      "role": "supporting",
+      "description": "Gluttony is the second homunculus to appear in the series, typically being in the company of Lust. He is a large, simple-minded homunculus whose thoughts rarely stray far from eating. He has powerful jaws, acidic saliva, and can and will eat almost anything. He particularly likes eating people, and the only way he can find enjoyment in a battle is if he believes he can eat his opponent afterwards. A running gag in the manga and anime is asking Lust (or any other Homunculi) if he can eat someone. He apparently prefers girls (as in to eat) and also seems to share a bond with his partner Lust.     There is no significant information pertaining to his role in the 2003 anime series.     __In the manga and 2009 anime series;__  Gluttony is the sixth Homunculus created by Father...   ~!and the failed product of Father&#039;s attempts to create a Gate of Truth. When activating this gate, Gluttony&#039;s stomach opens up, revealing a large eye at its center. His ribs spread out to act as a border for the gate, and then double as large extendable teeth. With these teeth Gluttony can consume everything in his eye&#039;s field of vision in an instant, which is then transported to a realm within himself. Artifacts from centuries before the start of the series can be found there, indicating Gluttony&#039;s age. Gluttony and his philosopher&#039;s stone was eaten by Pride when they&#039;re battling with Edward Elric, Lan Fan, Ling Yao, Fu,and the chimeras.!~    (Taken in part from Wikia)",
+      "metadata": {
+        "gender": "male",
+        "age": "160+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/5411.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5411
+      }
+    },
+    {
+      "id": "barry-the-chopper",
+      "name": "Barry the Chopper",
+      "alt_names": [
+        "バリー・ザ・チョッパー",
+        "Number 66 (ナンバー66)"
+      ],
+      "role": "supporting",
+      "description": "A butcher who uses the disguise of a female so he can abduct women.   \n\nBarry is a wanted serial killer and later an experiment in 5th laboratory.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5428-ZIjtbA5UxvSB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5428
+      }
+    },
+    {
+      "id": "kain-fuery",
+      "name": "Kain Fuery",
+      "alt_names": [
+        "ケイン・フュリー",
+        "Kate"
+      ],
+      "role": "supporting",
+      "description": "__Age:__ Early 20's\n__Nationality:__ Amestrian\n__Occupation:__ Mechanics and Communication Specialist\n__Goal:__ Support Roy Mustang's goal to become Führer\n\nMaster Sergeant Kain Fuery is a kind man who cares for animals and everyone else. He was the one who brought Black Hayate into the eastern Headquarters, though he freaked out about Riza's methods of training. He is part of Roy Mustang's group and is the youngest member, the only non-commissioned officer in the group.  Fuery is extremely talented with radio signals. Fuery is the soft-spoken technical wizard under Mustang's command. He isn't used to much hand to hand fighting, but is handy enough in a pinch.  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5705-Aoe00iZYSbS1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5705
+      }
+    },
+    {
+      "id": "vato-falman",
+      "name": "Vato Falman",
+      "alt_names": [
+        "ヴァトー・ファルマン"
+      ],
+      "role": "supporting",
+      "description": "Warrant Officer Vato Falman escorts General Hakuro back from his vacation and works in the investigation department under Lieutenant Hughes, as well as aiding Roy Mustang at Eastern Headquarters. Later on, Falman begs Mustang to let him join the team, and after thinking it through Mustang allows him to transfer with him back to Central. Falman is particularly known for his precision and data. Falman is overly formal, causing some of his comrades to wish he would lighten up.  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5706-Hh6Su6NIGGT0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5706
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T19:37:43.864Z"
+}

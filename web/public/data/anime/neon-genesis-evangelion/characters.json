@@ -1,0 +1,566 @@
+{
+  "work_id": "neon-genesis-evangelion",
+  "count": 22,
+  "characters": [
+    {
+      "id": "shinji-ikari",
+      "name": "Shinji Ikari",
+      "alt_names": [
+        "碇シンジ",
+        "Third Child"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 155 cm (5'1\")\n\nShinji Ikari is the Third Child ('Third Children' in Japanese), who pilots Unit 01. He is the son of Gendo and the late Yui Ikari. Abandoned by his father, Gendo, when he was a toddler, Shinji often ran away from difficult situations. As a pilot, he panics easily and reacts very poorly to unexpected events. \n\n~!Over time and with encouragement from Misato, he learns to be less cowardly, more outspoken, and more confident, but his progress is all undone when he is forced to kill the only person who ever openly expressed love toward him. His only friends are Toji and Kensuke, but he apparently cares about Rei more than even he realizes.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "14",
+        "dateOfBirth": "2001-06-06"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89
+      }
+    },
+    {
+      "id": "misato-katsuragi",
+      "name": "Misato Katsuragi",
+      "alt_names": [
+        "葛城ミサト"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 163 cm (5'4)\n\nMisato Katsuragi is the chief operations officer at NERV, initially holding the rank of Captain (with a later promotion to Major). She is the field commander for the Eva pilots, issuing orders and giving battle strategies. She also acts as [Shinji](https://anilist.co/character/89) and [Asuka's](https://anilist.co/character/94) guardian, letting them live in her apartment rather than have them living alone. While she is professional and diligent in her duties, she is a slob and a drunkard while off-duty. \n\n~!She is the only survivor of the Katsuragi Expedition, the scientific study led by her father which triggered the Second Impact; the cross pendant she wears was given to her by her father just before his death.  She and [Ryouji Kaji](https://anilist.co/character/1260) were lovers during college, and slowly rekindle their romance over the course of the series. She was also friends with [Ritsuko Akagi](https://anilist.co/character/1251) in college, but their relationship unravels as she learns more about the ultimate goals of NERV and SEELE.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "29",
+        "dateOfBirth": "1986-12-08"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1259
+      }
+    },
+    {
+      "id": "rei-ayanami",
+      "name": "Rei Ayanami",
+      "alt_names": [
+        "綾波レイ",
+        "First Child",
+        "Look-alike",
+        "Tentative Name: Rei Ayanami",
+        "アヤナミレイ(仮称)"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 149 cm (4'11\")\n~!Source of genetic material: Yui Ikari and Lilith, the Second Angel.!~  \n\nAyanami is the First Child and the pilot of Evangelion Unit 00. She is shown to be socially withdrawn and hardly interacts with anyone. Rei's cool, silent and emotionally-stunted personality has garnered the scorn of her schoolmates; Asuka calls her a \"doll\" or \"puppet\".  Although she once only associated with Gendo, she and Shinji break the ice after the battle against Ramiel and grow progressively closer for a while. In the manga version, Rei grows a lot closer to Shinji than in the anime.  \n\n~!Clones of her, which lack souls, are kept hidden under the NERV building to be the supposed \"cores\" of the Dummy Plugs. !~ \n\n~!It is hinted that Rei died twice; in the series, this stems from the fact that Rei herself says \"I think I'm the third one,\" shortly after her death when Unit 00 self-destructed, an event that she could not remember. The first Rei is shown to have died as a small girl at the hands of Dr. Naoko Akagi for revealing carelessly (or perhaps in an intentional set-up by Gendo Ikari) to Naoko that Gendo called her a \"useless old hag.\" The explanation is that her soul and most of her memories are transferred to one of the clones every time she dies, which then takes the preceding Rei's place as if she had not died at all. !~",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": "2001-03-30"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 86
+      }
+    },
+    {
+      "id": "asuka-langley-souryuu",
+      "name": "Asuka Langley Souryuu",
+      "alt_names": [
+        "惣流・アスカ・ラングレー",
+        "Second Child",
+        "Asuka Langley Shikinami",
+        "Princess"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 155 cm (5'1\") \n__Origin:__ Wilhelmshaven, Lower Saxony, Germany \n\nAsuka is the Second Child ('Second Children' in the Japanese versions of NGE), who pilots Evangelion Unit 02. She is from Germany, but with an American father and a half-German, half-Japanese mother. In the Rebuild of Evangelion series of movies, her name is changed to Asuka Langley Shikinami.\n\n~!Her mother, Kyoko Zeppelin Souryuu, went insane after an Eva-related experiment and began to believe that a doll that resembled Asuka was, in fact, her daughter, to the point that she refused to acknowledge the real Asuka. Kyoko Zeppelin Souryuu committed suicide on the very day that Asuka was chosen to become an Eva pilot. On that day, Asuka promised herself that she would never cry again. This event gives her an innate hatred of dolls and all things that she perceives to be doll-like, especially Rei. Despite those feelings, Asuka shows no hesitation when required to cooperate with Rei when necessary, proving her to be committed and professional regarding her duties as an Eva pilot.!~\n\n~!Asuka's father later remarried a woman for whom Asuka feels no affection. Asuka feels the need to verbally and sometimes physically lash out at everyone around her, except to her unrequited crush, Kaji, who is Misato's ex-boyfriend and more than twice Asuka's age. On her better days, however, she can be quite cheerful and friendly.!~\n\n~!Like Shinji, Asuka also has difficulty being close to people, except unlike Shinji, who shells himself, Asuka's coping mechanism is over-aggressiveness and so she unintentionally hurts people she likes, pushing them away and thus sinking further into loneliness and self resentment. This issue is referred to as the \"hedgehog's dilemma\" and is a recurring motif in the story.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": "2001-12-04"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b94-d631a3Z2KPvd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 94
+      }
+    },
+    {
+      "id": "kensuke-aida",
+      "name": "Kensuke Aida",
+      "alt_names": [
+        "相田ケンスケ",
+        "Ken-Ken"
+      ],
+      "role": "supporting",
+      "description": "Kensuke Aida is an otaku, a military buff, Toji&#039;s best friend, and one of the &quot;Other Children,&quot; Eva pilot candidates in the same class as Shinji, Toji, Rei, Asuka, and Hikari. His hobbies include camping in the mountains surrounding Tokyo-3 and playing at simulated war reenacting - by himself. Kensuke solidifies his friendship with Shinji after Shinji saves him and Toji during the fight against the fourth Angel, Shamshel. Kensuke dreams of becoming an Eva pilot and ceaselessly begs Shinji to pull strings in NERV so he can be selected as a pilot, despite Shinji telling him that he has no say in the matter. He also seems oblivious to the intense physical and psychological duress endured by Eva pilots. Nevertheless, Kensuke enjoys the privileges of being the friend of an Eva pilot; he and Toji accompany Shinji on the excursion to the UN combined naval fleet during the transportation of Unit 02. Like presumably every one of Shinji&#039;s classmates, Kensuke&#039;s mother is deceased. Like Toji, Kensuke has a crush on Misato Katsuragi. He is rarely seen without his camcorder at hand.\n\n_Kensuke is named after a main character in the novel The Fascism of Love and Fantasies (Ai to Gensou no Fascism) by Ryu Murakami. He is also similar in appearance to the character Jean, from Hideaki Anno&#039;s earlier anime Nadia: The Secret of Blue Water._",
+      "metadata": {
+        "gender": "male",
+        "age": "14",
+        "dateOfBirth": "2001-09-12"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1250-GU74dqhQEaUN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1250
+      }
+    },
+    {
+      "id": "ritsuko-akagi",
+      "name": "Ritsuko Akagi",
+      "alt_names": [
+        "赤木リツコ"
+      ],
+      "role": "supporting",
+      "description": "Ritsuko Akagi is NERV's head scientist and is heavily involved in the repairs and maintenance of Tokyo-3's defenses against the Angels, particularly the Evas.  She is the daughter of Naoko Akagi, the developer of the MAGI supercomputer system which controls Nerv. In many ways, Ritsuko is living in the shadow of her mother, whom she both admires and despises. Naoko was the head scientist working on the Evangelion project before her death, and Ritsuko is continuing the work her mother began with the Evas, as well as continuing the development of the Magi supercomputer system. Flashbacks to a teenaged Ritsuko reveal that she is a natural brunette, just like her mother.\n\nRitsuko is extremely intelligent, with a strong dedication to her work and a stoic, detached attitude which is frequently contrasted against Misato Katsuragi's hot-headness, especially during Eva combat. Her occasional jibes at Misato are a source of comic relief in the series. She has a great affinity for cats, and Misato chides her at one point for substituting her cats for human affection. She also is a heavy smoker, as evidenced by an ashtray on her desk filled with cigarette butts stained by her lipstick.",
+      "metadata": {
+        "gender": "female",
+        "age": "30",
+        "dateOfBirth": "1985-11-21"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/1251-gLa2Arv5E8a9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1251
+      }
+    },
+    {
+      "id": "shigeru-aoba",
+      "name": "Shigeru Aoba",
+      "alt_names": [
+        "青葉シゲル"
+      ],
+      "role": "supporting",
+      "description": "Shigeru Aoba is First Lieutenant at NERV and a computer technician. At times a stereotypical metal head, he is a nihilist and plays guitar (he can also sometimes be seen strumming an air guitar).  ~!In his implementation sequence, Lilith forces her way through his AT Field by bombarding him with a wall of Reis in which he screams in fear. She supposedly takes this tactic with his implementation because there is no one he loves or trusts enough to let his guard down, suggesting a possible layer of solitude and bitterness behind his cynical persona.!~ Again, his character is not explored in depth within the series.  (Source: afufu.net)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/1252-gSQPK15PSOl9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1252
+      }
+    },
+    {
+      "id": "kohzou-fuyutsuki",
+      "name": "Kohzou Fuyutsuki",
+      "alt_names": [
+        "冬月コウゾウ"
+      ],
+      "role": "supporting",
+      "description": "Kozo Fuyutsuki is second-in-command of NERV HQ and Gendo Ikari's right hand man. As Deputy Commander of NERV, Fuyutsuki frequently takes command of situations at the base whenever Gendo is away on business. Gendo also tends to unload the more mundane work, such as town council meetings, paperwork, and the like, onto Fuyutsuki.",
+      "metadata": {
+        "gender": "male",
+        "age": "59",
+        "dateOfBirth": "1956-09-04"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1253-4VmJuD5jUSvJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1253
+      }
+    },
+    {
+      "id": "hikari-horaki",
+      "name": "Hikari Horaki",
+      "alt_names": [
+        "洞木ヒカリ"
+      ],
+      "role": "supporting",
+      "description": "Hikari Horaki is the class representative of the class that Shinji and the other Eva pilots attend. Like all of her classmates, she is an unknowing Eva pilot candidate. She has a by-the-book demeanor and takes her responsibilities as \"class rep\" seriously. Although she frequently bickers with Toji, she reveals to Asuka that she has an enormous crush on Toji but is unable to openly express her feelings to him. She also appears to be Asuka's only friend. After the battle with Arael, Asuka seeks out Hikari and stays with her for an unspecified time. During a late evening she reveals her inner insecurities to Hikari, a testament to their friendship; however, Hikari appears saddened by the hateful words Asuka uses.\n\nHikari is an accomplished cook who appears to take care of her two sisters, [Nozomi](https://anilist.co/character/244735/) and [Kodama](https://anilist.co/character/244734/). Like presumably every one of Shinji's classmates, Hikari's mother is deceased.\n\nIn 3.0+1.0 of the rebuild series, ~!she resides in Village 3 and is married to [Touji Suzuhara](https://anilist.co/character/1262), with [a baby daughter](https://anilist.co/character/245144/). [Her father](https://anilist.co/character/245145/) lives with them.!~\n\n_Hikari is named after a character in the novel The Fascism of Love and Fantasies (Ai to Gensou no Fascism) by Ryu Murakami. Her name, and that of her unseen younger sister, Nozomi, and elder sister, Kodama, is also in reference to the names of the trains of the Tokaido Shinkansen line._",
+      "metadata": {
+        "gender": "female",
+        "age": "13",
+        "dateOfBirth": "2003-02-18"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1254-Ps0twCqNZZH2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1254
+      }
+    },
+    {
+      "id": "makoto-hyuuga",
+      "name": "Makoto Hyuuga",
+      "alt_names": [
+        "日向マコト"
+      ],
+      "role": "supporting",
+      "description": "Makoto Hyuga is First Lieutenant at NERV and a computer technician. He is something of a nerd, reading manga while on his break time, but is a hard worker, nonetheless. He also appears to harbor a deep crush for Misato, as Lilith approaches him during his implementation in the form of Misato.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1255-U6CSCHcOpUpS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1255
+      }
+    },
+    {
+      "id": "maya-ibuki",
+      "name": "Maya Ibuki",
+      "alt_names": [
+        "伊吹マヤ"
+      ],
+      "role": "supporting",
+      "description": "Maya Ibuki is a First Lieutenant at NERV and a computer technician who works primarily with Ritsuko Akagi. Her main role during the fights with the Angels is to constantly monitor the Eva pilots’ synchronization ratios and send various emergency commands to the Evangelions as ordered by Misato or Gendo. ~!When Maya's Instrumentality occurs, Lilith (in the form of Ritsuko) types \"I need you\" into Maya's laptop and embraces her. Maya's reversion to LCL comes after an ecstatic gasp of \"Senpai!\" However, this scene is the only one that alludes to her possible feelings towards Ritsuko, and its intention is not clear.!~ In spite of her profession, Maya despises violence of any sort, and is frequently shown becoming nauseous and averting her eyes during battles with the Angels. Notably, in The End of Evangelion, Maya is the only NERV officer who is shown refusing to fight back against the JSSDF invaders. She rejects the gun Shigeru hands her to defend herself saying \"I can't shoot this thing\", not because she is unskilled, but because she has never shot it at a human being.",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": "1991-07-11"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/1256-7NjpwB5vSlPZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1256
+      }
+    },
+    {
+      "id": "gendou-ikari",
+      "name": "Gendou Ikari",
+      "alt_names": [
+        "碇ゲンドウ",
+        "Gendoh Ikari"
+      ],
+      "role": "supporting",
+      "description": "Gendou Ikari is the commander of NERV. He is responsible for the research done on the Evas, Rei Ayanami, and the Human Instrumentality Project. He is the father of the Third Children, Shinji Ikari, and the guardian of Rei. His original surname was Rokubungi, but he changed it to Ikari following his marriage to Yui. At the start of the series, he is the only person having an effective connection to Rei. As the series progresses, his unscrupulous past is revealed, as is the intensity with which he loved Yui.\n\n~!In the original series, his maiden name is Rokubungi.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "48",
+        "dateOfBirth": "1967-04-29"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1257-qByikcrE8KTG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1257
+      }
+    },
+    {
+      "id": "yui-ikari",
+      "name": "Yui Ikari",
+      "alt_names": [
+        "碇ユイ"
+      ],
+      "role": "supporting",
+      "description": "Ikari Shinji's mother and wife of Gendou Ikari.\n\n~!In the rebuild series, her maiden name is Yui Ayanami.!~ ~!While testing an early version of the Eva control system, she was absorbed into the unit. Her data is the basis of the Rei \"replicas.\"!~",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": "1977-03-30"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/1258-FiCAgSWsP2Xz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1258
+      }
+    },
+    {
+      "id": "ryouji-kaji",
+      "name": "Ryouji Kaji",
+      "alt_names": [
+        "加持リョウジ"
+      ],
+      "role": "supporting",
+      "description": "Kaji, while only being a special inspector, secretly works for SEELE investigating NERV's true intentions. During college, he had a serious relationship with Misato, but after having long broken up, they see each other again on the UN fleet ferrying Unit 02 and its pilot, Asuka Langley Soryu, to Japan. \n\n~!After he returns to NERV headquarters, Kaji and Misato rekindle their romance following a period of teasing and insults, when Misato confesses that she broke up with him because she realized that Kaji reminded her of her father. He is eventually shot by an unnamed assailant, described as \"a third party working either for SEELE or for NERV's Intelligence Division\" in the episode Film-book. In the manga, it is Commander Ikari who personally kills Kaji.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "30",
+        "dateOfBirth": "1985-06-17"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1260-QCPCuARGDhqK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1260
+      }
+    },
+    {
+      "id": "kaworu-nagisa",
+      "name": "Kaworu Nagisa",
+      "alt_names": [
+        "渚カヲル",
+        "Kaoru",
+        "Tabris"
+      ],
+      "role": "supporting",
+      "description": "__Relations:__ Shinji Ikari (romantic interest)\n\n~!Kaworu Nagisa is both the 17th Angel and the Fifth Child. Although classified as an Angel, Kaworu is similar to Rei Ayanami in being a Seed of Life that inhabits a human body. Despite his human form, Kaworu does not consider himself to be human, since he refers to humans as \"the Lilin\".!~",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1261
+      }
+    },
+    {
+      "id": "touji-suzuhara",
+      "name": "Touji Suzuhara",
+      "alt_names": [
+        "鈴原トウジ"
+      ],
+      "role": "supporting",
+      "description": "Toji is a tough boy, the stereotypical \"jock,\" and is in constant conflict with Asuka. His younger sister was injured in the battle between the third Angel, Sachiel, and Unit 01, and he beats Shinji up soon after for being indirectly responsible. However, after witnessing firsthand the suffering Shinji experiences piloting Unit 01 in the battle against Shamshel, Toji comes to respect Shinji and the two eventually become friends.\n\n~!Toji Suzuhara is the Fourth Child.!~\n\n~!Toji's Eva, Unit 03, is taken over by the thirteenth Angel, Bardiel, and is eventually destroyed by Unit 01, which was under the control of the Dummy Plug system. He is severely injured when his Entry Plug is crushed; in the manga, he is killed.!~\n\nIn 3.0+1.0 of the rebuild series, ~!he is a doctor residing in Village 3 and is married to [Hikari Horaki](https://anilist.co/character/1254/), with a daughter.!~\n\n_Toji is named after one of the main characters in the novel The Fascism of Love and Fantasy (Ai to Gensou no Fascism) by Ryu Murakami._",
+      "metadata": {
+        "gender": "male",
+        "age": "14",
+        "dateOfBirth": "2001-12-26"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1262-srj1373Rz8dI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1262
+      }
+    },
+    {
+      "id": "pen-pen",
+      "name": "Pen Pen",
+      "alt_names": [
+        "ペンペン",
+        "Pen²"
+      ],
+      "role": "supporting",
+      "description": "Pen Pen is a hot-spring penguin who lives with Misato Katsuragi as her pet. He lives in a refrigerator and is a source of company and comfort to Misato, who has problems of her own.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1892-sjqNrZpbddu8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1892
+      }
+    },
+    {
+      "id": "shiro-tokita",
+      "name": "Shiro Tokita",
+      "alt_names": [
+        "時田シロウ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/3721-247Ww1hFTqqS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 3721
+      }
+    },
+    {
+      "id": "keel-lorentz",
+      "name": "Keel Lorentz",
+      "alt_names": [
+        "キール・ローレンツ",
+        "Lorenz"
+      ],
+      "role": "supporting",
+      "description": "Chairman of SEELE, it is the ambition of Keel Lorentz that drives mankind towards instrumentality. Part cyborg, Keel&#039;s eyes and spinal-cord are aided by advanced machinery.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17620-ZMMQmEnTNETz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17620
+      }
+    },
+    {
+      "id": "naoko-akagi",
+      "name": "Naoko Akagi",
+      "alt_names": [
+        "赤木ナオコ"
+      ],
+      "role": "supporting",
+      "description": "Naoko Akagi was Ritsuko's mother. She was the creator of the MAGI system and the former Gehirn head technician. Naoko was involved in a romantic relationship with the recently-widowed Gendo Ikari while working at Gehirn. However, after Rei I called her an &quot;old hag&quot; and said that Gendo himself called Naoko that frequently, she realized that he had merely been using her affections to ensure her performance for him. In a fit of rage, Naoko strangled Rei to death and then either committed suicide or was murdered by an unknown assailant. Soon afterward, Gehirn was disbanded and the organization Nerv was formed in its place.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/19207-ouxkWAjw2nyF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19207
+      }
+    },
+    {
+      "id": "kyouko-zeppelin-souryuu",
+      "name": "Kyouko Zeppelin Souryuu",
+      "alt_names": [
+        "惣流・キョウコ・ツェッペリン"
+      ],
+      "role": "supporting",
+      "description": "Mother of Asuka Langley Soryu. She was a scientist working for NERV before an accident during the testing phases of Evangelion Unit 02 left her hospitalized and mentally unstable.     ~! After this she began to treat a doll as if it were her daughter, and eventually committed suicide by hanging herself in her hospital room.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "31",
+        "dateOfBirth": "1974-01-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40969-CCitRm0yoQZI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 40969
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "supporting",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:32:30.382Z"
+}

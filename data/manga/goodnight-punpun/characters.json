@@ -1,0 +1,586 @@
+{
+  "work_id": "goodnight-punpun",
+  "count": 25,
+  "characters": [
+    {
+      "id": "punpun-onodera",
+      "name": "Punpun Onodera",
+      "alt_names": [
+        "小野寺プンプン",
+        "Punpun Punyama (プン山プンプン)",
+        "Ono-D",
+        "Takashi Fujikawa"
+      ],
+      "role": "protagonist",
+      "description": "Punpun is a socially awkward young boy whose age of innocence ends with his parents' divorce. As he continues to mature and interact with people around him as the average boy would, such as dealing with crushes and getting into mischief with his classmates, he begins to learn how crushing and harsh reality can be and struggles to find his purpose in the world.\n\n~!As Punpun grows older, his appearance changes drastically based on how he views himself.\n!~",
+      "metadata": {
+        "gender": "male",
+        "age": "11-22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17706-9OF3wt3wnO6s.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17706
+      }
+    },
+    {
+      "id": "aiko-tanaka",
+      "name": "Aiko Tanaka",
+      "alt_names": [
+        "田中愛子",
+        "Aiko Orihara (織原愛子)"
+      ],
+      "role": "protagonist",
+      "description": "An eccentric girl who is the main love interest of Onodera Punpun throughout the manga.\n\n~!After many years without meeting up with Punpun, they meet at a driving school and start seeing each other more often. Little by little, they open up to each other to eventually reveal different truths about each of their realities. She tells Punpun how she's fed up with the poor lifestyle of hers because of her crippled and cult-obsessed mother. In a rush to leave her house along with Punpun, they decide they should at least let her mother know. While in her house, Aiko's mother becomes enraged with the news and attacks Aiko with a knife several times, the biggest wound being around her abdomen. Filled with anger, Punpun assaults Aiko's mother and strangles her to death.!~ ~! While Aiko and Punpun are running away, she reveals to him that after he strangled her mother until apparent death, she was still alive and that it was her that gave the final blow by stabbing her stomach to death with a knife.!~\n ~!They later run off to several places with the intention of starting things over. Through a series of events and dialogues, both Aiko and Punpun start to lose their composure and right thinking, trying to kill each other several times. One morning, Aiko wakes up to leave a sleeping Punpun alone and hangs herself with a rope.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b22726-S7mGKZn16Djh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22726
+      }
+    },
+    {
+      "id": "sachi-nanjou",
+      "name": "Sachi Nanjou",
+      "alt_names": [
+        "南条幸"
+      ],
+      "role": "protagonist",
+      "description": "Sachi is a young woman pursuing a career as a manga artist. She befriends Onodera Punpun and serves an important role in his life. She has realistic views on things and isn't afraid to speak out, but most people think she is just a rude person.",
+      "metadata": {
+        "gender": "female",
+        "age": "19-26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58443-DNpfQUX72UMs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58443
+      }
+    },
+    {
+      "id": "kamisama",
+      "name": "Kamisama",
+      "alt_names": [
+        "神様",
+        "God"
+      ],
+      "role": "supporting",
+      "description": "Appears after Punpun says a special chant his uncle taught him. He helps Punpun with his problems.    ~!His \"help\" is frequently an incitement to violence.!~ \n~!As the manga keeps going, it's revealed that \"God\" is really the manifestation of Punpun's darker thoughts.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n17703-DPNetEKYSTCu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17703
+      }
+    },
+    {
+      "id": "yuuichi-onodera",
+      "name": "Yuuichi Onodera",
+      "alt_names": [
+        "小野寺雄一"
+      ],
+      "role": "supporting",
+      "description": "Punpun's uncle (Punpun's mom's brother) who is a 30-something freeter. He was previously a ceramics teacher, but he quit his job due to a certain incident. He looks after Punpun after Punpun's parents divorce.\n\nWomen of all ages find him very attractive. He is bad at resisting the charms of beautiful women which leads him to several serious troubles in his life. Because of that, he finds humans to be ugly and detestable creatures and prefers to keep contact with other people to the minimum.\n\n~!After living with Punpun's grandparents, he moves in with Punpun, meets a girl named Midori, gets married, has a child.  He repeatedly cheats on his partners, and tries to kill himself!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/21954-HCjvJJ9m1cq6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21954
+      }
+    },
+    {
+      "id": "kou-shimizu",
+      "name": "Kou Shimizu",
+      "alt_names": [
+        "清水コー",
+        "Shimi",
+        "Chupet"
+      ],
+      "role": "supporting",
+      "description": "A weird friend of Punpun. Best friends with Seki. He's not so independent and has a wild imagination. His nose seems to be running all the time. \n~!The cause of his wild imagination and inability to be independent came from the trauma of losing his mother in a traffic accident while he was still in elementary school.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b22653-jEdvPv0MWKj6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22653
+      }
+    },
+    {
+      "id": "punyama-punpun-papa",
+      "name": "Punyama Punpun Papa",
+      "alt_names": [
+        "プン山 プンプン パパ",
+        "Punpun's Dad"
+      ],
+      "role": "supporting",
+      "description": "Punpun's dad. He turns down a work transfer due to family reasons but gets fired from work as a result. He is unable to find a job since then.\n\nAfter the divorce, he goes to his hometown Kagoshima and starts working as night guard at a hydro plant. He sends letters to Punpun every month.\n\n~!The one who was actually writing the letters was Punpun's mother. After the death of Punpun's mother, he offers Punpun the opportunity to start everything from scratch, but Punpun decides to live on his own.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/22727.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22727
+      }
+    },
+    {
+      "id": "punyama-punpun-mama",
+      "name": "Punyama Punpun Mama",
+      "alt_names": [
+        "プン山 プンプン ママ",
+        "Punpun's Mom"
+      ],
+      "role": "supporting",
+      "description": "Punpun's Mom.\n\n~!Throughout the series, she is constantly shown acting very coldly toward Punpun, and it is later revealed that she blames Punpun for all of the hardships in her life. After being hospitalized for Pneumothorax, she is determined to be a better mother, but can't stop her usual habit of speaking harshly toward her son. In chapter 67, it is revealed that she has cancer and very little time to live; her final words to Punpun is her apology for being a terrible mother, and the admittance that she truly loved him.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/22728.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22728
+      }
+    },
+    {
+      "id": "takao-yaguchi",
+      "name": "Takao Yaguchi",
+      "alt_names": [
+        "矢口"
+      ],
+      "role": "supporting",
+      "description": "After Punpun breaks up with Aiko, Aiko asks Yaguchi to be her boyfriend; however, their relationship appears as quite uncomfortable. Yaguchi plays for his school's badminton team, but an injury prevents him from reaching his full potential.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b32779-aZ5ukEJHGQDW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 32779
+      }
+    },
+    {
+      "id": "midori-okuma",
+      "name": "Midori Okuma",
+      "alt_names": [
+        "大隈翠"
+      ],
+      "role": "supporting",
+      "description": "Midori is a hard-working 25-year-old girl. She is a nurse that took care of Punpun's mother. She dreams of opening a cafe.\n\n~!She later starts dating Punpun's uncle, Yuuichi, and becomes part of the family.!~\n\n~!When Yuuichi runs away because of his infidelity and adultery, Midori rapes Punpun in her distress, scarring him deeply.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/33509.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 33509
+      }
+    },
+    {
+      "id": "shuntarou-harumi",
+      "name": "Shuntarou Harumi",
+      "alt_names": [
+        "晴見 俊太郎",
+        "Harumin"
+      ],
+      "role": "supporting",
+      "description": "A childhood friend of Punpun, who moved away as a child.\n~!He comes back as an adult at the series finale, detached from the entire drama that had been going on in everyone's lives.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b33945-TGoZqZlesgt5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 33945
+      }
+    },
+    {
+      "id": "azusa-kanie",
+      "name": "Azusa Kanie",
+      "alt_names": [
+        "蟹江梓"
+      ],
+      "role": "supporting",
+      "description": "She was one of Punpun's love interests during his high school days.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b33949-HEiibeoB9ovU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 33949
+      }
+    },
+    {
+      "id": "masumi-seki",
+      "name": "Masumi Seki",
+      "alt_names": [
+        "関真澄"
+      ],
+      "role": "supporting",
+      "description": "A runaway child who misunderstood freedom. \n\nMasumi Seki is one of Punpun's childhood friends and is best friends with Shimizu. He has a rough personality and usually has a cool, indifferent expression even when upset. There is a permanent scar above the tip of his nose that is covered by a bandaid for most of elementary school. His family owns Seki Lunches, which used to do business with the now-abandoned miso factory.\n\n~!Seki begins smoking cigarettes in elementary school. After he and his friends explore the old miso factory, his dropped cigarette causes an explosion while Shimizu is still inside. This instance traumatizes Seki, causing a deep phobia of fire. He faces his fear of fire when Shimizu again is caught in an exploding building with the Pegasus Ensemble, and Seki breaks inside to rescue him. In the epilogue, he is even shown smoking a cigarette.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58561-Hcwu1q0xMZrJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58561
+      }
+    },
+    {
+      "id": "toshiki-hoshikawa",
+      "name": "Toshiki Hoshikawa",
+      "alt_names": [
+        "星川俊樹",
+        "Pegasus"
+      ],
+      "role": "supporting",
+      "description": "Leader of the ''Good Vibrations'' cult. He is a younger son of a wealthy religious fanatic. His father is the founder of the Cosmos Health Center.\n\nHe is a self-claimed prophet, although his predictions always came true. He says that everything that has happened and will happen in the universe had been engraved as musical scales onto the surface of a giant cylinder called \"Akashic records,\" a music box of infinite proportions which is the shape of our universe. But this box is singing an unstable tune and on July 7, the violent dissonance will cause the destruction of this world, the so-called \"Promised Despair.\" He is assembling a group of twelve people who would help him to sing a tune of a song \"Tsubasa wo Kudasai\" in order to harmonize that instability and save the world.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/76836.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 76836
+      }
+    },
+    {
+      "id": "tanaka-mitsuko",
+      "name": "Tanaka Mitsuko",
+      "alt_names": [
+        "田中光子"
+      ],
+      "role": "supporting",
+      "description": "Aiko's mother. She is a part of the Cosmo Health Center organization. She is very strict with her daughter and keeps her on total control, often beating her up when she refuses to obey. After Hoshikawa Piroshiki's death, she cripples her leg, further enforcing Aiko to stay with her.\n\n~!\nThe crippling of her leg is actually a lie, as is revealed when Punpun and Aiko confront her that Aiko is leaving together with Punpun. Enraged with the news, she attacks Aiko with a knife several times, the biggest wound being around her abdomen. Filled with anger, Punpun assaults Mitsuko and strangles her to death.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129626-SfG9b5u0rSi0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129626
+      }
+    },
+    {
+      "id": "wada-akinori",
+      "name": "Wada Akinori",
+      "alt_names": [
+        "和田",
+        "スウィートプリティーロンリーハートもふもふお兄ちゃま",
+        "Sweet Pretty Lonely Heart Fluffybro"
+      ],
+      "role": "supporting",
+      "description": "A mathematics teacher that works at the same cram school as Nanjou Sachi. He tries to hit on Sachi up to the point of stalking her.\n\nHe is one of the early members of the \"Good Vibrations\" cult. He had known Pegasus since his collage days. He is the most influential person in the group.\n\n~!He wants people to realize the greatness of Pegasus' prophecies, yet at the same time he doesn't want him to make any inaccurate predictions. In order to fulfill his plan, he needs someone to do \"push the button\" work, for which he pays greatly. That someone turns out to be Seki Masumi.!~\n\n~!The plan is a mass suicide of \"Good Vibrations\" cult members for the sake of the world's safety. The \"pushing a button\" job turns out to be turning on the TV for his senile mother, and indirectly, taking care of her.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129627-wDN87Fm4T6TE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129627
+      }
+    },
+    {
+      "id": "setsuyuki-mimura",
+      "name": "Setsuyuki Mimura",
+      "alt_names": [
+        "三村雪之進"
+      ],
+      "role": "supporting",
+      "description": "Punpun's friend from high school. They work at the same part-time jobs after going to university. He often acts like a fool and likes to brag about his muscles. Because of that, he is unpopular among girls. When he introduces Hebitsuka Gesumi as his girlfriend, his friends don't believe him.\n\nHe decides to pursue a teacher's career because both of his parents are teachers.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129628-nGPPwElv0p81.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129628
+      }
+    },
+    {
+      "id": "komatsu",
+      "name": "Komatsu",
+      "alt_names": [
+        "小松"
+      ],
+      "role": "supporting",
+      "description": "Punpun's friend from elementary and middle school. He has a natural talent for badminton.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135066-dnGqT7P6xKMz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135066
+      }
+    },
+    {
+      "id": "weekly-big-comic-spirits",
+      "name": "Weekly Big Comic Spirits",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "The twelfth follower of Pegasus in the \"Good Vibrations\" cult.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135067-Pg9RICBVTDv5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135067
+      }
+    },
+    {
+      "id": "miyuki-kanie",
+      "name": "Miyuki Kanie",
+      "alt_names": [
+        "蟹江美雪"
+      ],
+      "role": "supporting",
+      "description": "The older sister of Azusa and friend of Nanjou Sachi. She likes to wear fancy hats depicting animals or insects. Although she quarrels with Sachi a lot, they care about each other as much.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135068-b7ru8baBZTaH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135068
+      }
+    },
+    {
+      "id": "having-one-battery-left-is-troublesome",
+      "name": "Having-one-battery-left-is-troublesome",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "A member of the \"Good Vibrations\" cult. He works in web design and publishes indie magazines on the side. He likes to discuss out-of-place artifacts (OOPArts) and mysterious giant organisms.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135069-XKvIGGiIXHb4.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135069
+      }
+    },
+    {
+      "id": "gesumi-hebitsuka",
+      "name": "Gesumi Hebitsuka",
+      "alt_names": [
+        "蛇塚ゲス美"
+      ],
+      "role": "supporting",
+      "description": "Girlfriend of Mimura. They work together at their university's goods store. She is a nice, energetic, and hardworking girl but can be clumsy at times.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135070-Pva5G9yj7sRr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135070
+      }
+    },
+    {
+      "id": "yugami",
+      "name": "Yugami",
+      "alt_names": [
+        "湯上"
+      ],
+      "role": "supporting",
+      "description": "A lawyer and friend of Onodera Yuuichi. He helps handle a divorce business. \n~!He takes a shine to Ookuma Midori, but when Yuuichi takes her away, they get on bad terms with each other.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135071-JfgH9C9nUr42.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135071
+      }
+    },
+    {
+      "id": "heiroku-shishido",
+      "name": "Heiroku  Shishido",
+      "alt_names": [
+        "宍戸平六"
+      ],
+      "role": "supporting",
+      "description": "The owner of Shishido Heights Real estate. He is too kind and can easily trust complete strangers, much to the irritation of his daughter. He becomes friends with Punpun and offers him a job opportunity at a real estate business. He also likes to collect manekineko dolls.\n\nCoincidentally, the flat that he asks Seki and Shimizu to clean is the one that Punpun later rents to live in.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135072-xZ7bBh5HWLRo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135072
+      }
+    },
+    {
+      "id": "saotome",
+      "name": "Saotome",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "The ex-husband of Sachi. He works in the TV industry. He worked hard to achieve his goals in life, and because of that, he despises all losers who do nothing but whine all the time.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308119-GXv8hUesg6AM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308119
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T19:26:04.628Z"
+}

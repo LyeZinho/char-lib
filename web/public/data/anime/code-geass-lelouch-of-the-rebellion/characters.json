@@ -1,0 +1,633 @@
+{
+  "work_id": "code-geass-lelouch-of-the-rebellion",
+  "count": 25,
+  "characters": [
+    {
+      "id": "lelouch-lamperouge",
+      "name": "Lelouch Lamperouge",
+      "alt_names": [
+        "ルルーシュ・ランペルージ",
+        "Lulu",
+        "Zero",
+        "King of Elevens",
+        "The Demon",
+        "Black King",
+        "Black Demon",
+        "Julius Kingsley"
+      ],
+      "role": "protagonist",
+      "description": "__Nationality:__ Britannian\n__Height:__ 178 - 183 cm \n__Relatives:__ Nunnally Lamperouge\n__Allegiance:__ Order of the Black Knights\n__Position:__ Order of the Black Knights Leader\n__Knightmare Frame:__ Burai, Gawain, Shinkiro, Sutherland  \n\nLelouch is a student of Ashford Academy high school, where he is a member of its student council. A brilliant thinker who is quite talented at chess, he lives with his younger sister, Nunnally, with their maid, Sayoko Shinozaki, at a house situated within the compounds of Ashford Academy, where they are looked after by the Ashford family.  Lelouch is soon swept into the conflict between the Britannia Empire and the pockets of resistance which oppose it when he accidentally boards a truck being used by Japanese resistance operatives. Within the truck is a capsule holding C.C., who sacrifices herself to save him from the military forces trying to recapture her. When it seems as if her sacrifice was pointless, C.C. suddenly touches his hand and offers him the \"Power of the King\", the mythical power of Geass. The Geass manifests itself in him as the power of absolute obedience, which allows him to make people obey his orders without question.   With his new power, Lelouch begins his rebellion against the Empire, forming the Order of the Black Knights and takes up the identity of Zero to lead them, becoming a revolutionary and gaining popular support amongst the people.   \n\n~!Lelouch is the son of the Emperor of Britannia, Charles zi Britannia, and the late Imperial Consort Marianne vi Britannia, making Lelouch the eleventh prince of the Britannian Imperial Family.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "17-18",
+        "dateOfBirth": "2000-12-05"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 417
+      }
+    },
+    {
+      "id": "cc",
+      "name": "C.C.",
+      "alt_names": [
+        "シー･ツー",
+        "Witch of Britannia",
+        "Gray Witch",
+        "Pizza Girl",
+        "C2"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 167 cm\n**Allegiance:** The Black Knights\n\nC.C. is apparently immortal, healing from any wound (implied to include beheading) with enough time. She also doesn't age. Apart from her immortality, C.C. can bestow people with the power of Geass, which manifests differently in each person but generally carries the ability to affect the minds of those it is used on in some way. The Geass sigil glows on her forehead whenever she manifests this power, and she has a similar scar on her left breast. It is hinted that many more like her exist, as shown in her memories of many children with similar sigils, and she suggests that the power has precipitated bloody conflicts in the past. Her powers caught the interest of Britannia, who imprisoned her for experimentation purposes.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-UhmlFtRFrnWa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1111
+      }
+    },
+    {
+      "id": "suzaku-kururugi",
+      "name": "Suzaku Kururugi",
+      "alt_names": [
+        "枢木スザク",
+        "White Knight",
+        "White Grim Reaper",
+        "Knight of Seven",
+        "Spinzaku"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 176 cm (5'9\")         \n__Nationality:__ Japanese         \n__Known Relatives:__ Genbu Kururugi (father, deceased), Kaguya Sumeragi (cousin)\n__Knightmare Frame:__ Lancelot and Lancelot Albion\n\nLelouch's childhood friend and son of Japan's last prime minister. After Britannia's takeover of Japan, Suzaku joins the Britannia Army and becomes an Honorary Britannian. He agrees with Zero (Lelouch in disguise, unknown to Suzaku) with his assertion that the Britannia Empire is not worth serving, but nevertheless wishes to implement changes and improvements from within the empire, all the while trying not to lose sight of his goals lest his father's death have been in vain. He has a strong sense of justice and is the only one known to be able to pilot the elite Britannian Knightmare Frame, Lancelot. He always keeps with him a broken pocket watch, a memento of his deceased father.",
+      "metadata": {
+        "gender": "male",
+        "age": "17-18",
+        "dateOfBirth": "2000-07-10"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 559
+      }
+    },
+    {
+      "id": "kallen-stadtfeld",
+      "name": "Kallen Stadtfeld",
+      "alt_names": [
+        "カレン・シュタットフェルト",
+        "Red Lotus",
+        "Karen Kouzuki (紅月カレン)",
+        "Q1"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 173 cm (5'8\")  \n\nA Britannian-Eleven girl, who believes herself to be a Japanese person at heart. Before the Britannia Empire conquered Area 11, Kallen's original name was Karen Kouzuki. She comes from a prestigious family and attends the Ashford Academy where she receives outstanding grades while serving as a member of its Student Council. When away from the Academy, she fights as an anti-Britannian operative. Also, Kallen helped organize the Black Knights.   Her brother, Naoto Kouzuki, with whom she had a deep connection, was a former leader of her resistance cell before his death.  Both Kallen's stepmother, a Britannian, and biological mother live with her in the same house, but her biological mother is employed as a maid and is often mistreated by both her stepmother and Kallen herself. After her biological mother is arrested for using Refrain (a fictional drug which lets people think they're reliving the past), Kallen changes her views and decides to fight against the Britannian Empire not only for her brother, but to fulfill her new wish for a world in which she can live happily with her biological mother.  Frail and meek, this aspect of Kallen's character was used as a public front to mask her true nature as well as hide her involvement in the resistance.  Kallen leads a double life as a normal Britannian student and as a member of a guerrilla resistance group against Britannia, which is later reformed into the Order of the Black Knights by Lelouch Lamperouge. In school, she portrays herself as a weak-bodied high school student who obeys all of the formalities, and goes by her Britannian name of Stadtfeld. However, her personality changes in to a very strong-willed and forceful one when she acts as a resistance fighter.  As a running gag, Kallen ends up nude or immodestly dressed in front of other people on numerous occasions: Lelouch sees her naked after she pulls back a shower curtain in surprise in the third episode, Suzaku sees her bathing under a waterfall when they are stranded on Kaminejima, she is forced to dress in an immodest bunny costume at the start of the second season (to plant a tracking device on Lelouch), and she walks in on a meeting between C.C. and the Chinese ambassadors wearing only a towel when intending to complain about the previous situation to C.C. (claiming that the operation would've gone faster if C.C. was wearing the outfit).",
+      "metadata": {
+        "gender": "female",
+        "age": "17-18",
+        "dateOfBirth": "2000-03-29"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 558
+      }
+    },
+    {
+      "id": "cornelia-li-britannia",
+      "name": "Cornelia li Britannia",
+      "alt_names": [
+        "コーネリア・リ・ブリタニア",
+        "Witch of Britannia",
+        "Goddess of Victory"
+      ],
+      "role": "supporting",
+      "description": "Cornelia is the second princess of the Britannia Imperial Family and, as such, Lelouch's half-sister. She is extremely skilled in Knightmare Frame combat and completed the establishment of Area 18 shortly before arriving in Area 11. Cornelia is the Chief General of the Imperial Army. ​She pilots a customized Gloucester Knightmare Frame and has her own circle of devoted officers.  As a child, she appeared to have doted upon her younger sister Euphemia; as a result, Euphemia is Cornelia's only known weak spot.",
+      "metadata": {
+        "gender": "female",
+        "age": "27-28",
+        "dateOfBirth": "1990-01-13"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b797-lrtrQEESbWVa.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 797
+      }
+    },
+    {
+      "id": "nunnally-lamperouge",
+      "name": "Nunnally Lamperouge",
+      "alt_names": [
+        "ナナリー・ランペルージ",
+        "White Witch"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 160 cm (5'3\") - 164 cm (5'4\")\n\nShe is Lelouch's younger sister who is wheelchair-bound due to old bullet wounds on her legs, and blind due to psychological trauma. Lelouch believes that she may be able to see again someday. They live in Kururugi Residence where she first met Suzaku Kururugi.\n\n~!After Britannia invades Japan, Lelouch hides their identity in fear of their safety and changes their surname to Lamperouge. They then seek help from Marianne's old allies, the Ashford family, who kept their identity a secret and allows the two siblings to live in a building on campus to accommodate her disabilities. Nunnally attends Ashford Academy's middle school and is friends with Lelouch's classmates, particularly with Shirley. She is very kindhearted and calls the Elevens \"Japanese people\".!~",
+      "metadata": {
+        "gender": "female",
+        "age": "14-17",
+        "dateOfBirth": "2003-10-25"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1110-TSlN2WkhDJ1T.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1110
+      }
+    },
+    {
+      "id": "gilbert-gp-guilford",
+      "name": "Gilbert G.P. Guilford",
+      "alt_names": [
+        "ギルバート・G・P・ギルフォード"
+      ],
+      "role": "supporting",
+      "description": "Gilbert G.P. Guilford is a slender, dark-haired, bespectacled man who was once known as the 'Spearhead of the Empire'. He is confidante and personal knight to the Second Princess Cornelia, and commands her Glaston Knights. Though he initially pilots a Gloucester, he switches to the more advanced Vincent model in the second season. He informs Jeremiah Gottwald of his demotion shortly after his arrival, and helps to end the Black Rebellion with the help of the Glaston Knights. Following Cornelia's disappearance during the rebellion, he remains in Area 11, dutifully awaiting her return. After Viceroy Carares is killed in the second season, Guilford serves as a temporary replacement prior to Nunnally taking over the position.",
+      "metadata": {
+        "gender": "male",
+        "age": "27-28",
+        "dateOfBirth": "1989-10-19"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1112-kCDPfIOi4jij.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1112
+      }
+    },
+    {
+      "id": "jeremiah-gottwald",
+      "name": "Jeremiah Gottwald",
+      "alt_names": [
+        "ジェレミア・ゴットバルト",
+        "Orange"
+      ],
+      "role": "supporting",
+      "description": "An elite Knightmare Frame pilot and a Purist, who is deeply concerned with the Purists' supremacy - enough to use Suzaku as a scapegoat for both avenging Clovis' death and reinforcing the Purists' superiority in Area 11. Initially, he held the rank of Margrave in Area 11's military hierarchy. After Clovis' murder, Jeremiah takes upon the role of Area 11's Acting-Consul, but upon the Zero fiasco, Jeremiah falls into disgrace (due to his incomprehensible actions caused by Lelouch's geass), is targeted for termination by his fellow Purist officers, demoted to the rank of a mere Knightmare Frame pilot and referred mockingly as Orange or Orange-Kun by both his superiors and his fellow knightmare pilots.    ~!In the second season he came back as a machine-like man having the ability to use Geass Canceller. At the end of episode 13 it is seen that he joins Zero's side after revealing that on the day Empress Marianne was killed, he attempted to rescue her but failed. He came back as a member of the Knightmare Frame pilot to atone for his inability to rescue her. !~",
+      "metadata": {
+        "gender": "male",
+        "age": "28-29",
+        "dateOfBirth": "1989-08-02"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1113-HxXUV4z4jhvZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1113
+      }
+    },
+    {
+      "id": "euphemia-li-britannia",
+      "name": "Euphemia li Britannia",
+      "alt_names": [
+        "ユーフェミア・リ・ブリタニア",
+        "Euphy",
+        "Euphie",
+        "Yuffie"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 174 cm\n\nEuphemia li Britannia is Lelouch's half-sister and the Third Princess of the Britannian Imperial Family; she is the sibling Lelouch cares most about after Nunnally. She is a kindhearted and open-minded woman who despises conflict in any form.  Euphemia joins her older sister Cornelia in governing Area 11, becoming the Sub-Vicereine. She develops a relationship with Suzaku Kururugi, whose views reflect her own, and eventually appoints him as her personal Knight.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": "2000-10-11"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1114-rjYGsn8O6ZhE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1114
+      }
+    },
+    {
+      "id": "kaname-oogi",
+      "name": "Kaname Oogi",
+      "alt_names": [
+        "扇要"
+      ],
+      "role": "supporting",
+      "description": "The former leader of the Resistance, later one of the members of the Order of the Black Knights, he asked Zero to become their leader. He was friends with Kallen's older brother, Naoto.",
+      "metadata": {
+        "gender": "male",
+        "age": "26-27",
+        "dateOfBirth": "1992-03-18"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1115-0g7vZJssfj6x.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1115
+      }
+    },
+    {
+      "id": "andreas-darlton",
+      "name": "Andreas Darlton",
+      "alt_names": [
+        "アンドレアス・ダールトン"
+      ],
+      "role": "supporting",
+      "description": "A loyal confidante and close subordinate of Princess Cornelia. An extremely tall and well-built man with a diagonal scar running across his face, Darlton visits Area 11 as part of Cornelia's drive against Zero.",
+      "metadata": {
+        "gender": "male",
+        "age": "47",
+        "dateOfBirth": "1970-01-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1116-D3NpQEn8FLon.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1116
+      }
+    },
+    {
+      "id": "villetta-nu",
+      "name": "Villetta Nu",
+      "alt_names": [
+        "ヴィレッタ・ヌゥ",
+        "Chigusa"
+      ],
+      "role": "supporting",
+      "description": "An elite Knightmare Frame pilot and a Purist, who appears to be more collected than Jeremiah in battle. She was one of the first to have been under the power of Geass' influence and is one of the few still loyal to Jeremiah even after his fall in disgrace.   ~!When Lelouch leaves to attack the Geass Order, Villetta goes to the Chinese Federation to confront Ougi, intending to kill him to eliminate her links to the Elevens. She hesitates when Ohgi admits his love for her. She is captured after an altercation with Sayoko, but is eventually released and leads Ougi to believe Zero cannot be trusted. She remains with the Black Knights following this. It is revealed that she is pregnant with Ougi's child and she remains on Horai Island when the Black Knights depart to battle Lelouch. At the end of the series Villetta marries Ougi.!~  -From Wikipedia",
+      "metadata": {
+        "gender": "female",
+        "age": "26-27",
+        "dateOfBirth": "1991-06-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1117-Zc6IwzGMj4Qy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1117
+      }
+    },
+    {
+      "id": "kusakabe",
+      "name": "Kusakabe",
+      "alt_names": [
+        "草壁"
+      ],
+      "role": "supporting",
+      "description": "Former lieutenant general and a comrade of Tohdoh. Seeking to draw attention to the fight the Nippon Kaihō Sensen is attempting against Britannia, he took several Britannian citizens and students hostages at the Lake Kawaguchi Convention Center Hotel, while meeting Zero and Tōdō's strong disapproval as a result.   (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1118-ha7Tx5WpFcCh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1118
+      }
+    },
+    {
+      "id": "kyoshiro-toudou",
+      "name": "Kyoshiro Toudou",
+      "alt_names": [
+        "藤堂鏡志朗",
+        "Toudou of Miracles"
+      ],
+      "role": "supporting",
+      "description": "Kyoshiro Toudou is the head of the Black Knights&#039; military operations, and an extremely talented fighter in his own right. He earned the nickname Toudou of Miracles for his singular defeat of the otherwise unstoppable Holy Britannian Empire during the invasion of Japan, remarkably managing this feat without the use of Knightmare Frames. This event would later be known as the Miracle of Itsukushima. He was a childhood instructor to Suzaku Kururugi, and is one of the few Japanese people who understands his ideals. Toudou is often seen bearing a katana at his side. He is initially a member of the Japan Liberation Front, and resigns himself to death when the organization is wiped out, but Zero convinces him to join the Black Knights in order to fulfill the promise of victory created by the Miracle of Itsukushima. Like Kaname, he remains faithful to Zero following his capture during the Black Rebellion, reasoning that Zero must have had a good reason not to inform his troops about his plans. He later leads Black Knight forces in liberation operations throughout the Chinese Federation and the Middle East before being named Chief of Staff of the newly reorganized Black Knights which serve as the national army of the UFN.",
+      "metadata": {
+        "gender": "male",
+        "age": "37-38",
+        "dateOfBirth": "1980-01-03"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/1119.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1119
+      }
+    },
+    {
+      "id": "shirley-fenette",
+      "name": "Shirley Fenette",
+      "alt_names": [
+        "シャーリー・フェネット"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 175 cm (5'9\")\n\nShirley Fenette is a typical, all-around nice girl who is exceptionally friendly and loves her friends. She is a member of the swimming club. She admits to being infatuated with Lelouch since his enrollment on campus, but finds it extremely hard to get his attention. She has a habit of jumping to conclusions before people can explain things to her, particularly when Lelouch is concerned.",
+      "metadata": {
+        "gender": "female",
+        "age": "17-18",
+        "dateOfBirth": "2000-07-08"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1120-hjOjinw5j4FE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1120
+      }
+    },
+    {
+      "id": "milly-ashford",
+      "name": "Milly Ashford",
+      "alt_names": [
+        "ミレイ・アッシュフォード"
+      ],
+      "role": "supporting",
+      "description": "Milly Ashford is the granddaughter of the school superintendent, Ruben K. Ashford, and president of the Student Council. Milly enjoys teasing Shirley and is eager to discover Lelouch's weaknesses — enough so to rally the entire school into chasing after Arthur when she suspects the cat to hold something precious to him.     ~!Milly is aware of Lelouch's identity as a former prince of Britannia, her family having supported Empress Marianne. In the second picture drama special included on the DVD release, her grandfather and Nina's grandfather are said to have worked on the Io and Ganymede Knightmare Frames together. Marianne's assassination led to the family's nobility status being stripped. The Ashfords arrange for Milly to marry Earl Lloyd Asplund to restore it. After the events of the first season, Milly remains a student on campus because she failed her examinations, although it is noted that she did so on purpose to remain on campus with her friends. She eventually earns enough credits to graduate and becomes a weather forecaster on the local TV news. She also breaks off her engagement with Lloyd. !~",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": "1999-07-24"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1121-Y3ye9sw1u3Eh.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1121
+      }
+    },
+    {
+      "id": "rivalz-cardemonde",
+      "name": "Rivalz Cardemonde",
+      "alt_names": [
+        "リヴァル・カルデモンド"
+      ],
+      "role": "supporting",
+      "description": "Rivalz Cardemonde is one of Lelouch's friends, usually driving Lelouch around on his motorbike as an ante for their bets on chess games. He has a part-time job as a bartender/waiter and carries an unrequited love for Milly Ashford especially when it is announced that she is going through a marriage interview.   Shown in-series and in the DVD-exclusive bonus material, Rivalz forms a fast friendship with Suzaku after he joins the student council at Lelouch's request. Rivalz's real surname is not Cardemonde, which is his mother's maiden name that he uses after his parents became estranged.    ~!He was born and partially raised in California. Rivalz is last seen in Ohgi and Villetta's wedding picture. !~ (Source: Wikipedia) I",
+      "metadata": {
+        "gender": "male",
+        "age": "17-18",
+        "dateOfBirth": "2000-07-20"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1122-tzCSm261b2RP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1122
+      }
+    },
+    {
+      "id": "nina-einstein",
+      "name": "Nina Einstein",
+      "alt_names": [
+        "ニーナ・アインシュタイン"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 165 cm (5'5\")  \n\nNina Einstein is introduced as a bookish member of the student council at Ashford Academy. Nina demonstrates an acute xenophobic reaction to Elevens and is initially intimidated by Suzaku when he arrives in the school. She develops an obsessive crush on the Third Princess Euphemia after the latter helps her during a traumatizing hostage incident at the Lake Kawaguchi Convention Center Hotel. She subsequently comes to rely on Euphemia for emotional support.",
+      "metadata": {
+        "gender": "female",
+        "age": "17-18",
+        "dateOfBirth": "2000-08-27"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1124-TSD6Z8Vjy7Kn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1124
+      }
+    },
+    {
+      "id": "shinichirou-tamaki",
+      "name": "Shinichirou Tamaki",
+      "alt_names": [
+        "玉城真一郎"
+      ],
+      "role": "supporting",
+      "description": "The hot-headed member of the Order, he was initially skeptical about Zero and his plans.",
+      "metadata": {
+        "gender": "male",
+        "age": "24-25",
+        "dateOfBirth": "1994-03-03"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1125-cAd8eOWmcuuo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1125
+      }
+    },
+    {
+      "id": "diethard-ried",
+      "name": "Diethard Ried",
+      "alt_names": [
+        "ディートハルト・リート"
+      ],
+      "role": "supporting",
+      "description": "A member of the Press Bureau Staff of Hi-TV. He is a graduate of the Imperial Britannia Central University's Faculty of Law. He seems to be quite interested in Zero, and the way he manipulates the media for his ends. He later joins the Order after getting demoted for allowing Zero to broadcast his message introducing the Order of the Black Knights. In the very first episode it is shown that he also harbors contempt for the royal family of Britannia and the bootlickers that surround them.",
+      "metadata": {
+        "gender": "male",
+        "age": "31-32",
+        "dateOfBirth": "1986-02-16"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1126-7sR8ZeQoJT30.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1126
+      }
+    },
+    {
+      "id": "nagata",
+      "name": "Nagata",
+      "alt_names": [
+        "永田"
+      ],
+      "role": "supporting",
+      "description": "A long-haired member of the Resistance, who drove the truck carrying the supposed poison gas (in reality C.C.), in episode one. Originally a potter before the invasion of the Britannia Empire, he lost his wife and daughter in the ensuing war. He later becomes critically injured during a chase between him and Britannia forces and pulls off a suicide bombing along with his truck.   (Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1127-1FFCqRX4JaES.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1127
+      }
+    },
+    {
+      "id": "clovis-la-britannia",
+      "name": "Clovis la Britannia",
+      "alt_names": [
+        "クロヴィス・ラ・ブリタニア"
+      ],
+      "role": "supporting",
+      "description": "Clovis la Britannia is the Third Prince of the Britannian Imperial Family and former Viceroy of Area 11. He is timid and narcissistic, as well as unaccustomed to failure. He and Lelouch would often play chess during their childhood; despite consistently losing, Clovis viewed Lelouch as a friendly rival, and his fond memories of the time spent at the Imperial Villa led him to model the garden on top of the government complex after it. He is a talented artist and designer, having planned the whole Clovis Amusement Park and left a large amount of artwork behind.",
+      "metadata": {
+        "gender": "male",
+        "age": "24",
+        "dateOfBirth": "1993-10-14"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1128-RudkRo8wmn6a.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1128
+      }
+    },
+    {
+      "id": "marianne-vi-britannia",
+      "name": "Marianne vi Britannia",
+      "alt_names": [
+        "マリアンヌ・ヴィ・ブリタニア",
+        "The Flash",
+        "The Soul"
+      ],
+      "role": "supporting",
+      "description": "__Nationality:__ Britannian\n\nMarianne Vi Britannia was the 5th wife of the Emperor of Britannia and the mother of Lelouch and Nunnally. The surname Lamperouge presently assumed by Lelouch was her maiden name. Her commoner status by birth caused her to earn the jealousy of other imperial wives and nobles, which Lelouch suspects had resulted in her murder. Lelouch's investigation revealed, however, that several members of the Imperial House not related to her by blood respected and admired Empress Marianne, such as Clovis, Euphemia, especially Cornelia, who idolized her and put a lot of fruitless effort into investigating the assassination.  It is hinted that her supporters were the Ashford family, which explains why their social statuses were ruined after her death and why they consented to protect Lelouch and Nunnally. She had also piloted one of the earliest Knightmare Frames, the Ganymede, which was developed by the Ashford family and is well known for her superior Knightmare Frame piloting skills, hence the nickname, \"Marianne the Flash\". In episode 23, it is revealed that C.C has apparently been talking to Marianne herself, via an unknown method. In episode 7 of R2, C.C. was talking with Marianne again.  At the end of season one, ~!Lelouch, by questioning Cornelia, discovers that Marianne had ordered Cornelia to shut down the security on the day of her attack, implying that she knew about the attack beforehand.  She is known to have shielded Nunnally during the attack that took her life, however, Nunnally's legs were disabled and she lost her sight. It is also to be noted that her death greatly affected and changes the life of Lelouch, who went on a great length to avenge her death and formed the resolution to create a new world where Nunnally can live in peace.  Because of her death, little is known about Marianne as a person; the side materials paint her as a sweet, kind-hearted woman, albeit one with a rebellious spirit and a deep protective instinct towards her children. Lelouch himself alludes to two such instances, one where she rode a horse into the palace's great hall, and another where she picked a fight with several of the Emperor's other wives all at once. In a flashback from one of the novels, she uses the Ganymede to intimidate a fellow consort who had been cruelly harassing Lelouch and Nunnally - all while maintaining a cheery, motherly disposition with a warm smile on her face. Marianne's conversations with C.C., one-sided in the anime but scripted out by the staff (and actually revealed in the Nintendo DS game), show that she has a playful side, often teasing C.C. when the immortal girl tries to deny any sort of attachment to Lelouch.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "30",
+        "dateOfBirth": "1980-11-22"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/1129.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1129
+      }
+    },
+    {
+      "id": "lloyd-asplund",
+      "name": "Lloyd Asplund",
+      "alt_names": [
+        "ロイド・アスプルンド",
+        "Earl of Pudding"
+      ],
+      "role": "supporting",
+      "description": "__Zodiac sign:__ Aquarius\n\nLloyd Asplund is an earl of the Britannian nobility and the developer of the elite Knightmare Frame Lancelot. To keep from being reminded of the fragility of human lives and friendship, Lloyd immerses himself in science and has come to view people as nothing more than tools — he regards Suzaku, for example, as a mere component of the machine that he pilots. He has a tendency to mock others and is often rebuked for this behavior by Cécile Croomy, his assistant. Prior to joining the military, he attended the Imperial Colchester Institute. Lloyd's research organization, Camelot is an irregular division of the Britannian Military and has been granted permission by Prince Schneizel to operate outside the command structure and regulations of the regular Britannian armed forces.  Rakshata refers to Lloyd as the Earl of Pudding, as pudding is his favorite food. ~! He is engaged to wed Milly Ashford in the first season, having agreed to the union mostly in hope that he might obtain the designs of the Knightmare Frame Ganymede. As such, he is forced into doing nice things for her by Suzaku, though Milly breaks off the engagement after she graduates.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "29-30",
+        "dateOfBirth": "1988-02-02"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1130-0yBifno91R4e.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1130
+      }
+    },
+    {
+      "id": "cecile-croomy",
+      "name": "Cécile Croomy",
+      "alt_names": [
+        "セシル・クルーミー"
+      ],
+      "role": "supporting",
+      "description": "Cécile Croomy is one of the Lancelot's developers and Lloyd's assistant. Cécile is a kind-hearted woman and a good friend to Suzaku, often helping him with homework. She also acts as Lloyd's conscience, not hesitating to scold him or physically punish him for his unintentionally rude remarks. Cécile is a capable Knightmare Frame pilot, managing to single-handedly hold the entire contingent of Black Knights sent to occupy Ashford Academy during the Black Rebellion at bay using a Sutherland modified with equipment from the Lancelot. Prior to joining Lloyd in the military, she studied at the Imperial Colchester Institute. A recurring joke is that Cécile is a bad cook, which no one has the heart to tell her: her recipes includes onigiri mixed with blueberry jam and sandwiches made with ginger, sugar, and wasabi.",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": "1993-09-07"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1131-8B8jxeFXEzld.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1131
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:32:19.883Z"
+}

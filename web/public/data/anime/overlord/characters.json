@@ -1,0 +1,606 @@
+{
+  "work_id": "overlord",
+  "count": 25,
+  "characters": [
+    {
+      "id": "momonga",
+      "name": "Momonga",
+      "alt_names": [
+        "モモンガ",
+        "Ainz Ooal Gown",
+        "Dark Warrior Momon",
+        "Great One",
+        "The One",
+        "Supreme Being",
+        "Raven Black Hero",
+        "Demon God",
+        "Great Sorcerer King",
+        "Undead King"
+      ],
+      "role": "protagonist",
+      "description": "He is the guild master of Ainz Ooal Gown and regarded as the highest of the Almighty 41 Supreme Beings by the NPCs of the Great Tomb of Nazarick. He is also the creator of Pandora's Actor.\n\nA cautious and stingy person, Momonga always tries to plan and control details, avoiding any haphazard actions. Because he doesn't underestimate his opponents, he will usually overkill them. Since being transferred to a new world and becoming an actual Undead being, Momonga could feel himself becoming very cold and calculating, his emotions repressed.\n\nLoyal to his friends and creations, since becoming Lord ruler of Nazarick in the new world he acts with a certain degree of nobility for his devoted followers. Momonga only does things that will benefit Nazarick or himself, whether its information or prestige. Although he does have a sense of justice and doesn't hate humans as much as his followers, he holds no attachment to them, and he feels nothing toward their deaths.\n\n~!His real name is Satoru Suzuki.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89103
+      }
+    },
+    {
+      "id": "shalltear-bloodfallen",
+      "name": "Shalltear Bloodfallen",
+      "alt_names": [
+        "シャルティア・ブラッドフォールン"
+      ],
+      "role": "supporting",
+      "description": "The Guardian of the First, Second, and Third floors of Nazarick, she has the form of a beautiful vampire girl. She's also in love with Momonga. She and Albedo constantly clash for his attention. While the two don't mind sharing Momonga, they still fight for superiority and who would ultimately appeal to Momonga. Shalltear is one of the most powerful guardians, allegedly capable of going toe-to-toe with Albedo. ~!Due to an incident where she is subjected to mind control by a member of the Black Scripture, she ends up unintentionally rebelling against Nazarick.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89121
+      }
+    },
+    {
+      "id": "albedo",
+      "name": "Albedo",
+      "alt_names": [
+        "アルベド"
+      ],
+      "role": "supporting",
+      "description": "The overseer of the Floor Guardians and one of the most powerful NPC in Nazarick. She takes the form of a beautiful woman with fallen angel wings and horns. Because Ainz modified her settings on a whim, she ends up madly in love with him. Albedo's romantic obsessions are so strong that if Ainz were to even glance at her body, she would immediately become excited. Albedo's obsession with Ainz has led him to greatly regret his actions. While she tries to act calm, as befitting of her role, any perceived insult against Ainz or Nazarick, real or imagined, sends her into a rage. Like most inhabitants of Nazarick, she despises humans which she refers to as \"lower life-forms.\" ~!Though the reason is not yet known, Albedo holds a strong hatred towards all of the 41 Supreme Beings except for Ainz. It is hinted that she is scheming to annihilate all the other guild members if they are found.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89122
+      }
+    },
+    {
+      "id": "solution-epsilon",
+      "name": "Solution Epsilon",
+      "alt_names": [
+        "ソリュシャン・イプシロン"
+      ],
+      "role": "supporting",
+      "description": "One of the Pleiades. She's a slime and one of the most dangerous Pleiades to humans, since she enjoys devouring humans alive. An assassin and poisoner who can decide to protect or dissolve things she absorbs, she can also control the speed of her digestion. She gets along with Shalltear because of their similar tastes",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89123-HyiNAMbKvj5E.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89123
+      }
+    },
+    {
+      "id": "demiurge",
+      "name": "Demiurge",
+      "alt_names": [
+        "デミウルゴス",
+        "Jaldabaoth"
+      ],
+      "role": "supporting",
+      "description": "The Guardian of the Seventh floor of Nazarick, with the form of a demon wearing glasses. Demiurge is very intelligent, but is also considered the most evil NPC on Nazarick. He greatly enjoys the suffering of others, made clear by his vicious experiments on prisoners. He's in charge of tactics and defenses of Nazarick. Among the Guardians, he gets along the best with Mare, since he understands the more cunning side of the Dark Elf.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89125
+      }
+    },
+    {
+      "id": "mare-bello-fiore",
+      "name": "Mare Bello Fiore",
+      "alt_names": [
+        "マーレ・ベロ・フィオーレ"
+      ],
+      "role": "supporting",
+      "description": "One of the Guardians of the Sixth floor of Nazarick alongside his twin sister Aura. He's rather shy and calm in comparison to his sister, although he can fight and be ruthless when necessary. Like his sister, Mare is a Dark Elf. Mare specializes in Druid magic, capable of twisting the earth to his whims.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89126-1WY1bWNYPg44.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89126
+      }
+    },
+    {
+      "id": "aura-bella-fiora",
+      "name": "Aura Bella Fiora",
+      "alt_names": [
+        "アウラ・ベラ・フィオーラ"
+      ],
+      "role": "supporting",
+      "description": "One of the Guardians of the Sixth floor of Nazarick, alongside her twin brother Mare. She's very energetic and extroverted, in contrast with her brother. Aura is a 70-year-old Dark Elf. Despite constantly fighting, she and Shalltear are quite close. Aura specializes in beast-taming and fights with a long, bladed whip.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89129-2Qrm5TnoKYct.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89129
+      }
+    },
+    {
+      "id": "cocytus",
+      "name": "Cocytus",
+      "alt_names": [
+        "コキュートス"
+      ],
+      "role": "supporting",
+      "description": "Cocytus is the guardian of the Fifth floor of Nazarick. An insectoid heteromorph, he was created by Warrior Takemikazuchi to be an honourable warrior and is tasked with keeping a cache of powerful weapons for Nazarick. He has a neutral alignment, which stands out against the many evil entities in Nazarick. An extremely skilled fighter, Cocytus is an expert at selecting the right combination of weapons for the fight, and dealing huge amounts of damage quickly. With the help of his extra arms, he is capable of wielding four of his twenty-one weapons at once, allowing him to deal the highest damage per second of any floor guardian.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89138-HUcvLWduh6Mc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89138
+      }
+    },
+    {
+      "id": "narberal-gamma",
+      "name": "Narberal Gamma",
+      "alt_names": [
+        "ナーベラル・ガンマ",
+        "Nabe",
+        "Na"
+      ],
+      "role": "supporting",
+      "description": "One of the Pleiades, combat maids of the Tenth floor under Sebas Tian. She's a Doppelgänger and, because she's one of the most human-looking of the maids, she is Momonga's companion in his exploration of the new world disguised as adventurers. Narberal takes great pride in this duty, often \"wearing\" it like a badge of honor. However, like most in Nazarick, she holds great disdain towards humans. This proves troublesome, as she becomes incredibly violent when human males make advances on her. \nWhile operating as a member of the adventuring guild, \"Darkness\", Narberal operates under the alias of \"Nabe\", which becomes \"Nabe, the Beautiful Lady\" when Darkness becomes famous. Narberal's beauty has been compared to that of the \"Golden Princess of Re-Estize\" by many of the country's inhabitants.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89152-S3WrhOMakSCq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89152
+      }
+    },
+    {
+      "id": "pandoras-actor",
+      "name": "Pandora's Actor",
+      "alt_names": [
+        "パンドラズ・アクタ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 177cm \n__Race:__ Doppelgänger\n__Affiliation:__ Great Tomb of Nazarick\n__Occupation:__ Area Guardian of the Treasury\n__Creator:__ Ainz Ooal Gown (Momonga)\n__Hobby:__ Managing Magic Items\n\nThe Area Guardian in charge of the Treasury and finances of Nazarick, who was created by Ains himself. He's a Doppelgänger whose face is a simple egghead with three holes dressed in a Neo-Nazi-esque uniform. In Momonga's original design, he's the combination of everything that he thought was cool, with exaggerated gestures and body language. His existence embarrasses Ains, but at the same time knows he's the NPC he can trust the most and the only one who can perform all his master's tasks without misunderstanding his intentions. He's on the same level as the Floor Guardians, and can copy the appearance and skills of anyone he has seen.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89154-jbsFsEsjL3aS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89154
+      }
+    },
+    {
+      "id": "sebas-tian",
+      "name": "Sebas Tian",
+      "alt_names": [
+        "セバス・チャン"
+      ],
+      "role": "supporting",
+      "description": "The butler of the Tenth floor of Nazarick, who specializes in unarmed combat, with power comparable with the other Floor Guardians. He has the appearance of an elderly gentleman with a neat beard, but is actually of a species known as Dragonoids. He has a strong sense of justice, like his creator. Thus, he dislikes when the other Guardians kill humans needlessly. Because of their opposite personalities, he and Demiurge don't get along.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89155-yVyhseUF82s9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89155
+      }
+    },
+    {
+      "id": "entoma-vasilissa-zeta",
+      "name": "Entoma Vasilissa Zeta",
+      "alt_names": [
+        "エントマ・ヴァシリッサ・ゼータ",
+        "Entoma Vuashirissa Zēta"
+      ],
+      "role": "supporting",
+      "description": "One of the members of the battle maids originally created by Genjiro. \n\n~!She has the appearance of a normal girl but her true form is that of an arachanid hybrid. She has bug mask to cover her real face. She uses a leech that recreates human voices after it kills them to disguise her original voice. She has insect focused abilities and uses talismans.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126281-wjpp9rEaovPJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126281
+      }
+    },
+    {
+      "id": "shizu-delta",
+      "name": "Shizu Delta",
+      "alt_names": [
+        "シズ・デルタ",
+        "CZ2128・Δ",
+        "CZ"
+      ],
+      "role": "supporting",
+      "description": "One of the members of the battle maids originally created by someone except for Tabula Smaragdina.\n\nCZ2I28 Delta is an automaton battle maid and member of the \"Pleiades Six Stars,\" the battle maid squad of the Great Tomb of Nazarick.\n\nCZ2128 appears emotionless and has a silent nature. Her Karma is relatively high, which makes her, along with Yuri Alpha, one of the two \"safe\" Pleiades to humans. Though she usually ignores conversations from humans, sometimes there is a possibility to communicate with her. She hates cannibalism and likes cute things, such as Eclair.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126841-zO8B5EQgj2dj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126841
+      }
+    },
+    {
+      "id": "gazef-stronoff",
+      "name": "Gazef Stronoff",
+      "alt_names": [
+        "ガゼフ・ストロノーフ",
+        "Warrior Captain",
+        " Strongest Warrior of the Kingdom"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human\n__Affiliation:__ Re-Estize Kingdom\n__Occupation:__ Warrior Captain\n\nGazeff Stronoff is the Warrior Captain of the Re-Estize Kingdom and King Ramposa III's personal bodyguard, and professes his utmost loyalty to him. Incredibly talented with the sword and well-versed in martial arts, he is famously considered the strongest warrior in the entire kingdom, and commands the respect and admiration of everyone who knows his name. Due to internal power struggles among the nobles in the kingdom, Gazeff is not knighted, so the King granted him the title of \"Warrior Captain\", which allows him to command his own unit comprised of \"Warrior Troops\".\n\nBorn a commoner in a frontier village, he later became a mercenary. During his travels, he encountered a former adamantite-ranked adventurer who taught him his extraordinary swordsmanship. He participated in the grand tournament and defeated Brain Unglaus, becoming the champion and earning the King's trust.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126869-oKHjOvk80dD6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126869
+      }
+    },
+    {
+      "id": "lupusregina-beta",
+      "name": "Lupusregina Beta",
+      "alt_names": [
+        "ルプスレギナ・ベータ",
+        "Lupus",
+        "Sadist with Smiling Mask"
+      ],
+      "role": "supporting",
+      "description": "A member of the \"Pleiades Six Stars\", the battle maid squad of the Great Tomb of Nazarick. She serves as the role of battle cleric and focuses on healing magic. In terms of combat ability, she possesses the highest physical defense and resistances among the Pleiades, and has balanced stats overall. Being a werewolf, she is weak to silver weapons, but is blessed with resistance against other metals.\n\nHer appearance is that of a brown-skinned beauty with amber-colored eyes, and red hair which she ties in two long braids. She wears a maid uniform with short sleeves and long black gloves, white stockings, and a skirt that has a long slit on its left side. She is usually seen carrying her signature weapon slung across her back, a menacing black and silver scepter which looks like and oversized religious symbol, the Crosier.\n\nLupusregina boasts a very sociable and outgoing personality, and seems very friendly, even towards humans, a race considered unworthy of respect by other beings of Nazarick. For example, she adds \"-chan\" to the other maid's names, and often likes teasing Enri with lewd jokes. The Homunculus Maids (the ordinary maids of Nazarick) are convinced she's the friendliest of the Pleiades and even believe that being approached by her can be a sign of good fortune. However, her fellow battle-maid Yuri Alpha has commented that Lupusregina's friendliness is merely a facade, and that in reality she can be as brutal and sadistic as Solution.\n\nShe likes startling people by using her \"Complete Invisibility\" spell and appearing behind them unnoticed.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126870-DKc1B7cvoUu7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126870
+      }
+    },
+    {
+      "id": "touch-me",
+      "name": "Touch Me",
+      "alt_names": [
+        "たっち・みー",
+        "Tatchi Mi",
+        " Paladin of Pure Silver"
+      ],
+      "role": "supporting",
+      "description": "Touch Me is one of the original founding members of the Ainz Ooal Gown guild and one of the strongest warriors in YGGDRASIL. He is regarded as one of the Forty-One Supreme Beings by the NPCs of the Great Tomb of Nazarick. He is the creator of Sebas Tian. At some point in YGGDRASIL, Touch Me participated in an official martial tournament and defeated all of his adversaries. By winning the tournament, he was awarded a special prize that comes in two. Firstly, he was given a special job class known as the \"World Champion\" of Álfheimr, and in addition he was awarded with the pure white armor set called \"Compliance with Law.\"\n\nTouch Me's outfit consists of shining white armor and a helm. His chest piece contains a huge sapphire embedded in the middle, which radiates with pure and divine light.\nHe is also adorned with a reddish cape attached around his right shoulder. Additionally, he is armed with both sword and shield. Touch Me's actual facial appearance in real life is said to look exactly like Sebas Tian. \n\nAs Touch Me played YGGDRASIL, he decided to assist the heteromorphic players during a time when they were being hunted down for fun through PKing. Thus, that was how he met Momonga, by saving him from a PK party; the two started becoming friends since then. There was also a time when Bukubukuchagama could not find a party to adventure with due to her appearance, so he was the one who approached her before anyone else. Afterwards, they formed a party together with other non-human characters and organized the First Nine, also known as Nine's Own Goal.\n\nAfter that, the clan grew with members chosen and invited personally by Touch Me, becoming a stable and friendly group. However, he felt that the clan was beginning to slowly fall apart. During one of its meetings, Touch Me was seen looking troubled by Momonga and Peroroncino, but their concerns were brushed aside. Once all the clan members had arrived, Touch Me started the meeting by having Nishikienrai report his latest discovery of a new unexplored dungeon. After the various clan members discussed the pros and cons of the dungeon, it was agreed that the clan would launch a raid.  Touch Me then moved unto the next point in the agenda of the meeting, in which he formally announced his intention to dissolve the Clan. His declaration elicited many protests, however he informed them that he wished to form Nine's Own Goal as an official Guild. Hearing the majority of the Clan concur to the idea, Touch Me decided to turn down the suggestion to become the Guildmaster. Just as several members of the groups argued about who should become Guildmaster, Touch Me restored order and nominated Momonga as their new guild leader, a proposal which many accepted. \n\nTouch Me is looked upon as very righteous and fair. He would help people in times of trouble without hesitation, and scolds his friends if one of them did something wrong. Momonga describes Touch Me as someone who is a straightforward person, the kind who was very direct in his words and deeds. However, Touch Me can be self-reflective at times, as evidenced when he was willing to step down as clan leader and proposed for someone else to be the guild master rather than him. If what Ulbert said is true; about him chasing away one of their former clansman leaving the game, then this might be part of the reason why Touch Me decided to step down voluntarily as a candidate for Guildmaster. \n\n(Source: Overlord Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127437-HHvKoQEugGhN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127437
+      }
+    },
+    {
+      "id": "brain-unglaus",
+      "name": "Brain Unglaus",
+      "alt_names": [
+        "ブレイン・アングラウス"
+      ],
+      "role": "supporting",
+      "description": "Brain is a warrior turned mercenary after he lost to Gazef Stronoff in a grand tournament to determine the strongest fighter in Re-Estize Kingdom. He has brown eyes with blue hair and the appearance of a wild beast. He is equipped with a chainmail and wears a necklace and ring which are infused with protection magic. His whole body is lean and his muscles are tough as steel and tempered through experience.\n\nOriginally a farmer, he was gifted with what could only be described as a God-given talent in the mastery of the sword. He has always believed himself to be the strongest fighter inside the Kingdom, having never lost a fight before he entered the grand tournament to decide the King's guard captain. He easily fought his way to the final where he faced off against Gazef Stronoff. A grand and close battle ensued between the two, but eventually,​ he would taste his first defeat at the hand of Gazef.\n\nHis fame was shattered and his confidence as an unbeatable warrior took a hit. He then decided to do everything he could to become stronger, so he would truly become unbeatable. At the same time, in order to make a living he started working as a mercenary for the Death Spreading Brigade. \n\n~!When first introduced he is very arrogant, thinking that he is the most powerful, even though he earlier lost to Gazef. While a mercenary, he suffered a devastating defeat at the hand of Shalltear Bloodfallen when she attacked the hideout of the Death Spreading Brigade. After that, his personality changes drastically. Having his confidence completely crushed and getting a feel of what true terror is like, his attitude changes to one where he is completely depressed, hinting at a suicidal tendency.\n\nHe eventually does a complete overhaul after meeting Climb and Sebas Tian. He changes to a much friendlier person that starts to think that strength is more than simply being skilled with a sword.\n\nIn his second encounter with Shalltear, he managed to chip off Shalltear's pinky fingernail using Fourfold Slash of Light.\n\nIn the web novel version, he becomes a vampire under Shalltear.!~\n\n(Source: Overlord Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128263-CnJQGDZm6Wo1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128263
+      }
+    },
+    {
+      "id": "yuri-alpha",
+      "name": "Yuri Alpha",
+      "alt_names": [
+        "アルファユリ"
+      ],
+      "role": "supporting",
+      "description": "The Vice-Captain, but de facto leader of the Pleiades. She is a Dullahan who uses a choker to keep her head attached to the rest of her body, causing her to appear to be human. She specializes in unarmed combat and uses Gauntlets in battle. She is programmed to behave like a teacher, because her creator was one, and the other Pleiades look up to her like a big sister. Like Sebas, she holds a primarily neutral stance towards outsiders, but unlike him, her sense of justice is not so strong that she'd help people like him.\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128288-rxWuyLQkxYBL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128288
+      }
+    },
+    {
+      "id": "clementine",
+      "name": "Clementine",
+      "alt_names": [
+        "クレマンティーヌ",
+        "Windstride",
+        "Quintia's Fragment"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human \n__Affiliation:__\n- Slane Theocracy (Former)\n- Black Scripture (Former)\n- Zurrernorn\n\n__Family:__ Quaiesse Hazeia Quintia (Brother)\n__Occupation:__ Warrior \n\nClementine was a sadistic psychopath, obsessed with inflicting pain and torture on others. As a former member of the Black Scripture, Clementine was extremely confident in her abilities. She would go so far as to declare herself unbeatable until her unfortunate encounter with Ainz, who proved to be much more powerful than her. Before Clementine went rogue, she once held the position of 9th Seat in the Black Scripture. Besides betraying the Scripture, she also stole the magical Crown of Wisdom from one of the Six Miko Princesses of the Theocracy. Because of that, she has chosen to flee from her homeland and join Zurrernorn for protection.",
+      "metadata": {
+        "gender": "female",
+        "age": "Mid 20s",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128401-ntBGw9BGMacx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128401
+      }
+    },
+    {
+      "id": "nemu-emmot",
+      "name": "Nemu Emmot",
+      "alt_names": [
+        "ネム・エモット"
+      ],
+      "role": "supporting",
+      "description": "Race: Human \nAffiliation:\n Sorcerer Kingdom \nRe-Estize Kingdom (Formerly)\n Family: \nEnri Emmot (Older Sister) \nNfirea Bareare (Brother-In-Law)\n Occupation: Villager \nResidence: Carne Village\n\n Nemu has a childish and naive personality, but it seems that she may actually know more than her older sister. She used to be more bold and rebel, but after the attack to her village and the death of her parents she try to be more useful and obedient to help Enri. However, it seems that her boldness comes back when she gets emotional, like the time that she visited Nazarick",
+      "metadata": {
+        "gender": "female",
+        "age": "10",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128402-6d5Ab9O2ThK8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128402
+      }
+    },
+    {
+      "id": "lizzie-bareare",
+      "name": "Lizzie Bareare",
+      "alt_names": [
+        "リィジー・バレアレ"
+      ],
+      "role": "supporting",
+      "description": "Race: Human\nAffiliation:\nSorcerer Kingdom\nRe-Estize Kingdom (Formerly)\nFamily:\nNfirea Bareare (Grandson)\nOccupation:\nHerbalist\nPotion Maker\nResidence\nE-Rantel (Formerly)\nCarne Village (Currently)\nis a pharmacist who used to operate in E-Rantel and the grandmother of Nfirea Bareare. When Nfirea was kidnapped by Zurrernorn, she made a deal with Ainz to rescue him in return for her services. Afterwards, she moved to Carne Village.\nThough a seemingly old woman, Lizzie Bareare is still quite sharp for her age. Highly knowledgeable about the make-up, properties and lore of potions. She also has a demanding and fastidious personality. Her intense gaze gives other people the shivers.\nRenown throughout the city of E-Rantel, Lizzie Bareare holds the title as the city's best pharmacist.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128403-gJFHR2J3qMHh.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128403
+      }
+    },
+    {
+      "id": "nfirea-bareare",
+      "name": "Nfirea Bareare",
+      "alt_names": [
+        "ンフィーレア・バレアレ"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human\n__Affiliation:__ Sorcerer Kingdom, Re-Estize Kingdom (Formerly)\n__Family:__ Lizzie Bareare (Grandmother), Enri Emmot (Wife), Nemu Emmot (Sister-In-Law)\n__Occupation:__ Herbalist, Potion Maker\n__Residence:__ E-Rantel (Formerly), Carne Village (Currently)\n__Birthday:__ Middle Wind Month 18th Day\n__Hobby:__ Alchemical Experiments.\n\nNfirea is described as a nice, calm and timid person. He works hard at making potions with his grandmother every day.\nHe also has a minor inferiority complex, due to comparing himself to Ainz.\nAt a young age, Nfirea Bareare was raised by his grandmother Lizzie Bareare after his parents died; he only has murky impressions of them. His grandmother made him her apprentice and taught him everything she knew about herbs, alchemy, and potion-making. He met Enri Emmot while delivering potions to Carne Village and developed feelings for her.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128404-5ncnTSZPNoKV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128404
+      }
+    },
+    {
+      "id": "enri-emmot",
+      "name": "Enri Emmot",
+      "alt_names": [
+        "エンリ・エモット",
+        "New Matriarch ",
+        "General Enri ",
+        "Warlord Enri The Bloody"
+      ],
+      "role": "supporting",
+      "description": "Race: Human Race\nAffiliation\nSorcerer Kingdom\nRe-Estize Kingdom (Formerly)\nis the Chieftain of Carne Village and the older sister of Nemu Emmot.\nRaised by a loving family, Enri has grown up to be a kind person, but has shown to have a strong character. As seen when she is willing to sacrifice herself for the sake of her little sister's life. She shows great leadership, being the new village head and defending the town from monsters with the other villagers.\nGrowing up in Carne Village and living there all her life, Enri has always lived the life of a simple farmer's daughter. Due to her healthy lifestyle, Enri has grown to be physically fit to the point where she is considered as one of the strongest five in the village.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128405-Dy4SezyQ9OPV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128405
+      }
+    },
+    {
+      "id": "hamusuke",
+      "name": "Hamusuke",
+      "alt_names": [
+        "ハムスケ"
+      ],
+      "role": "supporting",
+      "description": "Hamsuke resembles a giant Djungarian hamster with a long snake tail. Six sigils dot her silvery fur.\n\nBefore being inducted in the Great Tomb of Nazarick, Hamusuke was very boastful and prideful of her ability and power as the \"Virtuous King of the Forest.\" However, since meeting Momonga and witnessing the power of the denizens of Nazarick, she has seen how vastly inferior she is. She accepts this and swears loyalty to Momonga, willing to do anything to please his master and earn his keep.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128569-vRysqOLW66l0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128569
+      }
+    },
+    {
+      "id": "nigun-grid-luin",
+      "name": "Nigun Grid Luin",
+      "alt_names": [
+        "ニグン・グリッド・ルーイン"
+      ],
+      "role": "supporting",
+      "description": "Nigun Grid Luin (ニグン・グリッド・ルーイン) was the captain of the Sunlight Scripture of the Slane Theocracy. He was ordered by the Cardinals to assassinate the Re-Estize Kingdom's strongest warrior, Gazef Stronoff.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141731-hiOr8aSP2tO3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141731
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T17:54:13.200Z"
+}

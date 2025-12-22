@@ -1,0 +1,149 @@
+{
+  "work_id": "goodbye-eri",
+  "count": 6,
+  "characters": [
+    {
+      "id": "eri",
+      "name": "Eri",
+      "alt_names": [
+        "絵梨"
+      ],
+      "role": "protagonist",
+      "description": "She is the girl that Yuuta meets on the hospital roof where he was about to commit suicide.\n\nShe likes movies and chooses to exploit her passion to help Yuuta create a movie himself.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270499-xhcO4k19t3e2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270499
+      }
+    },
+    {
+      "id": "yuuta-itou",
+      "name": "Yuuta Itou",
+      "alt_names": [
+        "伊藤優太"
+      ],
+      "role": "protagonist",
+      "description": "A boy tasked to film his mother's disease battle.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270546-qSflx7TAxAqF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270546
+      }
+    },
+    {
+      "id": "yuuta-no-chichi",
+      "name": "Yuuta no Chichi",
+      "alt_names": [
+        "優太の父",
+        "Yuuta's Father"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b324130-v8Ni7Q8d2wjZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 324130
+      }
+    },
+    {
+      "id": "tauchi",
+      "name": "Tauchi",
+      "alt_names": [
+        "田内",
+        "Taguchi"
+      ],
+      "role": "supporting",
+      "description": "A nurse who is close to Yuuta's mother and presumably treats her. Yuuta mispronounces her name as \"Taguchi\".",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b324131-BTL08kbN9fr8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 324131
+      }
+    },
+    {
+      "id": "yuuta-no-haha",
+      "name": "Yuuta no Haha",
+      "alt_names": [
+        "優太の母",
+        "Yuuta's Mother"
+      ],
+      "role": "supporting",
+      "description": "She is suffering from an unspecified terminal illness and asks her son to record her final months.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b324132-1zAazwYgWgZ2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 324132
+      }
+    },
+    {
+      "id": "yuuta-no-tomodachi",
+      "name": "Yuuta no Tomodachi",
+      "alt_names": [
+        "優太の友達",
+        "Yuuta's Friend"
+      ],
+      "role": "supporting",
+      "description": "She is friends with Yuuta and Eri. After Dead Mother Explosion is aired at the school festival, she criticizes the ending but expresses understanding about the rest, as her own mother had passed a year before.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b324133-lgLRPvRZAJaO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 324133
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T19:37:59.291Z"
+}

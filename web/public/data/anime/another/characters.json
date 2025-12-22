@@ -1,0 +1,566 @@
+{
+  "work_id": "another",
+  "count": 25,
+  "characters": [
+    {
+      "id": "kouichi-sakakibara",
+      "name": "Kouichi Sakakibara",
+      "alt_names": [
+        "榊原恒一",
+        "Sakaki",
+        "Horror Teen"
+      ],
+      "role": "protagonist",
+      "description": "__Occupation__: Middle School Student\n__Grade__: 3rd year, 3rd class\n__Height__: 167 cm (5'6\")\n\nThe new transfer student into Yomiyama North Middle School's third year's third class (in May, 1998). He is 15 years old and the only son in the Sakakibara family. His mother supposedly passed away 15 years ago after giving birth to him. He becomes very interested and curious about Mei Misaki and attempts to pursue a friendship with her, but little does he know of the trouble this is going to cause...   ~!He has pneumothorax (collapsed lung), which is the reason why he is absent from the school for a month at the start of the story. This is also the reason why he doesn't know Misaki was treated as 'one who does not exist' that year.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b41400-R2RzXzBtXOfJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 41400
+      }
+    },
+    {
+      "id": "mei-misaki",
+      "name": "Mei Misaki",
+      "alt_names": [
+        "見崎鳴"
+      ],
+      "role": "protagonist",
+      "description": "**Occupation**: Middle School Student\n**Grade**: 3rd year\n**Height**: 152 cm (5'0'')\n\nA mysterious, cute and isolated girl in Yomiyama North Middle School's third year's third class. Her left eye is covered by an eye patch. The girl with a mysterious presence and is always sketching alone. She is labelled as the one that \"does not exist\".   ~!Her left eye is a doll's eye. It can see things that should remain unseen, that's why she keeps it covered.  It can see people close to death or that are dead.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b41402-uMQLbpd8uwKH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 41402
+      }
+    },
+    {
+      "id": "izumi-akazawa",
+      "name": "Izumi Akazawa",
+      "alt_names": [
+        "赤沢泉美"
+      ],
+      "role": "supporting",
+      "description": "__Occupation__: Middle School Student \n__Grade__: 3rd year, 3rd class\n\n~! She holds a grudge against Mei and Kouichi for ignoring the rules, which makes the countermeasures useless, causing the deaths to continue.!~   \n\n__Novel__: ~! She dies from falling off a veranda and breaking her neck when pursued by the assassin during the summer trip. One of the seven \"Deaths of August\".!~\n__Manga__: ~! Doesn't die just cuts her hair short.!~\n__Anime__: ~! Same as novel but dies from broken glass while trying to kill Misaki, who she thinks is the extra person. !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b51585-Sp3l5TRdrULa.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 51585
+      }
+    },
+    {
+      "id": "naoya-teshigawara",
+      "name": "Naoya Teshigawara",
+      "alt_names": [
+        "敕使河原直哉"
+      ],
+      "role": "supporting",
+      "description": "Teshigawara is the class' \"mood maker\".   He is usually superficial in nature. He is shown to have a sympathetic side, since he was the first one to talk to Kouichi, who was still not used to the surroundings.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b51587-Pw1kxIJNb6Sm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 51587
+      }
+    },
+    {
+      "id": "yukari-sakuragi",
+      "name": "Yukari Sakuragi",
+      "alt_names": [
+        "桜木ゆかり"
+      ],
+      "role": "supporting",
+      "description": "Yukari Sakuragi is one the class officers, the other being Kazami, of Yomiyama North Middle School's 9th grade class.    ~!After hearing an important message from a teacher, she takes her umbrella and runs out of the classroom. After seeing Sakakibara with Misaki standing in the hallway she runs to the opposite direction. She runs downstairs and slips. Her umbrella falls out of her hand and she falls on it with her throat being pierced by the iron point of her umbrella and dies a few seconds later. We find out later on that her mother died on the same day, which could have been the reason why Sakuragi had left the classroom.!~   ~!Sakuragi appearance in the manga is completely different from her appearance in the anime. In the manga, Sakuragi has straight black hair. However, in the anime, she has curly brown hair.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b51589-b4fNO04kZuA1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 51589
+      }
+    },
+    {
+      "id": "sanae-mizuno",
+      "name": "Sanae Mizuno",
+      "alt_names": [
+        "水野沙苗"
+      ],
+      "role": "supporting",
+      "description": "Sanae Mizuno is a nurse at Yomiyama Hospital. She is first seen at Kouichi's ward. She has a brother named Mizuno Takeru who went to the class 3-3 at Yomiyama North Middle School.    ~!While on a call with Kouichi in an elevator, the elevator cable snaps and the elevator plummets to the basement of the hospital. She dies upon impact and is buried under falling debris.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b51591-ZrDpEONukSOq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 51591
+      }
+    },
+    {
+      "id": "reiko-mikami",
+      "name": "Reiko Mikami",
+      "alt_names": [
+        "三神怜子"
+      ],
+      "role": "supporting",
+      "description": "Kouichi's aunt from Ritsuko's side  ~!and class 3-3 deputy homeroom teacher. She gives her nephew advice on how to make it through Yomiyama through a series of \"rules\". One of them is to separate the private life from school life, thus Kouichi addresses her as Reiko at home, and Ms. Mikami at school.!~  ~! She is also revealed to be the extra/dead one. Reiko was murdered about an year and a half before the accidents started to happen.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b51593-4DuJdXIhmz4d.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 51593
+      }
+    },
+    {
+      "id": "yuuya-mochizuki",
+      "name": "Yuuya Mochizuki",
+      "alt_names": [
+        "望月優矢"
+      ],
+      "role": "supporting",
+      "description": "Mochizuki is a student at Yomiyama North Middle School, 9th Grade Class 3. He is a member of the art club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b51595-WONJEojLs7jf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 51595
+      }
+    },
+    {
+      "id": "tomohiko-kazami",
+      "name": "Tomohiko Kazami",
+      "alt_names": [
+        "風見智彦"
+      ],
+      "role": "supporting",
+      "description": "He is 3-3 class officer,along with Yukari(and later Akazawa Izumi).Teshigawara is his childhood friend.   ~! Teshigawara thinks he is the dead person and got into fight with him at the balcony. Suddenly he fell from the balcony but he doesn't die. In the manga, he broke his leg but in the anime, he went to Mochizuki room with an angry expression, but after that he went missing. Kazami believed that Kouichi is the dead one and goes insane, killing Anzu and Aki from behind.  Later, when he tries to kill Kouichi saying that because of him Yukari is dead, Izumi knocked him out with an iron rod. She says he doesn't deserve to live as he killed two classmates, and when she's about to kill him saying that now he can follow Yukari in death, Izumi is stopped by Chibiki. However, Tomohiko dies later because of his injuries and Naoya seemed very affected by his death.!~  Source: Another Wiki",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b53225-SxEKv3jPnsrS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 53225
+      }
+    },
+    {
+      "id": "kirika",
+      "name": "Kirika",
+      "alt_names": [
+        "霧果"
+      ],
+      "role": "supporting",
+      "description": "~!Real name: Yukiyo Misaki (見崎 ユキヨ) She is Mei's adoptive mother.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55009-JodWmDY0Qq7N.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55009
+      }
+    },
+    {
+      "id": "tatsuji-chibiki",
+      "name": "Tatsuji Chibiki",
+      "alt_names": [
+        "千曳辰治"
+      ],
+      "role": "supporting",
+      "description": "Librarian in charge of the No. 2 library room.   ~!He was the teacher for class 3-3 the \"first year\", the year Misaki Yomiyama died. Some years later, he resigned the teaching and stayed as the master of the library. Since then he kept a record of the phenomena, the deceases and their connections, and shares his findings with Kōichi and Mei.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55011-rexhpHhJbreS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55011
+      }
+    },
+    {
+      "id": "kubodera-sensei",
+      "name": "Kubodera-sensei",
+      "alt_names": [
+        "久保寺先生"
+      ],
+      "role": "supporting",
+      "description": "3-3 homeroom teacher.    ~!He kills himself in front of the class after realizing that the countermeasures to the 3-3 phenomena didn't work. He is one of the \"Deaths of July\".!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55013-mjg8uDotmvs2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55013
+      }
+    },
+    {
+      "id": "ikuo-takabayashi",
+      "name": "Ikuo Takabayashi",
+      "alt_names": [
+        "高林郁夫"
+      ],
+      "role": "supporting",
+      "description": "A student from Class 3-3.\n~!He dies from a heart attack. He is one of the \"Death of June\"!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55015-Dob3KzeG2jyj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55015
+      }
+    },
+    {
+      "id": "tamie-mikami",
+      "name": "Tamie Mikami",
+      "alt_names": [
+        "三神民江"
+      ],
+      "role": "supporting",
+      "description": "Kouichi's maternal grandmother.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55017-WTvbmuO6itqB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55017
+      }
+    },
+    {
+      "id": "ryouhei-mikami",
+      "name": "Ryouhei Mikami",
+      "alt_names": [
+        "三神亮平"
+      ],
+      "role": "supporting",
+      "description": "Kouichi's maternal grandfather.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55019-xnV3o0mcMsaM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55019
+      }
+    },
+    {
+      "id": "yousuke-sakakibara",
+      "name": "Yousuke Sakakibara",
+      "alt_names": [
+        "榊原陽介"
+      ],
+      "role": "supporting",
+      "description": "Kōichi's father. A college professor currently doing research in India.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55021-awuU451Dzq1X.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55021
+      }
+    },
+    {
+      "id": "tomoko-inose",
+      "name": "Tomoko Inose",
+      "alt_names": [
+        "猪瀬知香"
+      ],
+      "role": "supporting",
+      "description": "She is Yuuya's older half-sister. A waitress at Inoya cafe, she attended Yomiyama North Middle School during 1983. Although aware of the rumors about class 3-3, she didn't believe them until her brother, fearing for her life, explained the situation to her. Katsumi Matsunaga is a regular at the cafe where she works.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/57259.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 57259
+      }
+    },
+    {
+      "id": "yumi-ogura",
+      "name": "Yumi Ogura",
+      "alt_names": [
+        "小椋由美"
+      ],
+      "role": "supporting",
+      "description": "3-3 Classmate and a friend of Ayano.    ~!Ogura tries to kill Mei Misaki (to avenge her brother) at the class trip after being convinced by Takako Sugiura that Misaki was the \"fake\" classmate. Ogura falls to her death accidentally slipping out of the inn's second story window chasing after Misaki.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58549-ntvnfcFQB9Jm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58549
+      }
+    },
+    {
+      "id": "takako-sugiura",
+      "name": "Takako Sugiura",
+      "alt_names": [
+        "杉浦多佳子"
+      ],
+      "role": "supporting",
+      "description": "3-3 Classmate. She appears to be very close to Nakao and Akazawa, especially.   ~! After Nakao dies during the trip to the beach, she becomes emotionally unstable. During the class trip, after listening to the tape left by Matsunaga she starts to think Mei is the dead one and goes on a rampage trying to kill her and encouraging the other class members to do so. She ends up getting choked and killed by a pillar and some strings that fell due to the collapse of the mansion. Akazawa is shocked when she realizes she's dead. !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58627-fU10rDd9IfOQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58627
+      }
+    },
+    {
+      "id": "aki-matsui",
+      "name": "Aki Matsui",
+      "alt_names": [
+        "松井安芸"
+      ],
+      "role": "supporting",
+      "description": "A quiet student, who is a good friend of Anzu Kanaki.   ~!She is killed during the class trip, when Kazami throws a blade through her throat, just after meeting with Kouichi.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/58835.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58835
+      }
+    },
+    {
+      "id": "kyouko-kaneki",
+      "name": "Kyouko Kaneki",
+      "alt_names": [
+        "金木杏子"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58837-mU5U6hJ47jOk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58837
+      }
+    },
+    {
+      "id": "aya-ayano",
+      "name": "Aya Ayano",
+      "alt_names": [
+        "綾野彩"
+      ],
+      "role": "supporting",
+      "description": "One of the students in 3-3. She has a cheerful personality and speaks with Sakakibara in his first day in the school. She is also in the drama club, and good friends with Arita Matsuko and Izumi Akazawa.   ~!She dies in a car accident - when her family was trying to escape from Yomiyama. It was raining a lot, and soon when they were on a road that looked like highway - something hit the car's front glass, making the car drift off from the road, and falling into the nearest forest.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58839-wEYAbKZlWSse.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58839
+      }
+    },
+    {
+      "id": "kazue-satou",
+      "name": "Kazue Satou",
+      "alt_names": [
+        "佐藤和江"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58843-hoWLcsRQSUAv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58843
+      }
+    },
+    {
+      "id": "shouko-arita",
+      "name": "Shouko Arita",
+      "alt_names": [
+        "有田松子"
+      ],
+      "role": "supporting",
+      "description": "Occupation: Middle School Student \nGrade: 3rd year, 3rd class Attendance Number: 3. Height: 160 cm.  \n\nA girl with a bob cut, turned down eyes and a baby face, which makes her look a bit younger. She is quite lucky and has many friends.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58845-HXEgmpZUsTD4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58845
+      }
+    },
+    {
+      "id": "san-watanabe",
+      "name": "San Watanabe",
+      "alt_names": [
+        "渡辺珊"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58853-duXMfGr4Tr9l.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58853
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T17:54:47.849Z"
+}

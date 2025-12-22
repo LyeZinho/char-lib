@@ -1,0 +1,573 @@
+{
+  "work_id": "fire-punch",
+  "count": 25,
+  "characters": [
+    {
+      "id": "agni",
+      "name": "Agni",
+      "alt_names": [
+        "アグニ",
+        "Fire Punch",
+        "Fire Man",
+        "God of Fire",
+        "Matchstick Man",
+        "The Burning Man"
+      ],
+      "role": "protagonist",
+      "description": "Agni is the titular protagonist of Fire Punch. He is a large, muscular young man with black hair and his entire body is on fire except for his mouth and the left side of his face. Agni possesses the blessing of Regeneration. His regeneration is extremely powerful, as he is able to regrow lost limbs instantly and even regenerate from being beheaded.\n\nOn his way home one day, he sees a plane flying towards the village. Investigating, he sees a large group of men rounding up the older members of the village at gunpoint. He intervenes, telling the men to leave the elders alone. Agni is approached by a man who introduces himself as [Doma](https://anilist.co/character/120595/Doma), stating they are searching for Blessed Ones to bring with them to the city of Behemdolg. Upon hearing one of the soldiers report that the village houses were filled with human meat and the villagers were in fact cannibals, Doma orders the soldiers to return to the plane before setting the village ablaze with his Fire Blessing. Agni is left burning, as his Blessing prevents him from dying, surrounded by charred corpses and burning buildings. Longing to die as he thinks of his family, a heavily burned [Luna](https://anilist.co/character/238189/Luna) shuffles towards him. Just before her body is reduced to ash, she utters a single word: “Live”. \n\n~!After countless millennia, Agni and [Judah](https://anilist.co/character/147002/Judah) reunite in space and fall asleep together. It is implied they die together, thus the entire human race has been wiped out.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "15-33",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120594-71dcmLPGpxjU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120594
+      }
+    },
+    {
+      "id": "judah",
+      "name": "Judah",
+      "alt_names": [
+        "ユダ"
+      ],
+      "role": "protagonist",
+      "description": "Judah (ユダ, Yuda) is one of the main characters of Fire Punch. She had an overwhelmingly powerful blessing of regeneration.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b147002-aGp078NejSj1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 147002
+      }
+    },
+    {
+      "id": "doma",
+      "name": "Doma",
+      "alt_names": [
+        "ドマ"
+      ],
+      "role": "supporting",
+      "description": "Doma is a blessed one with a high position in Behemdorg. He is gathering young men to defeat the Ice Witch and bring back the green nature. As a passionate follower of the king, Doma only uses his ability for the king.\n\nHis ability is to control a fire which does not extinguish until the prey is burnt to ashes.\n~!After several years Doma was removed from the military due to a mental illness and changed considerably, becoming a totally different person. After reencountering Agni he begged for forgiveness, saying he would do anything except dying..\n\nDoma also tended a group of children, that were later killed by Agni alongside him.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/120595-rqFddhAMvmha.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120595
+      }
+    },
+    {
+      "id": "togata",
+      "name": "Togata",
+      "alt_names": [
+        "トガタ",
+        "Director"
+      ],
+      "role": "supporting",
+      "description": "~!**Gender:** Male!~\n\nTogata is an avid film watcher whose film collection - and thus life purpose - burned up in a fire. Upon hearing about the mysterious man on fire, Togata decided to direct an autobiographical film in an effort to get back some meaning in life. Togata ended up accompanying [Agni](https://anilist.co/character/120594/Agni) on his journey and even helping him out at times.\n\nTogata often comes off as an unempathetic, but high-energy person, not caring for the feelings and wellbeing of others. Togata tends to find awe in some of the harsher aspects of life. \n\n~!Togata is a trans man. However, due to his ability to regenerate from any wound in nearly an instant, he found himself unable to undergo a sex change. \n\nDespite his cruel traits, he has allowed himself to be more vulnerable around people, notably Agni, who he pities greatly. In a moment of vulnerability after having been outed, Togata reveals to Agni his debilitating dysphoria and disconnect with his own self due to being alive for over 300 years. His hyperactive persona is a façade, and his \"true\" self is self loathing, pessimistic, and hates to be pitied on.!~\n\n~!In an effort to stop Agni from committing suicide, Togata sacrifices himself.!~",
+      "metadata": {
+        "age": "300+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126893-K5JlGa9DxPUE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126893
+      }
+    },
+    {
+      "id": "sun",
+      "name": "Sun",
+      "alt_names": [
+        "サン"
+      ],
+      "role": "supporting",
+      "description": "Sun's first appearance was when he was being transported to Behemdolg to be sold as a slave, when the group of soldiers guarding the caravan decided to execute some of these slaves as examples for the others to fear. It was at this time that Agni happened to be passing by.\n\nAgni, having rescued Sun and the prisoners by killing the soldiers continues on his track to kill Doma. However, Sun decided to follow Agni. After some time Sun collapses due to exhaustion and the cold, and Agni stays by his side to warm him up. The duo is then ambushed by a group of Behemdolg soldiers and are caught in an avalanche, but Agni manages to rescue the boy.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b147001-946cU5HOue5D.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 147001
+      }
+    },
+    {
+      "id": "nenetto",
+      "name": "Nenetto",
+      "alt_names": [
+        "ネネト"
+      ],
+      "role": "supporting",
+      "description": "A young girl who after meeting Togata, becomes the camerawoman of the Fire Punch movie.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180488-FviL9VTHyF9O.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180488
+      }
+    },
+    {
+      "id": "surya",
+      "name": "Surya",
+      "alt_names": [
+        "スーリャ",
+        "Suryu",
+        "Ice Witch"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "age": "1000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b238188-3AXGIuUCgamj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 238188
+      }
+    },
+    {
+      "id": "luna",
+      "name": "Luna",
+      "alt_names": [
+        "ルナ"
+      ],
+      "role": "supporting",
+      "description": "Agni's sister. Blessed with regeneration",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b238189-gHpNVXvwNEsj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 238189
+      }
+    },
+    {
+      "id": "daida",
+      "name": "Daida",
+      "alt_names": [
+        "ダイダ"
+      ],
+      "role": "supporting",
+      "description": "Daida is an inmate on Behemdolg's death row who is Blessed with the ability to increase his muscular strength.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308826-WizfqARDlw6M.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308826
+      }
+    },
+    {
+      "id": "fugaitai",
+      "name": "Fugaitai",
+      "alt_names": [
+        "フガイタイ"
+      ],
+      "role": "supporting",
+      "description": "Fugaitai was a death row inmate from Behemdolg.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308827-o4PzIgompeD5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308827
+      }
+    },
+    {
+      "id": "uroy",
+      "name": "Uroy",
+      "alt_names": [
+        "ウロイ"
+      ],
+      "role": "supporting",
+      "description": "Uroy is a member of Behemdolg army.\n\nApparently, he had a high position commanding several soldiers, when they were afraid of going into battle, Uroy would show them his blessing to create and manipulate flames, claiming to be one chosen by god, his king, and that he would use his power to defeat the enemies.",
+      "metadata": {
+        "gender": "male",
+        "age": "Millions of Years+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308828-1BvoxRgaQsGo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308828
+      }
+    },
+    {
+      "id": "kalou",
+      "name": "Kalou",
+      "alt_names": [
+        "カルー"
+      ],
+      "role": "supporting",
+      "description": "Kalou was a death row inmate from Behemdolg.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308842-QjbPQbjJx7S5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308842
+      }
+    },
+    {
+      "id": "ivan",
+      "name": "Ivan",
+      "alt_names": [
+        "イワン"
+      ],
+      "role": "supporting",
+      "description": "Ivan is a soldier of Behemdolg and Jack's younger brother.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308843-Ynj1hi5sU87u.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308843
+      }
+    },
+    {
+      "id": "jack",
+      "name": "Jack",
+      "alt_names": [
+        "ジャック"
+      ],
+      "role": "supporting",
+      "description": "Jack is a soldier of Behemdorg who is blessed with the power to heal wounds.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308844-YxplJ3eWsgV7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308844
+      }
+    },
+    {
+      "id": "ranu",
+      "name": "Ranu",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308829-Ly3omQCdm507.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308829
+      }
+    },
+    {
+      "id": "bimbo",
+      "name": "Bimbo",
+      "alt_names": [
+        "Bitch"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308830-q851NP7KAGnE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308830
+      }
+    },
+    {
+      "id": "datsu",
+      "name": "Datsu",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308831-QYhy8zzLvj6M.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308831
+      }
+    },
+    {
+      "id": "tena",
+      "name": "Tena",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308832-S7bTYzrL5SSW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308832
+      }
+    },
+    {
+      "id": "san-no-kyoudai",
+      "name": "San no Kyoudai",
+      "alt_names": [
+        "San's Brother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308833-7shV6Mbzrbsd.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308833
+      }
+    },
+    {
+      "id": "bat-man",
+      "name": "Bat-Man",
+      "alt_names": [
+        "バットマン"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308834-77nD2I7z1RcS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308834
+      }
+    },
+    {
+      "id": "karr",
+      "name": "Karr",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308835
+      }
+    },
+    {
+      "id": "niodera",
+      "name": "Niodera",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308836-QTAFNOlUQC1S.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308836
+      }
+    },
+    {
+      "id": "suryu",
+      "name": "Suryu",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308837-rVwarCGQFN9A.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308837
+      }
+    },
+    {
+      "id": "lean",
+      "name": "Lean",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308838-rM64B66kd2YF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308838
+      }
+    },
+    {
+      "id": "jishima",
+      "name": "Jishima",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308839-tTn8nSkrvFaG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308839
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T19:33:44.969Z"
+}

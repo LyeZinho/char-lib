@@ -1,0 +1,616 @@
+{
+  "work_id": "made-in-abyss",
+  "count": 25,
+  "characters": [
+    {
+      "id": "riko",
+      "name": "Riko",
+      "alt_names": [
+        "リコ",
+        "Rico"
+      ],
+      "role": "protagonist",
+      "description": "**Occupation**: Delver\n**Relatives**: [Lyza](https://anilist.co/character/122465/Lyza) (mother), [Torka](https://anilist.co/character/161856/Torka) (father)\n\nRiko is the only child of the legendary White Whistle [Lyza](https://anilist.co/character/122465/Lyza), the Annihilator. When she was two, her mother began her last dive to the bottom of the abyss. She was left under the care of the Belchero Orphanage. Her dream is to become a White Whistle, a legendary type of  Delver, and explore the depths of the abyss to learn its many secrets and find her mother.\n\nRiko is a good-natured, joyful, and energetic child. She has a quick and inquisitive mind, gathering and properly organizing all the information available on subjects that interest her. Growing up, she diligently studied to become a Delver like her mother was, enchanted by its mysteries and secrets. By the age of twelve, she had become an Apprentice Delver with the right to explore the shallowest level of the abyss on her own. Compared to [Reg](https://anilist.co/character/122444/Reg), she is fragile and lacking in physical prowess. However, her ability to keep a cool head under pressure to make rational decisions allows her to tackle the abyss.",
+      "metadata": {
+        "gender": "female",
+        "age": "12",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122443-Md7TtolADEJh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122443
+      }
+    },
+    {
+      "id": "reg",
+      "name": "Reg",
+      "alt_names": [
+        "レグ",
+        "Regu",
+        "The Treasure of the Deep"
+      ],
+      "role": "protagonist",
+      "description": "Reg is a robotic being who appears to be a little boy. His actual age, origins, and even name are unknown because he cannot recall anything about his life before his encounter with [Riko](https://anilist.co/character/122443/Riko). He is named after a dog Riko used to have. Having a seemingly artificial body, Reg might be the only being completely immune to the Curse of the Abyss. Because of this, he is sometimes referred to as \"The Treasure of the Deep.\"\n\nReg’s body is extremely durable, even to the point that [Ozen the Immovable](https://anilist.co/character/122464/Ouzen) couldn’t break him even when slamming him into the floor with all her strength. Despite his high durability, Reg is agile and weighs little. His wounds heal at a faster rate than a human’s, and has a very high pain tolerance. His senses of smell and hearing are strong, one comparable to a dog. His arms can extend up to 40 meters each and can shoot them to the top of cliffs or grab things very far away. The cords attached are very durable. He is also equipped with an incinerator, which is a powerful incendiary cannon built into his hands and feet, emitting a beam of light, indicating the area to eliminate, penetrating through objects. Objects within the range of the light break apart and are absorbed into the spinning axes. The incinerator is connected to the Abyss in an unknown way, having the power to rewrite the rules of the Abyss. Reg passes out for 2 hours upon use, but it can be fired multiple times in the 10-minute deadline, and can also be set to not affect living beings.\n\nDespite being a formidable fighter, Reg is rather shy, naive, and unassertive. He blushes easily and often cries when in distress. However, when forced into danger or an unpleasant situation, he is shown to be hot-tempered and sharp, compared to Riko's analytic, noncombatant role. Regardless of his skittishness, Reg has made it his sworn duty to protect Riko and doesn't hesitate to put up a fight when she is in harm's way. According to Ozen, the way he speaks and handles his body is similar to [Lyza](https://anilist.co/character/122465/Lyza). One of his favorite words to say is \"irredeemable,\" which was a word that Lyza often said.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122444-9rGUpcjwygHD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122444
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "supporting",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
+    },
+    {
+      "id": "nanachi",
+      "name": "Nanachi",
+      "alt_names": [
+        "ナナチ"
+      ],
+      "role": "supporting",
+      "description": "**Species**: Narehate\n\nNanachi is a Narehate — a person who’s survived the 6th layer’s Curse of the  Abyss and has been left deformed as a result. Unlike other Narehates, Nanachi has retained a sound mind, possessing vast knowledge of the Abyss — its ecosystem, vegetation and even the use of the medicines. Their gender is ambiguous, often using the gender-neutral pronoun \"oira.\" when referring to themself.\n\nMost of the time, Nanachi is cool and reserved, keeping their distance emotionally and physically. Their attitude often borders on being sarcastic and even cynical. However, behind this mask, Nanachi hides a kind and gentle soul, capable of deep compassion and selfless devotion. They are also quite bashful when complimented, seen in their reaction to being called \"fluffy\". They also express discomfort at being petted, especially by  [Reg](https://anilist.co/character/122444/Reg).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122445-5uDu8wMy8Jxi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122445
+      }
+    },
+    {
+      "id": "bondrewd",
+      "name": "Bondrewd",
+      "alt_names": [
+        "ボンドルド",
+        "Lord of Dawn",
+        "The Novel",
+        "Delver of the Abyss"
+      ],
+      "role": "supporting",
+      "description": "Bondrewd is a legendary white whistle delver who has made many great discoveries about the secrets of the Abyss. A researcher fascinated by the Abyss, he has often resorted to illegal and morally questionable means to get funds for and conduct his research, including selling artifacts illicitly, developing dangerous drugs, and even experimenting on living humans. Though how cruel, he still cared for the kids and people he brutally experimented on.\n\nHis methods went against all the ethical principles of delvers, but he was allowed to continue due to his outstanding results. Ten years ago, he did the unthinkable by establishing a large base named the Idofront in the deepest area within the 5th Layer of the Abyss, as well as securing a route to the then-inviolable 6th layer.\n\n~!During one of his experiments researching the Curse of the Abyss, Bondrewd offered children who wanted to unravel the secrets of the Abyss to come with him to the Ido Front. However, he never told them openly that they were going to be used as test subjects. Among the children were Nanachi and Mitty. As Bondrewd continued testing, more and more children were used up in his experiments until only Nanachi and Mitty were left. On his final test, he used both of them, resulting in Mitty being hit with the Curse of the Abyss, while Nanachi received the Blessing.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122463
+      }
+    },
+    {
+      "id": "ouzen",
+      "name": "Ouzen",
+      "alt_names": [
+        "オーゼン",
+        "Ozen",
+        "The Immovable",
+        "The Immovable Sovereign"
+      ],
+      "role": "supporting",
+      "description": "Ouzen the Immovable is an elite White Whistle who lives at the Observation Base on the second level of the Abyss where she commands a small team of cave raiders known as \"The Layabouts.\" Ouzen was a mentor and a close friend of Riko's mother Lyza.\n\nOuzen is a peerless fighter—her unique relic \"Thousand Pins\" grants her superhuman strength, speed and longevity (even though Ouzen appears to be young, she's attained the rank of a white whistle more than 50 years back). She's over 2 meters tall and has a peculiar hairstyle which conceals the scalp deformations caused by the extended exposure to the Curse of the Abyss.\n\nOuzen has absolute control over her facial expressions and her actual feelings (or lack thereof) cannot be guessed with any certainty. The reasons behind her actions are unknowable as well—Ouzen rarely bothers to explain herself and even when she does it's impossible to know whether she's telling the truth or just toying with the audience.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122464-xnYajKbuEa29.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122464
+      }
+    },
+    {
+      "id": "lyza",
+      "name": "Lyza",
+      "alt_names": [
+        "ライザ",
+        "Lord of Annihilation",
+        "The Annihilator"
+      ],
+      "role": "supporting",
+      "description": "Lyza the Annihilator is a legendary White Whistle who accomplished many great discoveries about the secrets of the Abyss. She is Ozen's apprentice and Riko's mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122465-YHQVVPnVZZX1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122465
+      }
+    },
+    {
+      "id": "nat",
+      "name": "Nat",
+      "alt_names": [
+        "ナット"
+      ],
+      "role": "supporting",
+      "description": "**Gender**: Male\n**Species**: Human\n**Occupation**: Delver\n**Class**: Red Whistle\n**Relatives**: Unnamed sister\n\nNat is an orphan from the Belchero Orphanage in the town at the edge of the Abyss, Orth. Like all the children of the orphanage, he's studied to become a Delver since a young age and attained the rank of Red Whistle Delver after his first descent. He wants to become a Moon Whistle Delver like [Jiruo](https://anilist.co/character/123188/Jiruo) and someday build an orphanage somewhere in Orth.\n\nNat has short brown hair with bright blue eyes and wears, like his peers, a red whistle around his neck. He is often seen in his plain white sailor collar shirt, green pants, and track shoes.\n\nNat cares about the people around him, especially [Riko](https://anilist.co/character/122443/Riko). He was against Riko descending into the Abyss with [Reg](https://anilist.co/character/122444/Reg); he spoke of the difficulties of dealing with the Abyss alone and that she wouldn't be able to see anyone in Orth again. Although he was helping Riko and Reg descend into the Abyss, before the departure, he struggled to express he would miss Riko.\n\nNat used to live in the Wharf, where he lived in the slums. He didn't have any family besides his older sister. When his sister died, he was alone in the streets, but the orphanage took him in and he becoming a Delver.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/122748-UQiYQ5OjzkGT.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122748
+      }
+    },
+    {
+      "id": "shiggy",
+      "name": "Shiggy",
+      "alt_names": [
+        "シギー"
+      ],
+      "role": "supporting",
+      "description": "**Gender**: Male\n**Species**: Human\n**Occupation**: Delver\n**Class**: Red Whistle\n\nShiggy is an orphan from the Belchero Orphanage in the town at the edge of the Abyss, Orth. Like all the children of the orphanage, he has studied to become a Delver since a young age and attained the rank of Red Whistle Delver after his first descent.\n\nShiggy has short ashy black hair and bright-red eyes, wears rounded glasses, and bears a red whistle around his neck. He is often seen in his plain white sailor collar shirt and khaki green or black pants and track shoes.\n\nShiggy has a great inquisitiveness, especially when it comes to the maps of the Abyss. He gives [Riko](https://anilist.co/character/122443/Riko) plenty of advice.\n\nWhen Riko tells her friends that she will delve into the Abyss to find [Lyza](https://anilist.co/character/122465/Lyza), Shiggy is skeptical and explains each layer via a depth chart. He decides to aid [Reg](https://anilist.co/character/122444/Reg) and Riko anyways and the three meet up the next morning in the South District. Shiggy advises them to enter the Abyss through the entry point at the wharf slums, which are not monitored as closely.\n\n(Source: Made in Abyss Wiki, edited)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/122749-moyrPEkfL7gv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122749
+      }
+    },
+    {
+      "id": "marulk",
+      "name": "Marulk",
+      "alt_names": [
+        "マルルク"
+      ],
+      "role": "supporting",
+      "description": "Ozen's assistant and a Blue Whistle Diver.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/123145-wWYcJ3SOF426.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123145
+      }
+    },
+    {
+      "id": "hablog",
+      "name": "Hablog",
+      "alt_names": [
+        "ハボルグ",
+        "Haborg",
+        "Habo-san"
+      ],
+      "role": "supporting",
+      "description": "Hablog (called Habo-san by Riko and the other children) is a well-known Black Whistle Delver and was the person who delivered Lyza's White Whistle and final notes to the surface.\n\nHablog is a very bright and kind person with a rather high level of curiosity, as is seen when he first meets Reg.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123185-lOJJvAS0tqF0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123185
+      }
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi",
+      "alt_names": [
+        "キウイ",
+        "Kiyui",
+        "Kiui"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/123186-lgKM1zM7SB1F.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123186
+      }
+    },
+    {
+      "id": "jiruo",
+      "name": "Jiruo",
+      "alt_names": [
+        "ジルオ",
+        "Leader (リーダ)"
+      ],
+      "role": "supporting",
+      "description": "**Gender**: Male\n**Species**: Human\n**Occupation**: Delver, Delving Instructor\n**Class**: Moon Whistle\n\nJiruo is a Moon Whistle Delver who serves as a teacher for Apprentice Delvers from the Belchero Orphanage in the town of Orth. While he works as an instructor for the children, he is also largely responsible for their upbringing and well-being.\n\nJiruo is serious and stern and tends to come off as cold at times but takes his job as a teacher and instructor seriously and prioritizes the childrens' safety. At times he is very insightful and gives good advice, and does his best to support Riko after her mother's whistle was brought back to the surface.\n\nJiruo was the apprentice of the legendary White Whistle Delver Lyza. Though he was only a red whistle at the time, before she made her last dive, Lyza entrusted him with watching over Riko and protecting her identity as a child of a White Whistle Delver.\n\n(Source: Made in Abyss Wiki, edited)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123188-9yVeXsmPmtAY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123188
+      }
+    },
+    {
+      "id": "mitty",
+      "name": "Mitty",
+      "alt_names": [
+        "ミーティ"
+      ],
+      "role": "supporting",
+      "description": "**Species**: Narehate\n\nMitty is an amorphous Narehate who lived with Nanachi on the 4th layer of the Abyss. Mitty had been a regular human girl in the past and her appearance changed due to the result of the ascension from the 6th layer.\n\n~!In Ilblu, it is revealed that Belaf paid compensation to have an exact replica of Mitty born into the village from the time a \"masked man\" brought her along to the village. This reproduction even has an exact copy of Mitty's soul from that moment in time.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125877-nFoMWC2T67Tx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125877
+      }
+    },
+    {
+      "id": "simred",
+      "name": "Simred",
+      "alt_names": [
+        "シムラド"
+      ],
+      "role": "supporting",
+      "description": "Black Whistle and a member of Ozen's expedition team. He is currently stationed at the Seeker Camp in the 2nd layer.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b153051-oZj2GhZmROrK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 153051
+      }
+    },
+    {
+      "id": "torka",
+      "name": "Torka",
+      "alt_names": [
+        "トーカ",
+        "Tōka"
+      ],
+      "role": "supporting",
+      "description": "Torka is Lyza's husband and Riko's father. He was one of the members of a survey team ordered from the government, with a special mission to retrieve the Greater Artifact Unheard Bell from the 4th layer of the Abyss. Lyza married Torka when she was a White Whistle Delver, while Torka was a Black Whistle Delver.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161856-dGUiQzIWBDgd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161856
+      }
+    },
+    {
+      "id": "ilim",
+      "name": "Ilim",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Ilim is one of the children brought down in the depths of the abyss by white whistle Bondrewd, together with Mitty and Nanachi. Later on, it's highly likely that she is one of the Narehate seen in the sixth layer of the abyss.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161973-2zHM5lJmpYdZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161973
+      }
+    },
+    {
+      "id": "mio",
+      "name": "Mio",
+      "alt_names": [
+        "ミオ"
+      ],
+      "role": "minor",
+      "description": "Mio is a nurse that visits Orth on a merchant caravan.\n~!She helps Kiwi get better from the Birthday-Death Disease.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158387-RVQ6H9f5UAB5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158387
+      }
+    },
+    {
+      "id": "laffi",
+      "name": "Laffi",
+      "alt_names": [
+        "ラフィ",
+        "Auntie "
+      ],
+      "role": "minor",
+      "description": "Laffi is Hablog's wife and owner of a shop in Orth. She is well-liked by Riko and the other orphans, who frequent her shop. Riko often using her telescope to observe Abyssal wildlife.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158388-R8wUwY1L7f6M.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158388
+      }
+    },
+    {
+      "id": "tankutsuka",
+      "name": "Tankutsuka",
+      "alt_names": [
+        "探窟家"
+      ],
+      "role": "minor",
+      "description": "A Black Whistle who had a chance encounter with Reg in the 4th layer.\n~!Reg and Nanachi save his life by fighting a deadly Abyss monster that was about to kill him. After this, Reg tells him to send a message up to Jiruo!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158389-AIaFUHHGk2PQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158389
+      }
+    },
+    {
+      "id": "zapo-jii",
+      "name": "Zapo-jii",
+      "alt_names": [
+        "ザポ爺"
+      ],
+      "role": "minor",
+      "description": "Blue Whistle and a member of Ozen's expedition team. He is currently stationed at the Seeker Camp in the 2nd layer.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158390-noLe1BQtJaar.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158390
+      }
+    },
+    {
+      "id": "yelme",
+      "name": "Yelme",
+      "alt_names": [
+        "イェルム"
+      ],
+      "role": "minor",
+      "description": "Moon Whistle and a member of Ozen's expedition team. He is currently stationed at the Seeker Camp in the 2nd layer.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158391-YBTEHKJjbDpJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158391
+      }
+    },
+    {
+      "id": "beruchero",
+      "name": "Beruchero",
+      "alt_names": [
+        "ベルチェロ",
+        "Director"
+      ],
+      "role": "minor",
+      "description": "**Gender**: Female\n**Race**: Human\n\nBelchero is the director of the Belchero Orphanage. She imposed strict rules within the Academy and the orphanage.\n\nBelchero has black hair with white strains in it, which ends in a topknot, and two long curls down each ear. She has a gaunt face and sharp eyes with a monocle on her right eye. She wears a black robe with black clothes beneath and black gloves.\n\nBelchero is very strict and enforces her rules strongly, but also only has the best interest of the orphans in mind.\n\nBelchero was once an active Delver but retired due to knee injuries. Belchero, together with Jiruo, teaches the orphans about the Abyss and other academic subjects.\n\n(Source: Made in Abyss Wiki, edited)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158393-qppg4MLksXWk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158393
+      }
+    },
+    {
+      "id": "srajo",
+      "name": "Srajo",
+      "alt_names": [
+        "スラージョ",
+        "The Obscure",
+        "Lord of Mystery"
+      ],
+      "role": "minor",
+      "description": "Srajo \"The Obscure\", is a legendary White Whistle Delver of the Abyss. Since she is a White Whistle, she is presumed to have made amazing discoveries within the pit and retrieved Artifacts that have changed the world. Like most White Whistle Delvers, she settled on the 5th layer and lived there for some time, since it is the last point of the Abyss where it is possible to return alive.\n\n~!At some point and for unknown reasons, Srajo decided to take her \"Last Dive\" and descended to the 6th layer of the Abyss without even mentioning it to anyone else. [Bondrewd](https://anilist.co/character/122463/Bondrewd) was the only one that was made aware of her decision.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b237657-xy3NNFfdGSeI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 237657
+      }
+    },
+    {
+      "id": "wakuna",
+      "name": "Wakuna",
+      "alt_names": [
+        "ワクナ",
+        "The Chosen",
+        "Lord of Guidance"
+      ],
+      "role": "minor",
+      "description": "Wakuna \"The Chosen\", also known as the \"Lord of Guidance\", is one of the legendary White Whistle Delvers in the Abyss, and is therefore presumed to have made outstanding discoveries down in the deep. He made his \"Last Dive\" to the 6th layer some time before Riko's journey.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b237658-clwt7FpCVskD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 237658
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T17:53:44.841Z"
+}

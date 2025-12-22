@@ -11,8 +11,11 @@
     "start": "node src/cli.js",
     "autocraw": "node src/cli.js autocraw",
     "import": "node src/cli.js import",
+    "import:game": "node scripts/game-import-example.js",
     "update": "node src/cli.js update",
-    "crawl": "node src/cli.js crawl",    "crawl-grow": "node src/cli.js crawl-grow",    "crawl-status": "node src/cli.js crawl-status",
+    "crawl": "node src/cli.js crawl",
+    "crawl-grow": "node src/cli.js crawl-grow",
+    "crawl-status": "node src/cli.js crawl-status",
     "crawl-list": "node src/cli.js crawl-list",
     "crawl-example": "node scripts/crawl-example.js",
     "enrichment-example": "node scripts/enrichment-example.js",
@@ -20,7 +23,13 @@
     "search": "node src/cli.js search",
     "stats": "node src/cli.js stats",
     "cache": "node src/cli.js cache",
-    "list": "node src/cli.js list"
+    "list": "node src/cli.js list",
+    "deploy": "node src/cli.js deploy",
+    "generate-indexes": "node scripts/generate-indexes.js",
+    "web:dev": "npm run generate-indexes && cp -r data web/public/ && cd web && npm run dev",
+    "web:build": "npm run generate-indexes && cp -r data web/public/ && cd web && npm run build",
+    "web:start": "cd web && npm run start",
+    "web:preview": "npm run web:build && npm run web:start"
   },
   "keywords": [
     "anime",
@@ -38,7 +47,8 @@
     "ajv": "^8.12.0",
     "ajv-formats": "^2.1.1",
     "axios": "^1.13.2",
-    "commander": "^11.1.0"
+    "commander": "^11.1.0",
+    "dotenv": "^17.2.3"
   },
   "engines": {
     "node": ">=18.0.0"

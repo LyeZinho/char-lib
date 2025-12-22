@@ -1,0 +1,459 @@
+{
+  "work_id": "dont-toy-with-me-miss-nagatoro",
+  "count": 18,
+  "characters": [
+    {
+      "id": "hayase-nagatoro",
+      "name": "Hayase Nagatoro",
+      "alt_names": [
+        "長瀞早瀬",
+        "Hayacchi",
+        "Toro-chan"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 150 cm (4'11\")\n\nA high school student that can suddenly pop-up anywhere and anytime. She is always crazy about her [Senpai](https://anilist.co/character/124697). She seems to be a member of the Swimming Club. Nagatoro is an energetic, athletic, popular and rather sadistic - but deep down very sweet - girl, often referred to as a \"sadodere\". She is part of a 'cool kids' clique together with her friends [Gamo-chan](https://anilist.co/character/145715/Maki-Gamo), [Yoshi](https://anilist.co/character/145718/Yoshi) and [Sakura](https://anilist.co/character/145716/Sakura), and is a member of the swimming club, despite also having a liking for martial arts such as muay thai, boxing, capoeira and especially judo.\n\n~!Chapter 81 — there's major development between Nagatoro & [Naoto](https://anilist.co/character/124697/Naoto-Hachiouji) which reveals that Nagatoro is supposedly interested romantically in him and sets out a dare to get a kiss from him as a reward for beating her judo rival [Orihara](https://anilist.co/character/220340/Orihara)!~",
+      "metadata": {
+        "gender": "female",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124696-du2Kszxelh1S.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124696
+      }
+    },
+    {
+      "id": "naoto-hachiouji",
+      "name": "Naoto Hachiouji",
+      "alt_names": [
+        "八王子直人",
+        "Senpai",
+        "Nao-kun",
+        "Paisen",
+        "Hentai Manga Sensei"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 176 cm (5'9\")\n\nAs a high schooler and a member of the art club, he enjoys illustrating his own mangas and drawing still images of even his kouhai, [Nagatoro](https://anilist.co/character/124696), after meeting her. Naoto spends his time after school in the art club with Nagatoro on most days where the crazy antics ensue. He is an introvert, twitchy, loner, nerdy and shy aspiring artist, who tries to avoid social interaction with other people and doesn't seem to have any friends. He is also referred as closet-perv by Nagatoro.\n\n~!Naoto eventually notices his romantic feelings for [Nagatoro](https://anilist.co/character/124696/Hayase-Nagatoro) and sets out different scenarios to get closer with her and date her in the future.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "16-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124697-JDDbhuzV6HXN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124697
+      }
+    },
+    {
+      "id": "gamou",
+      "name": "Gamou",
+      "alt_names": [
+        "蒲生",
+        "Gamo-chan (ガモちゃん)",
+        "Maki Gamo (蒲生まき)"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 168 cm (5'6\")\n\nA character with semi-long hair. She likes to make fun of people.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145715-G5GLMaYmUHyo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145715
+      }
+    },
+    {
+      "id": "yoshi",
+      "name": "Yoshi",
+      "alt_names": [
+        "ヨッシー",
+        "Yosshii"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 160 cm (5'2\")\n\nA natural airheaded twintail girl. She is a moron who likes [Gamo-chan](https://anilist.co/character/145715) as she usually repeats or follows her up with something she has just said. Yoshi also seems to like animals as she’s been seen with a gorilla shirt and she has a pet dog. She also seems to be into cute things as she once accepted a “Squiddy” plush from [Nagatoro](https://anilist.co/character/124696) in return for [Senpai](https://anilist.co/character/124697) in a contest.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145718-IKqQxlLIoohE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145718
+      }
+    },
+    {
+      "id": "sakura",
+      "name": "Sakura",
+      "alt_names": [
+        "桜"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 157 cm (5'2\")\n\nA girl with a tan and soft wavy hair. She actually has a \"haraguro\" personality.\n\n(Haraguro: a character that is kind or friendly on the outside but uses those traits as a means to manipulate others.)",
+      "metadata": {
+        "gender": "female",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145716-HQmY6lFKez9s.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145716
+      }
+    },
+    {
+      "id": "sana-sunomiya",
+      "name": "Sana Sunomiya",
+      "alt_names": [
+        "須ノ宮さな",
+        "Buchou",
+        "Prez",
+        "Bunny-Girl",
+        "Club President",
+        "部長"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 171 cm (5'7\")\n\nThe art club president. She has long hair that frames her face with dark-brown eyes. Her personality is stern and serious based on her interactions with [Senpai](https://anilist.co/character/124697), but she treats him with respect unlike [Nagatoro](https://anilist.co/character/124696). She also bears a resemblance to a female character in one of the manga Senpai wrote. \n\n[Sunomiya](https://anilist.co/character/226964/Sunomiya) is her younger cousin.",
+      "metadata": {
+        "gender": "female",
+        "age": "17-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145717-xWPkoY8gFYuy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145717
+      }
+    },
+    {
+      "id": "hana-sunomiya",
+      "name": "Hana Sunomiya",
+      "alt_names": [
+        "須ノ宮 ハナ",
+        "Kouhai"
+      ],
+      "role": "supporting",
+      "description": "She is a high school student who joined the art club during Senpai's third year as well as an acquaintance of his since middle school and the younger cousin of the former Art Club [President](https://anilist.co/character/145717/Sunomiya-Sana), with whom she shares a striking physical resemblance and habit of public nudity. She is a kouhai to all of the other characters.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b226964-Wgrua42oV3UA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 226964
+      }
+    },
+    {
+      "id": "misaki-nagatoro",
+      "name": "Misaki Nagatoro",
+      "alt_names": [
+        "長瀞岬",
+        "Big Sis-Toro",
+        "Nagatoro's sister",
+        "Ane Toro",
+        "姉瀞"
+      ],
+      "role": "supporting",
+      "description": "She is Nagatoro's big sister",
+      "metadata": {
+        "gender": "female",
+        "age": "19-20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222314-1Y0COKI2ih94.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222314
+      }
+    },
+    {
+      "id": "orihara",
+      "name": "Orihara",
+      "alt_names": [
+        "折原"
+      ],
+      "role": "supporting",
+      "description": "An Olympic team candidate for the Judo team, Orihara is [Nagatoro's](https://anilist.co/character/124696/Hayase-Nagatoro) rival in Judo, originally being talentless. ~! She trained harder and harder until she overwhelmed Nagatoro in a single move, causing Nagatoro to quit. !~",
+      "metadata": {
+        "gender": "female",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220340-KuxjDus3PHR2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220340
+      }
+    },
+    {
+      "id": "taiga-nagatoro",
+      "name": "Taiga Nagatoro",
+      "alt_names": [
+        "長瀞 大河",
+        "Ichirou Nagatoro",
+        "長瀞一郎"
+      ],
+      "role": "supporting",
+      "description": "Nagatoro's older brother.\n\nIt is implied that he had a hand in teaching Nagatoro to fight.",
+      "metadata": {
+        "gender": "male",
+        "age": "20+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b256435-q3zQlE4RGlZh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 256435
+      }
+    },
+    {
+      "id": "shikki",
+      "name": "Shikki",
+      "alt_names": [
+        "シッキー"
+      ],
+      "role": "supporting",
+      "description": "She is a high school student and a schoolmate of Nagatoro and her friends as well as one of the best member of the school's judo club.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b263183-SJbgMwzW5sDw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 263183
+      }
+    },
+    {
+      "id": "nekoba",
+      "name": "Nekoba",
+      "alt_names": [
+        "ネコバ"
+      ],
+      "role": "minor",
+      "description": "She is a high school student and a classmate of [Gamo-chan](https://anilist.co/character/145715/Gamochan), [Yoshi](https://anilist.co/character/145718/Yoshi), [Nagatoro](https://anilist.co/character/124696/Hayase-Nagatoro) and [Sakura](https://anilist.co/character/145716/Sakura), the latter two of whom she and her friend Rabi-chan seem to be pretty in confidence to, although they later started to occasionally hang out with the rest of the group as well.\n\nHer full name is currently unknown",
+      "metadata": {
+        "gender": "female",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222436-14qpz9JBPiIL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222436
+      }
+    },
+    {
+      "id": "rabi-chan",
+      "name": "Rabi-chan",
+      "alt_names": [
+        "ラビちゃん"
+      ],
+      "role": "minor",
+      "description": "She is a high school student and a classmate of [Gamo-chan](https://anilist.co/character/145715/Gamochan), [Yoshi](https://anilist.co/character/145718/Yoshi), [Nagatoro](https://anilist.co/character/124696/Hayase-Nagatoro) and [Sakura](https://anilist.co/character/145716/Sakura), the latter two of whom she and her friend Nekoba seems to be pretty in confidence to, although they later started to occasionally hang out with the rest of the group as well.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222437-BNk4CUM6pxP6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222437
+      }
+    },
+    {
+      "id": "hachiouji",
+      "name": "Hachiouji",
+      "alt_names": [
+        "八王子",
+        "Senpai's Mother"
+      ],
+      "role": "minor",
+      "description": "She is the mother of [Senpai](https://anilist.co/character/124697/Senpai), a caring woman who love her son very much but is often away from home due to her very demanding job.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222438-KbXmYcLGFdLC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222438
+      }
+    },
+    {
+      "id": "mr-hachiouji",
+      "name": "Mr. Hachiouji",
+      "alt_names": [
+        "八王子",
+        "Senpai's Father"
+      ],
+      "role": "minor",
+      "description": "He is the father of [Senpai](https://anilist.co/character/124697/Senpai), caring yet somewhat distant as he is often away from home due to his very demanding job.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222439-TGG8ZbcIPael.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222439
+      }
+    },
+    {
+      "id": "yamaguchi",
+      "name": "Yamaguchi",
+      "alt_names": [
+        "山口"
+      ],
+      "role": "minor",
+      "description": "He is a well-known professor at Kazehaya High School, very feared by all of its students due to how strict he is regarding the rules",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222440-5by3jvWlPpkX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222440
+      }
+    },
+    {
+      "id": "fuuki-iinchou",
+      "name": "Fuuki Iinchou",
+      "alt_names": [
+        "風紀委員長",
+        "Public Morals Committee Chief"
+      ],
+      "role": "minor",
+      "description": "She is a high school student who serves as Kazehaya High School's \"Public Morals Committee Chief\" until she - presumably - graduates.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222441-RTemudLORYbl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222441
+      }
+    },
+    {
+      "id": "bunchou-no-sofu",
+      "name": "Bunchou no Sofu",
+      "alt_names": [
+        "部長の祖父",
+        "President's grandfather"
+      ],
+      "role": "minor",
+      "description": "He is the grandfather of the [President](https://anilist.co/character/145717), a very stern and serious kendo instructor, owner of his own dōjō near the city's shrine, he taught his granddaughter said discipline since an early age.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b224287-9Aa29gePRax0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 224287
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T19:38:31.645Z"
+}

@@ -1,0 +1,612 @@
+{
+  "work_id": "the-rising-of-the-shield-hero",
+  "count": 25,
+  "characters": [
+    {
+      "id": "naofumi-iwatani",
+      "name": "Naofumi Iwatani",
+      "alt_names": [
+        "岩谷尚文",
+        "Shield Hero",
+        "Saint Merchant",
+        "Shield Demon King",
+        "Grand Duke"
+      ],
+      "role": "protagonist",
+      "description": "A university student that was summoned to another world as the Shield Hero. Typically unsociable, he's friendly and easy-going to those close to him.\n\n~!After being abandoned by [Malty](https://anilist.co/character/129808) and being treated as a criminal by the people of the world, He unlocked the curse series. The sin he has unlocked is Wrath (against the people of the world).!~",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88817
+      }
+    },
+    {
+      "id": "raphtalia",
+      "name": "Raphtalia",
+      "alt_names": [
+        "ラフタリア"
+      ],
+      "role": "protagonist",
+      "description": "**Race:** Raccoon & Tanuki\n\nRaphtalia is a Tanuki-type Demi-Human who was the first real member of the Shield Hero's party after he purchased her as a slave.\n\n~!Raphtalia later obtain one of the eight vassal weapons from another world granting her the title of Vassal Weapon Wielder and Katana Hero. Due to the passive effects of the Vassal Weapons her slave curse seal was removed.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "10 (mentally), 18 (biologically)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88889
+      }
+    },
+    {
+      "id": "filo",
+      "name": "Filo",
+      "alt_names": [
+        "フィーロ",
+        "Firo"
+      ],
+      "role": "protagonist",
+      "description": "**Age:** <1 (mentally), 10 (physically)\n**Race:** Filolial\n\nFilo was originally hatched from a monster egg which Naofumi purchased from the slave trader.\n\nFilo grew at an abnormally fast rate and in just a few days grown into a fully grown Filolial later developing into a rare species of Filolial Queen where she was later given the ability to transform into a humanoid form strongly resembling a Angel and the ability to talk due to her association with the Shield Hero and the effects of the Legendary Shield.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126828-nZDnMK4Bw7f9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126828
+      }
+    },
+    {
+      "id": "malty-melromarc",
+      "name": "Malty Melromarc",
+      "alt_names": [
+        "マルティ・メルロマルク",
+        "Myne Sophia",
+        "Mein Sophia"
+      ],
+      "role": "supporting",
+      "description": "The first princess of Melromarc who betrayed [Naofumi Iwatani](https://anilist.co/character/88817) in the beginning of the series. She is notorious for manipulating other people in order to satisfy her selfish desires.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129808-T5fd863K9TOI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129808
+      }
+    },
+    {
+      "id": "motoyasu-kitamura",
+      "name": "Motoyasu Kitamura",
+      "alt_names": [
+        "北村元康",
+        "Spear Hero"
+      ],
+      "role": "supporting",
+      "description": "A university student summoned to another world as the Spear Hero. He is an easy-going and handsome womanizer.\n\n~!After being abandoned by [Malty](https://anilist.co/character/129808), He has developed an obsession for Filolials. After Fio tried to cheer him up, he can now only see women as pigs in the literal sense. He raised three Filolials, called Kuu, Marin and Midori because he couldn't get Fios attention. He also unlocks the curse series. His sins are Lust (for Fio) and Envy (for Naofumis position of being loved by Fio).!~",
+      "metadata": {
+        "gender": "male",
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129809-wYFq4QSlFVha.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129809
+      }
+    },
+    {
+      "id": "ren-amaki",
+      "name": "Ren Amaki",
+      "alt_names": [
+        "天木錬",
+        "Sword Hero"
+      ],
+      "role": "supporting",
+      "description": "A high school student who was summoned to another world as the Sword Hero. He's considered a bishounen and tends to stay quiet.\n\n~!After his companions die, he fell into despair, and, thus, he followed [Malty](https://anilist.co/character/129808) when she offered kind words to him. After being abandoned by her, he had a brief stint as a bandit, after which he came under the Female Knight's tutelage. He also unlocked the curse series after being abandoned by Malty. His sins are Greed (For Power) and Gluttony (For Power).!~",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129812-mNAmoHxmHCwd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129812
+      }
+    },
+    {
+      "id": "melty-q-melromarc",
+      "name": "Melty Q Melromarc",
+      "alt_names": [
+        "メルティ・Q・メルロマルク"
+      ],
+      "role": "supporting",
+      "description": "The second princess of Melromarc.\n\nMelty is in many ways the exact opposite of her sister, Malty. This includes their personality, appearance, magic specialty (water vs fire), and color schemes (blue and white against red and brown).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129813-quaY4dr807yx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129813
+      }
+    },
+    {
+      "id": "itsuki-kawasumi",
+      "name": "Itsuki Kawasumi",
+      "alt_names": [
+        "川澄樹",
+        "Bow Hero"
+      ],
+      "role": "supporting",
+      "description": "A high school student summoned to another world as the Bow Hero. He is usually calm and well-mannered. However, He has a messiah complex, and is pretty much a justice maniac. He vanquishes evildoers without thinking of the consequences of his actions. However, this is just because he is immature. He doesn't actually have any bad intentions.\n\n~!When the Spirit Turtle revived, Itsuki and the party was forced to challenge it, but the party ran away, leaving him as a sacrifice to the Turtle.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129814-yinjCKhaHQcb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129814
+      }
+    },
+    {
+      "id": "beloukas",
+      "name": "Beloukas",
+      "alt_names": [
+        "ベロウカ",
+        "Slave Merchant"
+      ],
+      "role": "supporting",
+      "description": "The slave dealer that sells Naofumi Iwatani many slaves. He also conducts slave and monster seal rituals. Despite his appearance and his trade, he is an honest salesman. Upon Naofumi’s request, he searches for and collects slaves who were former villagers of Raphtalia’s village",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133722-llVcCnu20CnY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133722
+      }
+    },
+    {
+      "id": "aultcray-melromarc-xxxii",
+      "name": "Aultcray Melromarc XXXII",
+      "alt_names": [
+        "オルトクレイ＝メルロマルク３２世",
+        "Trash",
+        "Luge Lancarose",
+        "Luge Lances Forbrey"
+      ],
+      "role": "supporting",
+      "description": "The king of Melromarc. He shows obvious favoritism towards his daughter [Malty](https://anilist.co/character/129808) and animosity towards the Shield Hero [Naofumi Iwatani](https://anilist.co/character/88817).\n~!\nIt was revealed that Aultcray is the Wand Hero who led his country in a war against demi-humans and beastmen. Through that experience, he holds hatred towards non-human species and promotes the idea of human supremacy in Melromarc. He shows biased hatred towards Naofumi because the Shield Hero is revered as the protector of demi-humans and beastmen.\n\nWhen Queen Mirelia Q Melromarc comes back to Melromarc after resolving diplomatic issues, she strips Aultcray of his authorities due to his ineptitude to properly lead the people and officially changed his name to Trash as punishment for his abuse of power.!~\n\n~!The king's real name was Luge Lances Forbrey and used the alias Luge Lancarose to hide the fact that he was of royal blood when he battled in the front lines during the war. The name Aultcray Melromarc XXXII was adopted when he married Mirelia and became king.\n\nHe was the third legitimate heir to the throne of Forbrey, but lost that privilege when the Hakuko race killed his parents and loved ones. Due to that fact that Forbrey did nothing to retaliate against the Hakuko residing in Siltvelt due to political reasons, Luge began to despise both countries and moved to the human supremacy-promoting country of Melromarc. He later challenged and defeated the Hakuko king.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133723-Qc5ZIRbGCmWh.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133723
+      }
+    },
+    {
+      "id": "erhard",
+      "name": "Erhard",
+      "alt_names": [
+        "エルハルト",
+        "Old Man"
+      ],
+      "role": "supporting",
+      "description": "Erhard is a blacksmith and a weapon shop owner in the castle town of Melromarc. His shop is the only shop in Melromarc to sell shields while others don't for religious reasons.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133724-DKBQxDroRlQG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133724
+      }
+    },
+    {
+      "id": "yakkyoku-no-owner",
+      "name": "Yakkyoku no Owner",
+      "alt_names": [
+        "薬局のオーナー",
+        "Medicinal Shop Owner"
+      ],
+      "role": "supporting",
+      "description": "The old man that runs the medicinal shop has a relatives that live in Riyuuto Village. Because Naofumi saved many people during the second wave, the old man happily assist Naofumi whenever he's needed.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133774-7rjRgaUhE16H.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133774
+      }
+    },
+    {
+      "id": "biscas-t-balmus",
+      "name": "Biscas  T. Balmus",
+      "alt_names": [
+        "ビスカス . T . バルマス",
+        "教皇",
+        "The Pope"
+      ],
+      "role": "supporting",
+      "description": "The highest priest of the Three Heroes Cult. \n~!He used his deep connections in the nation to do away with any opposing authority in the kingdom. He was so narrow-minded that he calls all of his actions \"the will of God\". He also claims that his followers who died in the fight against the Shield Hero will go to Heaven as a holy reward.\n\nWhen wielding the replica of the Legendary Weapons, Biscas shows a visible \"God complex,\" as he proclaimed himself God while labeling evil anyone who opposed him. he masterminded many events and tried to kill all of the heroes. He killed the queen's right-hand man who happens to be Eclair's father so that the authority rest with King Aultcray Melromarc XXXII, who was at the time was very gullible and easy to manipulate.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135197-Z4yVxsGShXdL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135197
+      }
+    },
+    {
+      "id": "mirellia-q-melromarc",
+      "name": "Mirellia Q Melromarc",
+      "alt_names": [
+        "ミレル＝Q＝メルロマルク",
+        "Queen"
+      ],
+      "role": "supporting",
+      "description": "The queen of Melromarc. She holds the true power of the crown and is generally a just ruler. She is known for her diplomacy and negotiation skills.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135198
+      }
+    },
+    {
+      "id": "yousaiya",
+      "name": "Yousaiya",
+      "alt_names": [
+        "洋裁屋",
+        "The Tailor"
+      ],
+      "role": "supporting",
+      "description": "She is the owner of the tailor store. Her name was never mentioned so she is referred to as the Tailor.\n\nShe made her debut in both the light novel and anime​ but never made her debut in the manga. She was only mentioned by the Magic Shop Owner as being a friend of hers.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135363-23RrbClhnuD8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135363
+      }
+    },
+    {
+      "id": "mahouya",
+      "name": "Mahouya",
+      "alt_names": [
+        "魔法屋",
+        "Magic Shop Owner"
+      ],
+      "role": "supporting",
+      "description": "She is an older woman who runs a magic book store at Castle Town of Melromarc. She was mentioned to be a witch by herself.\n\nShe gave magic books free of cost for Naofumi and his party to learn magic.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135364-V5fGstfRmnYW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135364
+      }
+    },
+    {
+      "id": "elrasla-grilaroc",
+      "name": "Elrasla  Grilaroc",
+      "alt_names": [
+        "Granny"
+      ],
+      "role": "supporting",
+      "description": "Elrasla Grilaroc more commonly known as Granny is an old woman who states that her level is the same as her age. She hit the level cap a long time ago. The sole successor of the Mushin Tensou style of martial arts.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136789-cloAqOx5LMJx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136789
+      }
+    },
+    {
+      "id": "fitoria",
+      "name": "Fitoria",
+      "alt_names": [
+        "フィトリア"
+      ],
+      "role": "supporting",
+      "description": "Fitoria is the queen of the Filolials, who rules over them all.\n\nShe has silver hair with thin streaks of light blue, cut in a short bob with three tufts of hair standing up vertically from the crown of her head, like cowlicks. Her eyes are red and her face is small and well composed. She's dressed in a red and white gothic lolita-style dress. She's about the same height as Filo.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136790-6TkN3qYelIhk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136790
+      }
+    },
+    {
+      "id": "keel",
+      "name": "Keel",
+      "alt_names": [
+        "キール"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Wanui\n\nKeel was born and raised in the same village as Raphtalia. Naofumi bought her as a slave in order to rebuild the village destroyed by the first wave.",
+      "metadata": {
+        "gender": "female",
+        "age": "10 (initial), 15 (post-level)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136792-xxCXzkPuyvwr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136792
+      }
+    },
+    {
+      "id": "larc-berg",
+      "name": "L'arc  Berg",
+      "alt_names": [
+        "ラルクベルク"
+      ],
+      "role": "supporting",
+      "description": "L'arc has spiked red hair and is muscular. He has a tattoo of a scythe on his upper arm and appears to be handsome\n\nHe is carefree and laid back, taking a very relaxed path to every problem. He is, according to Naofumi, an older-brother kind of character. Even though he has become a king, he likes his freedom. Just like Glass, he has a warrior spirit which is shown during his fight with Naofumi.\n\nHe is a good judge of character just by looking at someone. He did have a childish side which shown by the way, when he acted too excited for the ship ride to Cal Mira island. He had the habit of calling the younger persons \"Kiddo\". He has high morals and doesn't want to hurt any others who are irrelevant to his mission.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136793-HfJKb7D6gwxj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136793
+      }
+    },
+    {
+      "id": "rishia-ivyred",
+      "name": "Rishia Ivyred",
+      "alt_names": [
+        "リーシア＝アイヴィレッド"
+      ],
+      "role": "supporting",
+      "description": "__Race__: Human\n\nRishia is the daughter of the House of Ivyred, a noble family. Due to an unfortunate string of events, the family had grown poor and she was forcefully taken as ransom by a neighboring family in exchange for gold. She was rescued by The Bow Hero, whom she would later devote her life to.\n\n~!To show her gratitude and support for her savior, Rishia would go on to join Itsuki's party. She would then be treated as an errand girl, carrying food and supplies for the Bow Hero's party, leaving her talent in magic unused and untapped.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136794-yoJxRXGAGMlo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136794
+      }
+    },
+    {
+      "id": "glass",
+      "name": "Glass",
+      "alt_names": [
+        "グラス"
+      ],
+      "role": "supporting",
+      "description": "A mysterious girl who seems to be an enemy. ~!She was able to defeat the Sword, Lance and Bow Heroes single-handedly, but lost to Naofumi. She was mistaken as a calamity when she first appeared.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136796-V3uZcLtu2IWo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136796
+      }
+    },
+    {
+      "id": "therese-alexandrite",
+      "name": "Therese Alexandrite",
+      "alt_names": [
+        "テリス・アレキサンドライト"
+      ],
+      "role": "supporting",
+      "description": "A companion of Lar'c Berg.\n\nShe has a white skin which looked like ivory. Her hair was bluish green which sparkled in sunlight.Her hair was pulled back into a braid of three thick strands and draped. She wears bangles with massive gem on both hands.\n\nAs a jewel she's able to obtain energy from the different gems that she owns and use it to cast powerful spells.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136797-zuXQf5VxGQlp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136797
+      }
+    },
+    {
+      "id": "hickwaal",
+      "name": "Hickwaal",
+      "alt_names": [
+        "ヒックバル",
+        "Hicval"
+      ],
+      "role": "supporting",
+      "description": "He is the accessory Merchant protected by the shield hero from Bandits and was also the founder and first president of the Hickwaal Company.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136956-GpzCCWTQVH8X.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136956
+      }
+    },
+    {
+      "id": "kishi-danchou",
+      "name": "Kishi Danchou",
+      "alt_names": [
+        "騎士団長",
+        "Captain of Melromarc Knights"
+      ],
+      "role": "supporting",
+      "description": "The Leader of Melromarc Knight is the highest rank of Knights in Melromarc. His actual name was never revealed in the series.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136957-aLL2xykFlwq8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136957
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:35:15.982Z"
+}

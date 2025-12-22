@@ -1,0 +1,589 @@
+{
+  "work_id": "psycho-pass",
+  "count": 25,
+  "characters": [
+    {
+      "id": "shinya-kougami",
+      "name": "Shinya Kougami",
+      "alt_names": [
+        "狡噛慎也",
+        "Kou"
+      ],
+      "role": "protagonist",
+      "description": "Shinya Kougami is an enforcement officer who is tasked with managing crime. Shinya has a high criminal mentality, but because of his skills as a detective, he was released under the condition that he becomes an Enforcer for the Public Safety Bureau, Unit 1.  Despite his natural grudge towards Makishima, they are actually somewhat alike, as shown in Shinya's ability to foresee Makishima's actions.",
+      "metadata": {
+        "gender": "male",
+        "age": "28",
+        "dateOfBirth": "2084-08-16"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b68315-f9RBjyJCoj95.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 68315
+      }
+    },
+    {
+      "id": "akane-tsunemori",
+      "name": "Akane Tsunemori",
+      "alt_names": [
+        "常守朱",
+        "Lemonade Candy"
+      ],
+      "role": "protagonist",
+      "description": "The main female protagonist and the newly assigned Inspector of Unit 1. Considered a model citizen due to her ever calm demeanor and for passing the exams with the highest score for employment on several public sectors and private corporations. She decided to join the police due to being the only place where no one obtained a score as high as hers, thus she believes to be able to do something there that no one else can. She has a unique quirk in which it's hard to cloud her Pyscho-Pass Hues, making her a perfect fit for the job as Inspector.",
+      "metadata": {
+        "gender": "female",
+        "age": "19-22",
+        "dateOfBirth": "2092-04-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b68583-sEP2wyE2Tk7a.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 68583
+      }
+    },
+    {
+      "id": "shougo-makishima",
+      "name": "Shougo Makishima",
+      "alt_names": [
+        "槙島聖護"
+      ],
+      "role": "protagonist",
+      "description": "A humanist on the dark side who is hopelessly in love with cruelty, savagery, and all the worst aspects of human nature. A born evangelist, he possesses both uncommon charisma and a true gift for narrative. Makishima has quite a unique personality. He likes books a lot, as shown in his tendency to quote from famous literature.   \n\n~! Makishima was the mastermind behind the many cases the Public Safety Bureau are investigating, including the one that led Shinya to become demoted to Enforcer. Despite his murderous intent, his hue has always been pure white.!~   \n\n~!According to Kogami, Makishima's pure Psycho-Pass is the result of having suffered hardships in his early life and that being \"unrecognized\" by Sibyl left Makishima feeling invisible, which may have triggered his single-minded goal of taking down the Sibyl System. Makishima, on the other hand, believes that isolation made him stronger.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n69725-Seck1SZfwQiR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 69725
+      }
+    },
+    {
+      "id": "shuusei-kagari",
+      "name": "Shuusei Kagari",
+      "alt_names": [
+        "縢秀星",
+        "Shuu"
+      ],
+      "role": "supporting",
+      "description": "Shuusei is the jokester of the group and likes to make fun of people on a regular basis. He enjoys portable video games and spends most of his free time playing them. However, he is more serious when he's on the job. He hates people who take the freedom they have for granted, because of the fact that he's been excluded from society since he was five years old.   ~!Later on in the series, he is killed by the Chief because he saw the true form of Sibyl System, and has been reported missing ever since.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "22",
+        "dateOfBirth": "2088-12-03"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n69055-tmF7uIwloFHc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 69055
+      }
+    },
+    {
+      "id": "nobuchika-ginoza",
+      "name": "Nobuchika Ginoza",
+      "alt_names": [
+        "宜野座伸元",
+        "Gino"
+      ],
+      "role": "supporting",
+      "description": "A veteran Inspector working with Akane. He coordinates all the Enforcers in Unit 1. An old friend of Shinya's, his hatred for those with high Crime Coefficients and his zeal to oust them from society came from the inability to stop his former partner from becoming a latent criminal. Although he still has a certain degree of trust with Shinya, he holds a dislike for Shinya's Enforcer partner, Masaoka, for unknown reasons. Ginoza constantly tells Akane to draw a line between herself and the Enforcers she works with.   \n\n~!He is the son of Masaoka Tomomi. After the Makishima incident, his Psycho-Pass reaches 140 and he becomes an Enforcer just like his father.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b69057-491sAhqnEsFZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 69057
+      }
+    },
+    {
+      "id": "yayoi-kunizuka",
+      "name": "Yayoi Kunizuka",
+      "alt_names": [
+        "六合塚弥生"
+      ],
+      "role": "supporting",
+      "description": "The only female Enforcer of Unit One. She stays calm and collected in the face of even the most brutal crimes. She and Shion are lovers.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b69059-yq881p8XWys6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 69059
+      }
+    },
+    {
+      "id": "tomomi-masaoka",
+      "name": "Tomomi Masaoka",
+      "alt_names": [
+        "征陸智己"
+      ],
+      "role": "supporting",
+      "description": "He is an enforcer under Ginoza Nobuchika and Tsunemori Akane.   ~!It is later revealed that he is the latent criminal father of Ginoza. Given a Dominator and being told by Sibyl who to shoot, he lost faith in his role as a detective, and his Psycho-pass grew increasingly cloudier until he was eventually detained as a latent criminal, before becoming an Enforcer. That made him hated by his son.  Later on in the series, when he's trying to throw away the bomb that was thrown to Ginoza by Makishima, he died because the bomb exploded in his hands.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n69061-qPWM72rly4m4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 69061
+      }
+    },
+    {
+      "id": "shion-karanomori",
+      "name": "Shion Karanomori",
+      "alt_names": [
+        "唐之杜志恩"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 168 cm (5'6\")\n\nAn analyst in the Public Safety Bureau's General Analysis Division and a latent criminal as well. She provides backup to the Enforcers and Inspectors in their investigation by analyzing the data and evidence sent by them.   She is in a relationship with Yayoi Kunizuka who is one of the enforcers of Unit 1.  (Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": "2085-05-25"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b69063-NzXNgrLJgiwr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 69063
+      }
+    },
+    {
+      "id": "yuki-funahara",
+      "name": "Yuki Funahara",
+      "alt_names": [
+        "船原ゆき"
+      ],
+      "role": "supporting",
+      "description": "Tsunemori Akane's friend.   ~!She later dies at the hands of Makishima.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/73341.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73341
+      }
+    },
+    {
+      "id": "kaori-minase",
+      "name": "Kaori Minase",
+      "alt_names": [
+        "水無瀬佳織"
+      ],
+      "role": "supporting",
+      "description": "Akane's friend. She works as a system engineer.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n73343-KM27BAwlDatI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73343
+      }
+    },
+    {
+      "id": "gu-seong-choi",
+      "name": "Gu-Seong Choi",
+      "alt_names": [
+        "チェ・グソン",
+        "최구성"
+      ],
+      "role": "supporting",
+      "description": "Works for Makishima Shougo, and is also his right hand man. He is an expert hacker, as he is able to breach through the security system of Sibyl's core and even witness its true form. He is Korean.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/73345.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73345
+      }
+    },
+    {
+      "id": "masatake-midou",
+      "name": "Masatake Midou",
+      "alt_names": [
+        "御堂将剛"
+      ],
+      "role": "supporting",
+      "description": "~!To take over their avatars, he killed Sugawara Shouko, Tokitou Yuuichi, and Hayama Kimihiko.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n73347-YyVGUK40UfFa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73347
+      }
+    },
+    {
+      "id": "shouko-sugawara",
+      "name": "Shouko Sugawara",
+      "alt_names": [
+        "菅原昭子",
+        "Spooky Boogie"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/73349.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73349
+      }
+    },
+    {
+      "id": "nobuo-ookura",
+      "name": "Nobuo Ookura",
+      "alt_names": [
+        "大倉信夫"
+      ],
+      "role": "supporting",
+      "description": "The first latent criminal to be shown.",
+      "metadata": {
+        "age": "39",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/73351.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73351
+      }
+    },
+    {
+      "id": "chika-shimazu",
+      "name": "Chika Shimazu",
+      "alt_names": [
+        "島津千香"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b73353-OfnHSKNqzejW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73353
+      }
+    },
+    {
+      "id": "yuuji-kanehara",
+      "name": "Yuuji Kanehara",
+      "alt_names": [
+        "金原祐治"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/73355.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73355
+      }
+    },
+    {
+      "id": "kuraudo-gouda",
+      "name": "Kuraudo Gouda",
+      "alt_names": [
+        "郷田蔵人"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b73357-PuuHojQN0Oq6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73357
+      }
+    },
+    {
+      "id": "kimihiko-hayama",
+      "name": "Kimihiko Hayama",
+      "alt_names": [
+        "葉山公彦",
+        "Talisman"
+      ],
+      "role": "supporting",
+      "description": "He is single and unemployed.",
+      "metadata": {
+        "age": "32",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/73727.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73727
+      }
+    },
+    {
+      "id": "yuuichi-tokitou",
+      "name": "Yuuichi Tokitou",
+      "alt_names": [
+        "時任雄一",
+        "Melancholia"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/73729.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73729
+      }
+    },
+    {
+      "id": "rikako-ouryou",
+      "name": "Rikako Ouryou",
+      "alt_names": [
+        "王陵璃華子"
+      ],
+      "role": "supporting",
+      "description": "She was introduced in episode 6 as a pretty, intelligent, and highly admired student of Oso Girl's Academy who is the head of the school's art club. Her talent for painting is impeccable.    ~!However, behind her sweet facade is a psychopath whose obsession is killing her fellow schoolmates and using their bodies to construct grotesque works of art and have them displayed in the middle of the city underneath a Holographic Illumination. It is unclear as to what is her relationship with Makishima is, but it is hinted that he is helping her carry out her psychopathic obsession. !~ Her father is confined in a hospital in a vegetative state.   (Source: Otaku-streamers forum)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/74005.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74005
+      }
+    },
+    {
+      "id": "yoshika-ookubo",
+      "name": "Yoshika Ookubo",
+      "alt_names": [
+        "大久保葦歌"
+      ],
+      "role": "supporting",
+      "description": "A student from Oso Girl's Academy  ~!who has become one of Makishima and Oryo Rikako's victim.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b74007-lOwfQbAw6sWk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74007
+      }
+    },
+    {
+      "id": "kagami-kawarazaki",
+      "name": "Kagami Kawarazaki",
+      "alt_names": [
+        "川原崎加賀美"
+      ],
+      "role": "supporting",
+      "description": "One of Ouryou Rikako's victims.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/74009.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74009
+      }
+    },
+    {
+      "id": "mika-shimotsuki",
+      "name": "Mika Shimotsuki",
+      "alt_names": [
+        "霜月美佳"
+      ],
+      "role": "supporting",
+      "description": "She is a student of Oso Girl's Academy who seems to be aware of what's going on around campus. She is Kagami's friend and classmate.\n~!She becomes an inspector, working with Akane Tsunemori as the new junior inspector, with a first day on the job mirroring Tsunemori's own first day.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b74011-YFYdac7ItI1t.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74011
+      }
+    },
+    {
+      "id": "toyohisa-senguuji",
+      "name": "Toyohisa Senguuji",
+      "alt_names": [
+        "泉宮寺豊久"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "110",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/74405.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74405
+      }
+    },
+    {
+      "id": "satsuki-kuzuhara",
+      "name": "Satsuki Kuzuhara",
+      "alt_names": [
+        "葛原皐月"
+      ],
+      "role": "supporting",
+      "description": "One of Ouryou Rikako's victims.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/74425.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74425
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T17:56:17.228Z"
+}

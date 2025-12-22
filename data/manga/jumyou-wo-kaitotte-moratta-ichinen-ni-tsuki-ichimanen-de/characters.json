@@ -1,0 +1,76 @@
+{
+  "work_id": "jumyou-wo-kaitotte-moratta-ichinen-ni-tsuki-ichimanen-de",
+  "count": 3,
+  "characters": [
+    {
+      "id": "kusunoki",
+      "name": "Kusunoki",
+      "alt_names": [
+        "クスノキ"
+      ],
+      "role": "protagonist",
+      "description": "He is a twenty-something man with nothing much left and he can barely pay for his rent or food.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132152-N6INNYIk0Tb6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132152
+      }
+    },
+    {
+      "id": "miyagi",
+      "name": "Miyagi",
+      "alt_names": [
+        "ミヤギ"
+      ],
+      "role": "protagonist",
+      "description": "Miyagi is a store clerk at a special store. She's the observer of [Kusunoki](https://anilist.co/character/132152/Kusunoki).\n\n~!In the end, Miyagi sells her remaining lifespan so she and Kusunoki can have 3 days of life left. This releases her of her observer duty, making her visible to everyone.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132151-UThU5WPrYstE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132151
+      }
+    },
+    {
+      "id": "himeno",
+      "name": "Himeno",
+      "alt_names": [
+        "ヒメノ"
+      ],
+      "role": "supporting",
+      "description": "She is [Kusunoki](https://anilist.co/character/132152/Kusunoki)'s only childhood friend.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145032-JQ0pM62wJ3pK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145032
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T19:36:48.436Z"
+}

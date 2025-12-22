@@ -1,0 +1,507 @@
+{
+  "work_id": "uzumaki-spiral-into-horror",
+  "count": 22,
+  "characters": [
+    {
+      "id": "kirie-goshima",
+      "name": "Kirie Goshima",
+      "alt_names": [
+        "五島桐絵"
+      ],
+      "role": "protagonist",
+      "description": "Kirie Goshima, a schoolgirl in the town of Kurouzucho, becomes concerned with her boyfriend Shuichi Saito’s father who has become obsessed with collecting and staring at spiral patterns to the ignorance of all else. After Shuichi’s father kills himself inside a washing machine, his cremated remains hang over the town in a giant cloud. The obsessive behaviour starts to spread to Kirie’s father and others, while all around the town people start bodily mutating into spiral creatures.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/6540.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6540
+      }
+    },
+    {
+      "id": "shuuichi-saitou",
+      "name": "Shuuichi Saitou",
+      "alt_names": [
+        "斎藤秀一"
+      ],
+      "role": "protagonist",
+      "description": "Shuichi is Kirie's boyfriend. He is the only one who feels and understands the fact that the town is cursed by the spiral.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8459-y456x3P6mrwY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8459
+      }
+    },
+    {
+      "id": "mitsuru-yamaguchi",
+      "name": "Mitsuru Yamaguchi",
+      "alt_names": [
+        "山口満",
+        "Jack-in-the-Box"
+      ],
+      "role": "supporting",
+      "description": "A seventh grader who was in same school as [Kirie Goshima](https://anilist.co/character/6540/Kirie-Goshima) who loved to jump out and surprise people. He also had a crush on her.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13864-REJCORGEmIXo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 13864
+      }
+    },
+    {
+      "id": "azami-kurotani",
+      "name": "Azami Kurotani",
+      "alt_names": [
+        "黒谷あざみ"
+      ],
+      "role": "supporting",
+      "description": "Azami Kurotami is a high school student from Midoriyama-Shi who goes to the same school as Kirie in Kurôzu-Cho.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131720-TDRE8X8Mma6O.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131720
+      }
+    },
+    {
+      "id": "toshio-saitou",
+      "name": "Toshio Saitou",
+      "alt_names": [
+        "斎藤敏夫"
+      ],
+      "role": "supporting",
+      "description": "Shuichi's father. One day he stopped going to work to study \"the art of the spiral\", creating an abnormal obsession with that shape.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181025-ZBxqzujrTNgu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181025
+      }
+    },
+    {
+      "id": "yukie-saitou",
+      "name": "Yukie Saitou",
+      "alt_names": [
+        "斎藤雪枝"
+      ],
+      "role": "supporting",
+      "description": "Shuichi's mom. After her husband developed an obsession with spirals, she developed an uncontrollable fear for that shape.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181029-klGxqxSykNch.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181029
+      }
+    },
+    {
+      "id": "yasuo-goshima",
+      "name": "Yasuo Goshima",
+      "alt_names": [
+        "五島康夫"
+      ],
+      "role": "supporting",
+      "description": "The father of Kirie Goshima and Mitsuo Goshima who is a potter situated next to Dragonfly Pond.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181026-48BNkIgrn0qK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181026
+      }
+    },
+    {
+      "id": "chizuko-goshima",
+      "name": "Chizuko Goshima",
+      "alt_names": [
+        "五島ちずこ",
+        "Mother Goshima"
+      ],
+      "role": "supporting",
+      "description": "The mother of Kirie and Mitsuo Goshima and the wife of Yasuo Goshima.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181034-Zr2VZGq6UXNW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181034
+      }
+    },
+    {
+      "id": "mitsuo-goshima",
+      "name": "Mitsuo Goshima",
+      "alt_names": [
+        "五島光男"
+      ],
+      "role": "supporting",
+      "description": "Kirie's younger brother.\n\n~!Later on, he turns into a snail!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181037-UJdThDdRlVFU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181037
+      }
+    },
+    {
+      "id": "kyoko-sekino",
+      "name": "Kyoko Sekino",
+      "alt_names": [
+        "関野京子"
+      ],
+      "role": "supporting",
+      "description": "One of Kirie Goshima's school friends.\n~! After Kirie's hair was affected by the spiral in 'Medusa', Kyoko becomes obsessively jealous from all the attention Kirie was getting, leading to Kyoko to spiral her own hair. !~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181042-tMpmFkKKyros.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181042
+      }
+    },
+    {
+      "id": "okada",
+      "name": "Okada",
+      "alt_names": [
+        "岡田"
+      ],
+      "role": "supporting",
+      "description": "Develops a crush on Azami Kurotani because he is drawn in her scar in \"The Scar\".\n~! Later in the same chapter, he is interested in Azami's growing spiral, touches it and is consumed by it. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181038-6o5RHmuxdHCS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181038
+      }
+    },
+    {
+      "id": "tokuo-katayama",
+      "name": "Tokuo Katayama",
+      "alt_names": [
+        "片山徳夫",
+        "The Snail"
+      ],
+      "role": "supporting",
+      "description": "One of Kirie's classmates. Only comes to school when it's raining.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181041-Ny9vBok6sOCq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181041
+      }
+    },
+    {
+      "id": "kazuki-tsumura",
+      "name": "Kazuki Tsumura",
+      "alt_names": [
+        "津村一樹"
+      ],
+      "role": "supporting",
+      "description": "Kirie's classmate and bully to Katayama.\n~! Although he is later afflicted with same snail transformation as Katayama and mates with him. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181039-jXqE9ThX6RFA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181039
+      }
+    },
+    {
+      "id": "shiho-ishikawa",
+      "name": "Shiho Ishikawa",
+      "alt_names": [
+        "石川志保"
+      ],
+      "role": "supporting",
+      "description": "Kirie's classmate.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181040-D4tPRJ7IIalw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181040
+      }
+    },
+    {
+      "id": "ikuo-yokota",
+      "name": "Ikuo Yokota",
+      "alt_names": [
+        "横田育生"
+      ],
+      "role": "supporting",
+      "description": "Kirie and Shuichi's school teacher.\n~! Afflicted with the same snail transformation as Katayama and Tsumura !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181033-cRdsPvOhfgqr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181033
+      }
+    },
+    {
+      "id": "kazunori-nishiki",
+      "name": "Kazunori Nishiki",
+      "alt_names": [
+        "錦和則"
+      ],
+      "role": "supporting",
+      "description": "Kirie's childhood classmate. Had fallen in love with Yoriko Endo.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181036-orkxPoTqw8a8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181036
+      }
+    },
+    {
+      "id": "yoriko-endou",
+      "name": "Yoriko Endou",
+      "alt_names": [
+        "遠藤頼子"
+      ],
+      "role": "supporting",
+      "description": "Kazunori Nishiki's lover.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181030-BqHuPT6yNTQO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181030
+      }
+    },
+    {
+      "id": "wakabayashi",
+      "name": "Wakabayashi",
+      "alt_names": [
+        "若林"
+      ],
+      "role": "supporting",
+      "description": "Neighbors with the Goshima's when they moved into the row house. Had an infatuation to Kirie.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181031-gvCfS8wSng5m.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181031
+      }
+    },
+    {
+      "id": "keiko-nakayama",
+      "name": "Keiko Nakayama",
+      "alt_names": [
+        "中山恵子"
+      ],
+      "role": "supporting",
+      "description": "Kirie's pregnant cousin.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181027-3acBav1XJAwF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181027
+      }
+    },
+    {
+      "id": "dr-kawamoto",
+      "name": "Dr. Kawamoto",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "A doctor that delivers (and un-delivers) babies.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181032-tMcRVPHAEI68.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181032
+      }
+    },
+    {
+      "id": "chie-maruyama",
+      "name": "Chie Maruyama",
+      "alt_names": [
+        "丸山知恵"
+      ],
+      "role": "supporting",
+      "description": "A news reporter from Toyo TV.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181035-hbQBz96wuJbC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181035
+      }
+    },
+    {
+      "id": "mr-torino",
+      "name": "Mr. Torino",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "An astronomer and a close friend of Mr. Yokota.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181028-SUwqeR8wGlM5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181028
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T19:35:58.156Z"
+}

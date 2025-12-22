@@ -1,0 +1,466 @@
+{
+  "work_id": "no-game-no-life",
+  "count": 19,
+  "characters": [
+    {
+      "id": "sora",
+      "name": "Sora",
+      "alt_names": [
+        "空"
+      ],
+      "role": "protagonist",
+      "description": "__Race:__ Human\n\nAbandoned by his parents, Sora is a brilliant NEET (Not in Education, Employment, or Training) hikikomori (shut-in) gamer along with his stepsister, Shiro. He does not take life very seriously and is pretty much a good-for-nothing gamer. One day, he and his sister are called into an alternate world and they have to become Saviors of Humanity! \n\nDespite being a NEET and a shut-in, Sora is extremely outgoing and confident, and is not afraid to play games with people face to face, even when they're cheating. He is also extremely manipulative - which he refers to as using negotiating skills. This fits in with his play style as while Shiro is excellent at logic and computing, Sora can read people and predict what their next move is, using this knowledge to beat them. \n\nHowever, if he is separated from Shiro by so much as a closed door he becomes a spineless, cowardly wreck, and only returns to his former self if he is able to see her. He views his sister as his equal and partner, but is also protective of her, shown by actions such as putting his body between her and the ground when he thought they were going to hit hard when first arriving on Disboard.\n\nSora is extroverted and has no problems dealing with people. While not as intelligent as Shiro, he is shown to have a brilliant IQ. Rather than computing numbers like Shiro, Sora can rapidly compute what his opponents are going to do based on observing their behavior and motivations.\n\nSora is also slightly perverted and desires a girlfriend for himself. His lust lead to a linguistic mistake that causes Stephanie to fall in love with him and causes him to receive a scolding from Shiro.\n\n(Source: No Game No Life Wikia)",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82523
+      }
+    },
+    {
+      "id": "shiro",
+      "name": "Shiro",
+      "alt_names": [
+        "白"
+      ],
+      "role": "protagonist",
+      "description": "Shiro is the main female protagonist. She's a genius NEET (Not in Education, Employment, or Training) hikikomori (shut-in) gamer along with her step-brother, Sora and together they formed 『　　』. Between both siblings she is the calm and collective half which makes her the brain of the group.",
+      "metadata": {
+        "gender": "female",
+        "age": "11",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82525
+      }
+    },
+    {
+      "id": "stephanie-dola",
+      "name": "Stephanie Dola",
+      "alt_names": [
+        "ステファニー・ドーラ",
+        "Steph"
+      ],
+      "role": "protagonist",
+      "description": "__Race:__ Imanity\n\nStephanie is expressive and emotional, to the point where she cannot hide her emotions during a poker game. She loved her grandfather dearly and is angered when people call her grandfather a fool. She fell in love with Sora due to the pledges forcing her to, and she often has violent outbursts to try to break free of it. She loves her kingdom and the world and believes in the potential of Imanity.",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82527
+      }
+    },
+    {
+      "id": "jibril",
+      "name": "Jibril",
+      "alt_names": [
+        "ジブリール"
+      ],
+      "role": "protagonist",
+      "description": "__Race:__ Flügel\n\nJibril is the youngest and strongest of the Flügel race. Her love toward knowledge starts even before the declaration of the Ten Oaths. She is against the book sharing law, and left her homeland to win the main library of the human world from the previous king in a game.\n ~!Unlike Steph, Jibril is happy to become the siblings underling, and is shown growing feelings toward Sora.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "6407",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87887
+      }
+    },
+    {
+      "id": "chlammy-zell",
+      "name": "Chlammy Zell",
+      "alt_names": [
+        "クラミー・ツェル",
+        "Kurami"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 158cm\n\nA human who allied with several different races in order to win the king's contest, due to her belief that humans will never be strong and must depend on others in order to survive.",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88001-wAbdFA9xAh7j.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88001
+      }
+    },
+    {
+      "id": "fiel-nilvalen",
+      "name": "Fiel Nilvalen",
+      "alt_names": [
+        "フィール・ニルヴァレン",
+        "Feel Nilvalen",
+        "Nirvalen"
+      ],
+      "role": "supporting",
+      "description": "__Race__: Elf\n\nFiel Nilvalen who usually has her name shortened to Fii, is an Elf girl who is [Chlammy Zell](https://anilist.co/character/88001/Chlammy-Zell)'s game partner, as well as the one who helps her cheat using her elven magic. She is very protective of Chlammy and would go to great lengths to keep her safe. She is a hexa-caster (able to cast and maintain up to six spells at once), a very rare capability that only an extraordinary few possess. She is part of the Nilvalen family which may be a factor of her strong magic as a result of being a descendant of [Shinku Nilvalen](https://anilist.co/character/123694/Shinku--Nilvalen).",
+      "metadata": {
+        "gender": "female",
+        "age": "52",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88002-1MorDMgxtLMm.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88002
+      }
+    },
+    {
+      "id": "izuna-hatsuse",
+      "name": "Izuna Hatsuse",
+      "alt_names": [
+        "初瀬いづな"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Werebeast\n\nIzuna Hatsuse is a Werebeast girl and the former ambassador of the Werebeast race to Immanity. After Sora and Shiro forced the werebeasts to join the Commonwealth of Elkia, Izuna was directed by Miko to follow and learn from them. Steph has noted that she actually shares similarities to Sora and Shiro, such as lacking common sense, being arrogant towards others, and being extremely smart and competent at gaming. She mostly exhibits an innocent personality pertaining to her age yet is very competent at playing games to the point of representing the Werebeasts in national games against other races. She possesses all the incredible physical abilities found in all Werebeasts as well as the rare Blood Break found in a select few Werebeast individuals.",
+      "metadata": {
+        "gender": "female",
+        "age": "8",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88003
+      }
+    },
+    {
+      "id": "tet",
+      "name": "Tet",
+      "alt_names": [
+        "テト"
+      ],
+      "role": "supporting",
+      "description": "__Race__: None (Formerly: Old Deus)\n\nTet is the One True God of Disboard.\nTet does not belong to any of the 16 races, although the closest affiliation to him would be Immanity.\nTo challenge Tet for the title of the One True God, one must collect all pieces of different chess from 16 races. This means that, under the tenth rule of the Ten Covenants, one must defeat or unite all 16 races before being able to play against him.\n\n~!He was born from [Riku](https://anilist.co/character/123691/Riku-Dola)'s wish and the overwhelming presence of incredible magic energy. Claiming the Suniaster and becoming the One True God, Tet immediately used his absolute power to repair the damage done to the planet and set forth the Ten Covenants, thus ending the Great War.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "6000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88004-lA45OjvaT5He.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88004
+      }
+    },
+    {
+      "id": "mahakoht-dola",
+      "name": "Mahakoht Dola",
+      "alt_names": [
+        "マハコート・ドーラ",
+        "Zenkokuo",
+        "Former King of Imanity",
+        "Foolish King",
+        "Makoto Dola"
+      ],
+      "role": "supporting",
+      "description": "The previous ruler of Imanity, as well as Steph's grandfather. His reign led to many losses for Imanity, thus many people call him a, \"Foolish King.\" \n\nHe is terrible at games, being unable to win a majority. However, he is able to give Imanity a chance by finding out opponent's secrets. When he was near the end of his life, he entrusted Steph with, \"The Key to Imanity's Hope;\" which is to be given to someone who is capable of saving Imanity.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88267-kVzgU6CELd58.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88267
+      }
+    },
+    {
+      "id": "queen",
+      "name": "Queen",
+      "alt_names": [
+        "クイーン"
+      ],
+      "role": "supporting",
+      "description": "Queen is the in-game name of a character, who was not mentioned in the original light novel, who is said to be the strongest member of 『Night Opera』, a guild of 1,200 players. She appears in the first episode of the anime. She finds 『　　』 to be cool and smart since they were able to dodge her attacks despite her using dishonest means (cheating) to cast consecutive spells.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b134187-DAcVgXbru47p.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134187
+      }
+    },
+    {
+      "id": "miko",
+      "name": "Miko",
+      "alt_names": [
+        "巫女",
+        "Shrine Priestess",
+        "Holy Shrine Maiden"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Werebeast\n\nMiko is the representative of the Werebeasts and rules over the Eastern Union. She lost her real name during the formation of the country when placing it as a wager. She looked down on Immanity at first, but after forming a truce with Sora and joining the Commonwealth of Elkia, she starts to have faith in the siblings who represent Immanity. She contains the rare Werebeast ability, Blood Break. Also, being a Blood Break capable individual, she ages very slowly.\nSora had hypothesized Miko's age to be at least 58 years old, but her true age remains unknown. Despite her true age, Miko holds the appearance of a woman in her 20's.\n\n~!Miko had to spend at least 50 years to unite the various Werebeast tribes into what is currently the Eastern Union, in which she lost her original name in a bet and gained her title as she contacted a certain Old Deus.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "50+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137440-DgBRYiOtFzUk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137440
+      }
+    },
+    {
+      "id": "ino-hatsuse",
+      "name": "Ino Hatsuse",
+      "alt_names": [
+        "初瀬いの"
+      ],
+      "role": "supporting",
+      "description": "A werebeast and Izuna's grandpa. He is protective of Izuna and dislikes it when she is close to Sora and Shiro. According to Miko, Hatsuse has thirty wives, much to Sora's chagrin. \n\nHatsuse acts in a formal manner, being friendly around guests and officials. However, if he's around rude or condescending people, he will usually reciproctate their attitudes back. Hatsuse also is very perverted, telling many dirty jokes while not on a job. He was also banished from his tribe due to having experiences with every woman in his tribe. As he has 30 wives, he wishes for polygamy to be legal in the Eastern Union; which is one reason why he works under Miko.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139371-lRwPC5Bmbhy5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139371
+      }
+    },
+    {
+      "id": "koukan",
+      "name": "Koukan",
+      "alt_names": [
+        "高官",
+        "Judge",
+        "High Official"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175514-ZrcJ1cNLDFcO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175514
+      }
+    },
+    {
+      "id": "senshi",
+      "name": "Senshi",
+      "alt_names": [
+        "戦士",
+        "Warrior"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175515-1jdEVOKdqv7V.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175515
+      }
+    },
+    {
+      "id": "touzoku",
+      "name": "Touzoku",
+      "alt_names": [
+        "盗賊",
+        "Robber"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175516-DEdc65vHCriS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175516
+      }
+    },
+    {
+      "id": "sakaba-no-onna",
+      "name": "Sakaba no Onna",
+      "alt_names": [
+        "酒場の女"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b329566-dglcs4vfQrNc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 329566
+      }
+    },
+    {
+      "id": "nourin-daijin",
+      "name": "Nourin Daijin",
+      "alt_names": [
+        "農林大臣",
+        "Minister of Agriculture"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b329567-XQeH6B9k1KRc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 329567
+      }
+    },
+    {
+      "id": "keizai-daijin",
+      "name": "Keizai Daijin",
+      "alt_names": [
+        "経済大臣",
+        "Minister of Economy"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b329568-cMMpD9rgLQEK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 329568
+      }
+    },
+    {
+      "id": "azriel",
+      "name": "Azriel",
+      "alt_names": [
+        "アズリール"
+      ],
+      "role": "minor",
+      "description": "The first Flügel created by Artosh and Representative of the Council of Eighteen Wings. As such, her title allows her to have first say in emergencies. She calls Jibril her \"little sister\".\n\nDuring the war, she conveyed Artosh's will among other Flügel. After the war, she passed the law in which Flügel shared books among each other.\n\nAzriel has a somewhat split personality, being peppy and bubbly to a cold, relentless state. Prior to Jibril's creation, Azriel was merciless and considered other Flügel expendable; afterwards, however, she turned into a sister figure when Jibril came to be. Even so, she continues to have a condescending attitude towards lower exceed races. She is extremely powerful as the first Flügel to be created, being able to pull off many feats. This is further enhanced by her mental connection with Avant Heim, while also being its representative. Even with her strength, Jibril considers Azriel to be rather stupid compared to other Flügel. Despite this, Azriel is clever when it comes to mind games and deception. What she lacks is an understanding of learning, trying, and failing; preventing her from learning from her mistakes.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126084-Xjyb5LtpdCzT.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126084
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:27:04.837Z"
+}

@@ -1,0 +1,593 @@
+{
+  "work_id": "berserk",
+  "count": 25,
+  "characters": [
+    {
+      "id": "guts",
+      "name": "Guts",
+      "alt_names": [
+        "ガッツ",
+        "The Black Swordsman",
+        "Hundred Man Slayer",
+        "Heartless Swordsman",
+        "Struggler",
+        "Kuroi Kenshi"
+      ],
+      "role": "protagonist",
+      "description": "Guts is the protagonist of Berserk. He is a tall, muscular man that swings a huge sword called the Dragon Slayer, he has a prosthetic left forearm that has a magnetic grip that also conceals a cannon. Renowned as the \"Black Swordsman\", he is a former mercenary and branded wanderer who travels the world in a constant internal struggle between pursuing his own ends and protecting those dear to him.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 422
+      }
+    },
+    {
+      "id": "casca",
+      "name": "Casca",
+      "alt_names": [
+        "キャスカ",
+        "Elaine",
+        "Black Witch",
+        "Thousand Soldiers' Commander"
+      ],
+      "role": "protagonist",
+      "description": "Casca was the only female soldier in the original Band of the Hawk and is behind only to Guts and Griffith in swordsmanship. Her ambivalent relationship to both of them makes her moody and capricious. Casca joins the Band of the Hawk after Griffith saves her from a sexual assault by a nobleman. \n\n~!After Griffith is imprisoned, she becomes the leader of the Band of the Hawk and, along with Guts, leads the mission to rescue Griffith.!~\n\n~!Upon arriving in Elfheim, Schierke and Farnese take it upon themselves to dive into Casca's mind and restore her mental state. They manage to get the old Casca back but at a price of her still not being able to see Guts, without reliving the Eclipse!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b423-AmVFCaJJOBsc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 423
+      }
+    },
+    {
+      "id": "griffith",
+      "name": "Griffith",
+      "alt_names": [
+        "グリフィス",
+        "The White Hawk",
+        "The Hawk of Light",
+        "Falcon of Darkness",
+        "The Absolute"
+      ],
+      "role": "protagonist",
+      "description": "Griffith was the founder and leader of the mercenary unit known as the Band of the Hawk, named for his helmet which was forged in the shape of a Hawk's head. \n\nExtraordinarily charismatic, intelligent, and handsome, his skill with his sabre and tactics gives him and his band the reputation of invincibility, making him the favored choice of the Midland King, who was locked in a century long war with the Empire of Chuder. Believing that he is destined for greater things than the average man, Griffith is willing to sacrifice everything for the dream of his own kingdom and only values others so far as they are useful to him. The one exception seems to be Guts and Casca, both of whom he confides to in private moments. The source of his ambition is a Behelit given to him by a fortune teller she claimed was \"The Egg of the King,\" which could lead an average person to becoming King himself. \n\n~! Griffith eventually used the Behelit during the Eclipse, and sacrificed nearly the entire Band of the Hawk to become Femto, the fifth member of the God Hand !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b424-Jfrsf8I7zBps.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 424
+      }
+    },
+    {
+      "id": "serpico",
+      "name": "Serpico",
+      "alt_names": [
+        "セルピコ"
+      ],
+      "role": "protagonist",
+      "description": "Serpico is Farnese's companion and unbeknownst to her, her paternal half-brother. During his time with the Holy See, Serpico was Herald for the Holy Iron Chain Knights.   When aggressive, Serpico belies his meek appearance and is comparable to a fox due to his shrewd observation and speed with a rapier.   Despite Farnese's childhood abuse and her forcing him to burn his own mother at the stake, he cares deeply for his half-sister. Serpico was her servant since she found him beaten on a snowy street over a decade ago.   Serpico's relationship with Guts has forever been plagued with animosity, due in large part to the dangers that inevitably surround Guts and anyone he takes into his Band. After a duel with Guts in the underground pillars of Vritannis, Guts spared his life. Their bond rekindled, and Serpico has since learned to trust Guts to protect Farnese when he can not.   Serpico uses two items blessed by the wind spirit Sylph in order to battle with tolerance alongside Guts: a rapier that can generate razor sharp gusts of wind; and a cloak that constantly generates a swirling vortex around its wearer which can deflect projectiles, assist in jumping, and slow falls from great heights.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5059-wWVkoasyfJNk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5059
+      }
+    },
+    {
+      "id": "puck",
+      "name": "Puck",
+      "alt_names": [
+        "パック ",
+        "Justin Bailey",
+        "Opop Daundaun Lefryte"
+      ],
+      "role": "protagonist",
+      "description": "A wind spirit from Elfhelm, a utopia on the island Skellig in the Western Sea. Elves in Berserk can only be seen by the open-minded; the devoutly religious cannot see Puck at all, though he can play with their face unbeknownst to them. Puck can secrete a powder from his wings to quickly heal wounds and can emit a bright flash to blind enemies. On occasion, he also resorts to his \"Bloody Needle\" attack, tossing a spiny object resembling a seed pod at someone. It deals no injury, but is painful enough to prompt most victims to cry out. Puck was the first to join Guts's journey, and is starting to show a strange attachment to the Behelit Guts took upon his battle with the Count.  Puck often serves as comic relief along with Isidro. The two are frequently drawn in an exaggerated manner. He is very angry when he ever is mixed up with a Pixie or Fairy quick to state the difference. He also seems to have a brother-sister relationship with the newest comic relief character the female elf Evarella.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5060-PWn2hc2nBy9J.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5060
+      }
+    },
+    {
+      "id": "farnese-de-vandimion",
+      "name": "Farnese de Vandimion",
+      "alt_names": [
+        "ファルネーゼ・ド・ヴァンディミオン",
+        "The Devil Child of Vandimion",
+        "Wandering Princess",
+        "Farny"
+      ],
+      "role": "protagonist",
+      "description": "Farnese is a noblewoman who led the Holy See's ceremonial guard, the Holy Iron Chain Knights. Since this position has been traditionally held by a woman, Farnese was appointed during her stay at the convent she was sent to by her father, Federico Vandimion.   A bit of a pyromaniac (and possibly a pyrophiliac), Farnese's habit of maniacally burning things she didn't like, along with her lack of empathy due to her poor upbringing provoked her to hunt down and burn supposed witches and pagans at the stake. This fueled a secret sadistic pleasure that she constantly tried to deny.   She and Serpico left their Holy See positions after her faith was shattered during the devastation of Albion and the events surrounding Griffith's reincarnation. She then chose to follow Guts in hopes of learning more about the world and has changed into a more sympathetic human being. Since then, Farnese has begun to study witchcraft under Schierke's tutelage. Farnese also seems to have developed a crush on Guts which becomes evident in chapter 287 and 288 of the manga.  Farnese is primarily Casca's care taker and thus rarely involves herself in battles. She and Casca both received enchanted chainmail shirts made of silver as well as a silver short sword for protection against creatures from the astral plane. During Ganishka's raid on Vritanis, she also received a trio of snake-like homonculi created by Schierke from thorn vines which Farnese remote controls with a vine ring.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7857-W7WpcGlw2aeH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7857
+      }
+    },
+    {
+      "id": "isidro",
+      "name": "Isidro",
+      "alt_names": [
+        "イシドロ"
+      ],
+      "role": "protagonist",
+      "description": "A runaway brat turned thief, Isidro dreams of becoming a great swordsman, which made him tag along with Guts. Despite his lack of strength and skill, he utilizes his small size and agility to his advantage, along with various tricks and tools. He has a great ego and plans to become the very best; he initially planned to \"observe\" Guts and steal his \"techniques\" to surpass him. But he slowly starts to realize the inconceivable difference in strength between him and Guts, but that there may even be ways for him to become a formidable warrior...  His most important role however, is probably to serve as a comic relief along with Puck.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7859-ThWoSQUjRlKU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7859
+      }
+    },
+    {
+      "id": "schierke",
+      "name": "Schierke",
+      "alt_names": [
+        "シールケ"
+      ],
+      "role": "protagonist",
+      "description": "Schierke is a young witch-in-training, a disciple of the witch Flora. She is accompanied by an elf, Evarella. She aided Guts's group with a troll infestation in the nearby village Enoch, where she showed how powerful magic can be in Berserk.   After a series of events, Schierke was forced to leave her home and Flora behind forever when they faced an attack Griffith ordered. Schierke, having lived a sheltered life, doesn't like the Human world or the Holy See's religion, but she finds life outside bearable due to her companions.   Her magic skills and knowledge of the world are impressive for a child her age. One of her most used and handiest spells is the ability to hypnotize or temporarily desensitize others. But due to her youth, she tends to exhibit dangerous overzealousness. Her ability to sense \"Od\" (life force or spirit energy) means she can sense the power, intent, and alignment of all creatures and artifacts.  As she sees Isidro as an incompetent monkey, there is some friction between the two, which frequently lends itself to comic situations. Though she initially couldn't stand Guts, Schierke has developed a slight infatuation with him and both now share a father-daughter relationship. When Sonia gave her an offer to join the Band of the Hawk, Schierke thought of Guts before declining. Their journey together constantly brings them into even deeper understanding.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7864-GYAwPktajKmt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7864
+      }
+    },
+    {
+      "id": "judeau",
+      "name": "Judeau",
+      "alt_names": [
+        "ジュドー"
+      ],
+      "role": "supporting",
+      "description": "The old Band of the Hawk's friendly mediator. A former circus performer who wielded throwing knives, Judeau was also well-aware of the world around him and was seen as a confidant for many of The Hawks. Throughout his stay with the Band of the Hawk, he was secretly in love with Casca, but never acted on it out of respect for Guts' and Casca's feelings for each other.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b454-zAG2pjevq7OO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 454
+      }
+    },
+    {
+      "id": "pippin",
+      "name": "Pippin",
+      "alt_names": [
+        "ピピン"
+      ],
+      "role": "supporting",
+      "description": "A massive dark-skinned man who wielded an equally massive mace. A former miner, Pippin lent his strength to the old Band of the Hawk. He was often associated with Rickert, who he seemed to share a big-brother relationship with. \n\nBefore joining the band, he seems to have worked in a mine, which is why he was able to divert a sudden fire in a tunnel during Griffith's rescue.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b597-9VvkEo8hmdxg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 597
+      }
+    },
+    {
+      "id": "rickert",
+      "name": "Rickert",
+      "alt_names": [
+        "リッケルト"
+      ],
+      "role": "supporting",
+      "description": "Rickert was the youngest in the Band of the Hawk, being merely a child. \n\n~!Now, he is one of the few surviving members of the original Band of the Hawk. After the Eclipse (which he wasn't present at), he lived with Godo, the smith who created Guts' Dragon Slayer, and became his smith apprentice. After Godo's death he takes care of Erica.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b598-2r2X1nQmr3qP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 598
+      }
+    },
+    {
+      "id": "corkus",
+      "name": "Corkus",
+      "alt_names": [
+        "コルカス"
+      ],
+      "role": "supporting",
+      "description": "A loud-mouthed ex-thief. Corkus was fond of delusions of grandeur and constantly at odds with Guts. He was the leader of his own band of thieves before he joined the old Band of the Hawk. \n\n~!Despite his unappealing nature, he was one of the most loyal members of the Band of the Hawk, staying with them until his death during the Eclipse.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b599-bzDp9ze9vxFb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 599
+      }
+    },
+    {
+      "id": "zodd",
+      "name": "Zodd",
+      "alt_names": [
+        "ゾッド",
+        "Nosferatu Zodd (不死のゾッド)",
+        "Zodd the Immortal"
+      ],
+      "role": "supporting",
+      "description": "Also known as Nosferatu Zodd, or Zodd the Immortal, an apostle who has lived for three centuries fighting countless battles in search of worthy opponents. Zodd has the ability to transform from his human-like form into a more menacing creature, resembling that of a minotaur with the face and tail of a tiger along with a pair of bat-like wings that he can retract and grow at will. Zodd first encountered and defeated Guts and Griffith during a castle raid, ultimately deciding to spare them upon realizing Griffith's crimson behelit and Guts' inevitable fate. Zodd has had a long standing rivalry with Skull Knight, along with Guts as he increasingly became a more capable opponent.   ~!Zodd eventually found the \"Ultimate Strong One\" in Griffith, instantly being defeated by the Hawk of Light within a dream and costing him his left horn. Afterwards, his search for his ultimate opponent was over, he swore his servitude to Griffith in the new Band of the Hawk. He serves the new Band in many of the same roles that Guts served in the old one, including being Griffith's right hand man, most trusted confidant, and strongest warrior. Zodd's ability to fly made possible both Griffith's rescue of Charlotte and Guts' attack on Ganishka at Vritannis. As both a reminder of his defeat and to make the fact he is a replacement of Guts in this new band of Hawk very clear, his left horn has never regrown like Guts' missing right eye. His reason for joining the band of Hawk is much like Guts' also mainly because he was defeated by Griffith.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b600-nLLiWsK0GcVI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 600
+      }
+    },
+    {
+      "id": "gambino",
+      "name": "Gambino",
+      "alt_names": [
+        "ガンビーノ"
+      ],
+      "role": "supporting",
+      "description": "[Guts'](https://anilist.co/character/422/Guts) adoptive father, and leader of a mercenary band. Gambino trained Guts to be a mercenary like himself and even gave Guts his first scar (across his nose) during a practice fight. \n\n~!Gambino sold Guts one night to [Donovan](https://anilist.co/character/132490/Donovan), a fellow soldier, who raped young Guts and whom Guts later brutally kills afterwards. Gambino was later hit by a cannon blast in battle and lost his leg and the ability to fight. This infuriated his anger at Guts even further, as he also blamed the death of his lover, Shizu, on Guts when she adopted him. Gambino became drunk one night and tried to kill Guts in anger. He admits he sold Guts to Donovan for three silver coins right before Guts killed him in self-defence.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b602-lT45wT5DfIPe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 602
+      }
+    },
+    {
+      "id": "void",
+      "name": "Void",
+      "alt_names": [
+        "ボイド"
+      ],
+      "role": "supporting",
+      "description": "A member of the God Hand with a large, exposed brain, eyes stitched shut and lips peeled back. Void is the one who brands the sacrifices made by tortured souls in order for them to become apostles and achieve their dream.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b604-vQdHCxkTarh5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 604
+      }
+    },
+    {
+      "id": "slan",
+      "name": "Slan",
+      "alt_names": [
+        "スラン"
+      ],
+      "role": "supporting",
+      "description": "Slan is the only member of Godhand that isn't repulsive, but her beauty is the only nice thing about her. As Guts is fighting the monsters off she actually laughs at how hard he's trying and that his fight is the ultimate in futility.  She is the first of the Godhand to appear during the eclipse, and takes the form of a giant with black feathered wings.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b605-ZsoC0t5dH12S.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 605
+      }
+    },
+    {
+      "id": "ubik",
+      "name": "Ubik",
+      "alt_names": [
+        "ユービック"
+      ],
+      "role": "supporting",
+      "description": "Ubik's design is directly based upon one of the Hellraiser Cenobite characters. He is also one of the Godhand, and thus extremely mysterious. He has the voice of an old man, and together with Conrad he shows Griffith a glimpse into his past so that he can make the choice to sacrifice the Hawks without question.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b607-ile9k9zakwS1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 607
+      }
+    },
+    {
+      "id": "conrad",
+      "name": "Conrad",
+      "alt_names": [
+        "コンラッド"
+      ],
+      "role": "supporting",
+      "description": "Conrad is the giant worm like member of the Godhand. His first appearence is in the eclipse along with the rest of the Godhand, and he is seen as having eyes that do not open, a mouth that doesn't close and hands that are stuck together.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b608-k3fNvJuP7zA3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 608
+      }
+    },
+    {
+      "id": "gaston",
+      "name": "Gaston",
+      "alt_names": [
+        "ガストン"
+      ],
+      "role": "supporting",
+      "description": "Gaston is the coolest non-commanding soldier in the hawks, and Guts's drinking buddy. He is basically Guts's right hand when it came to the strike team which he led.  ~!Out of all the soldiers who died during the Eclipse he managed to survive the longest, meeting his end just after one last farewell to Guts.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b611-hNgBbImHqXaO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 611
+      }
+    },
+    {
+      "id": "charlotte-beatrix-marie-rhody-windam",
+      "name": "Charlotte Beatrix Marie Rhody Windam",
+      "alt_names": [
+        "シャルロット・ベアトリックス・マリー・ルホディ・ウインダム"
+      ],
+      "role": "supporting",
+      "description": "The princess of Midland, Charlotte fell in love with Griffith almost at first sight. \n\n~!After Guts defeated Griffith in their duel, Griffith slept with Charlotte and was imprisoned and tortured for a year as a result. During that time, Charlotte continued to pine over Griffith and eventually was the one who provided the route for the Hawks to rescue him from prison.!~ \n\n~!Two years after the Eclipse, Midland was conquered by the Kushans and she was taken prisoner by Ganishka with the view of becoming his wife. Even in captivity, she spent all of her time making embroidery portraits of Griffith, dreaming of his return. !~\n\n~!Soon after the events at Albion, Griffith did return for her and used Zodd to fly her and Anna out of captivity. She is currently traveling with the new Band of the Hawk alongside Griffith, to whom she is betrothed. She recently declared The Band of the Hawk to be Midland's Regular Army after their resounding victory against the Kushans in Vritannis. Sonia referred to her as the \"Queen of the Ducks\".!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b614-v4k6ZCzdtIBv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 614
+      }
+    },
+    {
+      "id": "midland-no-ou",
+      "name": "Midland no Ou",
+      "alt_names": [
+        "ミッドランドの王",
+        "King of Midland"
+      ],
+      "role": "supporting",
+      "description": "The King of Midland is the one most responsible for [Griffith](https://anilist.co/character/424)'s ascension to power. He is the ruler of Midland, and father to [Princess Charlotte](https://anilist.co/character/614). During an almost lost battle, the King of Midland's army is saved by the Band of the Hawk. He took an immediate liking to the powerful and brilliant Griffith, and promoted him through the ranks extremely quickly. From making him a noble, to bestowing upon him the title of \"Guardian of Midland,\" the King was always quick to reward him for a job well done. The King's view quickly changes when Griffith seeks out the Princess in one last act of desperation after losing his most treasured prize.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b615-Ds1U3BqPJNEB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 615
+      }
+    },
+    {
+      "id": "godot",
+      "name": "Godot",
+      "alt_names": [
+        "ゴドー"
+      ],
+      "role": "supporting",
+      "description": "The blacksmith who makes and repairs Guts' sword.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6848-dRqp8RccRLZN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6848
+      }
+    },
+    {
+      "id": "evarella",
+      "name": "Evarella",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Schierke's Elf companion, Evarella is quick to join Puck and Isidro's comedy sessions, but also has a great understanding of magic, although it seems to be on the theoretical stage only.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7866-Z7zTpNVdC8DP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7866
+      }
+    },
+    {
+      "id": "grunbeld",
+      "name": "Grunbeld",
+      "alt_names": [
+        "グルンベルド"
+      ],
+      "role": "supporting",
+      "description": "A member of the reformed Band of the Hawk, and an exceedingly strong apostle. He is a giant, red-haired man in scale plate armour that resembles a dragon. Armed with a warhammer and a cannon hidden in his shield, he is renowned as a famous war veteran in the northern part of the continent. He had apparently held ground against a superior, overwhelming force of three thousand from Chudor, lasting for months on end.      ~! He fought Guts at Flora's manor; easily defeating his already weakened body. Later, after Guts' acquisition of the Berserker Armor, he was forced to reveal his true Apostle form.!~    In his apostle form Grunbeld is a quadruped dragon whose outer shell is composed of stylized corundum crystal formations harder than steel and is able to exhale flames from his mouth.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7868-Bhwrgtzbz6gT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7868
+      }
+    },
+    {
+      "id": "locus",
+      "name": "Locus",
+      "alt_names": [
+        "ロクス",
+        "Moonlight Knight"
+      ],
+      "role": "supporting",
+      "description": "Leader of the new Band of the Hawk's demon lancer squad, Locus would be a true stereotype of a proud knight, were it not for his demonic power. With a lance that seemingly bends to home in on its target, he can nail through dozens of heads in one thrust. In his Apostle form, Locus merges with his mount, becoming a centaur of steel.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7869-mv07Hd172zUp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7869
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T19:23:27.131Z"
+}

@@ -1,0 +1,570 @@
+{
+  "work_id": "omniscient-reader",
+  "count": 23,
+  "characters": [
+    {
+      "id": "dok-ja-kim",
+      "name": "Dok-Ja Kim",
+      "alt_names": [
+        "김독자",
+        "Dokja"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 176 cm\n\nHe is the sole reader of the webnovel Three Ways to Survive in a Ruined World (AKA 'Ways of Survival'), an apocalyptic fantasy story written by tls123.",
+      "metadata": {
+        "gender": "male",
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180887-s9sJWFuO18J8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180887
+      }
+    },
+    {
+      "id": "jung-hyeok-yu",
+      "name": "Jung-Hyeok Yu",
+      "alt_names": [
+        "유중혁",
+        "Joong-Hyuk Yoo",
+        "Yoo Jonghyuk",
+        "Yu Joong-Hyeok",
+        "Sunfish Bastard",
+        "Master",
+        "Captain",
+        "Conquering King",
+        "Supreme King"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 184 cm\n\nYoo Joonghyuk is the main character of tls123's novel Three Ways to Survive in a Ruined World.\n\n~!Throughout Omniscient Reader's Viewpoint, he is seen in his 1863rd, 1864th (believed to be his 3rd), and 1865th regressions.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180892-P9NUpKANX4W5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180892
+      }
+    },
+    {
+      "id": "su-yeong-han",
+      "name": "Su-Yeong Han",
+      "alt_names": [
+        "한수영",
+        "Han Soo-Young"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 158 cm\n\nHan Su-Yeong is first shown to have a selfish personality, prioritizing her own interests over anything else. However, throughout the story she grows closer to the members of , gradually coming to  value each of them. Han Su-Yeong is a very confident, intelligent, and witty person, constantly insulting and joking around with her companions, but she gets angry very easily when others do stupid things. Similar to [Yu Jung-Hyeok](https://anilist.co/character/180892/), she will berate the people she cares about even as she tries her hardest to keep them safe. When [Kim Dok-Ja](https://anilist.co/character/180887/) is absent, Han Su-Yeong is the de facto leader of , using her astounding intelligence to guide them through any hardships that may come their way.",
+      "metadata": {
+        "gender": "female",
+        "age": "26",
+        "dateOfBirth": "1993-04-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180901-vEAE20MjhHA0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180901
+      }
+    },
+    {
+      "id": "sang-ah-yoo",
+      "name": "Sang-Ah Yoo",
+      "alt_names": [
+        "유상아",
+        "Sang-A Yu"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 166 cm\n\nYoo Sang-Ah is one of Kim Dok-Ja's colleagues and current party members. She is described as being Mino Soft's beauty, with a gentle and lively look about her. While her expression is normally smiley, it becomes somewhat cold when she is thinking.\n~!Instead of a single Constellation, Yoo Sangah is sponsored by the entirety of the \"Olympus\" nebula. She is therefore able to access multiple stigmas and powers, granted by the various Constellations within the nebula.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190233-FSfFRBbPcTkg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190233
+      }
+    },
+    {
+      "id": "uriel",
+      "name": "Uriel",
+      "alt_names": [
+        "우리엘",
+        "Demon-like Judge of Fire"
+      ],
+      "role": "supporting",
+      "description": "Demon-like Judge of Fire is a constellation of the  nebula who makes judgments through fire. Their real identity is the Archangel Uriel. Their contractor must only perform acts of \"absolute good.\" In return, they gain enormous power.\n\nShe is one of the original 4 constellations who wishes to sponsor Kim Dokja. Despite being rejected, she is an avid supporter of .\n\n~!It is later revealed that the Uriel of the 999th turn was one of Yoo Joonghyuk's companions and fought with his team to reach The End.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187671-VHdLqYhm0nIp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187671
+      }
+    },
+    {
+      "id": "jecheon-daeseong",
+      "name": "Jecheon Daeseong",
+      "alt_names": [
+        "제천대성",
+        "Wukong Sun",
+        "Great Sage the Equal of Heaven",
+        "Great Sage-Heaven's Equal"
+      ],
+      "role": "supporting",
+      "description": "The Great Sage, Heaven's Equal, also known as the Great Sage the Equal of Heaven, is one of the \"story bodies\" i.e. versions of Sun Wukong. ~!He offered to sponsor Kim Dokja during the first Sponsor Selection, and has remained one of his staunch supporters since, eventually helping accept him as the fifth story body of Sun Wukong.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187670-a6xKR5k8mbES.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187670
+      }
+    },
+    {
+      "id": "seol-hwa-lee",
+      "name": "Seol-Hwa Lee",
+      "alt_names": [
+        "Poisoner",
+        "Doctor"
+      ],
+      "role": "supporting",
+      "description": "Lee Seol-Hwa is one of the 10 Evils, the Poisoner. She was Yoo Jong-Hyuk's companion in his second round.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190231-XiorRzX1Ki7U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190231
+      }
+    },
+    {
+      "id": "nam-un-kim",
+      "name": "Nam-Un Kim",
+      "alt_names": [
+        "김남운",
+        "Nam-Woon Kim"
+      ],
+      "role": "supporting",
+      "description": "Kim Nam-Un is a side character in Omniscient Reader's Viewpoint. He was one of Yoo Joonghyuk's companions in Three Ways to Survive in a Ruined World.\n~!He dies at the beginning of the story as he is eliminated in the last moment by Kim Dokja.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187668-hQyBdddlHG8F.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187668
+      }
+    },
+    {
+      "id": "bihyeong",
+      "name": "Bihyeong",
+      "alt_names": [
+        "비형",
+        "Bihyung"
+      ],
+      "role": "supporting",
+      "description": "Bihyung is the dokkaebi in charge of Kim Dokja's scenario. Kim Dokja makes several deals with Bihyung.\n\nHe is the creator of the 'Random Item Box'. He was fired from the Star Stream Administration Bureau after the product was forced to be banned by the bureau and became a streamer.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187669-2OCbotgIwaJw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187669
+      }
+    },
+    {
+      "id": "simyeonui-heugyeomnyong",
+      "name": "Simyeonui Heugyeomnyong",
+      "alt_names": [
+        "심연의 흑염룡",
+        "Abyssal Black Flame Dragon"
+      ],
+      "role": "supporting",
+      "description": "The Abyssal Black Flame Dragon is a constellation and the leader of the  group. He offered to sponsor Kim Dokja in the first Sponsor Selection, but was turned down. Despite being snubbed, he followed Kim Dokja through the scenarios and became a strong supporter of his nebula.\n\n~!In all other rounds in WoS, he chose Kim Namwoon as his incarnation. In this 3rd round, Han Sooyoung chooses him as a sponsor. He comes to the aid of  several times through the story, and is a candidate for the Apocalypse Dragon.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "5000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187672-Ene2eBMHin6m.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187672
+      }
+    },
+    {
+      "id": "hyun-sung-lee",
+      "name": "Hyun-Sung Lee",
+      "alt_names": [
+        "이현성",
+        "Pure Steel Sword",
+        "The Greatest Shield"
+      ],
+      "role": "supporting",
+      "description": "Lee Hyunsung is a former army lieutenant and a current member of Kim Dokja's party. He was originally a character in Ways of Survival, fighting under Yoo Joonghyuk's leadership.",
+      "metadata": {
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b189847-J9t20l08l5me.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 189847
+      }
+    },
+    {
+      "id": "hee-won-jung",
+      "name": "Hee-Won Jung",
+      "alt_names": [
+        "정희원",
+        "Judge of Destruction"
+      ],
+      "role": "supporting",
+      "description": "Jung Heewon is a member of Kim Dokja's party. She was part of the marginalized group from Geumho station. She becomes one of the most vital party members, sometimes referred to as the \"sword\" of the group.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b189848-SD6SN8SRLagc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 189848
+      }
+    },
+    {
+      "id": "gil-young-lee",
+      "name": "Gil-Young Lee",
+      "alt_names": [
+        "이길영",
+        "Insect King",
+        "Tang Sanzang (Xuan",
+        "玄)"
+      ],
+      "role": "supporting",
+      "description": "Gil-Young is a young boy who is a member of Kim Dok-Ja's party. He had the insects that allowed some of the party to survive Main Scenario 1. He is not a character from the original novel.",
+      "metadata": {
+        "gender": "male",
+        "age": "11-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b189849-nyH8hfEPgHlk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 189849
+      }
+    },
+    {
+      "id": "ji-hye-lee",
+      "name": "Ji-Hye Lee",
+      "alt_names": [
+        "이지혜",
+        "Crybaby"
+      ],
+      "role": "supporting",
+      "description": "Lee Ji-Hye is an ex-high school student and a current member of Kim Dokja's Company. She was originally a character in Ways of Survival, fighting under Yoo Joong-Hyuk's leadership.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190232-4Bk2ehbvIecE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190232
+      }
+    },
+    {
+      "id": "secretive-plotter",
+      "name": "Secretive Plotter",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "He's one of few constellation that showed interest in Kim Dokja since the start of the scenarios.\n\n~! Later, it is revealed that he is actually [Yoo Joong-Hyuk](https://anilist.co/character/180892/JungHyeok-Yu), the protagonist of the original Ways of Survival, from after the end of the novel. After completing 1863 regressions, he travelled to another world line which contained Kim Dokja's world, watching over it since the beginning of the scenarios. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190777-SSt9JLUKVpFX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190777
+      }
+    },
+    {
+      "id": "yoo-sung-shin",
+      "name": "Yoo-Sung Shin",
+      "alt_names": [
+        "신유승"
+      ],
+      "role": "supporting",
+      "description": "Shin Yoosung is one of Kim Dokja's and Yoo Joonghyuk's party members, and Kim Dokja's sponsored Incarnation. She is a character from the original Ways of Survival, and the child whose 41st round adult self appeared in Main Scenario 5 as the Disaster of Floods.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190785-kmmpDkW25g1L.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190785
+      }
+    },
+    {
+      "id": "the-oldest-dream",
+      "name": "The Oldest Dream",
+      "alt_names": [
+        "가장 오래된 꿈",
+        "???",
+        "The Most Ancient Dream"
+      ],
+      "role": "supporting",
+      "description": "~!The Oldest Dream is the constellation sponsor of Yoo Joonghyuk, the protagonist of Ways of Survival. He provides Yoo Joonghyuk with the ability to regress in time, kickstarting the plot of the webnovel.!~ ~!The Oldest Dream's true identity is that of a significantly younger Kim Dokja, whose love for Ways of Survival created an entire set of world lines where it was a reality.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191733
+      }
+    },
+    {
+      "id": "hades",
+      "name": "Hades ",
+      "alt_names": [
+        "하데스",
+        "Father of The Rich Night ‚ Ruler of The Underworld‚ King of the Underworld"
+      ],
+      "role": "supporting",
+      "description": "The Father of the Rich Night is the constellation Hades, one of the head gods of Olympus and ruler of the underworld.\n\n~!During the  scenario hades announces Kim Dokja as his successor!~\n~!Hades later accepts Kim Dokja as his son!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b194096-gvFSqX43XLrt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 194096
+      }
+    },
+    {
+      "id": "anna-croft",
+      "name": "Anna Croft",
+      "alt_names": [
+        "안나 크로프트"
+      ],
+      "role": "supporting",
+      "description": "Anna Croft is a prophet and savior. She's an American born in Las Vegas. Her sponsor is the Asgard Nebula and her goal is to protect Earth.\n\nTo achieve her goals she is willing to do anything necessary, such as putting her companion in a dangerous position during the Gourmet Banquet scenario in hopes that Thursday's Thunder, Thor would sponsor her companion. She has betrayed Yoo Joonghyuk multiple times over his regressions.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229393-p9lyEO4dmOPO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229393
+      }
+    },
+    {
+      "id": "mi-a-yu",
+      "name": "Mi-A Yu",
+      "alt_names": [
+        "유미아",
+        "Mia Yoo"
+      ],
+      "role": "supporting",
+      "description": "Yoo Mia is the younger sister of Yoo Joong-hyuk, the protagonist of Ways of Survival.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244562-Anyz47FfVQvz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244562
+      }
+    },
+    {
+      "id": "persephone",
+      "name": "Persephone",
+      "alt_names": [
+        "페르세포네",
+        "Queen of the Darkest Spring"
+      ],
+      "role": "supporting",
+      "description": "Persephone, better known by her constellation modifier \"Queen of the Darkest Spring,\" is the wife of Hades and queen of the Underworld. She is equal in power to Hades and can change her incarnation appearance at will.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293560-F4FJ4MVcuuCi.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293560
+      }
+    },
+    {
+      "id": "nirvana-moebius",
+      "name": "Nirvana Moebius",
+      "alt_names": [
+        "니르바나 뫼비우스",
+        "Salvation Leader"
+      ],
+      "role": "supporting",
+      "description": "Nirvana Moebius is the leader of the Salvation Church and a reincarnator obsessed with regressor Yoo Joonghyuk.",
+      "metadata": {
+        "gender": "non-binary",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b301638-BKOYPDR4FzKk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 301638
+      }
+    },
+    {
+      "id": "gong-pildu",
+      "name": "Gong Pildu",
+      "alt_names": [
+        "공필두"
+      ],
+      "role": "supporting",
+      "description": "Gong Pildu is a member of  who acts as the main base defense. Formerly, he was the leader of the Landlord Alliance.",
+      "metadata": {
+        "gender": "male",
+        "age": "48-51",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308289-5r9zgZWTR4XA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308289
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T19:28:08.502Z"
+}

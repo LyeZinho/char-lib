@@ -1,0 +1,598 @@
+{
+  "work_id": "the-promised-neverland",
+  "count": 25,
+  "characters": [
+    {
+      "id": "norman",
+      "name": "Norman",
+      "alt_names": [
+        "ノーマン"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 145 cm\n__Farm Identifier:__ 22194\n\nNorman seems to be logical, well-meaning, and devoted, with a slightly naive side. He can easily plan his actions in advance and he anticipates on other's actions. He is one of the top 3 ranking orphans, along with [Emma](https://anilist.co/character/121725/Emma) and [Ray](https://anilist.co/character/121724/Ray). Norman loves Emma and he is helpful and loyal towards her.",
+      "metadata": {
+        "gender": "male",
+        "age": "11",
+        "dateOfBirth": "2034-03-21"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121700-CRwKIlcBcjbv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121700
+      }
+    },
+    {
+      "id": "ray",
+      "name": "Ray",
+      "alt_names": [
+        "レイ",
+        "Sleepy Cyclops"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 150 cm\n__Farm Identifier:__ 81194\n\nAs one of the three perfect students at the orphanage, Ray is very logical, smart, cunning, extremely patient and is usually shown to read books by himself. Although he is extremely book smart he says that he never liked to study. According to data obtained by sister [Krone](https://anilist.co/character/121702/Krone), his weakness is that he gives up easily.",
+      "metadata": {
+        "gender": "male",
+        "age": "11",
+        "dateOfBirth": "2034-01-15"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121724-SJTdODjeO7e6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121724
+      }
+    },
+    {
+      "id": "emma",
+      "name": "Emma",
+      "alt_names": [
+        "エマ",
+        "Antenna"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 145 cm\n__Farm Identifier:__ 63194\n\nEmma acts as an older sister to the other children and loves her family very intensely. She is sweet, heroic, caring, and has a big heart. She can also be naive and reckless, and doesn't hesitate to put herself at risk to ensure the safety of the group. The other kids describe her as having monster reflexes and an astounding ability to learn, which enables her to think fast in difficult situations and makes her a very good strategist. She could be considered a beacon of hope for the rest of the children.",
+      "metadata": {
+        "gender": "female",
+        "age": "11-15",
+        "dateOfBirth": "2034-08-22"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121725-LQciVJOjnMVh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121725
+      }
+    },
+    {
+      "id": "isabella",
+      "name": "Isabella",
+      "alt_names": [
+        "イザベラ",
+        "Mama (ママ)",
+        "Mom"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170 cm\n__Farm Identifier:__ 73584\n\nIsabella worked as a Mama at Grace Field House, taking care of the orphans that reside within.",
+      "metadata": {
+        "gender": "female",
+        "age": "31",
+        "dateOfBirth": "2014-09-09"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121701-hP5hanKRUH9u.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121701
+      }
+    },
+    {
+      "id": "krone",
+      "name": "Krone",
+      "alt_names": [
+        "クローネ",
+        "Sister Krone"
+      ],
+      "role": "supporting",
+      "description": "Sister Krone runs the Grace Field House orphanage with [Madam Isabella](https://anilist.co/character/121701/Isabella). She has the desire to usurp the position of \"Mama\" from Isabella.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121702-yOmK9dyvOvVL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121702
+      }
+    },
+    {
+      "id": "don",
+      "name": "Don",
+      "alt_names": [
+        "ドン",
+        "Bean Head"
+      ],
+      "role": "supporting",
+      "description": "__Age (2045):__ 10 yo\n__Farm Identifier:__ 16194\n__D.O.B:__ 2035/7/4\n__Height (2045-2049):__ 155 - 174 cm\n\nDon has dark skin and a tall and slender appearance. He has short, messy black hair with an undercut and brown eyes. He wears the standard white uniform. Like [Emma](https://anilist.co/character/121725/Emma), Don cares deeply about his siblings. Don is portrayed as a cheerful and slightly careless boy, however, he too is fairly intelligent, coming around 5th place in the everyday test, after [Gilda](https://anilist.co/character/126455/Gilda). He also has talents in pick pocketing. His physical ability is also fairly strong.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126454-TI3LXk2oN7WV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126454
+      }
+    },
+    {
+      "id": "gilda",
+      "name": "Gilda",
+      "alt_names": [
+        "ギルダ",
+        "Prissy Four-eyes"
+      ],
+      "role": "supporting",
+      "description": "__Farm Identifier:__ 65194\n__Height (2045-2049):__ 138 - 155 cm\n\nGilda has short olive drab hair kept in a Chinese bob hairstyle and wears circular-lensed glasses. Gilda is an intuitive young girl. She also has a caring personality. She seems to be an introvert, however she also has her moments of bravery. She can also be quite threatening.",
+      "metadata": {
+        "gender": "female",
+        "age": "10",
+        "dateOfBirth": "2035-05-13"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126455-ki6wpr5Un4fF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126455
+      }
+    },
+    {
+      "id": "phil",
+      "name": "Phil",
+      "alt_names": [
+        "フィル"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 100 cm\n__Farm Identifier:__ 34394 (Grace Field House)\n__D.O.B:__ 2041\n\nPhil is very active and can always be seen running around. \n~!He is also shown to be very mature and intelligent for his age, even suspecting something was wrong when Emma and the other older orphans were trying to find out ways to escape.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "4",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126475-EqxsU9P6ajKE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126475
+      }
+    },
+    {
+      "id": "violet",
+      "name": "Violet",
+      "alt_names": [
+        "バイオレット"
+      ],
+      "role": "supporting",
+      "description": "__Farm Identifier:__ DIV332-198 (Grand Valley)\n__D.O.B:__ Unknown\n__Hair Color:__ Purple\n__Eye Color:__ Purple\n\nViolet is a former orphan from the Grand Valley orphanage and a member of the Goldy Pond Resistance. Violet is the first person to encounter Emma at Goldy Pond.",
+      "metadata": {
+        "age": "13",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126490-LiJ8zsJPrVf9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126490
+      }
+    },
+    {
+      "id": "leuvis",
+      "name": "Leuvis",
+      "alt_names": [
+        "ルイス"
+      ],
+      "role": "supporting",
+      "description": "One of the antagonists of The Promised Neverland. He belonged to the group of Demons called the Poachers. It was later revealed that he served as a purveyor for the Grand Valley orphanage who delivers the children to Goldy Pond.\n\nLewis was a tall and slender demon with three fingers on each hand, and three toes on each foot. His entire body is clothed and he wears a high collar cape over it. He also wears a matching top hat decorated with rope-like looms. Just like most other demons, his face is covered with a mask with four holes on top of each other with the upper three allowing him to see, and the bottom one which revealed his sharp canines.\n\nHe also owns a pet named Parvus which is often seen on his shoulder. It has two eyes (one on top and a much bigger one below) and the physical features of a monkey, and it wears a tiny crown on top of its head.\n\n~!It was revealed that he is also the older brother of Sonju.!~\n\n~!The features that lies under his mask were revealed when the man successfully shot and broke his mask. He bears the appearance of other demons of his kind, with 3 vertically positioned eyes on his face, and sharp canines.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126491-d8pEZVlkg9Qe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126491
+      }
+    },
+    {
+      "id": "nouma",
+      "name": "Nouma",
+      "alt_names": [
+        "ノウマ"
+      ],
+      "role": "supporting",
+      "description": "Sometime in the past, she and Nous moved to Goldy Pond, where they became a part of the famous hunting group called the Poachers.\nNouma has a black-colored humanoid body and has a mask. Nouma appears to have a rather large cleavage and she can be seen wielding a large spear.\nLike Nous, she is a really sadistic demon who enjoys to hunt on little children and to kill them in cold blood.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126492-L9JqMwhiO7Kl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126492
+      }
+    },
+    {
+      "id": "nous",
+      "name": "Nous",
+      "alt_names": [
+        "ノウス"
+      ],
+      "role": "supporting",
+      "description": "Nous is a black demon, with a tall, slender humanoid body. On his face he has a bulletproof mask, which protects his eyes\n\n~!Nous is one of the antagonists during the Goldy Pond Arc. He belongs to the group of \"Poachers\", who organized illegal hunting trips inside the secret garden of Goldy Pond. He very often hunted in pairs with his sister [Nouma](https://anilist.co/character/126492/Nouma). He was killed in chapter 86, \"Battle power\" by a gunshot to the eye, fired by Yuugo.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126493-qTl3J3j4hlxJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126493
+      }
+    },
+    {
+      "id": "james-ratri",
+      "name": "James Ratri",
+      "alt_names": [
+        "ジェイムズ・ラートリー",
+        "William Minerva (ウィリアム・ミネルヴァ)"
+      ],
+      "role": "supporting",
+      "description": "James Latley is the 35th descendant of the Latley Clan who sealed the promise between humans and demons 1000 years ago. After seeing the horrors that humans has been through, he decided to give them a chance to live.\n\nHe put several codes inside his books so the kids could escape the plantations.\n\n~!The elevator inside Golden Pond is not working anymore, so he said that others can be used, including the one in the Grace Field house. He was betrayed by a person, and so, the Village is not a safe place anymore. The last recording that Emma and Lucas found said that it was the 20th of March, 2031. He is presumed dead.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126494-WL5id6tHPrJZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126494
+      }
+    },
+    {
+      "id": "peter-ratri",
+      "name": "Peter Ratri",
+      "alt_names": [
+        "ピーターラートリー"
+      ],
+      "role": "supporting",
+      "description": "Peter Ratri is the 36th and current head of the famous Ratri Clan and the younger brother of James Ratri.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126495-rOG3lcE3GBfD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126495
+      }
+    },
+    {
+      "id": "luce",
+      "name": "Luce",
+      "alt_names": [
+        "ルーチェ"
+      ],
+      "role": "supporting",
+      "description": "Luce lived in Goldy Pond were he belonged to the group of demons called the Poachers.\nLuce was a tiny, white-coloured demon. He had over 20 eyes and razor-sharp teeth. He wore a mask which displayed 6 of his eyes. The mask had two horns on top of it before it was shattered by Gillian.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126496-z7E33xsE2Xxv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126496
+      }
+    },
+    {
+      "id": "sonju",
+      "name": "Sonju",
+      "alt_names": [
+        "Song-Joo"
+      ],
+      "role": "supporting",
+      "description": "__Age:__ At-Least 1000\n__Hair Color:__ Red\n__Eye Color:__ Black\n\nSonju (or Sung-Joo) is a demon that lives outside Grace Field House. ~!He saved Ray just before he was captured by his demon-hound pursuers. He and Mujika were suspected to be demons by Ray.\nSonju believes in the same religion as Mujika, hence is strongly against the practice of eating humans. However, Sonju remained reluctant and was eager to resume his intention of eating humans once their population increased.!~ Sonju retains a stoic and composed personality, as he sometimes refrained himself from interacting with the orphans, and during the times when he does, he was known to intimidate them due to his appearance. Nevertheless, Sonju on a certain degree still care for the orphans' safety and have faith in them being able to break the promise.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126497-tzUtqWwy3Mkf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126497
+      }
+    },
+    {
+      "id": "mujika",
+      "name": "Mujika",
+      "alt_names": [
+        "ムジカ",
+        "Musica"
+      ],
+      "role": "supporting",
+      "description": "Mujika (or Musica) is a demon descent traveling in the forest outside the Grace Field House. ~!She saved Emma and the other orphans of Grace Field House from the pursuing demons. She, together with Sonju believe in a religious principle to not eat humans.!~\n\n~!She is considered the \"Evil Blooded Girl\" because if her blood is consumed by a demon, it will make them be able to not eat humans and still keep their form!~\n\nMujika has long, purple hair braided pigtails covering parts of her horns, and wears a mask with two holes positioned vertically. She has a pale complexion and wears a bluish-white cloak.\n\n~!She later is crowned as the new Demon Queen!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126498-w5eif6lqQLoC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126498
+      }
+    },
+    {
+      "id": "sonya",
+      "name": "Sonya",
+      "alt_names": [
+        "ソニア",
+        "Sonia"
+      ],
+      "role": "supporting",
+      "description": "__Farm Identifier:__ EIV019-270 (Grand Valley)\n__D.O.B:__ Unknown\n__Hair Color:__ Blue\n__Eye Color:__ Gray\n\nSonya is a former orphan from the Grand Valley orphanage and the Second-in-Command of the Goldy Pond Resistance. She wears glasses and has blue hair done up in pigtails.",
+      "metadata": {
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126499-GoV99bL3sqvl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126499
+      }
+    },
+    {
+      "id": "bayon",
+      "name": "Bayon",
+      "alt_names": [
+        "バイヨン"
+      ],
+      "role": "supporting",
+      "description": "Bayon  is one of the antagonists of The Promised Neverland. He belongs to the group of Demons known as the \"Poachers\" and is the owner of the secret human hunting reserve Goldy Pond.\nHe likes to play and hunt and has his attendants carry him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126500-bS10dD4ztyN2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126500
+      }
+    },
+    {
+      "id": "jake",
+      "name": "Jake",
+      "alt_names": [
+        "ジェイク"
+      ],
+      "role": "supporting",
+      "description": "__Farm Identifier:__ Unknown (Grand Valley)\n\nJake was a former orphan from the Grand Valley orphanage that was found in Goldy Pond.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126501-ib70Yh0hFKFR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126501
+      }
+    },
+    {
+      "id": "lucas",
+      "name": "Lucas",
+      "alt_names": [
+        "ルーカス"
+      ],
+      "role": "supporting",
+      "description": "__Age:__ Around 29\n__Farm Identifier:__ KGX2A7 (Glory Bell)\n__D.O.B:__ Unknown\n\nLucas is an escapee from Glory Bell and a friend of Shelter B06-32 Unnamed Man (Yuugo). He was captured by the Poachers in Goldy Pond when he and his friends traveled to the human reserve in hope of finding William Minerva. He then seemingly died at the hands of the Poachers.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126502-vAOZ7lG12F9v.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126502
+      }
+    },
+    {
+      "id": "ojisan",
+      "name": "Ojisan",
+      "alt_names": [
+        "オジサン",
+        "Nameless Geezer",
+        "Mister"
+      ],
+      "role": "supporting",
+      "description": "__Farm Identifier:__ ETR3M8 (Glory Bell)\n\n~!He is one of the escapees from the Glory Bell orphanage which he escaped 13 years ago. He now lives in an isolated shelter that was formerly owned by William Minerva. He is also the presumed sole survivor of Goldy Pond.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "29",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126503-vyui6Y5ErkVL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126503
+      }
+    },
+    {
+      "id": "anna",
+      "name": "Anna",
+      "alt_names": [
+        "アンナ",
+        "Nanny"
+      ],
+      "role": "supporting",
+      "description": "__Age (2045):__ 9 yo\n__Farm Identifier:__ 48194 (Grace Field House)\n__D.O.B:__ 2036/4/25\n__Height (2045-2049):__ 135 - 162 cm \n\nJust like every other orphans of Grace Field, she wears the standard Grace Field Orphanage uniform. Anna grows to be a surprisingly big boned, tall girl. She has blonde hair tied into twin braids. \n~!Later, she cuts her hair in order to help with the escape.!~~!During her time at the B06-32 shelter, she spends a lot of time studying medicine in order to help her family.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n126504-xHMVYY9uEfkh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126504
+      }
+    },
+    {
+      "id": "gillian",
+      "name": "Gillian",
+      "alt_names": [
+        "ジリアン",
+        "Jirian"
+      ],
+      "role": "supporting",
+      "description": "Gillian is an orphan from the Grand Valley orphanage. She was transferred to the Goldy Pond hunting ground as potential prey, where she witnessed the death of her beloved sister by the hands of the Poachers. Determined for vengeance, Gillian joined the Goldy Pond Resistance, where she ended up in charge of the provisions.\n\nGillian is a high-spirited and outgoing teenage girl, which thus made her stood out from the rest of the members of the Goldy Pond Resistance, whom are mostly serious in nature. This was evident when she and Sandy are the liveliest among the team members when [Violet](https://anilist.co/character/126490/Violet) introduced them to [Emma](https://anilist.co/character/121725/Emma).\n\n(Source: The Promised Neverland Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "15-19",
+        "dateOfBirth": "2030-09-30"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126830-ZH8niuAeKStN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126830
+      }
+    },
+    {
+      "id": "lannion",
+      "name": "Lannion",
+      "alt_names": [
+        "ラニオン",
+        "Lani",
+        "Curry Chow"
+      ],
+      "role": "supporting",
+      "description": "__Age (2045):__ 7 yo\n__Farm Identifier:__ 54294 (Grace Field House)\n__D.O.B:__ 2038/4/28\n__Height (2045-2049):__ 125 - 144 cm \n\nLani is a mischievous and resourceful boy, who enjoys pulling pranks with his best friend, [Thoma](https://anilist.co/character/129784/Thoma). He is a bit cowardly, but also blunt and straightforward.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129783-6KAMdcOzkmCv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129783
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T19:27:16.961Z"
+}

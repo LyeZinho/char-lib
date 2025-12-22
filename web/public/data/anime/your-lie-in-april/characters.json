@@ -1,0 +1,313 @@
+{
+  "work_id": "your-lie-in-april",
+  "count": 13,
+  "characters": [
+    {
+      "id": "kaori-miyazono",
+      "name": "Kaori Miyazono",
+      "alt_names": [
+        "宮園かをり",
+        "Free-spirit"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 157 cm\n\nKaori is Tsubaki's classmate, a free-spirited violinist who had drawn many criticisms from the judge panel due to her unwillingness to follow the score, but is highly favored by her audience. Kaori met Kousei when she requested Tsubaki to set her up with Watari.",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b69411-lxM0FRvWHqlv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 69411
+      }
+    },
+    {
+      "id": "kousei-arima",
+      "name": "Kousei Arima",
+      "alt_names": [
+        "有馬公生",
+        "Human Metronome"
+      ],
+      "role": "protagonist",
+      "description": "Kousei is formerly a child prodigy in playing piano, often dubbed as the \"Human Metronome\". He was able to play the piano with extreme precision and discipline and thus had won many competitions across Japan.",
+      "metadata": {
+        "gender": "male",
+        "age": "14-15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 69407
+      }
+    },
+    {
+      "id": "ryouta-watari",
+      "name": "Ryouta Watari",
+      "alt_names": [
+        "渡里遼"
+      ],
+      "role": "protagonist",
+      "description": "Ryouta is Kousei and Tsubaki's childhood friend who is also the captain of the school's soccer team. He is extremely popular with girls, often adopting a frivolous attitude. However, he does once in a while come up with good insight.",
+      "metadata": {
+        "gender": "male",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/69405-IpsjziJkHrHj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 69405
+      }
+    },
+    {
+      "id": "tsubaki-sawabe",
+      "name": "Tsubaki Sawabe",
+      "alt_names": [
+        "澤部椿"
+      ],
+      "role": "protagonist",
+      "description": "Tsubaki is Kousei's childhood friend and next-door neighbor, who treats him like a little brother. She is athletic and part of the softball club in school. Often dismayed at Kousei's inability to move on after his mother's death, she attempts to get him to play the piano again in order to make a clear decision about his future.",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/69409-lq7MFPFTwmBu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 69409
+      }
+    },
+    {
+      "id": "saitou",
+      "name": "Saitou",
+      "alt_names": [
+        "斉藤"
+      ],
+      "role": "supporting",
+      "description": "Saitou is Tsubaki's baseball-playing senior and her target of admiration.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/81723-sLxyCgxUGxiD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81723
+      }
+    },
+    {
+      "id": "nao-kashiwagi",
+      "name": "Nao Kashiwagi",
+      "alt_names": [
+        "柏木奈緒"
+      ],
+      "role": "supporting",
+      "description": "Kashiwagi is a good friend of Tsubaki's who often gives her advice.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/81725-c42gacJ6ftGR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81725
+      }
+    },
+    {
+      "id": "takeshi-aiza",
+      "name": "Takeshi Aiza",
+      "alt_names": [
+        "相座武士"
+      ],
+      "role": "supporting",
+      "description": "Takeshi is a pianist of the same year as Kousei, who aimed to surpass him since watching him play at a young age. For that, Takeshi would even abandon a competition in Europe in order to compete with Kousei. \n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/85839-lYYIkvS9I7wS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85839
+      }
+    },
+    {
+      "id": "emi-igawa",
+      "name": "Emi Igawa",
+      "alt_names": [
+        "井川絵見"
+      ],
+      "role": "supporting",
+      "description": "Emi is a pianist of the same year as Kousei, who decided to become a pianist after listening to Kousei play at the age of 5. Emi is very emotional and her piano performance often depends on her mood on that day.",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/85841-sC6FmFW77DD3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85841
+      }
+    },
+    {
+      "id": "saki-arima",
+      "name": "Saki Arima",
+      "alt_names": [
+        "有馬早希"
+      ],
+      "role": "supporting",
+      "description": "Saki is Kousei's strict mother who demands Kousei play the piano to perfection, often beating him up for small mistakes. While she did not plan to make Kousei a pianist at first, her realization of Kousei's talents and her own illness made her decide to give Kousei a strict foundation in piano in order to be able to find his own style, and a living, afterwards.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88785-ddUKFQv4ZkND.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88785
+      }
+    },
+    {
+      "id": "hiroko-seto",
+      "name": "Hiroko Seto",
+      "alt_names": [
+        "瀬戸紘子"
+      ],
+      "role": "supporting",
+      "description": "Hiroko is a nationally famous pianist and Saki's friend during college days. She was the one who discovered Kousei's talents in piano and suggested Saki to make him a pianist.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88786-toDBw77jbCTx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88786
+      }
+    },
+    {
+      "id": "nagi-aiza",
+      "name": "Nagi Aiza",
+      "alt_names": [
+        "相座凪"
+      ],
+      "role": "supporting",
+      "description": "Nagi is Takeshi's little sister who pretended to ask for tutelage from Hiroko in order to scout her brother's rival, Kousei.",
+      "metadata": {
+        "gender": "female",
+        "age": "13",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157244-Hlp5gH8ia6GN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157244
+      }
+    },
+    {
+      "id": "koharu-seto",
+      "name": "Koharu Seto",
+      "alt_names": [
+        "瀬戸小春"
+      ],
+      "role": "minor",
+      "description": "Daughter of Hiroko Seto, Koharu is generally a happy and cheerful child who adores her mother. Koharu has been shown to be quite shy and hesitant around others when she first meets them, but eventually warms up to them and begins to consider them as her family, as seen when she drew a picture of Nagi Aiza playing the piano with Kousei Arima.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138444-et8SxJj9ZgXB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138444
+      }
+    },
+    {
+      "id": "otokonoko",
+      "name": "Otokonoko",
+      "alt_names": [
+        "男の子"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 333899
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:17:52.077Z"
+}

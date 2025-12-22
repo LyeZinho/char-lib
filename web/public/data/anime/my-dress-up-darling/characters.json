@@ -1,0 +1,594 @@
+{
+  "work_id": "my-dress-up-darling",
+  "count": 24,
+  "characters": [
+    {
+      "id": "marin-kitagawa",
+      "name": "Marin Kitagawa",
+      "alt_names": [
+        "喜多川海夢",
+        "Marine (まりん)"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 164 cm (5'3\")\n\nMarin is an extravagant, messy, and while quite mature, she's also clumsy. She isn't very skilled at handiwork. Marin is a cosplayer and a huge otaku, being a fan of magical girl anime and adult video games. \nShe is very kind, friendly, cheerful and outgoing. She loves eating but still despite that she manages to maintain her slender figure.\n\n~!Marin realizes she is in love with Wakana, and throughout the series, continually does whatever she can to invite him to places and spend time with him.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133676
+      }
+    },
+    {
+      "id": "wakana-gojou",
+      "name": "Wakana Gojou",
+      "alt_names": [
+        "五条新菜",
+        "Wacchan (わっちゃん)"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 185 cm (6'1\")\n__Hobbies:__ Hina Dolls\n\nWakana Gojou is a fifteen-year-old high-schooler who is not very social, and doesn't fit in well with his fellow classmates, leading to him having no friends at the start of the story. Gojou has a strong appreciation for hina dolls and loves making them, although he is not as skilled as he wants to be. This changes when Gojou ends up meeting someone who doesn't find his love for doll making weird, and instead is amazed at his artistic ability and craftsmanship.",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133678-IitCgjDxQGgu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133678
+      }
+    },
+    {
+      "id": "kaoru-gojou",
+      "name": "Kaoru Gojou",
+      "alt_names": [
+        "五条薫",
+        "Ojii-chan (おじいちゃん)"
+      ],
+      "role": "supporting",
+      "description": "[Wakana](https://anilist.co/character/133678)'s grandfather.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133675-x2ISBsL4jNuT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133675
+      }
+    },
+    {
+      "id": "sajuna-inui",
+      "name": "Sajuna Inui",
+      "alt_names": [
+        "乾紗寿叶",
+        "Juju"
+      ],
+      "role": "supporting",
+      "description": "A famous cosplayer that [Marin Kitagawa](https://anilist.co/character/133676) looks up to.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133677
+      }
+    },
+    {
+      "id": "shinju-inui",
+      "name": "Shinju Inui",
+      "alt_names": [
+        "乾心寿"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 178 cm (5'10\")\n\nSister of [Sajuna Inui](https://anilist.co/character/133677).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207937
+      }
+    },
+    {
+      "id": "nobara",
+      "name": "Nobara",
+      "alt_names": [
+        "のばら",
+        "Non-chan (のんちゃん)"
+      ],
+      "role": "supporting",
+      "description": "[Wakana](https://anilist.co/character/133678) was a childhood friend of hers, but when she discovered that Wakana, a man, was obsessed with hina dolls, she called him \"disgusting\" and ended their relationship.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b260976-BJaZR85k4YFp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 260976
+      }
+    },
+    {
+      "id": "nowa-sugaya",
+      "name": "Nowa Sugaya",
+      "alt_names": [
+        "菅谷乃羽"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b260977-dtDIf91s9xkk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 260977
+      }
+    },
+    {
+      "id": "daia-yahiro",
+      "name": "Daia Yahiro",
+      "alt_names": [
+        "八尋大空"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b260978-uWmdkycWGumq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 260978
+      }
+    },
+    {
+      "id": "rune-yamauchi",
+      "name": "Rune Yamauchi",
+      "alt_names": [
+        "山内瑠音"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b260979-NwQz8UAeFZ1e.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 260979
+      }
+    },
+    {
+      "id": "miori-gojou",
+      "name": "Miori Gojou",
+      "alt_names": [
+        "五条美織"
+      ],
+      "role": "supporting",
+      "description": "Miori is the cousin of [Wakana Gojou](https://anilist.co/character/133678/Wakana-Gojou). She supports him on his seemingly bizarre behavior (buying stockings).",
+      "metadata": {
+        "gender": "female",
+        "age": "26-27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b261779-55oYUO853NxE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 261779
+      }
+    },
+    {
+      "id": "tae-hanaoka",
+      "name": "Tae Hanaoka",
+      "alt_names": [
+        "花岡多絵",
+        "Hanaoka-sensei (花岡先生)",
+        "Hana-chan (花ちゃん)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b262590-YUr2IDiN0GYB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 262590
+      }
+    },
+    {
+      "id": "shion-nikaidou",
+      "name": "Shion Nikaidou",
+      "alt_names": [
+        "二階堂シオン",
+        "Princess Lily",
+        "Black Lily"
+      ],
+      "role": "supporting",
+      "description": "Shion is the main character from the in-story anime 'Flower Princess Blaze'. Sajuna wants Gojou to make a cosplay outfit based on this characters' 'Black Lily' form.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264037-6TxWVazNnEjx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 264037
+      }
+    },
+    {
+      "id": "neon-nikaidou",
+      "name": "Neon Nikaidou",
+      "alt_names": [
+        "二階堂ネオン",
+        "Black Lobelia"
+      ],
+      "role": "supporting",
+      "description": "Shion's sister and main enemy from the in-story anime 'Flower Princess Blaze'.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264038-M0nxAx6IfUqw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 264038
+      }
+    },
+    {
+      "id": "mirai-tengeji",
+      "name": "Mirai Tengeji",
+      "alt_names": [
+        "天花寺ミライ"
+      ],
+      "role": "supporting",
+      "description": "The main heroine of fictional anime Flower Princess Retsu!!",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275521-FxjjrI6l6Kum.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275521
+      }
+    },
+    {
+      "id": "suzuka-itou",
+      "name": "Suzuka Itou",
+      "alt_names": [
+        "伊藤涼香"
+      ],
+      "role": "supporting",
+      "description": "Suzuka is a photographer who often attends cosplay events. She gets overly excited by a variety of cosplay. She gets especially excited by cross-playing.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306932-Kzkp153E7Z0v.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306932
+      }
+    },
+    {
+      "id": "kensei-morita",
+      "name": "Kensei Morita",
+      "alt_names": [
+        "森田健星"
+      ],
+      "role": "supporting",
+      "description": "Kensei Morita is a member of class 1-5 who is a friend and classmate of [Marin Kitagawa](https://anilist.co/character/133676/Marin-Kitagawa) and later [Wakana Gojou](https://anilist.co/character/133678/Wakana-Gojou).",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306939-kj8HQrsRd9sY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306939
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "minor",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
+    },
+    {
+      "id": "ikemen",
+      "name": "Ikemen",
+      "alt_names": [
+        "イケメン"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b260980-mbiwfxWsmeiJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 260980
+      }
+    },
+    {
+      "id": "game-onsei",
+      "name": "Game Onsei",
+      "alt_names": [
+        "ゲーム音声"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 261576
+      }
+    },
+    {
+      "id": "seito",
+      "name": "Seito",
+      "alt_names": [
+        "生徒"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 262092
+      }
+    },
+    {
+      "id": "tenin",
+      "name": "Tenin",
+      "alt_names": [
+        "店員"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 262094
+      }
+    },
+    {
+      "id": "kyaku",
+      "name": "Kyaku",
+      "alt_names": [
+        "客"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 262095
+      }
+    },
+    {
+      "id": "ishi",
+      "name": "Ishi",
+      "alt_names": [
+        "医師"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b262591-sY78O11cYJ3R.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 262591
+      }
+    },
+    {
+      "id": "kengaku-kyaku",
+      "name": "Kengaku Kyaku",
+      "alt_names": [
+        "見学客"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 262592
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T17:54:41.154Z"
+}

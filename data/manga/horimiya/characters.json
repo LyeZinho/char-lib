@@ -1,0 +1,602 @@
+{
+  "work_id": "horimiya",
+  "count": 25,
+  "characters": [
+    {
+      "id": "kyouko-hori",
+      "name": "Kyouko Hori",
+      "alt_names": [
+        "堀京子",
+        "Kyon-Kyon",
+        "Kyo-chan",
+        "Honey-san",
+        "Ice Queen",
+        "Hannya"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 163 cm (5'4\") \n\nKyouko Hori is one of the main protagonists of [Horimiya](https://anilist.co/anime/124080/Horimiya/), along with [Izumi Miyamura](https://anilist.co/character/66173/Izumi-Miyamura). She is a student in Class 3-1 of Katagiri Senior High School. Kyouko is mostly a very energetic and popular person who always creates a happy atmosphere around herself. She is a hard-worker in all aspects of her life, and, according to Izumi Miyamura, she scores above 90% for all her tests.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66171-o2vk3689wWFK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66171
+      }
+    },
+    {
+      "id": "izumi-miyamura",
+      "name": "Izumi Miyamura",
+      "alt_names": [
+        "宮村伊澄",
+        "Ikkun",
+        "Konoha",
+        "Isumi"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 169 cm\n\nMiyamura is often mistaken for an otaku for his sneaky character. The truth behind his long hair and clothes is to hide his piercings and his excessive amount of tattoos. This is a secret that only Hori and Ishikawa know.  Izumi is a very thoughtful kid. He is a person who looks weak but is very strong.",
+      "metadata": {
+        "gender": "male",
+        "age": "17-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66173-g8eU1LGWPB8O.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66173
+      }
+    },
+    {
+      "id": "tooru-ishikawa",
+      "name": "Tooru Ishikawa",
+      "alt_names": [
+        "石川透"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 174 cm\n\nTooru is friendly with everyone, and has a calm personality. He attends Katagiri Senior Highschool. \n\n~!At first he hates Miyamura due to his close relationship with Hori, who he had a crush on at the time. He confessed to her and was immediately rejected. In time he became a great friend of Miyamura.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66961-VZV5IwKUwYfp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66961
+      }
+    },
+    {
+      "id": "yuki-yoshikawa",
+      "name": "Yuki Yoshikawa",
+      "alt_names": [
+        "吉川由紀"
+      ],
+      "role": "supporting",
+      "description": "A close friend of [Kyouko Hori](https://anilist.co/character/66171/Kyouko-Hori)'s who attends the same high school as her.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66963-JBKCtpgwdgkG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66963
+      }
+    },
+    {
+      "id": "remi-ayasaki",
+      "name": "Remi Ayasaki",
+      "alt_names": [
+        "綾崎レミ",
+        "Remi-Remi"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 158 cm\n\nA member of the Student Council and she is known as the girlfriend of Kakeru Sengoku who attends Katagiri Senior High School where she is enrolled in class 3-5. She is more of a mascot in the student council, and is shown to do little to no work at all. \n\nRemi is usually shown as a rather childish and immature girl who has a very straightforward personality, and often wears her emotions on her sleeve. And seems to rely on other people's help. She's also not very smart, often compared to Miyamura about which one is more of an idiot.\n\nShe loves insects, though she's bad with dragonflies. Her room is filled with her insect collection, and she has been nicknamed the Insect Queen. She also enjoys reading, especially fairy tales. She's also comically bad at cooking, just like Kakeru Sengoku.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66965-Kfqui6IitXaL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66965
+      }
+    },
+    {
+      "id": "shuu-iura",
+      "name": "Shuu Iura",
+      "alt_names": [
+        "井浦秀"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 172 cm (5'8\")\n\nHe is a friend of Izumi Miyamura and pretty much everyone at school. He has his own way of thinking and always seems excited; he is a colleague from another class.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66967-driczOA04cxe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66967
+      }
+    },
+    {
+      "id": "souta-hori",
+      "name": "Souta Hori",
+      "alt_names": [
+        "堀創太"
+      ],
+      "role": "supporting",
+      "description": "Kyouko's young brother.\n\nHe sees Kyouko as a motherly figure because she has been the one taking care of him since he was born because of the nature of their parents' work.\n\nIn the beginning of the story, he is brought back to the Hori household by Izumi after he had fallen down on the street. Since then he has been very affectionate towards Izumi, going as far as calling him a non blood-related brother.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66969-w9HNa7igeTeF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66969
+      }
+    },
+    {
+      "id": "yuuna-okuyama",
+      "name": "Yuuna Okuyama",
+      "alt_names": [
+        "奥山有菜"
+      ],
+      "role": "supporting",
+      "description": "Yunna is a classmate of Souta. She bullies him but actually really likes him. Kyoko Hori is her role model.\n~!In the manga timeskip she's best friend and in a relationship with Souta Hori.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66971-yfKmxIsWKWyR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66971
+      }
+    },
+    {
+      "id": "reiko-terajima",
+      "name": "Reiko Terajima",
+      "alt_names": [
+        "寺島玲子"
+      ],
+      "role": "supporting",
+      "description": "She is a chemistry teacher at Katagiri High School and the homeroom teacher of class 3-1.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66973-cRamsBQtjWmG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66973
+      }
+    },
+    {
+      "id": "shin-yasuda",
+      "name": "Shin Yasuda",
+      "alt_names": [
+        "安田真"
+      ],
+      "role": "supporting",
+      "description": "__Occupation:__ English Teacher\n__Affiliation:__ Student Council (Manager), Katagiri Senior High School\n\nHe is one of the supporting characters for [Horimiya](https://anilist.co/anime/124080/Horimiya/). Yasuda loves high school girls and makes no attempt to hide this either. However, he never actually touches any of the girls, just acts overly friendly towards them and overly cold towards the guys. He often demands that any guys with girlfriends (mainly [Miyamura](https://anilist.co/character/66173/Izumi-Miyamura) and [Sengoku](https://anilist.co/character/72447/Kakeru-Sengoku)) break up with them, so that he can have them instead. Any time he is with only male students, he constantly bemoans the fact, loudly asking why they, and not some girls, are there. He also does not tend to remember the names of his male students, saying that he has no need to learn useless information. Many of Yasuda's female students also like him as well, thinking he's a cool, young, good looking teacher who's kind to them. Many of them like to visit with him in the counseling room. Yasuda even went out of his way to tell [Kyouko Hori](https://anilist.co/character/66171) to keep her ‘chin up’, and his little known fact about him is that he’s into ‘flat-chested’ girls, in an attempt to cheer her up with ‘confidence’.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66975-1ENOxQZ7SJPm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66975
+      }
+    },
+    {
+      "id": "kakeru-sengoku",
+      "name": "Kakeru Sengoku",
+      "alt_names": [
+        "仙石翔"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170 cm\n\nHe is the charismatic president of the student council of Katagiri Senior High School who is enrolled in class 3-3, the childhood friend of Kyouko Hori and the boyfriend of Remi Ayasaki. \n\nSengoku is a rather shy boy who gets embarrassed easily and he is a very wimpy where the slightest thing will make him cower in fear, especially things to do with horror or insects. Sengoku is very smart and serious, normally ranked #1 in the school (and #2 in phys ed). He enjoys reading and has an incredible level of concentration while doing so, the point of ignoring everything else going around him.\n\nHe is generally not very expressive with his emotions. The sole exception is his anger or irritation, which he shows all the time as he is the Student Councils President. Even though he makes threats and gets angry towards those breaking the rules, he doesn't actually like doing so.\n\nSengoku is very insecure when it comes to his body. Thinking his slender body is embarrassing and always refusing to show it in various occasions, even going as far as to make up extravagant lies to get out of it. He wears multiple layers of clothing to hide his body type.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72447-SH9Hth8ZGJam.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72447
+      }
+    },
+    {
+      "id": "sakura-kouno",
+      "name": "Sakura Kouno",
+      "alt_names": [
+        "河野桜"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 163 cm\n\nShe is the vice-president of the student council. She is very competent and often does​ support work.\n\n~!She has a crush on Tooru Ishikawa, in chapter 28, she confessed to him.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72449-wTynovkFnQpC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72449
+      }
+    },
+    {
+      "id": "akane-yanagi",
+      "name": "Akane Yanagi",
+      "alt_names": [
+        "柳明音"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 168 cm\n\nHe is a 3rd year at Katagiri High School​ and a member of Hori and Miyamura's regular group of friends. He is enrolled in class 3-6. He has very bad eyesight and cannot see properly without his glasses.",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72453-f9gRbQBUjKo6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72453
+      }
+    },
+    {
+      "id": "ichirou-watabe",
+      "name": "Ichirou Watabe",
+      "alt_names": [
+        "渡部一郎"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170 cm\n\nHe is a friend of [Izumi Miyamura](https://anilist.co/character/66173/Izumi-Miyamura). He attends the same high school, and is enrolled in class 3-1.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72455-xgLy8XEd9e0N.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72455
+      }
+    },
+    {
+      "id": "daiki-mizouchi",
+      "name": "Daiki Mizouchi",
+      "alt_names": [
+        "溝内大樹",
+        "Taiki"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 176 cm\n\nHe is one of Hori and Miyamura's classmates. He attends the same school and is enrolled in the same class, 3-1.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72457-urLH3qxflfRj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72457
+      }
+    },
+    {
+      "id": "honoka-sawada",
+      "name": "Honoka Sawada",
+      "alt_names": [
+        "沢田ほのか"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 150 cm\n\nSawada is a very clingy towards Kyouko Hori. Due to her attachment to Hori, she often gets angry when Hori is together with Izumi Miyamura, choosing to push him away. She views Miyamura as a love rival, but also as a brotherly figure. She was very close to her older brother who passed away some years ago. She also appears to have mild androphobia, often freezing up, running away, or hiding when approached by men. However, ever since she got to know Miyamura, she would hide behind him instead whenever a male approaches her. She is slowly getting used to being around Miyamura's male friends.  \n\n~!She is one of the side characters that make​ an appearance in chapter 29. She is first seen stalking Miyamura, causing many people, including Hori, to assume she has a crush on Miyamura. However, it is revealed that the person she has a crush on is Hori.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72459-NbyXnBAjLxKT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72459
+      }
+    },
+    {
+      "id": "kouichi-shindou",
+      "name": "Kouichi Shindou",
+      "alt_names": [
+        "進藤晃一"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 173 cm\n\nHe is a supporting character in the series. He attended the same junior high school as Izumi and Makio.",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72461-4zzQ6cShYe8l.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72461
+      }
+    },
+    {
+      "id": "chika-ichijou",
+      "name": "Chika Ichijou",
+      "alt_names": [
+        "一条千佳"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 154 cm\n\nChika is a 3rd year at Yasaka High School.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72463-TKhUXOPgcmv3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72463
+      }
+    },
+    {
+      "id": "makio-tanihara",
+      "name": "Makio Tanihara",
+      "alt_names": [
+        "谷原マキオ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 168 cm\n\nHe is a 3rd-year​ high school student attending Kashi High School. He attended the same junior high school as Miyamura and Shindou.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72465-IVbmlZUoptvt.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72465
+      }
+    },
+    {
+      "id": "motoko-iura",
+      "name": "Motoko Iura",
+      "alt_names": [
+        "井浦基子"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 150 cm\n\nShe is Shuu Iura's younger sister.\n\nSelf-described as an untalkative, gloomy type, Motoko is the opposite of Shuu. She tends to keep to herself and has a hard time making friends. However, unlike Shuu, this personality also carries over to her school life, though she is much more forceful and violent towards her brother than others. She is also pretty smart but lacks the confidence to use it too well.",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72467-PpdDmPQFbaMC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72467
+      }
+    },
+    {
+      "id": "yuriko-hori",
+      "name": "Yuriko Hori",
+      "alt_names": [
+        "堀百合子",
+        "Yuriko Koyanagi (小柳百合子)"
+      ],
+      "role": "supporting",
+      "description": "She is the mother of Kyouko and Souta.",
+      "metadata": {
+        "gender": "female",
+        "age": "36",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78279-Vyv16wSznsYl.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 78279
+      }
+    },
+    {
+      "id": "kyousuke-hori",
+      "name": "Kyousuke Hori",
+      "alt_names": [
+        "堀京介"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 180 cm\n\nKyousuke is Kyouko's father who is often not home because of work.",
+      "metadata": {
+        "gender": "male",
+        "age": "35",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89726-NS2ZmYjp1Mnr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89726
+      }
+    },
+    {
+      "id": "aoi-kitahara",
+      "name": "Aoi Kitahara",
+      "alt_names": [
+        "北原葵"
+      ],
+      "role": "supporting",
+      "description": "Aoi Kitahara is Motoko's classmate and friend.\n~!Motoko likes him, though she never openly tells him so. However, after meeting Shu, Kitahara seems to have directly his attention towards him, much to Motoko's displeasure.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b160660-UwMgy68ULUvi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 160660
+      }
+    },
+    {
+      "id": "iori-miyamura",
+      "name": "Iori Miyamura",
+      "alt_names": [
+        "宮村伊織"
+      ],
+      "role": "supporting",
+      "description": "__Occupation:__ Owner and manager of the Miyamura family's store\n\nShe's is the wife of Naozumi Miyamura and the mother of [Izumi Miyamura](https://anilist.co/character/66173/Izumi-Miyamura).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207325-wjqrISdImoOl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207325
+      }
+    },
+    {
+      "id": "keigo-izumi",
+      "name": "Keigo Izumi",
+      "alt_names": [
+        "泉圭吾"
+      ],
+      "role": "supporting",
+      "description": "A friend from Souta's elementary school.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212579-hCQycT8O1Vlb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212579
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T19:27:53.004Z"
+}

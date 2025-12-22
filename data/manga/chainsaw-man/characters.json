@@ -1,0 +1,1184 @@
+{
+  "work_id": "chainsaw-man",
+  "count": 49,
+  "characters": [
+    {
+      "id": "denji",
+      "name": "Denji",
+      "alt_names": [
+        "デンジ",
+        "Chainsaw Man",
+        "Chainsaw Devil",
+        "Lord Chainsaw"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 173 cm (5'8\"), Devil Form - 180 cm (5'11\")\n\nDenji is Chainsaw Man's Human Form. He became Chainsaw Man after his dead body was resurrected by his pet dog, [Pochita](https://anilist.co/character/170266/Pochita).\n\nHe is a Public Safety Devil Hunter who works under [Makima](https://anilist.co/character/137080/Makima) as a member of an experimental squad in Special Tokyo Division 4. He works alongside his partner [Power](https://anilist.co/character/137079/Power) and under the supervision of [Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa).\n\nDenji's personality is both brash and naive as a result of being unable to have a formal education and socialize due to living in severe poverty. He comes off as rude and harsh, yet in an almost childish way. He doesn't know how to be clever or wise but he knows how to lighten the mood. As the Chainsaw Devil, he has the ability to grow chainsaws out of his body.",
+      "metadata": {
+        "gender": "male",
+        "age": "16-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130102-FO1VHNnEnLlB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130102
+      }
+    },
+    {
+      "id": "power",
+      "name": "Power",
+      "alt_names": [
+        "パワー",
+        "Powy",
+        "Blood Fiend",
+        "Chi no Majin (血の魔人)",
+        "Number One"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 170cm (5'7\")\n\nPower is a fiend, a dead body possessed by a devil.\n\nShe is a Public Safety Devil Hunter who works (against her will) under [Makima](https://anilist.co/character/137080/Makima) as a member of an experimental squad in Tokyo Special Division 4. She works alongside her partner [Denji](https://anilist.co/character/130102/Denji), and under supervision by [Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa).\n\nPower is childish, greedy, and almost entirely self-motivated. She tends to fights if she has something to gain and is certain of her victory and has no problems in running away from a fight where she is outmatched. She also feels the need to boast her superiority over her fellow Devil Hunters due to her status as a fiend. She has no loyalty to humanity, openly admitting that she will join the winning side. Power is often rude, unkempt, and feels as though those around her should clean up after her. She self-admittedly rarely bathes or flushes the toilet and sees humans as being sensitive for caring about their hygiene so much. As the Blood Fiend, she has the power to freely manipulate the blood within her own body.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137079-6yLEUYR3bmpr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137079
+      }
+    },
+    {
+      "id": "makima",
+      "name": "Makima",
+      "alt_names": [
+        "マキマ"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 168 cm (5'6\")\n__Affiliation:__ Public Safety Devil Hunters\n\nMakima is a Public Safety Devil Hunter, who took Denji as her human pet. She is one of the leading figures of Public Safety in Japan and has a considerable reputation among experienced Devil Hunters.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137080-UHcynYNjb5ZU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137080
+      }
+    },
+    {
+      "id": "aki-hayakawa",
+      "name": "Aki Hayakawa",
+      "alt_names": [
+        "早川アキ",
+        "Topknot"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 182 cm (6'0\")\n__Devil Contracts:__ [Fox Devil](https://anilist.co/character/290671/Kitsune-no-Akuma), [Curse Devil](https://anilist.co/character/174265/Noroi-no-Akuma)\n__Relatives:__ [Hahaoya Hayakawa](https://anilist.co/character/291241/Hayakawa-Hahaoya) (Mother), [Chichioya Hayakawa](https://anilist.co/character/291240/Hayakawa-Chichioya) (Father), [Taiyou Hayakawa](https://anilist.co/character/174261/Taiyou) (Younger Brother).\n\nA Public Safety Devil Hunter working under [Makima](https://anilist.co/character/137080/Makima) as a member of Tokyo Special Division 4. He is partnered with [Himeno](https://anilist.co/character/144596/Himeno) and tasked with supervising both [Power](https://anilist.co/character/137079/Power) and [Denji](https://anilist.co/character/130102/Denji).\n\nAki Hayakawa generally appears to be a very stoic person. He acts mature and dependable when he's with his fellow Devil hunters but is actually very soft when he is alone. He has a tendency to get attached to others easily, and hates to see people get hurt, especially his close friends. Aki's primary goal and reasoning for becoming a Devil Hunter is to kill the [Gun Devil](https://anilist.co/character/208942/Juu-no-Akuma) to get revenge for his family.\n\n~!He later loses his contract with the Fox Devil and gains a new contract with the [Future Devil.](https://anilist.co/character/172887/Mirai-no-Akuma)!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137081-TSrUR3mUJL6r.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137081
+      }
+    },
+    {
+      "id": "asa-mitaka",
+      "name": "Asa Mitaka",
+      "alt_names": [
+        "三鷹アサ"
+      ],
+      "role": "protagonist",
+      "description": "Asa Mitaka is an antisocial student. She isn't seen having interest in making friends nor talking to many people during school hours. She struggles to do the right thing, constantly weighing the circumstances and her own morals to decide the “right” choice, often figuratively and literally tripping over herself in situations. She wishes to live more selfishly. \n\nShe has a hate for the infamous [Chainsaw Man](https://anilist.co/character/130102/Denji) and [Kokepii (Bucky, Chicken Devil)](https://anilist.co/character/282388/Kokepii) that is loved by mostly everyone around her, which had put her at odds with her peers. \n\n~!After being attacked by the [Class President](https://anilist.co/character/282391/Gakkyuu-Iinchou)'s Justice Devil Form, Asa Mitaka encounters the [War Devil](https://anilist.co/character/282872/Sensou-no-Akuma). She resurrects Asa in exchange for inhabiting her body, leaving half her brain intact to keep her alive. Asa will do anything to get her body back, leading her to promise the War Devil she will help her kill Chainsaw Man.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282389-Mr4vAa8Du2Jx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282389
+      }
+    },
+    {
+      "id": "sensou-no-akuma",
+      "name": "Sensou no Akuma",
+      "alt_names": [
+        "戦争の悪魔",
+        "War Devil",
+        "Yoru"
+      ],
+      "role": "protagonist",
+      "description": "Yoru is the War Devil and a member of the Four Horsemen, who now occupies [Asa Mitaka](https://anilist.co/character/282389/Asa-Mitaka). Before inhabiting Asa's body, her appearance was that of a bird, largely resembling a potoo.\n\nYoru is first seen on top of a traffic light a few seconds prior to Asa Mitaka's death by the [Class President](https://anilist.co/character/282391/Gakkyuu-Iinchou)'s Justice Devil Form. She resurrects Asa in exchange for inhabiting her body, leaving half her brain intact to keep her alive.\n\n~!War Devil calls themselves \"Yoru\" so that it's easier for Asa Mitaka to call her. It is also revealed that there is a condition in which Yoru (War Devil) cannot take over Asa Mitaka's body when she is stricken with fear.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282872-taoHfD0JGiZG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282872
+      }
+    },
+    {
+      "id": "kishibe",
+      "name": "Kishibe",
+      "alt_names": [
+        "岸辺",
+        "Master",
+        "Mad Dog Kishibe"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 194 cm\n\nA Public Safety Devil Hunter from Special Division 1 \n~!After the assault on the Special Divisions, he became captain of the Special Division 4.!~\n\nKishibe is a grizzled man with scraggly facial hair and a stitched scar running across his left cheek from his mouth. He normally wears the standard Public Safety devil hunter uniform with a large overcoat. He has two piercings on his left ear, and one on his right ear. He is often seen with a hip flask which he frequently drinks from. Kishibe is a stoic, straightforward individual. Due to his immense strength and skill, he often undertakes his work with a calm formality, displaying little emotion as he does so. Though he tends to speak in a relaxed, polite manner, his actions often showcase an immense brutality garnered through many years of Devil Hunting. Though he sometimes expresses emotions such as surprise and sadness at certain events, his face and voice remain entirely neutral. Kishibe has been hunting devils for a long time, making him somewhat insane. He espouses a belief that the most fearsome devil hunters to devils isn't the brave or the strong, but the craziest as they are the ones without fear. He admits that he enjoys booze, women and killing devils.\n\n~!He is the former partner of [Quanxi](https://anilist.co/character/162123/Quanxi).!~",
+      "metadata": {
+        "gender": "male",
+        "age": "50+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144593-hdCTT9t54z0s.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144593
+      }
+    },
+    {
+      "id": "kobeni-higashiyama",
+      "name": "Kobeni Higashiyama",
+      "alt_names": [
+        "東山コベニ",
+        "Beni"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 155 cm\n\nA Public Safety Devil Hunter, she is a new recruit working under [Makima](https://anilist.co/character/137080/Makima) as a member of Tokyo Special Division 4. She is partnered with [Hirokazu Arai](https://anilist.co/character/174263).\n\nShe is not very courageous and gets scared easily by devils. Kobeni is shown to easily crack under pressure and break into tears during serious moments. Even though Kobeni is timid, she is pretty talented as a devil hunter. When Kobeni gets into action, she has proven to be cool-headed and efficient in battle, only breaking down in a panic once the fighting is over. Kobeni chooses to keep her devil contract a secret.",
+      "metadata": {
+        "gender": "female",
+        "age": "20-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144594-0dbO1NSYeZ12.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144594
+      }
+    },
+    {
+      "id": "himeno",
+      "name": "Himeno",
+      "alt_names": [
+        "姫野",
+        "Vomit Girl"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 175 cm (5'9\")\n__Devil Contract:__ [Ghost Devil](https://anilist.co/character/174262/Yuurei-no-Akuma)\n__Relatives:__ [Unnamed Younger Sister](https://anilist.co/character/174283/Himeno-no-Imouto)\n\nA Public Safety Devil Hunter, working under [Makima](https://anilist.co/character/137080/Makima) as a member of Tokyo Special Division 4. She is partnered with [Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa), whom she shares a close personal bond with.\n\nHimeno is shown to be a mature and experienced superior to the new recruits working under her. She generally carries herself with an upbeat body language and is capable of staying calm under extremely stressful situations. Himeno is very efficient and blunt in her duty as a Devil Hunter. Himeno is also shown to be a rather caring and empathetic person, however she does have a sterner side and little tolerance for behavior from new recruits that would endanger or harm her subordinates. \n\nHimeno holds an extremely pessimistic worldview as a result of having witnessed multiple partners die suddenly in her line of work. Her knowledge that Devil Hunters typically die as a result of their career combined with the teachings of her [master](https://anilist.co/character/144593/Kishibe) eventually lead to her developing a nicotine addiction as a coping mechanism. She also tends to acts extremely aloof and sexual, enjoying a hedonistic lifestyle. However, similarly to her smoking addiction, her hedonistic ways are not used as pleasure, but rather as another defense mechanism.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144596-kvL6SD2litJu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144596
+      }
+    },
+    {
+      "id": "reze",
+      "name": "Reze",
+      "alt_names": [
+        "レゼ",
+        "Lady Reze"
+      ],
+      "role": "supporting",
+      "description": "Reze is a young girl who met Denji in a phone cabin. She works at a café. Reze is a kind and gentle girl who seems to have a crush on Denji soon after meeting him. She laughs at his jokes and isn't afraid to get close to and intimate with him.\n\n~!She is the Bomb Devil hybrid from the Soviet Union and ally to the Gun Devil. Her true personality is manipulative and brutal, as she is shown killing many Devil Hunters without care or mercy. She does, however, not enjoy killing and prefers to avoid it, unless necessary for her mission. She is the primary antagonist of the titular Bomb Girl arc. Her objective is to retrieve the Chainsaw Heart from Denji but the feelings she developed for him got in the way of her mission.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 148740
+      }
+    },
+    {
+      "id": "tenshi-no-akuma",
+      "name": "Tenshi no Akuma",
+      "alt_names": [
+        "天使の悪魔",
+        "Angel Devil"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 155 cm (With halo: 165 cm)\n\nAngel Devil is a devil who embodies the fear of angels, and a Public Safety Devil Hunter from Special Division 4\n\nThe Angel Devil is a unique case among devils having virtually no hostility towards humans. He dislikes being ordered around and doesn't seem inclined towards combat. His extreme laziness holds him back from being a strong fighter and he often refuses to work, even claiming to prefer dying to working.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b152231-vHM4WlaYIVB5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 152231
+      }
+    },
+    {
+      "id": "bouryoku-no-majin",
+      "name": "Bouryoku no Majin",
+      "alt_names": [
+        "暴力の魔人",
+        "Violence Fiend"
+      ],
+      "role": "supporting",
+      "description": "He is a Fiend and Public Safety Devil Hunter from Special Division 4.\n\nDespite his moniker as the Violence Fiend, he is extremely polite and straightforward. He apologized to Beam after hitting him in self-defense and told the Spider Devil to evacuate the area when he mistook her for a human lady.\n\n~!He is later partnered with Kobeni Higashiyama following the events of the Katana Man Arc!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157231-hV81SwGqxl2R.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157231
+      }
+    },
+    {
+      "id": "beam",
+      "name": "Beam",
+      "alt_names": [
+        "ビーム",
+        "Shark Fiend"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165 cm (With fin: 176 cm)\n\nHe is a Shark Fiend and a Public Safety Devil Hunter from Special Division 4.\n\nBeam is very eccentric. He often goes along with Denji's plans no matter how crazy they are due to having a lot of respect for the Chainsaw Devil.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157232-5GuWeqoFN9Kq.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157232
+      }
+    },
+    {
+      "id": "samurai-sword",
+      "name": "Samurai Sword",
+      "alt_names": [
+        "サムライソード",
+        "Katana Man",
+        "Sideburns Man"
+      ],
+      "role": "supporting",
+      "description": "Samurai Sword is a human-devil hybrid who merged with the Katana Devil. His [grandfather](https://anilist.co/character/289198/Yakuza) was killed by [Denji](https://anilist.co/character/130102/Denji) when they initially fused with [Pochita](https://anilist.co/character/170266/Pochita), and because of that, he affiliated with the [Gun Devil](https://anilist.co/character/208942/Juu-no-Akuma) to get revenge on Denji. He works alongside [Akane Sawatari](https://anilist.co/character/174264/Akane-Sawatari) and other fellow members of the Yakuza.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157241-GkgQVzkFrmUD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157241
+      }
+    },
+    {
+      "id": "prinz",
+      "name": "Prinz",
+      "alt_names": [
+        "プリンシ",
+        "Kumo no Akuma (蜘蛛の悪魔)",
+        "Spider Devil",
+        "Princi"
+      ],
+      "role": "supporting",
+      "description": "She is a devil who embodies the fear of spiders,and is a Public Safety Devil Hunter from Special Division 4.\n\nThe Spider Devil usually takes a human shape so she tends to be friendly to humans and works as a devil hunter herself, however she will still kill people for just looking at her the wrong way.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157277-h6M1umQ3N2ve.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157277
+      }
+    },
+    {
+      "id": "hirofumi-yoshida",
+      "name": "Hirofumi Yoshida",
+      "alt_names": [
+        "吉田博文",
+        "吉田ヒロフミ"
+      ],
+      "role": "supporting",
+      "description": "Hirofumi Yoshida is a Private Devil Hunter.\n\nConsidered a high-class bodyguard specialist by Makima. Yoshida always has a smile on his face, he is seen to be quite playful and mischievous but can also be ruthless. He also loves to have small talk with his opponents during battle.\n\n~!He has a contract with the Octopus Devil.!~ ~!During a conversation with Kishibe it is revealed that he is still attending high school.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162080-fbX6t96GUQpo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162080
+      }
+    },
+    {
+      "id": "quanxi",
+      "name": "Quanxi",
+      "alt_names": [
+        "クァンシ"
+      ],
+      "role": "supporting",
+      "description": "Quanxi is a devil hunter from China. She has a harem composed of four female fiends.  ~!She is the former partner of [Kishibe](https://anilist.co/character/144593/Kishibe.).!~ ~!Just like [Denji](https://anilist.co/character/130102/Denji), Quanxi is also hybrid. She is fused with the Crossbow Devil.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162123-GmQLb9p2iWxQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162123
+      }
+    },
+    {
+      "id": "aldo",
+      "name": "Aldo",
+      "alt_names": [
+        "アルド"
+      ],
+      "role": "supporting",
+      "description": "Aldo is a private devil hunter from the United States.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162129-00gT6tLfmrec.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162129
+      }
+    },
+    {
+      "id": "pochita",
+      "name": "Pochita",
+      "alt_names": [
+        "ポチタ",
+        "Chainsaw no Akuma (チェンソーの悪魔)",
+        "Chainsaw Devil"
+      ],
+      "role": "supporting",
+      "description": "Pochita appears to be a small red canine with a chainsaw like appendage protruding from the center of his head. Handles emerge from his body allowing him to be wielded like a chainsaw and his short tail is in the shape of a chainsaw's pull cord. Unlike most devils, Pochita communicated solely through barks and whines like an actual dog.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170266-bBXPkNJnd3mg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170266
+      }
+    },
+    {
+      "id": "mirai-no-akuma",
+      "name": "Mirai no Akuma",
+      "alt_names": [
+        "未来の悪魔",
+        "Future Devil"
+      ],
+      "role": "supporting",
+      "description": "The Future Devil is a devil that embodies the fear of the future. ~!After seeing [Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa)'s future, it made a contract with him, so he can see that future himself.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b172887-qMCjXPXMSKRk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 172887
+      }
+    },
+    {
+      "id": "tolkas-master",
+      "name": "Tolka's Master",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b172888-gmaZJ0PeLNM6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 172888
+      }
+    },
+    {
+      "id": "cosmo",
+      "name": "Cosmo",
+      "alt_names": [
+        "コスモ"
+      ],
+      "role": "supporting",
+      "description": "A member of Quanxi's harem, Cosmo is seen only saying \"Halloween.\"",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b172890-l35ftRwlTBwh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 172890
+      }
+    },
+    {
+      "id": "pingtsi",
+      "name": "Pingtsi",
+      "alt_names": [
+        "ピンツィ"
+      ],
+      "role": "supporting",
+      "description": "One of [Quanxi](https://anilist.co/character/162123/Quanxi)'s fiends, and one of her harem members.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b172891-FrW2rKbqRTd8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 172891
+      }
+    },
+    {
+      "id": "taiyou",
+      "name": "Taiyou",
+      "alt_names": [
+        "タイヨウ"
+      ],
+      "role": "supporting",
+      "description": "[Aki Hayakawa](https://anilist.co/character/137081)'s younger brother.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174261-qRcr40Q3zsyM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174261
+      }
+    },
+    {
+      "id": "hirokazu-arai",
+      "name": "Hirokazu Arai ",
+      "alt_names": [
+        "荒井ヒロカズ"
+      ],
+      "role": "supporting",
+      "description": "__Devil Contract:__ [Fox Devil](https://anilist.co/character/290671/Kitsune-no-Akuma)\n\nA Public Safety Devil Hunter, he is a new recruit working under [Makima](https://anilist.co/character/137080/Makima) as a member of Tokyo Special Division 4. He is partnered with [Kobeni Higashiyama](https://anilist.co/character/144594/Kobeni-Higashiyama).\n\nHirokazu is shown to have high moral standards and cares a lot about his teammates and their wellbeing, going out of his way to assist and support others whenever possible, especially towards those who are sick. He was trained by [Himeno](https://anilist.co/character/144596) for half a year. Himeno has stated that what he lacks in ability, he makes up for in drive. He likes writing haikus in his free time as a hobby.",
+      "metadata": {
+        "gender": "male",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174263-TTMWfBlU1k3f.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174263
+      }
+    },
+    {
+      "id": "doitsu-no-santa-claus",
+      "name": "Doitsu no Santa Claus ",
+      "alt_names": [
+        "ドイツのサンタクロース",
+        "Germany's Santa Claus "
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174268-6hOGseNoWTsA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174268
+      }
+    },
+    {
+      "id": "nyaako",
+      "name": "Nyaako",
+      "alt_names": [
+        "ニャーコ",
+        "Meowy"
+      ],
+      "role": "supporting",
+      "description": "[Power](https://anilist.co/character/137079/Power)'s cat. ~!Now currently owned by [Denji](https://anilist.co/character/130102/Denji).!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174271-iC0Ul9YfLOk6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174271
+      }
+    },
+    {
+      "id": "tolka",
+      "name": "Tolka",
+      "alt_names": [
+        "トーリカ"
+      ],
+      "role": "supporting",
+      "description": "Tolka is a private devil hunter from the Soviet Union.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174279-C8UY2A5oLTph.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174279
+      }
+    },
+    {
+      "id": "tsugihagi",
+      "name": "Tsugihagi",
+      "alt_names": [
+        "ツギハギ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199766-byV68lheQ2q4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199766
+      }
+    },
+    {
+      "id": "nayuta",
+      "name": "Nayuta",
+      "alt_names": [
+        "ナユタ"
+      ],
+      "role": "supporting",
+      "description": "~!She is the reincarnation of the Control Devil following Makima's death.!~ ~!Denji is her adoptive brother.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "<1",
+        "dateOfBirth": "1997-01-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199767-VU8RyHRj9MVY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199767
+      }
+    },
+    {
+      "id": "tanaka",
+      "name": "Tanaka",
+      "alt_names": [
+        "田中",
+        "Tanaka-sensei (田中ー先生)"
+      ],
+      "role": "supporting",
+      "description": "Tanaka is the Class Teacher for the Class of Asa Mitaka, Yoshida, the newly introduced character Yuko and other students...\n\nTanaka conducted an \"experiment\" where he introduced a Chicken Devil known as [Bucky](https://anilist.co/character/282388/Kokepii) and instructed the students to kill and eat it in 3 months to make them understand how precious life is (later, this \"experiment\" was a _success_ since students gained affection for Bucky and refused to kill him)\n\n~!Tanaka supposedly had an affair with a student who was the [Class President](https://anilist.co/character/282391/Gakkyuu-Iinchou).!~\n\n~!Chapter 98 (Bird and War) — Tanaka is killed by [Asa Mitaka](https://anilist.co/character/282389/Asa-Mitaka) in it's War Devil form.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282390-2DJRyIwqEoy2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282390
+      }
+    },
+    {
+      "id": "gakkyuu-iinchou",
+      "name": "Gakkyuu Iinchou",
+      "alt_names": [
+        "学級委員長",
+        "Class President",
+        "Class Prez"
+      ],
+      "role": "supporting",
+      "description": "[Class President]() is Justice Devil's Human Form.\n\n~!Class President supposedly had an affair with their Class Teacher [Tanaka](https://anilist.co/character/282390/Tanakasensei).!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282391-d04ZVSW1N0uL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282391
+      }
+    },
+    {
+      "id": "yuuko",
+      "name": "Yuuko",
+      "alt_names": [
+        "ユウコ",
+        "Yuko"
+      ],
+      "role": "supporting",
+      "description": "Yuuko is a Student from the same Class as [Yoshida](https://anilist.co/character/162080/Hirofumi-Yoshida) and [Asa Mitaka](https://anilist.co/character/282389/Asa-Mitaka). She is first introduced when the three are chosen as a group for the Devil Hunter Club tryouts.\n\n~!In chapter 105, it is revealed that Yuuko formed a contract with the Justice Devil in order to help [Asa](https://anilist.co/character/282389/Asa-Mitaka) with her bullying problem.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283491-eifgbV15QBqH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283491
+      }
+    },
+    {
+      "id": "kitsune-no-akuma",
+      "name": "Kitsune no Akuma",
+      "alt_names": [
+        "狐の悪魔",
+        "Fox Devil"
+      ],
+      "role": "supporting",
+      "description": "The Fox Devil is a devil that embodies the fear of foxes. \n\nIt is friendly with humans, allowing numerous Devil Hunters to make contracts with itself. However it only grants attractive people the ability to summon its head, showing a rather superficial side of itself.\n\n**Known Contractors:** \n~! [Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa), [Hirokazu Arai](https://anilist.co/character/174263/Hirokazu-Arai), [Nomo](https://anilist.co/character/174266/Nomo)!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290671-YaauAZvHLnyo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290671
+      }
+    },
+    {
+      "id": "kiga-no-akuma",
+      "name": "Kiga no Akuma",
+      "alt_names": [
+        "飢餓の悪魔",
+        "Kiga (キガ)",
+        "Famine Devil",
+        "Fami"
+      ],
+      "role": "supporting",
+      "description": "The Famine Devil is one of the four horseman devils.\n\nIt is revealed in chapter 198 that:\n~!The Fami shown thus far in the series is actually the [Death Devil](https://anilist.co/character/294475/Kiga-no-Akuma), who had been using Famine's name, for which she apologizes.\n\nThe real Fami is an extreme crybaby. She states she feels bad for her classmates, and wishes to 'save' them. She can be overconfident, having stated her analysis of an opponent, stating she would win in three seconds, only to be sliced up again and beg for forgiveness. As for her powers, she seems to be able to absorb the life out of a living being she touches, which she views as saving them from the suffering of life.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b294475-3DOVtMBudU9f.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b366135-oxWYuhy1bAFv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 366135
+      }
+    },
+    {
+      "id": "haruka-iseumi",
+      "name": "Haruka Iseumi",
+      "alt_names": [
+        "伊勢海ハルカ"
+      ],
+      "role": "supporting",
+      "description": "A student at Fourth East High School, where he is the president of the Devil Hunter Club and Student Council. He claims to be Chainsaw Man. ~!In reality, he is \"The Man Who Comes Closest to Chainsaw Man.\" He had the chainsaw starter surgically implanted in his chest, is President of the Chainsaw Man Society's High School Chapter, was runner-up in the Chainsaw Man Quiz Show, and owns every piece of Chainsaw Man merchandise.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b294718-GZnza1AmHXHd.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294718
+      }
+    },
+    {
+      "id": "seigi-akoku",
+      "name": "Seigi Akoku",
+      "alt_names": [
+        "亜国セイギ"
+      ],
+      "role": "supporting",
+      "description": "A student attending Fourth East High School and member of the Devil Hunter Club.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b294720-XfV8432bno7t.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294720
+      }
+    },
+    {
+      "id": "furuno",
+      "name": "Furuno",
+      "alt_names": [
+        "古野"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b294738-mQPmNepLSuLH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294738
+      }
+    },
+    {
+      "id": "rakka-no-akuma",
+      "name": "Rakka no Akuma",
+      "alt_names": [
+        "落下の悪魔",
+        "Falling Devil",
+        "Demônio da Queda"
+      ],
+      "role": "supporting",
+      "description": "The Falling Devil is a devil that embodies the primal fear of heights and falling.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b301803-LNY3TmVxZAgQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 301803
+      }
+    },
+    {
+      "id": "miri-sugou",
+      "name": "Miri Sugou",
+      "alt_names": [
+        "須郷ミリ",
+        "Sword Man  (ソードマン)",
+        "Buki Ningen Chouken (武器人間長剣)",
+        "Longsword Hybrid"
+      ],
+      "role": "supporting",
+      "description": "Miri Sugou, also known as Sword Man, is a human-devil hybrid that merged with the Longsword Devil ~!and serves as a minor antagonist in the Control Devil arc, where he faces the Chainsaw Devil.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306233-SX48ZhKbxKCB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306233
+      }
+    },
+    {
+      "id": "buki-ningen-yari",
+      "name": "Buki Ningen Yari",
+      "alt_names": [
+        "Spear Hybrid"
+      ],
+      "role": "supporting",
+      "description": "Spear Hybrid is a human-devil hybrid that merged with the Spear Devil ~!and serves as a minor antagonist in the Control Devil arc, where he faces the Chainsaw Devil.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306234-7hYRPt46Z9C5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306234
+      }
+    },
+    {
+      "id": "barem-bridge",
+      "name": "Barem Bridge",
+      "alt_names": [
+        "バルエム・ブリッチ",
+        "Buki Ningen Kaenhoushaki (武器人間火炎放射器)",
+        "Flamethrower Hybrid"
+      ],
+      "role": "supporting",
+      "description": "A human-devil hybrid that merged with the Flamethrower Devil.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306235-bPYpZKw5I9wi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306235
+      }
+    },
+    {
+      "id": "buki-ningen-muchi",
+      "name": "Buki Ningen Muchi",
+      "alt_names": [
+        "武器人間鞭",
+        "Whip Hybrid"
+      ],
+      "role": "supporting",
+      "description": "Whip Hybrid is a human-devil hybrid that merged with the Whip Devil ~!and serves as a minor antagonist in the Control Devil arc, where she faces the Chainsaw Devil.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "81",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306236-RFZ8jQQJ8oZ9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306236
+      }
+    },
+    {
+      "id": "jigoku-no-akuma",
+      "name": "Jigoku no Akuma",
+      "alt_names": [
+        "地獄の悪魔",
+        "Hell Devil"
+      ],
+      "role": "supporting",
+      "description": "The Hell Devil is a devil that embodies the fear of Hell.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311638-jJI5QklsvY5s.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311638
+      }
+    },
+    {
+      "id": "fumiko-mifune",
+      "name": "Fumiko Mifune",
+      "alt_names": [
+        "三船フミコ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311954-UZrETT038ijt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311954
+      }
+    },
+    {
+      "id": "nobana-higashiyama",
+      "name": "Nobana Higashiyama",
+      "alt_names": [
+        "東山ノバナ"
+      ],
+      "role": "supporting",
+      "description": "Highschooler attending Fourth East High School and a member of the Devil Hunter Club. He is the younger brother of [Kobeni Higashiyama](https://anilist.co/character/144594). ~!He is also a tour guide at the Chainsaw Man Church.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312718-4uisSu4lpyyt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312718
+      }
+    },
+    {
+      "id": "oi-no-akuma",
+      "name": "Oi no Akuma",
+      "alt_names": [
+        "老いの悪魔",
+        "Aging Devil"
+      ],
+      "role": "supporting",
+      "description": "Primal Fear Devil that embodies the fear of aging.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b347492-BEMdPULyAwRQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 347492
+      }
+    },
+    {
+      "id": "yuutarou-kurose",
+      "name": "Yuutarou Kurose",
+      "alt_names": [
+        "黒瀬ユウタロウ"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 165 cm (5'5\")\n__Devil Contract:__ [Punishment Devil](https://anilist.co/character/306237/Batsu-no-Akuma)\n\nA Public Safety Devil Hunter from Kyoto. He is partnered with [Michiko Tendou](https://anilist.co/character/144595/Michiko-Tendou).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144592-pUY67nacCeud.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144592
+      }
+    },
+    {
+      "id": "michiko-tendou",
+      "name": "Michiko Tendou",
+      "alt_names": [
+        "天童ミチコ"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 175cm (5'9\")\n__Devil Contracts:__ [Punishment Devil](https://anilist.co/character/306237/Batsu-no-Akuma)\n\nA Public Safety Devil Hunter from Kyoto. She is partnered with [Yuutarou Kurose](https://anilist.co/character/144592/Yuutarou-Kurose).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144595-R8Lfn0egUR3q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144595
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T18:54:28.772Z"
+}

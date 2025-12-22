@@ -1,5 +1,8 @@
 #!/usr/bin/env node
 
+import { config } from 'dotenv';
+config(); // Carrega variáveis do .env
+
 import { Command } from 'commander';
 import { createImportJob } from './jobs/importWork.js';
 import { createAutoCrawlJob } from './jobs/autoCrawl.js';
@@ -9,6 +12,8 @@ import { createValidator } from './utils/validator.js';
 import { logger } from './utils/logger.js';
 import { readJson } from './utils/file.js';
 import { join } from 'path';
+import fs from 'fs/promises';
+import { existsSync } from 'fs';
 
 /**
  * Delay helper
@@ -32,13 +37,14 @@ program
  */
 program
   .command('import')
-  .description('Importa uma obra do AniList')
-  .argument('<type>', 'Tipo da obra (anime, manga)')
-  .argument('[search]', 'Nome ou ID da obra')
-  .option('-s, --source <source>', 'Fonte dos dados (anilist, mal)', 'anilist')
+  .description('Importa uma obra (anime, manga, game, etc.)')
+  .argument('<type>', 'Tipo da obra (anime, manga, game)')
+  .argument('[search]', 'Nome, ID ou slug da obra')
+  .option('-s, --source <source>', 'Fonte dos dados (auto-detecta se não especificado)')
   .option('--id <id>', 'ID direto da obra na fonte')
+  .option('--slug <slug>', 'Slug da obra (para RAWG)')
   .option('--skip-characters', 'Importar apenas informações da obra')
-  .option('--limit <number>', 'Limite de personagens', parseInt)
+  .option('--limit <number>', 'Limite de personagens/criadores', parseInt)
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (type, search, options) => {
     try {
@@ -47,12 +53,14 @@ program
       const criteria = {
         search: isNumeric ? undefined : search,
         id: isNumeric ? parseInt(search) : (options.id ? parseInt(options.id) : undefined),
+        slug: options.slug,
         type: type
       };
 
       const job = createImportJob({ 
         baseDir: options.baseDir,
-        source: options.source 
+        source: options.source,
+        type: type // Passa o tipo para auto-detectar fonte
       });
       
       const result = await job.import(criteria, {
@@ -64,6 +72,7 @@ program
       console.log(`   Obra: ${result.work.title}`);
       console.log(`   ID: ${result.work.id}`);
       console.log(`   Tipo: ${result.work.type}`);
+      console.log(`   Fonte: ${result.work.source}`);
       
       if (result.characters) {
         console.log(`   Personagens: ${result.characters.total} (${result.characters.added} novos, ${result.characters.updated} atualizados)`);
@@ -294,6 +303,7 @@ program
 program
   .command('crawl')
   .description('Crawling automático de obras populares')
+  .option('--type <type>', 'Tipo de obra (anime, manga)', 'anime')
   .option('--max-works <number>', 'Máximo de obras por execução', parseInt, 10)
   .option('--character-limit <number>', 'Limite de personagens por obra', parseInt, 50)
   .option('--delay <number>', 'Delay entre importações (ms)', parseInt, 10000)
@@ -301,8 +311,15 @@ program
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (options) => {
     try {
+      if (options.type === 'game') {
+        console.error('❌ Jogos não são suportados por enquanto (RAWG não oferece personagens fictícios).');
+        console.error('📖 Use --type anime ou --type manga');
+        process.exit(1);
+      }
+
       const crawlJob = createAutoCrawlJob({
         baseDir: options.baseDir,
+        type: options.type,
         maxWorks: options.maxWorks,
         characterLimit: options.characterLimit,
         delayBetweenImports: options.delay
@@ -314,6 +331,7 @@ program
       });
 
       console.log('\n📊 Relatório do Crawling:');
+      console.log(`   Tipo: ${options.type}`);
       console.log(`   Processadas: ${report.processed}`);
       console.log(`   Puladas: ${report.skipped}`);
       console.log(`   Restantes na fila: ${report.remaining}`);
@@ -332,10 +350,20 @@ program
 program
   .command('crawl-status')
   .description('Mostra status do crawling automático')
+  .option('--type <type>', 'Tipo de obra (anime, manga)', 'anime')
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (options) => {
     try {
-      const crawlJob = createAutoCrawlJob({ baseDir: options.baseDir });
+      if (options.type === 'game') {
+        console.error('❌ Jogos não são suportados por enquanto (RAWG não oferece personagens fictícios).');
+        console.error('📖 Use --type anime ou --type manga');
+        process.exit(1);
+      }
+
+      const crawlJob = createAutoCrawlJob({ 
+        baseDir: options.baseDir,
+        type: options.type
+      });
       await crawlJob.showStatus();
 
     } catch (error) {
@@ -351,11 +379,21 @@ program
 program
   .command('crawl-list')
   .description('Lista obras já processadas pelo crawler')
+  .option('--type <type>', 'Tipo de obra (anime, manga)', 'anime')
   .option('--limit <number>', 'Limite de resultados', parseInt, 20)
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (options) => {
     try {
-      const crawlJob = createAutoCrawlJob({ baseDir: options.baseDir });
+      if (options.type === 'game') {
+        console.error('❌ Jogos não são suportados por enquanto (RAWG não oferece personagens fictícios).');
+        console.error('📖 Use --type anime ou --type manga');
+        process.exit(1);
+      }
+
+      const crawlJob = createAutoCrawlJob({ 
+        baseDir: options.baseDir,
+        type: options.type
+      });
       await crawlJob.listProcessed({ limit: options.limit });
 
     } catch (error) {
@@ -371,10 +409,14 @@ program
 program
   .command('crawl-clear')
   .description('Limpa a fila de obras pendentes do crawler')
+  .option('--type <type>', 'Tipo de obra (anime, manga, game)', 'anime')
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (options) => {
     try {
-      const crawlJob = createAutoCrawlJob({ baseDir: options.baseDir });
+      const crawlJob = createAutoCrawlJob({ 
+        baseDir: options.baseDir,
+        type: options.type
+      });
       await crawlJob.clearQueue();
 
     } catch (error) {
@@ -385,23 +427,34 @@ program
 
 /**
  * Comando: crawl-grow
- * Aumenta a fila de obras descobrindo mais animes populares
+ * Aumenta a fila de obras descobrindo mais obras populares
  */
 program
   .command('crawl-grow')
-  .description('Aumenta a fila de obras descobrindo mais animes populares')
+  .description('Aumenta a fila de obras descobrindo mais obras populares')
+  .option('--type <type>', 'Tipo de obra (anime, manga)', 'anime')
   .option('--count <number>', 'Número de obras a adicionar', parseInt, 20)
   .option('--page <number>', 'Página inicial para busca', parseInt, 1)
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (options) => {
     try {
-      const crawlJob = createAutoCrawlJob({ baseDir: options.baseDir });
+      if (options.type === 'game') {
+        console.error('❌ Jogos não são suportados por enquanto (RAWG não oferece personagens fictícios).');
+        console.error('📖 Use --type anime ou --type manga');
+        process.exit(1);
+      }
+
+      const crawlJob = createAutoCrawlJob({ 
+        baseDir: options.baseDir,
+        type: options.type
+      });
       const report = await crawlJob.growQueue({
         count: options.count,
         page: options.page
       });
 
       console.log('\n📊 Relatório do Crescimento da Fila:');
+      console.log(`   Tipo: ${options.type}`);
       console.log(`   Solicitadas: ${report.requested}`);
       console.log(`   Adicionadas: ${report.added}`);
       console.log(`   Total na fila: ${report.totalQueue}`);
@@ -419,6 +472,7 @@ program
 program
   .command('autocraw')
   .description('Crawling automático contínuo com enrichment e alternância inteligente de APIs')
+  .option('--type <type>', 'Tipo de obra (anime, manga)', 'anime')
   .option('--max-works <number>', 'Máximo de obras por ciclo', parseInt, 5)
   .option('--character-limit <number>', 'Limite de personagens por obra', parseInt, 25)
   .option('--delay <number>', 'Delay entre importações (ms)', 15000)
@@ -427,11 +481,18 @@ program
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (options) => {
     try {
+      if (options.type === 'game') {
+        console.error('❌ Jogos não são suportados por enquanto (RAWG não oferece personagens fictícios).');
+        console.error('📖 Use --type anime ou --type manga');
+        process.exit(1);
+      }
+
       logger.info('🤖 Iniciando AutoCraw contínuo...');
-      logger.info(`📊 Config: max-works=${options.maxWorks}, delay=${options.delay}ms, enrich=${options.enrich}`);
+      logger.info(`📊 Config: type=${options.type}, max-works=${options.maxWorks}, delay=${options.delay}ms, enrich=${options.enrich}`);
 
       const crawlJob = createAutoCrawlJob({
         baseDir: options.baseDir,
+        type: options.type,
         maxWorks: options.maxWorks,
         characterLimit: options.characterLimit,
         delayBetweenImports: parseInt(options.delay) || 15000,
@@ -633,6 +694,69 @@ program
         }
       })
   );
+
+// Comando: deploy
+program
+  .command('deploy')
+  .description('Atualiza a base de dados pública do frontend')
+  .option('--web-dir <dir>', 'Diretório do frontend', './web')
+  .option('--data-dir <dir>', 'Diretório dos dados', './data')
+  .action(async (options) => {
+    try {
+      const webDir = options.webDir;
+      const dataDir = options.dataDir;
+      const publicDataDir = join(webDir, 'public', 'data');
+
+      console.log('🚀 Iniciando deploy da base de dados...\n');
+
+      // Verificar se os diretórios existem
+      if (!existsSync(dataDir)) {
+        throw new Error(`Diretório de dados não encontrado: ${dataDir}`);
+      }
+
+      if (!existsSync(webDir)) {
+        throw new Error(`Diretório do frontend não encontrado: ${webDir}`);
+      }
+
+      // Apagar web/public/data se existir
+      if (existsSync(publicDataDir)) {
+        console.log(`🗑️  Removendo dados antigos: ${publicDataDir}`);
+        await fs.rm(publicDataDir, { recursive: true, force: true });
+      }
+
+      // Criar diretório public/data
+      await fs.mkdir(join(webDir, 'public'), { recursive: true });
+
+      // Copiar data/ para web/public/data
+      console.log(`📋 Copiando dados de ${dataDir} para ${publicDataDir}`);
+
+      // Função recursiva para copiar diretório
+      async function copyDir(src, dest) {
+        const entries = await fs.readdir(src, { withFileTypes: true });
+
+        for (const entry of entries) {
+          const srcPath = join(src, entry.name);
+          const destPath = join(dest, entry.name);
+
+          if (entry.isDirectory()) {
+            await fs.mkdir(destPath, { recursive: true });
+            await copyDir(srcPath, destPath);
+          } else {
+            await fs.copyFile(srcPath, destPath);
+          }
+        }
+      }
+
+      await copyDir(dataDir, publicDataDir);
+
+      console.log('\n✅ Deploy concluído com sucesso!');
+      console.log(`📊 Base de dados atualizada em: ${publicDataDir}`);
+
+    } catch (error) {
+      logger.error(`Erro no deploy: ${error.message}`);
+      process.exit(1);
+    }
+  });
 
 // Parse dos argumentos
 program.parse();

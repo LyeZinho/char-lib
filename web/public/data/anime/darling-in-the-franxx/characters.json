@@ -1,0 +1,596 @@
+{
+  "work_id": "darling-in-the-franxx",
+  "count": 25,
+  "characters": [
+    {
+      "id": "hiro",
+      "name": "Hiro",
+      "alt_names": [
+        "ヒロ",
+        "Code:016",
+        "Darling"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 168 cm (5'6\")\n__Classification:__ Parasite\n__Affiliation:__ Thirteenth Plantation\n__Occupation:__ Stamen\n__Partners:__ ~! Zero Two, Naomi (formerly), Ichigo (temporarily), 001 (temporarily), 9'α (temporarily) !~\n__FRANXX:__ Strelizia, Delphinium (temporarily), ~! 9 Model (temporarily) !~\n\nHiro was known as a prodigy Parasite with the codename \"016\" of Thirteenth Plantation, where he's partnered in a boy-girl pair with Zero Two to pilot a FRANXX called Strelizia.",
+      "metadata": {
+        "gender": "male",
+        "age": "14-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124380-ct1wJHIl9BY1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124380
+      }
+    },
+    {
+      "id": "zero-two",
+      "name": "Zero Two",
+      "alt_names": [
+        "ゼロツー",
+        "Code:002",
+        "Partner Killer (パートナー殺し)",
+        "9' Iota",
+        "Nine Iota (ナインイオタ)",
+        "9'ι"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 170 cm (5'7\")\n__Classification:__ Parasite\n__Affiliation:__ APE's Special Forces Unit\n__Partner:__ Hiro\n__FRANXX:__ Strelizia \n\nZero Two is an elite FRANXX pilot who is a member of a race of humans with Klaxosaur blood, and the pistil of the FranXX Strelizia.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124381-pkTKi6HHNuVR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124381
+      }
+    },
+    {
+      "id": "ichigo",
+      "name": "Ichigo",
+      "alt_names": [
+        "イチゴ",
+        "015"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 152 cm (5’0”)\n\nIchigo is a former Parasite with the codename \"015\" of the Thirteenth Plantation, where she was partnered in boy-girl pair with Goro to pilot a FRANXX called Delphinium.",
+      "metadata": {
+        "gender": "female",
+        "age": "14-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124382-bSBkjtYjJQtr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124382
+      }
+    },
+    {
+      "id": "goro",
+      "name": "Goro",
+      "alt_names": [
+        "ゴロー",
+        "Code:056"
+      ],
+      "role": "protagonist",
+      "description": "Goro pilots the Franxx Delphinium with Ichigo.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n124383-I6ZsEBQoETj3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124383
+      }
+    },
+    {
+      "id": "miku",
+      "name": "Miku",
+      "alt_names": [
+        "ミク",
+        "Code:390"
+      ],
+      "role": "protagonist",
+      "description": "Miku is a former Parasite with the codename \"390\" of the Thirteenth Plantation, where she is partnered in boy-girl pair with [Zorome](https://anilist.co/character/124385/Zorome) to pilot a FRANXX called Argentea.\n\nShe is the most assertive and head-strong of the girls and is not afraid to clash with the boys. She is motivated to strive and she shares an attitude almost identical to Zorome’s, which makes them perfectly compatible.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124384-bsl6vVNhT2DR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124384
+      }
+    },
+    {
+      "id": "zorome",
+      "name": "Zorome",
+      "alt_names": [
+        "ゾロメ",
+        "Code:666",
+        "Zorome the Great"
+      ],
+      "role": "protagonist",
+      "description": "Zorome is a former Parasite with the codename \"666\" of the Thirteenth Plantation, where he is partnered in a boy-girl pair with [Miku](https://anilist.co/character/124384/Miku) to pilot a FRANXX called Argentea.\n\nAside from being the most immature member of the squad, he is the most loyal to the adults and APE, and his long-reaching goal is to become an adult himself. He presents himself as somewhat of a bully and pervert but he is also a dedicated member of the squad and willing to do whatever it takes to help his squadmates.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124385-wnvor7z83ZPt.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124385
+      }
+    },
+    {
+      "id": "kokoro",
+      "name": "Kokoro",
+      "alt_names": [
+        "ココロ",
+        "Code:556"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 160 cm (5'3\")\n\nPilots the Franxx Genista with Futoshi.\n\n~!After the partner shuffle, she rides with Mitsuru. Kokoro becomes pregnant with Mitsuru's child later on in the anime.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "14-15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124386-vc248g43ap3m.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124386
+      }
+    },
+    {
+      "id": "futoshi",
+      "name": "Futoshi",
+      "alt_names": [
+        "フトシ",
+        "Code:214"
+      ],
+      "role": "protagonist",
+      "description": "Pilots the Franxx Genista (ジェニスタ) with Kokoro (ココロ)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124387-vJvVs0VT1B6r.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124387
+      }
+    },
+    {
+      "id": "ikuno",
+      "name": "Ikuno",
+      "alt_names": [
+        "イクノ",
+        "Code:196"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 169 cm (5'7\")\n\nPilots the Franxx Chlorophytum with Mitsuru.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124388-KyJgGXFQEu6W.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124388
+      }
+    },
+    {
+      "id": "mitsuru",
+      "name": "Mitsuru",
+      "alt_names": [
+        "ミツル",
+        "Code:326"
+      ],
+      "role": "protagonist",
+      "description": "Mitsuru pilots the FRANXX Chlorophytum with Ikuno, and is part off Plantation 13.\n\n~!Later in the anime, he switches partners with Futoshi, and ends up piloting the FRANXX Genista, along with Kokoro. They fall in love and Kokoro gets pregnant with his child.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124389-iJY8frLNdK7Y.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124389
+      }
+    },
+    {
+      "id": "franxx-hakase",
+      "name": "Franxx-hakase",
+      "alt_names": [
+        "フランクス博士",
+        "Dr. Franxx",
+        "Werner"
+      ],
+      "role": "supporting",
+      "description": "Creator of the FRANXX used to fight Klaxosaurs.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124851-UtBTl6EnzIFO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124851
+      }
+    },
+    {
+      "id": "nana",
+      "name": "Nana",
+      "alt_names": [
+        "ナナ"
+      ],
+      "role": "supporting",
+      "description": "Parasite administrator of APE Operational Headquarters. ~!She was a FranXX Pilot in the same squadron as Hachi.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124852-Z1xlsGsdcKLd.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124852
+      }
+    },
+    {
+      "id": "hachi",
+      "name": "Hachi",
+      "alt_names": [
+        "ハチ"
+      ],
+      "role": "supporting",
+      "description": "Commander of Urban Defense Operation of APE Operational Headquarters.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124853-pwqN60dHanD2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124853
+      }
+    },
+    {
+      "id": "kyouryuu-no-hime",
+      "name": "Kyouryuu no Hime",
+      "alt_names": [
+        "叫竜の姫",
+        "Code:001",
+        "Princess of the Klaxosaurs",
+        "Zero Zero One (ゼロゼロイチ)"
+      ],
+      "role": "supporting",
+      "description": "**Classification:** Klaxo Sapiens\n**Partner:** N/A (capable of piloting FRANXX without one)\n**FRANXX:** Model Saurian, 9 Model (temporarily), Strelizia (temporarily)\n\nA mysterious being that lurks deep inside Earth, accompanied by numerous Klaxosaurs. She's capable of speaking telepathically and seems to have a close bond with a serpentine Klaxosaur named **Nawabari** (縄張).\n\n~!She's the last surviving member of an advanced humanoid race from which the Klaxosaurs evolved, aware of VIRM's true nature and spiteful of humanity due to their ignorance, as well as playing a part in exterminating her kind.!~\n\n~![Zero Two](https://anilist.co/character/124381/Zero-Two) was created from her DNA, which [Dr Franxx](https://anilist.co/character/124851/Dr-Franxx-) extracted from a handful of her hair. She's also the one that bit off his arm, having recognized his key role in developing anti-Klaxosaur weaponry.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "60+ million years",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126290-v3aLCi4pQijJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126290
+      }
+    },
+    {
+      "id": "naomi",
+      "name": "Naomi",
+      "alt_names": [
+        "ナオミ"
+      ],
+      "role": "supporting",
+      "description": "Naomi is a former Parasite from the Thirteenth Plantation with the codename \"703\". She is the former partner of Hiro, who held her back from becoming a pilot due to his inability to pilot FRANXX.\n(Source: Franxx Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144621-dRxn0RLmI1q4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144621
+      }
+    },
+    {
+      "id": "9-alpha",
+      "name": "9' Alpha",
+      "alt_names": [
+        "ナインアルファ",
+        "9'α"
+      ],
+      "role": "supporting",
+      "description": "Alpha is a character in DARLING in the FRANXX. He was a Parasite and the official leader of the 9's, a special forces unit that APE directly controls. He was partnered with 9’ζ and piloted a FRANXX called 9 Model. \n\nNine Alpha is a rather short young man, his face framed by pale, honey blond hair, his long bangs low above his green eyes. He wears a special Parasite uniform emblazoned with white and gold, instead of the typical gray uniforms that other Parasite squads use. When in his FRANXX, Alpha, along with the others in his squad, sports a red battle suit. Like his fellow stamens, he appears with golden horns that appear to be holographic klaxosaur horns.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161730-rtTfEXIFgPh8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161730
+      }
+    },
+    {
+      "id": "9-delta",
+      "name": "9' Delta",
+      "alt_names": [
+        "ナインデルタ",
+        "9'δ"
+      ],
+      "role": "supporting",
+      "description": "9'δ is a Parasite who served in the 9's, a special forces unit that APE directly controls. She is partners with 9'ε and pilots a FRANXX called the 9 Model.\n\n(Source: DARLING in the FRANXX Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174777-NygUgoJBpKxA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174777
+      }
+    },
+    {
+      "id": "9-beta",
+      "name": "9' Beta",
+      "alt_names": [
+        "ナインベータ",
+        "9'β"
+      ],
+      "role": "supporting",
+      "description": "9'β was a Parasite who served in the 9's, a special forces unit that APE directly controls. He was partnered with 9'η and piloted a FRANXX called 9 Model.\n\n(Source: DARLING in the FRANXX Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174778-1mGFsLUn3gNy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174778
+      }
+    },
+    {
+      "id": "shuseki",
+      "name": "Shuseki",
+      "alt_names": [
+        "主席",
+        "Chairman",
+        "Papa",
+        "パパ"
+      ],
+      "role": "supporting",
+      "description": "**Age:** More than 60 million years\n\nHe is the chairman of the APE council and by extension all of known humanity. Like a leader, Shuseki speaks in a refined and sophisticated manner, and tends to handle situations in a methodical order.\n\n(Source: DARLING in the FRANXX Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180881-xsZq5Dt0JRLh.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180881
+      }
+    },
+    {
+      "id": "fukushuseki",
+      "name": "Fukushuseki",
+      "alt_names": [
+        "副主席",
+        "Vice Chairman"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180882-Xo4GPXCc2t8i.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180882
+      }
+    },
+    {
+      "id": "lemur",
+      "name": "Lemur",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180883-9sD7eq182ZCn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180883
+      }
+    },
+    {
+      "id": "9-epsilon",
+      "name": "9' Epsilon",
+      "alt_names": [
+        "9'ε",
+        "ナインイプシロン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180884-kCOnNjcSY043.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180884
+      }
+    },
+    {
+      "id": "tarsier",
+      "name": "Tarsier",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "**Age:** Over 60 million\n\nHe is a member of the Seven Sages of APE and is secretly a VIRM.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180885-2XdYnKrA6K1P.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180885
+      }
+    },
+    {
+      "id": "090",
+      "name": "090",
+      "alt_names": [
+        "Code: 090"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180886-XXyn7vXnX4k7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180886
+      }
+    },
+    {
+      "id": "baboon",
+      "name": "Baboon",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180888-EdTS3RgaZrxZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180888
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T13:31:42.943Z"
+}

@@ -1,6 +1,8 @@
 # Character Library (char-lib)
 
-> 📚 Database local de personagens (anime, games, manga, etc.) usando arquivos JSON
+> 📚 Database local de personagens (anime, games*, manga, etc.) usando arquivos JSON
+> 
+> \* *Para jogos, coleta criadores/desenvolvedores, não personagens fictícios*
 
 Sistema de wiki de personagens 100% em JavaScript, com coleta via APIs públicas (AniList), batch controlado, rate limit e armazenamento incremental em JSON.
 
@@ -38,7 +40,12 @@ npm run crawl-grow -- --count 50
 
 # Crawling personalizado
 node src/cli.js crawl --max-works 5 --character-limit 25 --delay 10000
+
+# Para mangas (igual ao anime)
+node src/cli.js crawl --type manga --max-works 3
 ```
+
+**Nota:** Jogos não são suportados por enquanto (RAWG não oferece personagens fictícios, apenas criadores/desenvolvedores).
 
 **Como funciona:**
 - 🔍 Descobre automaticamente animes populares
@@ -80,12 +87,14 @@ node src/cli.js autocraw --max-works 1 --max-total 2 --delay 5000
 - 🎯 **Database JSON local** - Sem dependência de banco de dados externo
 - 🔄 **Import incremental** - Merge inteligente sem duplicação
 - 🤖 **Auto-Crawling** - Descoberta automática de obras populares
-- 🌐 **API AniList** - Coleta de animes e mangas
+- � **API AniList** - Coleta de animes e mangas
+- 🎮 **API RAWG** - Coleta de jogos e criadores
 - 🔍 **Enrichment System** - Fallback para wikis quando APIs atingem limite
 - ⚡ **Rate limiting** - Respeita limites das APIs
 - 🔍 **Busca local** - Query rápida nos dados importados
 - ✅ **Validação JSON Schema** - Garante consistência dos dados
 - 🎨 **CLI completa** - Interface de linha de comando amigável
+- 🔧 **Extensível** - Arquitetura preparada para novas fontes de dados
 
 ## 🔍 Sistema de Enrichment
 
@@ -216,6 +225,23 @@ node src/cli.js list
 # Listar apenas animes
 node src/cli.js list anime
 \`\`\`
+
+### Deploy para Web
+
+Atualiza a base de dados pública do site, sincronizando o diretório \`web/public/data\` com os dados atuais do projeto:
+
+\`\`\`bash
+# Executar deploy
+npm run deploy
+
+# Ou diretamente
+node src/cli.js deploy
+\`\`\`
+
+**O que faz:**
+- 🗑️ **Remove** o diretório antigo \`web/public/data\`
+- 📋 **Copia** todo o conteúdo de \`data/\` para \`web/public/data\`
+- ✅ **Atualiza** a base de dados pública do site com dados frescos
 
 ## 📊 Estrutura dos Dados
 

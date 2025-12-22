@@ -1,0 +1,609 @@
+{
+  "work_id": "dandadan",
+  "count": 25,
+  "characters": [
+    {
+      "id": "ken-takakura",
+      "name": "Ken Takakura",
+      "alt_names": [
+        "高倉健",
+        "Okarun (オカルン)"
+      ],
+      "role": "protagonist",
+      "description": "He is a young male student with a firm belief that UFOs and aliens exist. Upon meeting Momo Ayase and taking up on her challenge to see if ghosts were real, Okarun became cursed by a yokai known as the Turbo-Granny and seeks to return to normal.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222593-qBqUvpodooAI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222593
+      }
+    },
+    {
+      "id": "momo-ayase",
+      "name": "Momo Ayase",
+      "alt_names": [
+        "綾瀬桃"
+      ],
+      "role": "protagonist",
+      "description": "After making friends with Ken Takakura, who she calls \"Okarun\" (due to refusing to call him by the same name as the actor she idolizes), Momo wishes to help restore his body back to normal after being cursed by a yokai and must overcome other paranormal activities that are involved.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222594-24Jn7qlI5spH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222594
+      }
+    },
+    {
+      "id": "aira-shiratori",
+      "name": "Aira Shiratori",
+      "alt_names": [
+        "白鳥愛羅"
+      ],
+      "role": "protagonist",
+      "description": "__Relatives:__ [Father](https://anilist.co/character/349655/Aira-no-Chichi)\n\nAfter becoming aware of the existence of the supernatural after collecting a mysterious golden ball, Aira proclaims herself as the \"chosen one\" that is on a mission to protect the world from evil and directs her attention towards [Momo Ayase](https://anilist.co/character/222594/Momo-Ayase), believing that she is a demon that has to be stopped after seeing her use her psychic powers. Aira revels in her social status as the popular girl at Kami High and strives to maintain her reputation. Outwardly, she appears sweet, innocent, and somewhat air headed. However, internally, she is far more vain and prideful, a side she only shows to people she becomes close with. Whilst antagonistic towards Momo, she harbors feelings towards her close friend [Okarun](https://anilist.co/character/222593/Ken-Takakura).\n\n~!She later gains the powers of a powerful spirit named [Acrobatic Silky](https://anilist.co/character/245467/Acrobatic-Sarasara) and becomes allies / friends with Momo and Okarun, learning to be more mindful of her actions and being more open with her true self.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245466-rd5I5mchZ3bv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245466
+      }
+    },
+    {
+      "id": "jin-enjouji",
+      "name": "Jin Enjouji",
+      "alt_names": [
+        "円城寺 仁",
+        "Jiji (ジジ)"
+      ],
+      "role": "protagonist",
+      "description": "Jin Enjouji is Momo's childhood friend and first crush. After his parents were hospitalized as a result of his house being haunted, Enjouji moved in with Momo and Seiko and transferred over to Momo's school. Enjouji comes off as being a very hyper-active young man who likes to express himself with dramatic movement and faces. He also has a habit of usually ending his sentences with strange verbal tics.\n\n~!He got possessed by a mountain yokai called the evil eye. When he touches cold water the yokai comes out, when he touches hot water he is himself.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b258506-mMMInKyQq7ib.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 258506
+      }
+    },
+    {
+      "id": "vamola",
+      "name": "Vamola",
+      "alt_names": [
+        "バモラ",
+        "Bamora"
+      ],
+      "role": "protagonist",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289256-HEnb2zsSwsrF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289256
+      }
+    },
+    {
+      "id": "seiko-ayase",
+      "name": "Seiko Ayase",
+      "alt_names": [
+        "綾瀬星子",
+        "Santa Dodoria (ドドリア三太)"
+      ],
+      "role": "supporting",
+      "description": "Momo Ayase's grandmother. Despite being a grandmother, Seiko possesses a youthful appearance that does not match her age and is recognized as being quite beautiful.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b234824-i3s64ueaBqGq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 234824
+      }
+    },
+    {
+      "id": "turbo-babaa",
+      "name": "Turbo Babaa",
+      "alt_names": [
+        "ターボババア",
+        "Turbo Granny",
+        "100キロババア",
+        "100 Kiro Baba",
+        "100 km/hr Granny",
+        "Turbobabcia"
+      ],
+      "role": "supporting",
+      "description": "The yokai took on the form of a very elderly woman with long white shaggy hair and eyes that were stuck looking to the sides. When possessing her targets, she has her victims transform into a mirror image of herself, albeit with a large mouth with teeth that is capable of biting off body parts.\n\n~!After having her consciousness extracted from Okarun, the Turbo-Granny is forced to inhabit a maneki-neko doll.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b239956-Fok0Pl3rNOEL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 239956
+      }
+    },
+    {
+      "id": "acrobatic-sarasara",
+      "name": "Acrobatic Sarasara",
+      "alt_names": [
+        "アクロバティックさらさら",
+        "Acrobatic Silky",
+        "Acro-Silky"
+      ],
+      "role": "supporting",
+      "description": "Acrobatic Silky took on the form of a tall woman with long silky black hair. She had a narrow face with hollowed eyes, wrinkles on the upper half of her face, and a permanent lipstick smile that exposes her teeth. She walked around barefooted while wearing a red wide brimmed hat and a red dress.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245467-xnhV5etjTvHZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245467
+      }
+    },
+    {
+      "id": "naki-kitou",
+      "name": "Naki Kitou",
+      "alt_names": [
+        "鬼頭ナキ"
+      ],
+      "role": "supporting",
+      "description": "Naki Kitou, the ringleader of the Kitou Family who for generations have been sacrificing people to the \"tsuchinoko\".\n~!She is a subterranean.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270700-j44U9thDeoXZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270700
+      }
+    },
+    {
+      "id": "hana",
+      "name": "Hana",
+      "alt_names": [
+        "花"
+      ],
+      "role": "supporting",
+      "description": "Hana is an anthropomorphized anatomical model that resides with Ayase and Seiko.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270703-XOuIjhNfWAC4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270703
+      }
+    },
+    {
+      "id": "tarou",
+      "name": "Tarou",
+      "alt_names": [
+        "太郎",
+        "Tarō"
+      ],
+      "role": "supporting",
+      "description": "Taro is an anthropomorphized anatomical model that resides at Ayase's and Takakura's school.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270704-FvYlWMLwLa0C.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270704
+      }
+    },
+    {
+      "id": "penny-chinkosu",
+      "name": "Penny Chinkosu",
+      "alt_names": [
+        "ぺニーチンコス",
+        "Dover Demon (ドーバーデーモン)",
+        "Gig Worker (ギグワーカー)",
+        "Shako (シャコ)",
+        "Mantis Shrimp",
+        "Peeny-Weeny",
+        "Mr. Mantisian"
+      ],
+      "role": "supporting",
+      "description": "Peeny-Weeny, also known as the Dover Demon, is a Dover Demon's Race, he works for the Serpo in order to earn money for [his son's](https://anilist.co/character/270706/) blood transfusion.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270705-IDJ3yjRmTcPg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270705
+      }
+    },
+    {
+      "id": "manjirou",
+      "name": "Manjirou",
+      "alt_names": [
+        "万次郎"
+      ],
+      "role": "supporting",
+      "description": "Manjirou is a spirit medium.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289255-YEMqE2RFj1qP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289255
+      }
+    },
+    {
+      "id": "kinta-sakata",
+      "name": "Kinta Sakata",
+      "alt_names": [
+        "坂田金太",
+        "Erosuke",
+        "Gale Wind Albert"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289257-4p0AjmUUT0lg.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289257
+      }
+    },
+    {
+      "id": "jibakurei-kani",
+      "name": "Jibakurei Kani",
+      "alt_names": [
+        "地縛霊蟹",
+        "Earthbound Spirit Crab"
+      ],
+      "role": "supporting",
+      "description": "Jibakurei Kani is an earthbound spirit that was previously bound to a tunnel in Shono City.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309807-XA8eaAsRavV6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309807
+      }
+    },
+    {
+      "id": "jashi",
+      "name": "Jashi",
+      "alt_names": [
+        "邪視",
+        "Evil Eye",
+        "Złe Oko"
+      ],
+      "role": "supporting",
+      "description": "Jashi is a yokai who has spent years bound to the Tsuchinoko sacrificial house and is known for cursing humans to commit suicide with his gaze.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309809-HHGduVD6KgVk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309809
+      }
+    },
+    {
+      "id": "tsuchinoko",
+      "name": "Tsuchinoko",
+      "alt_names": [
+        "ツチノコ"
+      ],
+      "role": "supporting",
+      "description": "Tsuchinoko was the name of a kuragari, or Mongolian Death Worm, that had been revered by the people of Jiji's village, especially the Kito Family, as the Great Snake, believed to be the cryptid tsuchinoko.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309811-NBTzFL6IonMf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309811
+      }
+    },
+    {
+      "id": "serpod-dover-demon-nessie",
+      "name": "Serpod Dover Demon Nessie",
+      "alt_names": [
+        "セルポドーバーデーモンネッシー"
+      ],
+      "role": "supporting",
+      "description": "Serupo Doubaadeemon Nesshii was the result of a Serupo fusing with the Dover Demon and Nessie as a last resort to eliminate Momo, Okarun and Aira.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309817-AyYC4Fyp3Hzo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309817
+      }
+    },
+    {
+      "id": "ludris",
+      "name": "Ludris",
+      "alt_names": [
+        "ルドリス"
+      ],
+      "role": "supporting",
+      "description": "Rudorisu is an Alien Construction Specialist and friend of Mr. Mantis Shrimp.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309818-HZ2ap9h1MitB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309818
+      }
+    },
+    {
+      "id": "uchuu-kagaku-sha",
+      "name": "Uchuu Kagaku-sha",
+      "alt_names": [
+        "宇宙科学者",
+        "Space Scientist"
+      ],
+      "role": "supporting",
+      "description": "Uchuu Kagaku-sha is an Alien that attacks Momo and Okarun on school grounds after coming to Earth to collect test subjects.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309825-3tBMITe7eCgF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309825
+      }
+    },
+    {
+      "id": "nessie",
+      "name": "Nessie",
+      "alt_names": [
+        "ネッシー",
+        "Kamissie (ネッシー Kamisshii)"
+      ],
+      "role": "supporting",
+      "description": "Nessie, also called Kamissie by Okarun since the creature had previously arrived in Kamikoshi City, was a cryptid and a disgruntled subordinate of the Serpod.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309826-l7BanOxJneFJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309826
+      }
+    },
+    {
+      "id": "serpo-seijin",
+      "name": "Serpo Seijin",
+      "alt_names": [
+        "セルポ星人",
+        "Alien Serpo",
+        "Serpoian"
+      ],
+      "role": "supporting",
+      "description": "Serupo Seijin are an entirely male alien race who come from Planet Serpo.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309827-Vt2rOVTzwglz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309827
+      }
+    },
+    {
+      "id": "flatwoods-monster",
+      "name": "Flatwoods Monster",
+      "alt_names": [
+        "フラットウッズ・モンスター"
+      ],
+      "role": "supporting",
+      "description": "Furattouzzu Monsutaa was an alien that was first sighted in the American town of Flatwoods.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309828-xNkH8S75eErR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309828
+      }
+    },
+    {
+      "id": "reiko-kashima",
+      "name": "Reiko Kashima",
+      "alt_names": [
+        "カシマレイコ",
+        "Slit-Mouthed Woman (口裂け女 Kuchisake-onna)"
+      ],
+      "role": "supporting",
+      "description": "Reiko Kashima is a yokai that lives in an abandoned hospital ruins.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309829-j4DXMEvakl2f.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309829
+      }
+    },
+    {
+      "id": "saint-germain-hakushaku",
+      "name": "Saint-Germain Hakushaku",
+      "alt_names": [
+        "サンジェルマン伯爵",
+        "Sanjeruman Hakushaku",
+        "Sanjome (三丈目)",
+        "Count Saint-Germain"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b319531-vyCTqpTcKfwV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 319531
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T19:29:48.339Z"
+}

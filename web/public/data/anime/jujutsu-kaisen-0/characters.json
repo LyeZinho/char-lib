@@ -1,0 +1,607 @@
+{
+  "work_id": "jujutsu-kaisen-0",
+  "count": 25,
+  "characters": [
+    {
+      "id": "yuuta-okkotsu",
+      "name": "Yuuta Okkotsu",
+      "alt_names": [
+        "乙骨憂太",
+        "Yuta Okkotsu"
+      ],
+      "role": "protagonist",
+      "description": "__Species:__ Human\n__Occupation:__ Sorcerer, Student\n__Affiliation:__ Jujutsu High\n__Grade:__ Special Grade Sorcerer\n\nThe main protagonist of Jujutsu Kaisen prequel series [Tokyo Metropolitan Curse Technical School](https://anilist.co/manga/105469/Tokyo-Toritsu-Jujutsu-Kodo-Senmon-Gakko). He was initially a Special Grade Cursed Victim haunted by his late childhood friend, Rika Orimoto. [Satoru Gojou](https://anilist.co/character/127691/Satoru-Gojou) mentored Yuuta and enrolled him at Tokyo Jujutsu High.",
+      "metadata": {
+        "gender": "male",
+        "age": "16-17",
+        "dateOfBirth": "2001-03-07"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129571-GHJk7gviHOOw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129571
+      }
+    },
+    {
+      "id": "rika-orimoto",
+      "name": "Rika Orimoto",
+      "alt_names": [
+        "祈本里香"
+      ],
+      "role": "supporting",
+      "description": "Rika Orimoto is the childhood friend of Yuta Okkotsu who tragically died when she was hit by a car. Her spirit was cursed, transforming her into a powerful Special Grade Vengeful Cursed Spirit worthy of the moniker \"Queen of Curses\".",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208533-EXiA1hR5l585.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208533
+      }
+    },
+    {
+      "id": "satoru-gojou",
+      "name": "Satoru Gojou",
+      "alt_names": [
+        "五条悟",
+        "Satoru Gojo"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 190 cm (6'3\")\n__Occupation:__ Jujutsu Sorcerer, Teacher\n__Affiliation:__ Tokyo Metropolitan Curse Technical College, Gojou Family\n__Grade:__ Special Grade Sorcerer\n__Cursed Technique:__ Six Eyes, Limitless\n\nSatoru Gojou is one of the main protagonists of the Jujutsu Kaisen series. He is a special-grade jujutsu sorcerer and is widely recognized as the strongest in the world. Satoru is the pride of the Gojou Family, the first person to inherit both the Limitless and the Six Eyes in four hundred years. He works as a teacher at the Tokyo Jujutsu High and uses his influence to protect and train strong young allies",
+      "metadata": {
+        "gender": "male",
+        "age": "28",
+        "dateOfBirth": "1989-12-07"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127691
+      }
+    },
+    {
+      "id": "suguru-getou",
+      "name": "Suguru Getou",
+      "alt_names": [
+        "夏油傑"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Height:__ 183 cm\n__Occupation:__ Curse User\n__Grade:__ Special Grade Curse User\n__Cursed Technique:__ Cursed Spirit Manipulation\n\nSuguru Getou is an antagonist in both the Jujutsu Kaisen series and its prequel Jujutsu Kaisen 0: Jujutsu High. \n\n~!He was originally a student of Masamichi Yaga's alongside Satoru Gojo and Shoko Ieiri at Tokyo Jujutsu High. His experiences as a jujutsu sorcerer bred a deep hatred for non-sorcerers, leading to an incident where Suguru massacred over a hundred civilians in a single night, later being expelled from Jujutsu High and called for immediate execution as a result.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": "1990-02-03"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133699-FCnXaISgazAi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133699
+      }
+    },
+    {
+      "id": "maki-zenin",
+      "name": "Maki Zenin",
+      "alt_names": [
+        "禪院真希",
+        "Miss Zenin"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170 cm (5'7\")\n\nMaki Zenin is the older twin sister of [Mai Zenin](https://anilist.co/character/134168/Mai-Zenin). Maki is a grade 4 sorcerer and a second-year at Tokyo Metropolitan Jujutsu Technical High School. She is from the main branch of the Zenin clan, one of the \"Prominent Three Families\" of the Jujutsu world.\n\nShe left the Zenin family in order to prove herself capable of being a Sorcerer after being deemed uncapable, since she lacks Cursed Energy.\n\n~!Because Mai and Maki are monozygotic twins, their strength is considerably limited to one another. Monozygotic twins are considered as a single individual in the Jujutsu world and are a sign of bad omen.!~\n\n~!After the death of her twin sister Mai, Maki has lost all of her cursed energy and gained a Heavenly Restriction. This causes her skills and human capabilities to be on par with [Toji Fushiguro's](https://anilist.co/character/162722/Touji-Fushiguro).!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b134167-5TCytk45YByD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134167
+      }
+    },
+    {
+      "id": "toge-inumaki",
+      "name": "Toge Inumaki",
+      "alt_names": [
+        "狗巻棘"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Occupation:__ Sorcerer, Student\n__Affiliation:__ Jujutsu High\n__Grade:__ Grade 2 Sorcerer\n__Cursed Technique:__ Cursed Speech\n\nHe is a second-year at Tokyo Metropolitan Jujutsu Technical High School. Due to his curse ability, he is only willing to communicate with ingredients used to make rice balls.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157115
+      }
+    },
+    {
+      "id": "panda",
+      "name": "Panda",
+      "alt_names": [
+        "パンダ"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Cursed Corpse (varies among 3 personalities)\n__Occupation:__ Jujutsu Sorcerer, Student\n__Affiliation:__ Jujutsu High\n__Grade:__ 2\n\nHe is a second-year at Tokyo Prefectural Jujutsu High. As a Metamorphosed Cursed Corpse, he is the best creation of Principal [Masamichi Yaga](https://anilist.co/character/189237/Masamichi-Yaga). He is sentient and has three cores inside the doll body: the youngest brother \"Panda\", the eldest brother \"Gorilla\" and a sister.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137974-9qnK3DPrvLKh.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137974
+      }
+    },
+    {
+      "id": "kento-nanami",
+      "name": "Kento Nanami",
+      "alt_names": [
+        "七海建人",
+        "Nanamin",
+        "7:3 Sorcerer"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 184 cm (6'0½\")\n__Occupation:__ Sorcerer\n__Affiliation:__ Jujutsu High\n__Grade:__ Grade 1 Sorcerer\n__Cursed Technique:__ Ratio\n\nHe is a Grade 1 Jujutsu Sorcerer and a Tokyo Jujutsu High alumni. \n\nNanami is a very intelligent and reserved man who at first appears to be someone who is just very serious about his work. He knows how to separate sentimentalism from service and claims he's only a Jujutsu Sorcerer because it's slightly less idiotic than regular careers. As one of [Yuji's](https://anilist.co/character/127212/Yuji-Itadori) mentors, Nanami is a complete contrast to [Gojo](https://anilist.co/character/127691/Satoru-Gojou), who is far more outspoken and easy-going.",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133704
+      }
+    },
+    {
+      "id": "aoi-toudou",
+      "name": "Aoi Toudou",
+      "alt_names": [
+        "東堂葵",
+        "Aoi Todo"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Height:__ 190 cm\n__Occupation:__ Sorcerer, Student\n__Affiliation:__ Kyoto Jujutsu Technical High School\n__Grade:__ Grade 1 Sorcerer\n\nToudou is a third-year student at Kyoto Jujutsu Technical High School who possesses inhuman physical strength, durability, and speed. \n\n~!He is able to use a technique called Boogie Woogie, in which he can switch the position of two things that posses a certain amount of curse energy within his range.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137975-6TH7PiLWJaqy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137975
+      }
+    },
+    {
+      "id": "mai-zenin",
+      "name": "Mai Zenin",
+      "alt_names": [
+        "禪院真依"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170 cm (5'7\")\n\nMai Zenin is the younger twin sister of [Maki Zenin](https://anilist.co/character/134167/Maki-Zenin). Mai is a grade 3 sorcerer and a second-year at Kyoto Jujutsu Technical High School. As a child, Mai always relied on Maki since she was afraid of Cursed Spirits. \n\n~!Because Mai and Maki are monozygotic twins, their strength is considerably limited to one another. Monozygotic twins are considered as a single individual in the Jujutsu world and are a sign of bad omen.!~\n\n~!In chapter 149, Mai decides to sacrifice herself in order to make Maki stronger.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b134168-FdWz5w2LqpeF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134168
+      }
+    },
+    {
+      "id": "kasumi-miwa",
+      "name": "Kasumi Miwa",
+      "alt_names": [
+        "三輪霞"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Occupation:__ Jujutsu Sorcerer, Student\n__Affiliation:__ Kyoto Metropolitan Curse Technical College\n__Grade:__ Grade 3 Sorcerer\n\nA second-year at Kyoto Metropolitan Curse Technical College. Kasumi is a hard-working, restrained, and considerate pacifist. She is also a big fan of [Satoru Gojo](https://anilist.co/character/127691).\n\n~!She has a very close bond with Mechamaru, their friendship is first seen in the Tournament Arc when Miwa offers him a battery telling him not to eat it as Mai and Momo laugh in the background. In the Shibuya Arc, she is seen mourning his death on the train. Over the course of the Tournament Arc and Shibuya Arc it is very apparent their friendship grows as they both strived towards becoming closer to one another. As she mourns his death on the train she holds a mini Mechamaru speaker which tells her to find her happiness. After the recording finishes, she holds the speaker to her heart and cries. The entire Kyoto program seems very distressed by his death on the train. When later entering the battle Miwa is quick to activate her technique out of rage and sadness towards Mahito.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156848-Rf0tuoQCNyZV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156848
+      }
+    },
+    {
+      "id": "noritoshi-kamo",
+      "name": "Noritoshi  Kamo",
+      "alt_names": [
+        "加茂憲紀"
+      ],
+      "role": "supporting",
+      "description": "__Cursed Technique:__ Blood Manipulation\n__Grade:__ Semi-Grade 1 Sorcerer\n\nHe is a third-year at Kyoto Magic Technical College.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157866-UWDtYBoG71PD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157866
+      }
+    },
+    {
+      "id": "momo-nishimiya",
+      "name": "Momo Nishimiya",
+      "alt_names": [
+        "西宮桃"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Occupation:__ Jujutsu Sorcerer\n__Affiliation:__  Kyoto Magic Technical College\n__Grade:__ Semi-Grade 2 Sorcerer\n__Cursed Technique:__ Tool Manipulation\n\nShe is a third-year at Kyoto Magic Technical College.",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157868-Ui2Wht3M6tlM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157868
+      }
+    },
+    {
+      "id": "masamichi-yaga",
+      "name": "Masamichi Yaga",
+      "alt_names": [
+        "夜蛾正道"
+      ],
+      "role": "supporting",
+      "description": "He is the current principal of Tokyo Metropolitan Jujutsu Technical High School, the creator of Panda, and the headmaster of Satoru Gojo, Suguru Geto and Shoko Ieiri.\n\n~!After the Shibuya incident Yaga is given a death penalty by the higher ups for inciting Gojo and Geto in the past and \"causing the Shibuya incident\".!~",
+      "metadata": {
+        "gender": "male",
+        "age": "47",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b189237-ZxNJwVPL8DvW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 189237
+      }
+    },
+    {
+      "id": "mei-mei",
+      "name": "Mei Mei",
+      "alt_names": [
+        "冥冥"
+      ],
+      "role": "supporting",
+      "description": "__Height:__  173 cm\n__Occupation:__ Jujutsu Sorcerer\n__Affiliation:__ Jujutsu High\n__Grade:__ Grade 1 Sorcerer\n__Family:__ Ui Ui (Younger Brother)\n\n__Abilities__:\n~!\n__Weapon Mastery__: Mei Mei wields a large battle-axe. \n__Cursed Technique__: Black Bird Manipulation - Mei Mei is able to control crows as well as see through their eyes, making her technique great for recon.\n__Bird Strike__: by forcing a crow to commit suicide, the trade-off is to erase the Cursed Energy limit of a typical weak bird and hurl it at the enemy.\n!~\n\nMei Mei is a grade 1 jujutsu sorcerer who works independently and only in exchange for money. She is also the older sister of Ui Ui. \n\n~!She was the senpai of Satoru Gojo and Suguru Geto during their time at Jujutsu High.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "30",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157215-I3TQJu8nkDwD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157215
+      }
+    },
+    {
+      "id": "shouko-ieiri",
+      "name": "Shouko Ieiri",
+      "alt_names": [
+        "家入硝子"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 168 cm\n__Ability:__ Reverse Healing Cursed Technique\n\nAlumnus of Tokyo Jujutsu High, having been classmates with [Satoru Gojo](https://anilist.co/character/127691) and [Suguru Geto](https://anilist.co/character/133699). After graduating into a full-fledged jujutsu sorcerer, Shoko became the school's primary doctor.",
+      "metadata": {
+        "gender": "female",
+        "age": "28-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158154-UCqbiULli62P.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158154
+      }
+    },
+    {
+      "id": "kiyotaka-ijichi",
+      "name": "Kiyotaka Ijichi",
+      "alt_names": [
+        "伊地知潔高"
+      ],
+      "role": "supporting",
+      "description": "An assistant manager at Tokyo Prefectural Jujutsu High School.",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b189238-ItSLams6lRk9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 189238
+      }
+    },
+    {
+      "id": "akari-nitta",
+      "name": "Akari Nitta",
+      "alt_names": [
+        "新田明"
+      ],
+      "role": "supporting",
+      "description": "Akari Nitta is an Auxiliary Manager at Jujutsu High.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210846-XcRQ643Ne8Pb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210846
+      }
+    },
+    {
+      "id": "mimiko-hasaba",
+      "name": "Mimiko Hasaba",
+      "alt_names": [
+        "枷場美々子"
+      ],
+      "role": "supporting",
+      "description": "Mimiko Hasaba is a character in Jujutsu Kaisen and Jujutsu Kaisen 0: Jujutsu High. She is an ally of Suguru Geto.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b228986-TXJuABOhrxRA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 228986
+      }
+    },
+    {
+      "id": "nanako-hasaba",
+      "name": "Nanako Hasaba",
+      "alt_names": [
+        "枷場菜々子"
+      ],
+      "role": "supporting",
+      "description": "Nanako Hasaba is a character in Jujutsu Kaisen and Jujutsu Kaisen 0: Jujutsu High. She is [Mimiko](https://anilist.co/character/228986/Mimiko-Hasaba)'s twin sister and they were both allies of Suguru Geto.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b228987-Su63YTP33b6W.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 228987
+      }
+    },
+    {
+      "id": "takuma-ino",
+      "name": "Takuma Ino",
+      "alt_names": [
+        "猪野琢真"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Occupation:__ Sorcerer\n__Affiliation:__ Jujutsu High\n__Grade:__ Grade 2 Sorcerer\n\nTakuma Ino is a grade 2 jujutsu sorcerer and a close associate of Kento Nanami who operates out of Tokyo Jujutsu High.\n\nTakuma Ino is a genuine and cheerful person with a more positive outlook on things than most jujutsu sorcerers. He doesn't believe he's the smartest person around and has a lot of respect for Nanami. Whenever Ino finds himself in a tough situation, he asks himself what would Nanami do.",
+      "metadata": {
+        "gender": "male",
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157865-X9ENX9OzWevS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157865
+      }
+    },
+    {
+      "id": "atsuya-kusakabe",
+      "name": "Atsuya Kusakabe",
+      "alt_names": [
+        "日下部篤也"
+      ],
+      "role": "supporting",
+      "description": "Atsuya Kusakabe is a character in Jujutsu Kaisen. He is a Grade 1 Sorcerer, and a teacher at Jujutsu High.\n\n~!At the end of the Shibuya Incident Arc he blocks Kenjaku's Maximum Uzumaki Technique.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205234-nrush17kFWaE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205234
+      }
+    },
+    {
+      "id": "koukichi-muta",
+      "name": "Koukichi Muta",
+      "alt_names": [
+        "与幸吉",
+        "Ultimate Mechamaru (究極メカ丸)"
+      ],
+      "role": "supporting",
+      "description": "Koukichi Muta is a Semi-Grade 1 sorcerer and a second-year student at Kyoto Jujutsu High. He attends school by controlling the cursed corpse Ultimate Mechamaru, as Muta was born with a sickly and fragile body due to a Heavenly Restriction. In exchange, he has a nearly boundless amount of cursed energy that spreads over a vast range.",
+      "metadata": {
+        "gender": "male",
+        "age": "17-",
+        "dateOfBirth": "2001-10-04"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210154-nIn9DX39GFKP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210154
+      }
+    },
+    {
+      "id": "larue",
+      "name": "Larue",
+      "alt_names": [
+        "ラルゥ"
+      ],
+      "role": "supporting",
+      "description": "A large, shirtless muscular man and an ally of [Suguru Getou](https://anilist.co/character/133699/).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268297-zQ48F3PoVldl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268297
+      }
+    },
+    {
+      "id": "miguel",
+      "name": "Miguel",
+      "alt_names": [
+        "ミゲル"
+      ],
+      "role": "supporting",
+      "description": "He was initially one of Suguru Geto's commanders who wished to see him become king. Following the Night Parade of a Hundred Demons, Miguel was forcefully recruited by Satoru Gojo. He returned to his homeland of Africa and the community of sorcerers there to train Yuta Okkotsu.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b272175-wBjreG7iB9n2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 272175
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T17:54:06.511Z"
+}

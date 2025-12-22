@@ -1,0 +1,626 @@
+{
+  "work_id": "solo-leveling",
+  "count": 25,
+  "characters": [
+    {
+      "id": "jin-u-seong",
+      "name": "Jin-U Seong",
+      "alt_names": [
+        "성진우",
+        "Sung Jin-Woo",
+        "Shun Mizushino (水篠旬)",
+        "World's Weakest Hunter",
+        "2nd Rate Asian Hunter",
+        "The Weakest Hunter of All Mankind"
+      ],
+      "role": "protagonist",
+      "description": "__Class:__ Mage\n__Relative(s):__ [Park Kyung-Hye](https://anilist.co/character/209396/KyungHye-Park) (Mother), [Sung Jin-Ah](https://anilist.co/character/138791/JinAh-Sung) (Sister), ~![Sung Il-Hwan](https://anilist.co/character/138790/IlHwan-Sung) (Father), [Cha Hae-In](https://anilist.co/character/138789/HaeIn-Cha) (Wife), [Sung Su-Ho](https://anilist.co/character/306654/Suho-Sung) (Son), [Yoo Jin-Ho](https://anilist.co/character/136076/JinHo-Yoo) (Brother in Law)!~ \n~!__Guild:__ Ahjin Guild (Guild Master)\n__Affiliation:__ Korean Hunters Association (helper), White Tiger Guild (helper), Hunters Guild (helper), Knights Guild (helper), Ahjin Guild (Guild Master)!~\n\nSeong Jin-U is the protagonist of [Solo Leveling](https://anilist.co/manga/105398/Solo-Leveling/) and is known as an infamously weak E-Rank Hunter. He is a humble and benevolent individual who cares deeply for his family and has an ardent desire to become stronger. As a result, he shares a close relationship with his sister and his mother, and rarely wastes an opportunity to refine his skills and gain more power.\n\n~!He becomes an S-Rank hunter after being given a chance to become stronger by the System.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "23-24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129928
+      }
+    },
+    {
+      "id": "ju-hui-lee",
+      "name": "Ju-Hui Lee",
+      "alt_names": [
+        "이주희",
+        "Lee Joohee",
+        "Lee Ju-Hee",
+        "Eri Mizuki (観月絵里)"
+      ],
+      "role": "supporting",
+      "description": "She is a healer with rank B.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136074
+      }
+    },
+    {
+      "id": "jin-ho-yu",
+      "name": "Jin-Ho Yu",
+      "alt_names": [
+        "유진호",
+        "Kenta Morobishi (諸菱賢太)",
+        "Yoo Jin-Ho"
+      ],
+      "role": "supporting",
+      "description": "__Class:__ Tanker\n__Guild:__ ~!Ahjin Guild (Vice-Guild Master)!~\n\nYoo Jin-Ho is a D rank hunter and is [Jin-U Seong](https://anilist.co/character/129928/JinWoo-Sung)'s faithful assistant and combat partner.",
+      "metadata": {
+        "gender": "male",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136076-D7eiE3pA9U8g.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136076
+      }
+    },
+    {
+      "id": "hae-in-cha",
+      "name": "Hae-In Cha",
+      "alt_names": [
+        "차해인",
+        "Shizuku Kousaka (向坂雫)",
+        "Blade Dancer"
+      ],
+      "role": "supporting",
+      "description": "__Guild:__ Hunters Guild\n__Class:__ Sword Fighter\n__Affiliations:__ Jeju Island Raid Party, [Song Chi-Yul](https://anilist.co/character/136073/ChiYul--Song)’s Dojo (Disciple)\n\nCha Hae-In is the Vice-Guild Master of the Hunters Guild. She is an S rank hunter and the 9th ranked hunter in South Korea. She possesses the unique ability of mana smell and hates the smell of hunters except for [Sung Jin-Woo](https://anilist.co/character/129928/JinWoo-Sung).",
+      "metadata": {
+        "gender": "female",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138789
+      }
+    },
+    {
+      "id": "yun-ho-baek",
+      "name": "Yun-Ho Baek",
+      "alt_names": [
+        "백윤호",
+        "Taiga Shirakawa (白川大虎)",
+        "Baek Yoon-Ho"
+      ],
+      "role": "supporting",
+      "description": "He is a S rank hunter and master of the White Tiger guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136077-IIMqRmMK5Fgs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136077
+      }
+    },
+    {
+      "id": "jin-cheol-u",
+      "name": "Jin-Cheol U",
+      "alt_names": [
+        "우진철",
+        "Akira Inukai (犬飼晃)",
+        "Woo Jin-Chul",
+        "Wool Jinchu"
+      ],
+      "role": "supporting",
+      "description": "An A rank hunter that works for Hunter's association of Korea.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136819-okbPuuFAefYX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136819
+      }
+    },
+    {
+      "id": "jong-in-choi",
+      "name": "Jong-In Choi",
+      "alt_names": [
+        "최종인",
+        "Shin Mogami (最上真)"
+      ],
+      "role": "supporting",
+      "description": "Choi Jong-In is one of the 10 S-Rank Hunters of South Korea. He is also the Guild Master of the Hunters Guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138794-dZNdO0pvZ659.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138794
+      }
+    },
+    {
+      "id": "chi-yul-song",
+      "name": "Chi-Yul Song",
+      "alt_names": [
+        "송치율",
+        "Isao Mabuchi (馬渕勲)",
+        "Chi-Yeol (송치열)"
+      ],
+      "role": "supporting",
+      "description": "__Magic Type:__ Fire\n\nKorean C-Rank Hunter and kumdo teacher. He is also one of Jinwoo's old friends, having known him since he was a E-Rank Hunter.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136073-0hZNgsWB9ZLH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136073
+      }
+    },
+    {
+      "id": "jin-a-seong",
+      "name": "Jin-A Seong",
+      "alt_names": [
+        "성진아",
+        "Aoi Mizushino (水篠葵)",
+        "Sung Jin-Ah",
+        "Sung Jinah"
+      ],
+      "role": "supporting",
+      "description": "Younger sister of [Jin-U](https://anilist.co/character/129928).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138791-IngjgBQqGMWc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138791
+      }
+    },
+    {
+      "id": "geon-hui-go",
+      "name": "Geon-Hui Go",
+      "alt_names": [
+        "고건희",
+        "Kiyoomi Gotou (後藤清臣)",
+        "Go Gun-Hee"
+      ],
+      "role": "supporting",
+      "description": "Go Gun-Hee (고건희) is a South Korean S-Rank Hunter and the Chairman of the Korean Hunters Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138792-TXFrDA1wpbmo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138792
+      }
+    },
+    {
+      "id": "byeong-gyu-min",
+      "name": "Byeong-Gyu Min",
+      "alt_names": [
+        "민병규",
+        "Min Byeong-Gu",
+        "Min Byung-gu",
+        "Min Byung-gyu",
+        "Tsuyoshi Minobe (美濃部剛)"
+      ],
+      "role": "supporting",
+      "description": "Min Byung-Gyu was a retired hunter and one of the 10 S-Rank and only S-Rank Healer of South Korea. He was a close friend with the White Tiger's Guild Master Baek Yoon-Ho. He took part in the 4th Jeju Island Reclamation Raid and was a member of the Korean Raid Team tasked with killing the boss of the Jeju Island Gate.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b148789-HmGZf4RUzEFw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 148789
+      }
+    },
+    {
+      "id": "sin-sang",
+      "name": "Sin Sang",
+      "alt_names": [
+        "신상",
+        "Shin Sang",
+        "Statue of God"
+      ],
+      "role": "supporting",
+      "description": "Statue of God is the hidden boss of the Double Dungeon. It is first introduced during the D-Rank Dungeon Arc as Jin-Woo and other hunters entered the Cartenon Temple unaware of the dangers that were present inside.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210102-R479fvXo78Zn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210102
+      }
+    },
+    {
+      "id": "beom-shik-park",
+      "name": "Beom-Shik Park",
+      "alt_names": [
+        "박범식",
+        "Arata Kuga (久我新汰)",
+        "Gi-Sool Park"
+      ],
+      "role": "supporting",
+      "description": "Park Gi-Sool is a Korean D-Rank Hunter and a good friend of Sangshik Kim. ~!He was tragically killed during the first Double Dungeon Incident when a statue sliced him clean in half from behind.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306673-eaq6may6XbTB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306673
+      }
+    },
+    {
+      "id": "sang-sik-kim",
+      "name": "Sang-Sik Kim",
+      "alt_names": [
+        "김상식",
+        "Nobuhara Mashima (真島伸晴)",
+        "Sangshik Kim"
+      ],
+      "role": "supporting",
+      "description": "Sang-Sik Kim is a Korean D-Rank Hunter. ~!He was a survivor of the Double Dungeon. He was tragically killed by [Tae-Shik Kang](https://anilist.co/character/181155/TaeShik-Kang) after accidentally witnessing him kill a man during a raid.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306674-RaVc2MbWYjns.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306674
+      }
+    },
+    {
+      "id": "eun-seok",
+      "name": "Eun-Seok",
+      "alt_names": [
+        "은석",
+        "Fuuki Satsuki (颯樹ふうき)"
+      ],
+      "role": "supporting",
+      "description": "Former Korean S-Rank Hunter. ~!About one year before the events of the main storyline, Eunseok participated in the 3rd Jeju Island Raid alongside Baek Yoonho and Min Byung-Gyu. Unfortunately, the raid went sideways and Eunseok was killed under unknown circumstances.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323043-1cRLO5gO0JSY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323043
+      }
+    },
+    {
+      "id": "song-i-han",
+      "name": "Song-I Han",
+      "alt_names": [
+        "한송이",
+        "Song-Yi Han"
+      ],
+      "role": "supporting",
+      "description": "Han Song-I is an E-Rank hunter who quit school after gaining money through the Yoo Jin-Ho and Sung Jin-Woo motley group of party. She is friends with Sung Jin-Ah. She first appeared when Jin-Ah visited Jin-Woo in the hospital but she didn't know him then.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138793-eijpaPPkcipD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138793
+      }
+    },
+    {
+      "id": "tae-shik-kang",
+      "name": "Tae-Shik Kang",
+      "alt_names": [
+        "강태식",
+        "Taisei Michikado (道門泰星)"
+      ],
+      "role": "supporting",
+      "description": "B-rank Hunter and An inspector working for South Korea's Hunter Association, Monitoring Division.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181155-IkXnHuzG6he9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181155
+      }
+    },
+    {
+      "id": "seong-chul-yun",
+      "name": "Seong-Chul Yun",
+      "alt_names": [
+        "윤성철",
+        "Yoon Sungchul",
+        "Jouji You (要譲二)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323582-7bCCR1xcTk1I.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323582
+      }
+    },
+    {
+      "id": "myeong-jo",
+      "name": "Myeong Jo",
+      "alt_names": [
+        "조명",
+        "Yotsuya (四谷)",
+        "Myung Cho"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323588-cCYKiqwpeIxj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323588
+      }
+    },
+    {
+      "id": "jeong-ho-kang",
+      "name": "Jeong-Ho Kang",
+      "alt_names": [
+        "강정호",
+        "Kou Hamura (羽村康)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323589-70NC1HRi6BKa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323589
+      }
+    },
+    {
+      "id": "hye-yeong-ra",
+      "name": "Hye-Yeong Ra",
+      "alt_names": [
+        "라혜영",
+        "Seina Takada (高田星奈)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323591-Zygq2sylmhPw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323591
+      }
+    },
+    {
+      "id": "yu-jeong-an",
+      "name": "Yu-Jeong An",
+      "alt_names": [
+        "안유정",
+        "Nakano (中野)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323592-n2q5zCNwBHbA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323592
+      }
+    },
+    {
+      "id": "dong-hun-jeong",
+      "name": "Dong-Hun Jeong",
+      "alt_names": [
+        "정동훈",
+        "Genzou Akabane (赤羽源蔵)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323593-Pk1u4hIwMt8y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323593
+      }
+    },
+    {
+      "id": "gu-hyeon-kim",
+      "name": "Gu-Hyeon Kim",
+      "alt_names": [
+        "김구현",
+        "Kim Guhyun",
+        "Yaguchi (矢口)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b324332-3LSmru8LAsLp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 324332
+      }
+    },
+    {
+      "id": "hee-jin-park",
+      "name": "Hee-Jin Park",
+      "alt_names": [
+        "박희진",
+        "Park Heejin"
+      ],
+      "role": "supporting",
+      "description": "Park Hee-Jin (박희진) is a member of White Tiger Guild that Sung Jin-Woo helped when they got stuck inside the Red Gate.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184538-4J5sRSFKNLGQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184538
+      }
+    }
+  ],
+  "updated_at": "2025-12-22T17:54:34.437Z"
+}

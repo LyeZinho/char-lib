@@ -3,6 +3,7 @@
  * Descobre obras populares e as importa automaticamente
  */
 import { createAniListCollector } from '../collectors/anilist.js';
+import { createRawgCollector } from '../collectors/rawg.js';
 import { createImportJob } from './importWork.js';
 import { createWriter } from '../writers/jsonWriter.js';
 import { readJson, writeJson } from '../utils/file.js';
@@ -22,16 +23,52 @@ function sleep(ms) {
 export class AutoCrawlJob {
   constructor(options = {}) {
     this.baseDir = options.baseDir || './data';
-    this.source = options.source || 'anilist';
+    this.type = options.type || 'anime'; // anime, game, manga, etc.
+    this.source = options.source;
     this.maxWorks = options.maxWorks || 50; // Máximo de obras por execução
     this.characterLimit = options.characterLimit || 50;
     this.delayBetweenImports = options.delayBetweenImports || 10000; // 10s entre imports
     this.enrich = options.enrich || false;
-    this.stateFile = join(this.baseDir, 'crawl-state.json');
+    this.stateFile = join(this.baseDir, `crawl-state-${this.type}.json`);
 
-    this.collector = createAniListCollector();
+    // Mapeamento de tipos para fontes padrão
+    this.sourceMap = {
+      'anime': 'anilist',
+      'manga': 'anilist',
+      // 'game': 'rawg', // Desabilitado temporariamente - RAWG não oferece personagens fictícios
+      // Preparado para futuras expansões
+      'cartoon': 'tvmaze',
+      'comic': 'marvel'
+    };
+
+    // Determinar fonte baseada no tipo
+    if (!this.source && this.type) {
+      this.source = this.sourceMap[this.type] || 'anilist';
+    } else if (!this.source) {
+      this.source = 'anilist';
+    }
+
+    // Criar collector apropriado
+    this.collector = this.createCollector(this.source);
+
     this.writer = createWriter(this.baseDir);
     this.cache = createWorkCache({ cacheFile: join(this.baseDir, 'work-cache.json') });
+  }
+
+  /**
+   * Cria o collector apropriado baseado na fonte
+   * @param {string} source - Fonte dos dados
+   * @returns {Object} Instância do collector
+   */
+  createCollector(source) {
+    switch (source.toLowerCase()) {
+      case 'anilist':
+        return createAniListCollector();
+      case 'rawg':
+        return createRawgCollector();
+      default:
+        return createAniListCollector();
+    }
   }
 
   /**
@@ -87,61 +124,106 @@ export class AutoCrawlJob {
    * @returns {Promise<Array>} Lista de obras descobertas
    */
   async discoverWorks(state) {
-    logger.info('🔍 Descobrindo novas obras populares...');
+    logger.info(`🔍 Descobrindo novas obras populares (${this.type})...`);
 
     try {
-      // Query GraphQL para buscar animes populares
-      const query = `
-        query ($page: Int, $perPage: Int) {
-          Page(page: $page, perPage: $perPage) {
-            media(type: ANIME, sort: POPULARITY_DESC) {
-              id
-              title {
-                romaji
-                english
-              }
-              popularity
-              averageScore
-              episodes
-              status
-            }
-            pageInfo {
-              hasNextPage
-              currentPage
-            }
-          }
-        }
-      `;
-
-      const variables = {
-        page: 1,
-        perPage: 20 // Buscar top 20 populares
-      };
-
-      const response = await this.collector.query(query, variables);
-      const media = response.data?.Page?.media || response.Page?.media;
-
-      // Filtrar obras já processadas
-      const newWorks = media.filter(work => {
-        const workId = work.id.toString();
-        return !state.processedWorks.has(workId);
-      });
-
-      logger.info(`📋 Encontradas ${newWorks.length} novas obras para processar`);
-
-      return newWorks.map(work => ({
-        id: work.id,
-        title: work.title.romaji || work.title.english,
-        popularity: work.popularity,
-        score: work.averageScore,
-        episodes: work.episodes,
-        status: work.status
-      }));
-
+      if (this.source === 'rawg') {
+        return await this.discoverGames(state);
+      } else {
+        return await this.discoverAnime(state);
+      }
     } catch (error) {
       logger.error(`Erro ao descobrir obras: ${error.message}`);
       return [];
     }
+  }
+
+  /**
+   * Busca animes populares (AniList)
+   * @param {Object} state - Estado atual
+   * @returns {Promise<Array>} Lista de animes descobertos
+   */
+  async discoverAnime(state) {
+    // Query GraphQL para buscar animes populares
+    const query = `
+      query ($page: Int, $perPage: Int) {
+        Page(page: $page, perPage: $perPage) {
+          media(type: ANIME, sort: POPULARITY_DESC) {
+            id
+            title {
+              romaji
+              english
+            }
+            popularity
+            averageScore
+            episodes
+            status
+          }
+          pageInfo {
+            hasNextPage
+            currentPage
+          }
+        }
+      }
+    `;
+
+    const variables = {
+      page: 1,
+      perPage: 20 // Buscar top 20 populares
+    };
+
+    const response = await this.collector.query(query, variables);
+    const media = response.data?.Page?.media || response.Page?.media;
+
+    // Filtrar obras já processadas
+    const newWorks = media.filter(work => {
+      const workId = work.id.toString();
+      return !state.processedWorks.has(workId);
+    });
+
+    logger.info(`📋 Encontrados ${newWorks.length} novos animes para processar`);
+
+    return newWorks.map(work => ({
+      id: work.id,
+      title: work.title.romaji || work.title.english,
+      popularity: work.popularity,
+      score: work.averageScore,
+      episodes: work.episodes,
+      status: work.status,
+      type: 'anime'
+    }));
+  }
+
+  /**
+   * Busca jogos populares (RAWG)
+   * @param {Object} state - Estado atual
+   * @returns {Promise<Array>} Lista de jogos descobertos
+   */
+  async discoverGames(state) {
+    const gamesResult = await this.collector.searchPopularGames({
+      page: 1,
+      pageSize: 20 // Buscar top 20 populares
+    });
+
+    const games = gamesResult.results || [];
+
+    // Filtrar jogos já processados
+    const newGames = games.filter(game => {
+      const gameId = game.id.toString();
+      return !state.processedWorks.has(gameId);
+    });
+
+    logger.info(`📋 Encontrados ${newGames.length} novos jogos para processar`);
+
+    return newGames.map(game => ({
+      id: game.id,
+      title: game.name,
+      rating: game.rating,
+      metacritic: game.metacritic,
+      released: game.released,
+      platforms: game.platforms?.map(p => p.platform?.name).filter(Boolean) || [],
+      type: 'game'
+    }));
   }
 
   /**
@@ -156,25 +238,26 @@ export class AutoCrawlJob {
       const importJob = createImportJob({
         baseDir: this.baseDir,
         source: this.source,
+        type: work.type || this.type, // Usar tipo da obra ou padrão
         enrich: this.enrich
       });
 
       const result = await importJob.import({
         id: work.id,
-        type: 'anime'
+        type: work.type || this.type
       }, {
         characterLimit: this.characterLimit,
         skipCharacters: false
       });
 
       logger.success(`✅ ${work.title} processada com sucesso`);
-      logger.info(`   📊 ${result.characters?.total || 0} personagens`);
+      logger.info(`   📊 ${result.characters?.total || 0} ${this.source === 'rawg' ? 'criadores' : 'personagens'}`);
 
       // Marcar obra como processada no cache
       await this.cache.load();
       this.cache.markProcessed(work.id.toString(), {
         title: work.title,
-        type: 'anime',
+        type: work.type || this.type,
         charactersCount: result.characters?.total || 0,
         processedAt: new Date().toISOString()
       });
@@ -385,101 +468,108 @@ AutoCrawlJob.prototype.growQueue = async function(options = {}) {
   const count = options.count || 20;
   const startPage = options.page || 1;
 
-  logger.info(`🌱 Aumentando fila com ${count} novas obras...`);
+  logger.info(`🌱 Aumentando fila com ${count} novas obras (${this.type})...`);
 
   const state = await this.loadState();
 
   try {
-    // Query GraphQL para buscar animes populares
-    const query = `
-      query ($page: Int, $perPage: Int) {
-        Page(page: $page, perPage: $perPage) {
-          media(type: ANIME, sort: POPULARITY_DESC) {
-            id
-            title {
-              romaji
-              english
+    let allNewWorks = [];
+
+    if (this.type === 'anime' || this.type === 'manga') {
+      // Query GraphQL para buscar animes/mangas populares
+      const mediaType = this.type.toUpperCase();
+      const query = `
+        query ($page: Int, $perPage: Int) {
+          Page(page: $page, perPage: $perPage) {
+            media(type: ${mediaType}, sort: POPULARITY_DESC) {
+              id
+              title {
+                romaji
+                english
+              }
+              popularity
+              averageScore
+              episodes
+              status
             }
-            popularity
-            averageScore
-            episodes
-            status
-          }
-          pageInfo {
-            hasNextPage
-            currentPage
+            pageInfo {
+              hasNextPage
+              currentPage
+            }
           }
         }
+      `;
+
+      let currentPage = startPage;
+      let remaining = count;
+
+      // Buscar múltiplas páginas se necessário
+      while (remaining > 0 && currentPage <= 10) { // Limitar a 10 páginas para evitar sobrecarga
+        const perPage = Math.min(remaining, 50); // Máximo 50 por página
+
+        const variables = {
+          page: currentPage,
+          perPage: perPage
+        };
+
+        logger.progress(`Buscando página ${currentPage} (${perPage} obras)...`);
+
+        const response = await this.collector.query(query, variables);
+        const media = response.data?.Page?.media || response.Page?.media;
+
+        if (!media || media.length === 0) {
+          logger.warn(`Página ${currentPage} não retornou resultados`);
+          break;
+        }
+
+        // Filtrar obras já processadas ou já na fila
+        await this.cache.load();
+        const processedIds = new Set(state.processedWorks);
+        const queueIds = new Set(state.queue.map(w => w.id.toString()));
+        const cachedIds = new Set(this.cache.listProcessed());
+
+        const newWorks = media.filter(work => {
+          const workId = work.id.toString();
+          return !processedIds.has(workId) && !queueIds.has(workId) && !cachedIds.has(workId);
+        });
+
+        allNewWorks = [...allNewWorks, ...newWorks];
+        remaining -= newWorks.length;
+
+        logger.info(`   + ${newWorks.length} novas obras da página ${currentPage}`);
+
+        // Verificar se há mais páginas
+        const pageInfo = response.data?.Page?.pageInfo || response.Page?.pageInfo;
+        if (!pageInfo?.hasNextPage) {
+          break;
+        }
+
+        currentPage++;
+        await sleep(1000); // Pequeno delay entre páginas
       }
-    `;
 
-    let allNewWorks = [];
-    let currentPage = startPage;
-    let remaining = count;
+      // Adicionar à fila
+      const worksToAdd = allNewWorks.slice(0, count).map(work => ({
+        id: work.id,
+        title: work.title.romaji || work.title.english,
+        popularity: work.popularity,
+        score: work.averageScore,
+        episodes: work.episodes,
+        status: work.status
+      }));
 
-    // Buscar múltiplas páginas se necessário
-    while (remaining > 0 && currentPage <= 10) { // Limitar a 10 páginas para evitar sobrecarga
-      const perPage = Math.min(remaining, 50); // Máximo 50 por página
+      state.queue = [...state.queue, ...worksToAdd];
 
-      const variables = {
-        page: currentPage,
-        perPage: perPage
-      };
-
-      logger.progress(`Buscando página ${currentPage} (${perPage} obras)...`);
-
-      const response = await this.collector.query(query, variables);
-      const media = response.data?.Page?.media || response.Page?.media;
-
-      if (!media || media.length === 0) {
-        logger.warn(`Página ${currentPage} não retornou resultados`);
-        break;
-      }
-
-      // Filtrar obras já processadas ou já na fila
-      await this.cache.load();
-      const processedIds = new Set(state.processedWorks);
-      const queueIds = new Set(state.queue.map(w => w.id.toString()));
-      const cachedIds = new Set(this.cache.listProcessed());
-
-      const newWorks = media.filter(work => {
-        const workId = work.id.toString();
-        return !processedIds.has(workId) && !queueIds.has(workId) && !cachedIds.has(workId);
-      });
-
-      allNewWorks = [...allNewWorks, ...newWorks];
-      remaining -= newWorks.length;
-
-      logger.info(`   + ${newWorks.length} novas obras da página ${currentPage}`);
-
-      // Verificar se há mais páginas
-      const pageInfo = response.data?.Page?.pageInfo || response.Page?.pageInfo;
-      if (!pageInfo?.hasNextPage) {
-        break;
-      }
-
-      currentPage++;
-      await sleep(1000); // Pequeno delay entre páginas
+    } else {
+      throw new Error(`Tipo '${this.type}' não suportado. Use 'anime' ou 'manga'. Jogos não são suportados por enquanto (RAWG não oferece personagens fictícios).`);
     }
-
-    // Adicionar à fila
-    const worksToAdd = allNewWorks.slice(0, count).map(work => ({
-      id: work.id,
-      title: work.title.romaji || work.title.english,
-      popularity: work.popularity,
-      score: work.averageScore,
-      episodes: work.episodes,
-      status: work.status
-    }));
-
-    state.queue = [...state.queue, ...worksToAdd];
 
     await this.saveState(state);
 
-    logger.success(`✅ Fila aumentada! Adicionadas ${worksToAdd.length} obras`);
+    logger.success(`✅ Fila aumentada! Adicionadas ${allNewWorks.slice(0, count).length} obras`);
 
     return {
-      added: worksToAdd.length,
+      added: allNewWorks.slice(0, count).length,
       totalQueue: state.queue.length,
       requested: count
     };
