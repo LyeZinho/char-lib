@@ -1,22 +1,78 @@
 {
-  "id": "untitled",
-  "type": "other",
-  "title": "Untitled",
-  "alt_titles": [],
+  "id": "attack-on-titan-final-season",
+  "type": "anime",
+  "title": "Attack on Titan Final Season",
+  "alt_titles": [
+    "Shingeki no Kyojin: The Final Season",
+    "進撃の巨人 The Final Season"
+  ],
   "source": "AniList",
-  "source_id": "attack-on-titan-final-season",
+  "source_id": 110277,
   "description": "It’s been four years since the Scout Regiment reached the shoreline, and the world looks different now. Things are heating up as the fate of the Scout Regiment—and the people of Paradis—are determined at last. However, Eren is missing. Will he reappear before age-old tensions between Marleyans and Eldians result in the war of all wars?\n\n(Source: Crunchyroll)",
   "metadata": {
-    "startDate": null,
-    "endDate": null,
-    "genres": []
+    "format": "TV",
+    "status": "FINISHED",
+    "startDate": "2020-12-07",
+    "endDate": "2021-03-29",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "averageScore": 86,
+    "popularity": 571429,
+    "episodes": 16
   },
-  "images": [],
+  "images": [
+    {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110277-sKUNXAsWMNFw.jpg",
+      "type": "cover",
+      "source": "AniList"
+    },
+    {
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110277-iuGn6F5bK1U1.jpg",
+      "type": "banner",
+      "source": "AniList"
+    }
+  ],
   "external_ids": {
-    "anilist": "attack-on-titan-final-season"
+    "anilist": 110277
   },
-  "tags": [],
-  "updated_at": "2025-12-22T22:50:39.923Z",
-  "created_at": "2025-12-22T12:50:02.479Z",
-  "enriched": true
+  "tags": [
+    "War",
+    "Tragedy",
+    "Military",
+    "Kaiju",
+    "Revenge",
+    "Anti-Hero",
+    "Politics",
+    "Dystopian",
+    "Time Skip",
+    "Ensemble Cast",
+    "Survival",
+    "Shapeshifting",
+    "Male Protagonist",
+    "Swordplay",
+    "Henshin",
+    "Coastal",
+    "Steampunk",
+    "Shounen",
+    "Primarily Male Cast",
+    "Super Power",
+    "Primarily Adult Cast",
+    "Terrorism",
+    "Conspiracy",
+    "Espionage",
+    "Gore",
+    "Philosophy",
+    "CGI",
+    "Foreign",
+    "Body Horror",
+    "Memory Manipulation",
+    "Matriarchy",
+    "Guns"
+  ],
+  "updated_at": "2025-12-23T10:23:27.695Z",
+  "created_at": "2025-12-23T10:23:27.695Z"
 }

@@ -209,10 +209,6 @@ export default function DocsPage() {
                 <h3 className="text-lg font-semibold mb-3 text-accent-secondary">📅 Atualizações</h3>
                 <div className="space-y-2 text-sm">
                   <div className="flex justify-between">
-                    <span className="text-gray-400">Última:</span>
-                    <span className="text-gray-300">
-                      {databaseStats.last_updated ? new Date(databaseStats.last_updated).toLocaleDateString('pt-BR') : 'N/A'}
-                    </span>
                   </div>
                   <div className="flex justify-between">
                     <span className="text-gray-400">Primeiro import:</span>

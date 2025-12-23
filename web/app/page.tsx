@@ -114,15 +114,19 @@ export default function HomePage() {
     <div className="container mx-auto px-4 py-8">
       {/* Header */}
       <div className="mb-8">
-        <h1 className="text-4xl font-bold mb-2 bg-gradient-to-r from-accent-primary to-accent-secondary bg-clip-text text-transparent">
+        <h1 className="text-7xl font-bold mb-2 bg-gradient-to-r from-accent-primary to-accent-secondary bg-clip-text text-transparent">
           CharLib
         </h1>
         <p className="text-gray-400 text-lg">
-          Database local de personagens de anime, manga e games
+          Database leve de personagens de anime, manga e games
         </p>
         <p className="text-gray-500 mt-2">
           Explore uma vasta coleção de personagens com informações detalhadas, imagens e relacionamentos.
-          Tudo armazenado localmente para máxima privacidade e velocidade.
+          Organizado e cacheado para o melhor desempenho, atualizado regularmente.
+        </p>
+        <p className="text-gray-500 mt-2">
+          O intuito deste projeto é fornecer uma API rápida e eficiente para desenvolvedores que precisam de dados de personagens para seus aplicativos e serviços,
+          e de forma gratuita tirando a carga o peso de grandes bancos de dados como MyAnimeList, AniList e Kitsu.
         </p>
       </div>
 
