@@ -1,6 +1,6 @@
 {
   "work_id": "portal",
-  "count": 3,
+  "count": 5,
   "characters": [
     {
       "id": "jim-dose-3156",
@@ -16,7 +16,7 @@
         "rawg": 3156
       },
       "tags": [],
-      "updated_at": "2025-12-22T18:40:30.533Z"
+      "updated_at": "2025-12-23T14:56:57.732Z"
     },
     {
       "id": "gabe-newell-31",
@@ -32,7 +32,7 @@
         "rawg": 31
       },
       "tags": [],
-      "updated_at": "2025-12-22T18:40:30.534Z"
+      "updated_at": "2025-12-23T14:56:57.732Z"
     },
     {
       "id": "eric-smith-3559",
@@ -48,8 +48,40 @@
         "rawg": 3559
       },
       "tags": [],
-      "updated_at": "2025-12-22T18:40:30.534Z"
+      "updated_at": "2025-12-23T14:56:57.733Z"
+    },
+    {
+      "id": "joshua-weier-27",
+      "name": "Joshua Weier",
+      "alt_names": [],
+      "role": "other",
+      "description": "director",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 27
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T14:56:57.733Z"
+    },
+    {
+      "id": "mike-morasky-28",
+      "name": "Mike Morasky",
+      "alt_names": [],
+      "role": "other",
+      "description": "writer, composer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 28
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T14:56:57.733Z"
     }
   ],
-  "updated_at": "2025-12-22T18:40:30.535Z"
+  "updated_at": "2025-12-23T14:56:57.735Z"
 }

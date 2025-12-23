@@ -1,0 +1,108 @@
+{
+  "id": "rocket-league",
+  "type": "game",
+  "title": "Rocket League",
+  "alt_titles": [
+    "Rocket League",
+    "RL",
+    "RocketLeague",
+    "RocketLeague-Win64",
+    "Win64\\RocketLeague.exe"
+  ],
+  "source": "RAWG",
+  "source_id": "3272",
+  "description": "Highly competitive soccer game with rocket-cars is the most comprehensive way to describe this game. Technically a sequel to Psyonix’ previous game - Supersonic Acrobatic Rocket-Powered Battle-Cars; Rocket League successfully became a standalone sensation, that can be enjoyed by anyone. Easy to learn, hard to master game mechanics are perfect for the tight controls. Players are invited to maneuver the different fields within several game modes, from arcade to ranked game either 1v1, or in 2v2 and 3v3 teams. Using boosters will not only speed up the car but will allow the car to propel itself into the air.\r\nRocket League provides several levels of customization, where not only the color of your car can be adjusted, but the colors and form of the booster flame, different hats, and little flags. Or players can pick a completely different car. Collaboration with different franchises brought not only original transport but some famous cars, including Batmobile or Delorian from Back to the Future.",
+  "metadata": {
+    "released": "2015-07-07",
+    "rating": 3.93,
+    "rating_top": 4,
+    "ratings_count": 2842,
+    "metacritic": 86,
+    "playtime": 21,
+    "esrb_rating": "Everyone",
+    "genres": [
+      "Sports",
+      "Racing",
+      "Indie"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "macOS",
+      "PC",
+      "Linux",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "developers": [
+      "Psyonix"
+    ],
+    "publishers": [
+      "Psyonix"
+    ],
+    "stores": [
+      {
+        "name": "Xbox Store",
+        "url": ""
+      },
+      {
+        "name": "Steam",
+        "url": ""
+      },
+      {
+        "name": "PlayStation Store",
+        "url": ""
+      },
+      {
+        "name": "Nintendo Store",
+        "url": ""
+      },
+      {
+        "name": "Epic Games",
+        "url": ""
+      }
+    ],
+    "tags": [
+      "Singleplayer",
+      "Steam Achievements",
+      "Multiplayer",
+      "Full controller support",
+      "Steam Cloud",
+      "steam-trading-cards",
+      "Great Soundtrack",
+      "Co-op",
+      "cooperative",
+      "Online Co-Op"
+    ],
+    "website": "http://www.rocketleaguegame.com",
+    "reddit_url": "https://www.reddit.com/r/RocketLeague/",
+    "screenshots_count": 28,
+    "movies_count": 0,
+    "achievements_count": 430
+  },
+  "images": [
+    {
+      "url": "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+      "type": "cover"
+    },
+    {
+      "url": "https://media.rawg.io/media/screenshots/9c0/9c0fe40ff66815f302db6229758a0489.jpg",
+      "type": "background"
+    }
+  ],
+  "external_ids": {
+    "rawg": 3272,
+    "rawg_slug": "rocket-league",
+    "metacritic_url": ""
+  },
+  "tags": [
+    "Sports",
+    "Racing",
+    "Indie",
+    "Nintendo Switch",
+    "macOS",
+    "PC",
+    "Everyone"
+  ],
+  "updated_at": "2025-12-23T15:21:38.976Z",
+  "created_at": "2025-12-23T15:21:38.976Z"
+}

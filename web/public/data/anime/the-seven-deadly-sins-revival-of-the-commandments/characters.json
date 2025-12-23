@@ -1,0 +1,390 @@
+{
+  "work_id": "the-seven-deadly-sins-revival-of-the-commandments",
+  "count": 15,
+  "characters": [
+    {
+      "id": "meliodas",
+      "name": "Meliodas",
+      "alt_names": [
+        "メリオダス",
+        "Dragon's Sin of Wrath",
+        "Captain"
+      ],
+      "role": "protagonist",
+      "description": "__Race:__ ~!Demon!~\n\n__Height:__ 5'0\" (152cm)\n\nMeliodas the leader of the Seven Deadly Sins and the Sin of Wrath with the symbol of the Dragon. He is the main protagonist of the Nanatsu no Taizai and the owner of the Boar Hat bar.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72921-XDHNd1wflN6P.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72921
+      }
+    },
+    {
+      "id": "elizabeth-liones",
+      "name": "Elizabeth Liones",
+      "alt_names": [
+        "エリザベス・リオネス",
+        "Ellie",
+        "Elie"
+      ],
+      "role": "protagonist",
+      "description": "Elizabeth Liones is the third adoptive princess of the Kingdom of Liones Originally an alleged survivor of Danafor's destruction, Elizabeth was adopted and raised by the king Bartra Liones. After the Holy Knights rebel, she sets on journey to find Seven Deadly Sins, becoming a waitress for Meliodas' tavern Boar Hat.\n\n~!She is 107th and current incarnation of the Goddess Elizabeth, and the lover of Meliodas, captain of the Seven Deadly Sins. She is the deuteragonist of the series..!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72923-a6q29qhfSAM5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72923
+      }
+    },
+    {
+      "id": "diane",
+      "name": "Diane",
+      "alt_names": [
+        "ディアンヌ",
+        "Serpent's Sin of Envy "
+      ],
+      "role": "protagonist",
+      "description": "Diane is a member of the Seven Deadly Sins and is The Sin of Envy with the symbol of the Serpent. She is also a member of the Giant's Clan.   She is a fair maiden with pink eyes and medium length brown hair which is tied up into Mega Twintails. Despite being a beautiful looking maiden, she is in fact a giant from the giant clan, and is several times larger than ordinary humans. She wears a one piece orange suit, boots that extend almost up to the knees, and a metal armband which is embedded with shiny metal pebbles. Her current outfits and attire is believed to be the most fashionable ones. She wears an orange colored short sleeved bodysuit and boots.   As the Serpent's Sin of Envy, her main traits are jealousy and envy. She shows strong affection for Meliodas, so when she met him together with Elizabeth, she grew very jealous and threw him away whilst calling him a cheater.  In contrary with Elizabeth who wants to be strong and powerful, she wants to be small.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b74653-XpMcsLVZBnkZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74653
+      }
+    },
+    {
+      "id": "ban",
+      "name": "Ban",
+      "alt_names": [
+        "バン",
+        "Fox's Sin of Greed",
+        "Bandit Ban",
+        "Undead Ban"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 210 cm\n\nBan is a member of the Seven Deadly Sins and is The Sin of Greed with the symbol of the Fox. He was imprisoned in the Baste Dungeon.",
+      "metadata": {
+        "gender": "male",
+        "age": "43",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b77605-NrjhQwZwgJ3l.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 77605
+      }
+    },
+    {
+      "id": "king",
+      "name": "King",
+      "alt_names": [
+        "キング",
+        "Grizzly's Sin of Sloth",
+        "King of Fairies",
+        "Fairy King Harlequin",
+        "Fatty"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 165 cm\n\nKing is a member of the Seven Deadly Sins and is the Sin of Sloth with the symbol of the Grizzly. He is also Oslo's master. King's real identity is Fairy King Harlequin, the king of the fairy race.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b83801-52RnDXQDZ1I7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 83801
+      }
+    },
+    {
+      "id": "hawk",
+      "name": "Hawk",
+      "alt_names": [
+        "ホーク",
+        "Hawky",
+        "Pork",
+        "Pig",
+        "Captain of the Knights of Leftovers Disposal",
+        "Power Level Obsessed",
+        "Lord Piglet"
+      ],
+      "role": "protagonist",
+      "description": "Hawk is a talking pig and Meliodas's companion. He is introduced as the cleaner of the Boar Hat bar who helps clean the disgusting food scraps. He is a relatively large pink pig who wears an earring with the word star boar on his left ear. His body is well rounded and his legs are fairly short. He has a unique patch of black spots shaped like a four-leafed clover. His body and appearance are fairly similar to a typical Gloucestershire Old Spots Pig.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n86683-ZXPoLZnKqNtx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 86683
+      }
+    },
+    {
+      "id": "gowther",
+      "name": "Gowther",
+      "alt_names": [
+        "ゴウセル",
+        "Goat's Sin of Lust"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 175cm (5'9\") (Human size), 23-24cm (0'9\") (doll)\n__Eye Colour:__ Amber (variable), Black (formerly)\n\nHe is shown to be completely clueless and unaware of others' feelings, not understanding the meaning of friendship. He often states things factually, not understanding how what he says can upset people. He decides to assist Elizabeth on her journey, not because of a desire for justice, but because he felt obligated as a member of the Seven Deadly Sins. Since Gowther doesn't understand emotions, he goes to great length to understand them. For example, observing Meliodas and Ban's friendship.\n\n(Source: Nanatsu no Taizai Wiki)",
+      "metadata": {
+        "age": "3500+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88823-Oppzl2h6OhO8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88823
+      }
+    },
+    {
+      "id": "merlin",
+      "name": "Merlin",
+      "alt_names": [
+        "マーリン",
+        "Boar's Sin of Gluttony",
+        "Brittania's Greatest Sorcerer"
+      ],
+      "role": "protagonist",
+      "description": "She is a member of the Seven Deadly Sins. She has the mark of the boars sin of gluttony. She was regarded as the greatest mage in Britannia and is the master of Vivian as well as a teacher of King Arthur of Camelot. She came to the aid of the sins in their battle against Hendirkson but had to leave to tend to the King. She has not officially rejoined the sins but said she would as soon as she was finished with her other business.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89180-rN6OVPki8h3V.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89180
+      }
+    },
+    {
+      "id": "escanor",
+      "name": "Escanor",
+      "alt_names": [
+        "エスカノール",
+        "Lion's Sin of Pride",
+        "Master of the Sun",
+        "Thin Moustache"
+      ],
+      "role": "protagonist",
+      "description": "__Race:__ Human\n__Height:__ 165-325 cm (5'5\"-10'8\")\n\nA member of the Seven Deadly Sins and is known as Lion's Sin of Pride. He is renowned for gaining immense power during the day, and gradually becoming weaker with the setting of the sun, leaving him frail and submissive at night. His Sacred Treasure is the Divine Axe Rhitta. His inherent power is named Sunshine.",
+      "metadata": {
+        "gender": "male",
+        "age": "41",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b90202-1H7FIX2hDmYd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 90202
+      }
+    },
+    {
+      "id": "gilthunder",
+      "name": "Gilthunder",
+      "alt_names": [
+        "ギルサンダー",
+        "Gil",
+        "Diamond Knight"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 185 cm (6'1\")\n\nOne of the holy knights of the Britannia kingdom. He is a Diamond-ranked Holy Knight.",
+      "metadata": {
+        "gender": "male",
+        "age": "21-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b74285-qGwNsXKYRPcC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74285
+      }
+    },
+    {
+      "id": "guila",
+      "name": "Guila",
+      "alt_names": [
+        "ギーラ",
+        "Geera"
+      ],
+      "role": "supporting",
+      "description": "Geera is a Holy Knight who left herself in a near-death state to have access to the Capital of the Dead and kill the Deadly Sins who had gone there. She is a young female with a slim build. She has long black hair and her eyes are depicted as if they are closed.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n86665-ZbYVIjmbyfl9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 86665
+      }
+    },
+    {
+      "id": "dreyfus",
+      "name": "Dreyfus",
+      "alt_names": [
+        "ドレファス"
+      ],
+      "role": "supporting",
+      "description": "Dreyfus is one of the current Great Holy Knights, thus also making him one of the two people who have command over the entirety of Britannia after the coup d'état. His attire consists of a standard set of a Holy Knight's armor that has a spike on each shoulder. He has long black hair that reaches up to his shoulder, with a short beard.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/86677-TVr1h1HFTZ43.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 86677
+      }
+    },
+    {
+      "id": "hendricksen",
+      "name": "Hendricksen",
+      "alt_names": [
+        "ヘンドリクセン",
+        "Hendriksen",
+        "Hendrickson",
+        "Hendy"
+      ],
+      "role": "supporting",
+      "description": "Hendricksen is one of the current Great Holy Knights, thus also making him one of the two people who have command over the entirety of Britannia after the coup d'état. He wears a set of and covers it with a robe on top. He has short light-colored hair and also a goatee. Hendricksen is a serious man, who, like Dreyfus, appears to be willing to capture the king and enslave the citizens to prepare for the Holy War. However, he also seems to be plotting something.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/86679-18WrlrOgWcq8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 86679
+      }
+    },
+    {
+      "id": "elaine",
+      "name": "Elaine",
+      "alt_names": [
+        "エレイン",
+        "Holy Maiden of the Fairy King's Forest"
+      ],
+      "role": "supporting",
+      "description": "Elaine is King's sister, and the Guardian Saint of the Fountain of Youth. She has long and thin eyelashes, and cut hair that reaches her neck. She wears a single white one-piece dress which is tied together with a butterfly knot at the back. Elaine is shown to be a kind, caring and forgiving girl.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/86681-6kx3mfwNhraK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 86681
+      }
+    },
+    {
+      "id": "howzer",
+      "name": "Howzer",
+      "alt_names": [
+        "ハウザー",
+        "Hauser",
+        "Platinum Knight"
+      ],
+      "role": "supporting",
+      "description": "Hauser is a Holy Knight, a colleague and partner of Gilthunder, and a subordinate of the Great Holy Knight, Dreyfus. He wears a set of Holy Knight armor and has short light-colored curled up hair. Hauser demonstrates a lot of self confidence and is very optimistic, which is the complete opposite of Gilthunder's personality; he is also shown to be somewhat naive and stupid.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/86685-EVUJUHwElo95.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 86685
+      }
+    }
+  ],
+  "updated_at": "2025-12-23T20:13:52.466Z"
+}

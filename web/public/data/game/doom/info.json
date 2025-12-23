@@ -1,0 +1,107 @@
+{
+  "id": "doom",
+  "type": "game",
+  "title": "DOOM (2016)",
+  "alt_titles": [
+    "DOOM (2016)"
+  ],
+  "source": "RAWG",
+  "source_id": "2454",
+  "description": "Return of the classic FPS, Doom (2016) acts as a reboot of the series and brings back the Doomslayer, protagonist of the original Doom games. In order to solve the energy crisis, humanity learned to harvest the energy from Hell, and when something went wrong and a demon invasion has started, it’s up to the player to control the Doomslayer and destroy the evil.\n\nDoom is a fast-paced game that restores the concept of instant health packs and leaves the player against armies of Hell with no cover, no health regeneration, or help from anyone. After damaging monsters enough, they will start glowing, which will allow players to perform glory kills to restore some health. While exploring the levels, players will come across secrets, collectible items, or upgrade points for the weapons and armor. The single-player campaign silent protagonist has a noticeable personality. He gets visibly annoyed and angry in his actions during expository cutscenes and forces his way through the game. Multiplayer maps gather players in Deathmatch/”king-of-the-hill” type game modes, with all the weapons from the single-player campaign.",
+  "metadata": {
+    "released": "2016-05-12",
+    "rating": 4.38,
+    "rating_top": 5,
+    "ratings_count": 3599,
+    "metacritic": 85,
+    "playtime": 10,
+    "esrb_rating": "Mature",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "Xbox One"
+    ],
+    "developers": [
+      "Bethesda Softworks",
+      "id Software",
+      "Panic Button",
+      "Tango Gameworks",
+      "Escalation Studios",
+      "Certain Affinity",
+      "Digital Domain",
+      "BattleCry Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "stores": [
+      {
+        "name": "GOG",
+        "url": ""
+      },
+      {
+        "name": "Steam",
+        "url": ""
+      },
+      {
+        "name": "PlayStation Store",
+        "url": ""
+      },
+      {
+        "name": "Nintendo Store",
+        "url": ""
+      },
+      {
+        "name": "Xbox Store",
+        "url": ""
+      }
+    ],
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Atmospheric",
+      "Great Soundtrack",
+      "Co-op",
+      "cooperative",
+      "First-Person",
+      "Sci-fi",
+      "Partial Controller Support",
+      "Horror"
+    ],
+    "website": "https://bethesda.net/game/doom",
+    "reddit_url": "https://www.reddit.com/r/Doom/",
+    "screenshots_count": 17,
+    "movies_count": 1,
+    "achievements_count": 334
+  },
+  "images": [
+    {
+      "url": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg",
+      "type": "cover"
+    },
+    {
+      "url": "https://media.rawg.io/media/screenshots/d3b/d3b881ae214f9ad14724afc41b49dcea.jpg",
+      "type": "background"
+    }
+  ],
+  "external_ids": {
+    "rawg": 2454,
+    "rawg_slug": "doom",
+    "metacritic_url": ""
+  },
+  "tags": [
+    "Action",
+    "Shooter",
+    "PC",
+    "PlayStation 4",
+    "Nintendo Switch",
+    "Mature"
+  ],
+  "updated_at": "2025-12-23T15:18:31.514Z",
+  "created_at": "2025-12-23T15:18:31.514Z"
+}

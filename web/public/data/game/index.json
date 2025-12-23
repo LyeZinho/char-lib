@@ -1,5 +1,349 @@
 [
   {
+    "slug": "apex-legends",
+    "title": "Apex Legends",
+    "cover_image": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg",
+    "description": "Conquer with character in Apex Legends, a free-to-play* Battle Royale shooter where legendary characters with powerful abilities team up to battle for fame and fortune on the fringes of the Frontier. ",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "characters_count": 3,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:25:49.986Z",
+    "updated_at": "2025-12-23T15:25:49.986Z",
+    "type": "game"
+  },
+  {
+    "slug": "batman-arkham-knight",
+    "title": "Batman: Arkham Knight",
+    "cover_image": "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg",
+    "description": "Batman: Arkham Knight is the final instalment for the Arkham series by now. Joining forces with Bruce Wayne for the last time, we have to oppose Scarecrow and other iconic villains such as The Riddler",
+    "genres": [
+      "Action"
+    ],
+    "characters_count": 9,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:23:44.642Z",
+    "updated_at": "2025-12-23T15:23:44.642Z",
+    "type": "game"
+  },
+  {
+    "slug": "bioshock",
+    "title": "BioShock",
+    "cover_image": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+    "description": "FPS with RPG elements, Bioshock invites players to experience horrors of underwater isolation in the city of Rapture, the failed project of the better future. After surviving the plane crash, the prot",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "characters_count": 6,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:14:53.075Z",
+    "updated_at": "2025-12-23T15:14:53.075Z",
+    "type": "game"
+  },
+  {
+    "slug": "bioshock-infinite",
+    "title": "BioShock Infinite",
+    "cover_image": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+    "description": "The third game in the series, Bioshock takes the story of the underwater confinement within the lost city of Rapture and takes it in the sky-city of Columbia. Players will follow Booker DeWitt, a priv",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "characters_count": 6,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:12:46.032Z",
+    "updated_at": "2025-12-23T15:12:46.032Z",
+    "type": "game"
+  },
+  {
+    "slug": "borderlands-2",
+    "title": "Borderlands 2",
+    "cover_image": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+    "description": "Sequel to the 4-player cooperative FPS RPG Borderlands, where the new team of Vault Hunters arrives on the infamous planet Pandora in order to get the riches, hidden inside the Vault, and help to free",
+    "genres": [
+      "Action",
+      "Shooter",
+      "RPG"
+    ],
+    "characters_count": 12,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:13:47.554Z",
+    "updated_at": "2025-12-23T15:13:47.554Z",
+    "type": "game"
+  },
+  {
+    "slug": "counter-strike-global-offensive",
+    "title": "Counter-Strike: Global Offensive",
+    "cover_image": "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg",
+    "description": "Counter-Strike is a multiplayer phenomenon in its simplicity. No complicated narratives to explain the source of the conflict, no futuristic and alien threats, but counter-terrorists against terrorist",
+    "genres": [
+      "Shooter"
+    ],
+    "characters_count": 40,
+    "source": "RAWG",
+    "created_at": "2025-12-23T13:40:57.085Z",
+    "updated_at": "2025-12-23T13:50:36.385Z",
+    "type": "game"
+  },
+  {
+    "slug": "cyberpunk-2077",
+    "title": "Cyberpunk 2077",
+    "cover_image": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
+    "description": "Cyberpunk 2077 is a science fiction game loosely based on the role-playing game Cyberpunk 2020.\r\n\r\n###Setting\r\nThe game is set in the year 2077 in a fictional futuristic metropolis Night City in Calif",
+    "genres": [
+      "Action",
+      "Shooter",
+      "RPG"
+    ],
+    "characters_count": 6,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:19:02.887Z",
+    "updated_at": "2025-12-23T15:19:02.887Z",
+    "type": "game"
+  },
+  {
+    "slug": "destiny-2",
+    "title": "Destiny 2",
+    "cover_image": "https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg",
+    "description": "Destiny 2 is an online multiplayer first-person shooter. You take on the role of a Guardian that needs to protect the last city on Earth from alien invaders. The game follows its predecessor, Destiny.",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "characters_count": 21,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:15:24.207Z",
+    "updated_at": "2025-12-23T15:15:24.207Z",
+    "type": "game"
+  },
+  {
+    "slug": "doom",
+    "title": "DOOM (2016)",
+    "cover_image": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg",
+    "description": "Return of the classic FPS, Doom (2016) acts as a reboot of the series and brings back the Doomslayer, protagonist of the original Doom games. In order to solve the energy crisis, humanity learned to h",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "characters_count": 25,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:18:31.514Z",
+    "updated_at": "2025-12-23T15:18:31.514Z",
+    "type": "game"
+  },
+  {
+    "slug": "dota-2",
+    "title": "Dota 2",
+    "cover_image": "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+    "description": "What used to be an unofficial modded map for the Warcraft 3, ended up being the most budgeted cybersport discipline, gathering millions of people to watch annual international championships.\nMOBA genr",
+    "genres": [
+      "Action",
+      "Massively Multiplayer"
+    ],
+    "characters_count": 7,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:20:05.612Z",
+    "updated_at": "2025-12-23T15:20:05.612Z",
+    "type": "game"
+  },
+  {
+    "slug": "fallout-4",
+    "title": "Fallout 4",
+    "cover_image": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+    "description": "The fourth game in the post-apocalyptic action RPG series from Bethesda studious brings players back to the retro-future. After customizing the facial features of the character, players will be admitt",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "characters_count": 7,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:16:27.637Z",
+    "updated_at": "2025-12-23T15:16:27.637Z",
+    "type": "game"
+  },
+  {
+    "slug": "god-of-war-2",
+    "title": "God of War (2018)",
+    "cover_image": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+    "description": "It is a new beginning for Kratos. Living as a man outside the shadow of the gods, he ventures into the brutal Norse wilds with his son Atreus, fighting to fulfill a deeply personal quest. \r\n\r\nHis veng",
+    "genres": [
+      "Action"
+    ],
+    "characters_count": 13,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:15:56.200Z",
+    "updated_at": "2025-12-23T15:15:56.200Z",
+    "type": "game"
+  },
+  {
+    "slug": "grand-theft-auto-iv",
+    "title": "Grand Theft Auto IV",
+    "cover_image": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
+    "description": "Every crime story is a story of a search for success. The player will become Niko Bellic, immigrant arriving at the Liberty City to reunite with his cousin Roman and find the man that betrayed him and",
+    "genres": [
+      "Action"
+    ],
+    "characters_count": 8,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:20:36.713Z",
+    "updated_at": "2025-12-23T15:20:36.713Z",
+    "type": "game"
+  },
+  {
+    "slug": "grand-theft-auto-san-andreas",
+    "title": "Grand Theft Auto: San Andreas",
+    "cover_image": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg",
+    "description": "Grand Theft Auto - San Andreas is the seventh entry in the series in the GTA franchise, but only second big title after GTA - Vice City. Setting up in fictional state San Andreas, you follow the story",
+    "genres": [
+      "Action"
+    ],
+    "characters_count": 8,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:25:18.747Z",
+    "updated_at": "2025-12-23T15:25:18.747Z",
+    "type": "game"
+  },
+  {
+    "slug": "half-life-2",
+    "title": "Half-Life 2",
+    "cover_image": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
+    "description": "Gordon Freeman became the most popular nameless and voiceless protagonist in gaming history. He is painted as the most famous scientist and a hero within the world of Half-Life, and for a good reason.",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "characters_count": 5,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:13:16.816Z",
+    "updated_at": "2025-12-23T15:13:16.816Z",
+    "type": "game"
+  },
+  {
+    "slug": "horizon-zero-dawn",
+    "title": "Horizon Zero Dawn",
+    "cover_image": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
+    "description": "Horizon Zero Dawn is an experiment. A very impressive experiment that actually succeeded. \r\nHaving a very curious mix of cyberpunk and prehistorical styles and esthetic, the game provides us with quit",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "characters_count": 11,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:22:09.876Z",
+    "updated_at": "2025-12-23T15:22:09.876Z",
+    "type": "game"
+  },
+  {
+    "slug": "left-4-dead-2",
+    "title": "Left 4 Dead 2",
+    "cover_image": "https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg",
+    "description": "Cooperative survival continues with a different set of characters. New survivors are making their way through 5 campaigns with an added ability to play through the story of the first game as well, usi",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "characters_count": 5,
+    "source": "RAWG",
+    "created_at": "2025-12-23T14:57:34.207Z",
+    "updated_at": "2025-12-23T14:57:34.207Z",
+    "type": "game"
+  },
+  {
+    "slug": "life-is-strange-episode-1-2",
+    "title": "Life is Strange",
+    "cover_image": "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+    "description": "Interactive storytelling and plot-heavy games gained popularity, and “Life is Strange” arrived as teen mystery adventure. The plot will go through the life of Maxine, a teenager in possession of curio",
+    "genres": [
+      "Adventure"
+    ],
+    "characters_count": 12,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:14:18.527Z",
+    "updated_at": "2025-12-23T15:14:18.527Z",
+    "type": "game"
+  },
+  {
+    "slug": "limbo",
+    "title": "Limbo",
+    "cover_image": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
+    "description": "This popular 2D puzzle-platformer creates the atmosphere of isolation, where the player alone can guide the nameless protagonist to his destination. Hostile environments and one-hit deaths may seem di",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Puzzle",
+      "Platformer"
+    ],
+    "characters_count": 8,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:17:29.500Z",
+    "updated_at": "2025-12-23T15:17:29.501Z",
+    "type": "game"
+  },
+  {
+    "slug": "metal-gear-solid-v-the-phantom-pain",
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "cover_image": "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg",
+    "description": "Metal Gear Solid 5 continues the story of MGS: Peace Walker and MGS V: Ground Zeroes. Snake seeks revenge for the attack on the MSF group 9 years ago, that placed Big Boss into a coma. After the faile",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "characters_count": 15,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:24:16.609Z",
+    "updated_at": "2025-12-23T15:24:16.609Z",
+    "type": "game"
+  },
+  {
+    "slug": "metro-2033",
+    "title": "Metro 2033",
+    "cover_image": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
+    "description": "Not all post-apocalyptic stories begin in the burned wastelands, this time nuclear and chemical locked up survivors in the Moscow Subway, and player will take the place of Artyom, one of the survivors",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "characters_count": 9,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:22:42.049Z",
+    "updated_at": "2025-12-23T15:22:42.049Z",
+    "type": "game"
+  },
+  {
+    "slug": "nierautomata",
+    "title": "NieR:Automata",
+    "cover_image": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg",
+    "description": "NieR: Automata is an action RPG, a sequel to Nier and a spin-off to the Drakenguard series. The story is set in the middle of the war between humans and machines where you take on the role of an andro",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "characters_count": 14,
+    "source": "RAWG",
+    "created_at": "2025-12-23T14:59:55.096Z",
+    "updated_at": "2025-12-23T14:59:55.096Z",
+    "type": "game"
+  },
+  {
+    "slug": "payday-2",
+    "title": "PAYDAY 2",
+    "cover_image": "https://media.rawg.io/media/games/73e/73eecb8909e0c39fb246f457b5d6cbbe.jpg",
+    "description": "The gang is back, and they have bigger and better plans. Objective based cooperative FPS became more complicated. The classic group of Hoxton, Dallas, Chains and Wolf got reinforcement, and now Payday",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "characters_count": 5,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:16:58.505Z",
+    "updated_at": "2025-12-23T15:16:58.505Z",
+    "type": "game"
+  },
+  {
     "slug": "portal",
     "title": "Portal",
     "cover_image": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg",
@@ -8,10 +352,100 @@
       "Action",
       "Puzzle"
     ],
-    "characters_count": 3,
+    "characters_count": 5,
     "source": "RAWG",
     "created_at": "2025-12-22T18:40:30.185Z",
-    "updated_at": "2025-12-22T18:40:30.185Z",
+    "updated_at": "2025-12-23T14:56:57.240Z",
+    "type": "game"
+  },
+  {
+    "slug": "red-dead-redemption-2",
+    "title": "Red Dead Redemption 2",
+    "cover_image": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
+    "description": "America, 1899. The end of the wild west era has begun as lawmen hunt down the last remaining outlaw gangs. Those who will not surrender or succumb are killed. \r\n\r\nAfter a robbery goes badly wrong in t",
+    "genres": [
+      "Action"
+    ],
+    "characters_count": 8,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:12:15.001Z",
+    "updated_at": "2025-12-23T15:12:15.001Z",
+    "type": "game"
+  },
+  {
+    "slug": "rise-of-the-tomb-raider",
+    "title": "Rise of the Tomb Raider",
+    "cover_image": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg",
+    "description": "Rise of the Tomb Raider is the eleventh entry in the franchise, being a sequel to its predecessor, Tomb Raider, a reboot of the franchise. This story follows Lara Croft, one year after battling her su",
+    "genres": [
+      "Action"
+    ],
+    "characters_count": 11,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:23:13.603Z",
+    "updated_at": "2025-12-23T15:23:13.603Z",
+    "type": "game"
+  },
+  {
+    "slug": "rocket-league",
+    "title": "Rocket League",
+    "cover_image": "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+    "description": "Highly competitive soccer game with rocket-cars is the most comprehensive way to describe this game. Technically a sequel to Psyonix’ previous game - Supersonic Acrobatic Rocket-Powered Battle-Cars; R",
+    "genres": [
+      "Sports",
+      "Racing",
+      "Indie"
+    ],
+    "characters_count": 5,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:21:38.976Z",
+    "updated_at": "2025-12-23T15:21:38.976Z",
+    "type": "game"
+  },
+  {
+    "slug": "team-fortress-2",
+    "title": "Team Fortress 2",
+    "cover_image": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
+    "description": "TF2 is an objective based arena shooter with unique characters, representing different classes, acting as a staple of casual and competitive gaming for Steam. Dozens of different maps and game modes a",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "characters_count": 3,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:18:00.453Z",
+    "updated_at": "2025-12-23T15:18:00.453Z",
+    "type": "game"
+  },
+  {
+    "slug": "terraria",
+    "title": "Terraria",
+    "cover_image": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
+    "description": "Terraria is a 2D action adventure sandbox game, where players create a character and gather resources in order to gradually craft stronger weapons and armor. Players create randomly generated maps tha",
+    "genres": [
+      "Action",
+      "Indie",
+      "Platformer"
+    ],
+    "characters_count": 8,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:19:34.189Z",
+    "updated_at": "2025-12-23T15:19:34.189Z",
+    "type": "game"
+  },
+  {
+    "slug": "the-elder-scrolls-v-skyrim",
+    "title": "The Elder Scrolls V: Skyrim",
+    "cover_image": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+    "description": "The fifth game in the series, Skyrim takes us on a journey through the coldest region of Cyrodiil. Once again player can traverse the open world RPG armed with various medieval weapons and magic, to b",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "characters_count": 9,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:11:43.780Z",
+    "updated_at": "2025-12-23T15:11:43.780Z",
     "type": "game"
   },
   {
@@ -28,6 +462,51 @@
     "source": "RAWG",
     "created_at": "2025-12-22T18:34:07.581Z",
     "updated_at": "2025-12-22T18:34:07.581Z",
+    "type": "game"
+  },
+  {
+    "slug": "the-witcher-2-assassins-of-kings-enhanced-edition",
+    "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "cover_image": "https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg",
+    "description": "The player is Geralt of Rivia, infamous monster slayer. In the second game of the series, titular witcher is involved in the inner conflicts of Temeria, where he stopped the rebellion and was hired as",
+    "genres": [
+      "RPG"
+    ],
+    "characters_count": 11,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:24:47.673Z",
+    "updated_at": "2025-12-23T15:24:47.673Z",
+    "type": "game"
+  },
+  {
+    "slug": "tomb-raider",
+    "title": "Tomb Raider (2013)",
+    "cover_image": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+    "description": "A cinematic revival of the series in its action third person form, Tomb Rider follows Lara in her least experience period of life – her youth. Heavily influenced by Naughty Dog’s “Uncharted”, the game",
+    "genres": [
+      "Action"
+    ],
+    "characters_count": 9,
+    "source": "RAWG",
+    "created_at": "2025-12-23T13:41:28.362Z",
+    "updated_at": "2025-12-23T14:15:12.586Z",
+    "type": "game"
+  },
+  {
+    "slug": "warframe",
+    "title": "Warframe",
+    "cover_image": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
+    "description": "Warframe is an online free-to-play cooperative third-person looter shooter. In the far future the Orokin had absolute control over the solar system but have since disappeared, now the militaristic Gri",
+    "genres": [
+      "Action",
+      "Shooter",
+      "RPG",
+      "Massively Multiplayer"
+    ],
+    "characters_count": 14,
+    "source": "RAWG",
+    "created_at": "2025-12-23T15:21:07.788Z",
+    "updated_at": "2025-12-23T15:21:07.788Z",
     "type": "game"
   }
 ]

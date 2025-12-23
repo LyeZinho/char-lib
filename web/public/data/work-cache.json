@@ -1,4 +1,496 @@
 {
+  "28": {
+    "processedAt": "2025-12-23T15:12:15.880Z",
+    "title": "Red Dead Redemption 2",
+    "type": "game",
+    "charactersCount": 8
+  },
+  "32": {
+    "processedAt": "2025-12-23T15:15:25.841Z",
+    "title": "Destiny 2",
+    "type": "game",
+    "charactersCount": 21
+  },
+  "164": {
+    "processedAt": "2025-12-23T16:48:33.493Z",
+    "title": "Mononoke-hime",
+    "type": "anime",
+    "charactersCount": 14
+  },
+  "278": {
+    "processedAt": "2025-12-23T15:22:10.643Z",
+    "title": "Horizon Zero Dawn",
+    "type": "game",
+    "charactersCount": 11
+  },
+  "416": {
+    "processedAt": "2025-12-23T15:25:19.734Z",
+    "title": "Grand Theft Auto: San Andreas",
+    "type": "game",
+    "charactersCount": 8
+  },
+  "422": {
+    "processedAt": "2025-12-23T15:19:35.442Z",
+    "title": "Terraria",
+    "type": "game",
+    "charactersCount": 8
+  },
+  "766": {
+    "processedAt": "2025-12-23T15:21:08.786Z",
+    "title": "Warframe",
+    "type": "game",
+    "charactersCount": 14
+  },
+  "802": {
+    "processedAt": "2025-12-23T15:13:48.333Z",
+    "title": "Borderlands 2",
+    "type": "game",
+    "charactersCount": 12
+  },
+  "918": {
+    "processedAt": "2025-12-23T19:30:46.485Z",
+    "title": "Gintama",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "1030": {
+    "processedAt": "2025-12-23T15:17:30.256Z",
+    "title": "Limbo",
+    "type": "game",
+    "charactersCount": 8
+  },
+  "2167": {
+    "processedAt": "2025-12-23T18:03:38.760Z",
+    "title": "CLANNAD",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "2454": {
+    "processedAt": "2025-12-23T15:18:32.580Z",
+    "title": "DOOM (2016)",
+    "type": "game",
+    "charactersCount": 25
+  },
+  "3070": {
+    "processedAt": "2025-12-23T15:16:28.346Z",
+    "title": "Fallout 4",
+    "type": "game",
+    "charactersCount": 7
+  },
+  "3192": {
+    "processedAt": "2025-12-23T15:24:17.399Z",
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "type": "game",
+    "charactersCount": 15
+  },
+  "3272": {
+    "processedAt": "2025-12-23T15:21:39.700Z",
+    "title": "Rocket League",
+    "type": "game",
+    "charactersCount": 5
+  },
+  "3287": {
+    "processedAt": "2025-12-23T15:23:46.424Z",
+    "title": "Batman: Arkham Knight",
+    "type": "game",
+    "charactersCount": 9
+  },
+  "3439": {
+    "processedAt": "2025-12-23T15:14:22.893Z",
+    "title": "Life is Strange",
+    "type": "game",
+    "charactersCount": 12
+  },
+  "3939": {
+    "processedAt": "2025-12-23T15:16:59.237Z",
+    "title": "PAYDAY 2",
+    "type": "game",
+    "charactersCount": 5
+  },
+  "4062": {
+    "processedAt": "2025-12-23T15:12:46.654Z",
+    "title": "BioShock Infinite",
+    "type": "game",
+    "charactersCount": 6
+  },
+  "4286": {
+    "processedAt": "2025-12-23T15:14:53.982Z",
+    "title": "BioShock",
+    "type": "game",
+    "charactersCount": 6
+  },
+  "4291": {
+    "processedAt": "2025-12-23T13:50:37.381Z",
+    "title": "Counter-Strike: Global Offensive",
+    "type": "game",
+    "charactersCount": 40
+  },
+  "4459": {
+    "processedAt": "2025-12-23T15:20:37.471Z",
+    "title": "Grand Theft Auto IV",
+    "type": "game",
+    "charactersCount": 8
+  },
+  "5286": {
+    "processedAt": "2025-12-23T14:15:13.073Z",
+    "title": "Tomb Raider (2013)",
+    "type": "game",
+    "charactersCount": 9
+  },
+  "5679": {
+    "processedAt": "2025-12-23T15:11:44.811Z",
+    "title": "The Elder Scrolls V: Skyrim",
+    "type": "game",
+    "charactersCount": 9
+  },
+  "6746": {
+    "processedAt": "2025-12-23T17:25:35.855Z",
+    "title": "Durarara!!",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "7054": {
+    "processedAt": "2025-12-23T21:05:14.040Z",
+    "title": "Kaichou wa Maid-sama!",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "7689": {
+    "processedAt": "2025-12-23T15:23:14.404Z",
+    "title": "Rise of the Tomb Raider",
+    "type": "game",
+    "charactersCount": 11
+  },
+  "10213": {
+    "processedAt": "2025-12-23T15:20:06.427Z",
+    "title": "Dota 2",
+    "type": "game",
+    "charactersCount": 7
+  },
+  "11617": {
+    "processedAt": "2025-12-23T12:33:46.915Z",
+    "title": "High School DxD",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "11859": {
+    "processedAt": "2025-12-23T15:18:01.309Z",
+    "title": "Team Fortress 2",
+    "type": "game",
+    "charactersCount": 3
+  },
+  "12020": {
+    "processedAt": "2025-12-23T14:57:36.179Z",
+    "title": "Left 4 Dead 2",
+    "type": "game",
+    "charactersCount": 5
+  },
+  "13536": {
+    "processedAt": "2025-12-23T14:56:58.943Z",
+    "title": "Portal",
+    "type": "game",
+    "charactersCount": 5
+  },
+  "13537": {
+    "processedAt": "2025-12-23T15:13:17.394Z",
+    "title": "Half-Life 2",
+    "type": "game",
+    "charactersCount": 5
+  },
+  "16944": {
+    "processedAt": "2025-12-23T15:24:48.476Z",
+    "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "type": "game",
+    "charactersCount": 11
+  },
+  "20661": {
+    "processedAt": "2025-12-23T21:37:03.364Z",
+    "title": "Zankyou no Terror",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "21450": {
+    "processedAt": "2025-12-23T11:50:46.084Z",
+    "title": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "29028": {
+    "processedAt": "2025-12-23T15:22:43.094Z",
+    "title": "Metro 2033",
+    "type": "game",
+    "charactersCount": 9
+  },
+  "30002": {
+    "processedAt": "2025-12-23T12:06:16.875Z",
+    "title": "Berserk",
+    "type": "manga",
+    "charactersCount": 68
+  },
+  "30012": {
+    "processedAt": "2025-12-23T19:08:22.411Z",
+    "title": "BLEACH",
+    "type": "manga",
+    "charactersCount": 239
+  },
+  "30013": {
+    "processedAt": "2025-12-23T13:37:53.944Z",
+    "title": "ONE PIECE",
+    "type": "manga",
+    "charactersCount": 712
+  },
+  "30026": {
+    "processedAt": "2025-12-23T20:44:43.340Z",
+    "title": "HUNTER×HUNTER",
+    "type": "manga",
+    "charactersCount": 183
+  },
+  "30642": {
+    "processedAt": "2025-12-23T17:10:17.840Z",
+    "title": "Vinland Saga",
+    "type": "manga",
+    "charactersCount": 25
+  },
+  "30656": {
+    "processedAt": "2025-12-23T16:34:02.519Z",
+    "title": "Vagabond",
+    "type": "manga",
+    "charactersCount": 23
+  },
+  "34632": {
+    "processedAt": "2025-12-23T15:48:45.419Z",
+    "title": "Oyasumi Punpun",
+    "type": "manga",
+    "charactersCount": 25
+  },
+  "41494": {
+    "processedAt": "2025-12-23T15:19:03.838Z",
+    "title": "Cyberpunk 2077",
+    "type": "game",
+    "charactersCount": 6
+  },
+  "53390": {
+    "processedAt": "2025-12-23T12:16:33.659Z",
+    "title": "Shingeki no Kyojin",
+    "type": "manga",
+    "charactersCount": 174
+  },
+  "58175": {
+    "processedAt": "2025-12-23T15:15:57.357Z",
+    "title": "God of War (2018)",
+    "type": "game",
+    "charactersCount": 13
+  },
+  "63327": {
+    "processedAt": "2025-12-23T14:22:00.270Z",
+    "title": "Tokyo Ghoul",
+    "type": "manga",
+    "charactersCount": 25
+  },
+  "72451": {
+    "processedAt": "2025-12-23T17:44:08.396Z",
+    "title": "Horimiya",
+    "type": "manga",
+    "charactersCount": 29
+  },
+  "74347": {
+    "processedAt": "2025-12-23T15:58:00.934Z",
+    "title": "One Punch-Man",
+    "type": "manga",
+    "charactersCount": 132
+  },
+  "85486": {
+    "processedAt": "2025-12-23T14:33:17.954Z",
+    "title": "Boku no Hero Academia",
+    "type": "manga",
+    "charactersCount": 194
+  },
+  "86123": {
+    "processedAt": "2025-12-23T20:33:25.766Z",
+    "title": "Black Clover",
+    "type": "manga",
+    "charactersCount": 123
+  },
+  "86635": {
+    "processedAt": "2025-12-23T18:26:24.194Z",
+    "title": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+    "type": "manga",
+    "charactersCount": 66
+  },
+  "87216": {
+    "processedAt": "2025-12-23T13:47:09.491Z",
+    "title": "Kimetsu no Yaiba",
+    "type": "manga",
+    "charactersCount": 134
+  },
+  "87423": {
+    "processedAt": "2025-12-23T17:03:03.918Z",
+    "title": "Yakusoku no Neverland",
+    "type": "manga",
+    "charactersCount": 50
+  },
+  "97852": {
+    "processedAt": "2025-12-23T19:56:33.403Z",
+    "title": "Komi-san wa, Komyushou desu.",
+    "type": "manga",
+    "charactersCount": 137
+  },
+  "99539": {
+    "processedAt": "2025-12-23T20:13:52.467Z",
+    "title": "Nanatsu no Taizai: Imashime no Fukkatsu",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "100182": {
+    "processedAt": "2025-12-23T20:20:05.809Z",
+    "title": "Sword Art Online: Alicization",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "100240": {
+    "processedAt": "2025-12-23T12:40:00.198Z",
+    "title": "Tokyo Ghoul:re",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "101165": {
+    "processedAt": "2025-12-23T16:18:31.568Z",
+    "title": "Goblin Slayer",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "102883": {
+    "processedAt": "2025-12-23T18:09:52.683Z",
+    "title": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "102988": {
+    "processedAt": "2025-12-23T18:20:10.700Z",
+    "title": "Tokyo卍Revengers",
+    "type": "manga",
+    "charactersCount": 25
+  },
+  "103572": {
+    "processedAt": "2025-12-23T15:30:45.993Z",
+    "title": "Go-toubun no Hanayome",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "105334": {
+    "processedAt": "2025-12-23T12:31:51.652Z",
+    "title": "Fruits Basket: 1st Season",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "106130": {
+    "processedAt": "2025-12-23T18:55:01.905Z",
+    "title": "Blue Lock",
+    "type": "manga",
+    "charactersCount": 99
+  },
+  "106625": {
+    "processedAt": "2025-12-23T17:33:50.520Z",
+    "title": "Haikyuu!! TO THE TOP",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "108511": {
+    "processedAt": "2025-12-23T14:03:27.979Z",
+    "title": "Tensei Shitara Slime Datta Ken 2nd Season",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "108556": {
+    "processedAt": "2025-12-23T16:29:50.068Z",
+    "title": "SPY×FAMILY",
+    "type": "manga",
+    "charactersCount": 62
+  },
+  "113813": {
+    "processedAt": "2025-12-23T11:54:58.324Z",
+    "title": "Kanojo, Okarishimasu",
+    "type": "anime",
+    "charactersCount": 10
+  },
+  "114236": {
+    "processedAt": "2025-12-23T18:42:42.649Z",
+    "title": "Enen no Shouboutai: Ni no Shou",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "116006": {
+    "processedAt": "2025-12-23T16:13:18.812Z",
+    "title": "THE GOD OF HIGH SCHOOL",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "116589": {
+    "processedAt": "2025-12-23T16:52:45.939Z",
+    "title": "86: Eighty Six",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "117195": {
+    "processedAt": "2025-12-23T21:22:45.832Z",
+    "title": "[Oshi no Ko]",
+    "type": "manga",
+    "charactersCount": 68
+  },
+  "119257": {
+    "processedAt": "2025-12-23T17:48:20.852Z",
+    "title": "Jeonjijeok Dokja Sijeom",
+    "type": "manga",
+    "charactersCount": 23
+  },
+  "119661": {
+    "processedAt": "2025-12-23T21:00:01.249Z",
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "120760": {
+    "processedAt": "2025-12-23T21:16:32.416Z",
+    "title": "Kaijuu 8-gou",
+    "type": "manga",
+    "charactersCount": 52
+  },
+  "124845": {
+    "processedAt": "2025-12-23T19:35:59.438Z",
+    "title": "Wonder Egg Priority",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "127720": {
+    "processedAt": "2025-12-23T15:39:27.967Z",
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "132029": {
+    "processedAt": "2025-12-23T19:47:17.845Z",
+    "title": "Dandadan",
+    "type": "manga",
+    "charactersCount": 58
+  },
+  "137822": {
+    "processedAt": "2025-12-23T15:33:14.702Z",
+    "title": "Blue Lock",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "150672": {
+    "processedAt": "2025-12-23T14:09:41.275Z",
+    "title": "[Oshi no Ko]",
+    "type": "anime",
+    "charactersCount": 15
+  },
+  "290856": {
+    "processedAt": "2025-12-23T15:25:50.618Z",
+    "title": "Apex Legends",
+    "type": "game",
+    "charactersCount": 3
+  },
   "a-silent-voice": {
     "processedAt": "2025-12-22T19:35:22.960Z",
     "type": "manga",

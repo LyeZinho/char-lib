@@ -1,0 +1,349 @@
+{
+  "work_id": "terror-in-resonance",
+  "count": 15,
+  "characters": [
+    {
+      "id": "nine",
+      "name": "Nine",
+      "alt_names": [
+        "ナイン（九重 新）",
+        "Kokonoe Arata",
+        "Sphinx #1"
+      ],
+      "role": "protagonist",
+      "description": "Known as Nine, is one of two members of the Sphinx terrorist group. He grew up in an experimental institution for gifted children with [Twelve](https://anilist.co/character/88096/Twelve), though the both of them managed to escape. Later on, both Nine and Twelve carry out several terroristic acts in Japan.\n\nHe is reserved, calm and collected, and very, very intelligent. Nine is efficient in many fields, up to exceptional computing and hacking. He's an impeccable strategist, with a knack for chess and classical literature. Good with disguises.\n\n(Source: MyAnimeList)",
+      "metadata": {
+        "gender": "male",
+        "age": "17-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88094-rwletczjtSE1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88094
+      }
+    },
+    {
+      "id": "lisa-mishima",
+      "name": "Lisa Mishima",
+      "alt_names": [
+        "三島リサ",
+        "Lisa"
+      ],
+      "role": "protagonist",
+      "description": "Lisa Mishima is a quiet and shy girl who attended the same high school that Nine and Twelve had transferred to. Because of her clumsiness and shyness, she was an easy target for the bullies in her class.\n\nAs she came to know the two boys, Nine and Twelve, she felt a connection. Like they all had something in common and she had grown attached to them, especially Twelve.\n\nNine didn't see her as very useful when she lived with them. Always in the way and always burning food, you can see why. But Twelve did not feel that way, for he had gotten too involved with her and was very affectionate toward her.\n\nHer father and mother are divorced, and her mother is over-protective and appears to be mentally unstable. She holds the fear that Lisa would also one day leave her just like Lisa's father did once.\n\n(Source: ANN)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88095.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88095
+      }
+    },
+    {
+      "id": "twelve",
+      "name": "Twelve",
+      "alt_names": [
+        "ツエルブ（久見冬二）",
+        "Hisami Touji",
+        "Sphinx #2"
+      ],
+      "role": "protagonist",
+      "description": "Twelve is one of two members of a terrorist group known as Sphinx, working with Nine as his primary partner. He and [Nine](https://anilist.co/character/88094/Nine) grew up together in an institution for children known as the Settlement, and engaged in terrorist activities, with unknown motives.\n\nOn the outside, he's a typical jokester: light-humored and energetic, enjoying messing around in other people's business. However, he is fully capable and willing to adopt ruthless and violent methods if the situation calls for it. This contradictory set of personality traits are the result of the psychological damage sustained during his stay at the aforementioned children's institution. Nonetheless, he is a loyal and dependable friend, has a genius mind and a keen sense of social justice. He also has a compassionate side, as evidenced by his interactions with [Lisa Mishima](https://anilist.co/character/88095/Lisa-Mishima).\n\n~!Twelve changes dramatically upon interacting with Lisa Mishima. When she runs away, he goes after her against Nine's wishes. He is made by [Five](https://anilist.co/character/88301/Five) to choose between saving Lisa and betraying Nine, and ultimately chooses to save Lisa. However, he later helps Nine out of a sticky situation at great risk to himself.\n\nIn the final episode, shortly after he, Nine and Lisa are reunited, he is shot and killed by the American government.!~\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "age": "17-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88096-SljWAMO10C6l.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88096
+      }
+    },
+    {
+      "id": "kenjirou-shibasaki",
+      "name": "Kenjirou Shibasaki",
+      "alt_names": [
+        "柴崎健次郎"
+      ],
+      "role": "protagonist",
+      "description": "A detective in the metropolitan police department. He used to work in the investigations division but now works in the records division. He's a contemporary of the head of the terror incident investigation. He is aloof and lazy, with a reluctance to work, but when push comes to shove and people's lives are in danger he quickly turns into a smart, quick-minded man being able to solve most problems that arise. He is extremely experienced in his field and has a strong sense of justice.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88302.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88302
+      }
+    },
+    {
+      "id": "five",
+      "name": "Five",
+      "alt_names": [
+        "ハイヴ"
+      ],
+      "role": "supporting",
+      "description": "A government operative and a nuclear scientist affiliated with NEST, an organization within the United States FBI. She travels to Japan to assist in investigations regarding the terrorist attack.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88301-eE4IbqlBkRYi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88301
+      }
+    },
+    {
+      "id": "mukasa",
+      "name": "Mukasa",
+      "alt_names": [
+        "六笠"
+      ],
+      "role": "supporting",
+      "description": "Mukasa is Shibazaki's co-worker from the Records Division.  He assists Shibazaki in solving the riddles of the Sphinx at the most unlikely of times. He has a carefree personality and is often depicted eating something.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157966-Sv3e1Dg0w9VN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157966
+      }
+    },
+    {
+      "id": "souta-aoki",
+      "name": "Souta Aoki",
+      "alt_names": [
+        "青木宗太"
+      ],
+      "role": "supporting",
+      "description": "A former manager within the Ministry of Health and Welfare Guidance Division, he holds information about The Athena Plan.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157968-ST91iBfMA7Ln.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157968
+      }
+    },
+    {
+      "id": "kurahashi",
+      "name": "Kurahashi",
+      "alt_names": [
+        "倉橋"
+      ],
+      "role": "supporting",
+      "description": "Works at the police station. He utilizes Shibazaki's detective skills to analyze and resolve the incidents related to Sphinx.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157970-WyG7Kfe3pgER.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157970
+      }
+    },
+    {
+      "id": "clarence",
+      "name": "Clarence",
+      "alt_names": [
+        "クラレンス"
+      ],
+      "role": "supporting",
+      "description": "He's an FBI special agent. He is sent to Japan from the United States government to assist in investigations regarding the Sphinx incidents.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157971-o73jRUGo5zOC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157971
+      }
+    },
+    {
+      "id": "hamada",
+      "name": "Hamada",
+      "alt_names": [
+        "浜田"
+      ],
+      "role": "supporting",
+      "description": "A bomb specialist working for the Japanese police.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157972-iXsRcy4372pD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157972
+      }
+    },
+    {
+      "id": "kinoshita",
+      "name": "Kinoshita",
+      "alt_names": [
+        "木下"
+      ],
+      "role": "supporting",
+      "description": "He works at the Technology Crime Division. He belongs to the life safety unit, which performs the crackdown of cyber crime.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157973-pluQy7CqDxNP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157973
+      }
+    },
+    {
+      "id": "hamura",
+      "name": "Hamura",
+      "alt_names": [
+        "羽村"
+      ],
+      "role": "supporting",
+      "description": "A police officer of the Criminal Division Section 1. He likes solving criminal cases, but he thinks Shibazaki got this job to easily and doesn't get along with him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157974-FmbwF6ZCkIfv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157974
+      }
+    },
+    {
+      "id": "okano",
+      "name": "Okano",
+      "alt_names": [
+        "岡野"
+      ],
+      "role": "supporting",
+      "description": "A police officer of the Criminal Division Section 1. He is responsible for incidents involving kidnapping or hostages.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157975-VZVvPgHVUELP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157975
+      }
+    },
+    {
+      "id": "haruka",
+      "name": "Haruka",
+      "alt_names": [
+        "晴香"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174735-5y3NZ948grrp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174735
+      }
+    },
+    {
+      "id": "mobuko",
+      "name": "Mobuko",
+      "alt_names": [
+        "モブ子"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174736-y9JythnCFOFG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174736
+      }
+    }
+  ],
+  "updated_at": "2025-12-23T21:37:03.362Z"
+}

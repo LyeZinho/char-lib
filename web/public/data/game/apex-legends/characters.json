@@ -1,0 +1,55 @@
+{
+  "work_id": "apex-legends",
+  "count": 3,
+  "characters": [
+    {
+      "id": "stephen-barton-1417",
+      "name": "Stephen Barton",
+      "alt_names": [],
+      "role": "other",
+      "description": "composer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 1417
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:25:50.329Z"
+    },
+    {
+      "id": "vince-zampella-3081",
+      "name": "Vince Zampella",
+      "alt_names": [],
+      "role": "other",
+      "description": "director",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 3081
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:25:50.329Z"
+    },
+    {
+      "id": "drew-mccoy-1416",
+      "name": "Drew McCoy",
+      "alt_names": [],
+      "role": "other",
+      "description": "producer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 1416
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:25:50.329Z"
+    }
+  ],
+  "updated_at": "2025-12-23T15:25:50.329Z"
+}
