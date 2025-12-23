@@ -1,4 +1,5 @@
 import axios from 'axios';
+import * as cheerio from 'cheerio';
 import { logger } from '../utils/logger.js';
 import { retryHttp } from '../utils/retry.js';
 
@@ -23,6 +24,17 @@ export class EnrichmentCollector {
     try {
       logger.debug(`Buscando enriquecimento para: ${workTitle}`);
 
+      // Para jogos, tenta primeiro o enriquecimento via Fandom (mais estruturado)
+      if (workType === 'game') {
+        const fandomResult = await this.enrichGameWithFandom(workTitle);
+        if (fandomResult.found && fandomResult.characters.length > 0) {
+          logger.info(`Enriquecimento Fandom bem-sucedido: ${fandomResult.characters.length} personagens`);
+          return fandomResult;
+        }
+        logger.info(`Fallback para método básico (Fandom não retornou resultados)`);
+      }
+
+      // Fallback para método básico (regex-based) para outros tipos ou se Fandom falhar
       const enrichment = {
         wikiLinks: [],
         additionalInfo: {},
@@ -271,14 +283,347 @@ export class EnrichmentCollector {
         data.description = descriptionMatch[1];
       }
 
-      // Tenta extrair alguma informação estruturada
-      // Isso é muito básico - em produção, usaria uma biblioteca como cheerio
+      // Tenta extrair lista de personagens a partir de seções comuns ('Characters', 'Cast')
+      const characters = [];
+
+      // Procura seção com título 'Characters' ou 'Cast' seguida por uma <ul> ou <table>
+      const sectionRegex = /<h[12][^>]*>(?:\s|&nbsp;|<[^>]*>)*?(Characters|Cast)[:]?<\/h[12]>[\s\S]*?(?:<ul[\s\S]*?<\/ul>|<table[\s\S]*?<\/table>)/i;
+      const sectionMatch = html.match(sectionRegex);
+
+      if (sectionMatch) {
+        const sectionHtml = sectionMatch[0];
+
+        // Extrai itens de <ul>
+        const ulMatch = sectionHtml.match(/<ul[\s\S]*?<\/ul>/i);
+        if (ulMatch) {
+          const liRegex = /<li[^>]*>([\s\S]*?)<\/li>/gi;
+          let m;
+          while ((m = liRegex.exec(ulMatch[0])) !== null) {
+            const text = m[1].replace(/<[^>]*>/g, '').trim();
+            if (text) {
+              // Limpar informações extras (papéis entre parênteses, etc.)
+              const cleanName = text.split(/[()–—\/]/)[0].trim();
+              characters.push(cleanName);
+            }
+          }
+        } else {
+          // Tenta extrair de tabelas (rows)
+          const trRegex = /<tr[\s\S]*?<td[^>]*>([\s\S]*?)<\/td>/gi;
+          let t;
+          while ((t = trRegex.exec(sectionHtml)) !== null) {
+            const text = t[1].replace(/<[^>]*>/g, '').trim();
+            if (text) {
+              const cleanName = text.split(/[()–—\/]/)[0].trim();
+              characters.push(cleanName);
+            }
+          }
+        }
+      } else {
+        // Fallback: busca textual simples 'Characters: ...'
+        const simpleMatch = html.match(/Characters[:\s]*([A-Za-z0-9,\-()\.\s]{10,500})/i);
+        if (simpleMatch) {
+          const names = simpleMatch[1].split(/[\,\n]+/).map(n => n.replace(/<[^>]*>/g, '').trim()).filter(Boolean);
+          characters.push(...names);
+        }
+      }
+
+      data.characters = Array.from(new Set(characters)).slice(0, 200);
 
       return data;
 
     } catch (error) {
       logger.debug(`Erro ao fazer scrape de ${url}: ${error.message}`);
       return null;
+    }
+  }
+
+  /**
+   * Busca o URL da wiki do Fandom para um jogo usando DuckDuckGo
+   * @param {string} gameName - Nome do jogo
+   * @returns {Promise<string|null>} URL base do Fandom ou null
+   */
+  async findFandomWiki(gameName) {
+    try {
+      logger.debug(`Buscando wiki do Fandom para: ${gameName}`);
+
+      // Busca no DuckDuckGo usando HTML search (sem API key)
+      const searchQuery = encodeURIComponent(`${gameName} characters site:fandom.com`);
+      const searchUrl = `https://html.duckduckgo.com/html/?q=${searchQuery}`;
+
+      const response = await axios.get(searchUrl, {
+        headers: {
+          'User-Agent': this.userAgent,
+          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        },
+        timeout: this.timeout
+      });
+
+      const $ = cheerio.load(response.data);
+      
+      // Extrai links dos resultados
+      const fandomLinks = [];
+      $('.result__a').each((i, elem) => {
+        const href = $(elem).attr('href');
+        if (href && href.includes('fandom.com')) {
+          // Extrai URL real do redirect do DuckDuckGo
+          const urlMatch = href.match(/uddg=([^&]+)/);
+          if (urlMatch) {
+            const realUrl = decodeURIComponent(urlMatch[1]);
+            fandomLinks.push(realUrl);
+          }
+        }
+      });
+
+      if (fandomLinks.length === 0) {
+        logger.debug(`Nenhuma wiki do Fandom encontrada para: ${gameName}`);
+        return null;
+      }
+
+      // Extrai o base URL (exemplo: https://nier.fandom.com)
+      const firstLink = fandomLinks[0];
+      const baseUrlMatch = firstLink.match(/(https?:\/\/[^\/]+\.fandom\.com)/);
+      if (baseUrlMatch) {
+        const baseUrl = baseUrlMatch[1];
+        logger.info(`Wiki do Fandom encontrada: ${baseUrl}`);
+        return baseUrl;
+      }
+
+      return null;
+
+    } catch (error) {
+      logger.warn(`Erro ao buscar wiki do Fandom para ${gameName}: ${error.message}`);
+      return null;
+    }
+  }
+
+  /**
+   * Lista personagens da categoria Characters usando MediaWiki API
+   * @param {string} fandomBaseUrl - URL base do Fandom (ex: https://nier.fandom.com)
+   * @param {string} category - Nome da categoria (padrão: 'Category:Characters')
+   * @returns {Promise<Array>} Lista de títulos de páginas de personagens
+   */
+  async listFandomCharacters(fandomBaseUrl, category = 'Category:Characters') {
+    try {
+      logger.debug(`Listando personagens de ${fandomBaseUrl}/${category}`);
+
+      const apiUrl = `${fandomBaseUrl}/api.php`;
+      const params = {
+        action: 'query',
+        list: 'categorymembers',
+        cmtitle: category,
+        cmlimit: 500,
+        format: 'json'
+      };
+
+      const response = await axios.get(apiUrl, {
+        params,
+        headers: {
+          'User-Agent': this.userAgent
+        },
+        timeout: this.timeout
+      });
+
+      const members = response.data?.query?.categorymembers || [];
+      
+      logger.info(`Encontrados ${members.length} personagens em ${category}`);
+      
+      // Retorna apenas os títulos das páginas
+      return members.map(member => member.title);
+
+    } catch (error) {
+      logger.warn(`Erro ao listar personagens de ${fandomBaseUrl}: ${error.message}`);
+      return [];
+    }
+  }
+
+  /**
+   * Extrai dados estruturados de uma página de personagem do Fandom
+   * @param {string} fandomBaseUrl - URL base do Fandom
+   * @param {string} pageTitle - Título da página do personagem
+   * @returns {Promise<Object|null>} Dados do personagem ou null
+   */
+  async scrapeFandomCharacter(fandomBaseUrl, pageTitle) {
+    try {
+      logger.debug(`Extraindo dados do personagem: ${pageTitle}`);
+
+      const apiUrl = `${fandomBaseUrl}/api.php`;
+      const params = {
+        action: 'parse',
+        page: pageTitle,
+        prop: 'text',
+        format: 'json'
+      };
+
+      const response = await axios.get(apiUrl, {
+        params,
+        headers: {
+          'User-Agent': this.userAgent
+        },
+        timeout: this.timeout
+      });
+
+      const html = response.data?.parse?.text?.['*'];
+      if (!html) {
+        logger.debug(`Sem HTML para página: ${pageTitle}`);
+        return null;
+      }
+
+      const $ = cheerio.load(html);
+      
+      // Busca infobox portátil do Fandom
+      const infobox = $('.portable-infobox');
+      if (infobox.length === 0) {
+        logger.debug(`Nenhuma infobox encontrada para: ${pageTitle}`);
+        return null;
+      }
+
+      const character = {
+        name: pageTitle,
+        data: {}
+      };
+
+      // Extrai título da infobox
+      const title = infobox.find('.pi-title').first().text().trim();
+      if (title) {
+        character.name = title;
+      }
+
+      // Extrai imagem
+      const image = infobox.find('.pi-image img').first();
+      if (image.length > 0) {
+        let imgSrc = image.attr('src') || image.attr('data-src');
+        if (imgSrc) {
+          // Remove parâmetros de thumbnail para obter imagem original
+          imgSrc = imgSrc.split('/revision/')[0];
+          character.data.image = imgSrc;
+        }
+      }
+
+      // Extrai campos de dados (label + value)
+      infobox.find('.pi-data').each((i, elem) => {
+        const label = $(elem).find('.pi-data-label').text().trim();
+        const value = $(elem).find('.pi-data-value').text().trim();
+        
+        if (label && value) {
+          // Normaliza o label para key válida
+          const key = label.toLowerCase()
+            .replace(/[^a-z0-9\s]/g, '')
+            .replace(/\s+/g, '_');
+          character.data[key] = value;
+        }
+      });
+
+      // Extrai descrição (primeiro parágrafo do conteúdo)
+      const content = $('.mw-parser-output > p').first().text().trim();
+      if (content && content.length > 20) {
+        character.data.description = content.substring(0, 500);
+      }
+
+      logger.debug(`Personagem extraído: ${character.name} (${Object.keys(character.data).length} campos)`);
+      
+      return character;
+
+    } catch (error) {
+      logger.debug(`Erro ao extrair personagem ${pageTitle}: ${error.message}`);
+      return null;
+    }
+  }
+
+  /**
+   * Enriquece um jogo usando Fandom (busca + MediaWiki API + scraping)
+   * @param {string} gameName - Nome do jogo
+   * @returns {Promise<Object>} Dados enriquecidos
+   */
+  async enrichGameWithFandom(gameName) {
+    try {
+      logger.info(`Iniciando enriquecimento Fandom para: ${gameName}`);
+
+      const result = {
+        found: false,
+        source: 'fandom',
+        wikiUrl: null,
+        characters: []
+      };
+
+      // Passo 1: Encontrar wiki do Fandom
+      const fandomUrl = await this.findFandomWiki(gameName);
+      if (!fandomUrl) {
+        logger.info(`Wiki do Fandom não encontrada para: ${gameName}`);
+        return result;
+      }
+
+      result.wikiUrl = fandomUrl;
+      result.found = true;
+
+      // Passo 2: Tentar diferentes categorias de personagens
+      const characterCategories = [
+        'Category:Characters',
+        'Category:Playable_Characters',
+        'Category:Heroes',
+        'Category:Villains',
+        'Category:Antagonists',
+        'Category:Bosses',
+        'Category:NPCs'
+      ];
+
+      let allCharacterTitles = [];
+
+      for (const category of characterCategories) {
+        try {
+          const titles = await this.listFandomCharacters(fandomUrl, category);
+          if (titles.length > 0) {
+            logger.info(`Encontrados ${titles.length} personagens em ${category}`);
+            allCharacterTitles.push(...titles);
+            
+            // Limitar para não sobrecarregar
+            if (allCharacterTitles.length >= 200) break;
+          }
+        } catch (error) {
+          // Continuar tentando outras categorias
+          logger.debug(`Categoria ${category} falhou: ${error.message}`);
+        }
+      }
+
+      // Remover duplicatas
+      allCharacterTitles = [...new Set(allCharacterTitles)];
+      
+      if (allCharacterTitles.length === 0) {
+        logger.info(`Nenhum personagem encontrado em nenhuma categoria`);
+        return result;
+      }
+
+      logger.info(`Total de personagens únicos encontrados: ${allCharacterTitles.length}`);
+
+      // Passo 3: Extrair dados de cada personagem (com limite e delay)
+      const maxCharacters = Math.min(allCharacterTitles.length, 100); // Limita para evitar sobrecarga
+      
+      for (let i = 0; i < maxCharacters; i++) {
+        const title = allCharacterTitles[i];
+        
+        // Adiciona delay entre requisições (respeito aos rate limits)
+        if (i > 0 && i % 10 === 0) {
+          logger.debug(`Aguardando 2s após ${i} personagens...`);
+          await new Promise(resolve => setTimeout(resolve, 2000));
+        }
+
+        const characterData = await this.scrapeFandomCharacter(fandomUrl, title);
+        if (characterData) {
+          result.characters.push(characterData);
+        }
+      }
+
+      logger.info(`Enriquecimento concluído: ${result.characters.length} personagens extraídos`);
+      
+      return result;
+
+    } catch (error) {
+      logger.error(`Erro no enriquecimento Fandom para ${gameName}: ${error.message}`);
+      return {
+        found: false,
+        source: 'fandom',
+        wikiUrl: null,
+        characters: []
+      };
     }
   }
 }

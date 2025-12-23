@@ -74,6 +74,7 @@ program
   .option('--delay-multiplier <number>', 'Multiplicador para smart delay', parseInt, 50)
   .option('--max-delay <number>', 'Delay máximo para smart delay (ms)', parseInt, 30000)
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
+  .option('--enrich', 'Usar enrichment (DuckDuckGo / wikis) ao importar jogos (experimental)', false)
   .action(async (type, search, options) => {
     try {
       // Detectar se search é um ID numérico
@@ -98,7 +99,8 @@ program
       
       const result = await job.import(criteria, {
         skipCharacters: options.skipCharacters,
-        characterLimit: options.limit
+        characterLimit: options.limit,
+        enrich: options.enrich
       });
 
       console.log('\n📊 Resultado:');
@@ -302,12 +304,14 @@ program
   .option('--delay-multiplier <number>', 'Multiplicador para smart delay', parseInt, 50)
   .option('--max-delay <number>', 'Delay máximo para smart delay (ms)', parseInt, 30000)
   .option('--continue', 'Continuar da fila existente')
+  .option('--enrich', 'Habilitar enrichment (DuckDuckGo / wikis) — experimental (útil para jogos)')
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (options) => {
     try {
-      if (options.type === 'game') {
-        console.error('❌ Jogos não são suportados por enquanto (RAWG não oferece personagens fictícios).');
-        console.error('📖 Use --type anime ou --type manga');
+      // Se for jogo, permitir apenas quando --enrich estiver ativo (comportamento experimental)
+      if (options.type === 'game' && !options.enrich) {
+        console.error('❌ Jogos não são suportados por padrão no crawl. Para ativar, use: --type game --enrich (experimental).');
+        console.error('📖 Se preferir coletar apenas criadores/desenvolvedores, use o comando manual de import.');
         process.exit(1);
       }
 
@@ -321,7 +325,8 @@ program
         smartDelay: options.smartDelay,
         baseDelay: options.baseDelay,
         delayMultiplier: options.delayMultiplier,
-        maxDelay: options.maxDelay
+        maxDelay: options.maxDelay,
+        enrich: !!options.enrich
       });
 
       const report = await crawlJob.crawl({
@@ -349,16 +354,10 @@ program
 program
   .command('crawl-status')
   .description('Mostra status do crawling automático')
-  .option('--type <type>', 'Tipo de obra (anime, manga)', 'anime')
+  .option('--type <type>', 'Tipo de obra (anime, manga, game)', 'anime')
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (options) => {
     try {
-      if (options.type === 'game') {
-        console.error('❌ Jogos não são suportados por enquanto (RAWG não oferece personagens fictícios).');
-        console.error('📖 Use --type anime ou --type manga');
-        process.exit(1);
-      }
-
       const crawlJob = createAutoCrawlJob({ 
         baseDir: options.baseDir,
         type: options.type
@@ -378,17 +377,11 @@ program
 program
   .command('crawl-list')
   .description('Lista obras já processadas pelo crawler')
-  .option('--type <type>', 'Tipo de obra (anime, manga)', 'anime')
+  .option('--type <type>', 'Tipo de obra (anime, manga, game)', 'anime')
   .option('--limit <number>', 'Limite de resultados', parseInt, 20)
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (options) => {
     try {
-      if (options.type === 'game') {
-        console.error('❌ Jogos não são suportados por enquanto (RAWG não oferece personagens fictícios).');
-        console.error('📖 Use --type anime ou --type manga');
-        process.exit(1);
-      }
-
       const crawlJob = createAutoCrawlJob({ 
         baseDir: options.baseDir,
         type: options.type
@@ -431,18 +424,12 @@ program
 program
   .command('crawl-grow')
   .description('Aumenta a fila de obras descobrindo mais obras populares')
-  .option('--type <type>', 'Tipo de obra (anime, manga)', 'anime')
+  .option('--type <type>', 'Tipo de obra (anime, manga, game)', 'anime')
   .option('--count <number>', 'Número de obras a adicionar', parseInt, 20)
   .option('--page <number>', 'Página inicial para busca', parseInt, 1)
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (options) => {
     try {
-      if (options.type === 'game') {
-        console.error('❌ Jogos não são suportados por enquanto (RAWG não oferece personagens fictícios).');
-        console.error('📖 Use --type anime ou --type manga');
-        process.exit(1);
-      }
-
       const crawlJob = createAutoCrawlJob({ 
         baseDir: options.baseDir,
         type: options.type
@@ -471,7 +458,7 @@ program
 program
   .command('autocraw')
   .description('Crawling automático contínuo com enrichment e alternância inteligente de APIs')
-  .option('--type <type>', 'Tipo de obra (anime, manga)', 'anime')
+  .option('--type <type>', 'Tipo de obra (anime, manga, game)', 'anime')
   .option('--max-works <number>', 'Máximo de obras por ciclo', parseInt, 5)
   .option('--character-limit <number>', 'Limite de personagens por obra', parseInt, 25)
   .option('--delay <number>', 'Delay entre importações (ms)', 30000)
@@ -486,12 +473,6 @@ program
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .action(async (options) => {
     try {
-      if (options.type === 'game') {
-        console.error('❌ Jogos não são suportados por enquanto (RAWG não oferece personagens fictícios).');
-        console.error('📖 Use --type anime ou --type manga');
-        process.exit(1);
-      }
-
       // Aplicar configurações ultra-conservadoras se --anilist-safe
       if (options.anilistSafe) {
         logger.info('🛡️ Modo AniList Safe ativado - configurações ultra-conservadoras');
@@ -586,9 +567,75 @@ program
   .option('--base-dir <dir>', 'Diretório base dos dados', './data')
   .option('--auto-deploy', 'Habilitar auto-deploy automático')
   .option('--deploy-threshold <number>', 'Executar deploy a cada X obras processadas', parseInt, 10)
+  .option('--cycles-per-run <number>', 'Número de ciclos por execução do job (0 = contínuo)', parseInt, 1)
+  .option('--service', 'Iniciar como serviço systemd (requer sudo)')
+  .option('--force-local', 'Forçar execução local (não iniciar/usar systemd)')
   .action(async (options) => {
     try {
       const supportedTypes = options.supportedTypes.split(',').map(t => t.trim());
+
+      // Se solicitado rodar como serviço systemd explicitamente, gravar config e iniciar o serviço
+      if (options.service) {
+        const { execSync } = await import('child_process');
+        try {
+          // Montar configuração que será escrita em /etc/smart-queue/config.json
+          const config = {
+            baseDir: options.baseDir || './data',
+            supportedTypes: supportedTypes,
+            maxWorksPerCycle: options.maxWorksCycle,
+            characterLimit: options.characterLimit,
+            delayBetweenTypes: options.delayTypes,
+            delayBetweenCycles: options.delayCycles,
+            enrich: !!options.enrich,
+            autoDeployEnabled: !!options.autoDeploy,
+            autoDeployThreshold: options.deployThreshold || 10
+          };
+
+          const json = JSON.stringify(config, null, 2);
+
+          // Garantir que o baseDir exista e seja gravável pelo usuário do serviço
+          const baseDir = config.baseDir;
+          try {
+            logger.info(`🛠️ Criando e ajustando permissões em ${baseDir} (requer sudo)`);
+            execSync(`sudo mkdir -p ${baseDir}`, { stdio: 'inherit' });
+            execSync(`sudo chown -R smartqueue:smartqueue ${baseDir}`, { stdio: 'inherit' });
+            logger.success(`✅ Base dir criado/ajustado: ${baseDir}`);
+          } catch (permErr) {
+            logger.warn(`⚠️ Falha ao criar/ajustar permissões de ${baseDir}: ${permErr.message}`);
+            logger.warn('⚠️ Você pode ajustar manualmente com: sudo chown -R smartqueue:smartqueue <baseDir>');
+          }
+
+          logger.info('💾 Escrevendo configuração em /etc/smart-queue/config.json (requer sudo)');
+          // Usar tee via sudo para escrever o arquivo com permissões root
+          execSync(`echo ${JSON.stringify(json)} | sudo tee /etc/smart-queue/config.json > /dev/null`, { stdio: 'inherit' });
+
+          logger.info('🚀 Reiniciando serviço systemd: smart-queue para aplicar nova config');
+          execSync('sudo systemctl restart smart-queue', { stdio: 'inherit' });
+
+          logger.success('✅ Serviço smart-queue reiniciado com a nova configuração (verifique status com smart-queue-service-status)');
+          process.exit(0);
+        } catch (err) {
+          logger.error(`❌ Falha ao escrever config/iniciar serviço: ${err.message}`);
+          logger.info("Dica: execute 'npm run smart-queue-install' para instalar o serviço, ou verifique permissões em /etc/smart-queue/config.json");
+          process.exit(1);
+        }
+      }
+
+      // Auto-detectar e iniciar systemd service automaticamente se disponível, a menos que --force-local seja usado
+      if (!options.forceLocal) {
+        try {
+          const { execSync } = await import('child_process');
+          const enabled = execSync('systemctl is-enabled smart-queue', { stdio: 'pipe' }).toString().trim();
+          if (enabled) {
+            logger.info('🔍 Serviço systemd detectado: smart-queue. Iniciando via systemctl...');
+            execSync('sudo systemctl start smart-queue', { stdio: 'inherit' });
+            logger.success('✅ Serviço start solicitado; use smart-queue-service-status para checar.');
+            process.exit(0);
+          }
+        } catch (err) {
+          // ignore - systemd not present or service not enabled
+        }
+      }
 
       const smartQueueJob = createSmartQueueJob({
         baseDir: options.baseDir,
@@ -606,7 +653,7 @@ program
       logger.info(`📊 Configuração: ${supportedTypes.join(', ')} | ${options.maxWorksCycle} obras/ciclo | ${options.characterLimit} chars/limite`);
 
       await smartQueueJob.run({
-        maxCycles: options.maxCycles
+        maxCycles: options.cyclesPerRun
       });
 
     } catch (error) {

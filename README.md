@@ -1,10 +1,10 @@
 # Character Library (char-lib)
 
 > 📚 Database local de personagens (anime, games*, manga, etc.) usando arquivos JSON
-> 
-> \* *Para jogos, coleta criadores/desenvolvedores, não personagens fictícios*
+>
+> \* *Para jogos, coleta criadores/desenvolvedores; o AutoCrawl ativa automaticamente enrichment via Fandom para buscar personagens reais (não apenas criadores)*
 
-Sistema de wiki de personagens 100% em JavaScript, com coleta via APIs públicas (AniList), batch controlado, rate limit e armazenamento incremental em JSON.
+Sistema de wiki de personagens 100% em JavaScript, com coleta via APIs públicas (AniList, RAWG), batch controlado, rate limit e armazenamento incremental em JSON.
 
 ## 🚀 Início Rápido
 
@@ -193,7 +193,7 @@ sudo bash scripts/install-smart-queue-service.sh
 ### 🛠️ Gerenciamento do Daemon
 
 ```bash
-# Iniciar daemon
+# Iniciar daemon (modo serviço systemd)
 npm run smart-queue-start
 
 # Parar daemon
@@ -213,6 +213,40 @@ npm run smart-queue-logs -- --follow
 
 # Resetar estado e logs
 npm run smart-queue-service-reset
+```
+
+### ▶️ Executar Smart Queue (Local vs Serviço)
+
+```bash
+# Modo local (desenvolvimento / testes): executa no terminal atual
+npm run smart-queue
+
+# Iniciar como serviço systemd (produção) — inicia o service com sudo
+node src/cli.js smart-queue --service
+# ou use o helper que usa systemctl:
+npm run smart-queue-start
+
+# Observação: Ao executar `npm run smart-queue` o CLI tentará detectar se o serviço
+# systemd `smart-queue` está instalado/enabled e, se estiver, solicitará seu start
+# automaticamente (pode solicitar senha sudo). Para forçar execução local, use:
+# node src/cli.js smart-queue --force-local
+
+# Permissões e diretório de dados
+# O instalador tenta ajustar permissões do diretório configurado em `/etc/smart-queue/config.json` (campo `baseDir`).
+# Se você quiser usar o diretório do repositório, garanta que o usuário do serviço (`smartqueue`) tenha permissão de escrita:
+# sudo chown -R smartqueue:smartqueue /home/pedro/projetos/char-lib/data
+# Ou altere `baseDir` para um diretório em /var/lib e deixe o instalador cuidar das permissões.
+
+# Comportamento de Ciclos
+# Por padrão o daemon executa 1 ciclo por chamada (processa um tipo por vez) com delays conservativos entre tipos e ciclos.
+# - Para executar continuamente sem parar entre ciclos, configure `cyclesPerRun` como 0.
+# - Exemplo: no serviço (via CLI):
+#   node src/cli.js smart-queue --service --cycles-per-run 0 --auto-deploy --deploy-threshold 5 --enrich
+# - Ou edite /etc/smart-queue/config.json e ajuste `"cyclesPerRun": 0` e reinicie o serviço.
+
+# Uso recomendado:
+# - Em produção: instale o serviço e inicie com systemd
+# - Em desenvolvimento: execute localmente com npm run smart-queue
 ```
 
 ### ⚙️ Configuração

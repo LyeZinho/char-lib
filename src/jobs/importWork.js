@@ -4,8 +4,9 @@ import { createRawgCollector } from '../collectors/rawg.js';
 import { createEnrichmentCollector } from '../collectors/enrichment.js';
 import { normalizeWork as normalizeAniListWork, normalizeCharacters as normalizeAniListCharacters } from '../normalizers/anilist.js';
 import { normalizeWork as normalizeJikanWork, normalizeCharacters as normalizeJikanCharacters } from '../normalizers/jikan.js';
-import { normalizeWork as normalizeRawgWork, normalizeCharacters as normalizeRawgCharacters } from '../normalizers/rawg.js';
+import { normalizeWork as normalizeRawgWork, normalizeCharacters as normalizeRawgCharacters, normalizeFandomCharacters } from '../normalizers/rawg.js';
 import { createWriter } from '../writers/jsonWriter.js';
+import { normalizeEnrichmentCharacters } from '../normalizers/rawg.js';
 import { logger } from '../utils/logger.js';
 import { slugify } from '../utils/slugify.js';
 import path from 'path';
@@ -187,13 +188,92 @@ export class ImportWorkJob {
         logger.progress('Coletando personagens...');
         
         // Adapta coleta baseado no tipo de fonte
-        let rawCharacters;
+        let rawCharacters = [];
+        let enrichmentUsed = false;
+
         if (this.source === 'rawg') {
-          // Para jogos, usa método específico
-          rawCharacters = await this.collector.collectCharacters(
-            normalizedWork.source_id,
-            { limit: options.characterLimit || 50 }
-          );
+          // Para jogos, se enrich estiver ativo, tentar buscar personagens via wikis/busca
+          if (options.enrich) {
+            logger.progress('Tentando enrichment para personagens do jogo (Fandom/wikis)...');
+            try {
+              const enrichmentCollector = createEnrichmentCollector();
+              const enrichment = await enrichmentCollector.enrichWork(normalizedWork.title, 'game');
+
+              // Verifica se é resultado do Fandom (estruturado)
+              if (enrichment?.source === 'fandom' && enrichment.characters?.length > 0) {
+                logger.info(`   📚 Fandom: ${enrichment.characters.length} personagens encontrados`);
+                
+                // Usa normalizador específico do Fandom
+                const normalizedFromFandom = normalizeFandomCharacters(
+                  enrichment.characters.slice(0, options.characterLimit || 100),
+                  normalizedWork.id
+                );
+                
+                characterStats = await this.writer.upsertCharacters(
+                  normalizedWork.type,
+                  normalizedWork.id,
+                  normalizedFromFandom
+                );
+                characterStats.source = 'fandom';
+                enrichmentUsed = true;
+                logger.info(`   🎮 Enriquecimento Fandom: ${characterStats.added || normalizedFromFandom.length} personagens (wiki: ${enrichment.wikiUrl})`);
+                
+              } else if (enrichment?.wikiLinks?.length) {
+                // Fallback para método básico (regex-based)
+                logger.debug('Usando método básico de scraping...');
+                let foundNames = [];
+
+                for (const link of enrichment.wikiLinks) {
+                  const scraped = await enrichmentCollector.scrapeWikiBasic(link.url);
+                  if (scraped?.characters?.length) {
+                    foundNames.push(...scraped.characters);
+                  }
+                  if (foundNames.length >= (options.characterLimit || 50)) break;
+                }
+
+                if (!foundNames.length) {
+                  const fallback = await enrichmentCollector.simpleWebSearch(`${normalizedWork.title} characters`);
+                  for (const f of fallback) {
+                    if (!f.url) continue;
+                    const scraped = await enrichmentCollector.scrapeWikiBasic(f.url);
+                    if (scraped?.characters?.length) {
+                      foundNames.push(...scraped.characters);
+                    }
+                    if (foundNames.length >= (options.characterLimit || 50)) break;
+                  }
+                }
+
+                foundNames = Array.from(new Set(foundNames)).slice(0, options.characterLimit || 50);
+
+                if (foundNames.length) {
+                  const normalizedFromEnrichment = normalizeEnrichmentCharacters(foundNames, normalizedWork.id);
+                  characterStats = await this.writer.upsertCharacters(
+                    normalizedWork.type,
+                    normalizedWork.id,
+                    normalizedFromEnrichment
+                  );
+                  characterStats.source = 'enrichment-basic';
+                  enrichmentUsed = true;
+                  logger.info(`   🎮 Enriquecimento básico: ${characterStats.added || normalizedFromEnrichment.length} personagens (via wikis/busca)`);
+                } else {
+                  logger.warn('Nenhum personagem encontrado via enrichment, fallback para RAWG (criadores).');
+                }
+              } else {
+                logger.warn('Nenhum resultado do enrichment, fallback para RAWG (criadores).');
+              }
+            } catch (err) {
+              logger.warn(`⚠️ Enriquecimento falhou: ${err.message} - fallback para RAWG`);
+            }
+          }
+
+          // Se enrichment não trouxe resultados, usar RAWG (criadores)
+          if (!enrichmentUsed) {
+            rawCharacters = await this.collector.collectCharacters(
+              normalizedWork.source_id,
+              { limit: options.characterLimit || 50 }
+            );
+          }
+
         } else {
           // Para anime/manga, usa método padrão com paginação
           rawCharacters = await this.collector.collectCharacters(
@@ -214,21 +294,23 @@ export class ImportWorkJob {
           ? rawCharacters.slice(0, options.characterLimit)
           : rawCharacters;
 
-        if (charactersToImport.length === 0) {
-          logger.warn('Nenhum personagem encontrado');
-        } else {
-          // 5. Normalizar personagens
-          const normalizedCharacters = this.normalizeCharacters(
-            charactersToImport,
-            normalizedWork.id
-          );
+        if (!enrichmentUsed) {
+          if (charactersToImport.length === 0) {
+            logger.warn('Nenhum personagem encontrado');
+          } else {
+            // 5. Normalizar personagens
+            const normalizedCharacters = this.normalizeCharacters(
+              charactersToImport,
+              normalizedWork.id
+            );
 
-          // 6. Salvar personagens
-          characterStats = await this.writer.upsertCharacters(
-            normalizedWork.type,
-            normalizedWork.id,
-            normalizedCharacters
-          );
+            // 6. Salvar personagens
+            characterStats = await this.writer.upsertCharacters(
+              normalizedWork.type,
+              normalizedWork.id,
+              normalizedCharacters
+            );
+          }
         }
       }
 

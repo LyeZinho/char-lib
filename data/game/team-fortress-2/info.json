@@ -1,0 +1,84 @@
+{
+  "id": "team-fortress-2",
+  "type": "game",
+  "title": "Team Fortress 2",
+  "alt_titles": [
+    "Team Fortress 2",
+    "TF2"
+  ],
+  "source": "RAWG",
+  "source_id": "11859",
+  "description": "TF2 is an objective based arena shooter with unique characters, representing different classes, acting as a staple of casual and competitive gaming for Steam. Dozens of different maps and game modes are trying to keep this game alive, after all the years it was available. Each character has a vast arsenal that can be accessed through completing in-game achievements, randomly receiving them from loot-boxes within the game, crafting them or just buying and trading items on the Steam Market. \r\nFor players, that's not into the direct clash with players from the enemy team, Team Fortress 2 introduced a PvE mode, which is wave defense from the mirrored robotic opponents that have qualities of some of the playable classes. \r\nEvery update and introduction, made over years, provided a lot of entertainment In the form of comic books an short animated videos, creating and explaining a story behind endless clashes for resources, briefcases or pure domination.",
+  "metadata": {
+    "released": "2007-10-10",
+    "rating": 3.68,
+    "rating_top": 4,
+    "ratings_count": 2923,
+    "metacritic": 92,
+    "playtime": 8,
+    "esrb_rating": "Mature",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "platforms": [
+      "Linux",
+      "macOS",
+      "PC"
+    ],
+    "developers": [
+      "Valve Software"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "stores": [
+      {
+        "name": "Steam",
+        "url": ""
+      }
+    ],
+    "tags": [
+      "Steam Achievements",
+      "Multiplayer",
+      "steam-trading-cards",
+      "Co-op",
+      "cooperative",
+      "First-Person",
+      "Partial Controller Support",
+      "FPS",
+      "Online Co-Op",
+      "Funny"
+    ],
+    "website": "http://www.teamfortress.com/",
+    "reddit_url": "https://www.reddit.com/r/tf2/",
+    "screenshots_count": 10,
+    "movies_count": 0,
+    "achievements_count": 520
+  },
+  "images": [
+    {
+      "url": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
+      "type": "cover"
+    },
+    {
+      "url": "https://media.rawg.io/media/screenshots/22d/22d0ef79c8ff037f83c633f904f79198.jpg",
+      "type": "background"
+    }
+  ],
+  "external_ids": {
+    "rawg": 11859,
+    "rawg_slug": "team-fortress-2",
+    "metacritic_url": ""
+  },
+  "tags": [
+    "Action",
+    "Shooter",
+    "Linux",
+    "macOS",
+    "PC",
+    "Mature"
+  ],
+  "updated_at": "2025-12-23T15:18:00.453Z",
+  "created_at": "2025-12-23T15:18:00.453Z"
+}

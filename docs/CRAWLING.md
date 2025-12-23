@@ -100,6 +100,7 @@ O arquivo `data/crawl-state.json` mantém:
 | `--delay` | 2000 | Delay entre importações (ms) |
 | `--continue` | false | Continuar da fila existente |
 | `--base-dir` | ./data | Diretório dos dados |
+| `--enrich` | false | Quando usado com jogos (`--type game`), tenta buscar personagens via DuckDuckGo/wikis (experimental) |
 
 ## Rate Limiting
 

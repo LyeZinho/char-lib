@@ -2,9 +2,9 @@
 
 ## 🎮 Visão Geral
 
-**ATENÇÃO: Jogos não são suportados por enquanto no sistema de autocrawling.**
+**✅ Jogos agora são totalmente suportados!** O AutoCrawl ativa automaticamente enrichment via Fandom para buscar personagens fictícios reais de jogos.
 
-O char-lib suporta importação manual de jogos usando a **RAWG Video Games Database API**, mas apenas para importação individual. O sistema de autocrawling não funciona com jogos porque a API RAWG não fornece dados de **personagens fictícios** de jogos.
+O char-lib usa a **RAWG Video Games Database API** para descobrir jogos, e agora integra automaticamente com o **Fandom Scraper** para extrair personagens fictícios de wikis como `nier.fandom.com`, `finalfantasy.fandom.com`, etc.
 
 ## 🔑 Configuração
 
@@ -26,26 +26,43 @@ echo "RAWG_API_KEY=sua-chave-aqui" > .env
 
 ## 📖 Exemplos de Uso
 
-### ℹ️ Limitação Importante
-
-**RAWG não oferece personagens fictícios de jogos.** Quando você importa um jogo, o sistema coleta **criadores e desenvolvedores** (pessoas reais que trabalharam no jogo), não personagens fictícios como Geralt, Master Chief, etc.
-
-### Importação Manual (funciona)
+### ✅ Importação Manual com Enrichment
 
 ```bash
-# Importar um jogo específico
-node src/cli.js import game "The Witcher 3"
+# Importar jogo com enrichment automático
+node src/cli.js import game "Nier Automata"
 
-# Ver criadores/desenvolvedores coletados
-node src/cli.js list game
+# O sistema automaticamente:
+# 1. Busca dados do jogo no RAWG
+# 2. Encontra wiki no Fandom via DuckDuckGo
+# 3. Lista personagens via MediaWiki API
+# 4. Extrai dados estruturados com Cheerio
+# 5. Salva personagens normalizados
 ```
 
-### ❌ Autocrawling (não funciona)
+### ✅ Autocrawling com Enrichment Automático
 
 ```bash
-# ISSO NÃO FUNCIONA - jogos não são suportados no autocrawl
-node src/cli.js crawl --type game
-# Erro: Jogos não são suportados por enquanto (RAWG não oferece personagens fictícios)
+# AutoCrawl para jogos (enrichment ativado automaticamente)
+node src/cli.js autocrawl --type game --max-works 5
+
+# Para cada jogo descoberto:
+# - Coleta dados básicos via RAWG
+# - Busca personagens via Fandom
+# - Salva tudo automaticamente
+```
+
+### 📊 Ver Resultados
+
+```bash
+# Listar jogos importados
+node src/cli.js list game
+
+# Ver estatísticas de um jogo
+node src/cli.js stats game nier-automata
+
+# Buscar personagens
+node src/cli.js search "2B" --type game --work nier-automata
 ```
 
 ## 🚀 Futuro

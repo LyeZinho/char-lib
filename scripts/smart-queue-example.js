@@ -19,6 +19,11 @@ const examples = [
     command: 'npm run smart-queue-start'
   },
   {
+    name: '▶️  Iniciar via CLI como Serviço',
+    description: 'Iniciar o serviço systemd diretamente via CLI (requer sudo)',
+    command: 'node src/cli.js smart-queue --service'
+  },
+  {
     name: '⏹️  Parar Daemon',
     description: 'Parar o serviço Smart Queue',
     command: 'npm run smart-queue-stop'

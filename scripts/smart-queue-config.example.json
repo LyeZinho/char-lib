@@ -13,6 +13,7 @@
     "npm run validate",
     "npm run deploy"
   ],
+  "cyclesPerRun": 1,
   "logLevel": "info",
   "autoRestart": true,
   "maxRetries": 3

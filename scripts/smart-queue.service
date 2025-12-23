@@ -2,12 +2,15 @@
 Description=Smart Queue Daemon - Character Library Crawler
 After=network.target
 Wants=network.target
+# Only start if daemon script exists
+ConditionPathExists=/home/pedro/projetos/char-lib/scripts/smart-queue-daemon.js
 
 [Service]
 Type=simple
 User=smartqueue
 Group=smartqueue
-ExecStart=/usr/bin/node /home/pedro/projetos/char-lib/scripts/smart-queue-daemon.js
+WorkingDirectory=/home/pedro/projetos/char-lib
+ExecStart=/usr/bin/node ./scripts/smart-queue-daemon.js
 ExecReload=/bin/kill -HUP $MAINPID
 ExecStop=/bin/kill -USR1 $MAINPID
 Restart=always
@@ -22,11 +25,12 @@ SyslogIdentifier=smart-queue
 NoNewPrivileges=yes
 PrivateTmp=yes
 ProtectSystem=strict
-ReadWritePaths=/home/pedro/projetos/char-lib/data /var/log/smart-queue.log /var/run/smart-queue.pid
-ProtectHome=yes
+# Allow access to project files and config under /etc
+ProtectHome=no
+ReadWritePaths=/home/pedro/projetos/char-lib /etc/smart-queue /var/log /var/run/smart-queue
 
 # Resource limits
-MemoryLimit=512M
+MemoryMax=512M
 CPUQuota=50%
 
 [Install]

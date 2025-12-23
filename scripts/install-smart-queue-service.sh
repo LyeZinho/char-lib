@@ -65,12 +65,15 @@ create_directories() {
     mkdir -p "$LOG_DIR"
     mkdir -p "$RUN_DIR"
 
-    # Ajustar permissões
+    # Criar arquivo de log específico e ajustar permissões
+    touch "$LOG_DIR/smart-queue.log"
     chown smartqueue:smartqueue "$CONFIG_DIR"
-    chown smartqueue:smartqueue "$LOG_DIR"
+    chown smartqueue:smartqueue "$LOG_DIR/smart-queue.log"
     chown smartqueue:smartqueue "$RUN_DIR"
 
-    log_success "Diretórios criados e permissões ajustadas"
+    log_success "Diretórios criados e permissões ajustadas (log criado em $LOG_DIR/smart-queue.log) (log criado em $LOG_DIR/smart-queue.log)"
+    echo
+    echo "⚠️  Se o proprietário de /var/log foi alterado acidentalmente, restaure-o com: sudo chown root:root /var/log"
 }
 
 # Instalar arquivo de serviço
@@ -102,7 +105,17 @@ EOF
     chown smartqueue:smartqueue "$CONFIG_DIR/config.json"
     chmod 644 "$CONFIG_DIR/config.json"
 
-    log_success "Configuração padrão criada"
+    # Garantir que o diretório de dados configurado exista e seja acessível pelo usuário do serviço
+    BASE_DIR=$(grep -oP '"baseDir"\s*:\s*"\K[^"]+' "$CONFIG_DIR/config.json" || echo "/home/pedro/projetos/char-lib/data")
+    mkdir -p "$BASE_DIR"
+    chown -R smartqueue:smartqueue "$BASE_DIR" || true
+
+    # Criar diretório /var/run/smart-queue e ajustar permissões para evitar NAMESPACE failures
+    mkdir -p "/var/run/smart-queue"
+    touch "/var/run/smart-queue/smart-queue.pid"
+    chown -R smartqueue:smartqueue "/var/run/smart-queue" || true
+
+    log_success "Configuração padrão criada (baseDir verificado: $BASE_DIR)"
 }
 
 # Recarregar systemd

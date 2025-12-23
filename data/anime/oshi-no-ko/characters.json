@@ -1,0 +1,365 @@
+{
+  "work_id": "oshi-no-ko",
+  "count": 15,
+  "characters": [
+    {
+      "id": "aquamarine-hoshino",
+      "name": "Aquamarine Hoshino",
+      "alt_names": [
+        "星野アクアマリン",
+        "Aqua",
+        "Prodigy Baby"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 172 cm (5'7\")\n\n[Ai Hoshino](https://anilist.co/character/172759/Ai-Hoshino)'s son. He is the twin big brother of [Ruby Hoshino](https://anilist.co/character/183884/Ruby-Hoshino).\n~!He was previously a doctor named Goro, who became a fan of Ai through his patient named Sarina.!~ ~!After reincarnating as Aquamarine and witnessing Ai's murder, he is intent on plotting revenge to the person who schemed Ai's death.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "16-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b183885-HOmw8CqcJdv3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 183885
+      }
+    },
+    {
+      "id": "ruby-hoshino",
+      "name": "Ruby Hoshino",
+      "alt_names": [
+        "星野ルビー"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 158 cm (5'2\")\n\n[Ai Hoshino](https://anilist.co/character/172759/Ai-Hoshino)'s daughter, and the younger twin sister of [Aquamarine Hoshino](https://anilist.co/character/183885). \n~!She was previously a patient named Sarina under Goro's care. Due to her illness, she was wheelchair-bound. After discovering B-Komachi, she had always aspired to be an idol although her condition kept her from achieving her dream. Since being reincarnated as Ruby, she is now working towards her dream of being an idol like Ai. To do so she's currently working with Strawberry Productions to revive B-Komachi along with Arima Kana and Memcho.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b183884-iyo3BmTuhJ0l.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 183884
+      }
+    },
+    {
+      "id": "kana-arima",
+      "name": "Kana Arima",
+      "alt_names": [
+        "有馬かな"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 150 cm (4'11\")\n\nAn actress who was called a prodigy child. She has a rather stubborn personality yet an empathic side to her. She easily succumbs to pressure and while she does put up a front to others, she has very self-deprecating thoughts when it comes to her abilities. She's an honest and earnest person, who is very diligent and persistent even in the roughest of times. Also, she tends to place all responsibility on herself when it comes to others as she is the one who has the most experience in the show business world. She also hates bell peppers.\n  \n~!After the events of the Sweet Today Drama adaptation, she secretly develops a crush for Aquamarine.!~\n\n~!She longs for someone to look at her for who she is now and praise her efforts, someone to say that its okay for her to be here. And after the new B-Komachi's first concert, that person becomes Aquamarine after he waves her respected colored glow stick. Only reinforcing Kana's resolve to make Aquamarine fall for her.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b188783-77orwP7vNuNg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 188783
+      }
+    },
+    {
+      "id": "akane-kurokawa",
+      "name": "Akane Kurokawa",
+      "alt_names": [
+        "黒川あかね",
+        "黒川茜"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 163 cm (5'4\")\n\nAkane Kurokawa is a rising star actress from the Lalalie Theatrical Company. Although a shy and quiet person, she is very serious when it comes to creating a good performance. She does a deep examination of each role she is given, allowing her to perfectly portray the character's personality and motivations. Akane is introduced to [Aqua](https://anilist.co/character/183885) as a fellow cast member on the set of the reality dating show *The Beginning of My Love With An Idol*.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203384-YuSppFDMw2wn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 203384
+      }
+    },
+    {
+      "id": "ai-hoshino",
+      "name": "Ai Hoshino",
+      "alt_names": [
+        "星野アイ"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 151 cm (4'11\")\n\nShe's an idol and lead of B-Komachi, an idol group affiliated with Strawberry Productions. Her life took a turn when through an undetermined amount of time, she became pregnant with twins. Not wanting to squander her reputation, she and her team decide to hide this fact; having to play the role of idol and mother.",
+      "metadata": {
+        "gender": "female",
+        "age": "16-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b172759-cccVhJ2fQA92.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 172759
+      }
+    },
+    {
+      "id": "mem-cho",
+      "name": "MEM-cho",
+      "alt_names": [
+        "MEMちょ",
+        "Mem"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 155 cm (5'1\")\n\nA girl who strived to become an idol at a young age, but due to her family situation, made sacrifices that ultimately ended with her becoming too old to become one. She is a YouTuber. \n\n~!Mem-cho's real age is 25, and she is later recruited as the third member of the re-formed B-Komachi idol group.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205434-AuBcR4M05f6s.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205434
+      }
+    },
+    {
+      "id": "miyako-saitou",
+      "name": "Miyako Saitou",
+      "alt_names": [
+        "斎藤ミヤコ"
+      ],
+      "role": "supporting",
+      "description": "Miyako is married to the president of Ichigo Productions and is Ai's manager. She is a shallow woman who appears to have only married her husband due to the prospect of working with hot guys. She is also a babysitter to the twins.\n\n~!After Ai's death, she becomes the twin's adoptive parent. As the twins blossom into adolescence, she becomes more mature, both as a caretaker and as a manager. She is also the manager of the new B-Komachi.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b223870-60FglagpVtHe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 223870
+      }
+    },
+    {
+      "id": "taishi-gotanda",
+      "name": "Taishi Gotanda",
+      "alt_names": [
+        "五反田泰志"
+      ],
+      "role": "supporting",
+      "description": "Taishi Gotanda is a movie director, and the \"mentor\" of [Aquamarine Hoshino](https://anilist.co/character/183885/Aquamarine-Hoshino). He still lives with his [mother](https://anilist.co/character/302910).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245519-yrjlimcCUdrk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245519
+      }
+    },
+    {
+      "id": "frill-shiranui",
+      "name": "Frill Shiranui",
+      "alt_names": [
+        "不知火フリル"
+      ],
+      "role": "supporting",
+      "description": "Frill Shiranui is a student in Ruby Hoshino's class. She is a multi-talented performer who can sing, dance, and act. At first, Ruby is in awe of her, yet they eventually become friends. \n\n ~!She is the younger sister of [Koromo Shiranui](https://anilist.co/character/212391/Koromo-Shiranui) from [Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen](https://anilist.co/manga/86635/Kaguyasama-wa-Kokurasetai-Tensaitachi-no-Renai-Zunousen/).!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b223871-Yg32oIQlRkwH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 223871
+      }
+    },
+    {
+      "id": "ichigo-saitou",
+      "name": "Ichigo Saitou",
+      "alt_names": [
+        "斉藤壱護"
+      ],
+      "role": "supporting",
+      "description": "Ichigo Saitou is the director of the agency Ichigo Production. He is the one who scouted [Ai](https://anilist.co/character/172759/Ai-Hoshino) and made her a star.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245521-Kc8y3UYQ4JXs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245521
+      }
+    },
+    {
+      "id": "masaya-kaburagi",
+      "name": "Masaya Kaburagi",
+      "alt_names": [
+        "鏑木勝也"
+      ],
+      "role": "supporting",
+      "description": "Masaya Kaburagi is a TV and Web-TV producer.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245518-9OvLmdKE5teR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245518
+      }
+    },
+    {
+      "id": "pieyon",
+      "name": "Pieyon",
+      "alt_names": [
+        "ぴえヨン"
+      ],
+      "role": "supporting",
+      "description": "A famous physical training YouTuber affiliated with Strawberry Productions, where he is the agency's top earner. On request from company president Miyako Saitou, he promotes the new B-Komachi by collaborating with Ruby Hoshino and Kana Arima in a physical training video on his channel.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b227579-OKrvb5rGnQrV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 227579
+      }
+    },
+    {
+      "id": "yoriko-kichijouji",
+      "name": "Yoriko Kichijouji",
+      "alt_names": [
+        "吉祥寺頼子"
+      ],
+      "role": "supporting",
+      "description": "A mangaka and author of \"Today will be sweet\". She used to be [Abiko](https://anilist.co/character/237576/Abiko-Samejima)'s mentor.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b237577-suHCadWWmCT0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 237577
+      }
+    },
+    {
+      "id": "melt-narushima",
+      "name": "Melt Narushima",
+      "alt_names": [
+        "鳴嶋メルト"
+      ],
+      "role": "supporting",
+      "description": "Model and actor affiliated with Sonic Stage Productions. He appeared while still an untrained, yet arrogant, actor on the TV Drama *I'll Go With Sweet Today*. Melt was then cast in the role of Kizami in the 2.5D Stage Play *Tokyo Blade*.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245515-0fmOfMnyxQiZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245515
+      }
+    },
+    {
+      "id": "minami-kotobuki",
+      "name": "Minami Kotobuki",
+      "alt_names": [
+        "寿みなみ"
+      ],
+      "role": "supporting",
+      "description": "She's a classmate and friend of Ruby Hoshino. Minami is a Gravure model who uses a fake accent.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b252073-eLFb2PHy1erO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 252073
+      }
+    }
+  ],
+  "updated_at": "2025-12-23T14:09:41.272Z"
+}

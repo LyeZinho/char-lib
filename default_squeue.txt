@@ -1,0 +1,1 @@
+cd /home/pedro/projetos/char-lib && node src/cli.js smart-queue --service --auto-deploy --max-cycles 0 --max-works-cycle 50 --deploy-threshold 20 --enrich 

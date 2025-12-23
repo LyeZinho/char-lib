@@ -1,0 +1,407 @@
+{
+  "work_id": "doom",
+  "count": 25,
+  "characters": [
+    {
+      "id": "kevin-cloud-2504",
+      "name": "Kevin Cloud",
+      "alt_names": [],
+      "role": "other",
+      "description": "director, artist, producer, designer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 2504
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "tim-willits-1191",
+      "name": "Tim Willits",
+      "alt_names": [],
+      "role": "other",
+      "description": "director, producer, designer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 1191
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "robert-a-duffy-2510",
+      "name": "Robert A. Duffy",
+      "alt_names": [],
+      "role": "other",
+      "description": "programmer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 2510
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "marty-stratton-7798",
+      "name": "Marty Stratton",
+      "alt_names": [],
+      "role": "other",
+      "description": "director",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 7798
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "john-roberts-1913",
+      "name": "John Roberts",
+      "alt_names": [],
+      "role": "other",
+      "description": "artist",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 1913
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "mick-gordon-149",
+      "name": "Mick Gordon",
+      "alt_names": [],
+      "role": "other",
+      "description": "composer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 149
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "rik-schaffer-1812",
+      "name": "Rik Schaffer",
+      "alt_names": [],
+      "role": "other",
+      "description": "composer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 1812
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "darin-mcneil-6046",
+      "name": "Darin McNeil",
+      "alt_names": [],
+      "role": "other",
+      "description": "programmer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 6046
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "todd-vaughn-3101",
+      "name": "Todd Vaughn",
+      "alt_names": [],
+      "role": "other",
+      "description": "producer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 3101
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "patrick-hook-4399",
+      "name": "Patrick Hook",
+      "alt_names": [],
+      "role": "other",
+      "description": "designer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 4399
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "billy-ethan-khan-3982",
+      "name": "Billy Ethan Khan",
+      "alt_names": [],
+      "role": "other",
+      "description": "programmer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 3982
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "andrew-morris-11912",
+      "name": "Andrew Morris",
+      "alt_names": [],
+      "role": "other",
+      "description": "composer, artist, designer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 11912
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "david-mertz-628",
+      "name": "David Mertz",
+      "alt_names": [],
+      "role": "other",
+      "description": "writer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 628
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "neill-glancy-6264",
+      "name": "Neill Glancy",
+      "alt_names": [],
+      "role": "other",
+      "description": "writer, designer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 6264
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "timothy-bell-370",
+      "name": "Timothy Bell",
+      "alt_names": [],
+      "role": "other",
+      "description": "producer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 370
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "matthew-nelson-25258",
+      "name": "Matthew Nelson",
+      "alt_names": [],
+      "role": "other",
+      "description": "producer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 25258
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "jason-oconnell-21676",
+      "name": "Jason O'Connell",
+      "alt_names": [],
+      "role": "other",
+      "description": "designer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 21676
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "robert-walker-20373",
+      "name": "Robert Walker",
+      "alt_names": [],
+      "role": "other",
+      "description": "programmer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 20373
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "phil-wattenbarger-7482",
+      "name": "Phil Wattenbarger",
+      "alt_names": [],
+      "role": "other",
+      "description": "producer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 7482
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "jerk-gustafsson-144",
+      "name": "Jerk Gustafsson",
+      "alt_names": [],
+      "role": "other",
+      "description": "producer, designer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 144
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "alex-chrisman-21261",
+      "name": "Alex Chrisman",
+      "alt_names": [],
+      "role": "other",
+      "description": "producer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 21261
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "max-hoberman-6311",
+      "name": "Max Hoberman",
+      "alt_names": [],
+      "role": "other",
+      "description": "director",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 6311
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "fredrik-ljungdahl-143",
+      "name": "Fredrik Ljungdahl",
+      "alt_names": [],
+      "role": "other",
+      "description": "designer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 143
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "whitney-ayres-1390",
+      "name": "Whitney Ayres",
+      "alt_names": [],
+      "role": "other",
+      "description": "artist, designer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 1390
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    },
+    {
+      "id": "magnus-auvinen-4065",
+      "name": "Magnus Auvinen",
+      "alt_names": [],
+      "role": "other",
+      "description": "designer",
+      "metadata": {
+        "positions": []
+      },
+      "images": [],
+      "external_ids": {
+        "rawg": 4065
+      },
+      "tags": [],
+      "updated_at": "2025-12-23T15:18:32.280Z"
+    }
+  ],
+  "updated_at": "2025-12-23T15:18:32.281Z"
+}

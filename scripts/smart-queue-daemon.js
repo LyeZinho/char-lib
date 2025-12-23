@@ -18,7 +18,7 @@ const __dirname = dirname(__filename);
 
 // Configurações do daemon
 const DAEMON_CONFIG = {
-  pidFile: '/var/run/smart-queue.pid',
+  pidFile: '/var/run/smart-queue/smart-queue.pid',
   logFile: '/var/log/smart-queue.log',
   configDir: '/etc/smart-queue',
   dataDir: process.env.SMART_QUEUE_DATA_DIR || join(process.cwd(), 'data'),
@@ -99,6 +99,20 @@ class SmartQueueDaemon {
 
       // Carregar configurações
       const options = await this.loadConfiguration();
+
+      // Armazenar run cycles (0 = contínuo)
+      this.runCycles = typeof options.cyclesPerRun === 'number' ? options.cyclesPerRun : 1;
+
+      // Verificar se o baseDir é gravável (mensagem clara se não for)
+      try {
+        const fs = await import('fs/promises');
+        const baseDir = options.baseDir;
+        await fs.mkdir(baseDir, { recursive: true });
+        await fs.access(baseDir, fs.constants.W_OK);
+      } catch (err) {
+        logger.error(`❌ Base dir não gravável: ${err.message || err}. Execute o instalador ou ajuste permissões (ex: sudo chown -R smartqueue:smartqueue <baseDir>).`);
+        throw new Error('Base dir não gravável');
+      }
 
       // Inicializar Smart Queue
       this.smartQueueJob = createSmartQueueJob(options);
@@ -220,9 +234,9 @@ class SmartQueueDaemon {
       // Loop principal - roda indefinidamente
       while (this.isRunning && !this.shutdownRequested) {
         try {
-          await this.smartQueueJob.run({ maxCycles: 1 }); // Executa 1 ciclo por vez
+          await this.smartQueueJob.run({ maxCycles: this.runCycles }); // Executa X ciclos por vez (0 = contínuo)
 
-          // Pequena pausa entre verificações de shutdown
+          // Pequena pausa entre verificações de shutdown (somente se run retornou)
           await this.sleep(5000);
 
         } catch (error) {

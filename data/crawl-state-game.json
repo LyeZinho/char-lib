@@ -3,33 +3,149 @@
   "processedWorks": [
     "3498",
     "3328",
-    "4200"
+    "4200",
+    "16498",
+    "101922",
+    "1535",
+    "113415",
+    "21459",
+    "11061",
+    "21087",
+    "20605",
+    "20958",
+    "21",
+    "5114",
+    "11757",
+    "20",
+    "21519",
+    "20954",
+    "99147",
+    "21856",
+    "101759",
+    "110277",
+    "20755",
+    "21507",
+    "20665",
+    "21234",
+    "100166",
+    "104578",
+    "1735",
+    "21355",
+    "9253",
+    "20464",
+    "101291",
+    "97940",
+    "101921",
+    "20447",
+    "19815",
+    "140960",
+    "105333",
+    "21827",
+    "4224",
+    "20613",
+    "104276",
+    "20789",
+    "101348",
+    "21202",
+    "124080",
+    "112151",
+    "20623",
+    "99423",
+    "269",
+    "1575",
+    "30",
+    "199",
+    "20931",
+    "9919",
+    "14719",
+    "105310",
+    "97668",
+    "1",
+    "142329",
+    "98314",
+    "20594",
+    "99263",
+    "6547",
+    "101338",
+    "120120",
+    "101280",
+    "145064",
+    "10620",
+    "112641",
+    "20997",
+    "108465",
+    "98659",
+    "21311",
+    "18679",
+    "131681",
+    "20923",
+    "20850",
+    "117193",
+    "20992",
+    "97986",
+    "15809",
+    "154587",
+    "131573",
+    "20832",
+    "20920",
+    "151807",
+    "132405",
+    "11111",
+    "3588",
+    "6702",
+    "21699",
+    "14813",
+    "101347",
+    "2001",
+    "21170",
+    "21698",
+    "108632",
+    "13601",
+    "2904",
+    "99750",
+    "431",
+    "12189",
+    "98460",
+    "10087",
+    "106286",
+    "21804",
+    "14741",
+    "145139",
+    "129874",
+    "5081",
+    "20474",
+    "120377",
+    "115230",
+    "21776",
+    "171018",
+    "108725",
+    "113936",
+    "19",
+    "9756",
+    "21128",
+    "142838",
+    "100388",
+    "128893",
+    "114535",
+    "133965",
+    "21450",
+    "113813",
+    "105778",
+    "105398",
+    "101517",
+    "30002",
+    "53390",
+    "11617",
+    "100240",
+    "30013",
+    "87216",
+    "108511",
+    "150672",
+    "63327",
+    "85486",
+    "13536"
   ],
   "queue": [
-    {
-      "id": 4291,
-      "title": "Counter-Strike: Global Offensive",
-      "popularity": 0,
-      "score": 3.57,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 5286,
-      "title": "Tomb Raider (2013)",
-      "popularity": 0,
-      "score": 4.06,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 13536,
-      "title": "Portal",
-      "popularity": 0,
-      "score": 4.49,
-      "episodes": null,
-      "status": "FINISHED"
-    },
     {
       "id": 12020,
       "title": "Left 4 Dead 2",
@@ -405,11 +521,326 @@
       "score": 3.45,
       "episodes": null,
       "status": "FINISHED"
+    },
+    {
+      "id": "13536",
+      "title": "Portal",
+      "popularity": 4.49,
+      "score": 90,
+      "status": "unknown"
+    },
+    {
+      "id": "12020",
+      "title": "Left 4 Dead 2",
+      "popularity": 4.09,
+      "score": 89,
+      "status": "unknown"
+    },
+    {
+      "id": "5679",
+      "title": "The Elder Scrolls V: Skyrim",
+      "popularity": 4.42,
+      "score": 94,
+      "status": "unknown"
+    },
+    {
+      "id": "28",
+      "title": "Red Dead Redemption 2",
+      "popularity": 4.59,
+      "score": 96,
+      "status": "unknown"
+    },
+    {
+      "id": "4062",
+      "title": "BioShock Infinite",
+      "popularity": 4.38,
+      "score": 94,
+      "status": "unknown"
+    },
+    {
+      "id": "13537",
+      "title": "Half-Life 2",
+      "popularity": 4.48,
+      "score": 96,
+      "status": "unknown"
+    },
+    {
+      "id": "802",
+      "title": "Borderlands 2",
+      "popularity": 4.02,
+      "score": 89,
+      "status": "unknown"
+    },
+    {
+      "id": "3439",
+      "title": "Life is Strange",
+      "popularity": 4.12,
+      "score": 83,
+      "status": "unknown"
+    },
+    {
+      "id": "4286",
+      "title": "BioShock",
+      "popularity": 4.36,
+      "score": 96,
+      "status": "unknown"
+    },
+    {
+      "id": "32",
+      "title": "Destiny 2",
+      "popularity": 3.52,
+      "score": 82,
+      "status": "unknown"
+    },
+    {
+      "id": "58175",
+      "title": "God of War (2018)",
+      "popularity": 4.55,
+      "score": 94,
+      "status": "unknown"
+    },
+    {
+      "id": "3070",
+      "title": "Fallout 4",
+      "popularity": 3.81,
+      "score": 84,
+      "status": "unknown"
+    },
+    {
+      "id": "3939",
+      "title": "PAYDAY 2",
+      "popularity": 3.52,
+      "score": 79,
+      "status": "unknown"
+    },
+    {
+      "id": "1030",
+      "title": "Limbo",
+      "popularity": 4.14,
+      "score": 88,
+      "status": "unknown"
+    },
+    {
+      "id": "11859",
+      "title": "Team Fortress 2",
+      "popularity": 3.68,
+      "score": 92,
+      "status": "unknown"
+    },
+    {
+      "id": "13536",
+      "title": "Portal",
+      "popularity": 4.49,
+      "score": 90,
+      "status": "unknown"
+    },
+    {
+      "id": "12020",
+      "title": "Left 4 Dead 2",
+      "popularity": 4.09,
+      "score": 89,
+      "status": "unknown"
+    },
+    {
+      "id": "5679",
+      "title": "The Elder Scrolls V: Skyrim",
+      "popularity": 4.42,
+      "score": 94,
+      "status": "unknown"
+    },
+    {
+      "id": "28",
+      "title": "Red Dead Redemption 2",
+      "popularity": 4.59,
+      "score": 96,
+      "status": "unknown"
+    },
+    {
+      "id": "4062",
+      "title": "BioShock Infinite",
+      "popularity": 4.38,
+      "score": 94,
+      "status": "unknown"
+    },
+    {
+      "id": "13537",
+      "title": "Half-Life 2",
+      "popularity": 4.48,
+      "score": 96,
+      "status": "unknown"
+    },
+    {
+      "id": "802",
+      "title": "Borderlands 2",
+      "popularity": 4.02,
+      "score": 89,
+      "status": "unknown"
+    },
+    {
+      "id": "3439",
+      "title": "Life is Strange",
+      "popularity": 4.12,
+      "score": 83,
+      "status": "unknown"
+    },
+    {
+      "id": "4286",
+      "title": "BioShock",
+      "popularity": 4.36,
+      "score": 96,
+      "status": "unknown"
+    },
+    {
+      "id": "32",
+      "title": "Destiny 2",
+      "popularity": 3.52,
+      "score": 82,
+      "status": "unknown"
+    },
+    {
+      "id": "58175",
+      "title": "God of War (2018)",
+      "popularity": 4.55,
+      "score": 94,
+      "status": "unknown"
+    },
+    {
+      "id": "3070",
+      "title": "Fallout 4",
+      "popularity": 3.81,
+      "score": 84,
+      "status": "unknown"
+    },
+    {
+      "id": "3939",
+      "title": "PAYDAY 2",
+      "popularity": 3.52,
+      "score": 79,
+      "status": "unknown"
+    },
+    {
+      "id": "1030",
+      "title": "Limbo",
+      "popularity": 4.14,
+      "score": 88,
+      "status": "unknown"
+    },
+    {
+      "id": "11859",
+      "title": "Team Fortress 2",
+      "popularity": 3.68,
+      "score": 92,
+      "status": "unknown"
+    },
+    {
+      "id": "13536",
+      "title": "Portal",
+      "popularity": 4.49,
+      "score": 90,
+      "status": "unknown"
+    },
+    {
+      "id": "12020",
+      "title": "Left 4 Dead 2",
+      "popularity": 4.09,
+      "score": 89,
+      "status": "unknown"
+    },
+    {
+      "id": "5679",
+      "title": "The Elder Scrolls V: Skyrim",
+      "popularity": 4.42,
+      "score": 94,
+      "status": "unknown"
+    },
+    {
+      "id": "28",
+      "title": "Red Dead Redemption 2",
+      "popularity": 4.59,
+      "score": 96,
+      "status": "unknown"
+    },
+    {
+      "id": "4062",
+      "title": "BioShock Infinite",
+      "popularity": 4.38,
+      "score": 94,
+      "status": "unknown"
+    },
+    {
+      "id": "13537",
+      "title": "Half-Life 2",
+      "popularity": 4.48,
+      "score": 96,
+      "status": "unknown"
+    },
+    {
+      "id": "802",
+      "title": "Borderlands 2",
+      "popularity": 4.02,
+      "score": 89,
+      "status": "unknown"
+    },
+    {
+      "id": "3439",
+      "title": "Life is Strange",
+      "popularity": 4.12,
+      "score": 83,
+      "status": "unknown"
+    },
+    {
+      "id": "4286",
+      "title": "BioShock",
+      "popularity": 4.36,
+      "score": 96,
+      "status": "unknown"
+    },
+    {
+      "id": "32",
+      "title": "Destiny 2",
+      "popularity": 3.52,
+      "score": 82,
+      "status": "unknown"
+    },
+    {
+      "id": "58175",
+      "title": "God of War (2018)",
+      "popularity": 4.55,
+      "score": 94,
+      "status": "unknown"
+    },
+    {
+      "id": "3070",
+      "title": "Fallout 4",
+      "popularity": 3.81,
+      "score": 84,
+      "status": "unknown"
+    },
+    {
+      "id": "3939",
+      "title": "PAYDAY 2",
+      "popularity": 3.52,
+      "score": 79,
+      "status": "unknown"
+    },
+    {
+      "id": "1030",
+      "title": "Limbo",
+      "popularity": 4.14,
+      "score": 88,
+      "status": "unknown"
+    },
+    {
+      "id": "11859",
+      "title": "Team Fortress 2",
+      "popularity": 3.68,
+      "score": 92,
+      "status": "unknown"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
-    "totalCharacters": 21,
-    "lastRun": "2025-12-22T18:32:17.903Z"
+    "totalProcessed": 4,
+    "totalCharacters": 26,
+    "lastRun": "2025-12-23T14:57:28.963Z"
   }
 }

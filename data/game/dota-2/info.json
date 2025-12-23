@@ -1,0 +1,81 @@
+{
+  "id": "dota-2",
+  "type": "game",
+  "title": "Dota 2",
+  "alt_titles": [
+    "Dota 2"
+  ],
+  "source": "RAWG",
+  "source_id": "10213",
+  "description": "What used to be an unofficial modded map for the Warcraft 3, ended up being the most budgeted cybersport discipline, gathering millions of people to watch annual international championships.\nMOBA genre started with the DOTA, Defense of the Ancients, which can be efficiently described as 5 vs 5 top-down action strategy game, during which players are tasked to destroy the enemy core while protecting their own.\nPlayers can pick out of the roster of 112 heroes and battle on the single map while taking advantage of field vision, resources and item build that can either make heroes stronger or disable the enemy. DOTA 2 is still active, and receives updates weekly, reshaping metas and refreshing game balance, if by any chance some heroes became unreasonably strong. Each hero has not only a unique set of abilities but is fully customizable, through getting items for heroes after matches of through the trade. Not only heroes but terrain, couriers, that deliver items for you and even match announcers, that can be voiced by heroes, professional casters of just memorable characters from other forms of media.",
+  "metadata": {
+    "released": "2013-07-09",
+    "rating": 3.07,
+    "rating_top": 3,
+    "ratings_count": 2838,
+    "metacritic": 90,
+    "playtime": 14,
+    "genres": [
+      "Action",
+      "Massively Multiplayer"
+    ],
+    "platforms": [
+      "Linux",
+      "macOS",
+      "PC"
+    ],
+    "developers": [
+      "Valve Software"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "stores": [
+      {
+        "name": "Steam",
+        "url": ""
+      }
+    ],
+    "tags": [
+      "Multiplayer",
+      "steam-trading-cards",
+      "RPG",
+      "Co-op",
+      "cooperative",
+      "Online Co-Op",
+      "Fantasy",
+      "Difficult",
+      "Free to Play",
+      "Action RPG"
+    ],
+    "website": "http://www.dota2.com/",
+    "reddit_url": "https://www.reddit.com/r/DotA2/",
+    "screenshots_count": 8,
+    "movies_count": 2,
+    "achievements_count": 0
+  },
+  "images": [
+    {
+      "url": "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+      "type": "cover"
+    },
+    {
+      "url": "https://media.rawg.io/media/screenshots/7ef/7ef8db57f075fe2417f9a3c0fe9913f3.jpg",
+      "type": "background"
+    }
+  ],
+  "external_ids": {
+    "rawg": 10213,
+    "rawg_slug": "dota-2",
+    "metacritic_url": ""
+  },
+  "tags": [
+    "Action",
+    "Massively Multiplayer",
+    "Linux",
+    "macOS",
+    "PC"
+  ],
+  "updated_at": "2025-12-23T15:20:05.612Z",
+  "created_at": "2025-12-23T15:20:05.612Z"
+}

@@ -35,369 +35,150 @@
     "100388",
     "128893",
     "114535",
-    "133965"
+    "133965",
+    "16498",
+    "101922",
+    "1535",
+    "113415",
+    "21459",
+    "11061",
+    "21",
+    "21856",
+    "101759",
+    "110277",
+    "20755",
+    "21507",
+    "20665",
+    "21234",
+    "100166",
+    "104578",
+    "1735",
+    "21355",
+    "9253",
+    "20464",
+    "101291",
+    "97940",
+    "101921",
+    "20447",
+    "19815",
+    "140960",
+    "105333",
+    "21827",
+    "4224",
+    "20613",
+    "104276",
+    "20789",
+    "101348",
+    "21202",
+    "124080",
+    "112151",
+    "20623",
+    "99423",
+    "269",
+    "1575",
+    "30",
+    "199",
+    "20931",
+    "9919",
+    "14719",
+    "105310",
+    "97668",
+    "1",
+    "142329",
+    "98314",
+    "20594",
+    "99263",
+    "6547",
+    "101338",
+    "120120",
+    "101280",
+    "145064",
+    "10620",
+    "112641",
+    "20997",
+    "108465",
+    "98659",
+    "21311",
+    "18679",
+    "131681",
+    "20923",
+    "20850",
+    "117193",
+    "20992",
+    "97986",
+    "15809",
+    "154587",
+    "131573",
+    "20832",
+    "20920",
+    "151807",
+    "132405",
+    "11111",
+    "3588",
+    "6702",
+    "21699",
+    "14813",
+    "101347",
+    "2001",
+    "21170",
+    "21698",
+    "108632",
+    "13601",
+    "2904",
+    "21450",
+    "113813",
+    "105778",
+    "105398",
+    "101517",
+    "30002",
+    "53390",
+    "11617",
+    "100240",
+    "3498",
+    "3328",
+    "4200",
+    "30013",
+    "87216",
+    "108511",
+    "150672",
+    "63327",
+    "85486",
+    "13536",
+    "137822",
+    "127720",
+    "34632",
+    "74347",
+    "116006",
+    "101165",
+    "108556",
+    "30656",
+    "164",
+    "116589",
+    "87423",
+    "30642",
+    "6746",
+    "106625",
+    "72451",
+    "119257",
+    "2167",
+    "102883",
+    "102988",
+    "86635",
+    "114236",
+    "106130",
+    "30012",
+    "918",
+    "124845",
+    "132029",
+    "97852",
+    "99539",
+    "100182",
+    "86123",
+    "30026",
+    "119661",
+    "7054"
   ],
   "queue": [
-    {
-      "id": 21,
-      "title": "ONE PIECE",
-      "popularity": 648019,
-      "score": 88,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 21450,
-      "title": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
-      "popularity": 279928,
-      "score": 84,
-      "episodes": 39,
-      "status": "FINISHED"
-    },
-    {
-      "id": 113813,
-      "title": "Kanojo, Okarishimasu",
-      "popularity": 279590,
-      "score": 65,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 105334,
-      "title": "Fruits Basket: 1st Season",
-      "popularity": 279099,
-      "score": 82,
-      "episodes": 25,
-      "status": "FINISHED"
-    },
-    {
-      "id": 11617,
-      "title": "High School DxD",
-      "popularity": 278401,
-      "score": 69,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 100240,
-      "title": "Tokyo Ghoul:re",
-      "popularity": 277976,
-      "score": 61,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 108511,
-      "title": "Tensei Shitara Slime Datta Ken 2nd Season",
-      "popularity": 276744,
-      "score": 83,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 150672,
-      "title": "[Oshi no Ko]",
-      "popularity": 276043,
-      "score": 84,
-      "episodes": 11,
-      "status": "FINISHED"
-    },
-    {
-      "id": 103572,
-      "title": "Go-toubun no Hanayome",
-      "popularity": 275341,
-      "score": 75,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 137822,
-      "title": "Blue Lock",
-      "popularity": 272947,
-      "score": 80,
-      "episodes": 24,
-      "status": "FINISHED"
-    },
-    {
-      "id": 127720,
-      "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
-      "popularity": 272444,
-      "score": 85,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 116006,
-      "title": "THE GOD OF HIGH SCHOOL",
-      "popularity": 272343,
-      "score": 69,
-      "episodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "id": 101165,
-      "title": "Goblin Slayer",
-      "popularity": 271778,
-      "score": 71,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 164,
-      "title": "Mononoke-hime",
-      "popularity": 270511,
-      "score": 85,
-      "episodes": 1,
-      "status": "FINISHED"
-    },
-    {
-      "id": 116589,
-      "title": "86: Eighty Six",
-      "popularity": 269391,
-      "score": 82,
-      "episodes": 11,
-      "status": "FINISHED"
-    },
-    {
-      "id": 6746,
-      "title": "Durarara!!",
-      "popularity": 269091,
-      "score": 79,
-      "episodes": 24,
-      "status": "FINISHED"
-    },
-    {
-      "id": 106625,
-      "title": "Haikyuu!! TO THE TOP",
-      "popularity": 268673,
-      "score": 83,
-      "episodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "id": 2167,
-      "title": "CLANNAD",
-      "popularity": 268218,
-      "score": 77,
-      "episodes": 23,
-      "status": "FINISHED"
-    },
-    {
-      "id": 102883,
-      "title": "JoJo no Kimyou na Bouken: Ougon no Kaze",
-      "popularity": 266060,
-      "score": 84,
-      "episodes": 39,
-      "status": "FINISHED"
-    },
-    {
-      "id": 114236,
-      "title": "Enen no Shouboutai: Ni no Shou",
-      "popularity": 265504,
-      "score": 78,
-      "episodes": 24,
-      "status": "FINISHED"
-    },
-    {
-      "id": 21450,
-      "title": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
-      "popularity": 279928,
-      "score": 84,
-      "episodes": 39,
-      "status": "FINISHED"
-    },
-    {
-      "id": 113813,
-      "title": "Kanojo, Okarishimasu",
-      "popularity": 279590,
-      "score": 65,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 105334,
-      "title": "Fruits Basket: 1st Season",
-      "popularity": 279099,
-      "score": 82,
-      "episodes": 25,
-      "status": "FINISHED"
-    },
-    {
-      "id": 11617,
-      "title": "High School DxD",
-      "popularity": 278401,
-      "score": 69,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 100240,
-      "title": "Tokyo Ghoul:re",
-      "popularity": 277976,
-      "score": 61,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 108511,
-      "title": "Tensei Shitara Slime Datta Ken 2nd Season",
-      "popularity": 276744,
-      "score": 83,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 150672,
-      "title": "[Oshi no Ko]",
-      "popularity": 276043,
-      "score": 84,
-      "episodes": 11,
-      "status": "FINISHED"
-    },
-    {
-      "id": 103572,
-      "title": "Go-toubun no Hanayome",
-      "popularity": 275341,
-      "score": 75,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 137822,
-      "title": "Blue Lock",
-      "popularity": 272947,
-      "score": 80,
-      "episodes": 24,
-      "status": "FINISHED"
-    },
-    {
-      "id": 127720,
-      "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
-      "popularity": 272444,
-      "score": 85,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 116006,
-      "title": "THE GOD OF HIGH SCHOOL",
-      "popularity": 272343,
-      "score": 69,
-      "episodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "id": 101165,
-      "title": "Goblin Slayer",
-      "popularity": 271778,
-      "score": 71,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 164,
-      "title": "Mononoke-hime",
-      "popularity": 270511,
-      "score": 85,
-      "episodes": 1,
-      "status": "FINISHED"
-    },
-    {
-      "id": 116589,
-      "title": "86: Eighty Six",
-      "popularity": 269391,
-      "score": 82,
-      "episodes": 11,
-      "status": "FINISHED"
-    },
-    {
-      "id": 6746,
-      "title": "Durarara!!",
-      "popularity": 269091,
-      "score": 79,
-      "episodes": 24,
-      "status": "FINISHED"
-    },
-    {
-      "id": 106625,
-      "title": "Haikyuu!! TO THE TOP",
-      "popularity": 268673,
-      "score": 83,
-      "episodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "id": 2167,
-      "title": "CLANNAD",
-      "popularity": 268218,
-      "score": 77,
-      "episodes": 23,
-      "status": "FINISHED"
-    },
-    {
-      "id": 102883,
-      "title": "JoJo no Kimyou na Bouken: Ougon no Kaze",
-      "popularity": 266060,
-      "score": 84,
-      "episodes": 39,
-      "status": "FINISHED"
-    },
-    {
-      "id": 114236,
-      "title": "Enen no Shouboutai: Ni no Shou",
-      "popularity": 265504,
-      "score": 78,
-      "episodes": 24,
-      "status": "FINISHED"
-    },
-    {
-      "id": 918,
-      "title": "Gintama",
-      "popularity": 264899,
-      "score": 85,
-      "episodes": 201,
-      "status": "FINISHED"
-    },
-    {
-      "id": 124845,
-      "title": "Wonder Egg Priority",
-      "popularity": 262432,
-      "score": 73,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 99539,
-      "title": "Nanatsu no Taizai: Imashime no Fukkatsu",
-      "popularity": 262212,
-      "score": 73,
-      "episodes": 24,
-      "status": "FINISHED"
-    },
-    {
-      "id": 100182,
-      "title": "Sword Art Online: Alicization",
-      "popularity": 260569,
-      "score": 75,
-      "episodes": 24,
-      "status": "FINISHED"
-    },
-    {
-      "id": 119661,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
-      "popularity": 260431,
-      "score": 84,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 7054,
-      "title": "Kaichou wa Maid-sama!",
-      "popularity": 260102,
-      "score": 77,
-      "episodes": 26,
-      "status": "FINISHED"
-    },
     {
       "id": 20661,
       "title": "Zankyou no Terror",
@@ -751,14 +532,6 @@
       "status": "FINISHED"
     },
     {
-      "id": 32,
-      "title": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
-      "popularity": 224042,
-      "score": 85,
-      "episodes": 1,
-      "status": "FINISHED"
-    },
-    {
       "id": 11741,
       "title": "Fate/Zero 2nd Season",
       "popularity": 223517,
@@ -776,8 +549,8 @@
     }
   ],
   "stats": {
-    "totalProcessed": 35,
-    "totalCharacters": 1120,
-    "lastRun": "2025-12-22T22:19:10.443Z"
+    "totalProcessed": 58,
+    "totalCharacters": 1459,
+    "lastRun": "2025-12-23T21:09:14.145Z"
   }
 }

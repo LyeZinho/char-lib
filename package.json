@@ -19,6 +19,7 @@
     "crawl-list": "node src/cli.js crawl-list",
     "crawl-example": "node scripts/crawl-example.js",
     "enrichment-example": "node scripts/enrichment-example.js",
+    "autocrawl-games-demo": "node scripts/autocrawl-games-demo.js",
     "smart-queue": "node src/cli.js smart-queue",
     "smart-queue-status": "node src/cli.js smart-queue-status",
     "smart-queue-reset": "node src/cli.js smart-queue-reset",
@@ -60,6 +61,7 @@
     "ajv": "^8.12.0",
     "ajv-formats": "^2.1.1",
     "axios": "^1.13.2",
+    "cheerio": "^1.1.2",
     "commander": "^11.1.0",
     "dotenv": "^17.2.3",
     "inquirer": "^9.3.8"

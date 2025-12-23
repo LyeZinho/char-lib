@@ -6,7 +6,11 @@ import { createAniListCollector } from '../collectors/anilist.js';
 import { createRawgCollector } from '../collectors/rawg.js';
 import { createImportJob } from './importWork.js';
 import { createWriter } from '../writers/jsonWriter.js';
-import { readJson, writeJson } from '../utils/file.js';
+import { readJson, writeJson, ensureDir } from '../utils/file.js';
+import fs from 'fs/promises';
+import { constants } from 'fs';
+import { createEnrichmentCollector } from '../collectors/enrichment.js';
+import { normalizeEnrichmentCharacters } from '../normalizers/rawg.js';
 import { createWorkCache } from '../utils/cache.js';
 import { logger } from '../utils/logger.js';
 import { join } from 'path';
@@ -41,7 +45,7 @@ export class AutoCrawlJob {
     this.sourceMap = {
       'anime': 'anilist',
       'manga': 'anilist',
-      // 'game': 'rawg', // Desabilitado temporariamente - RAWG não oferece personagens fictícios
+      'game': 'rawg', // RAWG: fontes de jogos
       // Preparado para futuras expansões
       'cartoon': 'tvmaze',
       'comic': 'marvel'
@@ -101,13 +105,28 @@ export class AutoCrawlJob {
       if (state) {
         // Converter array de volta para Set
         state.processedWorks = new Set(state.processedWorks || []);
+
+        // Também mesclar processedWorks do arquivo global (compatibilidade retroativa)
+        try {
+          const globalState = await readJson(join(this.baseDir, 'crawl-state.json'));
+          if (globalState?.processedWorks && Array.isArray(globalState.processedWorks)) {
+            for (const id of globalState.processedWorks) {
+              state.processedWorks.add(id.toString());
+            }
+            logger.info('🔁 Mesclando processedWorks do crawl-state.json (global)');
+          }
+        } catch (e) {
+          // Ignorar se global não existir
+        }
+
         return state;
       }
     } catch {
       // Arquivo não existe ou inválido
     }
     
-    return {
+    // Fallback inicial
+    const initialState = {
       lastCrawled: null,
       processedWorks: new Set(),
       queue: [],
@@ -117,6 +136,21 @@ export class AutoCrawlJob {
         lastRun: null
       }
     };
+
+    // Tentar mesclar global processedWorks se existir
+    try {
+      const globalState = await readJson(join(this.baseDir, 'crawl-state.json'));
+      if (globalState?.processedWorks && Array.isArray(globalState.processedWorks)) {
+        for (const id of globalState.processedWorks) {
+          initialState.processedWorks.add(id.toString());
+        }
+        logger.info('🔁 Mesclando processedWorks do crawl-state.json (global) no fallback');
+      }
+    } catch (e) {
+      // ignore
+    }
+
+    return initialState;
   }
 
   /**
@@ -135,7 +169,38 @@ export class AutoCrawlJob {
       }
     };
 
+    // Garantir que baseDir existe e é gravável antes de tentar escrever
+    try {
+      await ensureDir(this.baseDir);
+      await fs.access(this.baseDir, constants.W_OK);
+    } catch (err) {
+      // Erro de permissão ou outro problema com o diretório
+      const msg = `EACCES: permissão negada ao escrever em '${this.baseDir}'. Verifique permissões (chown/chmod) ou execute com um usuário que tenha acesso.`;
+      logger.error(`❌ ${msg}`);
+      throw new Error(msg);
+    }
+
     await writeJson(this.stateFile, stateToSave);
+
+    // Também atualizar o estado global (crawl-state.json) mesclando processedWorks e estatísticas
+    try {
+      const globalFile = join(this.baseDir, 'crawl-state.json');
+      const globalState = await readJson(globalFile, { processedWorks: [], stats: { totalProcessed: 0, totalCharacters: 0 } });
+
+      const mergedProcessed = new Set([...(globalState.processedWorks || []), ...stateToSave.processedWorks]);
+      globalState.processedWorks = Array.from(mergedProcessed);
+      globalState.lastCrawled = stateToSave.lastRun;
+
+      globalState.stats = globalState.stats || { totalProcessed: 0, totalCharacters: 0 };
+      globalState.stats.totalProcessed = Math.max(globalState.stats.totalProcessed || 0, stateToSave.stats.totalProcessed || 0);
+      globalState.stats.totalCharacters = Math.max(globalState.stats.totalCharacters || 0, stateToSave.stats.totalCharacters || 0);
+
+      await writeJson(globalFile, globalState);
+      logger.info('🔁 Estado global atualizado (crawl-state.json) com processedWorks');
+    } catch (e) {
+      // Não falhar se não conseguir atualizar global
+      logger.warn(`⚠️ Falha ao atualizar crawl-state.json global: ${e.message}`);
+    }
   }
 
   /**
@@ -259,7 +324,7 @@ export class AutoCrawlJob {
         baseDir: this.baseDir,
         source: this.source,
         type: work.type || this.type, // Usar tipo da obra ou padrão
-        enrich: this.enrich,
+        enrich: this.enrich || (work.type || this.type) === 'game', // Ativar enrichment automaticamente para jogos
         delayBetweenPages: this.delayBetweenPages,
         smartDelay: this.smartDelay,
         baseDelay: this.baseDelay,
@@ -277,7 +342,58 @@ export class AutoCrawlJob {
       });
 
       logger.success(`✅ ${work.title} processada com sucesso`);
-      logger.info(`   📊 ${result.characters?.total || 0} ${this.source === 'rawg' ? 'criadores' : 'personagens'}`);
+      const charLabel = result.characters?.source === 'enrichment' ? 'personagens' : (this.source === 'rawg' ? 'criadores' : 'personagens');
+      logger.info(`   📊 ${result.characters?.total || 0} ${charLabel}`);
+
+      // Se for jogo e estiver habilitado 'enrich', tentar buscar personagens via wikis/busca
+      if ((work.type || this.type) === 'game' && this.enrich) {
+        try {
+          const enrichmentCollector = createEnrichmentCollector();
+          const writer = createWriter(this.baseDir);
+
+          const enrichment = await enrichmentCollector.enrichWork(work.title, 'game');
+
+          let foundNames = [];
+
+          if (enrichment?.wikiLinks?.length) {
+            for (const link of enrichment.wikiLinks) {
+              const scraped = await enrichmentCollector.scrapeWikiBasic(link.url);
+              if (scraped?.characters?.length) {
+                foundNames.push(...scraped.characters);
+              }
+              if (foundNames.length >= this.characterLimit) break;
+            }
+          }
+
+          // Fallback: simple web search
+          if (!foundNames.length) {
+            const fallback = await enrichmentCollector.simpleWebSearch(`${work.title} characters`);
+            for (const f of fallback) {
+              if (!f.url) continue;
+              const scraped = await enrichmentCollector.scrapeWikiBasic(f.url);
+              if (scraped?.characters?.length) {
+                foundNames.push(...scraped.characters);
+              }
+              if (foundNames.length >= this.characterLimit) break;
+            }
+          }
+
+          foundNames = Array.from(new Set(foundNames)).slice(0, this.characterLimit);
+
+          if (foundNames.length) {
+            const normalized = normalizeEnrichmentCharacters(foundNames, result.work.id);
+            const upsertResult = await writer.upsertCharacters('game', result.work.id, normalized);
+            logger.info(`   🎮 Enriquecimento automático: adicionados ${upsertResult.added || normalized.length} personagens (via wikis/busca)`);
+
+            // Atualizar contagem local do resultado
+            result.characters = result.characters || { total: 0 };
+            result.characters.total += normalized.length;
+          }
+
+        } catch (err) {
+          logger.warn(`⚠️ Enriquecimento falhou para ${work.title}: ${err.message}`);
+        }
+      }
 
       // Marcar obra como processada no cache
       await this.cache.load();
@@ -586,8 +702,23 @@ AutoCrawlJob.prototype.growQueue = async function(options = {}) {
 
       state.queue = [...state.queue, ...worksToAdd];
 
+    } else if (this.type === 'game') {
+      // Usar discoverGames para obter uma lista de jogos populares
+      const newGames = await this.discoverGames(state);
+
+      const worksToAdd = newGames.slice(0, count).map(game => ({
+        id: game.id.toString(),
+        title: game.title,
+        popularity: game.popularity || game.rating || 0,
+        score: game.metacritic || game.rating || 0,
+        status: game.status || 'unknown'
+      }));
+
+      state.queue = [...state.queue, ...worksToAdd];
+      allNewWorks = [...allNewWorks, ...newGames];
+
     } else {
-      throw new Error(`Tipo '${this.type}' não suportado. Use 'anime' ou 'manga'. Jogos não são suportados por enquanto (RAWG não oferece personagens fictícios).`);
+      throw new Error(`Tipo '${this.type}' não suportado. Use 'anime', 'manga' ou 'game'.`);
     }
 
     await this.saveState(state);
