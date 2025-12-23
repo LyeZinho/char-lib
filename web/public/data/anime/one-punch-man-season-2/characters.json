@@ -1,6 +1,6 @@
 {
   "work_id": "one-punch-man-season-2",
-  "count": 25,
+  "count": 102,
   "characters": [
     {
       "id": "saitama",
@@ -635,7 +635,1804 @@
       "external_ids": {
         "anilist": 126976
       }
+    },
+    {
+      "id": "choze",
+      "name": "Choze",
+      "alt_names": [
+        "チョゼ"
+      ],
+      "role": "supporting",
+      "description": "Choze was a Martial Artist and user of The Fist Of The Pure Blood Master Race.\n\nAfter eating Monster Cells offered by Gouketsu, Choze became a Mysterious Being and a member of the Monster Association.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126978-XN2JE39hzS4f.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126978
+      }
+    },
+    {
+      "id": "orochi",
+      "name": "Orochi",
+      "alt_names": [
+        "オロチ",
+        "\"Monster King\" Orochi (\"怪人王\"オロチ)",
+        "Lord Orochi (オロチ様)"
+      ],
+      "role": "supporting",
+      "description": "\"Monster King\" Orochi, also called Lord Orochi, is the leader of the Monster Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126979-7UVXqbF8XxD2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126979
+      }
+    },
+    {
+      "id": "suiryu",
+      "name": "Suiryu",
+      "alt_names": [
+        "スイリュー",
+        "Suiryū"
+      ],
+      "role": "supporting",
+      "description": "Suiryu is a Martial Artist and user of the Void Fist. He is said to be a top contender in the Super Fight tournament. Suiryu is an easygoing and carefree man usually seen smiling and is a notorious playboy, who would rather spend time with women than training. He is also very eager to fight strong opponents and believes the reason for fighting is to live an easy life without worry. During fights, Suiryu holds back in an effort to make any fight more interesting, only using his legs during his fights and later defeating his opponents with one kick. While fighting he tries to make small talk and after he defeats his opponents, he sarcastically apologizes to them for being too strong. Suiryu is a martial arts prodigy. Despite having spent most of his time goofing off or not taking his lessons seriously, he still ultimately became one of the most revered martial artists in the world, considered a legend for winning four Super Fight tournaments in a row.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132939-DLMpET3S5YG6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132939
+      }
+    },
+    {
+      "id": "zombieman",
+      "name": "Zombieman",
+      "alt_names": [
+        "ゾンビマン",
+        "Subject No. 66"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human-Mutant\n__Abilities:__ Regeneration\n__S-Class:__ Rank 8\n__Affiliation:__ Hero Association\n\n__Personality:__ Zombieman is stated to be nihilistic, possibly due to the fact that he has \"died\" several times, therefore he is always calm. In addition, he prefers to work as a lone wolf and dislikes gathering, although he still respects common courtesy. However, he appears to have a sadistic side, since he enjoys killings that create rivers of blood, he is also shown to be a rather smart individual, with detective-like thinking. In comparison to the other S-Class heroes, Zombieman is more thoughtful and respectful.\n\n__Abilities__: Zombieman possesses one of the best regeneration capabilities in the series. He is able to regenerate any part of his body no matter how severe the injury is, and he was able to heal his broken arms in an instant. He needs only a few minutes to recover from an extremely mutilated state and regrow his left arm, however this regeneration does not give Zombieman full immortality, as he will die if he is reduced to mincemeat. Zombieman has an incredible threshold for extensive physical activity, displaying one of the most impressive feats of stamina in the series and being able to fight for hours on end while his expedient recovery rate handles the more serious of injuries he suffers.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133835-7dbqvi4YzpRC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133835
+      }
+    },
+    {
+      "id": "isamu",
+      "name": "Isamu",
+      "alt_names": [
+        "イサム",
+        "Doutei (童帝)",
+        "Child Emperor"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 135cm (4'5\")\n__Race:__ Human\n__Occupation:__ Superhero\n__Level:__ S-Class; Rank: 5\n__Affiliation:__ Heroes Association\n\nChild Emperor is a young boy with large eyes. He wears a plain T-shirt with two buttons both of which are buttoned, along with a black school bag on his back.\n\nAs a genius, the Child Emperor values education, which can be seen when he mentions about going to cram school even after hearing about the Earth being in danger. He easily becomes infuriated when being labeled as childish by others. He is very analytical, observing the situation and formulating plans in a calm and collected manner.",
+      "metadata": {
+        "gender": "male",
+        "age": "10",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137661-G30CrZkCLAWx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137661
+      }
+    },
+    {
+      "id": "sitch",
+      "name": "Sitch",
+      "alt_names": [
+        "シッチ",
+        "Shicchi"
+      ],
+      "role": "supporting",
+      "description": "Sitch (シッチ, Shicchi) is the Minister Officer of Justice for the Hero Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137876-DqyrUJOrwEU0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137876
+      }
+    },
+    {
+      "id": "matsuge",
+      "name": "Matsuge",
+      "alt_names": [
+        "マツゲ",
+        "Eyelashes"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137879-bKXxF6FGc3Ck.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137879
+      }
+    },
+    {
+      "id": "charanko",
+      "name": "Charanko",
+      "alt_names": [
+        "チャランコ"
+      ],
+      "role": "supporting",
+      "description": "Charanko is a Martial Artist and Bang's last and only disciple before he was expelled during Garou's hero hunt.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138979-0DWXgUOmruFL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138979
+      }
+    },
+    {
+      "id": "kudou-kishi",
+      "name": "Kudou Kishi",
+      "alt_names": [
+        "駆動騎士",
+        "Drive Knight"
+      ],
+      "role": "supporting",
+      "description": "Drive Knight (駆動騎士, Kudō Kishi) is the S-Class Rank 9 professional hero for the Hero Association.Drive Knight has long black hair and wears a white mask. His mask has a single horizontal slit for the eyes, and a single red shining eye in the center of the slit. The mask has three small vertical slits where his mouth should be. His armor is rather simplistic, being similar to a medieval black knights' armor.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138980-hp9fsJnwCF1M.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138980
+      }
+    },
+    {
+      "id": "senkou-no-flash",
+      "name": "Senkou no Flash",
+      "alt_names": [
+        "閃光のフラッシュ",
+        "Flashy Flash"
+      ],
+      "role": "supporting",
+      "description": "__Race__: Human\n__Age__: 25\n__Abilities__: Superhuman Speed and Agility, Master Swordsman, Ninjutsu Master\n__Occupation__: Superhero\n__S-Class__: Rank 13\n\n__Personality__: Flashy Flash is a calm and serious man but he also appears to be quite arrogant. Despite his collected composure, Flashy Flash has a tendency to be hasty and reckless. \n\n__Abilities__: As an S-Class hero, Flashy Flash is very powerful. In terms of speed, Flashy Flash is arguably the fastest S-Class hero in the association, except for Blast and Saitama. Flashy was shown to be strong enough to combat and kill two Dragon-level threats simultaneously. He can deliver powerful kicks that can stun Dragon-level monsters. He can also easily cut massive pieces of stone and create giant explosions throughout his fighting.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138981-74nPW2rXVews.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138981
+      }
+    },
+    {
+      "id": "bomb",
+      "name": "Bomb",
+      "alt_names": [
+        "ボンブ",
+        "Bonbu "
+      ],
+      "role": "supporting",
+      "description": "Bomb  is Bang's older brother as well as a dojo master. He and Bang are the two greatest masters of the Martial Arts world.[2] He's one of the few people who are aware of Saitama's true strength and is part of the Saitama Group.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138982-5QRetWxLmQYo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138982
+      }
+    },
+    {
+      "id": "chainntoad",
+      "name": "Chain'n'toad",
+      "alt_names": [
+        "鎖ガマ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b154766-IykwePUTgdTK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 154766
+      }
+    },
+    {
+      "id": "kamikaze",
+      "name": "Kamikaze",
+      "alt_names": [
+        "カミカゼ",
+        "Atomic Samurai (アトミック侍)",
+        "Earth's Strongest Swordmaster (地球最強の剣聖)",
+        "Chikyuu Saikyou no Kensei"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human\n__Abilities:__ Superhuman Physical Prowess, Master Swordsmanship\n__Occupation:__ Superhero, Swordsmanship Teacher\n__Affiliation:__ Hero Association, Council of Swordmasters\n__Level:__ S-Class Rank 4\n\n__Personality:__\nAtomic Samurai has a rather prideful and jocular personality as seen when he refused to shake Saitama's hand, telling him that he only acknowledges the strong, and telling Saitama that he would greet him properly only if he makes it to the higher ranks of S-Class. Atomic Samurai also enjoys his swordplay and makes a game out of it, often taunting monsters and showing off as he cuts them to pieces, Kamikaze also is straightforward to a humorous degree in many ways, and is incredibly confident and cocky.\n\n__Abilities:__ Atomic Samurai is one of the top S-Class heroes. He is regarded as one of the most powerful of them, and the strongest backup hero in the Hero Association, he is also considered Earth's strongest swordsman. Atomic Samurai possesses extreme levels of speed, being able to cut his opponents to pieces in the blink of an eye using his sword.",
+      "metadata": {
+        "gender": "male",
+        "age": "37",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b154767-B8TieN81pfMI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 154767
+      }
+    },
+    {
+      "id": "tanktop-master",
+      "name": "Tanktop Master",
+      "alt_names": [
+        "タンクトップマスター"
+      ],
+      "role": "supporting",
+      "description": "**Race:** Human\n**Occupation:** Superhero\n**Level:** S-Class; Rank: 14\n**Affiliation:** The Heroes Association\n\nMuch like the other heroes with the Tanktop motif, Tanktop Tiger and Tanktop Black Hole, Tanktop Master is a muscular man with a tanktop and short hair. However, unlike the other Tanktop heroes, no known color is associated with Tanktop Master's name. In the first anniversary color spread of the manga, he is shown with blonde hair and a blue tank top.\n\nTanktop Master has a chivalrous nature, which can be seen when he noted that even if Tornado is ranked 2nd, he should not let a \"little girl\" handle dangerous enemies on her own, despite the fact that Tornado is actually an adult. He is also unafraid to admit defeat, for example, when he was outclassed by Tornado during the encounter of Dark Matter Thieves' aircraft.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156125-xkTuQF1zpOuw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156125
+      }
+    },
+    {
+      "id": "chougoukin-kurobikari",
+      "name": "Chougoukin Kurobikari",
+      "alt_names": [
+        "超合金クロビカリ",
+        "Superalloy Blackluster",
+        "Superalloy Darkshine"
+      ],
+      "role": "supporting",
+      "description": "**Race:** Human\n**Occupation:** Superhero\n\nSuperalloy Blackluster is a large, bald man with round eyes and a defined jawline. He is very muscular, with a thick neck, large and well-defined pectoral and abdominal muscles and large, muscular arms.",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156126-QQpzi77vVx45.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156126
+      }
+    },
+    {
+      "id": "kaijin-hime-do-s",
+      "name": "Kaijin Hime Do-S",
+      "alt_names": [
+        "怪人姫弩S",
+        "Do-S (弩S)",
+        "Monster Princess Super S"
+      ],
+      "role": "supporting",
+      "description": "Kaijin Hime Do-S is a female dominatrix monster of the Monster Association who uses her whip to turn her opponents into love slaves. She is able to enslave the Blizzard Bunch, but Blizzard herself is able to resist.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156896-p8lSN9gOtqtF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156896
+      }
+    },
+    {
+      "id": "nigamushi",
+      "name": "Nigamushi",
+      "alt_names": [
+        "ニガムシ",
+        "Sour Face"
+      ],
+      "role": "supporting",
+      "description": "Sour Face is a Martial Artist and user of the Sour Face Style Martial Arts.",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156897-0vOc1aH3zr0W.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156897
+      }
+    },
+    {
+      "id": "pineapple",
+      "name": "Pineapple",
+      "alt_names": [
+        "パイナップル"
+      ],
+      "role": "supporting",
+      "description": "Pineapple is a B-Class professional hero for the Hero Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156898-is293QY1NMXl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156898
+      }
+    },
+    {
+      "id": "mohican",
+      "name": "Mohican",
+      "alt_names": [
+        "モヒカン"
+      ],
+      "role": "supporting",
+      "description": "Mohican is a C-Class professional hero for the Hero Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156899-HhnenHLbWOW6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156899
+      }
+    },
+    {
+      "id": "lin-lin",
+      "name": "Lin Lin",
+      "alt_names": [
+        "リンリン"
+      ],
+      "role": "supporting",
+      "description": "Lin Lin is a Martial Artist and user of the Palm Bell Fist.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158071-WfuwmSg8dESF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158071
+      }
+    },
+    {
+      "id": "narinki",
+      "name": "Narinki",
+      "alt_names": [
+        "ナリンキ"
+      ],
+      "role": "supporting",
+      "description": "Narinki is a high-raking executive and one of the primary sponsors of the Hero Association. His fund contributes to 7% of the operation at the association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171654-5j1Lfd5hHBMO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171654
+      }
+    },
+    {
+      "id": "death-gatling",
+      "name": "Death Gatling",
+      "alt_names": [
+        "デスガトリング"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203397-2veYKOzKEmjC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 203397
+      }
+    },
+    {
+      "id": "mukade-chourou",
+      "name": "Mukade Chourou",
+      "alt_names": [
+        "ムカデ長老",
+        "Elder Centipede",
+        "Centichoro"
+      ],
+      "role": "supporting",
+      "description": "Elder centipede was a Dragon-level Mysterious Being and an executive member of the Monster Association.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209311-lxtztbIKkYVf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209311
+      }
+    },
+    {
+      "id": "marshall-gorilla",
+      "name": "Marshall Gorilla",
+      "alt_names": [
+        "マーシャルゴリラ"
+      ],
+      "role": "supporting",
+      "description": "Marshall Gorilla is a Tiger-Level monster who works for the Monster Association. He uses a knife to slash opponents and even though he was only a Tiger-Level threat, single handedly defeated Heavy Kong, who was an A class hero. However he got knocked out in one punch by Armored Gorilla.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241964-pX1cH4wOfUOE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241964
+      }
+    },
+    {
+      "id": "zenko",
+      "name": "Zenko",
+      "alt_names": [
+        "ゼンコ"
+      ],
+      "role": "supporting",
+      "description": "Zenko is the hot-headed younger sister of Metal Bat. She hates violence and does not stand for it at all. She's also very protective and caring for her big brother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241997-qgPd19I0ovgS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241997
+      }
+    },
+    {
+      "id": "tanktop-vegetarian",
+      "name": "Tanktop Vegetarian",
+      "alt_names": [
+        "タンクトップベジタリアン"
+      ],
+      "role": "supporting",
+      "description": "Tanktop Vegetarian is the A-Class Rank 9 professional hero of the Hero Association. He is second in command in the Tank Topper Army.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b242001-XeLhw8ZM9ACY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 242001
+      }
+    },
+    {
+      "id": "tanktop-hatter",
+      "name": "Tanktop Hatter",
+      "alt_names": [
+        "タンクトップハッター"
+      ],
+      "role": "supporting",
+      "description": "Tanktop Hatter is a muscular man with a tank top, he also has medium length hair and sports a bowler hat. Tanktop Hatter started wearing a hat as his lucky charm because an oracle told him so.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b242008-LqtHTeIywuPA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 242008
+      }
+    },
+    {
+      "id": "haragiri",
+      "name": "Haragiri",
+      "alt_names": [
+        "ハラギリ"
+      ],
+      "role": "supporting",
+      "description": "A former member of the Council of Swordsmasters who used a Katana, He unfortunately ate a Monster Cell and was killed by Atomic Samurai shortly afterwards.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b263526-3TqX18JYhBMG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 263526
+      }
+    },
+    {
+      "id": "hige-shokuin",
+      "name": "Hige Shokuin",
+      "alt_names": [
+        "ヒゲ職員"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b286886-VlwAMnkO0LJ3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 286886
+      }
+    },
+    {
+      "id": "megane-shokuin",
+      "name": "Megane Shokuin",
+      "alt_names": [
+        "メガネ職員"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290637-FEcZoNODgdDa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290637
+      }
+    },
+    {
+      "id": "waganma",
+      "name": "Waganma",
+      "alt_names": [
+        "ワガンマ"
+      ],
+      "role": "supporting",
+      "description": "Narinki's son.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b291781-HyFpycl1IpAM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 291781
+      }
+    },
+    {
+      "id": "gyoro-gyoro",
+      "name": "Gyoro Gyoro",
+      "alt_names": [
+        "ギョロギョロ"
+      ],
+      "role": "supporting",
+      "description": "A monster and military advisor of the Monster Association. He is [Orochi](https://anilist.co/character/126979)'s closest advisor.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b298214-tpwFu6ou0QvC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 298214
+      }
+    },
+    {
+      "id": "exma",
+      "name": "Exma",
+      "alt_names": [
+        "エクスマ"
+      ],
+      "role": "supporting",
+      "description": "Executive for the Hero Association. She is the deputy chief of the Hero Disciplinary Supervision Division",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b307001-qIlKSYfvrMf6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 307001
+      }
+    },
+    {
+      "id": "blue-fire",
+      "name": "Blue Fire",
+      "alt_names": [
+        "ブルーファイア"
+      ],
+      "role": "supporting",
+      "description": "Blue Fire is an A-Class Rank 6 professional hero for the Hero Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326805-GVtOkppVDhB6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326805
+      }
+    },
+    {
+      "id": "smile-man",
+      "name": "Smile Man",
+      "alt_names": [
+        "スマイルマン"
+      ],
+      "role": "supporting",
+      "description": "Smile Man is a A-Class Rank 27 professional hero for the Hero Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326813-8rsnJ5bdRVtZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326813
+      }
+    },
+    {
+      "id": "kakusei-gokiburi",
+      "name": "Kakusei Gokiburi",
+      "alt_names": [
+        "覚醒ゴキブリ",
+        "Awakened Cockroach"
+      ],
+      "role": "supporting",
+      "description": "Awakened Cockroach is a demon level Mysterious Beings and a member of the Monster Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327312-hVlqYfzS3PJT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327312
+      }
+    },
+    {
+      "id": "kusari-ga-ma",
+      "name": "Kusari Ga Ma",
+      "alt_names": [
+        "鎖がマ",
+        "Chain'n'toad"
+      ],
+      "role": "supporting",
+      "description": "Chain'n'toad is an A-Class professional hero for the Hero Association.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327314-6kqrqXzwBgKO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327314
+      }
+    },
+    {
+      "id": "wild-horn",
+      "name": "Wild Horn",
+      "alt_names": [
+        "ワイルド ホーン"
+      ],
+      "role": "supporting",
+      "description": "Wild Horn is a B-Class professional hero of the Hero Association.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327315-Nk3Wn9f5AQFT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327315
+      }
+    },
+    {
+      "id": "hitotorigusa",
+      "name": "Hitotorigusa",
+      "alt_names": [
+        "ヒトトリグサ",
+        "Venus Mantrap"
+      ],
+      "role": "supporting",
+      "description": "Venus Mantrap is a Mysterious Being that attacks Narinki, the sponsor of the Hero Association with Junior Centipede.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327317-2l9SrwXqrnIc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327317
+      }
+    },
+    {
+      "id": "tareo",
+      "name": "Tareo",
+      "alt_names": [
+        "タレオ",
+        "Busaiku (ブサイク)"
+      ],
+      "role": "supporting",
+      "description": "Tareo is a child that Garou occasionally talks to.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327318-J2plZxjUZFJc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327318
+      }
+    },
+    {
+      "id": "shitanobiiru",
+      "name": "Shitanobiiru",
+      "alt_names": [
+        "シタノビール",
+        "Tongue Stretcher"
+      ],
+      "role": "supporting",
+      "description": "Tongue Stretcher is a Mysterious Being that assaults beautiful women.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327319-Xr7JdW2sXwIe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327319
+      }
+    },
+    {
+      "id": "zakos",
+      "name": "Zakos",
+      "alt_names": [
+        "ザッコス"
+      ],
+      "role": "supporting",
+      "description": "Zakos is a competitor in the martial arts tournament. He introduces the rules of the tournament to Saitama. He comes out ridiculed from his fight against Saitama.\nFaced with the association of monsters, he refused to transform himself and was beaten.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327320-EHqMA9BpXvr8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327320
+      }
+    },
+    {
+      "id": "rosie",
+      "name": "Rosie",
+      "alt_names": [
+        "ロジー"
+      ],
+      "role": "supporting",
+      "description": "Rosie is a martial artist and user of the Psycho Analysis Martial Arts.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327321-ndP5900rUpNx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327321
+      }
+    },
+    {
+      "id": "hamukichi",
+      "name": "Hamukichi",
+      "alt_names": [
+        "ハムキチ"
+      ],
+      "role": "supporting",
+      "description": "Hamukichi is a Martial Artist and user of the Sunflower Dojo's Gentle Self Defense. He ran a dojo to teach women and children self-defense.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327322-4X2SlMEb6SkB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327322
+      }
+    },
+    {
+      "id": "kata-pads",
+      "name": "Kata Pads",
+      "alt_names": [
+        "肩パッド",
+        "Shoulderpads"
+      ],
+      "role": "supporting",
+      "description": "Shoulderpads is a C-Class professional hero for the Hero Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327323-vDWcQxrauyEK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327323
+      }
+    },
+    {
+      "id": "phoenix-otoko",
+      "name": "Phoenix Otoko",
+      "alt_names": [
+        "フェニックス男",
+        "Phoenix Man",
+        "Tensei Phoenix Otoko (転生フェニックス男)"
+      ],
+      "role": "supporting",
+      "description": "Phoenix Man is a Mysterious Being who first appears during the attack in S-City accompanying Elder Centipede as an ally. He is a member of the Monster Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327324-QaRMCW2VtpvK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327324
+      }
+    },
+    {
+      "id": "suppon",
+      "name": "Suppon",
+      "alt_names": [
+        "人スッポン"
+      ],
+      "role": "supporting",
+      "description": "Suppon is a Mysterious Being.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327325-THKZnARjKc1D.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327325
+      }
+    },
+    {
+      "id": "mentai",
+      "name": "Mentai",
+      "alt_names": [
+        "メンタイ"
+      ],
+      "role": "supporting",
+      "description": "Mentai is a Martial Artist and user of the Spice Fist.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327326-qDZFKBU1iayF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327326
+      }
+    },
+    {
+      "id": "sairesuraa",
+      "name": "Sairesuraa",
+      "alt_names": [
+        "サイレスラー",
+        "Rhino Wrestler"
+      ],
+      "role": "supporting",
+      "description": "Rhino Wrestler is a Mysterious Being belonging to the Monster Association.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327327-uacMBUynZ9v6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327327
+      }
+    },
+    {
+      "id": "mukade-senpai",
+      "name": "Mukade Senpai",
+      "alt_names": [
+        "ムカデ先輩",
+        "Senior Centipede"
+      ],
+      "role": "supporting",
+      "description": "Senior Centipede is a Mysterious Being.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327328-caMB5T8vY5z2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327328
+      }
+    },
+    {
+      "id": "hedorokurage",
+      "name": "Hedorokurage",
+      "alt_names": [
+        "ヘドロクラゲ",
+        "Sludge Jellyfish"
+      ],
+      "role": "supporting",
+      "description": "A mysterious being.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327329-EMOpo5E9YgKh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327329
+      }
+    },
+    {
+      "id": "maiko-plasma",
+      "name": "Maiko Plasma",
+      "alt_names": [
+        "舞妓プラズマ"
+      ],
+      "role": "supporting",
+      "description": "Maiko Plasma is one of the two Monster Association monsters assigned to attack D-City.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327330-cgbMcungc3Ld.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327330
+      }
+    },
+    {
+      "id": "mukade-kouhai",
+      "name": "Mukade Kouhai",
+      "alt_names": [
+        "ムカデ後輩",
+        "Junior Centipede"
+      ],
+      "role": "supporting",
+      "description": "Junior Centipede is a Mysterious Being that attacks Narinki and his son Waganma.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327331-3TXLeVM0drUP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327331
+      }
+    },
+    {
+      "id": "yamazaru",
+      "name": "Yamazaru",
+      "alt_names": [
+        "山猿",
+        "Mountain Ape"
+      ],
+      "role": "supporting",
+      "description": "Mountain Ape is the B-Class Rank 3 Hero of the Hero Association. He is part of the Blizzard Group, a group of B-Class heroes led by Fubuki, ranking behind only Fubuki herself and Eyelashes.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327333-33wMtpse8Mtm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327333
+      }
+    },
+    {
+      "id": "tejina-man",
+      "name": "Tejina Man",
+      "alt_names": [
+        "テジナーマン",
+        "Magic Trick Man"
+      ],
+      "role": "supporting",
+      "description": "Magic Trick Man is an A-Class Rank 7 professional hero for the Hero Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327335-vrBfWuBADKb7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327335
+      }
+    },
+    {
+      "id": "gouka-no-flame",
+      "name": "Gouka no Flame",
+      "alt_names": [
+        "業火のフレイム",
+        "Hellfire Flame"
+      ],
+      "role": "supporting",
+      "description": "Hellfire Flame is a ninja partner of Gale Wind who both came from the 37th Graduation Class \"Golden\" of The Village . In the past, they joined the Monster Association to become stronger.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327336-fUXdsVVINV3C.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327336
+      }
+    },
+    {
+      "id": "jakumen",
+      "name": "Jakumen",
+      "alt_names": [
+        "ジャクメン"
+      ],
+      "role": "supporting",
+      "description": "Jakumen is a Martial Artist and user of the Giga Pro Wrestling.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327337-eoBlMPmJZ5qE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327337
+      }
+    },
+    {
+      "id": "juu-sensha-fundoshi",
+      "name": "Juu Sensha Fundoshi",
+      "alt_names": [
+        "重戦車フンドシ",
+        "Heavy Tank Loincloth"
+      ],
+      "role": "supporting",
+      "description": "Heavy Tank Loincloth is the A-Class professional hero for the Hero Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327338-wR67jx7geCeu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327338
+      }
+    },
+    {
+      "id": "gouketsu",
+      "name": "Gouketsu",
+      "alt_names": [
+        "ゴウケツ"
+      ],
+      "role": "supporting",
+      "description": "Gouketsu was a Dragon-level Mysterious Being and an executive member of the Monster Association. He is the primary antagonist of the Super Fight Arc.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327339-WpYfdaJVXy0w.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327339
+      }
+    },
+    {
+      "id": "gun-gun",
+      "name": "Gun Gun",
+      "alt_names": [
+        "ガンガン"
+      ],
+      "role": "supporting",
+      "description": "Gun Gun is a B-Class professional hero for the Hero Association with a Western-theme outfit and specializes in dual revolvers.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327340-aJ8FWk4ovrQG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327340
+      }
+    },
+    {
+      "id": "gyoffrey",
+      "name": "Gyoffrey",
+      "alt_names": [
+        "ギョフリー"
+      ],
+      "role": "supporting",
+      "description": "Gyoffrey is a Mysterious Being and a member of the Monster Association.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327341-fX5k4gfAzIqW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327341
+      }
+    },
+    {
+      "id": "gatlin",
+      "name": "Gatlin",
+      "alt_names": [
+        "ガトリン"
+      ],
+      "role": "supporting",
+      "description": "Gatlin is a Martial Artist and user of the Multi-Hit Style.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327342-kdt69pn2nYJq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327342
+      }
+    },
+    {
+      "id": "megane",
+      "name": "Megane",
+      "alt_names": [
+        "メガネ",
+        "Glasses"
+      ],
+      "role": "supporting",
+      "description": "Glasses is the B-Class Rank 20 professional hero for the Hero Association. He is part of the Blizzard Group, a group of B-Class heroes led by Fubuki.\n~!Glasses is one of the few professional heroes aware of Saitama's true strength, after witnessing him easily destroy a monster that even Tatsumaki could not deal with. This encounter changed Glasses' perspective on heroism and led him to leave the Blizzard Group in order to pursue strength of his own.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327343-q2BCCMsya7NF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327343
+      }
+    },
+    {
+      "id": "hayete-no-wind",
+      "name": "Hayete no Wind",
+      "alt_names": [
+        "疾風のウィンド",
+        "Gale Wind"
+      ],
+      "role": "supporting",
+      "description": "Ninja from the Ninja Village. He is from the 37th graduating class like Hellfire Flame. He and Flame joined the Monster Association sometime in the past to rule the world.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327344-Sbus5XU6tgtG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327344
+      }
+    },
+    {
+      "id": "kaohagi",
+      "name": "Kaohagi",
+      "alt_names": [
+        "カオハギ",
+        "Face Ripper"
+      ],
+      "role": "supporting",
+      "description": "Face Ripper is a Demon-level mysterious being and a member of the Monster Association.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327345-9PMLR7CJq6D1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327345
+      }
+    },
+    {
+      "id": "g4",
+      "name": "G4",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "A machine god create by the \"Organization\" who had been assigned to destroy King in order to record battle data and further increase his power. His power is so great that he has been given the disaster level Demon. He was created by Doctor Stench.\n\nNot much is known about his battle style other than he prefers to flail punches around, but it is known that he wields a sword, he also can use a built in jet pack to recover from falls.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327346-dwp5DP9f4cPJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327346
+      }
+    },
+    {
+      "id": "butterfly-dx",
+      "name": "Butterfly DX",
+      "alt_names": [
+        "バタフライDX"
+      ],
+      "role": "supporting",
+      "description": "Butterfly DX is the A-Class Rank 16 professional hero of the Hero Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327347-gFFeZmuA7FoF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327347
+      }
+    },
+    {
+      "id": "benpatsu",
+      "name": "Benpatsu",
+      "alt_names": [
+        "ベンパッツ"
+      ],
+      "role": "supporting",
+      "description": "Benpatsu is a Martial Artist and user of the Harsh Path Style.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327348-p110E1vah1R6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327348
+      }
+    },
+    {
+      "id": "ganriki",
+      "name": "Ganriki",
+      "alt_names": [
+        "ガンリキ",
+        "Eyesight"
+      ],
+      "role": "supporting",
+      "description": "Eyesight was a Demon-level Mysterious Beings that attacked Y-City during the Monster Raid. Eyesight was a member of the Monster Association.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327349-xVfzesdlN6pv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327349
+      }
+    },
+    {
+      "id": "bakuzan",
+      "name": "Bakuzan",
+      "alt_names": [
+        "バクザン",
+        "Strongest Man in the History of Super Fight"
+      ],
+      "role": "supporting",
+      "description": "Bakuzan is a Martial Artist and user of the Dark Hell Assassination. He was said to be a top contender in the martial arts tournament.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327350-A19CT8DZAU99.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327350
+      }
+    },
+    {
+      "id": "darkness-blade",
+      "name": "Darkness Blade",
+      "alt_names": [],
+      "role": "minor",
+      "description": "__Race:__ Human\n__Abilities:__ Weapons\n__Superhero Level:__ B-Class\n__Rank:__ 61\n__Affiliation:__ Heroes\n__Association Debut:__ OPM Extra Chapter\n\nDarkness Blade is a rookie B-Class Superhero, rank 61. He tried to stand up against the 170,000-Year Magicicada Larva but was quickly defeated and returned to Shelter Nr. 7. He has an intimidating aura and is confident of his own power. He speaks in a very sophisticated way, almost poetic and very heroic, but as commented on by Red Muffler, sounds pretty stupid.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/81937.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81937
+      }
+    },
+    {
+      "id": "nyan",
+      "name": "Nyan",
+      "alt_names": [
+        "ニャーン",
+        "Nyaan"
+      ],
+      "role": "minor",
+      "description": "Nyan was once a house cat, who became a monster due to hatred of his owner. He disliked her affection and monsterized, becoming a Dragon-Level monster of the Monster Association as well as becoming a cadre of the MA. He has super strength, durability, speed and other usual powers. However his stand-out ability is his elasticity, which allows him to travel through cracks that are bigger than 3 millimeters.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241944-m8xrJxZck0eJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241944
+      }
+    },
+    {
+      "id": "nichirin",
+      "name": "Nichirin",
+      "alt_names": [
+        "ニチリン"
+      ],
+      "role": "minor",
+      "description": "Head of the Council of Swordsmasters. In the past he was also the sensei of Spring Mustachio. His weapon of choice is a cane katana.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b263523-7vdeCLRNsMnW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 263523
+      }
+    },
+    {
+      "id": "amahare",
+      "name": "Amahare",
+      "alt_names": [
+        "アマハレ"
+      ],
+      "role": "minor",
+      "description": "A member of the Council of Swordsmasters. He carries twin jian swords in battle. He also has a pair of double blades mounted on his footwear. Father of [Yuta](https://anilist.co/character/310063/).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b263524-cS8hVHBQWRkc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 263524
+      }
+    },
+    {
+      "id": "zanbai",
+      "name": "Zanbai",
+      "alt_names": [
+        "ザンバイ"
+      ],
+      "role": "minor",
+      "description": "A member of the Council of Swordmasters. Father of [Shidou](https://anilist.co/character/310064).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b263525-qe9lum2Qb1qE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 263525
+      }
+    },
+    {
+      "id": "zeimeet",
+      "name": "Zeimeet",
+      "alt_names": [
+        "ゼイミート"
+      ],
+      "role": "minor",
+      "description": "Zeimeet is an officer for the Hero Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327316-hDVbBwosEIVJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327316
+      }
+    },
+    {
+      "id": "sekingar",
+      "name": "Sekingar",
+      "alt_names": [
+        "セキンガル"
+      ],
+      "role": "minor",
+      "description": "Executive in the Hero Association. He commands the mission to rescue Waganma.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b307003-zfN8qAKhnlXb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 307003
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:34:17.099Z"
+  "updated_at": "2025-12-23T04:41:46.883Z"
 }

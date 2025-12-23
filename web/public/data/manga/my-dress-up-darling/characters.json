@@ -1,6 +1,6 @@
 {
   "work_id": "my-dress-up-darling",
-  "count": 25,
+  "count": 33,
   "characters": [
     {
       "id": "marin-kitagawa",
@@ -591,7 +591,195 @@
       "external_ids": {
         "anilist": 260980
       }
+    },
+    {
+      "id": "tae-hanaoka",
+      "name": "Tae Hanaoka",
+      "alt_names": [
+        "花岡多絵",
+        "Hanaoka-sensei (花岡先生)",
+        "Hana-chan (花ちゃん)"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b262590-YUr2IDiN0GYB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 262590
+      }
+    },
+    {
+      "id": "ishi",
+      "name": "Ishi",
+      "alt_names": [
+        "医師"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b262591-sY78O11cYJ3R.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 262591
+      }
+    },
+    {
+      "id": "shion-nikaidou",
+      "name": "Shion Nikaidou",
+      "alt_names": [
+        "二階堂シオン",
+        "Princess Lily",
+        "Black Lily"
+      ],
+      "role": "minor",
+      "description": "Shion is the main character from the in-story anime 'Flower Princess Blaze'. Sajuna wants Gojou to make a cosplay outfit based on this characters' 'Black Lily' form.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264037-6TxWVazNnEjx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 264037
+      }
+    },
+    {
+      "id": "neon-nikaidou",
+      "name": "Neon Nikaidou",
+      "alt_names": [
+        "二階堂ネオン",
+        "Black Lobelia"
+      ],
+      "role": "minor",
+      "description": "Shion's sister and main enemy from the in-story anime 'Flower Princess Blaze'.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264038-M0nxAx6IfUqw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 264038
+      }
+    },
+    {
+      "id": "flower-pet",
+      "name": "Flower Pet",
+      "alt_names": [
+        "フラワーペット"
+      ],
+      "role": "minor",
+      "description": "Shion's magical companion.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264039-NtahTcTkPrwA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 264039
+      }
+    },
+    {
+      "id": "neon-no-flower-pet",
+      "name": "Neon no Flower Pet",
+      "alt_names": [
+        "ネオンのフラワーペット",
+        "Neon's Flower Pet"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b267153-R7Qh9sOmk2Ak.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 267153
+      }
+    },
+    {
+      "id": "mirai-tengeji",
+      "name": "Mirai Tengeji",
+      "alt_names": [
+        "天花寺ミライ"
+      ],
+      "role": "minor",
+      "description": "The main heroine of fictional anime Flower Princess Retsu!!",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275521-FxjjrI6l6Kum.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275521
+      }
+    },
+    {
+      "id": "kaname",
+      "name": "Kaname",
+      "alt_names": [
+        "要"
+      ],
+      "role": "minor",
+      "description": "The main character of the in-universe \"SuccIDK\" manga series.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275523-4JmDckw35lIV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275523
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:35:07.734Z"
+  "updated_at": "2025-12-23T08:39:59.063Z"
 }

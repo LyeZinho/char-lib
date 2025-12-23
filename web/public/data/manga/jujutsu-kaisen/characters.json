@@ -1,6 +1,6 @@
 {
   "work_id": "jujutsu-kaisen",
-  "count": 49,
+  "count": 123,
   "characters": [
     {
       "id": "yuuji-itadori",
@@ -1191,7 +1191,1737 @@
       "external_ids": {
         "anilist": 227443
       }
+    },
+    {
+      "id": "mimiko-hasaba",
+      "name": "Mimiko Hasaba",
+      "alt_names": [
+        "枷場美々子"
+      ],
+      "role": "supporting",
+      "description": "Mimiko Hasaba is a character in Jujutsu Kaisen and Jujutsu Kaisen 0: Jujutsu High. She is an ally of Suguru Geto.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b228986-TXJuABOhrxRA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 228986
+      }
+    },
+    {
+      "id": "nanako-hasaba",
+      "name": "Nanako Hasaba",
+      "alt_names": [
+        "枷場菜々子"
+      ],
+      "role": "supporting",
+      "description": "Nanako Hasaba is a character in Jujutsu Kaisen and Jujutsu Kaisen 0: Jujutsu High. She is [Mimiko](https://anilist.co/character/228986/Mimiko-Hasaba)'s twin sister and they were both allies of Suguru Geto.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b228987-Su63YTP33b6W.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 228987
+      }
+    },
+    {
+      "id": "ranta-zenin",
+      "name": "Ranta Zenin",
+      "alt_names": [
+        "禪院蘭太"
+      ],
+      "role": "supporting",
+      "description": "He is a member of the Zenin Family and its elite unit of jujutsu sorcerers, the Hei.\n\n~!He is later killed by Maki after confronting her with Jinichi.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229951-JcBkO8gnEult.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229951
+      }
+    },
+    {
+      "id": "jinichi-zenin",
+      "name": "Jinichi Zenin",
+      "alt_names": [
+        "禪院甚壱",
+        "Jin'ichi"
+      ],
+      "role": "supporting",
+      "description": "He is a high ranking member of the Zenin Family and a member of its elite unit of jujutsu sorcerers, the Hei.\n\n~!He is later decapitated by Maki after their confrontation.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229952-mi0WoIU33kjI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229952
+      }
+    },
+    {
+      "id": "choujurou-zenin",
+      "name": "Choujurou Zenin",
+      "alt_names": [
+        "禪院長寿郎",
+        "Chōjurō"
+      ],
+      "role": "supporting",
+      "description": "Heis a member of the Zenin Family and its elite unit of jujutsu sorcerers, the Hei.\n\n~!He is later killed by Maki after getting stabbed in the throat with one of her blades.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229953-wzhSuoKTdCnu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229953
+      }
+    },
+    {
+      "id": "nobuaki-zenin",
+      "name": "Nobuaki Zenin",
+      "alt_names": [
+        "禪院信朗"
+      ],
+      "role": "supporting",
+      "description": "He is a member of the Zenin Family and captain of its Kukuru Unit, which is a unit specialized in martial arts for clan members that aren't sorcerers. \n\n~!He is later stabbed in the throat by Maki after confronting her in her rampage.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229954-s7hYTlueHFIj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229954
+      }
+    },
+    {
+      "id": "kirara-hoshi",
+      "name": "Kirara Hoshi",
+      "alt_names": [
+        "星キララ"
+      ],
+      "role": "supporting",
+      "description": "A third-year student at Tokyo Jujutsu High who is currently suspended for clashing with authority. While away from the school, Kirara has partnered with Kinji while running his fight club. Their cursed technique is Interstellar Flight (Love Rendezvous), a complex technique whose motif is based on the Southern Cross constellation.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b243828-S8bZH7FyH5vy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 243828
+      }
+    },
+    {
+      "id": "hajime-kashimo",
+      "name": "Hajime Kashimo",
+      "alt_names": [
+        "鹿紫雲一",
+        "The God of Lightning (雷神)"
+      ],
+      "role": "supporting",
+      "description": "Hajime Kashimo is a sorcerer from 400 years ago, currently inhabiting the body of someone Kenjaku prepared as a vessel, and has served as a player in the Culling Game, seeking to find and consequently battle Sukuna",
+      "metadata": {
+        "gender": "male",
+        "age": "400+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b248143-w5ZilMdkvpbe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 248143
+      }
+    },
+    {
+      "id": "hiromi-higuruma",
+      "name": "Hiromi Higuruma",
+      "alt_names": [
+        "日車寛見"
+      ],
+      "role": "supporting",
+      "description": "A defense lawyer who deems the Japanese justice system as unfair. After losing another case, he realizes his client was going to be ruled guilty from the beginning. With these negative emotions, he awakened his cursed power in the courtroom demanding a retrial. He is currently the top player of the Culling Game.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b248818-G9R6TqqElpvG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 248818
+      }
+    },
+    {
+      "id": "misato-kuroi",
+      "name": "Misato Kuroi",
+      "alt_names": [
+        "黒井美里"
+      ],
+      "role": "supporting",
+      "description": "Misato is the caretaker of the star plasma vessel Riko Amanai. She is a kind woman who cares deeply for Riko beyond a professional level. They love one another as family and Misato is extremely loyal to her.",
+      "metadata": {
+        "gender": "female",
+        "age": "31",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b255175-rOyuWgBm6W9M.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 255175
+      }
+    },
+    {
+      "id": "larue",
+      "name": "Larue",
+      "alt_names": [
+        "ラルゥ"
+      ],
+      "role": "supporting",
+      "description": "A large, shirtless muscular man and an ally of [Suguru Getou](https://anilist.co/character/133699/).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268297-zQ48F3PoVldl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268297
+      }
+    },
+    {
+      "id": "miguel",
+      "name": "Miguel",
+      "alt_names": [
+        "ミゲル"
+      ],
+      "role": "supporting",
+      "description": "He was initially one of Suguru Geto's commanders who wished to see him become king. Following the Night Parade of a Hundred Demons, Miguel was forcefully recruited by Satoru Gojo. He returned to his homeland of Africa and the community of sorcerers there to train Yuta Okkotsu.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b272175-wBjreG7iB9n2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 272175
+      }
+    },
+    {
+      "id": "charles-bernard",
+      "name": "Charles Bernard",
+      "alt_names": [
+        "シャルル・ベルナール"
+      ],
+      "role": "supporting",
+      "description": "Aspiring manga artist that joins the culling game.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274304-ojg0z8KpZGtW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 274304
+      }
+    },
+    {
+      "id": "kurourushi",
+      "name": "Kurourushi",
+      "alt_names": [
+        "黒沐死"
+      ],
+      "role": "supporting",
+      "description": "Kurourushi is a special grade cockroach cursed spirit released from Kenjaku's Cursed Spirit Manipulation in order to participate in the Culling Game as a player.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276133-L0BZ2BWJGaiR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276133
+      }
+    },
+    {
+      "id": "fumihiko-takaba",
+      "name": "Fumihiko Takaba",
+      "alt_names": [
+        "髙羽史彦"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Occupation:__ Comedian\n\nHe is a failing comedian who was turned into a sorcerer by Kenjaku in order to participate in the Culling Game.\n\nFumihiko is an exceptionally goofy individual whose jokes aren't funny, but he still lives to entertain above all else. He found himself failing as a comedian and was down on his luck. A co-worker encouraged him to keep going because there's always a demand for comedians who think they're funny. Takaba acts on those words and has a very energetic attitude. He's very outspoken and comedy-focused in everything he does.",
+      "metadata": {
+        "gender": "male",
+        "age": "35",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b280467-w8N3PAfEJmnc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 280467
+      }
+    },
+    {
+      "id": "ryu-ishigori",
+      "name": "Ryu Ishigori",
+      "alt_names": [
+        "石流龍"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human \n__Occupation:__ Jujutsu Sorcerer\n\n He is a jujutsu sorcerer from the past who was incarnated by Kenjaku to participate in the Culling Game as a player.\n\nRyu is a classic hotshot that both men and women admire. In his past life, he enjoyed both a good fight and the company of ladies. Even though Ryu has no regrets, he likens his previous life to a \"moderate eater\" with no \"dessert\" to satisfy him. Ryu intends to use his second life to seek a worthy opponent to fulfill his insatiable hunger. Despite his persistent desire for combat, he appears calm and rational. Yuta further speculates that his point score in the Culling Game is a result of Ryu's choice not to target ordinary citizens but also his indifference to their deaths due to collateral damage in his fights.",
+      "metadata": {
+        "gender": "male",
+        "age": "400+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b280468-FKEIVFFwPmJ7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 280468
+      }
+    },
+    {
+      "id": "yuu-haibara",
+      "name": "Yuu Haibara",
+      "alt_names": [
+        "灰原雄",
+        "Yu Haibara"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Height:__ 176 cm (5'9\")\n__Occupation:__ Sorcerer, Student\n__Affiliation:__ Jujutsu High\n\nA first-year student at Tokyo Metropolitan Jujutsu Technical High School in 2006, along with [Kento Nanami](https://anilist.co/character/133704/Kento-Nanami).\n\n~!In 2007, he is killed during a mission with Nanami to exorcise a Grade 2 cursed spirit that was underestimated to be a Grade 1 spirit instead. His death heavily impacted Nanami, as Nanami was the only second year remaining after Haibara's death, and also led him to reconsider being a Jujutsu sorcerer.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "16-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b281725-qJOgelbFp32B.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 281725
+      }
+    },
+    {
+      "id": "takako-uro",
+      "name": "Takako Uro",
+      "alt_names": [
+        "鳥鷺亨子"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human \n__Occupation:__ Jujutsu Sorcerer\n\nTakako Uro She is a jujutsu sorcerer from the past who was incarnated by Kenjaku for the Culling Game. In her first life, Takako Uro was the captain of the Sun, Moon, and Stars Squad, a group of assassins affiliated with the Toh.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283136-NvWh6wRYmFnn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283136
+      }
+    },
+    {
+      "id": "jin-itadori",
+      "name": "Jin Itadori",
+      "alt_names": [
+        "虎杖仁"
+      ],
+      "role": "supporting",
+      "description": "He is the father of [Yuji Itadori](https://anilist.co/character/127212/Yuuji-Itadori) and son of [Wasuke Itadori](https://anilist.co/character/194074/Wasuke-Itadori).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283137-nqjpjzZC0AYo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283137
+      }
+    },
+    {
+      "id": "kenjaku",
+      "name": "Kenjaku",
+      "alt_names": [
+        "羂索"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Height:__ 183 cm\n__Occupation:__ Curse User\n__Cursed Technique:__ Cursed Spirit Manipulation\n\nKenjaku is one of the primary antagonists of the Jujutsu Kaisen series. He is an ancient sorcerer who pursues the goal of \"evolving\" humanity via cursed energy, thereby ushering in a new golden age of jujutsu sorcery paralleling the Heian Era.\n\n~!Using his cursed technique that allows him to transplant his brain into different bodies to possess them, he has inhabited different people throughout the centuries, assuming different identities.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "1000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289584-KndGudJZm5Ik.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289584
+      }
+    },
+    {
+      "id": "shiu-kong",
+      "name": "Shiu Kong",
+      "alt_names": [
+        "孔時雨"
+      ],
+      "role": "supporting",
+      "description": "A handler for the Time Vessel Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b303313-5ELI3hDVjNwP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 303313
+      }
+    },
+    {
+      "id": "reggie-star",
+      "name": "Reggie Star",
+      "alt_names": [
+        "レジィ・スター"
+      ],
+      "role": "supporting",
+      "description": "He is a jujutsu sorcerer from the past ~!who was incarnated to participate in the Culling Game. Rejii led his own group of sorcerers and served as an antagonist for the Culling Game Arc.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306194-Ndnj1bqwzVxD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306194
+      }
+    },
+    {
+      "id": "yorozu",
+      "name": "Yorozu",
+      "alt_names": [
+        "万"
+      ],
+      "role": "supporting",
+      "description": "Yorozu is a character in the Jujutsu Kaisen series. She was a jujutsu sorcerer from a thousand years ago ~!who was incarnated using [Tsumiki Fushiguro](https://anilist.co/character/193479/Tsumiki-Fushiguro)'s body for the Culling Game. In her first life during the Heian era, Yorozu was a powerful sorcerer from Ainu who was obsessed with [Sukuna](https://anilist.co/character/133701/Sukuna).!~",
+      "metadata": {
+        "gender": "female",
+        "age": "1000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306195-Xqsc5ZLjWvk6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306195
+      }
+    },
+    {
+      "id": "niji-ebina",
+      "name": "Niji Ebina",
+      "alt_names": [
+        "蛯名仁次"
+      ],
+      "role": "supporting",
+      "description": "Niji Ebina is a minor antagonist in the Jujutsu Kaisen series. He was a curse user who aligned himself with [Kenjaku](https://anilist.co/character/289584/Kenjaku) during the Shibuya Incident.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306250-JBBTTynIbY7r.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306250
+      }
+    },
+    {
+      "id": "ogami",
+      "name": "Ogami",
+      "alt_names": [
+        "オガミ",
+        "Ogami-baba (オガミ婆)"
+      ],
+      "role": "supporting",
+      "description": "Ogami is a minor antagonist in the Jujutsu Kaisen series. She was a curse user who worked with Jirou Awasaka in the past to make money. ~!However, their freedom to commit crimes and curse people stopped with [Satoru Gojou](https://anilist.co/character/127691/Satoru-Gojou)'s birth. Determined to reclaim their past lives, Ogami, Awasaka, and her grandson aligned themselves with [Kenjaku](https://anilist.co/character/289584/Kenjaku) during the Shibuya Incident.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "87",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306252-YS8dqn5XWzgT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306252
+      }
+    },
+    {
+      "id": "jirou-awasaka",
+      "name": "Jirou Awasaka",
+      "alt_names": [
+        "粟坂二良"
+      ],
+      "role": "supporting",
+      "description": "Jirou Awasaka is a minor antagonist in the Jujutsu Kaisen series. He is a curse user who used to kill and collect money as much as he pleased until [Satoru Gojou](https://anilist.co/character/127691/Satoru-Gojou) was born. ~!He was recruited for the Shibuya Incident by [Kenjaku](https://anilist.co/character/289584/Kenjaku) and Uraume to guard a set of commissioned curtains and kill jujutsu sorcerers.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "61",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306253-PYrfBHAfYvsb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306253
+      }
+    },
+    {
+      "id": "manami-suda",
+      "name": "Manami Suda",
+      "alt_names": [
+        "菅田真奈美"
+      ],
+      "role": "supporting",
+      "description": "Curse user who used to be [Suguru Getou](https://anilist.co/character/133699/Suguru-Getou)'s secretary as well as a commander in his \"family\" of sorcerers. ~!After Suguru's death, Manami and Toshihisa Negi both decided to carry on his will by joining the entity to who stole his body.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306254-rcw8cnkJlTak.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306254
+      }
+    },
+    {
+      "id": "toshihisa-negi",
+      "name": "Toshihisa Negi",
+      "alt_names": [
+        "祢木利久"
+      ],
+      "role": "supporting",
+      "description": "Curse user who used to be a commander in [Suguru Getou](https://anilist.co/character/133699/Suguru-Getou)'s \"family\" of sorcerers. After Suguru's death, Negi and Manami Suda both decided to carry on his will by joining the entity to who stole his body.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306257-XmeYJw91idBY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306257
+      }
+    },
+    {
+      "id": "tsumiki-fushiguro",
+      "name": "Tsumiki Fushiguro",
+      "alt_names": [
+        "伏黒津美紀"
+      ],
+      "role": "supporting",
+      "description": "~! Megumi's older sister.!~\n\n~! Tsumiki was unknowingly chosen by Kenjaku to be a participant of the Culling Game and made into the incarnated host of Yorozu !~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193479-aGNRmbU5jNwR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 193479
+      }
+    },
+    {
+      "id": "yatsuka-no-tsurugi-ikaishinshou-makora",
+      "name": "Yatsuka no Tsurugi Ikaishinshou Makora",
+      "alt_names": [
+        "八握剣異戒神将魔虚羅",
+        "Eight-Handled Sword Divergent Sila Divine General Mahoraga"
+      ],
+      "role": "supporting",
+      "description": "The most powerful shikigami of the Ten Shadows Technique.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b319339-B50Yn0NHXCua.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 319339
+      }
+    },
+    {
+      "id": "arata-nitta",
+      "name": "Arata Nitta",
+      "alt_names": [
+        "新田新"
+      ],
+      "role": "supporting",
+      "description": "Arata Nitta is a first-year student at Kyoto Jujutsu High and the younger brother of Akari Nitta.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320325-uGhurK5IhUeO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320325
+      }
+    },
+    {
+      "id": "kaori-itadori",
+      "name": "Kaori Itadori",
+      "alt_names": [
+        "虎杖香織"
+      ],
+      "role": "supporting",
+      "description": "Wife of Jin Itadori and the biological mother of Yuuji Itadori.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b380084-ddKGDd50c36B.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 380084
+      }
+    },
+    {
+      "id": "nobuko-takada",
+      "name": "Nobuko Takada",
+      "alt_names": [
+        "高田延子"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 180 cm\n\nAoi Toudou's favorite idol.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b197119-Z2EBJXGTATzN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 197119
+      }
+    },
+    {
+      "id": "hanyu",
+      "name": "Hanyu",
+      "alt_names": [
+        "羽生"
+      ],
+      "role": "minor",
+      "description": "Hanyu is a minor antagonist in the Jujutsu Kaisen series. ~!She and her partner Haba are Culling Game players who targeted rookies in the Tokyo No. 1 Colony until they were both defeated by [Yuuji Itadori](https://anilist.co/character/127212/Yuuji-Itadori).!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306185-RzZA05X2bjyg.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306185
+      }
+    },
+    {
+      "id": "rin-amai",
+      "name": "Rin Amai",
+      "alt_names": [
+        "甘井凛"
+      ],
+      "role": "minor",
+      "description": "Rin Amai is a minor character in the Jujutsu Kaisen series. ~!He was a citizen of Sendai City until he was involuntarily turned into a sorcerer by [Kenjaku](https://anilist.co/character/289584/Kenjaku) and forced to participate in the Culling Game.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306187-MapaMtAMHYwH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306187
+      }
+    },
+    {
+      "id": "youtou",
+      "name": "Youtou",
+      "alt_names": [
+        "蝿頭",
+        "Fly Heads"
+      ],
+      "role": "minor",
+      "description": "Youtou are weak insect-like curse ranked lower than grade 4.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306188-wH0qvwII1Sqi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306188
+      }
+    },
+    {
+      "id": "yubi-no-kishu",
+      "name": "Yubi no Kishu",
+      "alt_names": [
+        "指の寄主",
+        "Finger Bearer"
+      ],
+      "role": "minor",
+      "description": "Finger Bearers are a type of special grade cursed spirit that emerge from the cursed wombs spawned from eating one of [Sukuna](https://anilist.co/character/133701/Sukuna)'s fingers.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306189-NB0cd8fgzPYg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306189
+      }
+    },
+    {
+      "id": "roppongi-no-noroi",
+      "name": "Roppongi no Noroi",
+      "alt_names": [
+        "Roppongi Curse"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306190-aP7a1mDNu0Ze.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306190
+      }
+    },
+    {
+      "id": "noritoshi-kamo-no-chichi",
+      "name": "Noritoshi Kamo no Chichi",
+      "alt_names": [
+        "Noritoshi Kamo's Father"
+      ],
+      "role": "minor",
+      "description": "[Noritoshi Kamo](https://anilist.co/character/157866/Noritoshi--Kamo) no Chichi was the head of the Kamo clan ~!until he was secretly disposed of by [Kenjaku](https://anilist.co/character/289584/Kenjaku).!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306191-GWFb8D1SICHE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306191
+      }
+    },
+    {
+      "id": "kuchisake-onna",
+      "name": "Kuchisake-Onna",
+      "alt_names": [
+        "口裂け女"
+      ],
+      "role": "minor",
+      "description": "Kuchisake-Onna was an imaginary vengeful cursed spirit controlled and used by [Suguru Getou](https://anilist.co/character/133699/Suguru-Getou)'s Cursed Spirit Manipulation technique.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306192-Xo6IC6JP7LwG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306192
+      }
+    },
+    {
+      "id": "yasohachi-bashi-no-noroi",
+      "name": "Yasohachi-bashi no Noroi",
+      "alt_names": [
+        "Yasohachi Bridge Curse"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306193-Dtea9gWuGsdi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306193
+      }
+    },
+    {
+      "id": "shino",
+      "name": "Shino",
+      "alt_names": [
+        "四乃"
+      ],
+      "role": "minor",
+      "description": "Shino is a member of the Kamo clan. This one seemed to know Noritoshi Kamo, then Kenjaku, ~!and also seems to support him in his position as clan leader.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306196-4eTg4Ob7JLpJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306196
+      }
+    },
+    {
+      "id": "haba",
+      "name": "Haba",
+      "alt_names": [
+        "羽場"
+      ],
+      "role": "minor",
+      "description": "Haba is a minor antagonist in the Jujutsu Kaisen series. He and his partner Hanyu were Culling Game players who targetted rookies in the Tokyo No. 1 Colony ~!until they were both defeated by [Yuuji Itadori](https://anilist.co/character/127212/Yuuji-Itadori).!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306197-lP6wywnVPcwz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306197
+      }
+    },
+    {
+      "id": "remi",
+      "name": "Remi",
+      "alt_names": [
+        "麗美"
+      ],
+      "role": "minor",
+      "description": "She was a normal human turned jujutsu sorcerer by [Kenjaku](https://anilist.co/character/289584/Kenjaku) for the Culling Game. ~!Remi aligned herself with [Reggie Star](https://anilist.co/character/306194/Reggie-Star)'s group who all serve as antagonists for the Culling Game Arc.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306240-FwSl5KEs9hsi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306240
+      }
+    },
+    {
+      "id": "iori-hazenoki",
+      "name": "Iori Hazenoki",
+      "alt_names": [
+        "黄櫨折"
+      ],
+      "role": "minor",
+      "description": "He is a jujutsu sorcerer from the past ~!who was incarnated by [Kenjaku](https://anilist.co/character/289584/Kenjaku) for the Culling Game. Hazenoki aligned himself with [Reggie Star](https://anilist.co/character/306194/Reggie-Star)'s group, who all serve as antagonists for the Culling Game Arc.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306243-dasZXinQ1gBx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306243
+      }
+    },
+    {
+      "id": "chizuru-hari",
+      "name": "Chizuru Hari",
+      "alt_names": [
+        "針千釣"
+      ],
+      "role": "minor",
+      "description": "He was a jujutsu sorcerer participating in the Culling Game and was aligned with [Reggie Star](https://anilist.co/character/306194/Reggie-Star)'s group.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306245-NAOYbHhe4sXe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306245
+      }
+    },
+    {
+      "id": "mago",
+      "name": "Mago",
+      "alt_names": [
+        "孫",
+        "Ogami no Mago (オガミの孫)",
+        "Ogami's Grandson"
+      ],
+      "role": "minor",
+      "description": "~!He is not actually Ogami's grandson, but rather one of the numerous children she kidnapped and raised after falsifying their relationship.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306248-NefuODIxBeG1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306248
+      }
+    },
+    {
+      "id": "ganesha",
+      "name": "Ganesha",
+      "alt_names": [
+        "ガネーシャ"
+      ],
+      "role": "minor",
+      "description": "Ganesha is a curse summoned by [Kenjaku](https://anilist.co/character/289584/Kenjaku).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306255-ibYEXb4tYisc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306255
+      }
+    },
+    {
+      "id": "batta-no-noroi",
+      "name": "Batta no Noroi",
+      "alt_names": [
+        "バッタの呪い",
+        "Grasshopper Curse",
+        "Ko-guy (蝗GUY)"
+      ],
+      "role": "minor",
+      "description": "Grade 2 Cursed Spirit born from humanity's hatred of the grasshopper plague. ~![Yuuji Itadori](https://anilist.co/character/127212/Yuuji-Itadori) encountered it on B2F of Meiji-Jingumae Station while it was guarding the commissioned curtain there.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306261-Ms5bd10bi0Ug.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306261
+      }
+    },
+    {
+      "id": "keshin-tamamo-no-mae",
+      "name": "Keshin Tamamo no Mae",
+      "alt_names": [
+        "化身玉藻前",
+        "Tamamo-no-Mae Incarnate"
+      ],
+      "role": "minor",
+      "description": "Keshin Tamamo no Mae is an imaginary vengeful cursed spirit and one of the sixteen special grade cursed spirits. It was controlled and used by [Suguru Getou](https://anilist.co/character/133699/Suguru-Getou)'s Cursed Spirit Manipulation technique.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306262-2ZESVgnAHXHM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306262
+      }
+    },
+    {
+      "id": "housougami",
+      "name": "Housougami",
+      "alt_names": [
+        "疱瘡神",
+        "Smallpox Deity",
+        "Housou-baba (疱瘡婆)"
+      ],
+      "role": "minor",
+      "description": "Housougami was a special grade disease cursed spirit ~!summoned by Pseudo-Getou ([Kenjaku](https://anilist.co/character/289584/Kenjaku)) using Cursed Spirit Manipulation.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306263-P94VBlsmRYOb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306263
+      }
+    },
+    {
+      "id": "rokujuushi-miyo",
+      "name": "Rokujuushi Miyo",
+      "alt_names": [
+        "三代六十四"
+      ],
+      "role": "minor",
+      "description": "Rokujushi Miyo is the incarnation of a sumo enthusiast and is currently participating in the Culling Game.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306264-4qG4kcepuurT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306264
+      }
+    },
+    {
+      "id": "hagane-daidou",
+      "name": "Hagane Daidou",
+      "alt_names": [
+        "大道 鋼"
+      ],
+      "role": "minor",
+      "description": "He is the incarnation of a nameless master swordsman and is currently participating in the Culling Game.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306265-M5XOMzUHkwPR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306265
+      }
+    },
+    {
+      "id": "dhruv-lakdawalla",
+      "name": "Dhruv Lakdawalla",
+      "alt_names": [
+        "ドルゥヴ・ラクダワラ",
+        "Doruubu Rakudawara"
+      ],
+      "role": "minor",
+      "description": "He is a jujutsu sorcerer from the past ~!who was incarnated by [Kenjaku](https://anilist.co/character/289584/Kenjaku) for the Culling Game. This is the second incarnation for the veteran sorcerer who once conquered Japan on his own during the Civil War of Wa.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "2000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306266-sBf9Whr0tUlO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306266
+      }
+    },
+    {
+      "id": "bayer",
+      "name": "Bayer",
+      "alt_names": [
+        "バイエル",
+        "Baieru"
+      ],
+      "role": "minor",
+      "description": "Bayer is a minor antagonist in the Jujutsu Kaisen series. He is a soldier formerly aligned with a faction of curse users called Q.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306267-7QXgLLV4bMVB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306267
+      }
+    },
+    {
+      "id": "koukun",
+      "name": "Koukun",
+      "alt_names": [
+        "コークン"
+      ],
+      "role": "minor",
+      "description": "Koukun is a minor antagonist in the Jujutsu Kaisen series. He is a soldier formerly aligned with a faction of curse users called Q.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306268-49iFgcDudSAC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306268
+      }
+    },
+    {
+      "id": "shigeru-sonoda",
+      "name": "Shigeru Sonoda",
+      "alt_names": [
+        "園田茂"
+      ],
+      "role": "minor",
+      "description": "A non-curse user representative of the Time Vessel Association in 2006.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306269-fPh6fXzI2WZO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306269
+      }
+    },
+    {
+      "id": "fumi",
+      "name": "Fumi",
+      "alt_names": [
+        "ふみ"
+      ],
+      "role": "minor",
+      "description": "Fumi is a minor character in the Jujutsu Kaisen series. She is [Nobara Kugisaki](https://anilist.co/character/133700/Nobara-Kugisaki)'s childhood friend.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306270-nVoUKYUK7IsP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306270
+      }
+    },
+    {
+      "id": "garry-k-johnson",
+      "name": "Garry K. Johnson",
+      "alt_names": [
+        "ギャリー・K・ジョンソン",
+        "Gyarii Ke Jonson"
+      ],
+      "role": "minor",
+      "description": "Garry K. Johnson is a character in the Jujutsu Kaisen series. He is the Lieutenant General of the U.S. Army and the Commander of its Joint Special Operations unit. ~!He is leading the military operation to abduct jujutsu sorcerers from Japan under orders from the President.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306272-X0J6NWBinHjS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306272
+      }
+    },
+    {
+      "id": "keita-oue",
+      "name": "Keita Oue",
+      "alt_names": [
+        "大江圭太"
+      ],
+      "role": "minor",
+      "description": "Keita Oue is a minor character in the Jujutsu Kaisen series. He was the defendant in a murder case where he was represented by [Hiromi Higuruma](https://anilist.co/character/248818/Hiromi-Higuruma) and unjustly found guilty.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306273-jJGb5SbYVIs1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306273
+      }
+    },
+    {
+      "id": "cyrus-veil",
+      "name": "Cyrus Veil",
+      "alt_names": [
+        "サイラス・ヴェイル",
+        "Sairasu Bueiru"
+      ],
+      "role": "minor",
+      "description": "Cyrus Veil is a character in the Jujutsu Kaisen series. He is the Under Secretary for the United States Office of Energy and Environment. ~!As a consultant to the President, it was Cyrus who convinced the government to coordinate with [Kenjaku](https://anilist.co/character/289584/Kenjaku)'s plan to abduct jujutsu sorcerers for energy research.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306274-UVOwiWWY7rGn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306274
+      }
+    },
+    {
+      "id": "taichi-kanada",
+      "name": "Taichi Kanada",
+      "alt_names": [
+        "金田太一"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 175 cm\n\nTaichi Kanada is an alumni of Saitama Urami East Junior High ~!and was one of four victims who were cursed as a result of bungee jumping from Yasohachi Bridge. Like the other cursed humans, Taichi died after a cursed spirit appeared between his auto-lock doors, which were stuck wide open.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "34",
+        "dateOfBirth": "1984-02-10"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306276-7TczFlh38ICp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306276
+      }
+    },
+    {
+      "id": "furudate",
+      "name": "Furudate",
+      "alt_names": [
+        "フルダテ"
+      ],
+      "role": "minor",
+      "description": "Furudate is a minor character in the Jujutsu Kaisen series. He is the executor of [Naobito Zenin](https://anilist.co/character/188432/Naobito-Zenin)'s will.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306278-Pn2TbaqDM10h.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306278
+      }
+    },
+    {
+      "id": "saori",
+      "name": "Saori",
+      "alt_names": [
+        "沙織"
+      ],
+      "role": "minor",
+      "description": "Saori was a good friend of [Nobara Kugisaki](https://anilist.co/character/133700/Nobara-Kugisaki), before she left her village.",
+      "metadata": {
+        "gender": "female",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306279-l9Y1HkUViIUc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306279
+      }
+    },
+    {
+      "id": "tadashi-okazaki-no-haha",
+      "name": "Tadashi Okazaki no Haha",
+      "alt_names": [
+        "Tadashi Okazaki's Mother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306281-2TYVdsokBkIN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306281
+      }
+    },
+    {
+      "id": "tadashi-okazaki",
+      "name": "Tadashi Okazaki",
+      "alt_names": [
+        "岡崎正"
+      ],
+      "role": "minor",
+      "description": "Tadashi Okazaki was a minor character serving time at the Eishu Juvenile Detention Center.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": "2001-08-09"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306282-5a4wVsGJF5Tz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306282
+      }
+    },
+    {
+      "id": "yuuko-ozawa",
+      "name": "Yuuko Ozawa",
+      "alt_names": [
+        "小沢優子"
+      ],
+      "role": "minor",
+      "description": "Former middle school classmate of [Yuuji Itadori](https://anilist.co/character/127212/Yuuji-Itadori).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306283-w4REAX4BaEzv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306283
+      }
+    },
+    {
+      "id": "setsuko-sasaki",
+      "name": "Setsuko Sasaki",
+      "alt_names": [
+        "佐々木せつこ"
+      ],
+      "role": "minor",
+      "description": "Sasaki is a second-year student at Sugisawa Third High School and a member of school's Occult Research Club alongside her friends [Yuuji Itadori](https://anilist.co/character/127212/Yuuji-Itadori) and [Takeshi Iguchi](https://anilist.co/character/200767/Takeshi-Iguchi).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b200765-xQLkNIRUGuQw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 200765
+      }
+    },
+    {
+      "id": "takeshi-iguchi",
+      "name": "Takeshi Iguchi",
+      "alt_names": [
+        "井口たけし"
+      ],
+      "role": "minor",
+      "description": "Iguchi is a second-year student at Sugisawa Third High School and a member of school's Occult Research Club alongside his friends [Yuuji Itadori](https://anilist.co/character/127212/Yuuji-Itadori) and [Setsuko Sasaki](https://anilist.co/character/200765).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b200767-bTqPLS2Jpiqf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 200767
+      }
+    },
+    {
+      "id": "takagi",
+      "name": "Takagi",
+      "alt_names": [
+        "高木"
+      ],
+      "role": "minor",
+      "description": "Takagi is the athletics club advisor teacher at Sugisawa Third High School.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b200768-fgIRyfO8ABk2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 200768
+      }
+    },
+    {
+      "id": "sotomura",
+      "name": "Sotomura",
+      "alt_names": [
+        "外村"
+      ],
+      "role": "minor",
+      "description": "Sotomura is a teacher at Satozakura High School, where [Junpei Yoshino](https://anilist.co/character/157214/Junpei--Yoshino) attends.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206208-ubr8Xv0u2FxD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 206208
+      }
+    },
+    {
+      "id": "shouta-itou",
+      "name": "Shouta Itou",
+      "alt_names": [
+        "伊藤翔太",
+        "Shota Ito"
+      ],
+      "role": "minor",
+      "description": "Shouta is a high school student from Satozakura High School.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210062-EIMZ4Nmvx6rP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210062
+      }
+    },
+    {
+      "id": "takeda",
+      "name": "Takeda",
+      "alt_names": [
+        "武田"
+      ],
+      "role": "minor",
+      "description": "Takeda is one of the faculty members at Saitama Urami East Junior High and has been since even before Megumi Fushiguro attended there.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222599-0eRcr9ezGaN0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222599
+      }
+    },
+    {
+      "id": "kakunou-jurei",
+      "name": "Kakunou Jurei",
+      "alt_names": [
+        "格納呪霊",
+        "Kakunou-gata Jurei (格納型呪霊)",
+        "Inventory Curse",
+        "Storage Type Curse"
+      ],
+      "role": "minor",
+      "description": "A cursed spirit that can store many different objects within its body. First seen as the servant of Touji Fushiguro, it contains Touji's entire wide arsenal of weapons.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311131-OS4dUGlxR6OH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311131
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:22:14.280Z"
+  "updated_at": "2025-12-23T08:11:30.726Z"
 }

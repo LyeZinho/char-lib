@@ -1,6 +1,6 @@
 {
   "work_id": "frieren-beyond-journeys-end",
-  "count": 25,
+  "count": 100,
   "characters": [
     {
       "id": "frieren",
@@ -592,7 +592,1755 @@
       "external_ids": {
         "anilist": 319598
       }
+    },
+    {
+      "id": "tsurugi-no-sato-no-satoosa",
+      "name": "Tsurugi no Sato no Satoosa",
+      "alt_names": [
+        "剣の里の里長",
+        "Chief of Sword Village"
+      ],
+      "role": "supporting",
+      "description": "The current chief of the Village of the Sword. Her position was inherited. She is young for the position and postures to try to make up for her lack of height, but when faced with danger or matters regarding the Hero's Blade, she is collected and calm.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b319599-mCoQepXMeCi6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 319599
+      }
+    },
+    {
+      "id": "wirbel",
+      "name": "Wirbel",
+      "alt_names": [
+        "ヴィアベル"
+      ],
+      "role": "supporting",
+      "description": "Second-class mage and the leader of the eighth party during the first stage of the First Class Mage Exam. He is the captain of the Northern Magic Corps and is thus a very experienced mage. Specializes in magic that restrains the opponent when their body is in full-view.",
+      "metadata": {
+        "gender": "male",
+        "age": "33-34",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321716-ORxrJOHaI4H4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321716
+      }
+    },
+    {
+      "id": "richter",
+      "name": "Richter",
+      "alt_names": [
+        "リヒター"
+      ],
+      "role": "supporting",
+      "description": "Second-class mage who participates in the First Class Mage Exam at the same time as Frieren and Fern. He owns a magical store in Äußerst where he specializes in repairing broken staves.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321717-hDlFSdvTeZpq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321717
+      }
+    },
+    {
+      "id": "ehre",
+      "name": "Ehre",
+      "alt_names": [
+        "エーレ"
+      ],
+      "role": "supporting",
+      "description": "Second-class mage in the Eighth Party, alongside Wirbel and Scharf, in the First Class Mage Exam. Fern feels that she is the strongest within both the Fourth and Eighth parties.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321718-MV9ZCxtNdOpJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321718
+      }
+    },
+    {
+      "id": "land",
+      "name": "Land",
+      "alt_names": [
+        "ラント"
+      ],
+      "role": "supporting",
+      "description": "Second-class mage in the Fourth Party of the First Class Mage Examination. He specializes in illusion magic.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321719-GUHhBOb81K9H.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321719
+      }
+    },
+    {
+      "id": "sense",
+      "name": "Sense",
+      "alt_names": [
+        "ゼンゼ"
+      ],
+      "role": "supporting",
+      "description": "First-class mage that is proctoring the Second Exam of the First Class Mage Examination. She is a solemn person who rarely speaks.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321720-LRfYAvhD5I7l.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321720
+      }
+    },
+    {
+      "id": "blei",
+      "name": "Blei",
+      "alt_names": [
+        "ブレイ"
+      ],
+      "role": "supporting",
+      "description": "Participant in the examination for the title of mage first class.\n~!Sacrificed himself to help Dunst deliver important information to his comrades in the lower level of the dungeon.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325587-P0uMjKW28Lue.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325587
+      }
+    },
+    {
+      "id": "falsch",
+      "name": "Falsch",
+      "alt_names": [
+        "ファルシュ"
+      ],
+      "role": "supporting",
+      "description": "First class mage. Acts as an observer in magical exams.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325588-sjv4RqiBH9Ar.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325588
+      }
+    },
+    {
+      "id": "lange",
+      "name": "Länge",
+      "alt_names": [
+        "レンゲ",
+        "Lange"
+      ],
+      "role": "supporting",
+      "description": "Participant in the examination for the title of mage first class. Slightly distracted girl. Likes to read books and learn new spells.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325589-EcLdKYGE9gCz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325589
+      }
+    },
+    {
+      "id": "methode",
+      "name": "Methode",
+      "alt_names": [
+        "メトーデ"
+      ],
+      "role": "supporting",
+      "description": "A mage that can use restraint and mental manipulation magic. Good at detecting mana and can use simple recovery magic.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246054-TKwFFWVGISUd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246054
+      }
+    },
+    {
+      "id": "senshi-gorilla",
+      "name": "Senshi Gorilla",
+      "alt_names": [
+        "戦士ゴリラ",
+        "Warrior Gorilla"
+      ],
+      "role": "supporting",
+      "description": "Childhood friend of [Sein](https://anilist.co/character/205177) who dreamed of going on an adventure and becoming a legendary hero. A long time ago, he asked Sein to start adventuring with him, which Sein refused and regretted since.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326423-uewX18Jqk86t.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326423
+      }
+    },
+    {
+      "id": "orden",
+      "name": "Orden",
+      "alt_names": [
+        "オルデン",
+        "Lord Orden"
+      ],
+      "role": "supporting",
+      "description": "Nobleman presiding over the Vorig Fortified City and the current head of the Orden family, one of the Three Great Knightly Houses of the Northern Lands.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326825-NKZMl8ythv6u.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326825
+      }
+    },
+    {
+      "id": "gabel",
+      "name": "Gabel",
+      "alt_names": [
+        "ガーベル"
+      ],
+      "role": "supporting",
+      "description": "Servant of [Lord Orden](https://anilist.co/character/326825).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326826-KhpnVx4CE6Oc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326826
+      }
+    },
+    {
+      "id": "voll-jii",
+      "name": "Voll Jii",
+      "alt_names": [
+        "フォル爺",
+        "Old Man Voll"
+      ],
+      "role": "supporting",
+      "description": "Elderly Dwarf warrior and a long-time friend of Frieren. He resides in a village in the Klar Region.",
+      "metadata": {
+        "gender": "male",
+        "age": "400+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326830-aTNNxR4FaVfV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326830
+      }
+    },
+    {
+      "id": "lernen",
+      "name": "Lernen",
+      "alt_names": [
+        "レルネン"
+      ],
+      "role": "supporting",
+      "description": "An old friend of Denken. First Class Mage and Serie's apprentice. Rarely acts directly, preferring stealth.\n~!Helped in the extraction and transfer of information necessary for the liberation of Denken's hometown.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327299-NgvxpyNecgoZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327299
+      }
+    },
+    {
+      "id": "scharf",
+      "name": "Scharf",
+      "alt_names": [
+        "シャルフ"
+      ],
+      "role": "supporting",
+      "description": "Scharf is a third-class mage and member of the eighth party along with Wirbel and Ehre for the First Class Mage Examination.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327305-DsvizGfxKnE8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327305
+      }
+    },
+    {
+      "id": "toun",
+      "name": "Toun",
+      "alt_names": [
+        "トーン",
+        "Ton"
+      ],
+      "role": "supporting",
+      "description": "Participant in the examination for the title of mage first class. Distrustful and self-confident mage.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327306-YqyWmCb95C6F.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327306
+      }
+    },
+    {
+      "id": "dunste",
+      "name": "Dünste",
+      "alt_names": [
+        "ドゥンスト",
+        "Dunste"
+      ],
+      "role": "supporting",
+      "description": "Participant in the First Class Mage Exam.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327560-WvAkF0ZoXLSD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327560
+      }
+    },
+    {
+      "id": "stark-no-chichi",
+      "name": "Stark no Chichi",
+      "alt_names": [
+        "シュタルクの父",
+        "Stark's Father"
+      ],
+      "role": "minor",
+      "description": "[Stark](https://anilist.co/character/184313/Stark)'s father is a harsh, militant man. He considers Stark a failure. He is also strict with the other warriors of the village, scolding them for their pathetic display against a monster and praising [Stoltz](https://anilist.co/character/319598/Stoltz), who he considered the pride of the village, for defeating it while keeping his white cape pristine.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326420-ILAb6lB1X1ug.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326420
+      }
+    },
+    {
+      "id": "ou-sama",
+      "name": "Ou-sama",
+      "alt_names": [
+        "王様",
+        "King"
+      ],
+      "role": "minor",
+      "description": "The King resides in the Royal Capital in the Central Lands. The King's influence reaches across the Central and Northern Lands. When the Hero Party first set out on their journey to defeat the Demon King, he provided them with ten copper coins.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315630-8KezkCJX7RoK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315630
+      }
+    },
+    {
+      "id": "mahou-ten-tenshu",
+      "name": "Mahou-ten Tenshu",
+      "alt_names": [
+        "魔法店店主",
+        "Magic Shop Owner"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315631-GLsgmUdVPOvY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315631
+      }
+    },
+    {
+      "id": "sarentsu-sha-a",
+      "name": "Sarentsu-sha A",
+      "alt_names": [
+        "参列者"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315629
+      }
+    },
+    {
+      "id": "sarentsu-sha-b",
+      "name": "Sarentsu-sha B",
+      "alt_names": [
+        "参列者"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315632
+      }
+    },
+    {
+      "id": "sanretsu-sha-c",
+      "name": "Sanretsu-sha C",
+      "alt_names": [
+        "参列者"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315628
+      }
+    },
+    {
+      "id": "yakusou-ka",
+      "name": "Yakusou-ka",
+      "alt_names": [
+        "葉草家",
+        "Herbalist"
+      ],
+      "role": "minor",
+      "description": "A herbalist that lives in a village in the Turk Region.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315634-P8SlQd4L5IVp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315634
+      }
+    },
+    {
+      "id": "noufu-a",
+      "name": "Noufu A",
+      "alt_names": [
+        "農夫",
+        "Farmer"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315636-mW4aEOKDvXCq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315636
+      }
+    },
+    {
+      "id": "roujin",
+      "name": "Roujin",
+      "alt_names": [
+        "老人",
+        "Old Man"
+      ],
+      "role": "minor",
+      "description": "An elder wearing a straw hat in the village by where Qual is sealed. Himmel would talk with him when he visited to check on the condition of the seal.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315640-y840skyBVFcH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315640
+      }
+    },
+    {
+      "id": "neko",
+      "name": "Neko",
+      "alt_names": [
+        "ネコ",
+        "Cat"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315641-Wa7OuPAnzK73.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315641
+      }
+    },
+    {
+      "id": "chounin-a",
+      "name": "Chounin A",
+      "alt_names": [
+        "町人"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315637-hmH9dWqqKEK4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315637
+      }
+    },
+    {
+      "id": "arakuremono-a",
+      "name": "Arakuremono A",
+      "alt_names": [
+        "荒くれ者"
+      ],
+      "role": "minor",
+      "description": "An adventurer that hangs out in a tavern in Warm.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315638-5logd93rfCIx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315638
+      }
+    },
+    {
+      "id": "arakuremono-b",
+      "name": "Arakuremono B",
+      "alt_names": [
+        "荒くれ者"
+      ],
+      "role": "minor",
+      "description": "An adventurer that hangs out in a tavern in Warm.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315639-f4fv83rO4NM4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315639
+      }
+    },
+    {
+      "id": "sonchou-a",
+      "name": "Sonchou A",
+      "alt_names": [
+        "村長",
+        "Granz Kaikyou no Sonchou (グランツ海峡の村長)",
+        "Granz Channel Village Chief"
+      ],
+      "role": "minor",
+      "description": "An elder that lives in the Granz Channel. He offers [Frieren](https://anilist.co/character/176754/Frieren) and [Fern](https://anilist.co/character/183965/Fern) a fake of one of the [Great Mage Flamme](https://anilist.co/character/219733/Flamme)'s grimoires as payment for cleaning up the shore of the channel by the New Year's Anniversary and checks up on them throughout their stay in town.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315642-Nm5q1N4QCmlt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315642
+      }
+    },
+    {
+      "id": "pan-ya-tenshu",
+      "name": "Pan-ya Tenshu",
+      "alt_names": [
+        "パン屋店主",
+        "Bakery Owner"
+      ],
+      "role": "minor",
+      "description": "A kind woman that owns a bakery in the Granz Channel. She gives [Fern](https://anilist.co/character/183965/Fern) extra bread for being a regular customer while [Frieren](https://anilist.co/character/176754/Frieren) and Fern stay in town to clean up the shore.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315643-WqB5zj3zrZsf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315643
+      }
+    },
+    {
+      "id": "baasan",
+      "name": "Baasan",
+      "alt_names": [
+        "婆さん"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315644-sv7ZoEaOwu42.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315644
+      }
+    },
+    {
+      "id": "murabito-a",
+      "name": "Murabito A",
+      "alt_names": [
+        "村人",
+        "Obaachan (祖母)"
+      ],
+      "role": "minor",
+      "description": "A old lady that is seen taking care of two young children in Riegel Canyon.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b316456-qIoFlUCR6Qbw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 316456
+      }
+    },
+    {
+      "id": "murabito-b",
+      "name": "Murabito B",
+      "alt_names": [
+        "村人"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b316457-iAhpLGFDqR4R.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 316457
+      }
+    },
+    {
+      "id": "murabito-c",
+      "name": "Murabito C",
+      "alt_names": [
+        "村人"
+      ],
+      "role": "minor",
+      "description": "A man who live in the village [Stark](https://anilist.co/character/184313/Stark) protected in Riegel Canyon.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b316458-uigEvTamAbqV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 316458
+      }
+    },
+    {
+      "id": "kodomo-a",
+      "name": "Kodomo A",
+      "alt_names": [
+        "子供",
+        "Mago (孫)",
+        "Grandson",
+        "Ani (兄)",
+        "Older Brother"
+      ],
+      "role": "minor",
+      "description": "A child from Riegel Canyon. He adores [Stark](https://anilist.co/character/184313/Stark) and seek his attention.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b316459-d982O7o48BPF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 316459
+      }
+    },
+    {
+      "id": "mazoku",
+      "name": "Mazoku",
+      "alt_names": [
+        "魔族",
+        "Demon"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b319165-8WI7HrFjTgQr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 319165
+      }
+    },
+    {
+      "id": "tenshu",
+      "name": "Tenshu",
+      "alt_names": [
+        "店主",
+        "Owner"
+      ],
+      "role": "minor",
+      "description": "A woman who live in the village [Stark](https://anilist.co/character/184313/Stark) protected in Riegel Canyon.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326328-mfYja0XnPyaf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326328
+      }
+    },
+    {
+      "id": "mago",
+      "name": "Mago",
+      "alt_names": [
+        "孫",
+        "Otouto (弟)",
+        "Grandson",
+        "Younger Brother"
+      ],
+      "role": "minor",
+      "description": "A child from Riegel Canyon. He adores [Stark](https://anilist.co/character/184313/Stark) and seek his attention.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326329-EujDTc2NtPm2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326329
+      }
+    },
+    {
+      "id": "eihei-a",
+      "name": "Eihei A",
+      "alt_names": [
+        "衛兵",
+        "Guard"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326365-wIkgs5umXhPH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326365
+      }
+    },
+    {
+      "id": "joudai",
+      "name": "Joudai",
+      "alt_names": [
+        "城代",
+        "Jousai Toshi Waal no Joudai (城塞都市ヴァールの城代)",
+        "Castellan",
+        "Constable"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326366-0StaxFsTuljH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326366
+      }
+    },
+    {
+      "id": "eihei-taichou",
+      "name": "Eihei Taichou",
+      "alt_names": [
+        "衛兵隊長",
+        "Guard Captain"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326367-7UGb0cxDUJTa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326367
+      }
+    },
+    {
+      "id": "master",
+      "name": "Master",
+      "alt_names": [
+        "マスター",
+        "Jousai Toshi Waal no Master (城塞都市ヴァールのマスター)",
+        "Walled City Barmaster"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326368-VLLHDdvQkNHw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326368
+      }
+    },
+    {
+      "id": "tabibito",
+      "name": "Tabibito",
+      "alt_names": [
+        "旅人",
+        "Traveler"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326370-kX9lZoYMqx5l.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326370
+      }
+    },
+    {
+      "id": "eihei-b",
+      "name": "Eihei B",
+      "alt_names": [
+        "衛兵",
+        "Guard"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326371-nTVwhZU8VeUk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326371
+      }
+    },
+    {
+      "id": "sonchou-b",
+      "name": "Sonchou B",
+      "alt_names": [
+        "村長",
+        "Village Chief"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326372-HseZd8BYVRKH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326372
+      }
+    },
+    {
+      "id": "hahaoya",
+      "name": "Hahaoya",
+      "alt_names": [
+        "母親",
+        "Mother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326373-scCzFQPjzwlx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326373
+      }
+    },
+    {
+      "id": "shinpu",
+      "name": "Shinpu",
+      "alt_names": [
+        "神父",
+        "Priest"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326401-KRjCtGDYapXj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326401
+      }
+    },
+    {
+      "id": "sokkin-a",
+      "name": "Sokkin A",
+      "alt_names": [
+        "側近",
+        "Granat-ryou no Sokkin (グラナト領の側近)",
+        "Granat's Aide"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326416-ypzhGTLPDeTC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326416
+      }
+    },
+    {
+      "id": "sokkin-b",
+      "name": "Sokkin B",
+      "alt_names": [
+        "Granat-ryou no Sokkin (グラナト領の側近)",
+        "Granat's Aide"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326417-VR4iS7PYRDN9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326417
+      }
+    },
+    {
+      "id": "noufu-b",
+      "name": "Noufu B",
+      "alt_names": [
+        "農夫",
+        "Farmer"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326418-4FAzgSQpxqz1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326418
+      }
+    },
+    {
+      "id": "shounen",
+      "name": "Shounen",
+      "alt_names": [
+        "少年"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326419-uIABOuHXclfv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326419
+      }
+    },
+    {
+      "id": "chounin-b",
+      "name": "Chounin B",
+      "alt_names": [
+        "町人"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326421-00YUuaZFnfzs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326421
+      }
+    },
+    {
+      "id": "kodomo-b",
+      "name": "Kodomo B",
+      "alt_names": [
+        "子供"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326422-84h0nA2XWWly.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326422
+      }
+    },
+    {
+      "id": "sein-no-ani",
+      "name": "Sein no Ani",
+      "alt_names": [
+        "ザインの兄",
+        "Sein's Older Brother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326424-7XjJM2L2SDJ2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326424
+      }
+    },
+    {
+      "id": "shounin",
+      "name": "Shounin",
+      "alt_names": [
+        "商人",
+        "Merchant"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326425-0n6DeTHGvxc9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326425
+      }
+    },
+    {
+      "id": "mut",
+      "name": "Mut",
+      "alt_names": [
+        "ムート"
+      ],
+      "role": "minor",
+      "description": "Lord Orden's youngest son and the next heir of the Orden family.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326827-wtHrYsdSocOK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326827
+      }
+    },
+    {
+      "id": "wirt",
+      "name": "Wirt",
+      "alt_names": [
+        "ヴィルト"
+      ],
+      "role": "minor",
+      "description": "Lord Orden's oldest son. Wirt passed away in a melee against demon forces but managed to kill the enemy general.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326828-cujHlvsd6xLc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326828
+      }
+    },
+    {
+      "id": "ryoushu",
+      "name": "Ryoushu",
+      "alt_names": [
+        "領主"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326829-Rr4Axla8I7KU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326829
+      }
+    },
+    {
+      "id": "murabito-d",
+      "name": "Murabito D",
+      "alt_names": [
+        "村人",
+        "Villager"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326831
+      }
+    },
+    {
+      "id": "murabito-e",
+      "name": "Murabito E",
+      "alt_names": [
+        "村人",
+        "Villager"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326832
+      }
+    },
+    {
+      "id": "gankobaa-san",
+      "name": "Gankobaa-san",
+      "alt_names": [
+        "頑固婆さん",
+        "Stubborn Old Lady"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326833-kn1X1mSLWtTC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326833
+      }
+    },
+    {
+      "id": "koya-no-omo",
+      "name": "Koya no Omo",
+      "alt_names": [
+        "小屋の主",
+        "Hut Owner"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327208-MknLdYM8opUz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327208
+      }
+    },
+    {
+      "id": "murabito-f",
+      "name": "Murabito F",
+      "alt_names": [
+        "村人"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327209-8VCBCUpfGpI2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327209
+      }
+    },
+    {
+      "id": "shokuin",
+      "name": "Shokuin",
+      "alt_names": [
+        "職員",
+        "Staff"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327210-Z8BgPruEI9fT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327210
+      }
+    },
+    {
+      "id": "touzoku-a",
+      "name": "Touzoku A",
+      "alt_names": [
+        "盗賊",
+        "Thief"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327493
+      }
+    },
+    {
+      "id": "touzoku-b",
+      "name": "Touzoku B",
+      "alt_names": [
+        "盗賊",
+        "Thief"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327494
+      }
+    },
+    {
+      "id": "juken-sha-a",
+      "name": "Juken-sha A",
+      "alt_names": [
+        "受験者"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327496-fFQzGKemc5rx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327496
+      }
+    },
+    {
+      "id": "juken-sha-b",
+      "name": "Juken-sha B",
+      "alt_names": [
+        "受験者",
+        "Examinee"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327515-v4JNUed3tTGr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327515
+      }
+    },
+    {
+      "id": "wakamono",
+      "name": "Wakamono",
+      "alt_names": [
+        "若者"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327519-z7UZ3j4Mqj8Z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327519
+      }
+    },
+    {
+      "id": "take-no-ojii-san",
+      "name": "Take no Ojii-san",
+      "alt_names": [
+        "武のおじいさん"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327520-Srf2rY1z3pG5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327520
+      }
+    },
+    {
+      "id": "roufujin",
+      "name": "Roufujin",
+      "alt_names": [
+        "老婦人"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327521-oAFD2538qD73.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327521
+      }
+    },
+    {
+      "id": "lecker",
+      "name": "Lecker",
+      "alt_names": [
+        "レッカー"
+      ],
+      "role": "minor",
+      "description": "The head chef for the restaurant Bell in Äußerst.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327522-LQCVZCDyr6kl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327522
+      }
     }
   ],
-  "updated_at": "2025-12-22T17:53:59.803Z"
+  "updated_at": "2025-12-23T01:54:55.695Z"
 }

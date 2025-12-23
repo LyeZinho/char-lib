@@ -1,6 +1,6 @@
 {
   "work_id": "land-of-the-lustrous",
-  "count": 25,
+  "count": 36,
   "characters": [
     {
       "id": "phosphophyllite",
@@ -207,10 +207,11 @@
       "name": "Goshenite",
       "alt_names": [
         "ゴーシェナイト",
-        "Goshe"
+        "Goshe",
+        "ゴーシェ"
       ],
       "role": "supporting",
-      "description": "__Hardness:__ 7.5\n\nGoshenite is gentle, kind to everyone, and always has a worried expression. They're partners with Morganite in battle.\n\n~!Goshe, along with Morganite, is taken to the moon shortly after Phos loses their head and begins their 102-year rest. (Approximately 20 years after).!~",
+      "description": "__Hardness:__ 7.5\n\nThe youngest gem, who mainly does patrol duty with their partner Morganite. Goshe is entergetic, outgoing, and carefree, as opposed to the reserved and calm original Goshenite. They constantly reassure their partner, Morganite, that no one thinks badly of them and goes out of their way to prove it. Similarly to the new Morganite, Goshe holds Phos in high regard due to how powerful they are.\n\n~!They and the new Morga were born approximately 32 years after Phos began their 102 year rest, after the original Goshenite and Morganite were taken to the moon about 10 years before.!~\n\n~!They're one of the gems who accompanies Phos to the moon.!~",
       "metadata": {
         "gender": "non-binary",
         "dateOfBirth": null
@@ -220,10 +221,15 @@
           "url": "https://s4.anilist.co/file/anilistcdn/character/large/123392-6zXVJsdkH2J1.png",
           "type": "portrait",
           "source": "AniList"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209248-e6uqhtDE9Xhr.png",
+          "type": "portrait",
+          "source": "AniList"
         }
       ],
       "external_ids": {
-        "anilist": 123392
+        "anilist": 209248
       }
     },
     {
@@ -280,10 +286,11 @@
       "name": "Morganite",
       "alt_names": [
         "モルガナイト",
-        "Morga"
+        "Morga",
+        "モルガ"
       ],
       "role": "supporting",
-      "description": "__Hardness:__ 7.5\n\nA gem on patrol duty with their partner Goshenite. Morganite is always overconfident, brashly makes decisions, and loves to tease Phos.\n\n~!Morga, along with Goshenite, is taken to the moon a few years after Phos loses their head and is asleep for 102 years.!~",
+      "description": "__Hardness:__ 7.5\n\nThe second youngest gem, who mainly does patrol duty with their partner Goshenite. Morga is shy and timid, choosing to let Goshe respond in their stead. They fear that no one likes them.\n\n~!They were born shortly after the original Morganite and Goshenite were taken to the moon, during Phos's 102 year rest.!~",
       "metadata": {
         "gender": "non-binary",
         "dateOfBirth": null
@@ -293,10 +300,15 @@
           "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123395-G6ib64ccSc78.png",
           "type": "portrait",
           "source": "AniList"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209245-nv130GZPuVbw.png",
+          "type": "portrait",
+          "source": "AniList"
         }
       ],
       "external_ids": {
-        "anilist": 123395
+        "anilist": 209245
       }
     },
     {
@@ -607,7 +619,257 @@
       "external_ids": {
         "anilist": 124307
       }
+    },
+    {
+      "id": "padparadscha",
+      "name": "Padparadscha",
+      "alt_names": [
+        "パパラチア"
+      ],
+      "role": "supporting",
+      "description": "__Hardness:__ 9\n\nPadparadscha is one of the Gems who mainly does patrol duty, but is currently inactive. They were born with an incomplete torso, which affects their consciousness. They're the partner of Rutile who also maintains their health. Very easygoing, but knows a lot more than what they let on. Wants the other gems to stop worrying about them, and would like to sleep in order not to burden anyone.\n\n(Source: Houseki no Kuni Wikia)",
+      "metadata": {
+        "gender": "non-binary",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124485-s6k08cCJp9q4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124485
+      }
+    },
+    {
+      "id": "cairngorm",
+      "name": "Cairngorm",
+      "alt_names": [
+        "カンゴーム"
+      ],
+      "role": "supporting",
+      "description": "__Hardness:__ 7\n\nThey seem to be very tough and strict. They act harsh towards Phos, however, they had shown some compassion after Phos had a breakdown and had confused Cairngorm for Antarcticite. Later, Cairngorm begins to act much kinder and gentle towards Phos, and becomes rather protective of them. \n\n~!When Phos lost their head to the lunarians, Cairngorm even offered their former partner, Lapis Lazuli's head, to Phos. When Kongo seemed unsure of this, Cairngorm even began to offer their own head to Phos.!~\n\n~!Later in the manga, Aechmea questiones Cairngorm's dedication to Phos and upon examining the Gem closely, he discoveres that their eyes still contain traces of Ghost Quartz which are affecting Cairngorm's behavior. After Cairngorm breaks under Ghost's influence, Aechmea understands that Cairngorm wants Ghost Quartz removed from their eyes. With Ghost Quartz's influence removed, Cairngorm's behavior changes drastically. They remove their powder, they don't react when Phos offers to give back Lapis's head, and they refuse to join Phos' expedition back to Earth. They also seem to have formed a close relationship with Aechmea, which leads to them becoming Aechmea's \"wife\" during a ceremony known by the Moon People as \"the wedding\".!~",
+      "metadata": {
+        "gender": "non-binary",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124600-Xjo2fbmBg9aX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124600
+      }
+    },
+    {
+      "id": "ghost-quartz",
+      "name": "Ghost Quartz",
+      "alt_names": [
+        "ゴースト・クォーツ",
+        "Ghost",
+        "ゴースト"
+      ],
+      "role": "supporting",
+      "description": "__Hardness:__ 7\n\nOne of the Gems. They work as a librarian and take part in patrol duty. They are also in charge of long-term recovery facilities located on the fourth floor. Their weapon of choice is a sickle. Lapis Lazuli was Ghost's former teammate and in charge of the library until they were taken by the Lunarians, leaving only their head; Ghost was placed in charge of the library afterwards.\n\nQuiet and calm, Ghost is very insecure about themselves, thinking that their fallen partner, Lapis, was much better than them. Ghost speaks of Lapis in high regards, referring to them as smart and organized, and maintaining the library as if they will return soon. Because of Ghost's double structure, two personalities inhabit their body, the other being Cairngorm who's very different from Ghost. Ghost describes Cairngorm as violent and brash, but they both equally respected and followed Lapis.\n\n~!Ghost temporarily teamed up with Phos, but during their first fight, Ghost Quartz was chipped off of the underlying Cairngorm by the Lunarians and was taken to the moon, leaving only Cairngorm behind. In Ghost's final moments, it's given a clearer picture of Ghost's attitude towards Cairngorm, calling them rude, violent, selfish, and annoying. However, Ghost then entrusts Cairngorm to protect Phos after they're gone.!~\n\n(Source: Houseki no Kuni Wiki, edited)",
+      "metadata": {
+        "gender": "non-binary",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128723-qvf6UFfqDNCd.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128723
+      }
+    },
+    {
+      "id": "lapis-lazuli",
+      "name": "Lapis Lazuli",
+      "alt_names": [
+        "ラピス・ラズリ"
+      ],
+      "role": "supporting",
+      "description": "__Hardness:__ 5\n\nOne of the Gems. They were the head of the Library, a position now taken up by their former partner Ghost Quartz after Lapis was taken by the Lunarians. Upon being taken, only their head was able to be retrieved.\n\nLapis had a charming, leader-like personality. They had keen observation and great deductive thinking skills, and because of that had great confidence in themselves. Euclase remarks that Lapis was extremely smart and pleasant to talk to, but was more eager to use their skills to satisfy their intellectual curiosity rather than for the benefit of others. This meant they could be quite manipulative at times. Cairngorm remarks that they could 'quietly conceal secrets for centuries' and were 'surprisingly deceiving'.\n\n~!Lapis's aforementioned head would then go on to be the substitute for Phosphophyllite's after they lose theirs to the Lunarians. After their head is first attached to Phos, Lapis appears in Phos' dream as an apparition of some sort. Lapis implies that this dream-like apparition is being caused by them leaving a 'message' to their inclusions to give to the next gem who hosts their head. They explain to Phos that they also wanted to understand the Lunarians, but by trying to rationalize their illogical actions during a battle, they were shot by arrows causing them to lose their head and be taken to the Moon. Attaching Lapis's head influences Phos's personality, as the two personalities seem to mix. Phos inherits Lapis's deductive abilities and becomes attentive to details and able to strategize more. The bottling emotions remains and becomes worse as Lapis’s personalities adds a more secretive and manipulative nature to Phos.!~\n\n(Source: Houseki no Kuni Wiki, edited)",
+      "metadata": {
+        "gender": "non-binary",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130062-I2OyNEt7SgWS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130062
+      }
+    },
+    {
+      "id": "aechmea",
+      "name": "Aechmea",
+      "alt_names": [
+        "エクメア",
+        "Prince Aechmea",
+        "Prince"
+      ],
+      "role": "supporting",
+      "description": "~! Aechmea is the leader of the Lunarians. !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133785-DaJ1SbPXlyDL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133785
+      }
+    },
+    {
+      "id": "amethyst-33",
+      "name": "Amethyst 33",
+      "alt_names": [
+        "アメシスト33",
+        "Thirty-Three"
+      ],
+      "role": "supporting",
+      "description": "__Hardness:__ 7\n\nAmethyst are two twin Gems who mainly do patrol duty. They are individually named Eighty-Four and Thirty-Three. They're two in one and partnered with each other. According to Yellow Diamond, twin Gems will not break when they touch each other, as demonstrated when the twins bash their heads together, much to the chagrin of their observers. They are both great at swordplay and were recommended to train Phos for a short time.\n\nThe twins work in tandem for a lot of things, often talking at the same time or finishing each other's sentences. No one really cares which is which anymore, including themselves.\n\n~!Later, Thirty-Three expresses to Phos that they want to go to the moon with them to practice independence from their twin. Unknown to them, however, Eighty-Four overheard and later switched their hairstyle to deceive Phos, and went to the moon in Thirty-Three's place.\n\nAmethyst 33 has recently learned to cope with their twin leaving, and believes after 200 years that they are alright. They think 84 is doing alright as well, and still feels connected to them.!~",
+      "metadata": {
+        "gender": "non-binary",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209228-NcapXYM9sXam.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209228
+      }
+    },
+    {
+      "id": "semi",
+      "name": "Semi",
+      "alt_names": [
+        "蝉",
+        "Cicada"
+      ],
+      "role": "supporting",
+      "description": "A Lunarian with a soft personality. Although somewhat unintelligent and clumsy, Cicada is friendly, upbeat, and cares a lot about Phos and the other gems.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209246-RNxWbjdJTz3M.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209246
+      }
+    },
+    {
+      "id": "barbata",
+      "name": "Barbata",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "~! The possible lead scientist of the Lunarians, known as the \"tech supervisor\" to Aechmea. Barbata has a great love for the culinary arts, and is one of the best cooks on the moon. They generally seem to be a relaxed individual that prefers to go at their own pace. Barbata is incredibly smart and observant, as well as empathetic and friendly.  !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209247-or5wkVz2ItGp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209247
+      }
+    },
+    {
+      "id": "ayumu",
+      "name": "Ayumu",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b285150-nNoQE5MpIwmZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 285150
+      }
+    },
+    {
+      "id": "heliodor",
+      "name": "Heliodor",
+      "alt_names": [
+        "ヘリオドール"
+      ],
+      "role": "supporting",
+      "description": "**Hardness:** 7.5\n\nHeliodor is one of the Gems who presumably did patrol duty in the past. They are currently a captive on the Moon.\n\nHeliodor was taken by the Lunarians prior to the beginning of the story. Morganite and Goshenite fought a new model of the Lunarians which uses Gems as weapons. They see pieces of Heliodor turned into arrowheads and fight in order to collect them back piece by piece.",
+      "metadata": {
+        "gender": "non-binary",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 318408
+      }
+    },
+    {
+      "id": "pebble",
+      "name": "Pebble",
+      "alt_names": [
+        "小石"
+      ],
+      "role": "supporting",
+      "description": "~!Pebble is a new type of rock-based lifeform that was born some time after Phosphophyllite prayed the Lunarians away into nothingness. Since meeting Phos, the two have become kindred spirits.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331316-3dJkNxaYS1Fn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331316
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:37:24.551Z"
+  "updated_at": "2025-12-23T08:34:03.264Z"
 }

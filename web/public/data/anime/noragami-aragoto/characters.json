@@ -1,6 +1,6 @@
 {
   "work_id": "noragami-aragoto",
-  "count": 25,
+  "count": 41,
   "characters": [
     {
       "id": "yato",
@@ -602,7 +602,375 @@
       "external_ids": {
         "anilist": 230843
       }
+    },
+    {
+      "id": "ayu",
+      "name": "Ayu",
+      "alt_names": [
+        "歩喩"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b230845-zlW3AqMAFGXt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 230845
+      }
+    },
+    {
+      "id": "nayu",
+      "name": "Nayu",
+      "alt_names": [
+        "南喩"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b230846-7HlXb42kBbQj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 230846
+      }
+    },
+    {
+      "id": "yugiha",
+      "name": "Yugiha",
+      "alt_names": [
+        "靫巴"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b230847-PLcX20F72tTC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 230847
+      }
+    },
+    {
+      "id": "moyu",
+      "name": "Moyu",
+      "alt_names": [
+        "望喩"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b230848-pEmtkbi9Tnto.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 230848
+      }
+    },
+    {
+      "id": "miyu",
+      "name": "Miyu",
+      "alt_names": [
+        "実喩"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b230849-uLuyhdhaEEm7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 230849
+      }
+    },
+    {
+      "id": "akira-yamashita",
+      "name": "Akira Yamashita",
+      "alt_names": [
+        "山下晶"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b230850-ILWDujlEdLXm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 230850
+      }
+    },
+    {
+      "id": "fukurokuju",
+      "name": "Fukurokuju",
+      "alt_names": [
+        "福禄寿"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b230852-ec8IZMmueqoe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 230852
+      }
+    },
+    {
+      "id": "touma",
+      "name": "Touma",
+      "alt_names": [
+        "当麻"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b230853-8DxGQ69Xt6fK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 230853
+      }
+    },
+    {
+      "id": "mineha",
+      "name": "Mineha",
+      "alt_names": [
+        "嶺巴"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b230854-FKWHhG052QgK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 230854
+      }
+    },
+    {
+      "id": "benzaiten",
+      "name": "Benzaiten",
+      "alt_names": [
+        "弁財天"
+      ],
+      "role": "supporting",
+      "description": "She is one of the Seven Gods of Fortune. She is officially the goddess of knowledge, beauty, and art (especially music).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b239595-yUzRl3xYw9gH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 239595
+      }
+    },
+    {
+      "id": "hotei",
+      "name": "Hotei",
+      "alt_names": [
+        "布袋"
+      ],
+      "role": "supporting",
+      "description": "He is one of the Seven Gods of Fortune. He is officially the god of abundance and good health.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b239596-gFMFvqPQP0IL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 239596
+      }
+    },
+    {
+      "id": "jurojin",
+      "name": "Jurojin",
+      "alt_names": [
+        "寿老人"
+      ],
+      "role": "supporting",
+      "description": "He is one of the Seven Gods of Fortune. He is officially the god of long life.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b239600-aQRjyxouSLai.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 239600
+      }
+    },
+    {
+      "id": "sasaki",
+      "name": "Sasaki",
+      "alt_names": [
+        "佐々木"
+      ],
+      "role": "supporting",
+      "description": "Caretaker for Hiyori's house.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b242235-IL3zs2iV4W1k.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 242235
+      }
+    },
+    {
+      "id": "fumiha",
+      "name": "Fumiha",
+      "alt_names": [
+        "文巴"
+      ],
+      "role": "supporting",
+      "description": "is Bishamonten's shinki.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b247981-GMl0YAGjmzKx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 247981
+      }
+    },
+    {
+      "id": "hiyori-no-mama",
+      "name": "Hiyori no Mama",
+      "alt_names": [
+        "ひよりのママ",
+        "Hiyori's Mother"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b267078-elTWGeNJ6p3s.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 267078
+      }
+    },
+    {
+      "id": "hiyori-no-papa",
+      "name": "Hiyori no Papa",
+      "alt_names": [
+        "ひよりのパパ"
+      ],
+      "role": "supporting",
+      "description": "Hiyori's dad. Has his own hospital",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312687
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:22:16.977Z"
+  "updated_at": "2025-12-23T04:13:28.987Z"
 }

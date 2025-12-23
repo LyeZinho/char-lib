@@ -1,6 +1,6 @@
 {
   "work_id": "my-dress-up-darling",
-  "count": 24,
+  "count": 28,
   "characters": [
     {
       "id": "marin-kitagawa",
@@ -403,7 +403,6 @@
         "Người dẫn chuyện",
         "Tagapagsalaysay",
         "내레이터",
-        "Narratore",
         "Erzählperson",
         "מספר",
         "Narrátor",
@@ -497,7 +496,7 @@
         }
       ],
       "external_ids": {
-        "anilist": 262092
+        "anilist": 262594
       }
     },
     {
@@ -588,7 +587,98 @@
       "external_ids": {
         "anilist": 262592
       }
+    },
+    {
+      "id": "flower-pet",
+      "name": "Flower Pet",
+      "alt_names": [
+        "フラワーペット"
+      ],
+      "role": "minor",
+      "description": "Shion's magical companion.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264039-NtahTcTkPrwA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 264039
+      }
+    },
+    {
+      "id": "neon-no-flower-pet",
+      "name": "Neon no Flower Pet",
+      "alt_names": [
+        "ネオンのフラワーペット",
+        "Neon's Flower Pet"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b267153-R7Qh9sOmk2Ak.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 267153
+      }
+    },
+    {
+      "id": "liz",
+      "name": "Liz",
+      "alt_names": [
+        "リズ"
+      ],
+      "role": "minor",
+      "description": "A character from the manga \"I'm a Mega-Best-Selling High-School-Student Light Novel Author That Has a Succubus Thirsting for Me Every Night and I Don't Know What to Do.\"",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b267568-Fe0cIRSNmyrr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 267568
+      }
+    },
+    {
+      "id": "kaname",
+      "name": "Kaname",
+      "alt_names": [
+        "要"
+      ],
+      "role": "minor",
+      "description": "The main character of the in-universe \"SuccIDK\" manga series.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275523-4JmDckw35lIV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275523
+      }
     }
   ],
-  "updated_at": "2025-12-22T17:54:41.154Z"
+  "updated_at": "2025-12-23T03:28:09.836Z"
 }

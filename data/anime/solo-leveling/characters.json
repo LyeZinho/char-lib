@@ -1,6 +1,6 @@
 {
   "work_id": "solo-leveling",
-  "count": 25,
+  "count": 68,
   "characters": [
     {
       "id": "jin-u-seong",
@@ -620,7 +620,1037 @@
       "external_ids": {
         "anilist": 184538
       }
+    },
+    {
+      "id": "iron",
+      "name": "Iron",
+      "alt_names": [
+        "아이언"
+      ],
+      "role": "supporting",
+      "description": "A shadow Sung Jin-Woo gained after entering the Red Gate. ~!Before being reawakened as a Shadow he was Chul Kim (김철), an A-Rank Hunter of the White Tiger Guild.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184956-uy2dOVHacMsf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184956
+      }
+    },
+    {
+      "id": "jae-hwan-ju",
+      "name": "Jae-Hwan Ju",
+      "alt_names": [
+        "주재환",
+        "Jae-Hwan Joo",
+        "Atsushi Suou (周防篤司)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210101-UXfCh9WHvata.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210101
+      }
+    },
+    {
+      "id": "kyu-hwan-jo",
+      "name": "Kyu-Hwan Jo",
+      "alt_names": [
+        "조규환",
+        "Kyu-Hwan Cho",
+        "Kouji (コージ)"
+      ],
+      "role": "supporting",
+      "description": "Cho Kyuhwan is a C-rank Hunter and a member of Dongsuk Hwang's raid party.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306638-0s3eVP3j3gUf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306638
+      }
+    },
+    {
+      "id": "dong-suk-hwang",
+      "name": "Dong-Suk Hwang",
+      "alt_names": [
+        "황동숙",
+        "Hayato Ukyou (右京隼人)",
+        "Hwang Dong-Seok (황동석)"
+      ],
+      "role": "supporting",
+      "description": "Hwang Dongsuk is a C-rank Hunter and the older brother of [Dong-Su Hwang](https://anilist.co/character/136075/DongSu-Hwang).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306666-k7s0nluzaWod.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306666
+      }
+    },
+    {
+      "id": "cheol-jin-lee",
+      "name": "Cheol-Jin Lee",
+      "alt_names": [
+        "이철진",
+        "Chul-Jin Lee",
+        "Jin (ジン)"
+      ],
+      "role": "supporting",
+      "description": "Korean C-Rank Hunter and a member of Dong-Suk Hwang's strike squad.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306675-u6IC7OAsf48j.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306675
+      }
+    },
+    {
+      "id": "myung-hwan-go",
+      "name": "Myung-Hwan Go",
+      "alt_names": [
+        "고명환",
+        "Ryouhei Matsuura (松浦良平)"
+      ],
+      "role": "supporting",
+      "description": "Myung-Hwan Go is a Korean C-Rank Hunter under the White Tiger Guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306678-S3BtMZx1jFd7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306678
+      }
+    },
+    {
+      "id": "seok-min",
+      "name": "Seok-Min",
+      "alt_names": [
+        "석민",
+        "Mikihisa (幹久)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326060-rIf2idVY42Y2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326060
+      }
+    },
+    {
+      "id": "jin-seok",
+      "name": "Jin-Seok",
+      "alt_names": [
+        "진숙",
+        "Jin-Suk",
+        "Wataru (わたる)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326066-5IyTecFZyLAx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326066
+      }
+    },
+    {
+      "id": "jun-tae-gu",
+      "name": "Jun-Tae Gu",
+      "alt_names": [
+        "구준태",
+        "Jun-Tae Goo",
+        "Jun (純)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326067-7nQBEss2hcRp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326067
+      }
+    },
+    {
+      "id": "dong-su-hwang",
+      "name": "Dong-Su Hwang",
+      "alt_names": [
+        "황동수",
+        "Dongsoo Hwang",
+        "Masato Ukyou (右京将人)"
+      ],
+      "role": "supporting",
+      "description": "Hwang Dong-su is an​ S-class hunter who works for Scavenger's Guild in America.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136075-M6VRrZyHpaI5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136075
+      }
+    },
+    {
+      "id": "igris",
+      "name": "Igris",
+      "alt_names": [
+        "이그리트",
+        "Ygritte"
+      ],
+      "role": "supporting",
+      "description": "Igris is one of the first Shadows that Sung Jin-Woo acquired. He was initially protecting an empty throne in an Instant Dungeon where Jin-Woo was doing his Job Quest in the Job Change Quest Dungeon.\n\nAfter two failed attempts of Shadow Extraction, Sung Jin-Woo convinced him to protect him instead of protecting an Empty throne, obtaining him as a Knight Grade Shadow.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145722-qSJ71S6vpeeM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145722
+      }
+    },
+    {
+      "id": "myung-han-yu",
+      "name": "Myung-Han Yu",
+      "alt_names": [
+        "유명한",
+        "Akinari Morobishi (諸菱明成)"
+      ],
+      "role": "supporting",
+      "description": "Yu Myung-Han (유명한) is Jin-Ho's father and the CEO of Yoojin Construction.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184530-prSQOxMJid47.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184530
+      }
+    },
+    {
+      "id": "ki-hoon-son",
+      "name": "Ki-Hoon Son",
+      "alt_names": [
+        "손기훈"
+      ],
+      "role": "supporting",
+      "description": "Son Ki-Hoon (손기훈) is the Team Leader of Attack Force B of the Hunters Guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184541-tOghZsQZgBS4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184541
+      }
+    },
+    {
+      "id": "gina",
+      "name": "Gina",
+      "alt_names": [
+        "지나",
+        "リナ"
+      ],
+      "role": "supporting",
+      "description": "Gina is an A-Rank mage and was one of the Raid Members in Son Ki-Hoon's Party in an A-Ranked Gate. She has long blonde hair and deep red eyes. Her height is average and she has a very attractive body. Gina has a serious personality this can be seen when she answers Son Ki-Hoon's question about if she was responsible for killing one of the High Orcs.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210098-Smco3qIRv0GD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210098
+      }
+    },
+    {
+      "id": "laura",
+      "name": "Laura",
+      "alt_names": [
+        "로라",
+        "ローラ"
+      ],
+      "role": "supporting",
+      "description": "Laura is the secretary of Scavenger Guild, the strongest guild in the USA. She is a composed individual who rarely ever shows any emotion.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210099-Ak1Zyy8Q4qf8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210099
+      }
+    },
+    {
+      "id": "sang-min-ahn",
+      "name": "Sang-Min Ahn",
+      "alt_names": [
+        "안상민",
+        "Sangmin Ahn",
+        "Koushirou Shishido (宍戸耕史朗)"
+      ],
+      "role": "supporting",
+      "description": "Sangmin Ahn is the chief of the White Tiger Guild's 2nd Division Management Department.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306652-pwbDRuTHSVxb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306652
+      }
+    },
+    {
+      "id": "ki-cheol-hyeong",
+      "name": "Ki-Cheol Hyeong",
+      "alt_names": [
+        "형기철",
+        "Kichul Hyun"
+      ],
+      "role": "supporting",
+      "description": "Kichul Hyun is the deputy manager of the White Tiger Guild's 2nd Division Management Department and Sangimn Ahn's assistant.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306680-m25zds5TfDOl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306680
+      }
+    },
+    {
+      "id": "bo-ra-lee",
+      "name": "Bo-Ra Lee",
+      "alt_names": [
+        "이보라",
+        "Lee Bora"
+      ],
+      "role": "supporting",
+      "description": "A-Rank Mage from the Hunters Guild who specializes in summoning magic.⁣ She is straightforward, very meticulous, and believes that the only way to overcome difficulties is by laying out the known facts.",
+      "metadata": {
+        "gender": "female",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326616-sUKU0Wr06E7B.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326616
+      }
+    },
+    {
+      "id": "jin-seong-yoo",
+      "name": "Jin-Seong Yoo",
+      "alt_names": [
+        "유진성",
+        "Jinsung Yoo"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331026-4Muo1VA3Pcsr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331026
+      }
+    },
+    {
+      "id": "kyung-hye-park",
+      "name": "Kyung-Hye Park",
+      "alt_names": [
+        "박경혜",
+        "Gyeong-Hye Park"
+      ],
+      "role": "minor",
+      "description": "Park Kyung-He is the mother of Jin-U and Jin-Ah. She was in the hospital because of the Eternal Sleep.\n\nHer sickness served as the primary motivation for Jin-U becoming a hunter alongside his desire to support his sister with the absence of their father.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209396-ZEr0YZIQE0Z0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209396
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "minor",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
+    },
+    {
+      "id": "kyoukai-in-a",
+      "name": "Kyoukai-in A",
+      "alt_names": [
+        "協会員",
+        "Association Member"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323138
+      }
+    },
+    {
+      "id": "kyoukai-in-b",
+      "name": "Kyoukai-in B",
+      "alt_names": [
+        "協会員",
+        "Association Member"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323137
+      }
+    },
+    {
+      "id": "kyoukai-in-c",
+      "name": "Kyoukai-in C",
+      "alt_names": [
+        "協会員",
+        "Association Member"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323139
+      }
+    },
+    {
+      "id": "hittakuri-han",
+      "name": "Hittakuri-han",
+      "alt_names": [
+        "ひったくり犯",
+        "Purse Snatcher"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323151-Urlsqp5gCkPF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323151
+      }
+    },
+    {
+      "id": "yajiuma-no-otoko-a",
+      "name": "Yajiuma no Otoko A",
+      "alt_names": [
+        "野次馬の男"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 324467
+      }
+    },
+    {
+      "id": "yajiuma-no-otoko-b",
+      "name": "Yajiuma no Otoko B",
+      "alt_names": [
+        "野次馬の男"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 324469
+      }
+    },
+    {
+      "id": "kankoshi",
+      "name": "Kankoshi",
+      "alt_names": [
+        "看護師"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326149
+      }
+    },
+    {
+      "id": "hunter-kyouikai-shokuin",
+      "name": "Hunter Kyouikai Shokuin",
+      "alt_names": [
+        "ハンター協会職員",
+        "Hunter Association Staff"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 324470
+      }
+    },
+    {
+      "id": "koujou-genba-kantoku",
+      "name": "Koujou Genba Kantoku",
+      "alt_names": [
+        "工場現場監督",
+        "Factory Site Supervisor"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 324472
+      }
+    },
+    {
+      "id": "tsuukounin",
+      "name": "Tsuukounin",
+      "alt_names": [
+        "通行人",
+        "Passerby"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325159-rQxUGrSI7P1j.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325159
+      }
+    },
+    {
+      "id": "hunter-a",
+      "name": "Hunter A",
+      "alt_names": [
+        "ハンター"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325161
+      }
+    },
+    {
+      "id": "hunter-b",
+      "name": "Hunter B",
+      "alt_names": [
+        "ハンター"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325163
+      }
+    },
+    {
+      "id": "hunter-c",
+      "name": "Hunter C",
+      "alt_names": [
+        "ハンター"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325164
+      }
+    },
+    {
+      "id": "hunter-d",
+      "name": "Hunter D",
+      "alt_names": [
+        "ハンター"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325160
+      }
+    },
+    {
+      "id": "hunter-e",
+      "name": "Hunter E",
+      "alt_names": [
+        "ハンター"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325165-846Fv1p3do7x.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325165
+      }
+    },
+    {
+      "id": "hunter-f",
+      "name": "Hunter F",
+      "alt_names": [
+        "ハンター"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325162
+      }
+    },
+    {
+      "id": "chousa-ka",
+      "name": "Chousa-ka",
+      "alt_names": [
+        "調査課"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326618-TEZdmWeSiql5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326618
+      }
+    },
+    {
+      "id": "shokuin",
+      "name": "Shokuin",
+      "alt_names": [
+        "職員",
+        "Staff"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327117-CXWCdKg0Byvi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327117
+      }
+    },
+    {
+      "id": "monkasei",
+      "name": "Monkasei",
+      "alt_names": [
+        "門下生",
+        "Disciple"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 328557
+      }
+    },
+    {
+      "id": "yuuka",
+      "name": "Yuuka",
+      "alt_names": [
+        "ユウカ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b328558-IWZCIwIHuu5I.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 328558
+      }
+    },
+    {
+      "id": "mizuki-no-haha",
+      "name": "Mizuki no Haha",
+      "alt_names": [
+        "観月の母",
+        "Mizuki's Mother",
+        "Lee Ju-Hee's Mother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 328559
+      }
+    },
+    {
+      "id": "mashima-no-tsuma",
+      "name": "Mashima no Tsuma",
+      "alt_names": [
+        "真島の妻",
+        "Mashima's Wife"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b328560-aCr51jv1yaTS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 328560
+      }
     }
   ],
-  "updated_at": "2025-12-22T17:54:34.437Z"
+  "updated_at": "2025-12-23T05:11:06.913Z"
 }

@@ -1,6 +1,6 @@
 {
   "work_id": "chainsaw-man",
-  "count": 49,
+  "count": 84,
   "characters": [
     {
       "id": "denji",
@@ -1178,7 +1178,814 @@
       "external_ids": {
         "anilist": 144595
       }
+    },
+    {
+      "id": "eien-no-akuma",
+      "name": "Eien no Akuma",
+      "alt_names": [
+        "永遠の悪魔",
+        "Eternity Devil"
+      ],
+      "role": "minor",
+      "description": "The Eien no Akuma is a devil that embodies the fear of eternity. He is the primary antagonist of the titular Eternity Devil arc.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157240-dQJO3S7285nW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157240
+      }
+    },
+    {
+      "id": "kusakabe",
+      "name": "Kusakabe",
+      "alt_names": [
+        "日下部"
+      ],
+      "role": "minor",
+      "description": "Kusakabe is a Public Safety Devil Hunter.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162079-ncDSoNknSOyi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162079
+      }
+    },
+    {
+      "id": "joey",
+      "name": "Joey",
+      "alt_names": [],
+      "role": "minor",
+      "description": "Joey is a devil hunter from the United States.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162124-MK5cvVDOU2DB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162124
+      }
+    },
+    {
+      "id": "tamaoki",
+      "name": "Tamaoki",
+      "alt_names": [
+        "玉置"
+      ],
+      "role": "minor",
+      "description": "Tamaoki is a Public Safety Devil Hunter.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162128-88b09F0hBU5Z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162128
+      }
+    },
+    {
+      "id": "fushi",
+      "name": "Fushi",
+      "alt_names": [
+        "伏"
+      ],
+      "role": "minor",
+      "description": "A Public Safety Devil Hunter.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b172885-hvF2nRMCqNaX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 172885
+      }
+    },
+    {
+      "id": "nakamura",
+      "name": "Nakamura",
+      "alt_names": [
+        "中村"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b172886-QVaVOH7OB0SM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 172886
+      }
+    },
+    {
+      "id": "long",
+      "name": "Long",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b172889-v5ZoNSOVVTcp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 172889
+      }
+    },
+    {
+      "id": "yuurei-no-akuma",
+      "name": "Yuurei no Akuma",
+      "alt_names": [
+        "幽霊の悪魔",
+        "Ghost Devil",
+        "Ghost (ゴースト)"
+      ],
+      "role": "minor",
+      "description": "The Ghost Devil is a devil that embodies the fear of ghosts. \n\n**Known Contractors:** ~![Himeno](https://anilist.co/character/144596/Himeno)!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174262-e1ctdgffT3MP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174262
+      }
+    },
+    {
+      "id": "akane-sawatari",
+      "name": "Akane Sawatari ",
+      "alt_names": [
+        "沢渡アカネ"
+      ],
+      "role": "minor",
+      "description": "An enigmatic former Private Detective Hunter, she pledged her allegiance with the [Gun Devil](https://anilist.co/character/208942/Juu-no-Akuma) after making a contract with him and as a result, she seeks to obtain [Denji](https://anilist.co/character/130102/Denji)'s heart for her master. To that end, she conspires with members of the yakuzas, including the likes of [Katana Man](https://anilist.co/character/157241/Samurai-Sword), while acting as a weapons dealer for them in order to obtain Denji's heart easier.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174264-dLiZkMXoltQ9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174264
+      }
+    },
+    {
+      "id": "noroi-no-akuma",
+      "name": "Noroi no Akuma",
+      "alt_names": [
+        "呪いの悪魔",
+        "Curse Devil",
+        "Curse (カース)"
+      ],
+      "role": "minor",
+      "description": "The Curse Devil is a Devil that embodies the fear of curses.\n\n__Known Contractors:__\n~! [Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa), [Santa Claus](https://anilist.co/character/174268/Doitsu-no-Santa-Claus)!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174265-NsRTeM1eAals.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174265
+      }
+    },
+    {
+      "id": "nomo",
+      "name": "Nomo",
+      "alt_names": [
+        "野茂"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174266-ap8QWVGmsZ3K.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174266
+      }
+    },
+    {
+      "id": "madoka",
+      "name": "Madoka",
+      "alt_names": [
+        "円"
+      ],
+      "role": "minor",
+      "description": "A Public Safety Devil Hunter. ~!After the assault on the Devil Hunters by the [Gun Devil](https://anilist.co/character/208942/Juu-no-Akuma-)'s associates, he was one of the few survivors and decided to leave his job as a Devil Hunter.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174267-2VJVkMILqQpY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174267
+      }
+    },
+    {
+      "id": "hebi-no-akuma",
+      "name": "Hebi no Akuma",
+      "alt_names": [
+        "ヘビの悪魔",
+        "Snake Devil"
+      ],
+      "role": "minor",
+      "description": "The Snake Devil is a devil that embodies the fear of snakes.\n\n__Known Contractors:__\n~![Akane Sawatari](https://anilist.co/character/174264/Akane-Sawatari)!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174269-zhEW2aZthQNI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174269
+      }
+    },
+    {
+      "id": "namako-no-akuma",
+      "name": "Namako no Akuma",
+      "alt_names": [
+        "ナマコの悪魔",
+        "Sea Cucumber Devil"
+      ],
+      "role": "minor",
+      "description": "The Sea Cucumber Devil is a devil that embodies the fear of sea cucumbers.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174270-JcnbKLMlxrkn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174270
+      }
+    },
+    {
+      "id": "koumori-no-akuma",
+      "name": "Koumori no Akuma",
+      "alt_names": [
+        "コウモリの悪魔",
+        "Bat Devil"
+      ],
+      "role": "minor",
+      "description": "The Bat Devil is a devil who embodies the fear of bats. ~!He is the primary antagonist of the titular Bat Devil arc and a minor antagonist in the Justice Devil arc.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174272-cU9W4oNykNM0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174272
+      }
+    },
+    {
+      "id": "sakana-no-akuma",
+      "name": "Sakana no Akuma",
+      "alt_names": [
+        "魚の悪魔",
+        "Fish Devil"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174273-Du3q4e65DU7k.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174273
+      }
+    },
+    {
+      "id": "budou-no-akuma",
+      "name": "Budou no Akuma",
+      "alt_names": [
+        "ブドウの悪魔",
+        "Grape Devil"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174274-V4n2cYHiRAtu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174274
+      }
+    },
+    {
+      "id": "hiru-no-akuma",
+      "name": "Hiru no Akuma",
+      "alt_names": [
+        "ヒルの悪魔",
+        "Leech Devil"
+      ],
+      "role": "minor",
+      "description": "The Leech Devil is a devil that embodies the fear of leeches. ~!She is the secondary antagonist of the Bat Devil arc.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174275-cCAGptyn7ZrR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174275
+      }
+    },
+    {
+      "id": "taifuu-no-akuma",
+      "name": "Taifuu no Akuma",
+      "alt_names": [
+        "台風の悪魔",
+        "Typhoon Devil"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174276-stAdWlAYg0y1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174276
+      }
+    },
+    {
+      "id": "kato",
+      "name": "Kato",
+      "alt_names": [
+        "加藤"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174277-M7koGJI5jVwh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174277
+      }
+    },
+    {
+      "id": "kinniku-no-akuma",
+      "name": "Kinniku no Akuma",
+      "alt_names": [
+        "筋肉の悪魔",
+        "Muscle Devil"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174278-kojySu6JEdfQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174278
+      }
+    },
+    {
+      "id": "tanabe",
+      "name": "Tanabe",
+      "alt_names": [
+        "田辺"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174280-tfDQTac63uq4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174280
+      }
+    },
+    {
+      "id": "subaru",
+      "name": "Subaru",
+      "alt_names": [
+        "スバル"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174281-FAWsbItCB5hp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174281
+      }
+    },
+    {
+      "id": "zombie-no-akuma",
+      "name": "Zombie no Akuma",
+      "alt_names": [
+        "ゾンビの悪魔",
+        "Zombie Devil"
+      ],
+      "role": "minor",
+      "description": "A devil contracted by Denji's yakuza employer at the beginning of the series and the first that Denji killed as the Chainsaw Man. Any person it bit would become a zombie.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174282-YFLwuvogHMod.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174282
+      }
+    },
+    {
+      "id": "himeno-no-imouto",
+      "name": "Himeno no Imouto",
+      "alt_names": [
+        "姫野の妹",
+        "Himeno's Sister"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174283-WfXe3FLaEi3y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174283
+      }
+    },
+    {
+      "id": "buta-no-akuma",
+      "name": "Buta no Akuma",
+      "alt_names": [
+        "豚の悪魔",
+        "Pig Devil"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174284-JvwoPbQEmKkw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174284
+      }
+    },
+    {
+      "id": "masaki-ando",
+      "name": "Masaki Ando",
+      "alt_names": [
+        "安藤マサキ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174285-1xeZ6Vd7sP0y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174285
+      }
+    },
+    {
+      "id": "juu-no-akuma",
+      "name": "Juu no Akuma",
+      "alt_names": [
+        "銃の悪魔",
+        "Gun Devil"
+      ],
+      "role": "minor",
+      "description": "The Gun Devil is a very powerful devil who embodies the fear of guns.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208942-xAA6MWq0eLVg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208942
+      }
+    },
+    {
+      "id": "yami-no-akuma",
+      "name": "Yami no Akuma",
+      "alt_names": [
+        "闇の悪魔",
+        "Darkness Devil"
+      ],
+      "role": "minor",
+      "description": "The Yami no Akuma is a devil that embodies the primal fear of the dark.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212321-sReZKv8a1zaL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212321
+      }
+    },
+    {
+      "id": "kokepii",
+      "name": "Kokepii",
+      "alt_names": [
+        "コケピー",
+        "Bucky",
+        "Chicken Devil",
+        "Cocópi"
+      ],
+      "role": "minor",
+      "description": "__Lifespan:__ 100 Days (3 Months)\n\nBucky is introduced as the Chicken Devil.\n\nThe purpose of Bucky was to be killed and eaten by the fellow Students in the Classroom in order to teach them how precious Life is (this was conducted by their Class Teacher who is known as [Mr. Tanaka](https://anilist.co/character/282390/Tanakasensei))\n\nAs the Days passed, the Students gained a sense of affection for Bucky and didn't feel the need to kill him, knowing this... [Mr. Tanaka](https://anilist.co/character/282390/Tanakasensei) was grateful that this \"experiment\" was a success.\n\n~!Chapter 98 (Bird and War) — Bucky is 'accidentally' killed by [Asa Mitaka](https://anilist.co/character/282389/Asa-Mitaka) when the [Class President](https://anilist.co/character/282391/Gakkyuu-Iinchou) tripped her on behalf of Justice Devil's Advice in order to reach a \"Happy Ending\" with [Mr. Tanaka](https://anilist.co/character/282390/Tanakasensei)!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282388-ZPxNlprwztgI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282388
+      }
+    },
+    {
+      "id": "tomato-no-akuma",
+      "name": "Tomato no Akuma",
+      "alt_names": [
+        "トマトの悪魔",
+        "Tomato Devil"
+      ],
+      "role": "minor",
+      "description": "The Tomato Devil is a devil that embodies the fear of tomatoes. ~!The Tomato Devil was walking around a house, when [Denji](https://anilist.co/character/130102/Denji) with the help of [Pochita](https://anilist.co/character/170266/Pochita) went and killed him.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289200-mkFXS4A4MRBp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289200
+      }
+    },
+    {
+      "id": "furio",
+      "name": "Furio",
+      "alt_names": [
+        "フリオ"
+      ],
+      "role": "minor",
+      "description": "A student attending Fourth East High School and member of the Devil Hunter Club.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b294719-ysyCRHAehwUd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294719
+      }
+    },
+    {
+      "id": "batsu-no-akuma",
+      "name": "Batsu no Akuma",
+      "alt_names": [
+        "罰の悪魔",
+        "Punishment Devil"
+      ],
+      "role": "minor",
+      "description": "The Punishment Devil is a devil that embodies the fear of punishment.\n\n**Known Contractors:**\n~![Yutaro Kurose](https://anilist.co/character/144592/Yuutarou-Kurose), [Michiko Tendou](https://anilist.co/character/144595/Michiko-Tendou).!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306237-7eD9d21JYDWA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306237
+      }
+    },
+    {
+      "id": "denji-no-chichi",
+      "name": "Denji no Chichi",
+      "alt_names": [
+        "デンジの父",
+        "Denji's Father"
+      ],
+      "role": "minor",
+      "description": "This unnamed man was the father of [Denji](https://anilist.co/character/130102/Denji). ~!When Denji was young he killed his father in self defense, as his father was in a drunken aggressive state and he feared for his life. His father's murder was ruled a suicide by the adults in Denji’s life as acknowledging his death as a murder would mean they would be unable to get any money from his death. After his death, Denji inherits his debt to the Yakuza.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311678-oRIk6xOjKo6Q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311678
+      }
+    },
+    {
+      "id": "nazo-no-otoko",
+      "name": "Nazo no Otoko",
+      "alt_names": [
+        "謎の男",
+        "Mysterious Man",
+        "Mohikan Otoko (モヒカン男)",
+        "Mohawk Man"
+      ],
+      "role": "minor",
+      "description": "Private Devil Hunter who attempted to lure Denji out by targeting Reze. He has sadistic personality, taking pleasure in torturing his targets' loved ones in order to break them down.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b378316-kR8JoyqCEPMA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 378316
+      }
     }
   ],
-  "updated_at": "2025-12-22T18:54:28.772Z"
+  "updated_at": "2025-12-23T06:58:37.106Z"
 }

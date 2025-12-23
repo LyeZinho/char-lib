@@ -1,6 +1,6 @@
 {
   "work_id": "violet-evergarden",
-  "count": 25,
+  "count": 34,
   "characters": [
     {
       "id": "violet-evergarden",
@@ -570,7 +570,217 @@
       "external_ids": {
         "anilist": 213148
       }
+    },
+    {
+      "id": "rhodanthe",
+      "name": "Rhodanthe",
+      "alt_names": [
+        "ローダンセ"
+      ],
+      "role": "supporting",
+      "description": "She is the instructor at the Auto Memories Doll Training School.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b223021-wV0NIFbkvPsE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 223021
+      }
+    },
+    {
+      "id": "damian-baldur-flugel",
+      "name": "Damian Baldur Flugel",
+      "alt_names": [
+        "ダミアン・バルドゥール・フリューゲル"
+      ],
+      "role": "supporting",
+      "description": "He is the prince of the Kingdom of Flugel who is set to marry princess Charlotte of the Kingdom of Drossel.",
+      "metadata": {
+        "gender": "male",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b223022-POpRH4oO9GzH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 223022
+      }
+    },
+    {
+      "id": "oscar-webster",
+      "name": "Oscar Webster",
+      "alt_names": [
+        "オスカー・ウェブスター"
+      ],
+      "role": "supporting",
+      "description": "A playwright who used to seclude himself due to the deaths of his wife and daughter. However, after deciding to write his very first children's play to dedicate it to his daughter's memory, he entrusts Violet with the task of putting his ideas on paper.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b223023-wV9gimuZXbHn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 223023
+      }
+    },
+    {
+      "id": "olivia-webster",
+      "name": "Olivia Webster",
+      "alt_names": [
+        "オリビア・ウェブスター"
+      ],
+      "role": "supporting",
+      "description": "She is the beloved daughter of Oscar and the insipration behind Olive, the main character in her father's first children's play.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b223024-xYLwf6yiJe3U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 223024
+      }
+    },
+    {
+      "id": "clara-magnolia",
+      "name": "Clara Magnolia",
+      "alt_names": [
+        "クラーラ・マグノリア"
+      ],
+      "role": "supporting",
+      "description": "She is the mother of [Ann](https://anilist.co/character/213148/Ann-Magnolia), who had a terminal illness and predicted that her fate was close.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b223026-8YxH3lSDQqEW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 223026
+      }
+    },
+    {
+      "id": "illias-vandal",
+      "name": "Illias Vandal",
+      "alt_names": [
+        "イライアス・ヴァンダル",
+        "Elias Vandal"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b223027-Fwk7l8pJh9R5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 223027
+      }
+    },
+    {
+      "id": "eckhart-munter",
+      "name": "Eckhart Munter",
+      "alt_names": [
+        "エックハルト・ミュンター"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b223028-jKLLaiucqmew.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 223028
+      }
+    },
+    {
+      "id": "merkulov",
+      "name": "Merkulov",
+      "alt_names": [
+        "メルクーロフ",
+        "Brigadier General Merkulov"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b223029-uXohM0S0rWjd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 223029
+      }
+    },
+    {
+      "id": "alberta",
+      "name": "Alberta",
+      "alt_names": [
+        "アルベルタ"
+      ],
+      "role": "supporting",
+      "description": "A court lady in the service of the royal family of the kingdom of Drossel, she has been taking care of Charlotte since she was born, and she is more important to Charlotte than her own parents.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b330769-etoJuJHTxylM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 330769
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:27:42.483Z"
+  "updated_at": "2025-12-23T06:12:59.706Z"
 }

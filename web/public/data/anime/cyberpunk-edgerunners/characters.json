@@ -1,6 +1,6 @@
 {
   "work_id": "cyberpunk-edgerunners",
-  "count": 25,
+  "count": 48,
   "characters": [
     {
       "id": "david-martinez",
@@ -584,7 +584,535 @@
       "external_ids": {
         "anilist": 287948
       }
+    },
+    {
+      "id": "evans",
+      "name": "Evans",
+      "alt_names": [
+        "エバンス"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287949-2SyBhEEerxBa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287949
+      }
+    },
+    {
+      "id": "yumiko",
+      "name": "Yumiko",
+      "alt_names": [
+        "ユミコ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287950-dXrpc7mdHLth.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287950
+      }
+    },
+    {
+      "id": "kouchou",
+      "name": "Kouchou",
+      "alt_names": [
+        "校長",
+        "Principal"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287421-oP973niJR4CQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287421
+      }
+    },
+    {
+      "id": "ai-kyoushi",
+      "name": "AI Kyoushi",
+      "alt_names": [
+        "AI教師",
+        "AI Teacher"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287422-5v6TaeuzETtV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287422
+      }
+    },
+    {
+      "id": "classmate",
+      "name": "Classmate",
+      "alt_names": [
+        "クラスメイト",
+        "Katsuo's Goons"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287427
+      }
+    },
+    {
+      "id": "ishi",
+      "name": "Ishi",
+      "alt_names": [
+        "医師",
+        "Clinic Doctor"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331894
+      }
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "alt_names": [
+        "アニマルズ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287965
+      }
+    },
+    {
+      "id": "trauma-team",
+      "name": "Trauma Team",
+      "alt_names": [
+        "トラウマ チーム"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287938
+      }
+    },
+    {
+      "id": "ooya",
+      "name": "Ooya",
+      "alt_names": [
+        "大家",
+        "Landlord"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287440
+      }
+    },
+    {
+      "id": "medic",
+      "name": "Medic",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287443-WAVDonix3vdz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287443
+      }
+    },
+    {
+      "id": "laundry-machine-ai",
+      "name": "Laundry Machine AI",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287444
+      }
+    },
+    {
+      "id": "maxim-kuznetzov",
+      "name": "Maxim Kuznetzov",
+      "alt_names": [
+        "マクシム"
+      ],
+      "role": "minor",
+      "description": "Maxim Kuznetsov is a Solo working as a driver for the Arasaka Corporation",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287445-5sYdCbSyKvJm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287445
+      }
+    },
+    {
+      "id": "tyger-claws",
+      "name": "Tyger Claws",
+      "alt_names": [
+        "タイガークロウズ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287446-9zhFvCbqq3OZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287447-LsiZeqjtIo7Y.png",
+          "type": "portrait",
+          "source": "AniList"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287956
+      }
+    },
+    {
+      "id": "boxers",
+      "name": "Boxers",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287449
+      }
+    },
+    {
+      "id": "ncpd-officers",
+      "name": "NCPD Officers",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287457
+      }
+    },
+    {
+      "id": "max-tac-officer",
+      "name": "Max-Tac Officer",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287458
+      }
+    },
+    {
+      "id": "radio-dj",
+      "name": "Radio DJ",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287933
+      }
+    },
+    {
+      "id": "weather-presenter",
+      "name": "Weather Presenter",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287935
+      }
+    },
+    {
+      "id": "maelstrom",
+      "name": "Maelstrom",
+      "alt_names": [
+        "メイストローム"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287943-90Mummdlkx5e.png",
+          "type": "portrait",
+          "source": "AniList"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287944-zoF28E5IHeuB.png",
+          "type": "portrait",
+          "source": "AniList"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287945-OIYjaJoSE3T7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287945
+      }
+    },
+    {
+      "id": "man-in-the-car",
+      "name": "Man in the Car",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287951
+      }
+    },
+    {
+      "id": "max-tac",
+      "name": "Max-Tac",
+      "alt_names": [
+        "マックス・タック"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287970
+      }
+    },
+    {
+      "id": "militech-soldier",
+      "name": "Militech Soldier",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287974
+      }
+    },
+    {
+      "id": "rogue-amendiares",
+      "name": "Rogue Amendiares",
+      "alt_names": [
+        "ローグ・アメンディアレス",
+        "Queen of Fixers",
+        "Queen of the Afterlife"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "age": "80+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290013-vpOI5TjibXM0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290013
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:19:13.717Z"
+  "updated_at": "2025-12-23T00:54:45.003Z"
 }

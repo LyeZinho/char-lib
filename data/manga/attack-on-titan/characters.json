@@ -1,6 +1,6 @@
 {
   "work_id": "attack-on-titan",
-  "count": 25,
+  "count": 174,
   "characters": [
     {
       "id": "mikasa-ackerman",
@@ -615,7 +615,3415 @@
       "external_ids": {
         "anilist": 71453
       }
+    },
+    {
+      "id": "keiji",
+      "name": "Keiji",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Member of the Scouting Legion.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n71455-Mvk4Pz3tWUuN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 71455
+      }
+    },
+    {
+      "id": "marlo-freudenberg",
+      "name": "Marlo Freudenberg",
+      "alt_names": [
+        "マルロ・フロイデンベルク"
+      ],
+      "role": "supporting",
+      "description": "__Affiliations:__ Military Police, 104th Cadet Corps.\n\nRecruit of the Military Police stationed in Stohess District.\n\nWhile most who join the Military Police Regiment do so because they want a safe position far from the danger of the Titans, Marlo did so because he claims to want \"to uphold justice and do what's right.\", much to the amusement of his fellow officer, [Hitch Dreyse](https://anilist.co/character/86017/Hitch-Dreyse), whom he often clashes with due to them being near complete opposites. His goal is to rise to the top of the organization so he can stop the pilfering of taxes and misappropriation of land. Though steadfast in his idealism, he could make moral compromises to achieve his goal, confessing a willingness to act like \"scum\" in order to move up in rank. Due to his passion towards his ideals, he had often been compared to [Eren Yeager](https://anilist.co/character/40882/Eren-Yeager) by people who know both of them.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71457-7H5bMZezo4ze.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 71457
+      }
+    },
+    {
+      "id": "dieter-ness",
+      "name": "Dieter Ness",
+      "alt_names": [
+        "ディータ・ネス"
+      ],
+      "role": "supporting",
+      "description": "A member of the Scout Regiment and a team leader in the 57th Exterior Scouting Mission.\n\n~!He encounters the Female Titan, who catches Ness's line and whips it to the ground, killing him instantly.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n71459-LTpcvj8aO6i2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 71459
+      }
+    },
+    {
+      "id": "luke-siss",
+      "name": "Luke Siss",
+      "alt_names": [
+        "ルーク・シス"
+      ],
+      "role": "supporting",
+      "description": "Luke Siss  was a skilled member of the Survey Corps and a participant during the 57th Expedition Outside the Walls.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/71461.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 71461
+      }
+    },
+    {
+      "id": "ymir",
+      "name": "Ymir",
+      "alt_names": [
+        "ユミル",
+        "Freckles",
+        "Freckles Ymir"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 172 cm (5'7\")\n__Affiliations:__ 104th Trainees Squad, Scouting Legion\n\nMember of the Scouting Legion. She seems selfish, cynical, bossy, sly, uncooperative, exploitative, and confrontational, but she can apparently be kind, especially to [Krista](https://anilist.co/character/62481/Krista-Lenz).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71479-huCD908XIdqv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 71479
+      }
+    },
+    {
+      "id": "nanaba",
+      "name": "Nanaba",
+      "alt_names": [
+        "ナナバ"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 172 cm\n__Affiliation__: Scouting Legion Survey Corps",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71481-q2pfKJRFiNUE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 71481
+      }
+    },
+    {
+      "id": "oluo-bozard",
+      "name": "Oluo Bozard",
+      "alt_names": [
+        "オルオ・ボザド",
+        "Oruo Bozad"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 173 cm (5'8\")\n__Affiliations:__ Survey Corps; Soldier, Special Operations Squad\n__Relatives:__ [Mother](https://anilist.co/character/131991/Oluo-no-Haha), [Father](https://anilist.co/character/131994/Oluo-no-Chichi), Several Siblings.\n\nOruo Bozad is a soldier of the Survey Corps hand-picked by [Captain Levi](https://anilist.co/character/45627/Levi) for the Special Operations Squad for his especially high Titan kill record.\n\nOruo is a very self-confident, outspoken individual, and enjoys boasting about his own prowess. Despite his obnoxious demeanor, he is admittedly one of the best out of Levi Squad; having the highest kill count out of his peers, bested only by Levi. This only helps fuel his haughty nature. Though Oruo tries to come across as self-important, his cockiness is rarely taken seriously, and he is also shown to be somewhat clumsy, frequently biting his own tongue on accident while riding horses. Oruo also frequently attempts to imitate Levi, such as his rough speech and confident attitude, much to the frustration of one of his fellow teammates, [Petra Ral](https://anilist.co/character/62501).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71687-jd78w4orXonI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 71687
+      }
+    },
+    {
+      "id": "eld-gin",
+      "name": "Eld Gin",
+      "alt_names": [
+        "エルド・ジン"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 182 cm (6'0\")\n\nEld Gin is an elite soldier in the Survey Corps. He was hand-picked by [Captain Levi](https://anilist.co/character/45627/Levi) and placed in the Special Operations Squad, of which he is second-in-command.\n\nEld is a responsible and firm leader with a strong sense of duty. He does not talk much, but when he does, he did so bluntly and in a straightforward manner. He also seems to have been a veteran of sorts as he teased [Petra Ral](https://anilist.co/character/62501) and [Oluo Bozad](https://anilist.co/character/71687/Oluo-Bozard) about how they acted during their first expedition. He also seems to hold some sort of belief of what makes a true soldier, saying that a kill record alone does not make a great soldier.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71689-AkkBVdgOWjFU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 71689
+      }
+    },
+    {
+      "id": "gunther-schultz",
+      "name": "Gunther Schultz",
+      "alt_names": [
+        "グンタ・シュルツ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 183 cm (6'0\")\n__Relatives:__ [Mother](https://anilist.co/character/131990/Gunther-no-Haha), [Grandfather](https://anilist.co/character/131986/Gunther-no-Ojsan).\n\nGunther Schultz is one of the Survey Corps soldiers hand-picked by [Captain Levi](https://anilist.co/character/45627/Levi) to join the Special Operations Squad, both for his strength and his distrust for [Eren Yaeger](https://anilist.co/character/40882/Eren-Yeager).\n\nBeing a soldier of the Survey Corps who survived multiple encounters with Titans significantly affected Gunther's personality, making him deeply obedient and loyal to his superiors. Within the Special Operations Squad, Gunther seems to be the most reasonable one. However, he is shown to get irritated when his comrades joke around with one another, showing he also possesses a stern side and does not take kindly if a soldier doesn't focus on the task at hand.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71691-9xxv0NFB2CWm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 71691
+      }
+    },
+    {
+      "id": "gelgar",
+      "name": "Gelgar",
+      "alt_names": [
+        "ゲルガー",
+        "Gerger"
+      ],
+      "role": "supporting",
+      "description": "Member of Scouting Legion. Has an undying love for alcohol.\n\n(Source: Attack on Titan Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n72511-jDEdtgvMh5wM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72511
+      }
+    },
+    {
+      "id": "henning",
+      "name": "Henning",
+      "alt_names": [
+        "ヘニング"
+      ],
+      "role": "supporting",
+      "description": "Member of Scouting Legion that fought the Castle Utgard's battle.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n75512-n4YFjhinWoyj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 75512
+      }
+    },
+    {
+      "id": "rene",
+      "name": "Rene",
+      "alt_names": [
+        "リーネ"
+      ],
+      "role": "supporting",
+      "description": "Member of Scouting Legion that fought the Castle Utgard's battle.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n75514-kho5WgnvUWWV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 75514
+      }
+    },
+    {
+      "id": "mina-carolina",
+      "name": "Mina Carolina",
+      "alt_names": [
+        "ミーナ・カロライナ"
+      ],
+      "role": "supporting",
+      "description": "Mina appears in Ch. 3. When the Colossal Titan appears outside Trost District, the burst of steam from its body knocks a number of trainees off the Wall. She follows when Eren instructs the other trainees to attack the Colossal Titan. After the second attack of the Colossal Titan, she was assigned to the middle guard along with Eren Yeager and Armin Arlert. Initially tasked with working under the training corps, they eventually were incorporated into the front guard due to the number of titans. Catching the group unaware, a titan lunged at the roof top they were standing on.   When Eren was talking about how killing titans that got in Trost District will get their rank up high, she joined him indicating that she is also signing up for Scouting Legion.   ~! After Eren's leg got bitten off by one of the titans, She and the other two tries to kill the titan that is responible for biting off Eren's leg. However, her Three Dimensional Maneuver Gear's wire was caught by titan's hand and was knocked over to the wall. When she found out where she was, it was too late for her to escape. She was caught by another titan and her face got bitten off.  !~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b83181-EiVdjFn702Mc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 83181
+      }
+    },
+    {
+      "id": "keith-shadis",
+      "name": "Keith Shadis",
+      "alt_names": [
+        "キース・シャーディス"
+      ],
+      "role": "supporting",
+      "description": "Keith Shadis was the head instructor of the 104th Trainees Squad. He seemed to be a friend or have some sort of relationship with Dr. Grisha, as he knew Eren is the son of the doctor and praised Eren for his effort.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n84305-15nngV5nTUp6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84305
+      }
+    },
+    {
+      "id": "hugo",
+      "name": "Hugo",
+      "alt_names": [
+        "フーゴ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84307-faKVhlw386q7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84307
+      }
+    },
+    {
+      "id": "moses",
+      "name": "Moses",
+      "alt_names": [
+        "モーゼス",
+        "Brown"
+      ],
+      "role": "supporting",
+      "description": "He was a member of the Scouting Legion and was the first person killed by a Titan at the start of the series. When the Recon Corps squad returns to the District of Shiganshina, his mother starts asking for him, and the Squad leader, gives her all that remained of him- his right arm. In the manga his name is Brown (ブラウン), although it is changed to Moses in the anime. (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84309-ntK7TKP6RkPe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84309
+      }
+    },
+    {
+      "id": "moses-no-haha",
+      "name": "Moses no Haha",
+      "alt_names": [
+        "モーゼスの母"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n84311-iVwsDOzTSyvJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84311
+      }
+    },
+    {
+      "id": "armin-no-ojii-san",
+      "name": "Armin no Ojii-san",
+      "alt_names": [
+        "アルミンのお祖父さん",
+        "Armin’s Grandfather"
+      ],
+      "role": "supporting",
+      "description": "The paternal grandfather of Armin Arlert. Before the fall of Wall Maria, He possessed a book containing illegal information about the world beyond the Walls. He gave this book to his grandson, Armin Arlert, who showed it to his best friend Eren, kindling his desire to see the outside world",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84313-kYfb2g4OR7je.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84313
+      }
+    },
+    {
+      "id": "samuel-linke-jackson",
+      "name": "Samuel Linke-Jackson ",
+      "alt_names": [
+        "サムエル・リンケ-ジャクソン"
+      ],
+      "role": "supporting",
+      "description": "Samuel is a member of the 104th Trainees Squad.  He appears in Ch. 3. When the Colossal Titan appears outside Trost District, the burst of steam from its body knocks a number of trainees off the Wall. While most are able to switch to their Three Dimensional Maneuver Gear and anchor themselves to the Wall, Samuel is struck in the head by a piece of falling rock and stunned. Sasha saves him from falling to his death by firing one of her grappling hooks into his leg. Eren tells Sasha to take Samuel somewhere safe, then instructs the other trainees to attack the Colossal Titan.\n\n~!He is killed by Connie after being shot three times in the head.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84315-MwzNp8eSjg8v.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84315
+      }
+    },
+    {
+      "id": "franz-kefka",
+      "name": "Franz Kefka",
+      "alt_names": [
+        "フランツ・ケフカ"
+      ],
+      "role": "supporting",
+      "description": "Franz is a member of the 104th Trainees Squad.  Franz first appears Ch.3 in walking through Trost District with Eren and Hannah. Eren refers to Hannah and Franz as a couple, which they both embarrassedly deny.    ~!At some point following the breach of the Wall by the Colossal Titan, Franz is attacked by a Titan. He is bitten in half and dies.   Armin finds Hannah futilely attempting CPR on what remains of Franz's corpse. He tells her it's useless, and advises her to retreat to the Wall before it's too late.!~\n\n(Source: Shingeki no Kyojin Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84317-mIg4hGXJKhQt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84317
+      }
+    },
+    {
+      "id": "hannah-diament",
+      "name": "Hannah Diament",
+      "alt_names": [
+        "ハンナ・ディアマント"
+      ],
+      "role": "supporting",
+      "description": "Hannah is a member of the 104th Trainees Squad.  Hannah first appears in Ch. 3 walking through Trost District with Eren and Franz. Eren refers to Hannah and Franz as a couple, which they both embarrassedly deny.   ~!In the 5th chapter, Armin finds Hannah in the street attempting to administer CPR to the corpse of Franz. Her efforts to resuscitate him are futile, as he has been bitten in half. Armin advises her to give up and retreat back to Wall Rose; then, unable to bear the carnage any longer, flees.   As she has not appeared since, it is unknown whether or not she took his advice and survived or remained and perished.!~ \n\n(Source: Shingeki no Kyojin Wikia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84319-MkSqCC8JlYR3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84319
+      }
+    },
+    {
+      "id": "daz",
+      "name": "Daz",
+      "alt_names": [
+        "ダズ"
+      ],
+      "role": "supporting",
+      "description": "Daz is a member of the 104th Trainees Squad.   \n\n~!In Ch. 40, Ymir and Historia Reiss recount a story about Dazz from training. Wanting praise and recognition, Dazz undertook harsh physical training in the snowy mountains. However, he wasn't strong enough to endure it, and nearly died. Ymir told Krista to leave him behind or her own life would be endangered; when Krista refused, Ymir used her Titan shifter powers to bring Dazz back to the camp safely.  In Ch. 12, when Dot Pixis announces the plan to reconquer Trost District, Dazz has a breakdown and starts screaming that he doesn't want to die. Though Marco Bott tries to quiet him, a commanding officer overhears and threatens to execute him. Dazz replies that execution would be better then being eaten by a Titan. However, Dot Pixis then announces that all deserters will be pardoned -- but have to live with the guilt that they abandoned their families to the Titans. Dazz is unable to leave his family to that fate, and returns to participate in the operation to plug the breach.   After the mission, he briefly appears in Chapter 21 standing next to Sasha Blouse when Irvin Smith gives a speech urging the 104th Training Squad members to join the Scouting Legion. As he is not present in the group of trainees who join, he presumably opted for the Stationary Guard instead.!~ \n\n(Source: Shingeki no Kyojin Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84321-i4A69zVC6YMM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84321
+      }
+    },
+    {
+      "id": "megane-no-kyoukan",
+      "name": "Megane no Kyoukan",
+      "alt_names": [
+        "眼鏡の教官"
+      ],
+      "role": "supporting",
+      "description": "Instructor with glasses that first appears in episode 3 and is later seen in episode 5 teaching the 104th Corps what is known about the Titans and their origins.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84323-zHWF3Z83EZ7U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84323
+      }
+    },
+    {
+      "id": "kitz-weilman",
+      "name": "Kitz Weilman",
+      "alt_names": [
+        "キッツ・ヴェールマン"
+      ],
+      "role": "supporting",
+      "description": "The Captain of the Garrison's 1st Division Elite Forces",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84325-RGWFyLMV6JZV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84325
+      }
+    },
+    {
+      "id": "bart",
+      "name": "Bart",
+      "alt_names": [
+        "バルト",
+        "Barto"
+      ],
+      "role": "supporting",
+      "description": "Original anime character. He is a Noble in the District of Marquis and friend of Pixis, who challenges him to leisurely games of chess. In the anime, as Pixis makes to leave upon learning of the invasion of Trost in the year 850, he tries to prevent him from going to the battlefield and instead have Pixis and his men stay and protect him and his property, viewing the lowly commoners being attacked as trash.  \n\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84327-Wg2P1FSDecGc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84327
+      }
+    },
+    {
+      "id": "gustav",
+      "name": "Gustav",
+      "alt_names": [
+        "グスタフ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84329-vLIxfAIYGPug.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84329
+      }
+    },
+    {
+      "id": "anka-rheinberger",
+      "name": "Anka Rheinberger",
+      "alt_names": [
+        "アンカ・ラインベルガー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84331-9r0TU5kEFitO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84331
+      }
+    },
+    {
+      "id": "ian-dietrich",
+      "name": "Ian Dietrich",
+      "alt_names": [
+        "イアン・ディートリッヒ"
+      ],
+      "role": "supporting",
+      "description": "Ian is a member of the Stationary Guard in Trost District.  Ian first appears in Ch. 5 after Trost District is breached by the Colossal Titan. He compliments Mikasa for killing a Titan that was attacking a group of evacuating civilians.    ~!In Ch. 12, a plan is formed for Eren to use his Titan powers to seal the breach with a boulder. Ian is placed in charge of the elite squad assigned to protect Eren on his mission.   When Eren loses control of his Titan form in Ch. 13, Mitabi and Rico advise Ian to abort the mission and retreat. However, Ian orders his soldiers to continue to defend Eren down to the last man, as Eren is their only hope against the Titans.   In Ch. 14, Eren regains his senses due to Armin's intervention, and Ian orders his soldiers to protect him until he reaches the breach even at the cost of their own lives. Ian uses himself as bait to lure Titans away from Eren, sacrificing his life in order to ensure the success of the mission.!~ \n\n(Source: Shingeki no Kyojin Wikia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84333-s7JjasoIYuLK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84333
+      }
+    },
+    {
+      "id": "nack-tierce",
+      "name": "Nack Tierce",
+      "alt_names": [
+        "ナック・ティアス"
+      ],
+      "role": "supporting",
+      "description": "One of the graduates from the 104th Training Corps. He was a part of the 34th squad sent to support the rear vanguard during the invasion of Trost. He was killed after the squad was ambushed by a group of Titans.  \n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84335-o4ECgCR70JoD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84335
+      }
+    },
+    {
+      "id": "mylius-zeramuski",
+      "name": "Mylius Zeramuski",
+      "alt_names": [
+        "ミリウス・ゼルムスキー"
+      ],
+      "role": "supporting",
+      "description": "One of the graduates from the 104th Training Corps. He was a part of the 34th squad sent to support the rear vanguard during the invasion of Trost.   ~!He was killed after the squad was ambushed by a group of Titans.!~ \n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84337-qoU8Uea1oT9C.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84337
+      }
+    },
+    {
+      "id": "mikasa-no-chichi",
+      "name": "Mikasa no Chichi",
+      "alt_names": [
+        "ミカサの父"
+      ],
+      "role": "supporting",
+      "description": "He and his family lived in a forest within the Shiganshina District.\nHe seemed to be a lighthearted but hard working man. When asked by Mikasa how babies were made, he jokingly claimed he did not know and suggested she ask Dr. Jaeger when he arrives.\n~!It is hinted that Mikasa's father, or a close relative of his, was driven into poverty due to their business failing. As such, Mikasa's father and his family lived in the woods within the Shiganshina District to avoid persecution from the government!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n84339-O2BcKvQoHT94.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84339
+      }
+    },
+    {
+      "id": "mikasa-no-haha",
+      "name": "Mikasa no Haha",
+      "alt_names": [
+        "ミカサの母"
+      ],
+      "role": "supporting",
+      "description": "Mikasa's mother.  First Appearance Anime: Ep. 6\nA woman of Oriental heritage appearing to be in her mid thirties.\nShe appeared to be a kind and loving mother, holding value in keeping with tradition. When her and Mikasa's lives were threatened, she quickly turned into a fierce mother, trying to do whatever was necessary to protect Mikasa.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n84341-o3ojpfHhp7o8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84341
+      }
+    },
+    {
+      "id": "rico-brzenska",
+      "name": "Rico Brzenska",
+      "alt_names": [
+        "リコ・ブレツェンスカ"
+      ],
+      "role": "supporting",
+      "description": "The Squad Leader of the 1st Division Elite Force of the Stationary Guard.    ~!She is the sole survivor of the elite squads assigned to protect Eren during the liberation of Trost District. She does not trust Eren and still views him as a traitor.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84707-b43XdPG1SCRK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84707
+      }
+    },
+    {
+      "id": "tom",
+      "name": "Tom",
+      "alt_names": [
+        "トム"
+      ],
+      "role": "supporting",
+      "description": "One of the graduates from the 104th Training Corps. During the invasion of Trost in the year 850, he was part of the squad including Jean and Mikasa whose Maneuvering Gears start to run out of propulsion fuel. As his fuel finally depletes he becomes surrounded by a group of Titans and is killed. Jean, who was in charge of the squad, capitalized on the opportunity and used him as bait to distract the Titans while the rest of the squad made their way back to the Headquarters to resupply.  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85211-twgcd2ZHhi1D.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85211
+      }
+    },
+    {
+      "id": "hitch-dreyse",
+      "name": "Hitch Dreyse",
+      "alt_names": [
+        "ヒッチ・ドリス"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 168 cm\n__Affiliations:__ 104th Cadet Corps.\n\nRecruit of the Military Police stationed in Stohess District. She was roommates with [Annie Leonhart](https://anilist.co/character/46490/Annie-Leonhart).\n\nHitch acts immature in certain ways, she has a sarcastic, easygoing personality and seems to mischievously enjoy teasing and needling her fellow officers, especially [Marlo Freudenberg](https://anilist.co/character/71457/Marlo-Freudenberg). She claims she chose to join the Military Police out of laziness, as it is well known that the senior staff are incredibly corrupt and she wanted to benefit from the system herself; however, she did not take into account that, as a new recruit, her superiors would dump all their work on her. Though she may act a bit air-headed at times, Hitch is not selfish and cares about those around her, especially her fellow comrades.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b86017-m6vXFRKWMwUo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 86017
+      }
+    },
+    {
+      "id": "mitabi-jarnach",
+      "name": "Mitabi Jarnach",
+      "alt_names": [
+        "ミタビ・ヤルナッハ"
+      ],
+      "role": "supporting",
+      "description": "Mitabi Jarnach is a member of the Stationary Guard in Trost District.   ~!Mitabi first appears in Ch. 13 as the leader of one of the units assigned to protect Eren on his mission to plug the breach in Trost's Wall created by the Colossal Titan. When Eren loses control of his Titan form, Mitabi advises Ian to abort the mission and retreat to the safety of Wall Rose; however, Ian orders him to continue defending Eren.   In Ch. 14, Eren regains his senses and begins carrying a boulder to plug the breach in the Wall. As there are too many Titans to fight them all, Mitabi and his men instead use themselves as bait to lure the Titans away from Eren, sacrificing their lives to ensure the success of the mission.!~ First Appearance Manga: Ch. 13 Anime: Ep. 11  (Source: Shingeki no Kyojin Wikia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87385-4vMsvdmAUlNe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87385
+      }
+    },
+    {
+      "id": "pieck-finger",
+      "name": "Pieck Finger",
+      "alt_names": [
+        "ピーク・フィンガー"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 155 cm\n\nPieck is an Eldian who serves as one of Marley's Warriors. She is shown to be somewhat sweet and kind, consistently shown to care about her fellow Warriors and the Warrior candidates. ~!She is the current inheritor of the Cart Titan.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125603-Z2rgiHUGbAmY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125603
+      }
+    },
+    {
+      "id": "gabi-braun",
+      "name": "Gabi Braun",
+      "alt_names": [
+        "ガビ・ブラウン",
+        "Mia (ミア)"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 138 cm\n\nGabi Braun is an Eldian living in the Liberio internment zone and the cousin of [Reiner Braun](https://anilist.co/character/46484/Reiner-Braun). She is friends with her fellow warrior candidates [Udo](https://anilist.co/character/125663), [Zofia](https://anilist.co/character/125664/Zofia), and [Falco Grice](https://anilist.co/character/125660). \n\nGabi is very passionate and head-strong, expressing her emotions and opinions without inhibition. She is also brave, possessing boundless determination, and willing to put her life on the line to complete a goal for a perceived greater good. However, these attributes can also make her somewhat overbearing and domineering. This causes her to be tactless at times, forcing her opinions on others and taking charge regardless of whether it was asked for or not. She mostly shows this side around her fellow Warrior candidates, considering herself their de facto leader to an extent, and even threatening to 'punish' them when they disagree with her. Nonetheless, she is friendly enough that they have no issue with spending their leisure time with her. Aside from her resolve and determination, Gabi is care-free even on the battlefield, making remarks about her cuteness and claiming her commander loves her too much to sacrifice her.\n\n~!She is a Warrior candidate that is likely to inherit the Armored Titan.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125659-O37MZQWibV7g.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125659
+      }
+    },
+    {
+      "id": "falco-grice",
+      "name": "Falco Grice",
+      "alt_names": [
+        "ファルコ・グライス",
+        "Ben (ベン)"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 140 cm\n__Position__: Warrior Candidate\n\nFalco Grice is an Eldian Warrior candidate working for the Marley government and is the younger brother of [Colt Grice](https://anilist.co/character/125665/Colt-Grice). Falco is close friends with his fellow warrior candidates; [Udo](https://anilist.co/character/125663/Udo), [Zofia](https://anilist.co/character/125664/Zofia), and [Gabi](https://anilist.co/character/125659/Gabi-Braun).\n\nWhile not as physically strong as his fellow soldiers, he makes up for it with his quick wit and improvisation. He is a very merciful and compassionate person, going out of his way to protect and save other people lives, even enemy soldiers. He is also very polite and respectful towards others, and is an empathetic person, being willing to hear people out and properly understand things from their points of view.\n\n~!He is a candidate to inherit the power of the Armored Titan. He has the desire to become the Armored Titan in order to prevent Gabi Braun from inheriting it, as he has a crush on her and wants them to live a long life.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "12-15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125660-mrmpOJLjJIkv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125660
+      }
+    },
+    {
+      "id": "zeke",
+      "name": "Zeke",
+      "alt_names": [
+        "ジーク"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 183 cm\n\nZeke is the current inheritor of the Beast Titan, and is considered by [Reiner Braun](https://anilist.co/character/46484/Reiner-Braun) to be the strongest Warrior, contrasting [Levi's](https://anilist.co/character/45627/Levi) title of \"humanity's strongest soldier\".",
+      "metadata": {
+        "gender": "male",
+        "age": "25-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125661-FiqFvAtNlL0v.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125661
+      }
+    },
+    {
+      "id": "porco-galliard",
+      "name": "Porco Galliard",
+      "alt_names": [
+        "ポルコガリアード",
+        "Pock (ポッコ)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 175 cm\n__Position:__ Marley's Warrior\n\nPorco Galliard is an Eldian and the younger brother of Marcel Galliard. \n\n~!He is one of Marley's Warriors and inherited the Jaw Titan from Ymir.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125662-an9dgh4LZ016.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125662
+      }
+    },
+    {
+      "id": "udo",
+      "name": "Udo",
+      "alt_names": [
+        "ウド"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 146 cm\n__Position__: Warrior Candidate\n\nUdo is an Eldian Warrior candidate working for the Marley government. \n\n~!He is a candidate to inherit the Armored Titan power.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125663-GBJ8dfETGk6q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125663
+      }
+    },
+    {
+      "id": "zofia",
+      "name": "Zofia",
+      "alt_names": [
+        "ゾフィア"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 142 cm\n__Position__: Warrior Candidate\n\nZofia is an Eldian Warrior candidate working for the Marley government.\n\n~!She is a candidate to inherit the Armored Titan power.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125664-e6U9YCj9f7R7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125664
+      }
+    },
+    {
+      "id": "colt-grice",
+      "name": "Colt Grice",
+      "alt_names": [
+        "コルト・グライス"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 180 cm\n__Position__: Warrior Candidate\n\nColt Grice is an Eldian living in Marley and the older brother of [Falco Grice](https://anilist.co/character/125660).\n\n~!He is a Warrior candidate who is selected to be the next wielder of the Beast Titan power.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125665-TicVG3OEhTqc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125665
+      }
+    },
+    {
+      "id": "nifa",
+      "name": "Nifa",
+      "alt_names": [
+        "ニファ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165 cm (5'5\")\n\nNifa is a soldier in the Survey Corps' Fourth Squad under the command of [Hange Zoe](https://anilist.co/character/71121/Hange-Zoe).\n\nNifa appears to be a loyal and trustworthy member of Fourth Squad, as she is often tasked to record the details of important meetings and entrusted to deliver vital information to others within the Scouting Regiment. She acts serious most of the time, however, she has been seen drinking alcoholic beverages before giving out more intense reports and info.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126849-jH0gw54UpbDQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126849
+      }
+    },
+    {
+      "id": "rod-reiss",
+      "name": "Rod Reiss",
+      "alt_names": [
+        "ロッド・レイス"
+      ],
+      "role": "supporting",
+      "description": "~!is the true king of humanity, currently masquerading as a noble living in Wall Sina. He is a member of the Reiss family and Historia's illegitimate father.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127360-UgSpq6e0DAYz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127360
+      }
+    },
+    {
+      "id": "traute-caven",
+      "name": "Traute Caven",
+      "alt_names": [
+        "トラウテ・カーフェン"
+      ],
+      "role": "supporting",
+      "description": "is the second in command of the Anti-Personnel Control Squad within the Military Police Brigade and is very loyal to her superior, Captain Kenny Ackerman.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127390-i6MfinoL2Lyf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127390
+      }
+    },
+    {
+      "id": "kenny-ackerman",
+      "name": "Kenny Ackerman",
+      "alt_names": [
+        "ケニー・アッカーマン",
+        "Kenny the Ripper"
+      ],
+      "role": "supporting",
+      "description": "__Affiliation:__ Military Police; Captain of Anti-Personnel Control Squad.\n__Relatives:__ [Kuchel Ackerman](https://anilist.co/character/127940/Kuchel-Ackerman) (Sister), [Unnamed Grandfather](https://anilist.co/character/128589/Kenny-no-Ojiisan), \n\nKenny Ackerman is a member of the Military Police Brigade's First Interior Squad and also the Anti-Personnel Control Squad. Decades prior, however, Kenny was known as an infamous serial killer that stalked victims in the capitol. \n\nDespite his dark field of work, Kenny appears to be rather jovial and takes pleasure in taunting his adversaries during battle. When fighting, he becomes animated and lively, often making a scene or otherwise throwing insults and witticisms. However, he also fought with control and was able to effortlessly sneak up on his targets when they least expected him. His preferred method of killing during his time as a serial killer was to slit the throats of his victims which earned him his infamous handle \"Kenny the Ripper\", and it was rumored that he murdered over 100 members of the Military Police Brigade. However, decades later his killings ceased and the terror that he once inspired dwindled into an Urban Legend. He eventually was found working under the Royal Government, the reasoning for his sudden shift in behavior being a mystery. Kenny is ultimately, despite his comical personality, very cold and calculated, sparing little emotional attachment or loyalty to anyone, with only a few exceptions.\n\n~!ㅤ\nHe notably shares the same bloodline as both [Levi](https://anilist.co/character/45627/Levi) and [Mikasa Ackerman](https://anilist.co/character/40881/Mikasa-Ackerman).!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127443-aVMXGOchpsvj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127443
+      }
+    },
+    {
+      "id": "boris-feulner",
+      "name": "Boris Feulner",
+      "alt_names": [
+        "ボリス・フォイルナー"
+      ],
+      "role": "supporting",
+      "description": "is a member of the Military Police stationed in Stohess District. \n\nBoris came to Annie's defense when she got late to her duty, telling others to give her a rest. He stated that being the only one to experience the actual combat (Defense of Trost district) among her squad, Annie must be still suffering trauma from it. \n\nWhen Marlo tells his colleagues of his ambition to reform the Military Police, Boris tells Marlo good luck, albeit with nonchalance",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127568-nYT2K5sXb1Y8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127568
+      }
+    },
+    {
+      "id": "flagel-reeves",
+      "name": "Flagel  Reeves",
+      "alt_names": [
+        "フレーゲル・リーブス "
+      ],
+      "role": "supporting",
+      "description": "Flegel Reeves is the son of Dimo Reeves",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127569-75UhiY7kpILW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127569
+      }
+    },
+    {
+      "id": "uri-reiss",
+      "name": "Uri Reiss",
+      "alt_names": [
+        "ウーリ・レイス"
+      ],
+      "role": "supporting",
+      "description": "the younger brother of Rod Reiss and the paternal uncle of Frieda Reiss.\n~!He was the true king of the Walls for some time until the year 842 and was Kenny Ackermann's best friend. He inherited the Founding Titan from his father, and passed it along with the crown to his niece, Frieda Reiss.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127570-b7zpa6DSq2iA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127570
+      }
+    },
+    {
+      "id": "alma",
+      "name": "Alma",
+      "alt_names": [
+        "アルマ"
+      ],
+      "role": "supporting",
+      "description": "Alma is the mother of Historia Reiss.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127571-CBRyLf65fmKr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127571
+      }
+    },
+    {
+      "id": "dimo-reeves",
+      "name": "Dimo Reeves",
+      "alt_names": [
+        "ディモ・リーブス"
+      ],
+      "role": "supporting",
+      "description": "Dimo Reeves is a merchant that leads the company that's named after him. He's stationed in Trost District.\n~!After the Battle of Trost, his company was assigned a mission to kidnap Eren and Historia by the Military Police Brigade.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127572-7jc4LF687Ifv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127572
+      }
+    },
+    {
+      "id": "moblit-berner",
+      "name": "Moblit Berner",
+      "alt_names": [
+        "モブリット・バーナー"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 176 cm (5'9\")\n__Affiliation:__ Survey Corps; Executive Officer, Fourth Squad.\n\nA veteran member of the Survey Corps and [Hange Zoe](https://anilist.co/character/71121/Hange-Zoe)'s second-in-command within the Survey Corps' Fourth Squad. He also serves as Hanji's assistant and messenger.\n\nHe comes across as an intelligent and responsible person, which may be the reason he was tasked to keep his overzealous and eccentric superior out of trouble. Much of the time, this leaves him in a state of near-panic, having to constantly remind Hange to be more careful or yanking them to safety. That he remains at Hange's side constantly suggests he is a loyal person, and that he cares deeply for his superior's safety, regardless of the stress involved with being under their command. He is also able to show signs of a serious nature when it comes to missions, going out of his way to investigate problems and put himself in danger before others.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127573-VSYSvQ1VK1c7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127573
+      }
+    },
+    {
+      "id": "frieda-reiss",
+      "name": "Frieda Reiss",
+      "alt_names": [
+        "フリーダ・レイス"
+      ],
+      "role": "supporting",
+      "description": "Frieda was Rod Reiss' eldest daughter and Historia's oldest half-sister. ~!She was the true queen of humanity from 842 to 845. She is known to appear in Eren and Historia's obtained memories. In his Titan form, Grisha invaded an underground cavern under the Reiss family chapel, where the family had gathered to pray. He battled Frieda and consumed her, thus gaining her powers and memories. He then slaughtered her mother and siblings, and finally destroyed the chapel. When Eren later eats Grisha, Frieda's memories are transferred to him along with Grisha's.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127624-mmQqGCYRW69r.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127624
+      }
+    },
+    {
+      "id": "abel",
+      "name": "Abel",
+      "alt_names": [
+        "ゴーグル",
+        "Goggles"
+      ],
+      "role": "supporting",
+      "description": "Goggles is a soldier in the Scout Regiment fourth squad under the command of Hange Zoë, who is noted for his trademark glasses, or \"goggles\". He participated in the 57th Exterior Scouting Mission and often accompanies higher ups, such as Hange and Levi, on serious missions.\n\n(Source: Shingeki no Kyojin Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127681-9Xhk8VzIuKQ4.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127681
+      }
+    },
+    {
+      "id": "marcel-galliard",
+      "name": "Marcel Galliard",
+      "alt_names": [
+        "マルセル・ガリアード"
+      ],
+      "role": "supporting",
+      "description": "~!Marcel was a comrade and childhood friend of Reiner Braun, Bertolt Hoover, and Annie Leonhart. He was part of the group sent by Marley to attack the Eldians of Paradis in year 845, but his mission was cut short by the sudden appearance of Ymir in her mindless Titan form.!~\n\n(Source: Shingeki no Kyojin Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127683-VDnuXVkMerjU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127683
+      }
+    },
+    {
+      "id": "djel-sannes",
+      "name": "Djel Sannes",
+      "alt_names": [
+        "ジェル・サネス"
+      ],
+      "role": "supporting",
+      "description": "Djel Sannes is a member of the Military Police Regiment and part of the First Interior Squad.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127702-qyCvQZuIUl1X.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127702
+      }
+    },
+    {
+      "id": "floch-forster",
+      "name": "Floch Forster",
+      "alt_names": [
+        "フロック・フォルスター"
+      ],
+      "role": "supporting",
+      "description": "Floch is a new recruit in the Survey Corps. He joined the Survey Corps during the two months between the attack at Orvud District and the return to Shiganshina District.\n\n~!After the rest of the Yeagerists are killed during the port battle, Floch hides on the ship to Marley. After shooting holes in the fuel tank of the flying boat, Floch is ultimately killed by Mikasa.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127703-qNIccR0yPZKu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127703
+      }
+    },
+    {
+      "id": "ralph",
+      "name": "Ralph",
+      "alt_names": [
+        "ラルフ"
+      ],
+      "role": "supporting",
+      "description": "is a member of the Military Police Regiment and part of the First Interior Squad",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128148-hYx49Z4M34le.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128148
+      }
+    },
+    {
+      "id": "kenny-no-ojii-san",
+      "name": "Kenny no Ojii-san",
+      "alt_names": [
+        "ケニーのお祖父さん"
+      ],
+      "role": "supporting",
+      "description": "__Relatives:__ [Kenny Ackerman](https://anilist.co/character/127443), [Kuchel Ackerman](https://anilist.co/character/127940) (Granddaughter) \n\nThe grandfather of [Kenny](https://anilist.co/character/127443) and [Kuchel Ackerman](https://anilist.co/character/127940). He was one of the few living remnants of the Ackerman bloodline with knowledge about the reasons for the persecution of his clan.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128589-KfikVjiBcz4w.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128589
+      }
+    },
+    {
+      "id": "fritz",
+      "name": "Fritz",
+      "alt_names": [
+        "フリッツ"
+      ],
+      "role": "supporting",
+      "description": "~!He was the king of Eldia around 2,000 years ago. When one of his slaves, Ymir, gained the Power of the Titans, he used her to expand Eldia into an empire and destroy his enemies. As a \"reward,\" he made her his concubine and had three daughters with her. He and Ymir are the ancestors of every Subject of Ymir.\n\nUpon Ymir's death, Fritz forced his daughters to eat their mother's body to preserve her power. Upon his own death, he commanded his daughters to continue reproducing and eating each other, so that Ymir's people will never die out and Eldia could rule the world with its Titans forever.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129941-R8tUKp7o10Jr.png",
+          "type": "portrait",
+          "source": "AniList"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268348-o2upT1kMLrYq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268348
+      }
+    },
+    {
+      "id": "deltoff",
+      "name": "Deltoff",
+      "alt_names": [
+        "デレトフ"
+      ],
+      "role": "supporting",
+      "description": "A member of the King Fritz's assembly.\n~!After a successful uprising led by Scout Regiment commander Erwin Smith, he is imprisoned by the Military.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130060-0p2dKzw3E4V2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130060
+      }
+    },
+    {
+      "id": "phil",
+      "name": "Phil",
+      "alt_names": [
+        "フィル"
+      ],
+      "role": "supporting",
+      "description": "A member of the Garrison.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130625-PpwqwuxgDr1A.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130625
+      }
+    },
+    {
+      "id": "roger",
+      "name": "Roger",
+      "alt_names": [
+        "ロゲール"
+      ],
+      "role": "supporting",
+      "description": "An anime-original character who's a member of the Military Police Regiment and part of the First Interior Squad.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130628-h50fCRkomz4P.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130628
+      }
+    },
+    {
+      "id": "carsten",
+      "name": "Carsten",
+      "alt_names": [
+        "カルステン"
+      ],
+      "role": "supporting",
+      "description": "Occupation: Soldier\nRank: Captain \nAffiliation: Garrison Regiment\n\nThe captain in charge of the Garrison's forces in the Orvud District.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130629-c5ARuBsIxoPP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130629
+      }
+    },
+    {
+      "id": "harold",
+      "name": "Harold",
+      "alt_names": [
+        "ハロルド"
+      ],
+      "role": "supporting",
+      "description": "A team leader in the Scout Regiment.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130631-IbIEQ4cqGAdW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130631
+      }
+    },
+    {
+      "id": "dirk",
+      "name": "Dirk",
+      "alt_names": [
+        "ディルク"
+      ],
+      "role": "supporting",
+      "description": "A member of the Scout Regiment and a team leader during the mission to reclaim Wall Maria.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130635-YZUqeuGi0eAG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130635
+      }
+    },
+    {
+      "id": "roy",
+      "name": "Roy",
+      "alt_names": [
+        "ロイ"
+      ],
+      "role": "supporting",
+      "description": "As a veteran journalist, Roy has come to accept and conform to the restrictive nature of the monarchy, fearing retaliation for defiance.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130636-vO0Kv5crIyeD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130636
+      }
+    },
+    {
+      "id": "pierre",
+      "name": "Pierre",
+      "alt_names": [
+        "ピュレ"
+      ],
+      "role": "supporting",
+      "description": "As a rookie reporter, Pierre has not yet become jaded like his superior Roy. He is very bold in his reporting, unafraid of asking questions of Military Police officers that would otherwise be considered \"off-limits.\" He takes his job of reporting the truth very seriously, becoming frustrated when he is kept from printing news that would be scandalous for the government.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130637-MHrUGfiFvMKZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130637
+      }
+    },
+    {
+      "id": "klaus",
+      "name": "Klaus",
+      "alt_names": [
+        "クラース"
+      ],
+      "role": "supporting",
+      "description": "A member of the Scout Regiment and a team leader during the mission to retake Wall Maria.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130638-sAsP8fjERkJ1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130638
+      }
+    },
+    {
+      "id": "marlene",
+      "name": "Marlene",
+      "alt_names": [
+        "マレーネ"
+      ],
+      "role": "supporting",
+      "description": "A member of the Scout Regiment and a team leader during the mission to reclaim Wall Maria.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130639-Rs1VbE0r4hbM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130639
+      }
+    },
+    {
+      "id": "waltz",
+      "name": "Waltz",
+      "alt_names": [
+        "ヴァルツ"
+      ],
+      "role": "supporting",
+      "description": "He is a member of the Military Police Regiment who serves as Nile Dawk's aide",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131208-5499RN17GQAw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131208
+      }
+    },
+    {
+      "id": "annie-no-chichi",
+      "name": "Annie no Chichi",
+      "alt_names": [
+        "アニの父",
+        "Annie's Father",
+        "Mr. Leonhart",
+        "レオンハート"
+      ],
+      "role": "supporting",
+      "description": "Father and trainer of Annie Leonhart. He relentlessly trained Annie to fight, using mostly kicks and the attacker's weight against them.\n~!Memories of his pleas for forgiveness later create an opening for Annie to crystallize herself before Eren Jaeger has the chance to capture her!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131257-EywhPQF0aqVU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131257
+      }
+    },
+    {
+      "id": "rashad",
+      "name": "Rashad",
+      "alt_names": [
+        "ラシャド"
+      ],
+      "role": "supporting",
+      "description": "Rashad is a team captain in the Survey Corps' Fourth Squad under the command of [Hange Zoe](https://anilist.co/character/71121).\n\nWhile Rashad is shown to be a brave and conditioned soldier, he also has shown himself to be a rather considerate man, watching over fellow wounded soldiers along with [Nifa](https://anilist.co/character/126849/Nifa). He is also shown to prioritize his fellow soldiers' well-being over immediate threats to himself, retrieving water to soothe burned soldiers while engaged with the [Colossal Titan].",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131280-S0oaXgdKp941.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131280
+      }
+    },
+    {
+      "id": "artur-blouse",
+      "name": "Artur Blouse",
+      "alt_names": [
+        "アルトゥル・ブラウス",
+        "Artur Braus"
+      ],
+      "role": "supporting",
+      "description": "__Relatives:__ [Lisa Blause](https://anilist.co/character/134952/Lisa-Blouse) (Wife), [Sasha Blause](https://anilist.co/character/45887/Sasha-Blouse) (Daughter).\n\nArtur Blouse is the father of Sasha Blouse and a hunter in the Dauper village. It was his words that motivated Sasha to leave home and join the military.\n\nArtur appears to be a mature father figure who is deeply devoted to his clan. Though he appreciates his way of life, he realizes that many people's homes were taken by Titans and that they must share the forest for the greater good. He appears to be very wise, willing to accept change and move beyond their traditions if it meant a better way of life for everyone, and is very clearly a selfless person who puts others before himself. Like his daughter, he has a native Dauper accent. \n~!ㅤ\nAfter his daughter Sasha saved [Kaya](https://anilist.co/character/132738/Kaya), he and his wife decided to adopt her and open their home up to other orphaned children whose family was slain by the titans, going so far as to refer to them as his \"family.\"!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131281-TDm3VmnXgseC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131281
+      }
+    },
+    {
+      "id": "tomas",
+      "name": "Tomas",
+      "alt_names": [
+        "トーマ"
+      ],
+      "role": "supporting",
+      "description": "He is a member of the Scout Regiment in Squad Miche. ~!He brought the news of Wall Rose's breach to Commander Erwin.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131282-xuGUVnp0nrCz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131282
+      }
+    },
+    {
+      "id": "lauda",
+      "name": "Lauda",
+      "alt_names": [
+        "ラウダ"
+      ],
+      "role": "supporting",
+      "description": "He is a team leader in the Scout Regiment Fourth Squad under the command of Hange Zoë.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131283-gma1f9iQfpAU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131283
+      }
+    },
+    {
+      "id": "eren-krueger",
+      "name": "Eren Krueger",
+      "alt_names": [
+        "エレン・クルーガー",
+        "The Owl"
+      ],
+      "role": "supporting",
+      "description": "Eren Kruger was an Eldian spy posing as a Marleyan officer in the Public Security Authorities. He founded the Eldia Restorationists, and used the pseudonym the Owl (フクロウ Fukurō) to communicate. Secretly, he possessed the power of the Attack Titan.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131440-ynAPKMtrhhj1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131440
+      }
+    },
+    {
+      "id": "jurgen",
+      "name": "Jurgen",
+      "alt_names": [
+        "ユルゲン"
+      ],
+      "role": "supporting",
+      "description": "A member of the Scout Regiment and a participant of the 57th Exterior Scouting Mission.\n~!Jurgen was a reckless man, who disobeyed his superiors and put his entire brigade in danger just to retrieve a body. This recklessness would prove to be the end of him. When his friend Ivan was killed, he showed more composure than his friend Dieter; but he still chose to disobey his superiors to retrieve his body. In his final moments, he expressed great fear and regret on his face as he was killed without even completing the task he had set out to do!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131455-8WPESzF24pcm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131455
+      }
+    },
+    {
+      "id": "darius-baer-walbrunn",
+      "name": "Darius  Baer Walbrunn",
+      "alt_names": [
+        "ダリウス・ベーア＝ヴァルブルン "
+      ],
+      "role": "supporting",
+      "description": "A team leader of the Scout Regiment who participated in the 57th expedition beyond the Walls.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131456-QWlf8CJM1iib.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131456
+      }
+    },
+    {
+      "id": "dieter",
+      "name": "Dieter",
+      "alt_names": [
+        "ディター"
+      ],
+      "role": "supporting",
+      "description": "A member of the Scout Regiment and participated in the 57th Exterior Scouting Mission.\n~!Dieter appears very unconditioned and mentally cracking. He shows great distress over the death of his friend Ivan, and disobeys his superiors when they refuse his request to retrieve his body; resulting in the death of his friend Jurgen. When confronted by Captain Levi, Dieter bursts into tears, cracking under the mental stress he had endured. Though he shows passion for his friends, this passion manifests itself in the form of recklessness resulting in comrades deaths!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131457-vXCilQkE0NxX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131457
+      }
+    },
+    {
+      "id": "willy-tybur",
+      "name": "Willy Tybur",
+      "alt_names": [
+        "ヴィリー・タイバー",
+        "Lord Tybur",
+        "Savior's Descendant"
+      ],
+      "role": "supporting",
+      "description": "~!An Eldian noble living in Marley. He was the head of the Tybur family and controlled Marley behind the shadows, although he chose not to interfere with Marley's military decisions.!~\n\n(Source: Attack on Titan Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131762-kOPlEZO6nkyC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131762
+      }
+    },
+    {
+      "id": "theo-magath",
+      "name": "Theo Magath",
+      "alt_names": [
+        "テオ・マガト"
+      ],
+      "role": "supporting",
+      "description": "A commander of the Eldian Unit of the Marley army. Formerly one of the chief overseers of the first Warrior candidates during their training, he later led the Eldian Warriors in the Marley Mid-East War against the Mid-East Allied Forces, playing a key role in Marley's victory.\n\n~!Through the support of Willy Tybur and the governmental party of Marley, along with the death of General Calvi, Magath is next in line to become the general of the Marleyan military forces.!~\n~!He sacrifices himself by blowing up the Marleyan ship to prevent the Yeagerists from catching the allies!~\n\n(Source: Attack on Titan Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131763-YNYd9scK4Den.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131763
+      }
+    },
+    {
+      "id": "petra-no-chichi",
+      "name": "Petra no Chichi",
+      "alt_names": [
+        "ペトラの父"
+      ],
+      "role": "supporting",
+      "description": "The father of [Petra Rall](https://anilist.co/character/62501), a skilled female member of Levi's former Special Operations Squad.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131987-JYRTZAMvHL7U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131987
+      }
+    },
+    {
+      "id": "peer",
+      "name": "Peer",
+      "alt_names": [
+        "ペール"
+      ],
+      "role": "supporting",
+      "description": "A member of the Scout Regiment",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131989-FWaEoAayjB4N.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131989
+      }
+    },
+    {
+      "id": "kaya",
+      "name": "Kaya",
+      "alt_names": [
+        "カヤ"
+      ],
+      "role": "supporting",
+      "description": "A civilian living within Wall Rose. She was saved by Sasha Blouse from a Titan during the Wall Rose invasion, and now lives with the Blouse family.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132738-I8jNSdoNIhZI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132738
+      }
+    },
+    {
+      "id": "fay-yeager",
+      "name": "Fay Yeager",
+      "alt_names": [
+        "フェイ・イェーガー"
+      ],
+      "role": "supporting",
+      "description": "Fay was the younger sister of Grisha Yeager and as an Eldian, she grew up in the Liberio Internment Zone in Marley. \n~!At a young age, she was said to be killed by Marley officers dogs.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133214-iwb6wK8IhVEn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133214
+      }
+    },
+    {
+      "id": "dina-fritz",
+      "name": "Dina Fritz",
+      "alt_names": [
+        "ダイナ・フリッツ"
+      ],
+      "role": "supporting",
+      "description": "~!Dina is the first wife of Grisha Yeager. One year after their marriage, she gave birth to their son, Zeke Yeager.\n\nDina is of royal blood as member of the Fritz family. When the 145th Fritz King built the walls and decided to move to the island Paradis, her branch of the Fritz family stayed behind due to disagreements with the King's choice. She joined the Eldia Restorationists on Marley, in order to revive the pride and power of Eldia. In this group, she also met Grisha Yeager, whom she eventually married. She gave birth to their son, Zeke Yeager. At the age of 7, there son reported his parents to the Marley government. As a result, all the Eldia Restorationists were sent to Utopia. Sergeant Major Gross injected Dina with the Titan serum and she was thrown off the Borderline wall to Utopia, as Grisha, in horror, watched his wife turn into a Titan.!~\n\n~!After the Colossus Titan breaches Shiganshina District in Wall Maria, many Titans proceed inside and among them is Dina. She embarks inside the town and is seen by Eren and Mikasa as they try to free Carla Yeager, who is trapped under the debris of their house. Though Hannes initially comes to their aid and decides to face Dina, he stands catatonic in fear of her frightening appearance. After he realizes that he is too afraid to face it, he opts to instead take Eren and Mikasa to safety, leaving Eren's mother behind. Afterwards, Eren witnesses Dina pull Carla out of the debris, as it proceeds to violently incapacitate her and devour her shortly thereafter.!~\n\n~!Five years later, after Eren had already joined the Survey Corps, Dina appears again before Eren and Mikasa outside the Titan Forest during the military's pursuit of the Armored Titan. After killing Hannes, who was protecting Eren and Mikasa before he was devoured, the Titan reaches out for Eren, who punches its hand. This activates powers Eren was previously unaware of, and seemingly gains control over the surrounding Titans. The ones that are under his control proceed to kill Dina by ripping her to shreds and devouring her, avenging the deaths of Carla and Hannes.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133215-ifxjiTHsEGNl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133215
+      }
+    },
+    {
+      "id": "yelena",
+      "name": "Yelena",
+      "alt_names": [
+        "イェレナ"
+      ],
+      "role": "supporting",
+      "description": "Yelena is the leader of the Anti-Marleyan Volunteers working under Zeke Yeager. She was one of the Marleyan soldiers on board the first survey fleet to Paradis Island after Marley's failed attack operation. She is a very tall woman with her blonde hair styled in a short bob with straight bangs. She has large dark eyes and somewhat androgynous features due to her build and style.\n\nYelena is a fervent follower of Zeke Yeager, holding great admiration and respect for him. She is usually calm and collected, her demeanour remaining unchanged even when Jean Kirstein yelled at her for failing to see her job through. Nonetheless, she is willing to take responsibility and apologizes should she fail in her task. Yelena appears to maintain a very relaxed demeanour while having dry, humorous undertones to much of her actions.\n\n~!It is later revealed that Yelena was born into an unassuming family in Marley, and eventually became disillusioned with her own country. After meeting Zeke Yeager, Yelena concocted a plan to solidify herself in history by helping Zeke save the world. As part of her narrative, Yelena created a false background for herself, claiming that her homeland was invaded and conquered by Marley. She was forcibly drafted as a soldier to fight in the Marleyan military, where she met similar-minded soldiers and organized them into the Anti-Marleyan Volunteers to fight against Marley.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133216-HKl61n4F7eYv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133216
+      }
+    },
+    {
+      "id": "gross",
+      "name": "Gross",
+      "alt_names": [
+        "グロス"
+      ],
+      "role": "supporting",
+      "description": "Gross was a Marleyan Sergeant Major.\n\n~!When Grisha Yeager and his little sister Fay wandered outside of their Liberio Internment Zone without an exit permit to see a blimp, Gross and his fellow soldier were slacking off by the riverside and they spotted and caught them. Kruger delivered physical punishment to Grisha while Gross walked away with Fay. However, her mutilated body was found the next day in the river and Gross, accompanied with Kruger went to the Yeagers' house and informed them of the death of their daughter. Gross claimed that he took Fay to the border of Liberio and that it was her own fault for wandering around town without permission to begin with. He later revealed to Grisha that it was education when he fed his little sister to his sons' dogs and thanks to that, they grew up to be fine young men.!~\n\n~!Kruger pushes Gross off the Utopia wall, the Titan he just turned for Grisha, grabbed him and started eating at his face and he is killed.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133217-5SjFoq6mKxmg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133217
+      }
+    },
+    {
+      "id": "niccolo",
+      "name": "Niccolo",
+      "alt_names": [
+        "ニコロ",
+        "Nicolo",
+        "Nikoro"
+      ],
+      "role": "supporting",
+      "description": "Nicolo is a former Marleyan soldier who served on Marley's Navy and was part of the first survey fleet to Paradis Island after the failed Paradis Island Operation. After being taken captive, he begins working on the island as a chef for the military.\n\nNiccolo was at first a very typical Marleyan, fearing the Eldians of Paradis Island and calling them devils. He was very disgusted with having been captured by them and having to live by their side, but after spending a lot of time with the Survey Corps, he and his comrades have developed grudging respect and shaky friendships with the ones they once thought of as devils. He notably grew a soft spot for a Survey Corp member, [Sasha Blouse](https://anilist.co/character/45887/Sasha-Blouse), after she complimented him on his cooking skills. Over time, the two gradually grew closer, enough for [Kaya](https://anilist.co/character/132738/Kaya) to believe they were in love. Niccolo credits Sasha with saving him from the war and teaching him that he can cook to make people happy.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133218-G3SQp19jnFIJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133218
+      }
+    },
+    {
+      "id": "lisa-blouse",
+      "name": "Lisa Blouse",
+      "alt_names": [
+        "リサ・ブラウス"
+      ],
+      "role": "supporting",
+      "description": "The mother of [Sasha Blouse](https://anilist.co/character/45887/Sasha-Blouse) and wife of [Mr. Blouse](https://anilist.co/character/131281).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b134952-DKs88MOSsIzE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134952
+      }
+    },
+    {
+      "id": "sandra",
+      "name": "Sandra",
+      "alt_names": [
+        "サンドラ"
+      ],
+      "role": "supporting",
+      "description": "She is a recruit  of the Survey Corps. She joined at some point after the crowning of Historia Reiss during the two months between the attack at Orvud District and the expedition returning to Shiganshina District, where she was assigned to Squad Klaus.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137143-FCDwN1ORNGsa.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137143
+      }
+    },
+    {
+      "id": "ellie",
+      "name": "Ellie",
+      "alt_names": [
+        "エリー"
+      ],
+      "role": "supporting",
+      "description": "She is a young girl from the Calaneth District. She and her brother witness the departure and comeback of the Scout Regiment on the 57th Exterior Scouting Mission.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137201-SLx9NWWjdE5g.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137201
+      }
+    },
+    {
+      "id": "zoku-3",
+      "name": "Zoku 3",
+      "alt_names": [
+        "賊３",
+        "Bandit 3"
+      ],
+      "role": "supporting",
+      "description": "He is one of a trio of men who killed [Mikasa's father](https://anilist.co/character/84339) and [mother](https://anilist.co/character/84341) before kidnapping their daughter [Mikasa Ackerman](https://anilist.co/character/40881) in the year 844.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137283-ykMUBMJq2OBx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137283
+      }
+    },
+    {
+      "id": "zoku-2",
+      "name": "Zoku 2",
+      "alt_names": [
+        "賊２",
+        "Bandit 2"
+      ],
+      "role": "supporting",
+      "description": "He is one of a trio of men who killed [Mikasa's father](https://anilist.co/character/84339) and [mother](https://anilist.co/character/84341) before kidnapping their daughter [Mikasa Ackerman](https://anilist.co/character/40881) in the year 844.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137284-N6WzhrtSRLVL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137284
+      }
+    },
+    {
+      "id": "zoku-1",
+      "name": "Zoku 1",
+      "alt_names": [
+        "賊１",
+        "Bandit 1"
+      ],
+      "role": "supporting",
+      "description": "He is one of a trio of men who killed [Mikasa's father](https://anilist.co/character/84339) and [mother](https://anilist.co/character/84341) before kidnapping their daughter [Mikasa Ackerman](https://anilist.co/character/40881) in the year 844.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137286-K7DBiibnqjKq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137286
+      }
+    },
+    {
+      "id": "conny-no-haha",
+      "name": "Conny no Haha",
+      "alt_names": [
+        "コニーの母"
+      ],
+      "role": "supporting",
+      "description": "She is the mother of Conny Springer and a resident of Ragako village.\n~!She was transformed into a Titan by the Beast Titan during Wall Rose's supposed breach.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137287-yK5754lQslCe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137287
+      }
+    },
+    {
+      "id": "gordon",
+      "name": "Gordon",
+      "alt_names": [
+        "ゴードン"
+      ],
+      "role": "supporting",
+      "description": "He is a recruit of the Scout Regiment. He joined the regiment after the crowning of Historia Reiss.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139759-QQmi6ItQfHQI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139759
+      }
+    },
+    {
+      "id": "grice",
+      "name": "Grice",
+      "alt_names": [
+        "グライス"
+      ],
+      "role": "supporting",
+      "description": "He is a member of the Restorationists.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140764-HbMgfmYGSPFl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 140764
+      }
+    },
+    {
+      "id": "grisha-no-chichi-yeager",
+      "name": "Grisha no Chichi Yeager",
+      "alt_names": [
+        "グリシャの父・イェーガー",
+        "Grisha's Father Yeager",
+        "Mr. Yeager"
+      ],
+      "role": "supporting",
+      "description": "He is the father of [Fay](https://anilist.co/character/133214/) and [Grisha Yeager](https://anilist.co/character/62477/), as well as the grandfather of [Eren Yeager](https://anilist.co/character/40882/).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140765-zkWt0zw1App6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 140765
+      }
+    },
+    {
+      "id": "grisha-no-haha-yeager",
+      "name": "Grisha no Haha Yeager",
+      "alt_names": [
+        "グリシャの母・イェーガー",
+        "Grisha's Mother Yeager"
+      ],
+      "role": "supporting",
+      "description": "She is the mother of [Fay](https://anilist.co/character/133214/) and [Grisha Yeager](https://anilist.co/character/62477/), as well as the grandmother of [Eren Yeager](https://anilist.co/character/40882/).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140851-gwlhPSYXcMVh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 140851
+      }
+    },
+    {
+      "id": "tom-ksaver",
+      "name": "Tom Ksaver",
+      "alt_names": [
+        "トム・クサヴァー",
+        "Xaver"
+      ],
+      "role": "supporting",
+      "description": "He is a man who knew Grisha Jaeger when he was growing up.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140852-TdGBEPLEJ2Mr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 140852
+      }
+    },
+    {
+      "id": "mitsumete-no-kyojin",
+      "name": "Mitsumete no Kyojin",
+      "alt_names": [
+        "見つめての巨人",
+        "Peering Titan"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140903-arzkiU9S48ZZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 140903
+      }
+    },
+    {
+      "id": "onyankopon",
+      "name": "Onyankopon",
+      "alt_names": [
+        "オニャンコポン"
+      ],
+      "role": "supporting",
+      "description": "Onyankopon is one of the Anti-Marleyan Volunteers and aids the Survey Corps during the Raid on Liberio. He pilots an airship following orders from [Hange](https://anilist.co/character/71121/) for the Corps to use during their retreat.\n\n(Source: Attack on Titan Fandom)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192909-81EoCndP0uEH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192909
+      }
+    },
+    {
+      "id": "koslow",
+      "name": "Koslow",
+      "alt_names": [
+        "コスロ",
+        "Koslo"
+      ],
+      "role": "supporting",
+      "description": "He is a Marleyan officer who fought in the war against the Mid-East Allied Forces before Marley's victory.\n\n(Source: Attack on Titan Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199549-ispr2ccdtGOw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199549
+      }
+    },
+    {
+      "id": "ymir-fritz",
+      "name": "Ymir Fritz",
+      "alt_names": [
+        "ユミル・フリッツ"
+      ],
+      "role": "supporting",
+      "description": "Ymir Fritz was the progenitor of the Eldians. When she was a young girl, she awakened the power of the Titans and became the first Titan, the Founding Titan. After she died, her spirit was split into the Nine Titans. She is observed to be a quiet character that does not reveal her true intentions/motives.\n\n~!\nShe submitted to the Eldian king in life, building him his empire, brutally destroying his enemies, and bearing his children as he commanded. Ymir even went so far as to sacrifice her own life for his. Even in death, her soul remained blindly obedient to the Eldian royal family, creating Titans by hand for about 2,000 years in the unknown land surrounding the Coordinate. She has only shown signs of embracing her own free will after she encountered Eren Yeager. However, it is possible she always had some free will, as she had intentionally freed a group of pigs from their pen and let them run free as a slave.\n\nAccording to Eren, Ymir waited thousands of years for someone to come to her and free her from the love she felt for King Fritz. That person was Mikasa.\n!~\n\n(Source: Attack on Titan Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199551-UNzb9vgcbOIx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199551
+      }
+    },
+    {
+      "id": "karina-braun",
+      "name": "Karina Braun",
+      "alt_names": [
+        "カリナ・ブラウン"
+      ],
+      "role": "supporting",
+      "description": "Karina Braun is the mother of [Reiner Braun](https://anilist.co/character/46484/).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199712-YOV8LXBcQT1R.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199712
+      }
+    },
+    {
+      "id": "calvi",
+      "name": "Calvi",
+      "alt_names": [
+        "カルヴィ"
+      ],
+      "role": "supporting",
+      "description": "Calvi is the general of the Marleyan military forces.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199713-9pDztohZP0dA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199713
+      }
+    },
+    {
+      "id": "gabi-no-haha",
+      "name": "Gabi no Haha",
+      "alt_names": [
+        "ガビの母",
+        "Gabi's Mother",
+        "がビ母"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199714-cAlR5ZRATDOc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199714
+      }
+    },
+    {
+      "id": "colt-chichi",
+      "name": "Colt Chichi",
+      "alt_names": [
+        "コルト父",
+        "Colt's Father",
+        "Falco Chichi (ファルコ父)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199715-lJcx7TnbuN5Q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199715
+      }
+    },
+    {
+      "id": "gabi-chichi",
+      "name": "Gabi Chichi",
+      "alt_names": [
+        "ガビ父",
+        "Gabi's Father"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199717-CwA94ex4HICW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199717
+      }
+    },
+    {
+      "id": "colt-haha",
+      "name": "Colt Haha",
+      "alt_names": [
+        "コルト母",
+        "Colt's Mother"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199718-t8j3CmEDNONR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199718
+      }
+    },
+    {
+      "id": "nambia",
+      "name": "Nambia",
+      "alt_names": [
+        "ナンビア "
+      ],
+      "role": "supporting",
+      "description": "is an ambassador from a foreign land and a childhood friend of Willy Tybur. She serves as one of several ambassadors for her nation during the Liberio festival following the Marley Mid-East War.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b202797-H0fiJVmfkAFI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 202797
+      }
+    },
+    {
+      "id": "ogweno",
+      "name": "Ogweno",
+      "alt_names": [
+        "オグウェノ"
+      ],
+      "role": "supporting",
+      "description": "Ogweno is an ambassador from a foreign land and a friend of Willy Tybur. He serves as one of several ambassadors for his nation during the Liberio festival following the Marley Mid-East War.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b202798-Qbmf0QU02jks.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 202798
+      }
+    },
+    {
+      "id": "kiyomi-azumabito",
+      "name": "Kiyomi Azumabito",
+      "alt_names": [
+        "キヨミ・アズマビト"
+      ],
+      "role": "supporting",
+      "description": "Kiyomi is an ambassador of Hizuru and an ally to the Eldians on Paradis Island.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b202799-WlK66SqrhzED.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 202799
+      }
+    },
+    {
+      "id": "lara-tybur",
+      "name": "Lara Tybur",
+      "alt_names": [
+        "ラーラ・タイバー",
+        "Willy's Sister",
+        "Lady Tybur"
+      ],
+      "role": "supporting",
+      "description": "She is Willy Tybur's sister. \n~!She was the previous inheritor of the War Hammer Titan.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205015-MgmgKmwFBbRA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205015
+      }
+    },
+    {
+      "id": "carlo",
+      "name": "Carlo",
+      "alt_names": [
+        "カルロ"
+      ],
+      "role": "supporting",
+      "description": "Carlo is a soldier of the Marleyan military and a member of the Panzer Unit.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205906-42ZSOfYXGfkJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205906
+      }
+    },
+    {
+      "id": "karl-fritz",
+      "name": "Karl Fritz",
+      "alt_names": [
+        "カール・フリッツ",
+        "First King Reiss"
+      ],
+      "role": "supporting",
+      "description": "The first ruler of humanity inside the Walls and prior to that he ruled also as the 145th Fritz King of Eldia.\n~!He possessed the Founding Titan which he used to create the Walls and alter the memories of humanity inside.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205914-J9T4M6sXAqGg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205914
+      }
+    },
+    {
+      "id": "louise",
+      "name": "Louise",
+      "alt_names": [
+        "ルイーゼ"
+      ],
+      "role": "supporting",
+      "description": "A young girl who was in Trost with her mother attempting to flee when the Titans invaded. After being saved by [Mikasa Ackerman](https://anilist.co/character/40881/Mikasa-Ackerman) and the other 104th Cadets, she was inspired by their heroic actions and later joins the military herself as a Survey Corps recruit, hoping to get closer to Mikasa, her idol.\n\nLouise believes that strength is the most important attribute one can have in the world, to the point that she almost seems to have a \"might equals right\" mentality. Much of this mindset stems from her experiences during the Battle of Trost District, where she claims to have learned from watching Mikasa Ackerman fight in the face of adversity to achieve victory. She believes that the ends justify the means, and has no qualms about breaking rules if she believes that disobeying others will get her what she wants.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209870-urk2Tf2nV0mQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209870
+      }
+    },
+    {
+      "id": "roeg",
+      "name": "Roeg",
+      "alt_names": [
+        "ローグ"
+      ],
+      "role": "supporting",
+      "description": "High ranking Military Police Regiment soldier.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210462-XYnFRAnXLAmK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210462
+      }
+    },
+    {
+      "id": "surma",
+      "name": "Surma",
+      "alt_names": [
+        "スルマ"
+      ],
+      "role": "supporting",
+      "description": "A member of the Jaegerists and a former cadet of the 109th Cadet Corps.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268344-QOirELiCXpnP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268344
+      }
+    },
+    {
+      "id": "ramzi",
+      "name": "Ramzi",
+      "alt_names": [
+        "ラムジー"
+      ],
+      "role": "supporting",
+      "description": "Ramzi is a boy who lives in a refugee camp in Marley.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b271037-t1QhzMMT3TQo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 271037
+      }
+    },
+    {
+      "id": "halil",
+      "name": "Halil",
+      "alt_names": [
+        "ハリル"
+      ],
+      "role": "supporting",
+      "description": "A boy who lives in a refugee camp in Marley.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b299826-xkEFTjm1JTLJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 299826
+      }
+    },
+    {
+      "id": "muller",
+      "name": "Muller",
+      "alt_names": [
+        "ミュラー",
+        "Muller Choukan (ミュラー長官)",
+        "Secretary Muller"
+      ],
+      "role": "supporting",
+      "description": "Secretary in the Marlyean military.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b299827-fNz0IBb3BEoQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 299827
+      }
+    },
+    {
+      "id": "ramzi-sofu",
+      "name": "Ramzi Sofu",
+      "alt_names": [
+        "ラムジー祖父",
+        "Ramzi's Grandfather"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 299830
+      }
+    },
+    {
+      "id": "pieck-chichi",
+      "name": "Pieck Chichi",
+      "alt_names": [
+        "ピーク父",
+        "Finger (フィンガー)"
+      ],
+      "role": "supporting",
+      "description": "Father of [Pieck Finger](https://anilist.co/character/125603) and resident of Liberio.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b299831-UHzwFT6Dy7Mi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 299831
+      }
+    },
+    {
+      "id": "kuchel-ackerman",
+      "name": "Kuchel Ackerman",
+      "alt_names": [
+        "クシェル・アッカーマン",
+        "Olympia"
+      ],
+      "role": "minor",
+      "description": "__Relatives:__ [Kenny Ackerman](https://anilist.co/character/127443) (Older Brother), [Unnamed Grandfather](https://anilist.co/character/128589/Kenny-no-Ojiisan)\n\nShe is a member of the Ackerman clan who ended up working in an underground brothel.\n\n~!ㅤ\nKuchel ended up getting impregnated by one of her clients. Despite her brother's advice, she decided to keep the child. She chose to name him [Levi.](https://anilist.co/character/45627/Levi)!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127940-CFONuPd1jFnC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127940
+      }
+    },
+    {
+      "id": "aurille",
+      "name": "Aurille",
+      "alt_names": [
+        "アウリール"
+      ],
+      "role": "minor",
+      "description": "high ranking noble and member of King Fritz's assembly.\n~! After a successful uprising led by Scout Regiment commander Erwin Smith, Aurille is imprisoned by the military.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129943-oS7hSCDLVSPL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129943
+      }
+    },
+    {
+      "id": "gerald",
+      "name": "Gerald",
+      "alt_names": [
+        "ゲラルド"
+      ],
+      "role": "minor",
+      "description": "a member of the King Fritz's assembly.\n~!a selfish man, who values his own interest over that of the citizens of the Walls. As part of the ruling council, he was prepared to disband the Scout Regiment under false pretenses, to further secure his own position in ruling. When Dot Pyxis states that he finds killing humans to be madness, the aristocrat laughs at this notion, displaying his disregard for others in the process.!~\n~!After a successful uprising led by Scout Regiment commander Erwin Smith, he is imprisoned by the military.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129944-zDU0J2BvnK2h.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129944
+      }
+    },
+    {
+      "id": "roderich",
+      "name": "Roderich",
+      "alt_names": [
+        "ローデリヒ"
+      ],
+      "role": "minor",
+      "description": "He is garbed in the robes of the Order of the Walls and a member of the King Fritz's assembly.\n~!After a successful uprising led by Scout Regiment commander Erwin Smith, he is imprisoned by the military.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129946-TTuGGYlQrzqI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129946
+      }
+    },
+    {
+      "id": "dennis-aiblinger",
+      "name": "Dennis Aiblinger",
+      "alt_names": [
+        "デニス・アイブリンガー"
+      ],
+      "role": "minor",
+      "description": "Military Police Officer stationed in the Stohess District.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130657-66AtdJLhzfSk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130657
+      }
+    },
+    {
+      "id": "ivan",
+      "name": "Ivan",
+      "alt_names": [
+        "イヴァン"
+      ],
+      "role": "minor",
+      "description": "A member of the Scout Regiment and a participant of the 57th Exterior Scouting Mission.\n~!Ivan was killed during the Scout Regiment's 57th Expedition. As the Corps was returning to Calaneth District, two of Ivan's friends, Dieter and Jurgen, tried, unsuccessfully, to retrieve his body to return to his family!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131458-X7IACq1k4I7N.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131458
+      }
+    },
+    {
+      "id": "gunther-sofu",
+      "name": "Gunther Sofu",
+      "alt_names": [
+        "グンタ祖父",
+        "Gunther's Grandfather"
+      ],
+      "role": "minor",
+      "description": "[Gunther](https://anilist.co/character/71691)'s grandfather.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131986-6Re0rJWtpeJe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131986
+      }
+    },
+    {
+      "id": "eld-no-haha",
+      "name": "Eld no Haha",
+      "alt_names": [
+        "エルドの母"
+      ],
+      "role": "minor",
+      "description": "Eld's mother. Appears in episode 22.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131988-XMa1skXV2E0L.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131988
+      }
+    },
+    {
+      "id": "gunther-no-haha",
+      "name": "Gunther no Haha",
+      "alt_names": [
+        "グンタの母"
+      ],
+      "role": "minor",
+      "description": "Gunter's mother. Appears in episode 22.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131990-v6rILcgW9MQa.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131990
+      }
+    },
+    {
+      "id": "oluo-no-haha",
+      "name": "Oluo no Haha",
+      "alt_names": [
+        "オルオの母"
+      ],
+      "role": "minor",
+      "description": "Oluo's mother. Appears in episode 22.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131991-nW7ztKNllB8z.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131991
+      }
+    },
+    {
+      "id": "elds-lover",
+      "name": "Eld's Lover",
+      "alt_names": [
+        "エルド恋人"
+      ],
+      "role": "minor",
+      "description": "Appears in episode 22.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131992-isinQRQQHyec.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131992
+      }
+    },
+    {
+      "id": "oluo-no-chichi",
+      "name": "Oluo no Chichi",
+      "alt_names": [
+        "オルオの父"
+      ],
+      "role": "minor",
+      "description": "Oluo's father.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131994-F0MLEE5rQ0Oy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131994
+      }
+    },
+    {
+      "id": "kaya-no-haha",
+      "name": "Kaya no Haha",
+      "alt_names": [
+        "カヤの母",
+        "Kaya’s Mom"
+      ],
+      "role": "minor",
+      "description": "~!During the Wall Rose invasion, she is left stranded in her town with her traumatized daughter as a Titan slowly eats her. Sasha Blouse arrives in the town to alert its citizens and finds the two women in the house they were left in. Sasha unsuccessfully attempts to cut the Titan's nape with an axe, and then notices the child in the room. Sasha apologizes to the mother as she decides to abandon her, and successfully takes her child to safety. The woman later dies from her wounds!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132794-ZFi7VBN9RCxG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132794
+      }
+    },
+    {
+      "id": "bean",
+      "name": "Bean",
+      "alt_names": [
+        "ビーン"
+      ],
+      "role": "minor",
+      "description": "Beane was the name given by Hange Zoë to a 7m Titan which was captured after the reconquest of Trost District.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133211-aFP1NreETocM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133211
+      }
+    },
+    {
+      "id": "sonny",
+      "name": "Sonny",
+      "alt_names": [
+        "ソニー"
+      ],
+      "role": "minor",
+      "description": "Sonny was the name given by Hange Zoë to a 4m Titan which was captured after the reconquest of Trost District.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133212-236DUAUFEHPr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133212
+      }
+    },
+    {
+      "id": "kikou-shuna-kyojin",
+      "name": "Kikou-shuna Kyojin",
+      "alt_names": [
+        "奇行種な巨人",
+        "Abnormal Titan"
+      ],
+      "role": "minor",
+      "description": "During the 34th expedition beyond the Walls, Ilse Langnar fleed towards human territory and encounters this Titan. After it cornered her against a tree, rather than eating her, it instead stares at her until, to her amazement, it began to speak.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133213-veEOdWMAdr0g.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133213
+      }
+    },
+    {
+      "id": "dimo-no-tsuma",
+      "name": "Dimo no Tsuma",
+      "alt_names": [
+        "ディモの妻"
+      ],
+      "role": "minor",
+      "description": "~!The wife and daughter of Dimo Reeves are seen mourning his death. When Erwin Smith approaches the body of Reeves, they tell him to stay away, believing it was the Survey Corps who are responsible for his death. Erwin responds by acknowledging Reeves' dedication to the people of Trost, and vowing to avenge Reeves' death!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137285-RnEPFH0SFeCC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137285
+      }
+    },
+    {
+      "id": "maria-fritz",
+      "name": "Maria Fritz",
+      "alt_names": [
+        "マリア・フリッツ"
+      ],
+      "role": "minor",
+      "description": "~!Tthe eldest daughter of Ymir Fritz the Founder. She would later become the namesake of the outermost wall of Karl Fritz's three Titan Walls, Wall Maria.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268345-dhf5V6v7Psji.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268345
+      }
+    },
+    {
+      "id": "rose-fritz",
+      "name": "Rose Fritz",
+      "alt_names": [
+        "ローゼ・フリッツ"
+      ],
+      "role": "minor",
+      "description": "~!Tthe second daughter of Ymir Fritz the Founder. She would later become the namesake of the middle wall of Karl Fritz's three Titan Walls, Wall Rose!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268346-cvNkTPfR1oh9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268346
+      }
+    },
+    {
+      "id": "sina-fritz",
+      "name": "Sina Fritz",
+      "alt_names": [
+        "シーナ・フリッツ"
+      ],
+      "role": "minor",
+      "description": "~!The youngest daughter of Ymir Fritz the Founder. She would later become the namesake of the innermost wall of Karl Fritz's three Titan Walls, Wall Sina!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268347-DxDgrv7ZlCIf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268347
+      }
+    },
+    {
+      "id": "abel-reiss",
+      "name": "Abel Reiss",
+      "alt_names": [
+        "エーベル・レイス"
+      ],
+      "role": "minor",
+      "description": "Abel Reiss was one of the younger daughters of [Rod Reiss](https://anilist.co/character/127360/Rod-Reiss) and his wife.",
+      "metadata": {
+        "gender": "female",
+        "age": "12",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b310145-jzhLPSp1UlEd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 310145
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:23:50.654Z"
+  "updated_at": "2025-12-23T06:31:59.647Z"
 }

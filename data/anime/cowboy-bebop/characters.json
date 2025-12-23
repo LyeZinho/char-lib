@@ -1,6 +1,6 @@
 {
   "work_id": "cowboy-bebop",
-  "count": 25,
+  "count": 69,
   "characters": [
     {
       "id": "spike-spiegel",
@@ -586,7 +586,1017 @@
       "external_ids": {
         "anilist": 36364
       }
+    },
+    {
+      "id": "miles",
+      "name": "Miles",
+      "alt_names": [
+        "マイルズ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b37186-ajy73hedX5lZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 37186
+      }
+    },
+    {
+      "id": "teddy-bomber",
+      "name": "Teddy Bomber",
+      "alt_names": [
+        "テディ・ボマー",
+        "Ted Bower"
+      ],
+      "role": "supporting",
+      "description": "Ted Bower, more commonly known as the \"Teddy Bomber,\" was a terrorist who used explosive teddy bears to destroy what he viewed as symbols of capitalism. He viewed himself as an activist, trying to warn the public about the dangers of unchecked capitalism. He sees the tallest skyscrapers of Mars as symbols of these capitalistic dangers and has resolved to destroy them, starting with the tallest.\n\n(Source: Cowboy Bebop Fandom)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b38884-KbRiTsI8mpnp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 38884
+      }
+    },
+    {
+      "id": "fad",
+      "name": "Fad",
+      "alt_names": [
+        "ファド"
+      ],
+      "role": "supporting",
+      "description": "[Jet Black](https://anilist.co/character/3/)'s former ISSP partner.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b42425-rCfLBtVjcLIU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 42425
+      }
+    },
+    {
+      "id": "victoria-terpsichore",
+      "name": "Victoria Terpsichore",
+      "alt_names": [
+        "ブイティー",
+        "V. T.",
+        "Heavy Metal Queen"
+      ],
+      "role": "supporting",
+      "description": "Victoria Terpsichore is a tough-talking, and widowed space trucker, whose deceased husband, Ural Terpsichore, is a man that fellow bounty hunters regard as a \"legendary bounty hunter.\" Always with her cat, Zeros, she appears in the episode \"Heavy Metal Queen\".",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70753-QmiPD1S46MVJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70753
+      }
+    },
+    {
+      "id": "whitney-hagas-matsumoto",
+      "name": "Whitney Hagas Matsumoto",
+      "alt_names": [
+        "ウィットニー・ハガス・マツモト"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72255-uxWPz8sIj27k.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72255
+      }
+    },
+    {
+      "id": "asimov-solensan",
+      "name": "Asimov Solensan",
+      "alt_names": [
+        "アシモフ・ソーレンサン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78693-1bdIMYKO41Tz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 78693
+      }
+    },
+    {
+      "id": "pet-shop-no-owner",
+      "name": "Pet Shop no Owner",
+      "alt_names": [
+        "ペットショップのオーナー",
+        "Pet Store Owner"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b79667-73VBmFVzsQAQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79667
+      }
+    },
+    {
+      "id": "mpu",
+      "name": "MPU",
+      "alt_names": [
+        "んぴゅー"
+      ],
+      "role": "supporting",
+      "description": "Artificial Intelligence of abandoned satellite appeared in episode 9.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/83271.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 83271
+      }
+    },
+    {
+      "id": "stella-bonnaro",
+      "name": "Stella Bonnaro",
+      "alt_names": [
+        "ステラ・ボナーロ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85271-l06jfkIpYFG2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 85271
+      }
+    },
+    {
+      "id": "iresumi-otoko",
+      "name": "Iresumi Otoko",
+      "alt_names": [
+        "イレズミ男",
+        "Weapon Shop Owner"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b165883-eqhBYkzbxGhu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 165883
+      }
+    },
+    {
+      "id": "videomania",
+      "name": "Videomania",
+      "alt_names": [
+        "ビデオマニア",
+        "Video Enthusiast"
+      ],
+      "role": "supporting",
+      "description": "A clerk in a video store on Mars who Spike and Jet came to see about a beta cassette in episode 18. He was enthusiastic about antique technology and old 20th century television shows. He also thought that shows were not as good as they used to be.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170071-oSiAUFshJfEH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170071
+      }
+    },
+    {
+      "id": "shaft",
+      "name": "Shaft",
+      "alt_names": [
+        "シャフト"
+      ],
+      "role": "supporting",
+      "description": "The younger brother of the two Shaft Brothers. Shaft learned that his older brother bought some psychedelic mushrooms from a mushroom dealer called Domino Walker and, after eating one, he laughed himself to death, prompting Shaft to swear revenge on Walker.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175788-m4mcHPZBVk4V.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175788
+      }
+    },
+    {
+      "id": "domino-walker",
+      "name": "Domino Walker",
+      "alt_names": [
+        "ドミノ・ウォーカー"
+      ],
+      "role": "supporting",
+      "description": "A dealer of hallucinogenic mushrooms and bounty head.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175789-N2uWR71b0PeP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175789
+      }
+    },
+    {
+      "id": "alisa",
+      "name": "Alisa",
+      "alt_names": [
+        "アリサ"
+      ],
+      "role": "supporting",
+      "description": "Alisa is a business owner on Ganymede.\n\nAlisa had a relationship with Jet Black for a long time in the early 2060s when he worked for the ISSP. However, she became increasingly unsatisfied, as she felt she had no independence outside of their relationship. One day, she decided she had to end it and left Jet, leaving for him a watch and a note that simply said, \"Farewell.\"\n\nAlisa started to run a bar called La Fin by 2071. However, business became slow as the area was much less trafficked than it used to be. Alisa decided to take out a loan with Law Rentzuo in order to keep the bar open.\n\n(Source: Cowboy Bebop Fandom Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213076-3ewXnLTr5QFM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 213076
+      }
+    },
+    {
+      "id": "sally-yung",
+      "name": "Sally Yung",
+      "alt_names": [
+        "サリー"
+      ],
+      "role": "supporting",
+      "description": "Sally Yung was one of [Faye Valentine's](https://anilist.co/character/2) high school classmates.\n\nYung was a friend of Faye in the early 21st century. They made some videos which were recorded on beta cassette.\n\nYung would later marry, have children, and eventually grandchildren including [a girl](https://anilist.co/character/214420).\n\n(Source: Cowboy Bebop Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214419-XVE5BMWhjwJZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214419
+      }
+    },
+    {
+      "id": "mago",
+      "name": "Mago",
+      "alt_names": [
+        "孫",
+        "Sally's grandchild"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214420-89ALZSyOUmob.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214420
+      }
+    },
+    {
+      "id": "mcintire",
+      "name": "McIntire",
+      "alt_names": [
+        "マッケンタイア",
+        "Mackenroe",
+        "Macintosh",
+        "Mackey-Mike"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214421-iBUMY0yaA0rB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214421
+      }
+    },
+    {
+      "id": "clara",
+      "name": "Clara",
+      "alt_names": [
+        "クララ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214422-yfHPkXYn3NO8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214422
+      }
+    },
+    {
+      "id": "cain",
+      "name": "Cain",
+      "alt_names": [
+        "カイン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214423-a6m2tgJsnGel.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214423
+      }
+    },
+    {
+      "id": "sean",
+      "name": "Sean",
+      "alt_names": [
+        "ショーン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214424-46zYsSx3NcBz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214424
+      }
+    },
+    {
+      "id": "zuzu",
+      "name": "Zuzu",
+      "alt_names": [
+        "ズズ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214425-xlRPsfMSXfL2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214425
+      }
+    },
+    {
+      "id": "hahaoya",
+      "name": "Hahaoya",
+      "alt_names": [
+        "母親",
+        "Mother"
+      ],
+      "role": "supporting",
+      "description": "Alfredo's mother.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214428-PrBZzThjlLku.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214428
+      }
+    },
+    {
+      "id": "manryuu",
+      "name": "Manryuu",
+      "alt_names": [
+        "マン龍",
+        "Wang Long"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214429-xM4hmACrs0ww.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214429
+      }
+    },
+    {
+      "id": "pinryuu",
+      "name": "Pinryuu",
+      "alt_names": [
+        "ピン龍",
+        "Ping"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214430
+      }
+    },
+    {
+      "id": "souryuu",
+      "name": "Souryuu",
+      "alt_names": [
+        "ソウ龍",
+        "Sou"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214431
+      }
+    },
+    {
+      "id": "doctor",
+      "name": "Doctor",
+      "alt_names": [
+        "ドクター",
+        "Cosmetic doctor"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214432-3dFZZOwZ0cwc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214432
+      }
+    },
+    {
+      "id": "anastasia",
+      "name": "Anastasia",
+      "alt_names": [
+        "アニー",
+        "Annie"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214478-ejtCmJNYWDbf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214478
+      }
+    },
+    {
+      "id": "gordon",
+      "name": "Gordon",
+      "alt_names": [
+        "ゴードン"
+      ],
+      "role": "supporting",
+      "description": "Gordon was a criminal casino owner who recruited Faye Valentine in an illegal business transaction that made use of her skill as a cheater and a gambler. The plan was to acquire a special chip (with the ability to decrypt and unlock virtually any security code) from one of the patrons in Gordon's casino, but the plan goes awry due to the intervention of Spike Spiegel. Gordon makes an arrangement with Spike and Jet Black to exchange the chip, currently in the hands of Spike and Jet, for 30 million Woolongs. Gordon and his henchmen intend to turn on them, but are quickly outwitted.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b252213-dB2yiPR2zaeF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 252213
+      }
+    },
+    {
+      "id": "huey",
+      "name": "Huey",
+      "alt_names": [
+        "ヒューイ"
+      ],
+      "role": "supporting",
+      "description": "One of the three hijackers who appears in Waltz For Venus, named after Donald Duck's nephews.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b252214-qXzg7DJUv22J.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 252214
+      }
+    },
+    {
+      "id": "duhan",
+      "name": "Duhan",
+      "alt_names": [
+        "ドゥーハン",
+        "Old Man"
+      ],
+      "role": "supporting",
+      "description": "A crotchety aviation junkie, the man who built Swordfish II. He lives on Earth with his assistant Miles.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b252215-HzCaJEscFg4h.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 252215
+      }
+    },
+    {
+      "id": "dewey",
+      "name": "Dewey",
+      "alt_names": [
+        "デューイ"
+      ],
+      "role": "supporting",
+      "description": "One of the three hijackers who appears in Waltz For Venus, named after Donald Duck's nephews.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b252216-h0J9VhAnBEqT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 252216
+      }
+    },
+    {
+      "id": "jeffly-frank",
+      "name": "Jeffly Frank",
+      "alt_names": [
+        "ジェフリー・フランク"
+      ],
+      "role": "supporting",
+      "description": "Sgt. Jeffly Frank is an officer on Io (the innermost major moon of Jupiter) who interrogates the bounty huntress Coffee in Session 17: \"Mushroom Samba\".",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b252217-RpKOBw2x4Jk5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 252217
+      }
+    },
+    {
+      "id": "elroy",
+      "name": "Elroy",
+      "alt_names": [
+        "エルロイ"
+      ],
+      "role": "supporting",
+      "description": "One of the inmates on board the hijacked prison transport ship. Has a noticeable \"x\" scar on his cheek. Used to be a police captain on Venus.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b252218-azS9FdIwIFTe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 252218
+      }
+    },
+    {
+      "id": "dig",
+      "name": "Dig",
+      "alt_names": [
+        "ディグ"
+      ],
+      "role": "supporting",
+      "description": "A violent prisoner on board the hijacked prison ship.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b252219-zUamdQIaZKgR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 252219
+      }
+    },
+    {
+      "id": "piccaro-calvino",
+      "name": "Piccaro Calvino",
+      "alt_names": [
+        "ピッカロカルヴィーノ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b252220-M9p17eFINZz5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 252220
+      }
+    },
+    {
+      "id": "giraffe",
+      "name": "Giraffe",
+      "alt_names": [
+        "ジラフ"
+      ],
+      "role": "supporting",
+      "description": "Giraffe was one of the leaders of the Self-Defense Volunteer Squads. Following a conflict with a group of space raiders, Giraffe was found blindfolded in a silo, presumably betrayed by his partner, Zebra. The Bebop crew later began tracking Giraffe, who was a 3 million Woolong bounty head. Giraffe, meanwhile, is trailing Zebra and Wen, and follows them to a sky rise hotel. After an unseen altercation, Giraffe goes crashing through the window, being caught by Spike Spiegel's Swordfish II.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b252221-W5JDyToJsMGr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 252221
+      }
+    },
+    {
+      "id": "twinkle-maria-murdock",
+      "name": "Twinkle Maria Murdock",
+      "alt_names": [
+        "トゥインクル・マリア・マードック",
+        "Ma Twinkle"
+      ],
+      "role": "supporting",
+      "description": "Maria Murdock was a bounty head wanted as the leader of the terrorist organizations, The Space Warriors. As an eco-terrorist, she attacked Ganymede for harvesting the endangered Ganymede Sea Rat population.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283095-zLEhXMjcjsqu.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283095
+      }
+    },
+    {
+      "id": "ani",
+      "name": "Ani",
+      "alt_names": [
+        "兄",
+        "Big Brother"
+      ],
+      "role": "minor",
+      "description": "Appears in episode 18.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 224652
+      }
+    },
+    {
+      "id": "shoujo-a",
+      "name": "Shoujo A",
+      "alt_names": [
+        "少女A",
+        "Girl A"
+      ],
+      "role": "minor",
+      "description": "Appears in episode 18.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 224653
+      }
+    },
+    {
+      "id": "shoujo-b",
+      "name": "Shoujo B",
+      "alt_names": [
+        "少女B",
+        "Girl B"
+      ],
+      "role": "minor",
+      "description": "Appears in episode 18.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 224654
+      }
+    },
+    {
+      "id": "jobim",
+      "name": "Jobim",
+      "alt_names": [
+        "ジョビン"
+      ],
+      "role": "minor",
+      "description": "A friend of [Antonio](https://anilist.co/character/240935/) and [Carlos](https://anilist.co/character/240936/).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b240934-QjWagd3DeCW1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 240934
+      }
+    },
+    {
+      "id": "antonio",
+      "name": "Antonio",
+      "alt_names": [
+        "アントニオ"
+      ],
+      "role": "minor",
+      "description": "A friend of [Jobim](https://anilist.co/character/240934/) and [Carlos](https://anilist.co/character/240936/).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b240935-zuDG3vxHPouA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 240935
+      }
+    },
+    {
+      "id": "carlos",
+      "name": "Carlos",
+      "alt_names": [
+        "カルロス"
+      ],
+      "role": "minor",
+      "description": "A friend of [Jobim](https://anilist.co/character/240934/) and [Antonio](https://anilist.co/character/240935/).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b240936-pHHTccN4Qkug.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 240936
+      }
+    },
+    {
+      "id": "yuuri-kellerman",
+      "name": "Yuuri Kellerman",
+      "alt_names": [
+        "ユーリ・ケラマン"
+      ],
+      "role": "minor",
+      "description": "A psychic expert appearing in episode 9.\n\nHe was a guest on a news channel hosted by Tom Wiles when mysterious land graffiti was reported being from attack satellites. Kellerman was convinced that aliens were responsible, either by manipulating the satellites themselves or by influencing people's minds. Either way, according to him aliens were responsible.\n\nHis name is a parody on the famous psychic Uri Geller.\n\n(Source: Cowboy Bebop Fandom)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b255167-lNBreoDTZHWq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 255167
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:34:30.184Z"
+  "updated_at": "2025-12-23T00:51:01.459Z"
 }

@@ -1,6 +1,6 @@
 {
   "work_id": "tokyo-ghoul-a",
-  "count": 25,
+  "count": 48,
   "characters": [
     {
       "id": "ken-kaneki",
@@ -606,7 +606,546 @@
       "external_ids": {
         "anilist": 136024
       }
+    },
+    {
+      "id": "taishi-fura",
+      "name": "Taishi Fura",
+      "alt_names": [
+        "富良太志"
+      ],
+      "role": "supporting",
+      "description": "Taishi Fura is a First-Class Ghoul Investigator. He is the protagonist of the side story Tokyo Ghoul: Jack, alongside Kishou Arima.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145217-ZQ9Iw8HOxHFQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145217
+      }
+    },
+    {
+      "id": "ui-koori",
+      "name": "Ui Koori",
+      "alt_names": [
+        "宇井郡"
+      ],
+      "role": "supporting",
+      "description": "Koori is a Special Class Investigator and an Investigation Commander in Division I. He is the leader of S1 Squad, and a former protege of Kishou Arima and the partner of Hairu Ihei. He is in charge of the 4th ward.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169534-3CQT8VSJ3ywj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 169534
+      }
+    },
+    {
+      "id": "renji-yomo",
+      "name": "Renji Yomo",
+      "alt_names": [
+        "四方蓮示",
+        "Raven"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 182 cm (5'11\")\n\nRenji Yomo is a worker at Anteiku and the right hand of Yoshimura. He is an old friend of Uta and Itori. Because of his scavenging habits and long-beaked, avian mask, he has the nickname of \"Raven.\"",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b172074-KyZ7MjpUkz6H.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 172074
+      }
+    },
+    {
+      "id": "akihiro-kanou",
+      "name": "Akihiro Kanou",
+      "alt_names": [
+        "嘉納明博"
+      ],
+      "role": "supporting",
+      "description": "Akihiro Kanou, often referred to as Professor Kanou, is a physician at Kanou General Hospital.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b189325-kRquPHZwi7Zj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 189325
+      }
+    },
+    {
+      "id": "kuramoto-itou",
+      "name": "Kuramoto Itou",
+      "alt_names": [
+        "伊東倉元"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 172 cm\n\nKuramoto Itou is a First Class Ghoul Investigator and the deputy squad leader of the Hirako Squad.",
+      "metadata": {
+        "gender": "male",
+        "age": "23-25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206156-weVMMBSDG2dA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 206156
+      }
+    },
+    {
+      "id": "chuu-hachikawa",
+      "name": "Chuu Hachikawa",
+      "alt_names": [
+        "鉢川忠"
+      ],
+      "role": "supporting",
+      "description": "An Associate Special Class Investigator from the CCG.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b235080-nue7NGGuagvw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 235080
+      }
+    },
+    {
+      "id": "kazuichi-banjou",
+      "name": "Kazuichi Banjou",
+      "alt_names": [
+        "万丈数壱"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241488-zzvhFejLf75p.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241488
+      }
+    },
+    {
+      "id": "big-madam",
+      "name": "Big Madam",
+      "alt_names": [
+        "ビッグマダム"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241489-0wVzzwmug8n4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241489
+      }
+    },
+    {
+      "id": "kouitsu-chigyou",
+      "name": "Kouitsu Chigyou",
+      "alt_names": [
+        "地行甲乙"
+      ],
+      "role": "supporting",
+      "description": "Kouitsu Chigyou is the head ghoul researcher at CCG Laboratory Division. He used to be a researcher in the GFG in Germany.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241525-NGM2jr86lv1r.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241525
+      }
+    },
+    {
+      "id": "kaya-irimi",
+      "name": "Kaya Irimi",
+      "alt_names": [
+        "入見カヤ",
+        "Black Dog"
+      ],
+      "role": "supporting",
+      "description": "Kaya Irimi is a waitress working at Anteiku.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241529-RAGhEkI8DOsL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241529
+      }
+    },
+    {
+      "id": "ayumu-hogi",
+      "name": "Ayumu Hogi",
+      "alt_names": [
+        "穂木あゆむ"
+      ],
+      "role": "supporting",
+      "description": "Ayumu is a First Class Investigator from the CCG and Vice-Chief of Chuu Hachikawa's squad. Ayumu was part of the Squad 3 in the Anteiku raid.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241530-Doqj0pw6wjXx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241530
+      }
+    },
+    {
+      "id": "misato-gori",
+      "name": "Misato Gori",
+      "alt_names": [
+        "五里美郷"
+      ],
+      "role": "supporting",
+      "description": "Misato Gori is a Rank 2 Ghoul Investigator. She is currently affiliated with the 13th ward.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241531-dfpsPLLxIhRm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241531
+      }
+    },
+    {
+      "id": "kiyoko-aura",
+      "name": "Kiyoko Aura",
+      "alt_names": [
+        "安浦清子"
+      ],
+      "role": "supporting",
+      "description": "Kiyoko is a Special Class Investigator, and noteworthy for being the first woman to achieve that rank. She is assigned to the 1st Ward as the Chief of Division I . She was a classmate of Kasuka Mado, and is greatly admired by the female employees of CCG for her many achievements.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241532-4EYkZaczmutn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241532
+      }
+    },
+    {
+      "id": "matasaka-kamishiro",
+      "name": "Matasaka Kamishiro",
+      "alt_names": [
+        "神代叉栄",
+        "Orca",
+        "Shachi",
+        "鯱"
+      ],
+      "role": "supporting",
+      "description": "Matasaka Kamishiro is a SS-rank ghoul and the former leader of the ghouls in the 6th ward. Most people refer to him by his nickname Orca or Shachi. He is a strong ghoul, well-versed in the martial arts. When he was the leader of the ghouls in the 6th ward, he trained and strengthened his followers. However, he was captured and sent to the Ghoul Detention Center. After he was freed during Aogiri Tree's attack, he decided to join the organization.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241535-ZmcGdnyCSepJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241535
+      }
+    },
+    {
+      "id": "iwao-kuroiwa",
+      "name": "Iwao Kuroiwa",
+      "alt_names": [
+        "黒磐巌",
+        "Iwaccho"
+      ],
+      "role": "supporting",
+      "description": "Iwao Kuroiwa is a Special Class Ghoul Investigator. Currently, he serves as the vice commander of the 11th Ward Special Countermeasures Unit.\n\nYukinori Shinohara calls him by the nickname Iwaccho.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241539-lHcX6rN9gQZF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241539
+      }
+    },
+    {
+      "id": "roma-hoito",
+      "name": "Roma Hoito",
+      "alt_names": [
+        "帆糸ロマ"
+      ],
+      "role": "supporting",
+      "description": "Roma Hoito is a ghoul and used to be a waitress at Anteiku.",
+      "metadata": {
+        "gender": "female",
+        "age": "51",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241540-jhKncKLFWClj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241540
+      }
+    },
+    {
+      "id": "katsuya-mabuchi",
+      "name": "Katsuya Mabuchi",
+      "alt_names": [
+        "馬淵活也"
+      ],
+      "role": "supporting",
+      "description": "Katsuya Mabuchi is a ghoul investigator. He is the subordinate of Itsuki Marude and is normally seen standing beside Marude.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241545-2toYZZdtVuU5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241545
+      }
+    },
+    {
+      "id": "mougan-tanakamaru",
+      "name": "Mougan Tanakamaru",
+      "alt_names": [
+        "田中丸望元"
+      ],
+      "role": "supporting",
+      "description": "Mougan is a Special Class Investigator and the Division I Branch Director of CCG's 2nd Ward Branch Office. He acted as the captain of Squad 2 in the Anteiku raid.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241551-xaAOi9laTPPJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241551
+      }
+    },
+    {
+      "id": "yoshitoki-washuu",
+      "name": "Yoshitoki Washuu",
+      "alt_names": [
+        "和修吉時"
+      ],
+      "role": "supporting",
+      "description": "Yoshitoki Washuu is the current Bureau Director of CCG's Main Office and Tsuneyoshi Washuu's son.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241552-YUPUxpI8L3jL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241552
+      }
+    },
+    {
+      "id": "kimi-nishino",
+      "name": "Kimi Nishino",
+      "alt_names": [
+        "西野貴未"
+      ],
+      "role": "minor",
+      "description": "Kimi Nishino is a assistant for Akihiro Kanou who aids in his ghoulification experiments, the previous human lover of Nishiki Nishio and a medical student at Kamii University.~!Although she is aware of his ghoul nature, she remained loyal to him and kept his secret. After the Owl Suppression Operation, he left her in order to keep her safe.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88410.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88410
+      }
+    },
+    {
+      "id": "yakumo-oomori",
+      "name": "Yakumo Oomori",
+      "alt_names": [
+        "大守八雲",
+        "Yamori (ヤモリ)",
+        "Jason (ジェイソン)"
+      ],
+      "role": "minor",
+      "description": "A white-haired brute with sharp lizard eyes. Yamori is ghoul who is as scary as he looks. Normally in a entirely white suit and black dress shirt, he resembles a typical gangster.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88428.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88428
+      }
+    },
+    {
+      "id": "maris-stella",
+      "name": "Maris-Stella",
+      "alt_names": [
+        "マリスステラ",
+        "One Eyed Queen"
+      ],
+      "role": "minor",
+      "description": "The grumpy cat of Akira Mado. She appears to be affectionate towards Akira, but hostile to anyone else.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207563-JbpZveOdEQG3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207563
+      }
+    },
+    {
+      "id": "tsuneyoshi-washuu",
+      "name": "Tsuneyoshi Washuu",
+      "alt_names": [
+        "和修常吉",
+        "Onitsune"
+      ],
+      "role": "minor",
+      "description": "Tsuneyoshi Washuu is the current chairman of CCG and Yoshitoki Washuu's father.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241555-cL7Hl9HogoGS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241555
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:38:24.946Z"
+  "updated_at": "2025-12-23T05:59:26.138Z"
 }

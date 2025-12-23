@@ -1,6 +1,6 @@
 {
   "work_id": "hells-paradise",
-  "count": 25,
+  "count": 69,
   "characters": [
     {
       "id": "gabimaru",
@@ -646,7 +646,1064 @@
       "external_ids": {
         "anilist": 302522
       }
+    },
+    {
+      "id": "rien",
+      "name": "Rien",
+      "alt_names": [
+        "蓮",
+        "リエン",
+        "Fugen Joutei (普賢上帝)",
+        "Shangdi Samantabhadra"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human; Tensen (Through her puppets)\n__Tao Attribute:__ Earth\n__Occupation:__ Leader of Lord Tensen, Ruler of Kotaku\n__Affiliations:__ Lord Tensen\n\nRien is a Tensen-class Sennin serving as the true ruler of Kotaku, the creator of the Tensens, and the leader of Lord Tensen.\n\n~!At some point during 3rd century BC, Rien was married to Jofuku and went with him on his voyage to the East to acquire the Elixir of Life for the ruler of the Qin Dynasty. Their journey ended on an island where they decided to use the island's resources and their knowledge of Taoism to discover the secrets to gaining immortality. This resulted in many experimental creations. As part of their research, Rien used her Tao to create a clone of herself that she could remotely control. After receiving a new body, Rien used the Tao puppet to create another fabricated clone named Mei, who assisted both her and Jofuku, along with six fabricated newborns. These seven then came to be known as Tensens. After Jofuku's death, Rien made a commitment to revive him. With the Tensens she created, Rien formed the group known as Lord Tensen to maintain order over the island and trained the six young ones in the ways of Tao.!~",
+      "metadata": {
+        "gender": "female; male/female (through her puppets)",
+        "age": "1000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b148754-YBgD5DYoerY3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 148754
+      }
+    },
+    {
+      "id": "mei",
+      "name": "Mei",
+      "alt_names": [
+        "めい",
+        "メイ"
+      ],
+      "role": "supporting",
+      "description": "__Tao Attribute:__ Water\n\nAn islander from Kotaku. Mei is a shy and quiet girl. She is innocent and can easily be frightened when harm comes to her. Mei is especially kind and caring to the people around her that she views are her allies and can also be accepting of others when seeing their good qualities. When they first met, Mei was afraid of Gabimaru because of his intimating demeanor but after showing signs of respect towards her she wasn't afraid to come near him.\n\n~!Mei is a Tensen that was formerly affiliated with [Rien](https://anilist.co/character/148754/Rien) and Xu Fu but escaped after disagreeing with Rien's methods to unlock immortality. She then resided with Hōko and soon became an ally of Gabimaru and his group in their attempt to retrieve the elixir known as Tan from Lord Tensen and escape Kotaku.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b148755-KybQKJ8BPh1Q.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 148755
+      }
+    },
+    {
+      "id": "ran",
+      "name": "Ran",
+      "alt_names": [
+        "蘭",
+        "Juntei Teikun (准胝帝君)",
+        "Imperial Juntei Teikun",
+        "Deified Dijun Cundi"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Tensen\n__Tao Attribute:__ Water\n__Occupation:__ Partial ruler of Kotaku\n__Affiliation:__ Lord Tensen, Xu Fu\n\nRan is a member of Lord Tensen and part ruler of Kotaku.\n\nRan is very loyal to [Rien](https://anilist.co/character/148754/Rien) and carries the same view of seeing the Tensens as family. Like all the members of Lord Tensen, Ran has no sympathy for humans and uses them as they see fit. He believes that it is a futile effort for the trespassers to invade the palace and try their hand at opposing the Tensens, showing signs that he views them inferior compared to his family. However, he is not above praising or admiring them if they show impressive skills. Due to specializing in Dō'in, Ran is extremely passionate about the physical work of the body and fighting styles that can only be obtained through diligent training.\n\n~! Upon transforming into his Kishikai form, Ran expressed his physicality while attacking [Gabimaru](https://anilist.co/character/137260/Gabimaru) and [Yuzuriha](https://anilist.co/character/137270/Yuzuriha). He was also up to the challenge of facing the two in their use of ninjutsu in order to strengthen his Dō'in training. !~\n\n~! He is bested in a fight against Gabimaru and Yuzuriha and is killed. Ran slowly dies with his last thoughts about Rien. !~",
+      "metadata": {
+        "gender": "male/female (prefers the male gender)",
+        "age": "1000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b151773-THqI74IGmHsS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 151773
+      }
+    },
+    {
+      "id": "houko",
+      "name": "Houko",
+      "alt_names": [
+        "木人",
+        "Mu Ren"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Houko\n__Tao Attribute:__ Metal",
+      "metadata": {
+        "gender": "male",
+        "age": "500+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305440-nNgZoPz0B2NE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305440
+      }
+    },
+    {
+      "id": "chou-doushi",
+      "name": "Chou Doushi",
+      "alt_names": [
+        "Butterfly Doushi"
+      ],
+      "role": "supporting",
+      "description": "This Doushi is a subordinate of Lord Tensen and was one of the few that were ordered to observe the humans that made landfall on Kotaku.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306729-YW5YzEiDq3Cy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306729
+      }
+    },
+    {
+      "id": "mukade-doushi",
+      "name": "Mukade Doushi",
+      "alt_names": [
+        "Centipede Doushi"
+      ],
+      "role": "supporting",
+      "description": "This Doushi is a subordinate of Lord Tensen and was one of the few that were ordered to observe the humans that made landfall on Kotaku.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306732-fJpadCcHf0Hl.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306732
+      }
+    },
+    {
+      "id": "tesshin",
+      "name": "Tesshin",
+      "alt_names": [
+        "鉄心",
+        "Yamada Asaemon Tesshin (山田浅ェ門 鉄心)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 173 cm\n\nTesshin was a former Asaemon of the Yamada clan and the first apprentice of [Shion](https://anilist.co/character/137267/Shion).",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306847-pTOq1RighbhL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306847
+      }
+    },
+    {
+      "id": "shokushu-doushi",
+      "name": "Shokushu Doushi",
+      "alt_names": [
+        "道士",
+        "Tentacle Doushi"
+      ],
+      "role": "supporting",
+      "description": "A subordinate of Lord Tensen who was ordered to check to see if Aza Chōbei and Tōma were still in the pit becoming Tan.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b307701-vmr1ov2ZJNaq.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 307701
+      }
+    },
+    {
+      "id": "yui",
+      "name": "Yui",
+      "alt_names": [
+        "結",
+        "画眉丸の妻"
+      ],
+      "role": "minor",
+      "description": "__Race:__ Human\n__Occupation:__ House Wife\n__Affiliations:__ Iwagakure\n\nYui is the daughter of the Iwagakure chief and the wife of Gabimaru.\n\nYui is very kind, caring and gentle. She truly loves Gabimaru and believes that he is not completely emotionless as people make him out to be. She accepts the fact that he kills people and is not terrified being around him. Yui is also shown to be wise as she gave Gabimaru words of wisdom on why he should relax his body while giving him a bath. She is very civilized as she taught Gabimaru basic manners when they became a couple.\n\nYui was born as the daughter of the Iwagakure chief. Being born a female, Yui was not trained in the ways of the shinobi and instead lived a semi-normal life within the village. \n\n~! At some point, during her time with her father, the chief burned her face to make sure that she gave up on her dreams of ever living a normal, peaceful life as a woman. After Gabimaru proved his worth to the chief, Yui was forced by her father to marry him. The two then came to love each other as their days went by. Wanting to give his wife a peaceful life, Gabimaru came to the village chief requesting to abandon his duties as a shinobi, resulting in him being betrayed by the village and handed over to the authorities to be executed. After hearing news of her husband's captured, Yui went into a state of depression and refused to speak to anyone or eat as she waits in hopes for Gabimaru's return. !~",
+      "metadata": {
+        "gender": "female",
+        "age": "16-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b151771-obZQxZPwjiud.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 151771
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "minor",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
+    },
+    {
+      "id": "kichiji",
+      "name": "Kichiji",
+      "alt_names": [
+        "吉次",
+        "Yamada Asaemon Kichiji (山田浅工門吉次)",
+        "Sagiri no Chichi (佐切の父)"
+      ],
+      "role": "minor",
+      "description": "Head of the Yamada clan. He is the father of [Sagiri](https://anilist.co/character/137263).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302527-tigkE4fAyNLW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302527
+      }
+    },
+    {
+      "id": "jikka",
+      "name": "Jikka",
+      "alt_names": [
+        "十禾",
+        "山田浅ェ門 十禾",
+        "Yamada Asaemon Jikka"
+      ],
+      "role": "minor",
+      "description": "__Race:__ Human\n__Age:__ Unknown\n__Tao Attribute:__ Earth\n__Occupation:__ Asaemon\n__Affiliation:__ Yamada Clan\n__Rank:__ 3rd\n\nJikka is the 3rd ranked Asaemon in the Yamada clan. After the shogun sent criminals to Kotaku to find the Elixir of Life, he was tasked with being Hōrubō's executioner.\n\nJikka is a laid-back individual who compared to his fellow clan members, especially Shugen, is less dedicated to his work as an Asaemon. He is rather dishonest and goes as far as to lie to shogun's officials. Jikka is also rude and disrespectful to others around him regardless of who they are, even towards his fellow Asaemon. Also, unlike his clan members who each show concern for one another, Jikka is the only member shown to have little to no concern over the safety of the other Asaemon. \n\nJikka stated that he is an individual that prefers to enjoy life to the fullest rather than focus on status and rank. This way of thinking greatly shows in his life as an executioner as he has been reported to attend his execution assignments while intoxicated and even sold his own sword as a way to collect money for his vulgar exploits. As a result, Jikka has received a bad reputation amongst his peers in the Yamada clan. Despite being so lazy and laid-back he is a very analytical individual and is incapable of being fooled through deception.\n\n~! He is one of the most mysterious people of the Yamada clan and also one of the strongest despite the attitude towards his duties, he is in fact so strong that he's the only person known who has come back from Kotatsu island alive and in perfect condition. Having sold his sword he now carries a simple takemitsu (bamboo sword), but even then he still manages to cut off criminal heads and kill monsters with ease. !~\n\nJikka believes that he and Gabimaru are similar in that they value life more than anything.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b148756-BRSo9v4Rzds2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 148756
+      }
+    },
+    {
+      "id": "hourubou",
+      "name": "Hourubou",
+      "alt_names": [
+        "法流坊",
+        "Koroshi Nenbutsu (殺し念仏)",
+        "Killing Buddha",
+        "The Killing Prayer"
+      ],
+      "role": "minor",
+      "description": "Death row convict recruited to find the Elixir of Life. Due to how his body is constructed, he has the unique ability to stretch or contort his limbs to restrain and constrict his opponents.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302525-iKmveUnK7Z6Z.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302525
+      }
+    },
+    {
+      "id": "akaginu",
+      "name": "Akaginu",
+      "alt_names": [
+        "あか絹",
+        "Hito Kui Oiran  (人喰い花魁)",
+        "Cannibal Courtesan"
+      ],
+      "role": "minor",
+      "description": "Death row convict recruited to find the Elixir of Life. She is a cannibal with a taste for male flesh, especially after first making them succumb to her sexual temptations.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302523-gLqxyQKvyVWC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302523
+      }
+    },
+    {
+      "id": "moro-makiya",
+      "name": "Moro Makiya",
+      "alt_names": [
+        "茂籠牧耶",
+        "Korobi Bateren (ころび伴天連)",
+        "The Apostate"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 191 cm\n\nDeath row convict recruited to find the Elixir of Life. Makiya had an ambition to overthrow the shogun and went about it by forming a cult that was based off of multiple religions.",
+      "metadata": {
+        "gender": "male",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302526-wT5r7s2l5O9O.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302526
+      }
+    },
+    {
+      "id": "hana-yoriki",
+      "name": "Hana Yoriki",
+      "alt_names": [
+        "花与力"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302058-DCJ3fUO3BKs5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302058
+      }
+    },
+    {
+      "id": "irezumimono",
+      "name": "Irezumimono",
+      "alt_names": [
+        "入れ墨者"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302057-05ESDHgJF5mU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302057
+      }
+    },
+    {
+      "id": "karou",
+      "name": "Karou",
+      "alt_names": [
+        "家老",
+        "Chief Retainer"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302051
+      }
+    },
+    {
+      "id": "rouyakunin-a",
+      "name": "Rouyakunin A",
+      "alt_names": [
+        "牢役人A"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 301608
+      }
+    },
+    {
+      "id": "rouyakunin-b",
+      "name": "Rouyakunin B",
+      "alt_names": [
+        "牢役人B"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 301609
+      }
+    },
+    {
+      "id": "rouyakunin-c",
+      "name": "Rouyakunin C",
+      "alt_names": [
+        "牢役人C"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 301610
+      }
+    },
+    {
+      "id": "tsumibito-a",
+      "name": "Tsumibito A",
+      "alt_names": [
+        "罪人A"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302054
+      }
+    },
+    {
+      "id": "tsumibito-b",
+      "name": "Tsumibito B",
+      "alt_names": [
+        "罪人B"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302056
+      }
+    },
+    {
+      "id": "yoriki",
+      "name": "Yoriki",
+      "alt_names": [
+        "与力"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302055
+      }
+    },
+    {
+      "id": "yakunin",
+      "name": "Yakunin",
+      "alt_names": [
+        "役人"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 303159
+      }
+    },
+    {
+      "id": "monkasei",
+      "name": "Monkasei",
+      "alt_names": [
+        "門下生"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 303160
+      }
+    },
+    {
+      "id": "machibugyou",
+      "name": "Machibugyou",
+      "alt_names": [
+        "町奉行"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 303161
+      }
+    },
+    {
+      "id": "hanshu",
+      "name": "Hanshu",
+      "alt_names": [
+        "藩主"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b303162-s8N4j5hXDfA0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 303162
+      }
+    },
+    {
+      "id": "bugyou-yoriki",
+      "name": "Bugyou Yoriki",
+      "alt_names": [
+        "奉行与力",
+        "Magistrate"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b303222-SbKOdsiZHrVK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 303222
+      }
+    },
+    {
+      "id": "uwayaku",
+      "name": "Uwayaku",
+      "alt_names": [
+        "上役"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304198
+      }
+    },
+    {
+      "id": "nurugai-no-sofu",
+      "name": "Nurugai no Sofu",
+      "alt_names": [
+        "ヌルガイの祖父",
+        "Nurugai's Grandfather"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304199-K3OkohtgVKkE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304199
+      }
+    },
+    {
+      "id": "rokurouta-no-haha",
+      "name": "Rokurouta no Haha",
+      "alt_names": [
+        "陸郎太の母",
+        "Rokurouta's Mother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304847-kprr2DtDxR8Y.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304847
+      }
+    },
+    {
+      "id": "rokurouta-no-chichi",
+      "name": "Rokurouta no Chichi",
+      "alt_names": [
+        "陸郎太の父",
+        "Rokurouta's Father"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304848-qK6yP1whCc3C.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304848
+      }
+    },
+    {
+      "id": "chounin-a",
+      "name": "Chounin A",
+      "alt_names": [
+        "町人A"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305983
+      }
+    },
+    {
+      "id": "chounin-b",
+      "name": "Chounin B",
+      "alt_names": [
+        "町人B"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305985
+      }
+    },
+    {
+      "id": "chounin-c",
+      "name": "Chounin C",
+      "alt_names": [
+        "町人C"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305982
+      }
+    },
+    {
+      "id": "samurai",
+      "name": "Samurai",
+      "alt_names": [
+        "侍"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305984
+      }
+    },
+    {
+      "id": "shugen",
+      "name": "Shugen",
+      "alt_names": [
+        "殊現",
+        "山田浅ェ門殊現",
+        "Yamada Asaemon Shugen"
+      ],
+      "role": "minor",
+      "description": "__Race:__ Human\n__Tao Attribute:__ Water\n__Occupation:__ Asaemon, Assistant Instructor\n__Affiliation:__ Yamada Clan\n__Rank:__ 2nd\n\nShugen is the 2nd ranked Asaemon, as well as an Assistant Instructor, in the Yamada clan. Shugen is the leader of the second team sent to Kotaku after the shogun became impatient waiting for the first team to comeback. \n\nShugen is very dignified and diligent in his duties as an Asaemon. Shugen cares greatly for his Yamada clansmen, having spent his years with them and being taught what they know. He greatly expressed his concern for their safety on the island and vowed to bring them back home no matter what the means were. Furthermore, Shugen has a tendency to become emotional whenever he thinks about his comrades. He's one of the only Yamada clan members who doesn't look down on women in the clan and vouches for their qualifications as executioners. He greatly despises all criminals and truly believes that they are evil no matter who they are. At a young age, Shugen could not understand the Yamada clan's way of thinking when executing criminals and believed that they should all deserve a painful death.\n\nShugen believes in order of all things in the world; the order in which those who abide by the law are to be protected while those who break them should be punish without mercy.",
+      "metadata": {
+        "gender": "male",
+        "age": "19-20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b148752-WkhrTfWC7kC8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 148752
+      }
+    },
+    {
+      "id": "nikimaru",
+      "name": "Nikimaru",
+      "alt_names": [
+        "二木丸",
+        "Serial Firebug",
+        "Renzoku Houka Ma"
+      ],
+      "role": "minor",
+      "description": "\"Serial Firebug\" Nikimaru was a criminal put on death row and a candidate to partake in the expedition to Shinsenkyou.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306731-ZAXAtJdrzhYr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306731
+      }
+    },
+    {
+      "id": "tanio-seikichi",
+      "name": "Tanio Seikichi",
+      "alt_names": [
+        "谷尾清吉"
+      ],
+      "role": "minor",
+      "description": "Tanio Seikichi was a criminal put on death row and a candidate to partake in the expedition to Shinsenkyou.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306736-slekxDYLpoPo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306736
+      }
+    },
+    {
+      "id": "gabimaru-no-chichi",
+      "name": "Gabimaru no Chichi",
+      "alt_names": [
+        "Gabimaru's Father"
+      ],
+      "role": "minor",
+      "description": "He was a former jounin-class shinobi of Iwagakure and [Gabimaru](https://anilist.co/character/137260/Gabimaru)'s father.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306845-cNQMCF4ubjrm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306845
+      }
+    },
+    {
+      "id": "shuukan-kido",
+      "name": "Shuukan Kido",
+      "alt_names": [
+        "木戸周監"
+      ],
+      "role": "minor",
+      "description": "Kido Shuukan was a well known vicious criminal.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306858-Tm5TYFOQwl4a.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306858
+      }
+    },
+    {
+      "id": "gabimaru-no-haha",
+      "name": "Gabimaru no Haha",
+      "alt_names": [
+        "Gabimaru's Mother"
+      ],
+      "role": "minor",
+      "description": "She was a former jougnin-class kunoichi of Iwagakure and [Gabimaru](https://anilist.co/character/137260/Gabimaru)'s mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306859-HnYYj7W4cpfL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306859
+      }
+    },
+    {
+      "id": "houko-tachi-no-koe",
+      "name": "Houko-tachi no Koe",
+      "alt_names": [
+        "木人たちの声"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306994
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:23:13.572Z"
+  "updated_at": "2025-12-23T02:15:16.397Z"
 }

@@ -1,6 +1,6 @@
 {
   "work_id": "jujutsu-kaisen",
-  "count": 50,
+  "count": 94,
   "characters": [
     {
       "id": "megumi-fushiguro",
@@ -1204,7 +1204,1021 @@
       "external_ids": {
         "anilist": 210063
       }
+    },
+    {
+      "id": "sam",
+      "name": "Sam",
+      "alt_names": [
+        "サム"
+      ],
+      "role": "minor",
+      "description": "Sam is a character from one of the movies Itadori has to see to train to maintain a steady output of cursed energy. It's a reference to Lord of the Rings",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210064-6vFnZA9DoZYl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210064
+      }
+    },
+    {
+      "id": "uraume",
+      "name": "Uraume",
+      "alt_names": [
+        "裏梅",
+        "Shiraga no Jusoshi (白髪の呪詛師)"
+      ],
+      "role": "minor",
+      "description": "__Gender:__ Unknown \n\nA  curse user from a thousand years ago who is a direct subordinate to Sukuna.",
+      "metadata": {
+        "age": "1000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210830-rJ8LVEvLUqjE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210830
+      }
+    },
+    {
+      "id": "kenjaku",
+      "name": "Kenjaku",
+      "alt_names": [
+        "羂索"
+      ],
+      "role": "minor",
+      "description": "__Species:__ Human\n__Height:__ 183 cm\n__Occupation:__ Curse User\n__Cursed Technique:__ Cursed Spirit Manipulation\n\nKenjaku is one of the primary antagonists of the Jujutsu Kaisen series. He is an ancient sorcerer who pursues the goal of \"evolving\" humanity via cursed energy, thereby ushering in a new golden age of jujutsu sorcery paralleling the Heian Era.\n\n~!Using his cursed technique that allows him to transplant his brain into different bodies to possess them, he has inhabited different people throughout the centuries, assuming different identities.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "1000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289584-KndGudJZm5Ik.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289584
+      }
+    },
+    {
+      "id": "yubi-no-kishu",
+      "name": "Yubi no Kishu",
+      "alt_names": [
+        "指の寄主",
+        "Finger Bearer"
+      ],
+      "role": "minor",
+      "description": "Finger Bearers are a type of special grade cursed spirit that emerge from the cursed wombs spawned from eating one of [Sukuna](https://anilist.co/character/133701/Sukuna)'s fingers.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306189-NB0cd8fgzPYg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306189
+      }
+    },
+    {
+      "id": "taichi-kanada",
+      "name": "Taichi Kanada",
+      "alt_names": [
+        "金田太一"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 175 cm\n\nTaichi Kanada is an alumni of Saitama Urami East Junior High ~!and was one of four victims who were cursed as a result of bungee jumping from Yasohachi Bridge. Like the other cursed humans, Taichi died after a cursed spirit appeared between his auto-lock doors, which were stuck wide open.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "34",
+        "dateOfBirth": "1984-02-10"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306276-7TczFlh38ICp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306276
+      }
+    },
+    {
+      "id": "tadashi-okazaki-no-haha",
+      "name": "Tadashi Okazaki no Haha",
+      "alt_names": [
+        "Tadashi Okazaki's Mother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306281-2TYVdsokBkIN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306281
+      }
+    },
+    {
+      "id": "tadashi-okazaki",
+      "name": "Tadashi Okazaki",
+      "alt_names": [
+        "岡崎正"
+      ],
+      "role": "minor",
+      "description": "Tadashi Okazaki was a minor character serving time at the Eishu Juvenile Detention Center.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": "2001-08-09"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306282-5a4wVsGJF5Tz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306282
+      }
+    },
+    {
+      "id": "orizuki",
+      "name": "Orizuki",
+      "alt_names": [
+        "澱月",
+        "Moon Dregs"
+      ],
+      "role": "minor",
+      "description": "Moon Dregs is a jellyfish shikigami summoned by Junpei Yoshino.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b322042-NM7flYaGDuRg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 322042
+      }
+    },
+    {
+      "id": "garuda",
+      "name": "Garuda",
+      "alt_names": [
+        "凰輪"
+      ],
+      "role": "minor",
+      "description": "Garuda is a shikigami used by Yuki Tsukumo and is connected to her innate technique, Star Rage.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b322043-50p14GPnxFqB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 322043
+      }
+    },
+    {
+      "id": "kankoshi-a",
+      "name": "Kankoshi A",
+      "alt_names": [
+        "看護師A"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327848-ppDKmMJ2MYRe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327848
+      }
+    },
+    {
+      "id": "tsumiki-no-tomodachi",
+      "name": "Tsumiki no Tomodachi",
+      "alt_names": [
+        "津美紀の友達"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327851-lOwe68hdmlbP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327851
+      }
+    },
+    {
+      "id": "ticket-urite",
+      "name": "Ticket Urite",
+      "alt_names": [
+        "チケット売り手"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327852-qQzvfJYuoxpq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327852
+      }
+    },
+    {
+      "id": "manager",
+      "name": "Manager",
+      "alt_names": [
+        "マネージャー"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327853-YQYinIPa4OsU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327853
+      }
+    },
+    {
+      "id": "kankoshi-b",
+      "name": "Kankoshi B",
+      "alt_names": [
+        "看護師B"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327854-3seoCbIlcvLX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327854
+      }
+    },
+    {
+      "id": "kodomo",
+      "name": "Kodomo",
+      "alt_names": [
+        "子供"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327855-7lusC0WyZ0N5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327855
+      }
+    },
+    {
+      "id": "sawamura",
+      "name": "Sawamura",
+      "alt_names": [
+        "沢村"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327856-vErAN3XccXlM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327856
+      }
+    },
+    {
+      "id": "fujinuma-imouto",
+      "name": "Fujinuma Imouto",
+      "alt_names": [
+        "藤沼妹"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327857-mAfjwycUUmS9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327857
+      }
+    },
+    {
+      "id": "fujinuma-no-yuujin",
+      "name": "Fujinuma no Yuujin",
+      "alt_names": [
+        "藤沼の友人"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327858-hjQDB3xT8pmh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327858
+      }
+    },
+    {
+      "id": "aida",
+      "name": "Aida",
+      "alt_names": [
+        "アイーダ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327859-AhV2YpvX52rg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327859
+      }
+    },
+    {
+      "id": "fujinuma-otouto",
+      "name": "Fujinuma Otouto",
+      "alt_names": [
+        "藤沼弟"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327860-deFpNmaAR40T.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327860
+      }
+    },
+    {
+      "id": "itamae",
+      "name": "Itamae",
+      "alt_names": [
+        "板前"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327861-GzHrgCElevTE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327861
+      }
+    },
+    {
+      "id": "kumo-no-noroi",
+      "name": "Kumo no Noroi",
+      "alt_names": [
+        "蜘蛛の呪い"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327862-zx57slP3WdTn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327862
+      }
+    },
+    {
+      "id": "honda",
+      "name": "Honda",
+      "alt_names": [
+        "ホンダ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327863-gRFn7m3niNp1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327863
+      }
+    },
+    {
+      "id": "tantei-b",
+      "name": "Tantei B",
+      "alt_names": [
+        "探偵B"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327864-V54SmtccIlV8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327864
+      }
+    },
+    {
+      "id": "tv-shikai-sha",
+      "name": "TV Shikai-sha",
+      "alt_names": [
+        "テレビ司会者"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327865-kSikWO13bTeJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327865
+      }
+    },
+    {
+      "id": "unten-sha",
+      "name": "Unten-sha",
+      "alt_names": [
+        "運転者"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327866-FniwcTRNpX1C.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327866
+      }
+    },
+    {
+      "id": "shachou",
+      "name": "Shachou",
+      "alt_names": [
+        "社長"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327867-eVpSSc1rKe9O.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327867
+      }
+    },
+    {
+      "id": "gakkou-chou",
+      "name": "Gakkou-chou",
+      "alt_names": [
+        "学校長"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327868-ULa9XWL6spPz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327868
+      }
+    },
+    {
+      "id": "pan-ya",
+      "name": "Pan-ya",
+      "alt_names": [
+        "パン屋"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327869-YkgTuc7RI1Ok.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327869
+      }
+    },
+    {
+      "id": "noritoshi-no-haha",
+      "name": "Noritoshi no Haha",
+      "alt_names": [
+        "憲紀の母",
+        "Noritoshi's Mother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327870-b6RSUCYvE57t.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327870
+      }
+    },
+    {
+      "id": "kyoushi",
+      "name": "Kyoushi",
+      "alt_names": [
+        "教師"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327871-Abtfs6joa4nb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327871
+      }
+    },
+    {
+      "id": "gal",
+      "name": "Gal",
+      "alt_names": [
+        "ギャル"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327872-n0QcQ6dxEkxC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327872
+      }
+    },
+    {
+      "id": "tantei-a",
+      "name": "Tantei A",
+      "alt_names": [
+        "探偵A"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327873-GvYUUiuV5CG1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327873
+      }
+    },
+    {
+      "id": "junpei-no-doukyuusei-b",
+      "name": "Junpei no Doukyuusei B",
+      "alt_names": [
+        "順平の同級生B"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327874-J1P57mvPUFIb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327874
+      }
+    },
+    {
+      "id": "manager-b",
+      "name": "Manager B",
+      "alt_names": [
+        "マネージャーB"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327875-vGfJkymxvVzi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327875
+      }
+    },
+    {
+      "id": "takashi",
+      "name": "Takashi",
+      "alt_names": [
+        "たかし"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327876-qPUmd6Ab2sLE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327876
+      }
+    },
+    {
+      "id": "tsubasa",
+      "name": "Tsubasa",
+      "alt_names": [
+        "つばさ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327877-7hCKc4yhaX21.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327877
+      }
+    },
+    {
+      "id": "sayama",
+      "name": "Sayama",
+      "alt_names": [
+        "狭山"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327878-7QfTl2L4WcxW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327878
+      }
+    },
+    {
+      "id": "nishimura",
+      "name": "Nishimura",
+      "alt_names": [
+        "西村"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327879-8ZoQ8szzH2Ts.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327879
+      }
+    },
+    {
+      "id": "frodo",
+      "name": "Frodo",
+      "alt_names": [
+        "フロド"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327880-kvT1dZ7kSNZa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327880
+      }
+    },
+    {
+      "id": "waiter",
+      "name": "Waiter",
+      "alt_names": [
+        "ウェイター"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327883-clvhD5GBSzjz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327883
+      }
+    },
+    {
+      "id": "junpei-no-doukyuusei-a",
+      "name": "Junpei no Doukyuusei A",
+      "alt_names": [
+        "順平の同級生A"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327885-mhnerhHO6Ggs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327885
+      }
+    },
+    {
+      "id": "kankoshi-c",
+      "name": "Kankoshi C",
+      "alt_names": [
+        "看護師C"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327886-SK2OEp32W8yl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327886
+      }
+    },
+    {
+      "id": "waitress",
+      "name": "Waitress",
+      "alt_names": [
+        "ウェイトレス"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327888-ftlpXnAh678F.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327888
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:10:33.078Z"
+  "updated_at": "2025-12-23T02:42:44.238Z"
 }

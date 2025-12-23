@@ -1,6 +1,6 @@
 {
   "work_id": "mob-psycho-100-ii",
-  "count": 25,
+  "count": 81,
   "characters": [
     {
       "id": "shigeo-kageyama",
@@ -100,7 +100,6 @@
         "Người dẫn chuyện",
         "Tagapagsalaysay",
         "내레이터",
-        "Narratore",
         "Erzählperson",
         "מספר",
         "Narrátor",
@@ -612,7 +611,1259 @@
       "external_ids": {
         "anilist": 133205
       }
+    },
+    {
+      "id": "daichi-shiratori",
+      "name": "Daichi Shiratori",
+      "alt_names": [
+        "白鳥大地"
+      ],
+      "role": "supporting",
+      "description": "Daichi is an esper, the twin brother of Kaito Shiratori, and one of the children who was invited to the Awakening Lab.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133206-tFIjRO4fkPwF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133206
+      }
+    },
+    {
+      "id": "terada",
+      "name": "Terada",
+      "alt_names": [
+        "寺蛇"
+      ],
+      "role": "supporting",
+      "description": "Terada is an esper and a former member of Claw. He was part of the upper echelon called \"Scar\".",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133208-EvsNSbyX958v.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133208
+      }
+    },
+    {
+      "id": "mob-no-haha",
+      "name": "Mob no Haha",
+      "alt_names": [
+        "モブの母",
+        "Mob's mother"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133209-X4HAdCajIGsr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133209
+      }
+    },
+    {
+      "id": "mob-no-chichi",
+      "name": "Mob no Chichi",
+      "alt_names": [
+        "モブの父",
+        "Mob's father"
+      ],
+      "role": "supporting",
+      "description": "Mob's Father.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133210-Q5R7HEABrcYO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133210
+      }
+    },
+    {
+      "id": "kenji-mitsuura",
+      "name": "Kenji  Mitsuura",
+      "alt_names": [
+        "密裏賢治"
+      ],
+      "role": "supporting",
+      "description": "He is the founder of the Awakening Lab.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133380-2Ua2VK6awOSX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133380
+      }
+    },
+    {
+      "id": "shinji-kamuro",
+      "name": "Shinji Kamuro",
+      "alt_names": [
+        "神室真司"
+      ],
+      "role": "supporting",
+      "description": "He is the president of the student council at Salt Middle School.",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133381-RV0pRdJ00pfM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133381
+      }
+    },
+    {
+      "id": "hikaru-tokugawa",
+      "name": "Hikaru Tokugawa",
+      "alt_names": [
+        "徳川光"
+      ],
+      "role": "supporting",
+      "description": "He is the vice-president of the school council of Salt Mid.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133382-zCaMx9Zzcotv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133382
+      }
+    },
+    {
+      "id": "hiroshi-kumagawa",
+      "name": "Hiroshi Kumagawa",
+      "alt_names": [
+        "隈川弘"
+      ],
+      "role": "supporting",
+      "description": "He is part of the Body Improvement Club and a student of Salt Middle School.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133384-X8IqIvRj4kZB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133384
+      }
+    },
+    {
+      "id": "hideki-yamamura",
+      "name": "Hideki  Yamamura",
+      "alt_names": [
+        "山村秀樹"
+      ],
+      "role": "supporting",
+      "description": "He is a student of Salt Middle School and a member of the Body Improvement Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133385-XLzFPShjaw9g.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133385
+      }
+    },
+    {
+      "id": "banshoumaru-shinra",
+      "name": "Banshoumaru Shinra",
+      "alt_names": [
+        "森羅万象丸"
+      ],
+      "role": "supporting",
+      "description": "He is the self-proclaimed \"greatest psychic of the century\" and a member of the Sun Psychic Union led by Kirin Shoudou.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133386-Z0xRTf8cePDV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133386
+      }
+    },
+    {
+      "id": "minori-asagiri",
+      "name": "Minori Asagiri",
+      "alt_names": [
+        "浅桐みのり"
+      ],
+      "role": "supporting",
+      "description": "Minori Asagiri is a middle-school girl and the daughter of a wealthy businessman.\n\nAsagiri is very spoiled and very cruel. The first we see of her, she throws a tantrum due to dissatisfaction over lavish birthday presents. This is her true personality, according to her father, that existed before she was possessed by Mogami. Within the world Mogami created and trapped Mob in, she acts very similarly. She bullies, isolates and abuses Mob. Apparently, she does this because she wants to prove herself superior, and by preying on those who are weaker and can't stand up for themselves, she establishes her position. However, after being saved by Mob, she is brought to tears and resolves to become a better person because of him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133387-5x6M3DDBqJVN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133387
+      }
+    },
+    {
+      "id": "jun-sagawa",
+      "name": "Jun Sagawa",
+      "alt_names": [
+        "佐川純"
+      ],
+      "role": "supporting",
+      "description": "He is a student of Salt Middle School and the president of the Body Improvement Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133389-a1LgX0kK4HmI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133389
+      }
+    },
+    {
+      "id": "kirin-shodou",
+      "name": "Kirin Shodou",
+      "alt_names": [
+        "浄堂麒麟",
+        "Kirin Shodo"
+      ],
+      "role": "supporting",
+      "description": "He is a haughty psychic and the President of the Sun Psychic Union. \n\n~!Like many other self-proclaimed psychics, Shodo possesses no special abilities. However, he was able to produce a noticeable aura in his ultimately fruitless attempt to exorcize​ Keiji Mogami from Minori Asagiri's body.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133393-AmiNTzqS4AcZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133393
+      }
+    },
+    {
+      "id": "emi",
+      "name": "Emi",
+      "alt_names": [
+        "エミ"
+      ],
+      "role": "supporting",
+      "description": "She is a student at Salt Middle School.\n\nEmi first appears as a questionably nice girl who shows an interest in Mob. She has an interest in books and writing novels. ​However, she seems to be easily influenced by her friends and quickly interprets things others say about her negatively, even if they weren't meant that way. She was grateful to Mob for retrieving and restoring her writings after they were torn up.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133394-dvetqtfFKqyd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133394
+      }
+    },
+    {
+      "id": "haruto-kijibayashi",
+      "name": "Haruto  Kijibayashi",
+      "alt_names": [
+        "稚子林春人"
+      ],
+      "role": "supporting",
+      "description": "He is a third-year middle school student and a member of the Telepathy Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133395-lPVdisYhxMnp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133395
+      }
+    },
+    {
+      "id": "keiji-mogami",
+      "name": "Keiji Mogami",
+      "alt_names": [
+        "最上啓示",
+        "This Century's Greatest Psychic"
+      ],
+      "role": "supporting",
+      "description": "Keiji Mogami is \"This Century's Greatest Psychic\" and a former Psychic who turned into an evil spirit upon death.\n\nKeiji Mogami is a very bitter man, sick of the greed and selfishness of humanity. Because of the private dealings he did while alive, he has lost his moral compass and has become a twisted variant of his former self. After becoming an evil spirit, he vowed to use his power for his own intentions and fix the world by possessing people who appear to gather grudges around them. To that end, Mogami is willing to destroy a girl's body and brutally impale her father to achieve his whims.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133397-HXX1APltyzHr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133397
+      }
+    },
+    {
+      "id": "katsuya-serizawa",
+      "name": "Katsuya Serizawa",
+      "alt_names": [
+        "芹沢克也"
+      ],
+      "role": "supporting",
+      "description": "He is an extremely powerful Esper who was formerly a part of the Super 5 of Claw. He now works at the agency alongside Reigen and Mob.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133399-saG7XStPZy71.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133399
+      }
+    },
+    {
+      "id": "hipparu",
+      "name": "Hipparu",
+      "alt_names": [
+        "引っ張る",
+        "The Dragger"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n134010-gylyGPR0dsv3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134010
+      }
+    },
+    {
+      "id": "kunekune",
+      "name": "Kunekune",
+      "alt_names": [
+        "くねくね",
+        "Wiggly Figure"
+      ],
+      "role": "supporting",
+      "description": "was an upper-class evil spirit who made his home ruining the crops of a farmer.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n134012-TsP7UWm5n3SS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134012
+      }
+    },
+    {
+      "id": "mameta-inukawa",
+      "name": "Mameta  Inukawa",
+      "alt_names": [
+        "犬川豆太"
+      ],
+      "role": "supporting",
+      "description": "He is a second-year middle school student and a member of the Telepathy Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n134013-fL3rFeCOOIRJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134013
+      }
+    },
+    {
+      "id": "akai-reinkouto-otoko",
+      "name": "Akai reinkouto otoko",
+      "alt_names": [
+        "赤いレインコート男",
+        "Red raincoat man"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n134014-KhIw6jxOafWm.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134014
+      }
+    },
+    {
+      "id": "daigakusei-b",
+      "name": "Daigakusei B",
+      "alt_names": [
+        "大学生B",
+        "College Student B"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135295-vMZ7CgqNbhh0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135295
+      }
+    },
+    {
+      "id": "daigakusei-a",
+      "name": "Daigakusei A",
+      "alt_names": [
+        "大学生A",
+        "College Student A"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135296-eBnPCSUzW1eE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135296
+      }
+    },
+    {
+      "id": "ryohei-shimura",
+      "name": "Ryohei Shimura",
+      "alt_names": [
+        "志村遼平"
+      ],
+      "role": "supporting",
+      "description": "He is a student of Salt Middle School and a member of the Body Improvement Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135297-uveHB0flYv9B.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135297
+      }
+    },
+    {
+      "id": "daigakusei-c",
+      "name": "Daigakusei C",
+      "alt_names": [
+        "大学生 C",
+        "College Student C"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135298-MGfAVzPF1MQ0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135298
+      }
+    },
+    {
+      "id": "masashi-asagiri",
+      "name": "Masashi Asagiri",
+      "alt_names": [
+        "浅桐真史"
+      ],
+      "role": "supporting",
+      "description": "He is a businessman​ and the client who hired psychics to get rid of the spirit possessing his daughter Minori Asagiri.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135299-PBCcnA9aUq2u.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135299
+      }
+    },
+    {
+      "id": "kokyaku",
+      "name": "Kokyaku",
+      "alt_names": [
+        "顧客",
+        "Client"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135300-c45FV74caIZJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135300
+      }
+    },
+    {
+      "id": "rinjin",
+      "name": "Rinjin",
+      "alt_names": [
+        "隣人",
+        "Neighbour"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135301-XVGeSH7lDdzF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135301
+      }
+    },
+    {
+      "id": "shinkou-chuu-no-sobo",
+      "name": "Shinkou-chuu no Sobo",
+      "alt_names": [
+        "進行中の祖母",
+        "Dash Granny"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135302-HpmwnkcRo64H.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135302
+      }
+    },
+    {
+      "id": "nozomu-hatori",
+      "name": "Nozomu Hatori",
+      "alt_names": [
+        "羽鳥希"
+      ],
+      "role": "supporting",
+      "description": "He is a powerful Esper and a former member of the terrorist organization​ Claw as part of the Ultimate 5.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137012-mPPl4Aj5jA4U.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137012
+      }
+    },
+    {
+      "id": "toshiki-minegishi",
+      "name": "Toshiki Minegishi",
+      "alt_names": [
+        "峯岸棯樹"
+      ],
+      "role": "supporting",
+      "description": "He is a powerful esper, a former member of the terrorist organization​ Claw and once part of the Ultimate 5.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137013-NeuxqAZiAa99.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137013
+      }
+    },
+    {
+      "id": "ryou-shimazaki",
+      "name": "Ryou Shimazaki",
+      "alt_names": [
+        "島崎亮"
+      ],
+      "role": "supporting",
+      "description": "He is a powerful esper, member of the now defunct terrorist organization​ Claw and a former part of the Ultimate 5.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137015-l7xlZzKdo6R2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137015
+      }
+    },
+    {
+      "id": "sakakibara",
+      "name": "Sakakibara",
+      "alt_names": [
+        "榊原"
+      ],
+      "role": "supporting",
+      "description": "He is an esper and former leader of actually disbanded terrorist organization Claw's 5th Division.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137016-DNNcAqWt4Csx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137016
+      }
+    },
+    {
+      "id": "furutachi",
+      "name": "Furutachi",
+      "alt_names": [
+        "古舘"
+      ],
+      "role": "supporting",
+      "description": "He is an esper and former leader of 2nd Division of Claw.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137019-DjP3zhcHQDDN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137019
+      }
+    },
+    {
+      "id": "tatsuya-mogi",
+      "name": "Tatsuya  Mogi",
+      "alt_names": [
+        "茂木達也"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137020-INKriioVlvml.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137020
+      }
+    },
+    {
+      "id": "igarashi",
+      "name": "Igarashi",
+      "alt_names": [
+        "五十嵐"
+      ],
+      "role": "supporting",
+      "description": "He is an esper and former leader of actually disbanded terrorist organization Claw's 6th Division.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137021-VvQ7KQ21Ec4i.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137021
+      }
+    },
+    {
+      "id": "suzuo-fukuda",
+      "name": "Suzuo Fukuda",
+      "alt_names": [
+        "福田鈴生"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137022-orL7cLFRpVPS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137022
+      }
+    },
+    {
+      "id": "udo",
+      "name": "Udo",
+      "alt_names": [
+        "ウド"
+      ],
+      "role": "supporting",
+      "description": "He is a mercenary and an Esper.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137023-GZtX0T3uzDfu.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137023
+      }
+    },
+    {
+      "id": "satake",
+      "name": "Satake",
+      "alt_names": [
+        "佐竹"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137024-LunXDDRYSRDw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137024
+      }
+    },
+    {
+      "id": "tamaki",
+      "name": "Tamaki",
+      "alt_names": [
+        "玉木"
+      ],
+      "role": "supporting",
+      "description": "He is an esper and former leader of 1st Division of Claw.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137025-zYWODTmj1dH6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137025
+      }
+    },
+    {
+      "id": "hitoshi",
+      "name": "Hitoshi",
+      "alt_names": [
+        "人氏"
+      ],
+      "role": "supporting",
+      "description": "He was a client of Arataka Reigen, he wanted to speak with his deceased father about a password to a safe.\n\n~!He attempted to stab Reigen to get the combo but was knocked out by Reigen.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137026-Cz00CDYc8BSN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137026
+      }
+    },
+    {
+      "id": "ebiwara",
+      "name": "Ebiwara",
+      "alt_names": [
+        "蛯原"
+      ],
+      "role": "supporting",
+      "description": "He is an esper and former leader of actually disbanded terrorist organization Claw's 3rd Division.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137027-cohmbH3Quzkr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137027
+      }
+    },
+    {
+      "id": "fukuda",
+      "name": "Fukuda",
+      "alt_names": [
+        "福田"
+      ],
+      "role": "supporting",
+      "description": "He is an esper and one of Sho Suzuki's subordinates.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137028-0KUvnL0jhXl8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137028
+      }
+    },
+    {
+      "id": "morizo-ebihara",
+      "name": "Morizo  Ebihara",
+      "alt_names": [
+        "蛯原モリゾ "
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137029-KnTrhLrBVPKT.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137029
+      }
+    },
+    {
+      "id": "miguel",
+      "name": "Miguel",
+      "alt_names": [
+        "ミゲル"
+      ],
+      "role": "supporting",
+      "description": "He is an esper and mercenary.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137030-celhVEbjfJHQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137030
+      }
+    },
+    {
+      "id": "kyohei-morishige",
+      "name": "Kyohei  Morishige",
+      "alt_names": [
+        "森重挙兵"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137031-Dcsk1jXiO3Dx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137031
+      }
+    },
+    {
+      "id": "higashio",
+      "name": "Higashio",
+      "alt_names": [
+        "東尾"
+      ],
+      "role": "supporting",
+      "description": "He is an esper and one of Sho Suzuki's subordinates.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137032-IL1HVAYTJzGG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137032
+      }
+    },
+    {
+      "id": "koga",
+      "name": "Koga",
+      "alt_names": [
+        "古賀"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137033-aVpos13SbQjq.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137033
+      }
+    },
+    {
+      "id": "otsuki",
+      "name": "Otsuki",
+      "alt_names": [
+        "大月"
+      ],
+      "role": "supporting",
+      "description": "He is an esper and one of Sho Suzuki's subordinates.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137035-9Ccu2vS2YflL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137035
+      }
+    },
+    {
+      "id": "yanagawa",
+      "name": "Yanagawa",
+      "alt_names": [
+        "柳川"
+      ],
+      "role": "supporting",
+      "description": "He is an esper and former leader of actually disbanded terrorist organization Claw's 4th Division.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137036-bs1xpufvnHjn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137036
+      }
+    },
+    {
+      "id": "joseph",
+      "name": "Joseph",
+      "alt_names": [
+        "ヨシフ"
+      ],
+      "role": "supporting",
+      "description": "He is an esper mercenary and assassin hired by the government.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137037-mMfo4fOzLyRl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137037
+      }
+    },
+    {
+      "id": "hiroshi-yabe",
+      "name": "Hiroshi Yabe",
+      "alt_names": [
+        "矢部博司"
+      ],
+      "role": "supporting",
+      "description": "He is a Prime Minister abducted by Shimazaki.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137038-p5Y27kYQKRfR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137038
+      }
+    },
+    {
+      "id": "sugimoto",
+      "name": "Sugimoto",
+      "alt_names": [
+        "杉本"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137039-TcZbtJ8p9i8v.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137039
+      }
+    },
+    {
+      "id": "hiroshi-shibata",
+      "name": "Hiroshi Shibata",
+      "alt_names": [
+        "柴田宏"
+      ],
+      "role": "supporting",
+      "description": "He is a (formerly powerful) esper and a former member of the terrorist organization​ Claw as a part of the Ultimate 5.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137040-JkR6gMzbiyW7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137040
+      }
+    },
+    {
+      "id": "ishihara",
+      "name": "Ishihara",
+      "alt_names": [
+        "石原"
+      ],
+      "role": "supporting",
+      "description": "He is an esper and former member of actually disbanded terrorist organization Claw's 4th Division",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137041-XRAqkQvvJUCZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137041
+      }
+    },
+    {
+      "id": "suzuki-no-tsuma",
+      "name": "Suzuki no Tsuma",
+      "alt_names": [
+        "鈴木の妻"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138286-OEdKLZJ9PlGM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138286
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:35:40.711Z"
+  "updated_at": "2025-12-23T03:19:00.686Z"
 }

@@ -1,6 +1,6 @@
 {
   "work_id": "mushoku-tensei-jobless-reincarnation",
-  "count": 25,
+  "count": 51,
   "characters": [
     {
       "id": "rudeus-greyrat",
@@ -599,7 +599,612 @@
       "external_ids": {
         "anilist": 211165
       }
+    },
+    {
+      "id": "rokari-migurdia",
+      "name": "Rokari Migurdia",
+      "alt_names": [
+        "ロカリー・ミグルディア",
+        "Mom (お母さん)"
+      ],
+      "role": "supporting",
+      "description": "[Roxy](https://anilist.co/character/88350)'s mother and [Rowin](https://anilist.co/character/211181)'s wife.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b211180-90uLAaGLa5qO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 211180
+      }
+    },
+    {
+      "id": "rowin-migurdia",
+      "name": "Rowin Migurdia",
+      "alt_names": [
+        "ロイン・ミグルディア",
+        "Dad (お父さん)"
+      ],
+      "role": "supporting",
+      "description": "[Roxy](https://anilist.co/character/88350)'s father and [Rokari](https://anilist.co/character/211180)'s husband.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b211181-oSiCOOAiXeOb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 211181
+      }
+    },
+    {
+      "id": "rokkus-migurdia",
+      "name": "Rokkus Migurdia",
+      "alt_names": [
+        "ロックス・ミグルディア"
+      ],
+      "role": "supporting",
+      "description": "The Elder of the Migurd Village",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b211182-gbh72s3wysYc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 211182
+      }
+    },
+    {
+      "id": "nokopara",
+      "name": "Nokopara",
+      "alt_names": [
+        "ノコパラ"
+      ],
+      "role": "supporting",
+      "description": "A greedy adventurer Rudeus encounters on the Demon Continent.\n\n~!He catches on to Rudeus' plans, which violates guild procedures, and tries to blackmail him out of his money, but upon facing the wrath of Ruijerd, he pitifully begs for his life before falling unconscious.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212901-geh29ndkBOHZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212901
+      }
+    },
+    {
+      "id": "blaze",
+      "name": "Blaze",
+      "alt_names": [
+        "ブレイズ"
+      ],
+      "role": "supporting",
+      "description": "An arrogant adventurer Rudeus meets on the Demon Continent.\n\n~!He gets killed in action in the middle of a quest.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212902-fZzOSzkJ7CIT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212902
+      }
+    },
+    {
+      "id": "perutko",
+      "name": "Perutko",
+      "alt_names": [
+        "ペルトコ"
+      ],
+      "role": "supporting",
+      "description": "An arrogant adventurer Rudeus meets on the Demon Continent.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212903-FACaRj5arLx0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212903
+      }
+    },
+    {
+      "id": "kurt",
+      "name": "Kurt",
+      "alt_names": [
+        "クルト"
+      ],
+      "role": "supporting",
+      "description": "A young adventurer Rudeus encounters on the Demon Continent, and the leader of the Tokurabu Toughs. He aspires to make his party famous.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212904-cQhnbnai1FwE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212904
+      }
+    },
+    {
+      "id": "bachirou",
+      "name": "Bachirou",
+      "alt_names": [
+        "バチロウ"
+      ],
+      "role": "supporting",
+      "description": "An adventurer Rudeus encounters on the Demon Continent and a member of Kurt's party.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212905-NxyMNzuXf07l.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212905
+      }
+    },
+    {
+      "id": "gablin",
+      "name": "Gablin",
+      "alt_names": [
+        "ガブリン"
+      ],
+      "role": "supporting",
+      "description": "An adventurer Rudeus encounters on the Demon Continent and a member of Kurt's party.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212906-c31fYQcbQUSn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212906
+      }
+    },
+    {
+      "id": "vizquel",
+      "name": "Vizquel",
+      "alt_names": [
+        "ヴェスケル"
+      ],
+      "role": "supporting",
+      "description": "An adventurer Rudeus encounters on the Demon Continent while looking for a lost cat. She was involved in a scheme where pets were poached and once the owners sent a petition to the adventure's guild looking for them, she would return them, thus earning the reward.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212907-E9Rad7KGuajw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212907
+      }
+    },
+    {
+      "id": "jalil",
+      "name": "Jalil",
+      "alt_names": [
+        "ジャリル"
+      ],
+      "role": "supporting",
+      "description": "An adventurer Rudeus encounters on the Demon Continent while looking for a lost cat. He was involved in a scheme where pets were poached and once the owners sent a petition to the adventure's guild looking for them, he would return them, thus earning the reward.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212908-GX0viWoz2yKV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212908
+      }
+    },
+    {
+      "id": "lohman",
+      "name": "Lohman",
+      "alt_names": [
+        "ロウマン",
+        "Roman"
+      ],
+      "role": "supporting",
+      "description": "An adventurer Rudeus encounters on the Demon Continent while looking for a lost cat. He was involved in a scheme where pets were poached and once the owners sent a petition to the adventure's guild looking for them, he would return them, thus earning the reward.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212909-eLnSDLxtGgTb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212909
+      }
+    },
+    {
+      "id": "talhand",
+      "name": "Talhand",
+      "alt_names": [
+        "タルハンド",
+        "Taruhando"
+      ],
+      "role": "supporting",
+      "description": "A dwarf that was member of the Party \"Fang of the Black Wolf\", with Elinalise and Roxy. He is slow and not agile, so he wears sturdy armor, wields an axe, and uses magic against enemies.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213958-pHao3lx20yVg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 213958
+      }
+    },
+    {
+      "id": "somar",
+      "name": "Somar",
+      "alt_names": [
+        "ソマル",
+        "Somal"
+      ],
+      "role": "supporting",
+      "description": "One of the kids from Buena Village who bullied [Sylphiette](https://anilist.co/character/88346).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b295915-9lY4nDhVP4uD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 295915
+      }
+    },
+    {
+      "id": "maid",
+      "name": "Maid",
+      "alt_names": [
+        "メイド"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 295916
+      }
+    },
+    {
+      "id": "kizoku",
+      "name": "Kizoku",
+      "alt_names": [
+        "貴族",
+        "Aristocrat"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208768
+      }
+    },
+    {
+      "id": "kizoku-musuko",
+      "name": "Kizoku Musuko",
+      "alt_names": [
+        "貴族息子",
+        "Aristocrat's Son"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208767-bt2xS3kzmZOP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208767
+      }
+    },
+    {
+      "id": "shukujo",
+      "name": "Shukujo",
+      "alt_names": [
+        "淑女",
+        "Lady"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208770
+      }
+    },
+    {
+      "id": "kankoshi",
+      "name": "Kankoshi",
+      "alt_names": [
+        "看護師",
+        "Nurse"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208772
+      }
+    },
+    {
+      "id": "murabito-a",
+      "name": "Murabito A",
+      "alt_names": [
+        "村人A",
+        "Villager A"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208773
+      }
+    },
+    {
+      "id": "keisatsukan",
+      "name": "Keisatsukan",
+      "alt_names": [
+        "警察官",
+        "Police Officer"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208774
+      }
+    },
+    {
+      "id": "ishi",
+      "name": "Ishi",
+      "alt_names": [
+        "医師",
+        "Doctor"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208775
+      }
+    },
+    {
+      "id": "kyuukyuu-taiin",
+      "name": "Kyuukyuu Taiin",
+      "alt_names": [
+        "救急隊員",
+        "Paramedic"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208776
+      }
+    },
+    {
+      "id": "murabito-b",
+      "name": "Murabito B",
+      "alt_names": [
+        "村人B",
+        "Villager B"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208777
+      }
+    },
+    {
+      "id": "uketsukejou",
+      "name": "Uketsukejou",
+      "alt_names": [
+        "受付嬢",
+        "Receptionist"
+      ],
+      "role": "minor",
+      "description": "Receptionist at the Rikarisu City Adventurer's Guild",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 295914
+      }
+    },
+    {
+      "id": "douguya",
+      "name": "Douguya",
+      "alt_names": [
+        "道具屋",
+        "Shop Owner"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b295917-y2AYNWvKsOVM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 295917
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:37:11.944Z"
+  "updated_at": "2025-12-23T03:25:27.156Z"
 }

@@ -1,6 +1,6 @@
 {
   "work_id": "hyouka",
-  "count": 25,
+  "count": 58,
   "characters": [
     {
       "id": "houtarou-oreki",
@@ -564,7 +564,733 @@
       "external_ids": {
         "anilist": 65187
       }
+    },
+    {
+      "id": "jirou-tanabe",
+      "name": "Jirou Tanabe",
+      "alt_names": [
+        "田名辺治朗"
+      ],
+      "role": "supporting",
+      "description": "He is the Executive Committee President.\n\n ~!He setup the theft and the mystery incident at the annual festival.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65463-zmVjt1AfPGDl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65463
+      }
+    },
+    {
+      "id": "muneyoshi-kugayama",
+      "name": "Muneyoshi Kugayama",
+      "alt_names": [
+        "陸山宗芳"
+      ],
+      "role": "supporting",
+      "description": "President of the Student Council.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65465-QtLubIZZt9sP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65465
+      }
+    },
+    {
+      "id": "shouko-yuasa",
+      "name": "Shouko Yuasa",
+      "alt_names": [
+        "湯浅尚子"
+      ],
+      "role": "supporting",
+      "description": "Head of the Manga Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65631-yAKTBI2qmBIj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65631
+      }
+    },
+    {
+      "id": "kimura",
+      "name": "Kimura",
+      "alt_names": [
+        "木村"
+      ],
+      "role": "supporting",
+      "description": "Manga Society member",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65633-5aJMoAaIJTxy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65633
+      }
+    },
+    {
+      "id": "henmi",
+      "name": "Henmi",
+      "alt_names": [
+        "辺見"
+      ],
+      "role": "supporting",
+      "description": "Manga Society member",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65635-xawm6aV4e8vc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65635
+      }
+    },
+    {
+      "id": "tayama",
+      "name": "Tayama",
+      "alt_names": [
+        "田山"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65637-g5GXALin8xgc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65637
+      }
+    },
+    {
+      "id": "yasukuni-yoshino",
+      "name": "Yasukuni Yoshino",
+      "alt_names": [
+        "吉野康邦"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65639-0Nzi9rDmVpVM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65639
+      }
+    },
+    {
+      "id": "mori",
+      "name": "Mori",
+      "alt_names": [
+        "森"
+      ],
+      "role": "supporting",
+      "description": "Manga Society member",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66005-0OLPV7ou2J17.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66005
+      }
+    },
+    {
+      "id": "ariyoshi",
+      "name": "Ariyoshi",
+      "alt_names": [
+        "有吉"
+      ],
+      "role": "supporting",
+      "description": "Manga Society member.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66007-FBNRxCx3HwYG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66007
+      }
+    },
+    {
+      "id": "onodera",
+      "name": "Onodera",
+      "alt_names": [
+        "小野寺"
+      ],
+      "role": "supporting",
+      "description": "Manga Society member",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66009-0GLlo8rsKY3Z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66009
+      }
+    },
+    {
+      "id": "mitsuishi",
+      "name": "Mitsuishi",
+      "alt_names": [
+        "三石"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/66087.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66087
+      }
+    },
+    {
+      "id": "kanda",
+      "name": "Kanda",
+      "alt_names": [
+        "神田"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 1.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/66089.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66089
+      }
+    },
+    {
+      "id": "sayama",
+      "name": "Sayama",
+      "alt_names": [
+        "佐山"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 6.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66091
+      }
+    },
+    {
+      "id": "inoue",
+      "name": "Inoue",
+      "alt_names": [
+        "井上"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 6.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 66093
+      }
+    },
+    {
+      "id": "punk",
+      "name": "Punk",
+      "alt_names": [
+        "パンク"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 12.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67291-22h5N1W048zk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67291
+      }
+    },
+    {
+      "id": "naoki-gotou",
+      "name": "Naoki Gotou",
+      "alt_names": [
+        "後藤直樹"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 13.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67293-1vuZ3FVPLBLT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67293
+      }
+    },
+    {
+      "id": "noriko-shimizu",
+      "name": "Noriko Shimizu",
+      "alt_names": [
+        "清水紀子"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 13.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67295-ThVPx2BS9x37.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67295
+      }
+    },
+    {
+      "id": "quiz-kenkyuukai-buchou",
+      "name": "Quiz Kenkyuukai Buchou",
+      "alt_names": [
+        "クイズ研究会部長"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 13.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67297-dV5pGREcZMJD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67297
+      }
+    },
+    {
+      "id": "quiz-kenkyuukai-fukubuchou",
+      "name": "Quiz Kenkyuukai Fukubuchou",
+      "alt_names": [
+        "クイズ研究会副部長"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 13.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67299-7CZ56MlwATbG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67299
+      }
+    },
+    {
+      "id": "engei-buin",
+      "name": "Engei Buin",
+      "alt_names": [
+        "園芸部員"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 13.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67301-obAguOnyKKnQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67301
+      }
+    },
+    {
+      "id": "matsushiro",
+      "name": "Matsushiro",
+      "alt_names": [
+        "松代"
+      ],
+      "role": "supporting",
+      "description": "Manga Society member. Appears in episode 13.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67303-FmjVBK9MiUfU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67303
+      }
+    },
+    {
+      "id": "oryouri-kenkyuukai-buchou",
+      "name": "Oryouri Kenkyuukai Buchou",
+      "alt_names": [
+        "お料理研究会部長"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 14.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67305-faf2O4fim9Es.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67305
+      }
+    },
+    {
+      "id": "oryouri-kenkyuukai-fukubuchou",
+      "name": "Oryouri Kenkyuukai Fukubuchou",
+      "alt_names": [
+        "お料理研究会副部長"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 14.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67307-Xasg4rW5RFNa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67307
+      }
+    },
+    {
+      "id": "iizuka",
+      "name": "Iizuka",
+      "alt_names": [
+        "飯塚"
+      ],
+      "role": "supporting",
+      "description": "Manga Society member. Appears in episode 16.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67309-H9R8yfipDNTt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67309
+      }
+    },
+    {
+      "id": "sawai",
+      "name": "Sawai",
+      "alt_names": [
+        "沢井"
+      ],
+      "role": "supporting",
+      "description": "Manga Society member. Appears in episode 16.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67311-leVOSmilv35r.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67311
+      }
+    },
+    {
+      "id": "nakayama",
+      "name": "Nakayama",
+      "alt_names": [
+        "中山"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 21.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70781-ZFsXc3KqduvC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70781
+      }
+    },
+    {
+      "id": "takezou-yoshida",
+      "name": "Takezou Yoshida",
+      "alt_names": [
+        "吉田竹蔵"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 22.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70783-yIxukwjdjByk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70783
+      }
+    },
+    {
+      "id": "hanai",
+      "name": "Hanai",
+      "alt_names": [
+        "花井"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 22.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70785-dC6xxmee9HFt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70785
+      }
+    },
+    {
+      "id": "fukiya",
+      "name": "Fukiya",
+      "alt_names": [
+        "吹屋"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 22.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70787-5qyVTlxyMVQV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70787
+      }
+    },
+    {
+      "id": "tanimoto",
+      "name": "Tanimoto",
+      "alt_names": [
+        "谷本"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 22.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70789-VCh6XnUT7Htm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70789
+      }
+    },
+    {
+      "id": "nakatake",
+      "name": "Nakatake",
+      "alt_names": [
+        "中竹"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 22.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70791-ZXSXvaODY309.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70791
+      }
+    },
+    {
+      "id": "sono",
+      "name": "Sono",
+      "alt_names": [
+        "園"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 22.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70793-9aXIoUZCrNZL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70793
+      }
+    },
+    {
+      "id": "konari",
+      "name": "Konari",
+      "alt_names": [
+        "小成"
+      ],
+      "role": "supporting",
+      "description": "Appears in episode 22.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70795-ueL9jkas1S4X.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70795
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:16:15.205Z"
+  "updated_at": "2025-12-23T02:28:39.919Z"
 }

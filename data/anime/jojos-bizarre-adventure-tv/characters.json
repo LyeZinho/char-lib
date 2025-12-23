@@ -1,6 +1,6 @@
 {
   "work_id": "jojos-bizarre-adventure-tv",
-  "count": 25,
+  "count": 46,
   "characters": [
     {
       "id": "jonathan-joestar",
@@ -425,7 +425,6 @@
         "Người dẫn chuyện",
         "Tagapagsalaysay",
         "내레이터",
-        "Narratore",
         "Erzählperson",
         "מספר",
         "Narrátor",
@@ -619,7 +618,495 @@
       "external_ids": {
         "anilist": 74113
       }
+    },
+    {
+      "id": "tattoo",
+      "name": "Tattoo",
+      "alt_names": [
+        "刺青"
+      ],
+      "role": "supporting",
+      "description": "Tattoo is a rugged looking grown man with a medium sized beard and unkempt hair. His wardrobe consists mainly of a fringed leather jacket, pants, and belt. His most noticeable feature, and the obvious source of his name, is a large tattoo stretching from cheek to cheek and from forehead to nose dorsum - the tattoo appears to be either a butterfly or a design similar to a Rorschach test image.\n\n(Source: JoJo's Bizarre Encyclopedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130251-c2xA45fZ6GVY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130251
+      }
+    },
+    {
+      "id": "doobie",
+      "name": "Doobie",
+      "alt_names": [
+        "ドゥービー"
+      ],
+      "role": "supporting",
+      "description": "Doobie is a minor antagonist featured in Phantom Blood. He is a musclebound masked zombie that Dio Brando sics on Poco's Sister after she refuses to serve him. Doobie grabs the girl and rips her dress in an attempt to assault her, but his plan is quickly ruined by an anvil thrown by Jonathan Joestar.\n\n(Source: JoJo's Bizarre Encyclopedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130252-D8DVHP2re7fu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130252
+      }
+    },
+    {
+      "id": "poco",
+      "name": "Poco",
+      "alt_names": [
+        "ポコ"
+      ],
+      "role": "supporting",
+      "description": "Poco was a cowardly boy who got bullied by other kids, but was protected by his sister. When confronted by her about when he was going to fight back and live on his own, Poco answered that he would do this \"tomorrow\", which causes her to slap him.\n\n(Source: JoJo's Bizarre Encyclopedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130253-pMSSkJsSzKBW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130253
+      }
+    },
+    {
+      "id": "donovan",
+      "name": "Donovan",
+      "alt_names": [
+        "ドノヴァン"
+      ],
+      "role": "supporting",
+      "description": "Donovan is a mature athletic man whose dark hair is slicked back. His skin is colored differently around his eyes, starting from a wide area on his hairline and converging to the side of the root of his nose.\n\nDonovan wears a sleeveless officer outfit.\n\n(Source: JoJo's Bizarre Encyclopedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130259-NcSoB9Rw1xoo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130259
+      }
+    },
+    {
+      "id": "mario-zeppeli",
+      "name": "Mario Zeppeli",
+      "alt_names": [
+        "マリオ ・ ツェペリ"
+      ],
+      "role": "supporting",
+      "description": "Mario Zeppeli is characterized as hard-working, trustworthy, and a wholesome family man. Although he loved his family, Mario had to abandon them in order to investigate the Pillar Men.\n\n(Source: JoJo's Bizarre Encyclopedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130260-m2tbwmLjERYW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130260
+      }
+    },
+    {
+      "id": "loggins",
+      "name": "Loggins",
+      "alt_names": [
+        "ロギンズ"
+      ],
+      "role": "supporting",
+      "description": "Loggins is a tall, muscular man with chiseled features and somewhat glazed eyes. He wears a tunic, an over-sized fez, and armbands.\n\nLoggins displays a very demanding demeanor when instructing Joseph and Caesar, often forcing them to do tough trials during their Ripple training. Despite this, he seems to have, along with Messina, a sense of humor as the two would often tease their disciples. \n\n(Source: JoJo's Bizarre Encyclopedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130261-isfIv9CVs0Ug.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130261
+      }
+    },
+    {
+      "id": "messina",
+      "name": "Messina",
+      "alt_names": [
+        "メッシーナ"
+      ],
+      "role": "supporting",
+      "description": "Messina is a tall muscular man with short hair tied into a ponytail and a Fu Manchu mustache. He wears a long hat, a sleeveless tunic, and armbands.\n\nThough much of Messina's personality isn't focused upon, he displays the characteristics of a stern, yet effective instructor to Joseph and Caesar. Despite this, Messina seems to have a sense of humor as he, along with Loggins, would often tease his disciples during their training.\n\n(Source: JoJo's Bizarre Encyclopedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130263-Z8zzr9T0VPb8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130263
+      }
+    },
+    {
+      "id": "poco-no-ane",
+      "name": "Poco no Ane",
+      "alt_names": [
+        "ポコの姉",
+        "Poco's Sister"
+      ],
+      "role": "supporting",
+      "description": "She's the older sister of Poco and was held captive in the castle by Dio",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b154086-t3rG3tJN3gd7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 154086
+      }
+    },
+    {
+      "id": "mark",
+      "name": "Mark",
+      "alt_names": [
+        "マルク"
+      ],
+      "role": "supporting",
+      "description": "Mark is a German soldier and a friend of Caesar Zeppeli who participated in the effort for stopping the Pillar Men's awakening.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232362-gJrN1tvLJGIT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 232362
+      }
+    },
+    {
+      "id": "kisha",
+      "name": "Kisha",
+      "alt_names": [
+        "記者",
+        "Reporter"
+      ],
+      "role": "supporting",
+      "description": "She arrives at the cafe where Joseph and Straizo are fighting and begins to take photos, saying it would reach the front page of the newspaper. Straizo catches her off guard and uses her as a hostage to approach Joseph, vowing to kill her if the Joestar runs off. Though Joseph attempts to bluff his way out by calling her a \"floozie\" he won't risk his life to save, Straizo forces Joseph to fight him when he rips the reporter's tooth out. After being saved, the reporter punches Joseph for insulting her and then kicks him in the knee. The adrenaline from the ordeal then wears off and she screams from the delayed pain of losing her tooth.\nThis content comes from JoJo's Bizarre Encyclopedia (https://jojowiki.com), and must be attributed to its authors, as specified in the license. \nJoJo's Bizarre Wiki (the FANDOM wiki) is prohibited from using it, for repeatedly copying without giving attribution.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232365-gPF7YAkx8cY4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 232365
+      }
+    },
+    {
+      "id": "chuugoku-kenpouka",
+      "name": "Chuugoku Kenpouka",
+      "alt_names": [
+        "中国拳法家",
+        "Kempo Fighter"
+      ],
+      "role": "supporting",
+      "description": "He originally tries to rob Jonathan Joestar in Ogre Street alongside Robert E. O. Speedwagon and Tattoo",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b233084-xteJ2UoHY3Iz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 233084
+      }
+    },
+    {
+      "id": "elizabeth-i",
+      "name": "Elizabeth I",
+      "alt_names": [
+        "エリザベスⅠ世"
+      ],
+      "role": "supporting",
+      "description": "Elizabeth I is a queen of England and a monarch from the Tudor dynasty. In 1565, she battles her first cousin once removed, Mary Stuart, over the throne. Her betrayal of Bruford and Tarkus, two retainers of Mary, led to the two knights cursing humanity; Dio Brando uses this resentment to his advantage over three hundred years later when he revives them as zombies.\n\n(Source: JoJo's Bizarre Adventure Wiki)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b243876-AVfx0NlLNGpU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 243876
+      }
+    },
+    {
+      "id": "shitsuji",
+      "name": "Shitsuji",
+      "alt_names": [
+        "執事",
+        "Butler"
+      ],
+      "role": "supporting",
+      "description": "A butler of the Joestar Family.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b243880-8FSQ2rcuTUkf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 243880
+      }
+    },
+    {
+      "id": "wired-beck",
+      "name": "Wired Beck",
+      "alt_names": [
+        "鋼線のベック",
+        "Jeff Beck"
+      ],
+      "role": "supporting",
+      "description": "He is a Vampire created by Kars tasked with guarding the hotel Kars is hiding in and briefly battles Lisa Lisa.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b243882-Fo8mpbhF5S3u.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 243882
+      }
+    },
+    {
+      "id": "adams",
+      "name": "Adams",
+      "alt_names": [
+        "アダムス"
+      ],
+      "role": "supporting",
+      "description": "Adams is a former human and villager from Windknight's Lot who becomes a Zombie created by Dio Brando.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b243884-DR6KCSjhsQu1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 243884
+      }
+    },
+    {
+      "id": "mary-joestar",
+      "name": "Mary Joestar",
+      "alt_names": [
+        "メアリー・ジョースタ"
+      ],
+      "role": "minor",
+      "description": "Mary Joestar is the late mother of Jonathan Joestar and wife of George Joestar. Never shown in person in the series, the only thing known about her story is that she accompanied her husband during a trip to London and died protecting her baby when her carriage had an accident and fell into a ravine.\n\n(Source: JoJo's Bizarre Encyclopedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130250-oaNdlE65nrCa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130250
+      }
+    },
+    {
+      "id": "george-ii-joestar",
+      "name": "George II Joestar",
+      "alt_names": [
+        "ジョージ・ジョースター 2世",
+        "Jorge Joestar"
+      ],
+      "role": "minor",
+      "description": "George resembles his father Jonathan and his son Joseph. He is only seen wearing a military dress uniform.\n\nAssumed to be a capable fighter pilot, George was one of the first to fly an aircraft during World War I. It's hinted that he may have had a talent for the Ripple much like his father and son, though he was never given any training to properly use it.\n\n(Source: JoJo's Bizarre Encyclopedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130262-oIA8de1uG3Td.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130262
+      }
+    },
+    {
+      "id": "styx",
+      "name": "Styx",
+      "alt_names": [
+        "スティクス",
+        "Father Styx"
+      ],
+      "role": "minor",
+      "description": "An alcoholic priest who discovers Dio's coffin in the boat Jonathan and Erina board.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222600-PzpoJ0suXfwe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222600
+      }
+    },
+    {
+      "id": "joutarou-kuujou",
+      "name": "Joutarou Kuujou",
+      "alt_names": [
+        "空条承太郎",
+        "JoJo",
+        "Qtaro",
+        "Professor Kuujou",
+        "Jotaro Kujo"
+      ],
+      "role": "minor",
+      "description": "**Height:** 195 cm (6'5\")\n__Occupation:__ Student, Marine Explorer, Oceanographer\n__Nationality:__ Japanese \n\nJoutarou is Holly Kujo's son and Joseph Joestar's grandson. In Part 3, he has a recognizable attire of a blue trenchcoat-length school uniform jacket with yellow chains on the collar. He also wears a trademark hat which, while torn in the back, often seems to blend with his hair. When Joutarou first appears, he turned himself in to the police because he believes his Stand is an evil spirit possessing him. After he is released from jail, and learns what his Stand is, Joutarou gets used to Star Platinum -- a fierce, muscular, vaguely Aztec-looking spirit with \"the precision of a machine\" and the ability to destroy virtually anything with a sledgehammer barrage of fists. He has a very tough exterior, and is even rather rough and delinquent, but he also is very dedicated, intense, and loyal. He is very intelligent, but usually lets his (or Star Platinum's) fists do the talking with the enemy, even though he often has to rely on his wits to deal with stand users' attacks. He is also known for a quick and short temper. His catchphrase is \"Yare yare daze.\" It generally relates of being bored or exasperation. In Part 3, he is the main target of Dio, who realizes that Joutarou is his greatest threat.\n\nOne of the strongest stands in the JoJo universe; Star Platinum possesses super human senses, strength, stamina, accuracy and speed. It can see for great distances and at great magnifications. The Star tarot card that Star Platinum is named after symbolizes hope. Like other physically powerful stands, Star Platinum suffers from a narrow range of activity. It can only be active within a 2-3 meter radius from Joutarou. ~!It is similar to Dio's The World stand, and, it turns out, can likewise be used to stop time, but that ability is only revealed in Joutarou's epic battle with Dio Brando when Dio was about to drop a steamroller on him.!~\n\nIn the sixth story arc Stone Ocean, Joutarou becomes an oceanologist, moves to the United States, eventually marries, and his daughter, Jolyne inherits the potential to wield Stand powers.",
+      "metadata": {
+        "gender": "male",
+        "age": "17-40",
+        "dateOfBirth": "1970-01-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4003-gWDSEGbeOAll.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4003
+      }
+    },
+    {
+      "id": "holly-kuujou",
+      "name": "Holly Kuujou",
+      "alt_names": [
+        "空条ホリィ       ",
+        "Holly Joestar",
+        "Seiko",
+        "空条聖子"
+      ],
+      "role": "minor",
+      "description": "Holly Kuujou née Joestar is the daughter of [Joseph Joestar](https://anilist.co/character/6356/) and mother of [Joutarou Kuujou](https://anilist.co/character/4003/).",
+      "metadata": {
+        "gender": "female",
+        "age": "45",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129824-xj6lCSzsoS0M.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129824
+      }
+    },
+    {
+      "id": "danny",
+      "name": "Danny",
+      "alt_names": [
+        "ダニー"
+      ],
+      "role": "minor",
+      "description": "Minor character appearing in Phantom Blood. He is Jonathan Joestar's dog and childhood best friend.\n\nGeorge Joestar I bought Danny when he was a puppy when Jonathan was five years old. Danny was very afraid of unfamiliar places and strange people causing him to bite Jonathan when the young boy first approached him. For a while, Jonathan also antagonized Danny by throwing stones at him. One day, while swimming in a river, Jonathan started drowning and was saved by Danny, which made them the best of friends.\n\n~!Danny's death at the hands of Dio Brando serves as one of the primary catalysts in the lifelong rivalry between Jonathan and Dio.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222601-I0IIkQxXg6vr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222601
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:33:48.528Z"
+  "updated_at": "2025-12-23T02:39:00.625Z"
 }

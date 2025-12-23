@@ -1,6 +1,6 @@
 {
   "work_id": "kaguya-sama-love-is-war",
-  "count": 25,
+  "count": 66,
   "characters": [
     {
       "id": "kaguya-shinomiya",
@@ -620,7 +620,971 @@
       "external_ids": {
         "anilist": 176219
       }
+    },
+    {
+      "id": "terashima",
+      "name": "Terashima",
+      "alt_names": [
+        "寺島",
+        "Terako",
+        "Megako",
+        "Gigako (ギガ子)"
+      ],
+      "role": "supporting",
+      "description": "She's a third-year high school student at Shuchi'in Academy and a member of the Tabletop Gaming Club which Chika Fujiwara is also a part of. Terashima, being demoted from Terako to Gigako, is a pun on metric prefixes",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b176220-ybbcG8hZSgUO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 176220
+      }
+    },
+    {
+      "id": "daichi-fujiwara",
+      "name": "Daichi Fujiwara",
+      "alt_names": [
+        "藤原大地"
+      ],
+      "role": "supporting",
+      "description": "A politician and the father of Toyomi, Chika and Moeha Fujiwara.\nDaichi is very well mannered and professional. He’s also overly protective of his daughters.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b177065-CV1Ok4h74srn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 177065
+      }
+    },
+    {
+      "id": "shouzou-tanuma",
+      "name": "Shouzou Tanuma",
+      "alt_names": [
+        "田沼正造"
+      ],
+      "role": "supporting",
+      "description": "Shouzou Tanuma is a world famous heart surgeon and the physician of the Shinomiya family.\nHe is also Tsubasa's grandfather",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b177066-ZHk7nsy5wDcn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 177066
+      }
+    },
+    {
+      "id": "mikado-shijo",
+      "name": "Mikado Shijo",
+      "alt_names": [
+        "四条帝",
+        "Boyfucker Mikado (ボーイファッカー帝)"
+      ],
+      "role": "supporting",
+      "description": "Mikado is the twin brother of [Maki](https://anilist.co/edit/character/134328). He is among the story's smartest characters, as he placed first in the national mock exam during freshman year, to [Miyuki](https://anilist.co/character/121101)'s second place. As such, Miyuki has had an obsession with beating him in a rematch. However, Mikado chose to attend a nearby public school in order to play soccer with his friends.\n\n~!After leading his team to the national championship, Mikado transfers to Shuchiin, where he becomes a member of Class 3-A, along with all of the story's notable third years, including Kaguya, Miyuki, Maki, [Chika](https://anilist.co/character/121103/) and [Ai](https://anilist.co/character/121104/).!~\n\n~!Mikado is revealed to be very much a normal teenager, albeit a genius, as he has normal worries like being able to make friends at a new school. He also readily defers to his sister, despite finding her crazy and incomprehensible. Interestingly, Mikado is very similar to Miyuki, and the two quickly go from misunderstood rivals to close friends.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206216-d7NTzAF5XMMU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 206216
+      }
+    },
+    {
+      "id": "zen-seito-kaichou",
+      "name": "Zen Seito Kaichou",
+      "alt_names": [
+        "生前徒会長",
+        "Previous Student Council President"
+      ],
+      "role": "supporting",
+      "description": "The Previous Student Council President (real name unknown) is a supporting character in the series. He is a third-year high school student at Shuchi'in Academy and the president of the 66th Student Council.\n\nHe is a third year student at Shuchi'in Academy and was the president of the School Council when Miyuki Shirogane was in his first year.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212389-M0QAzDPJvn7Z.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212389
+      }
+    },
+    {
+      "id": "momo-ryuuju",
+      "name": "Momo Ryuuju",
+      "alt_names": [
+        "龍珠桃"
+      ],
+      "role": "supporting",
+      "description": "Momo Ryuuju is a supporting character in the series. She is the president of the Astronomy Club and one of The Impossible Girls.\nAs a member of a yakuza family, she places little value on the school rules, as seen by her wearing a hat and playing games on her cellphone while on school grounds. She also has a short temper, and others view her as being threatening.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212390-cCppoJIBYxyA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212390
+      }
+    },
+    {
+      "id": "koromo-shiranui",
+      "name": "Koromo Shiranui",
+      "alt_names": [
+        "不知火ころも"
+      ],
+      "role": "supporting",
+      "description": "Koromo Shiranui is a supporting character in the series. She is a first year student at Shuchi'in Academy and one of The Impossible Girls.\n\n ~!She is the older sister of [Frill Shiranui](https://anilist.co/character/223871) from [[Oshi no Ko]](https://anilist.co/manga/117195/Oshi-no-Ko/).!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212391-UVrGhgzy1IQG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212391
+      }
+    },
+    {
+      "id": "hikaru-oobayashi",
+      "name": "Hikaru Oobayashi",
+      "alt_names": [
+        "大林ヒカル"
+      ],
+      "role": "supporting",
+      "description": "He is classroom 3-A homeroom teacher. He was transferred in Shuchiin Academy from a public high school.",
+      "metadata": {
+        "gender": "male",
+        "age": "29",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220210-DezpWs5QEZYq.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220210
+      }
+    },
+    {
+      "id": "gou-kazamatsuri",
+      "name": "Gou Kazamatsuri",
+      "alt_names": [
+        "風祭豪"
+      ],
+      "role": "supporting",
+      "description": "Like Shirogane, he attended an outside middle school before entering Shuchiin. He enrolled in order to look for clues regarding the disappearance of his older brother. He serves as an assistant to the \"Investigator of the financial world\" Hajime Echizen and, after solving many difficult cases has finally been reunited with his brother.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275098-wKIydsZwIhXw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275098
+      }
+    },
+    {
+      "id": "nao-hayasaka",
+      "name": "Nao Hayasaka",
+      "alt_names": [
+        "早坂奈央"
+      ],
+      "role": "supporting",
+      "description": "Nao Hayasaka is Ai's mother. The two of them are shown to have a close relationship, though Ai is often upset by her mother's job keeping them from spending much time together. She also works for the Shinomiya family.\n\nDaughter: [__Ai Hayasaka__](https://anilist.co/character/121104/)\nSpouse: __Masato Hayasaka__",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275116-SOfw5qLMI0FM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275116
+      }
+    },
+    {
+      "id": "j-suzuki",
+      "name": "J Suzuki",
+      "alt_names": [
+        "鈴木J"
+      ],
+      "role": "supporting",
+      "description": "A taxi driver and one of the Four Ramen Emperors of Tokyo.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275597-64W2GeSpgN5P.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275597
+      }
+    },
+    {
+      "id": "miki",
+      "name": "Miki",
+      "alt_names": [
+        "みき",
+        "Mikiti"
+      ],
+      "role": "supporting",
+      "description": "An elementary school student",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275598-Vc7wZ1e8WrXG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275598
+      }
+    },
+    {
+      "id": "saburou-toyosaki",
+      "name": "Saburou Toyosaki",
+      "alt_names": [
+        "豊崎三郎"
+      ],
+      "role": "supporting",
+      "description": "In the past, he used underhanded tactics to sabotage [Shirogane](https://anilist.co/character/121101/)'s grades, but he now fights fair and square. He only opens his eyes when he shows his \"true power.\"",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275620-OjIpji2v6zhb.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275620
+      }
+    },
+    {
+      "id": "subaru-suruga",
+      "name": "Subaru Suruga",
+      "alt_names": [
+        "駿河すばる"
+      ],
+      "role": "supporting",
+      "description": "One of [Ai Hayasaka](https://anilist.co/character/121104/)'s closest friends. She wears her Shuchi'in Academy school uniform modified to match up with kogal fashion. She is the daughter of the president of an IT company.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276146-75kwCAf4VpMp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276146
+      }
+    },
+    {
+      "id": "mirin-hinokuchi",
+      "name": "Mirin Hinokuchi",
+      "alt_names": [
+        "火口三鈴"
+      ],
+      "role": "supporting",
+      "description": "One of [Ai Hayasaka](https://anilist.co/character/121104/)'s closest friends. She wears her Shuchi'in Academy school uniform modified to match up with kogal fashion. She is the daughter of an advertising executive.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276147-kBHKjDvFpja8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276147
+      }
+    },
+    {
+      "id": "singh",
+      "name": "Singh",
+      "alt_names": [
+        "シン"
+      ],
+      "role": "supporting",
+      "description": "Singh was the guide during the Shijo twins' trip to India.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276149-8Q8gm9kFagEB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276149
+      }
+    },
+    {
+      "id": "yume-atenbo",
+      "name": "Yume Atenbo",
+      "alt_names": [
+        "阿天防ゆめ"
+      ],
+      "role": "supporting",
+      "description": "President of the Occult Research Club. Her grandfather is a high ranking Shinto priest. She loves to tease couples, so most of her predictions are excuses for sexual harassment.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276379-zvGm9NJSaxJY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276379
+      }
+    },
+    {
+      "id": "jinbouchou-no-glutton-girl",
+      "name": "Jinbouchou no Glutton Girl",
+      "alt_names": [
+        "神保町のグラットンガール",
+        "Jinbocho's Mountain-Eater Mama",
+        "The Glutton Girl of Jinbocho"
+      ],
+      "role": "supporting",
+      "description": "One of the Four Ramen Emperors of Tokyo. She dated [Saburo Odajima](https://anilist.co/character/137169/Saburo-Odajima) in the past, but he broke up with her over their conflicting ramen styles. She felt unable to change her way of life and continued to pursue her style. In the present she had forgotten why she began eating ramen like this, until she happens to see [Chika Fujiwara](https://anilist.co/character/121103/Chika-Fujiwara)'s satisfaction from finishing a bowl of ramen.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276380-HYuJ3SXxBHIo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276380
+      }
+    },
+    {
+      "id": "takahiko-tanuma",
+      "name": "Takahiko Tanuma",
+      "alt_names": [
+        "田沼 尊彦",
+        "Sage of Sugamo",
+        "Immortal of Sugamo"
+      ],
+      "role": "supporting",
+      "description": "One of the Four Ramen Emperors of Tokyo.",
+      "metadata": {
+        "gender": "male",
+        "age": "93",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276381-SYePQtEUdIG1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276381
+      }
+    },
+    {
+      "id": "seiryuu-shinomiya",
+      "name": "Seiryuu Shinomiya",
+      "alt_names": [
+        "四宮青龍"
+      ],
+      "role": "supporting",
+      "description": "[Kaguya Shinomiya](https://anilist.co/character/120649/Kaguya-Shinomiya)'s second half-brother.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276399-cy7e8qWh7Ws0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276399
+      }
+    },
+    {
+      "id": "oko-shinomiya",
+      "name": "Oko Shinomiya",
+      "alt_names": [
+        "四宮黄光"
+      ],
+      "role": "supporting",
+      "description": "Eldest half-brother of [Kaguya Shinomiya](https://anilist.co/manga/86635/Kaguyasama-Love-is-War/characters). He is the heir apparent to the Shinomiya Zaibatsu.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276400-lXlYMMGWRIva.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276400
+      }
+    },
+    {
+      "id": "ganan-shinomiya",
+      "name": "Ganan Shinomiya",
+      "alt_names": [
+        "四宮雁庵"
+      ],
+      "role": "supporting",
+      "description": "Head of the Shinomiya Zaibatsu. He is the father of [Kaguya Shinomiya](https://anilist.co/character/120649/Kaguya-Shinomiya) and her three half-brothers Oko, Seriyuu, and Un'yo. He is a very cold and neglectful father, who is always away from his family on business trips to extend his own power. He ordered Kaguya to be raised in an overly protective and shielded environment.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276401-oOr26PUulFDi.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276401
+      }
+    },
+    {
+      "id": "unyo-shinomiya",
+      "name": "Unyo Shinomiya",
+      "alt_names": [
+        "四宮青龍"
+      ],
+      "role": "supporting",
+      "description": "[Kaguya Shinomiya](https://anilist.co/character/120649/Kaguya-Shinomiya)'s third half-brother. According to [Chika Fujiwara](https://anilist.co/character/121103/Chika-Fujiwara), he is the only brother who actually loves Kaguya as family. While growing, young Kaguya was guided into high society by him. Unyo takes the Shinomiya family's discipline to heart. He is cold, conniving and cunning.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276403-pJDhXKb9Llh0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276403
+      }
+    },
+    {
+      "id": "masaru-kobayashi",
+      "name": "Masaru Kobayashi",
+      "alt_names": [
+        "小林マサル"
+      ],
+      "role": "supporting",
+      "description": "Treasurer of the culture festival committee. He has a crush on [Tsubame Koyasu](https://anilist.co/character/134326/Tsubame-Koyasu).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276519-dha4odF2TNMN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276519
+      }
+    },
+    {
+      "id": "teppei-tanaka",
+      "name": "Teppei Tanaka",
+      "alt_names": [
+        "田中哲平"
+      ],
+      "role": "supporting",
+      "description": "A member of Shuchi'in Academy's Public Relations team. He has a crush on [Tsubame Koyasu](https://anilist.co/character/134326/Tsubame-Koyasu).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276520-gvgu9gSgsEUO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276520
+      }
+    },
+    {
+      "id": "daiki-satou",
+      "name": "Daiki Satou",
+      "alt_names": [
+        "佐藤ダイキ"
+      ],
+      "role": "supporting",
+      "description": "Safety Officer of the Shuchi'in Academy culture festival committee. He has a crush on [Tsubame Koyasu](https://anilist.co/character/134326/Tsubame-Koyasu)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276521-RdpaCHzGDuY2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276521
+      }
+    },
+    {
+      "id": "maho-fujiwara",
+      "name": "Maho Fujiwara",
+      "alt_names": [
+        "藤原万穂"
+      ],
+      "role": "minor",
+      "description": "Maho Fujiwara is a supporting character in the series. She is the wife of Daichi Fujiwara and the mother of Toyomi Fujiwara, Chika Fujiwara and Moeha Fujiwara.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b177064-7kFoyUp8bkWZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 177064
+      }
+    },
+    {
+      "id": "ruby-hoshino",
+      "name": "Ruby Hoshino",
+      "alt_names": [
+        "星野ルビー"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 158 cm (5'2\")\n\n[Ai Hoshino](https://anilist.co/character/172759/Ai-Hoshino)'s daughter, and the younger twin sister of [Aquamarine Hoshino](https://anilist.co/character/183885). \n~!She was previously a patient named Sarina under Goro's care. Due to her illness, she was wheelchair-bound. After discovering B-Komachi, she had always aspired to be an idol although her condition kept her from achieving her dream. Since being reincarnated as Ruby, she is now working towards her dream of being an idol like Ai. To do so she's currently working with Strawberry Productions to revive B-Komachi along with Arima Kana and Memcho.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b183884-iyo3BmTuhJ0l.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 183884
+      }
+    },
+    {
+      "id": "kana-arima",
+      "name": "Kana Arima",
+      "alt_names": [
+        "有馬かな"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 150 cm (4'11\")\n\nAn actress who was called a prodigy child. She has a rather stubborn personality yet an empathic side to her. She easily succumbs to pressure and while she does put up a front to others, she has very self-deprecating thoughts when it comes to her abilities. She's an honest and earnest person, who is very diligent and persistent even in the roughest of times. Also, she tends to place all responsibility on herself when it comes to others as she is the one who has the most experience in the show business world. She also hates bell peppers.\n  \n~!After the events of the Sweet Today Drama adaptation, she secretly develops a crush for Aquamarine.!~\n\n~!She longs for someone to look at her for who she is now and praise her efforts, someone to say that its okay for her to be here. And after the new B-Komachi's first concert, that person becomes Aquamarine after he waves her respected colored glow stick. Only reinforcing Kana's resolve to make Aquamarine fall for her.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b188783-77orwP7vNuNg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 188783
+      }
+    },
+    {
+      "id": "mem-cho",
+      "name": "MEM-cho",
+      "alt_names": [
+        "MEMちょ",
+        "Mem"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 155 cm (5'1\")\n\nA girl who strived to become an idol at a young age, but due to her family situation, made sacrifices that ultimately ended with her becoming too old to become one. She is a YouTuber. \n\n~!Mem-cho's real age is 25, and she is later recruited as the third member of the re-formed B-Komachi idol group.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205434-AuBcR4M05f6s.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205434
+      }
+    },
+    {
+      "id": "ienaga",
+      "name": "Ienaga",
+      "alt_names": [
+        "家永",
+        "Yeti"
+      ],
+      "role": "minor",
+      "description": "An elementary school student",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275596-C56DfInFeps8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275596
+      }
+    },
+    {
+      "id": "pes",
+      "name": "Pes",
+      "alt_names": [
+        "ペス"
+      ],
+      "role": "minor",
+      "description": "Pes is the beloved pet dog of [Chika Fujiwara](https://anilist.co/character/121103/Chika-Fujiwara). He is quite a large dog, with golden fur and floppy ears. He has piercing eyes like [the president](https://anilist.co/character/121101/Miyuki-Shirogane)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275599-dTi1PGzw5X9u.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275599
+      }
+    },
+    {
+      "id": "maki",
+      "name": "Maki",
+      "alt_names": [
+        "マキ"
+      ],
+      "role": "minor",
+      "description": "Hoped to hangout with Takkun, but he prioritized soccer instead. She does wanna cheer for him.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275600-YskCzZupVuDC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275600
+      }
+    },
+    {
+      "id": "tenchou",
+      "name": "Tenchou",
+      "alt_names": [
+        "店長"
+      ],
+      "role": "minor",
+      "description": "A ramen chef",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275601-nVOUDWJ2tCU3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275601
+      }
+    },
+    {
+      "id": "shitsuji",
+      "name": "Shitsuji",
+      "alt_names": [
+        "執事",
+        "Butler"
+      ],
+      "role": "minor",
+      "description": "One of the butler's assigned to [Kaguya](https://anilist.co/character/120649/Kaguya-Shinomiya)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275602-TmQDk1w5GGFV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275602
+      }
+    },
+    {
+      "id": "fujiwara-sofu",
+      "name": "Fujiwara Sofu",
+      "alt_names": [
+        "藤原祖父"
+      ],
+      "role": "minor",
+      "description": "The grandfather of the Fujiwara sisters.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275621-rEbljmxNuu19.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275621
+      }
+    },
+    {
+      "id": "ishigami-no-ani",
+      "name": "Ishigami no Ani",
+      "alt_names": [
+        "石上の兄",
+        "Ishigami's Brother"
+      ],
+      "role": "minor",
+      "description": "Older brother of [Yuu Ishigami](https://anilist.co/character/121102/Yuu-Ishigami). He is next in line to inherit their dad's toy company.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275656-yQlf7BTMxBAm.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275656
+      }
+    },
+    {
+      "id": "gomanosuke",
+      "name": "Gomanosuke",
+      "alt_names": [
+        "胡麻の助",
+        "Edward"
+      ],
+      "role": "minor",
+      "description": "The pet cat of Abe. He has sleek black fur and piercing eyes. Despite his appearance Gomanosuke is a very friendly individual, rubbing himself on [Kaguya](https://anilist.co/character/120649/Kaguya-Shinomiya)'s legs, and being popular in the school.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275657-SPEyIbaOxb3S.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275657
+      }
+    },
+    {
+      "id": "kojima",
+      "name": "Kojima",
+      "alt_names": [
+        "小島"
+      ],
+      "role": "minor",
+      "description": "A first year student of Shuchi'in Academy High School and the current captain of the Kendo Club. He has been shown to come into conflict with Momo Ryuju as a result of their parents occupying high positions within the police department and Yakuza respectively.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275658-dgIh0L4vPxIM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275658
+      }
+    },
+    {
+      "id": "komari-machida",
+      "name": "Komari Machida",
+      "alt_names": [
+        "町田 恋鞠"
+      ],
+      "role": "minor",
+      "description": "Homeroom teacher of Class 2-A",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275659-kVGe52YVQPh3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275659
+      }
+    },
+    {
+      "id": "nayotake-shimizu",
+      "name": "Nayotake Shimizu",
+      "alt_names": [
+        "清水名夜竹"
+      ],
+      "role": "minor",
+      "description": "~![Kaguya Shinomiya](https://anilist.co/character/120649/)'s mother. She died 30th of January, 29 days after giving birth to Kaguya.!~\n\n~!In Chapter 242, it was revealed that she worked in Gion's red light district as a prostitute.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276148-62MvBarUtNQl.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276148
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:28:43.440Z"
+  "updated_at": "2025-12-23T08:19:38.941Z"
 }

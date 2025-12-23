@@ -1,6 +1,6 @@
 {
   "work_id": "jojos-bizarre-adventure-stardust-crusaders",
-  "count": 25,
+  "count": 30,
   "characters": [
     {
       "id": "joutarou-kuujou",
@@ -224,7 +224,6 @@
         "Người dẫn chuyện",
         "Tagapagsalaysay",
         "내레이터",
-        "Narratore",
         "Erzählperson",
         "מספר",
         "Narrátor",
@@ -629,7 +628,127 @@
       "external_ids": {
         "anilist": 130579
       }
+    },
+    {
+      "id": "nise-captain-tennille",
+      "name": "Nise Captain Tennille",
+      "alt_names": [
+        "偽キャプテン・テニール",
+        "Impostor Captain Tennille"
+      ],
+      "role": "supporting",
+      "description": "The impostor Captain Tennille is a minor antagonist appearing in Stardust Crusaders.\n\nHe is an assassin sent by DIO who fights the Joestar Group in the middle of the ocean on their way to Egypt. He is a Stand User and wields Dark Blue Moon.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130580-18gBtyA5LrA3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130580
+      }
+    },
+    {
+      "id": "midler",
+      "name": "Midler",
+      "alt_names": [
+        "ミドラー",
+        "Midorā"
+      ],
+      "role": "supporting",
+      "description": "Midler is the last of DIO's assassins the heroes encounter before entering Egypt. She is a Stand User, and her High Priestess attacks the group as they travel by submarine in the Red Sea.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130581-CiY90qg8GXvI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130581
+      }
+    },
+    {
+      "id": "iggy",
+      "name": "Iggy",
+      "alt_names": [
+        "イギー"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 33.3 cm\n__Nationality:__ American\n\nIggy is a boston terrier who wields a stand known as The Fool, which is able to manipulate sand. Since The Fool is made of sand, damaging it will not hurt Iggy. He creates various objects out of sand including the wings of a glider and a statue of DIO. Iggy is depicted as rude and disobedient, as shown by his tendency to chew on people’s hair while farting on them. He loves coffee-flavored gum.\n\nIggy was previously owned by a rich man, but he ran away and became a stray in New York. Avdol caught him and brought him to Egypt to help the Joestar group defeat DIO. He frequently chews Polnareff’s hair and once put chewed gum inside Jotaro’s hat.\n\n~!At first, Iggy seems indifferent towards the Joestar’s quest to defeat DIO. Then he accidentally finds DIO’s mansion and is attacked and injured by Pet Shop, causing his hatred for DIO to grow. He is killed after saving Polnareff from Vanilla Ice.!~\n\nHe was initially drawn as realistic dog, but as the story progressed, his face gradually became more similar to a human’s. He is named after Iggy Pop.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/21089.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21089
+      }
+    },
+    {
+      "id": "boingo",
+      "name": "Boingo",
+      "alt_names": [
+        "ボインゴ",
+        "Mondatta",
+        "Voing"
+      ],
+      "role": "supporting",
+      "description": "Boingo is a young Stand User whose Stand is Tohth. As part of the Egypt 9 Glory Gods, he attempts to assassinate the Joestar Group in Egypt alongside his older brother Oingo and later Hol Horse. Boingo is a young child of ordinary build, but his characteristics include an unusually large mouth and a large afro held together by a topless cap, leaving a few stray hair locks. His attire consists of a bright shirt and trousers over which he wears shorts and a jacket, plus a coat and simple shoes.\n\nTohth is an Artificial Non-Humanoid Stand that takes the form of a manga. The book, titled, Oingo Boingo Brothers Adventure, will show predictions of the future. When an image appears, the prediction(s) then become fate and are destined to come to fruition. However, nobody, not even Boingo, can control the Image projected onto Tohth.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/79703.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79703
+      }
+    },
+    {
+      "id": "jonathan-joestar",
+      "name": "Jonathan Joestar",
+      "alt_names": [
+        "ジョナサン・ジョースター",
+        "JoJo"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 195 cm \n__Nationality:__ British \n__Occupation:__ Archaeologist \n\nBorn the unique son of the wealthy businessman George Joestar I, Jonathan is an honest, kind, and positive man whose life is fraught with tragedy after meeting his adopted older brother - and series antagonist - Dio Brando. In his battle against Dio, Jonathan becomes a Ripple user under the tutelage of the master Will Anthonio Zeppeli.\n\n**Part 5:**~!Jonathan is the biological father of Giorno Giovanna, the protagonist of Vento Aureo, as well as a handful of other illegitimate offspring.!~\n\n(Source: JoJo Wikia)",
+      "metadata": {
+        "gender": "male",
+        "age": "12-20",
+        "dateOfBirth": "1868-04-04"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8087-GTrObHQvujB5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8087
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:18:54.407Z"
+  "updated_at": "2025-12-23T02:36:17.831Z"
 }

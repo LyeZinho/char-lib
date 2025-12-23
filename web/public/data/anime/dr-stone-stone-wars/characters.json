@@ -1,6 +1,6 @@
 {
   "work_id": "dr-stone-stone-wars",
-  "count": 25,
+  "count": 27,
   "characters": [
     {
       "id": "senkuu-ishigami",
@@ -602,7 +602,53 @@
       "external_ids": {
         "anilist": 282320
       }
+    },
+    {
+      "id": "chalk",
+      "name": "Chalk",
+      "alt_names": [
+        "チョーク"
+      ],
+      "role": "minor",
+      "description": "Dog from Ishigami Village. He is Suika's friend.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b147567-mvwmIvzi8my5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 147567
+      }
+    },
+    {
+      "id": "byakuya-ishigami",
+      "name": "Byakuya Ishigami",
+      "alt_names": [
+        "石神百夜 "
+      ],
+      "role": "minor",
+      "description": "Byakuya Ishigami was a Japanese astronaut who was residing on the International Space Station when the Petrification on Earth's surface occurred. He was a kind, playful, and mischievous man who always found a way to amuse himself and keep things lighthearted, no matter the stakes.\n\n~!He was [Senku Ishigami](https://anilist.co/character/124142/Senkuu-Ishigami)'s adoptive father.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b149275-ghZG8Itl5Iz9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 149275
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:20:45.490Z"
+  "updated_at": "2025-12-23T01:33:33.367Z"
 }

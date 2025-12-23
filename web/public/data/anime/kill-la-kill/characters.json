@@ -1,6 +1,6 @@
 {
   "work_id": "kill-la-kill",
-  "count": 25,
+  "count": 28,
   "characters": [
     {
       "id": "ryuuko-matoi",
@@ -567,7 +567,75 @@
       "external_ids": {
         "anilist": 190945
       }
+    },
+    {
+      "id": "jack-naitou",
+      "name": "Jack Naitou",
+      "alt_names": [
+        "内藤ジャック"
+      ],
+      "role": "supporting",
+      "description": "Jack Naitou is the Knife Throwing Club president.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190946-Ck9qBJEQBSKj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190946
+      }
+    },
+    {
+      "id": "isshin-matoi",
+      "name": "Isshin Matoi",
+      "alt_names": [
+        "纏一身"
+      ],
+      "role": "supporting",
+      "description": "[Ryuuko](https://anilist.co/character/83797/)'s deceased father who created [Senketsu](https://anilist.co/character/87510/S). He was also the creator of the scissor blade.\n\n~!Previously known as Kiryuuin Souichirou, he had faked his death in order to escape from the clutches of Kiryuuin Ragyou, and founded the organization \"Nudist Beach\"!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b251701-uG9LM2yLqg4L.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 251701
+      }
+    },
+    {
+      "id": "kaneo-takarada",
+      "name": "Kaneo Takarada",
+      "alt_names": [
+        "宝多金男"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b258650-mhJGt1mbUMYE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 258650
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:37:47.090Z"
+  "updated_at": "2025-12-23T02:57:18.756Z"
 }

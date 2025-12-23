@@ -1,6 +1,6 @@
 {
   "work_id": "20th-century-boys",
-  "count": 25,
+  "count": 31,
   "characters": [
     {
       "id": "kenji-endou",
@@ -589,7 +589,148 @@
       "external_ids": {
         "anilist": 82577
       }
+    },
+    {
+      "id": "katsumata-tadanobu",
+      "name": "Katsumata Tadanobu",
+      "alt_names": [
+        "勝俣忠信",
+        "カツマタ"
+      ],
+      "role": "supporting",
+      "description": "A friend of [Fukubei](https://anilist.co/character/21461/Fukubei-Hattori)'s who often wore a double of the same mask [Sadakiyo](https://anilist.co/character/27225/Sada-Kiyoshi) wore.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82589-3Ae4Qf3wDqQ5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82589
+      }
+    },
+    {
+      "id": "haru-namio",
+      "name": "Haru Namio",
+      "alt_names": [
+        "春波夫",
+        "Haru-Namio",
+        "Charlie"
+      ],
+      "role": "supporting",
+      "description": "A singer who became the best known national artist of Japan after composing the massive hit song «Hello- Hello». He is famous for endorsing Friend's figure and political party with the messages​ of his music. Could there be anything else to his lyrics, hidden beneath their cheerful surface?",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144088-rUBZ5f182dDt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144088
+      }
+    },
+    {
+      "id": "mitsuyo-takasu",
+      "name": "Mitsuyo Takasu",
+      "alt_names": [
+        "高須光代"
+      ],
+      "role": "supporting",
+      "description": "Takasu is the authoritarian leader of the Dream Navigators from Tomodachi Land.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b263499-DRgUPt6ZrPo8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 263499
+      }
+    },
+    {
+      "id": "kakuta",
+      "name": "Kakuta",
+      "alt_names": [
+        "角田"
+      ],
+      "role": "supporting",
+      "description": "A manga artist who got arrested for violation of the \"New Youth Protection Guidelines\".\n~!Later escapes from the prison together with [Otcho](https://anilist.co/character/6004/Chouji-Ochiai).!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300419-vOIKhfRyRUvO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300419
+      }
+    },
+    {
+      "id": "chousuke-igarashi",
+      "name": "Chousuke Igarashi",
+      "alt_names": [
+        "五十嵐長介",
+        "Chou-san",
+        "Cho"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b319486-jpG289HJE8qX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 319486
+      }
+    },
+    {
+      "id": "moroboshi",
+      "name": "Moroboshi",
+      "alt_names": [],
+      "role": "minor",
+      "description": "Moroboshi was [Kiriko's](https://anilist.co/character/29789/Kiriko-Endo) beloved one. He had to travel to work in another country, but also left a plane ticket for Kiriko so that she can come and meet him.\n\n~!Unfortunately, when he waited for a train to travel to the airport, [The Assasin](https://anilist.co/character/82571) pushed him against a train, cause him to be hit by a train and died. After that, the [first Friend](https://anilist.co/character/21461/Fukubei-Hattori) came into Kiriko's life and then be her husband.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326603-a3ZO2q3Wi9MT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326603
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:32:06.629Z"
+  "updated_at": "2025-12-23T06:24:31.790Z"
 }

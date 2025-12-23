@@ -1,6 +1,6 @@
 {
   "work_id": "komi-cant-communicate",
-  "count": 25,
+  "count": 39,
   "characters": [
     {
       "id": "hitohito-tadano",
@@ -598,7 +598,359 @@
       "external_ids": {
         "anilist": 249856
       }
+    },
+    {
+      "id": "kamiko-arai",
+      "name": "Kamiko Arai",
+      "alt_names": [
+        "新井嘉美子"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b257377-xpyv3TeIPX0v.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 257377
+      }
+    },
+    {
+      "id": "eiko-ushiroda",
+      "name": "Eiko Ushiroda",
+      "alt_names": [
+        "牛路田 影子"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276886-2hmpwdsuXSid.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276886
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "minor",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
+    },
+    {
+      "id": "shatekiya-no-tenshu",
+      "name": "Shatekiya no Tenshu",
+      "alt_names": [
+        "射的屋の店主",
+        "Shooting Gallery Owner"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b257286-6sbP4b1VA2Oe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 257286
+      }
+    },
+    {
+      "id": "shizuka-odoka",
+      "name": "Shizuka Odoka",
+      "alt_names": [
+        "小戸日静"
+      ],
+      "role": "minor",
+      "description": "Odoka Shizuka is a second-year at Itan Private High School",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b160201-dXbWEDV8IfRI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 160201
+      }
+    },
+    {
+      "id": "gorimi",
+      "name": "Gorimi",
+      "alt_names": [
+        "檎林美"
+      ],
+      "role": "minor",
+      "description": "Gorimi is a student one year above the main characters. She is the Head Librarian, and the disciplinarian of Itan Private High School.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b160209-BkaZuOLOLpsy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 160209
+      }
+    },
+    {
+      "id": "darou-ramen",
+      "name": "Darou Ramen",
+      "alt_names": [
+        "Tenchou",
+        "店長",
+        "The Shopkeeper"
+      ],
+      "role": "minor",
+      "description": "Ramen Darou is the chain restaurant that Shouko, Tadano, Najimi, and Agari visit in Chapter 28, due to Shouko's dream being to visit a ramen shop.\nThe Shopkeeper is the cook and owner of Itan's Ramen Darou. He speaks extremely quietly, and is also bad at communicating. Due to also being bad at communicating, he shares an empathy between Shouko and much like her family, can have a conversation without speaking.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b160223-crMIG7F32Rfe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 160223
+      }
+    },
+    {
+      "id": "himeko-kishi",
+      "name": "Himeko Kishi",
+      "alt_names": [
+        "岸姫子",
+        "Komi-san's Imperial Guard"
+      ],
+      "role": "minor",
+      "description": "Himeko is an enigmatic girl who appears as part of Ren Yamai's troupe of popular girls.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270955-UrUy2lRONKM0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270955
+      }
+    },
+    {
+      "id": "yuuji-otaku",
+      "name": "Yuuji Otaku",
+      "alt_names": [
+        "小宅優司"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b278385-hwUoiv8AhSlX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 278385
+      }
+    },
+    {
+      "id": "tsukasa-aizawa",
+      "name": "Tsukasa Aizawa",
+      "alt_names": [
+        "会沢司"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282223-cq4T3cZ9HkGX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282223
+      }
+    },
+    {
+      "id": "tatsuhito-akido",
+      "name": "Tatsuhito Akido",
+      "alt_names": [
+        "明戸達人"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "32",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282224-YyxPNEA7Kkza.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282224
+      }
+    },
+    {
+      "id": "maa",
+      "name": "Maa",
+      "alt_names": [
+        "まあ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282233-ztMt7EQam9py.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282233
+      }
+    },
+    {
+      "id": "shii",
+      "name": "Shii",
+      "alt_names": [
+        "しい"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282234-YJuFeIXthHr5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282234
+      }
+    },
+    {
+      "id": "rami-kawai",
+      "name": "Rami Kawai",
+      "alt_names": [
+        "河合らみ"
+      ],
+      "role": "minor",
+      "description": "Kawai is the girl who rejected Tadano in middle school.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282322-IfYglAa9F9Rc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282322
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:23:47.046Z"
+  "updated_at": "2025-12-23T03:00:01.434Z"
 }

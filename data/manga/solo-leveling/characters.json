@@ -1,6 +1,6 @@
 {
   "work_id": "solo-leveling",
-  "count": 50,
+  "count": 112,
   "characters": [
     {
       "id": "jin-u-seong",
@@ -1216,7 +1216,1463 @@
       "external_ids": {
         "anilist": 209901
       }
+    },
+    {
+      "id": "gina",
+      "name": "Gina",
+      "alt_names": [
+        "지나",
+        "リナ"
+      ],
+      "role": "supporting",
+      "description": "Gina is an A-Rank mage and was one of the Raid Members in Son Ki-Hoon's Party in an A-Ranked Gate. She has long blonde hair and deep red eyes. Her height is average and she has a very attractive body. Gina has a serious personality this can be seen when she answers Son Ki-Hoon's question about if she was responsible for killing one of the High Orcs.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210098-Smco3qIRv0GD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210098
+      }
+    },
+    {
+      "id": "laura",
+      "name": "Laura",
+      "alt_names": [
+        "로라",
+        "ローラ"
+      ],
+      "role": "supporting",
+      "description": "Laura is the secretary of Scavenger Guild, the strongest guild in the USA. She is a composed individual who rarely ever shows any emotion.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210099-Ak1Zyy8Q4qf8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210099
+      }
+    },
+    {
+      "id": "david-brennon",
+      "name": "David Brennon",
+      "alt_names": [
+        "데이비드 브레넌"
+      ],
+      "role": "supporting",
+      "description": "David Brennon is the Director of Federal Bureau of Hunters.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210100-D53MUnHd2cyu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210100
+      }
+    },
+    {
+      "id": "jae-hwan-ju",
+      "name": "Jae-Hwan Ju",
+      "alt_names": [
+        "주재환",
+        "Jae-Hwan Joo",
+        "Atsushi Suou (周防篤司)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210101-UXfCh9WHvata.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210101
+      }
+    },
+    {
+      "id": "sin-sang",
+      "name": "Sin Sang",
+      "alt_names": [
+        "신상",
+        "Shin Sang",
+        "Statue of God"
+      ],
+      "role": "supporting",
+      "description": "Statue of God is the hidden boss of the Double Dungeon. It is first introduced during the D-Rank Dungeon Arc as Jin-Woo and other hunters entered the Cartenon Temple unaware of the dangers that were present inside.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210102-R479fvXo78Zn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210102
+      }
+    },
+    {
+      "id": "gangcheui-gunju",
+      "name": "Gangcheui Gunju",
+      "alt_names": [
+        "강체의 군주",
+        "The Monarch of the Iron Body",
+        "Iron Monarch",
+        "요인들의 왕 (Yoindeurui Wang)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210103-siDD99meJRot.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210103
+      }
+    },
+    {
+      "id": "cheonsasang",
+      "name": "Cheonsasang",
+      "alt_names": [
+        "천사상",
+        "Angel",
+        "설계자 (Seolgyeja)"
+      ],
+      "role": "supporting",
+      "description": "Angel is the hidden boss of the Cartenon Temple. \n\n~!It was later revealed that the Angel was an alias of the Architect, The ‘Architect’. This wizard, referred to as the Architect by the Monarchs, promised to aid the Shadow Monarch's descent to earth for the price of turning him into a true immortal. Angel is the statue holding the slate with the Cartenon Temple rules. It is 3 meters tall, has 6 wings and 8 arms. That creature was from a hermaphrodite race. It’s possible for them to produce both male and female voices, thus the reason for Jin-Woo to hear a female voice from the system. it is later revealed that Angel is an Administrator created by the Monarchs under the program they called the System.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210104-AxK2n5VuVyyA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210104
+      }
+    },
+    {
+      "id": "michael-connor",
+      "name": "Michael Connor",
+      "alt_names": [
+        "마이클 코너"
+      ],
+      "role": "supporting",
+      "description": "Michael Connor is the Deputy Director of the Federal Bureau of Hunters.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217286-AQbAFF2xEejg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217286
+      }
+    },
+    {
+      "id": "jeoldaeja",
+      "name": "Jeoldaeja",
+      "alt_names": [
+        "절대자",
+        "Absolute Being",
+        "God"
+      ],
+      "role": "supporting",
+      "description": "The Absolute Being was the creator god of Solo Leveling. The Absolute Being was a gigantic humanoid with long silver hair, pale ivory skin, and blank yellow eyes. He wore a long silver robe with light brown armor on his shoulders and chest, and a tall light brown hat. The Absolute Being was a cruel and self-centered individual who cared very little for his creations and saw them only as tools for his own purposes.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246080-1nGZBxHrsE3d.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246080
+      }
+    },
+    {
+      "id": "bellion",
+      "name": "Bellion",
+      "alt_names": [
+        "벨리온"
+      ],
+      "role": "supporting",
+      "description": "__Rank__: Grand-Marshal Grade\n__Abilities__: Immense Physical Prowess, Conversation, Regeneration\n\nBellion is a servant of Ashborn and the strongest shadow in existence. He is a huge humanoid shadow with two pairs of black wings on his back, jagged black armor, blank white eyes, and glowing light purple skin. He also carries a massive blade that looks like a centipede, which he wields both like a whip and a sword.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b249400-qE9nSrstYOHp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 249400
+      }
+    },
+    {
+      "id": "antares",
+      "name": "Antares",
+      "alt_names": [
+        "안타레스",
+        "파멸의 군주 (Pamyeorui Gunju)",
+        "Monarch of Destruction",
+        "광룡들의 왕 (Gwangnyongdeurui Wang)",
+        "King of Berserk Dragons"
+      ],
+      "role": "supporting",
+      "description": "Antares is a middle-aged man with long red hair, a neatly trimmed beard, glowing red eyes, and a red reptilian tail. He wears a silver-red armour over his entire body.\n\n~!He is the strongest Monarch and the final antagonist of Solo Leveling.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b253680-bwoS2mJpmKGN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 253680
+      }
+    },
+    {
+      "id": "soohyun-yoo",
+      "name": "Soohyun Yoo",
+      "alt_names": [
+        "유수현"
+      ],
+      "role": "supporting",
+      "description": "__Address:__ South Korea\n__Rank:__ A\n__Relative(s):__ Yoo Seok-Ho (Father), [Yoo Myung-han](https://anilist.co/character/184530/MyungHan-Yoo) (Uncle), Unnamed Aunt, Yoo Jin-sung (Cousin), Yoo Jin-hee (Cousin), [Yoo Jin-ho](https://anilist.co/character/136076/JinHo-Yoo) (Cousin)\n__Guild:__ ~!Ahjin Guild!~\n__Occupation:__ Model\n__Status:__ ~!Alive!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b266954-BZutPtwLj1Rp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 266954
+      }
+    },
+    {
+      "id": "kenzo-tanaka",
+      "name": "Kenzo Tanaka",
+      "alt_names": [
+        "타나카 켄죠"
+      ],
+      "role": "supporting",
+      "description": "Kenzo Tanaka is a Japanese S-Rank Hunter who specialized in melee combat and a member of the Draw Sword Guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306508-F5PsV1MTs4bS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306508
+      }
+    },
+    {
+      "id": "tatsumi-fujishima",
+      "name": "Tatsumi Fujishima",
+      "alt_names": [
+        "후지시마 타츠미"
+      ],
+      "role": "supporting",
+      "description": "Tatsumi Fujishima is a Japanese S-Rank Hunter and a member of the Draw Sword Guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306509-pV4wj3vnNjCv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306509
+      }
+    },
+    {
+      "id": "tae-gyu-lim",
+      "name": "Tae-Gyu Lim",
+      "alt_names": [
+        "림태규"
+      ],
+      "role": "supporting",
+      "description": "Tae-Gyu Lim is a Korean S-Rank hunter who specializes in archery magic and the Guild Master of the Fiend Guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306512-A5Lr0OJQWuLG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306512
+      }
+    },
+    {
+      "id": "jong-su-park",
+      "name": "Jong-Su Park",
+      "alt_names": [
+        "박종수",
+        "Jongsoo Park"
+      ],
+      "role": "supporting",
+      "description": "Jongsoo Park is a Korean A-Rank Hunter and the Guild Master of the Knights Guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306514-y2Rdmbbap0DE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306514
+      }
+    },
+    {
+      "id": "kanae-tawata",
+      "name": "Kanae Tawata",
+      "alt_names": [
+        "타와타 카나에"
+      ],
+      "role": "supporting",
+      "description": "Kanae Tawata is a Japanese S-Rank Hunter under the Draw Sword Guild.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306517-Lnn9sfyBpKni.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306517
+      }
+    },
+    {
+      "id": "baran",
+      "name": "Baran",
+      "alt_names": [
+        "바란",
+        "Demon King",
+        "Monarch of the White Flames"
+      ],
+      "role": "supporting",
+      "description": "King of Demons and the Monarch of White Flames.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306643-8Aq0WVzFu0Yn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306643
+      }
+    },
+    {
+      "id": "jima",
+      "name": "Jima",
+      "alt_names": [
+        "지마",
+        "Boss Naga"
+      ],
+      "role": "supporting",
+      "description": "Jima is the shadow of Boss Naga.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306648-NK0HmMOqzjtL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306648
+      }
+    },
+    {
+      "id": "shigeo-matsumoto",
+      "name": "Shigeo Matsumoto",
+      "alt_names": [
+        "마쓰모토 시게오"
+      ],
+      "role": "supporting",
+      "description": "Shigeo Matsumoto was the Chairman of the Japanese Hunters Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306649-AnB7qXTLbQFf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306649
+      }
+    },
+    {
+      "id": "su-ho-seong",
+      "name": "Su-Ho Seong",
+      "alt_names": [
+        "성수호"
+      ],
+      "role": "supporting",
+      "description": "Sung Suho displays little interest in things that bore him and don't get his blood pumping, especially his education. He also likes to get physical against any bullies who are stupid enough to pick on him and has an intense desire to surpass his father, who always easily defeats him in their sparring matches. \n\n~!Sung Suho is the son of [Jin-U Seong](https://anilist.co/character/129928/JinWoo-Sung) and [Hae-In Cha](https://anilist.co/character/138789/HaeIn-Cha).!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306654-X4NPzJINty9U.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306654
+      }
+    },
+    {
+      "id": "dong-suk-hwang",
+      "name": "Dong-Suk Hwang",
+      "alt_names": [
+        "황동숙",
+        "Hayato Ukyou (右京隼人)",
+        "Hwang Dong-Seok (황동석)"
+      ],
+      "role": "supporting",
+      "description": "Hwang Dongsuk is a C-rank Hunter and the older brother of [Dong-Su Hwang](https://anilist.co/character/136075/DongSu-Hwang).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306666-k7s0nluzaWod.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306666
+      }
+    },
+    {
+      "id": "sang-sik-kim",
+      "name": "Sang-Sik Kim",
+      "alt_names": [
+        "김상식",
+        "Nobuhara Mashima (真島伸晴)",
+        "Sangshik Kim"
+      ],
+      "role": "supporting",
+      "description": "Sang-Sik Kim is a Korean D-Rank Hunter. ~!He was a survivor of the Double Dungeon. He was tragically killed by [Tae-Shik Kang](https://anilist.co/character/181155/TaeShik-Kang) after accidentally witnessing him kill a man during a raid.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306674-RaVc2MbWYjns.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306674
+      }
+    },
+    {
+      "id": "greed",
+      "name": "Greed",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Greed is a shadow owned by [Jin-Woo Sung](https://anilist.co/character/129928/JinWoo-Sung). ~!Greed is the shadow of [Dong-Su Hwang](https://anilist.co/character/136075/DongSu-Hwang).!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306679-rJ4sMXBrNsVt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306679
+      }
+    },
+    {
+      "id": "eun-seok",
+      "name": "Eun-Seok",
+      "alt_names": [
+        "은석",
+        "Fuuki Satsuki (颯樹ふうき)"
+      ],
+      "role": "supporting",
+      "description": "Former Korean S-Rank Hunter. ~!About one year before the events of the main storyline, Eunseok participated in the 3rd Jeju Island Raid alongside Baek Yoonho and Min Byung-Gyu. Unfortunately, the raid went sideways and Eunseok was killed under unknown circumstances.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323043-1cRLO5gO0JSY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323043
+      }
+    },
+    {
+      "id": "bo-ra-lee",
+      "name": "Bo-Ra Lee",
+      "alt_names": [
+        "이보라",
+        "Lee Bora"
+      ],
+      "role": "supporting",
+      "description": "A-Rank Mage from the Hunters Guild who specializes in summoning magic.⁣ She is straightforward, very meticulous, and believes that the only way to overcome difficulties is by laying out the known facts.",
+      "metadata": {
+        "gender": "female",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326616-sUKU0Wr06E7B.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326616
+      }
+    },
+    {
+      "id": "james",
+      "name": "James",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b353703-m6nnyELCygwj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 353703
+      }
+    },
+    {
+      "id": "vulcan",
+      "name": "Vulcan",
+      "alt_names": [
+        "ヴォルカン",
+        "Avaricious Vulcan"
+      ],
+      "role": "supporting",
+      "description": "S-Ranked magic beast. Vulcan was the second boss of the Demon Castle and the Ruler of the Lower Floors.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b353704-olJeQ6ocVZ0Z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 353704
+      }
+    },
+    {
+      "id": "se-mi-han",
+      "name": "Se-Mi Han",
+      "alt_names": [
+        "한세미"
+      ],
+      "role": "supporting",
+      "description": "Korean A-Rank Hunter and a healer serving under the Hunters Guild, assigned to Strike Squad B.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b354512-lOwHsLUqgjZq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 354512
+      }
+    },
+    {
+      "id": "yun-seok-bae",
+      "name": "Yun-Seok Bae",
+      "alt_names": [
+        "배윤석",
+        "Yoonsuk Bae",
+        "Yoon-Suk Bae"
+      ],
+      "role": "supporting",
+      "description": "Leader of the Hunters Guild's Mining Team.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b354513-KkCYqbe0pDN4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 354513
+      }
+    },
+    {
+      "id": "seok-jin-sin",
+      "name": "Seok-Jin Sin",
+      "alt_names": [
+        "신석진",
+        "Seok-Jin Shin",
+        "三角光輝"
+      ],
+      "role": "supporting",
+      "description": "Pro Hunter working for the Hunters Guild. He is on Strike Team B.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b356080-a434bFIaMhqL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 356080
+      }
+    },
+    {
+      "id": "ji-u-seo",
+      "name": "Ji-U Seo",
+      "alt_names": [
+        "서지우",
+        "Jiwoo Seo"
+      ],
+      "role": "supporting",
+      "description": "Korean A-Rank Hunter and a fighter serving under the Hunters Guild, assigned to Strike Squad B.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b356081-46HxHxObAVot.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 356081
+      }
+    },
+    {
+      "id": "rakan",
+      "name": "Rakan",
+      "alt_names": [
+        "라칸"
+      ],
+      "role": "supporting",
+      "description": "King of Beasts and the Monarch of Fangs.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b360010-m54zQfD9eY6q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 360010
+      }
+    },
+    {
+      "id": "sillad",
+      "name": "Sillad",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "King of Snow Folk and the Monarch of Frost.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b360018-cSSguPJzQI69.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 360018
+      }
+    },
+    {
+      "id": "jonas",
+      "name": "Jonas",
+      "alt_names": [
+        "조나스"
+      ],
+      "role": "minor",
+      "description": "Jonas was the strongest hunter in Brazil, ranking 6th in the world.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306504-U98tjOCvqfUQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306504
+      }
+    },
+    {
+      "id": "lennart-niermann",
+      "name": "Lennart Niermann",
+      "alt_names": [
+        "레나트 니어만"
+      ],
+      "role": "minor",
+      "description": "Lennart Niermann is the strongest hunter in Germany, ranking 12th in the world.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306505-DcSr0ys4uIaQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306505
+      }
+    },
+    {
+      "id": "siddharth-bachchan",
+      "name": "Siddharth Bachchan",
+      "alt_names": [
+        "싯다르트 밧찬"
+      ],
+      "role": "minor",
+      "description": "Siddharth Bachchan is the strongest hunter in India and one of the five National Level Hunters, ranking 4th in the world.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306506
+      }
+    },
+    {
+      "id": "yuri-orloff",
+      "name": "Yuri Orloff",
+      "alt_names": [
+        "유리 오를로프의"
+      ],
+      "role": "minor",
+      "description": "Yuri Orloff was a Russian S-Rank Hunter who specialized in support magic, specifically in barriers.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306507-hp6pITfsTVwu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306507
+      }
+    },
+    {
+      "id": "yun-tae-jeong",
+      "name": "Yun-Tae Jeong",
+      "alt_names": [
+        "정윤탷",
+        "Yoontae Jung"
+      ],
+      "role": "minor",
+      "description": "Yoontae Jung is a Korean A-Rank Hunter under the Knights Guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306513-GWy8yMX9UQcy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306513
+      }
+    },
+    {
+      "id": "yerim-jung",
+      "name": "Yerim Jung",
+      "alt_names": [
+        "정예림"
+      ],
+      "role": "minor",
+      "description": "Jung Yerim is a Korean A-Rank healer under the Knights Guild.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306516-wGLDfyG683V4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306516
+      }
+    },
+    {
+      "id": "jay-mills",
+      "name": "Jay Mills",
+      "alt_names": [
+        "제이밀스"
+      ],
+      "role": "minor",
+      "description": "Jay Mills was the strongest hunter in Canada, ranking 17th in the world.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306519-DAuoMewv0tWh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306519
+      }
+    },
+    {
+      "id": "kyu-hwan-jo",
+      "name": "Kyu-Hwan Jo",
+      "alt_names": [
+        "조규환",
+        "Kyu-Hwan Cho",
+        "Kouji (コージ)"
+      ],
+      "role": "minor",
+      "description": "Cho Kyuhwan is a C-rank Hunter and a member of Dongsuk Hwang's raid party.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306638-0s3eVP3j3gUf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306638
+      }
+    },
+    {
+      "id": "sang-min-ahn",
+      "name": "Sang-Min Ahn",
+      "alt_names": [
+        "안상민",
+        "Sangmin Ahn",
+        "Koushirou Shishido (宍戸耕史朗)"
+      ],
+      "role": "minor",
+      "description": "Sangmin Ahn is the chief of the White Tiger Guild's 2nd Division Management Department.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306652-pwbDRuTHSVxb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306652
+      }
+    },
+    {
+      "id": "jinhee-yoo",
+      "name": "Jinhee Yoo",
+      "alt_names": [
+        "유진희"
+      ],
+      "role": "minor",
+      "description": "Jinhee Yoo is [Jin-Ho Yoo](https://anilist.co/character/136076/JinHo-Yoo)'s older sister.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306655-Fmji5ncEckLr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306655
+      }
+    },
+    {
+      "id": "yoora-choi",
+      "name": "Yoora Choi",
+      "alt_names": [
+        "최유라"
+      ],
+      "role": "minor",
+      "description": "Choi Yoora is a nurse who works at the hospital that [Jin-Woo Sung](https://anilist.co/character/129928/JinWoo-Sung) stayed at while he was recovering from the injuries that he sustained during the Double Dungeon incident.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306658-RQjwwD8aS82V.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306658
+      }
+    },
+    {
+      "id": "seong-chul-lee",
+      "name": "Seong-Chul Lee",
+      "alt_names": [],
+      "role": "minor",
+      "description": "Lee Seong-Chul is the Director of the Ilsin Hospital, the hospital where [Kyung-Hye Park](https://anilist.co/character/209396/KyungHye-Park) stayed at while she was ill with Eternal Slumber.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306660-IQNK5KHMA3mH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306660
+      }
+    },
+    {
+      "id": "sungchan-joo",
+      "name": "Sungchan Joo",
+      "alt_names": [
+        "주성찬"
+      ],
+      "role": "minor",
+      "description": "Sungchan Joo is the chief of the White Tiger Guild's 1st Division Surveillance Team.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306663-uxktJcClyBxH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306663
+      }
+    },
+    {
+      "id": "beom-shik-park",
+      "name": "Beom-Shik Park",
+      "alt_names": [
+        "박범식",
+        "Arata Kuga (久我新汰)",
+        "Gi-Sool Park"
+      ],
+      "role": "minor",
+      "description": "Park Gi-Sool is a Korean D-Rank Hunter and a good friend of Sangshik Kim. ~!He was tragically killed during the first Double Dungeon Incident when a statue sliced him clean in half from behind.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306673-eaq6may6XbTB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306673
+      }
+    },
+    {
+      "id": "cheol-jin-lee",
+      "name": "Cheol-Jin Lee",
+      "alt_names": [
+        "이철진",
+        "Chul-Jin Lee",
+        "Jin (ジン)"
+      ],
+      "role": "minor",
+      "description": "Korean C-Rank Hunter and a member of Dong-Suk Hwang's strike squad.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306675-u6IC7OAsf48j.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306675
+      }
+    },
+    {
+      "id": "ki-joong-yoon",
+      "name": "Ki-Joong Yoon",
+      "alt_names": [
+        "윤기중",
+        "Kijoong Yoon"
+      ],
+      "role": "minor",
+      "description": "Kijoong Yoon is a Korean C-Rank Hunter under the White Tiger Guild. ~!He is one of the five survivors of the Red Gate Incident.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306676-FALnbDDHY1WH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306676
+      }
+    },
+    {
+      "id": "myung-hwan-go",
+      "name": "Myung-Hwan Go",
+      "alt_names": [
+        "고명환",
+        "Ryouhei Matsuura (松浦良平)"
+      ],
+      "role": "minor",
+      "description": "Myung-Hwan Go is a Korean C-Rank Hunter under the White Tiger Guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306678-S3BtMZx1jFd7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306678
+      }
+    },
+    {
+      "id": "ki-cheol-hyeong",
+      "name": "Ki-Cheol Hyeong",
+      "alt_names": [
+        "형기철",
+        "Kichul Hyun"
+      ],
+      "role": "minor",
+      "description": "Kichul Hyun is the deputy manager of the White Tiger Guild's 2nd Division Management Department and Sangimn Ahn's assistant.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306680-m25zds5TfDOl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306680
+      }
+    },
+    {
+      "id": "gi-soo-jung",
+      "name": "Gi-Soo Jung",
+      "alt_names": [
+        "정기수"
+      ],
+      "role": "minor",
+      "description": "Gi-Soo Jung is the deputy manager at the Korean Hunters Association's Evaluation Office.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306684-JbhRS42T7zqv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306684
+      }
+    },
+    {
+      "id": "seong-chul-yun",
+      "name": "Seong-Chul Yun",
+      "alt_names": [
+        "윤성철",
+        "Yoon Sungchul",
+        "Jouji You (要譲二)"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323582-7bCCR1xcTk1I.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323582
+      }
+    },
+    {
+      "id": "myeong-jo",
+      "name": "Myeong Jo",
+      "alt_names": [
+        "조명",
+        "Yotsuya (四谷)",
+        "Myung Cho"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323588-cCYKiqwpeIxj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323588
+      }
+    },
+    {
+      "id": "jeong-ho-kang",
+      "name": "Jeong-Ho Kang",
+      "alt_names": [
+        "강정호",
+        "Kou Hamura (羽村康)"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323589-70NC1HRi6BKa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323589
+      }
+    },
+    {
+      "id": "hye-yeong-ra",
+      "name": "Hye-Yeong Ra",
+      "alt_names": [
+        "라혜영",
+        "Seina Takada (高田星奈)"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323591-Zygq2sylmhPw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323591
+      }
+    },
+    {
+      "id": "yu-jeong-an",
+      "name": "Yu-Jeong An",
+      "alt_names": [
+        "안유정",
+        "Nakano (中野)"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323592-n2q5zCNwBHbA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323592
+      }
+    },
+    {
+      "id": "dong-hun-jeong",
+      "name": "Dong-Hun Jeong",
+      "alt_names": [
+        "정동훈",
+        "Genzou Akabane (赤羽源蔵)"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323593-Pk1u4hIwMt8y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323593
+      }
+    },
+    {
+      "id": "seok-min",
+      "name": "Seok-Min",
+      "alt_names": [
+        "석민",
+        "Mikihisa (幹久)"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326060-rIf2idVY42Y2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326060
+      }
+    },
+    {
+      "id": "jin-seok",
+      "name": "Jin-Seok",
+      "alt_names": [
+        "진숙",
+        "Jin-Suk",
+        "Wataru (わたる)"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326066-5IyTecFZyLAx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326066
+      }
+    },
+    {
+      "id": "jun-tae-gu",
+      "name": "Jun-Tae Gu",
+      "alt_names": [
+        "구준태",
+        "Jun-Tae Goo",
+        "Jun (純)"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326067-7nQBEss2hcRp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326067
+      }
     }
   ],
-  "updated_at": "2025-12-22T18:55:52.601Z"
+  "updated_at": "2025-12-23T09:30:15.180Z"
 }

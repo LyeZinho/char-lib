@@ -1,6 +1,6 @@
 {
   "work_id": "fire-punch",
-  "count": 25,
+  "count": 27,
   "characters": [
     {
       "id": "agni",
@@ -567,7 +567,51 @@
       "external_ids": {
         "anilist": 308839
       }
+    },
+    {
+      "id": "bana",
+      "name": "Bana",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308840-ObZYN0D3LFEt.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308840
+      }
+    },
+    {
+      "id": "hentai",
+      "name": "Hentai",
+      "alt_names": [
+        "Pervert"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308841-PL3pYJ1M6KC4.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308841
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:33:44.969Z"
+  "updated_at": "2025-12-23T07:21:09.185Z"
 }

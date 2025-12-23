@@ -1,6 +1,6 @@
 {
   "work_id": "overlord",
-  "count": 25,
+  "count": 35,
   "characters": [
     {
       "id": "momonga",
@@ -600,7 +600,228 @@
       "external_ids": {
         "anilist": 141731
       }
+    },
+    {
+      "id": "brita",
+      "name": "Brita",
+      "alt_names": [
+        "ブリタ"
+      ],
+      "role": "supporting",
+      "description": "Brita (ブリタ) is the leader of the Vigilance Committee of Carne Village and a former iron ranked adventurer whose hard-earned healing potion was broken by Momon but was compensated with a new but unknown one which fortunately saved her life.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175036-DKyLq9N2wdbc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175036
+      }
+    },
+    {
+      "id": "dyne-woodwonder",
+      "name": "Dyne Woodwonder",
+      "alt_names": [
+        "ダイン・ウッドワンダー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175037-AQQhRCTTEMEY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175037
+      }
+    },
+    {
+      "id": "moknach",
+      "name": "Moknach",
+      "alt_names": [
+        "モックナック"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175038-LLGIB32hi4fk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175038
+      }
+    },
+    {
+      "id": "belius",
+      "name": "Belius",
+      "alt_names": [
+        "ベリュース"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175039-q8w0x6oWWrie.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175039
+      }
+    },
+    {
+      "id": "bellote",
+      "name": "Bellote",
+      "alt_names": [
+        "ベロテ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175040-09ThYj4kvdAW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175040
+      }
+    },
+    {
+      "id": "zach",
+      "name": "Zach",
+      "alt_names": [
+        "ザック"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175041-MfVLMK6PeG0l.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175041
+      }
+    },
+    {
+      "id": "pluton-ainzach",
+      "name": "Pluton Ainzach",
+      "alt_names": [
+        "プルトン・アインザック"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175042-RxEDJ1RzM7c6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175042
+      }
+    },
+    {
+      "id": "igvarge",
+      "name": "Igvarge",
+      "alt_names": [
+        "イグヴァルジ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175043-6KuPpxP8d00W.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175043
+      }
+    },
+    {
+      "id": "londres-di-clamp",
+      "name": "Londres Di Clamp",
+      "alt_names": [
+        "ロンデス・ディ・クランプ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175044-rN8ub9tWn8RN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175044
+      }
+    },
+    {
+      "id": "herohero",
+      "name": "Herohero",
+      "alt_names": [
+        "ヘロヘロ",
+        "Ancient Black Slime"
+      ],
+      "role": "supporting",
+      "description": "Herohero (ヘロヘロ) is a guild member of Ainz Ooal Gown and regarded as one of the Forty-One Supreme Beings by the NPCs of the Great Tomb of Nazarick. He is the creator of Solution Epsilon and one of the creators of the Homunculus Maids groups that work in Nazarick.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b189116-k31RK8Ux0JfE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 189116
+      }
     }
   ],
-  "updated_at": "2025-12-22T17:54:13.200Z"
+  "updated_at": "2025-12-23T04:44:29.587Z"
 }

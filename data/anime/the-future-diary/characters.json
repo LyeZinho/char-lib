@@ -1,6 +1,6 @@
 {
   "work_id": "the-future-diary",
-  "count": 25,
+  "count": 28,
   "characters": [
     {
       "id": "yukiteru-amano",
@@ -601,7 +601,75 @@
       "external_ids": {
         "anilist": 82747
       }
+    },
+    {
+      "id": "funatsu",
+      "name": "Funatsu",
+      "alt_names": [
+        "船津"
+      ],
+      "role": "supporting",
+      "description": "The second in command of the Omekata Cult led by The Sixth, Tsubaki Kasugano. Serving as a minor villain, he himself appears little in the series, but played a crucial role by twisting Tsubaki and Reisuke Houjou to the point of insanity. He appears in Future Diary: Paradox, serving as a secondary villain to Aru Akise and Tsubaki.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82749-TSUGZCokgYK7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82749
+      }
+    },
+    {
+      "id": "saika-gasai",
+      "name": "Saika  Gasai",
+      "alt_names": [
+        "我妻西果"
+      ],
+      "role": "supporting",
+      "description": "Adoptive mother of Yuno Gasai and the wife of Ushio Gasai. A minor character with major relevance, she serves as the direct cause of Yuno's descent into insanity.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82751-ncVWOYzFj33Y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82751
+      }
+    },
+    {
+      "id": "ushio-gasai",
+      "name": "Ushio  Gasai",
+      "alt_names": [
+        "我妻潮"
+      ],
+      "role": "supporting",
+      "description": "The adoptive father of Yuno Gasai and the husband of Saika Gasai. A minor character with major importance, he serves as an indirect cause for Yuno's descent into insanity.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82753-CYghexsAnZoR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82753
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:36:32.842Z"
+  "updated_at": "2025-12-23T05:40:57.196Z"
 }

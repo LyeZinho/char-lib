@@ -1,6 +1,6 @@
 {
   "work_id": "classroom-of-the-elite",
-  "count": 25,
+  "count": 44,
   "characters": [
     {
       "id": "kiyotaka-ayanokouji",
@@ -613,7 +613,465 @@
       "external_ids": {
         "anilist": 207023
       }
+    },
+    {
+      "id": "ken-sudou",
+      "name": "Ken Sudou",
+      "alt_names": [
+        "須藤健"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 183 cm (6'0\")\n\nKen is apart of Class 1-D and is apart of the Basketball Club. Due to his poor academic ability, he is referred to as one of the 3 Idiots of D-Class. Regardless of this, his athletic ability is without a doubt one of the best among the school. He has a crush on Suzune after receiving help from her. Under the constant supervision of Suzune, he gradually matures and begins to improve academically rising out of the bottom ladder of class and earning her trust.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207025-gpnIy6ewtfVu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207025
+      }
+    },
+    {
+      "id": "kouhei-katsuragi",
+      "name": "Kouhei Katsuragi",
+      "alt_names": [
+        "葛城康平"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 180 cm (5'11\")\n\nKōhei is an intelligent student who worked very hard to reach Class 1-A that he became one of its representatives alongside Arisu Sakayanagi. He is a serious man who adheres to the rules of manners and good conduct. He has a feud with Sakayanagi for control of the class, leading him to oppose her with his faction. He is bald due to an illness. He has a twin sister and they were originally orphans. \n\nVolume 2 Year 2\n~!He's transferred to Ryuuen's Class !~",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207026-M98kkCZdkIfP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207026
+      }
+    },
+    {
+      "id": "masayoshi-hashimoto",
+      "name": "Masayoshi Hashimoto",
+      "alt_names": [
+        "橋本正義"
+      ],
+      "role": "supporting",
+      "description": "Masayoshi is a very self-serving individual with no real loyalty to anyone other than himself. He always sides with and places his bets on the winning team, in order to always stay on top. When the Class-A leadership conflict breaks out at the beginning of the first year, Masayoshi determines that Arisu Sakayanagi is the better candidate for the position of leader and quickly joins her faction and becomes part of her inner circle.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207027-abI5hAZvWaxI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207027
+      }
+    },
+    {
+      "id": "tomonari-mashima",
+      "name": "Tomonari Mashima",
+      "alt_names": [
+        "真嶋智也"
+      ],
+      "role": "supporting",
+      "description": "Mashima is an English teacher and the homeroom teacher of class 1-A. Mashima is a man who takes his job seriously and puts his students first.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207028-UARWe5XOhSj1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207028
+      }
+    },
+    {
+      "id": "kanji-ike",
+      "name": "Kanji Ike",
+      "alt_names": [
+        "池寛治",
+        "Argos-1 (アルゴス１)"
+      ],
+      "role": "supporting",
+      "description": "Kanji Ike is one of the students of Class 1-D who is known as one of the 3 Idiots of D-Class. While his intelligence is poor, his communication skills are excellent.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b273646-JGrI4rwCGhBy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 273646
+      }
+    },
+    {
+      "id": "albert-yamada",
+      "name": "Albert Yamada",
+      "alt_names": [
+        "山田アルベルト"
+      ],
+      "role": "supporting",
+      "description": "Albert Yamada is one of the students of Class 1-C.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b273647-DByKPQyQaeOw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 273647
+      }
+    },
+    {
+      "id": "yahiko-totsuka",
+      "name": "Yahiko Totsuka",
+      "alt_names": [
+        "戸塚弥彦"
+      ],
+      "role": "supporting",
+      "description": "Yahiko Totsuka is a student of Class 1-A and belongs to Katsuragi Faction.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b273648-bb7WViiKWiDb.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 273648
+      }
+    },
+    {
+      "id": "mako-amikura",
+      "name": "Mako Amikura",
+      "alt_names": [
+        "網倉麻子"
+      ],
+      "role": "supporting",
+      "description": "Mako Amikura is one of the students of Ichinose’s class.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282225-hVCzGhA8MSLz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282225
+      }
+    },
+    {
+      "id": "kayano-onodera",
+      "name": "Kayano Onodera",
+      "alt_names": [
+        "小野寺かや乃"
+      ],
+      "role": "supporting",
+      "description": "Kayano Onodera is one of the students of Horikita’s class. She is a member of the Swimming Club and she is the best swimmer out of the girls in her class.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282226-El2d8fl0XMDB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282226
+      }
+    },
+    {
+      "id": "daichi-ishizaki",
+      "name": "Daichi Ishizaki",
+      "alt_names": [
+        "石崎大地"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282230-AhTZ1ajQYoV2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282230
+      }
+    },
+    {
+      "id": "kokoro-inogashira",
+      "name": "Kokoro Inogashira",
+      "alt_names": [
+        "井の頭心"
+      ],
+      "role": "supporting",
+      "description": "Kokoro Inogashira is one of the students of Horikita’s class.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282231-gJ2olbv3ErMv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282231
+      }
+    },
+    {
+      "id": "hideo-sotomura",
+      "name": "Hideo Sotomura",
+      "alt_names": [
+        "外村秀雄",
+        "The Professor‚ HQ"
+      ],
+      "role": "supporting",
+      "description": "Hideo Sotomura is one of the students of Horikita’s class.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284288-Nu0hmRlKkFFi.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284288
+      }
+    },
+    {
+      "id": "chihiro-shiranami",
+      "name": "Chihiro Shiranami",
+      "alt_names": [
+        "白波千尋"
+      ],
+      "role": "supporting",
+      "description": "Chihiro Shiranami is one of the students of Ichinose’s class.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284289-HXcgPYmSzIXr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284289
+      }
+    },
+    {
+      "id": "nene-mori",
+      "name": "Nene Mori",
+      "alt_names": [
+        "森寧々"
+      ],
+      "role": "supporting",
+      "description": "Nene Mori is one of the students of Horikita’s class.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284290-pAwIYIgcP5OH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284290
+      }
+    },
+    {
+      "id": "hiyori-shiina",
+      "name": "Hiyori Shiina",
+      "alt_names": [
+        "椎名ひより"
+      ],
+      "role": "minor",
+      "description": "Hiyori Shiina is one of the students of Class 1-C who is a loner.\n\nShe's a quiet girl, though sometimes she is seen occasionally smiling. She always carries books with her in her bag in case she meets someone who shares the same interest in literature as her. Since nobody in class 1-C is into literature, she doesn't have anyone to talk to. She always speaks politely. She dislikes how the classes are competing with each other, wanting everyone to be friends.\n\n~! She encounters Kiyotaka in the library, and they find themselves having the same taste in books. As she always wanted a friend who has similar interests as her, their friendship gradually blossoms and she refers to him as her \"reading buddy\". She slowly starts developing romantic feelings for Kiyotaka.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163518-xnSqZflOp9Wm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 163518
+      }
+    },
+    {
+      "id": "akito-miyake",
+      "name": "Akito Miyake",
+      "alt_names": [
+        "三宅明人",
+        "Miyacchi (みやっち)"
+      ],
+      "role": "minor",
+      "description": "In middle school, Akito became fond of archery and joined the club there and even participated in country-level competitions. However, he began to neglect other activities or duties, such as studies, in the process. At that time he started to create some ruckus by causing quarrels with other people. That, and the fact that he neglected his studies lead to his evaluation as a D-Class student. In high school, he once again became a member of the Archery Club. He is a good friend of Kiyotaka and is apart of the Ayanokouji friend group.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207024-RmtB15Cndzk3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207024
+      }
+    },
+    {
+      "id": "hayato-kitou",
+      "name": "Hayato Kitou",
+      "alt_names": [
+        "鬼頭隼"
+      ],
+      "role": "minor",
+      "description": "Hayato Kitou is one of the students of Sakayanagi’s class.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b281121-HoL7mtYJdfBd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 281121
+      }
+    },
+    {
+      "id": "sou-shibata",
+      "name": "Sou Shibata",
+      "alt_names": [
+        "柴田 颯"
+      ],
+      "role": "minor",
+      "description": "Sou Shibata is one of the students of Ichinose’s class.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282232-MlTb9J4Ba0Hn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282232
+      }
+    },
+    {
+      "id": "atsuomi-ayanokouji",
+      "name": "Atsuomi Ayanokouji",
+      "alt_names": [
+        "綾小路篤臣",
+        "Ayankouji-sensei"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290862-wFNlgaXUL8gi.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290862
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:37:23.740Z"
+  "updated_at": "2025-12-23T00:41:22.012Z"
 }

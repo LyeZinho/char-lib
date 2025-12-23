@@ -1,6 +1,6 @@
 {
   "work_id": "konosuba-gods-blessing-on-this-wonderful-world-2",
-  "count": 25,
+  "count": 32,
   "characters": [
     {
       "id": "megumin",
@@ -595,7 +595,169 @@
       "external_ids": {
         "anilist": 120653
       }
+    },
+    {
+      "id": "beldia",
+      "name": "Beldia",
+      "alt_names": [
+        "ベルディア"
+      ],
+      "role": "minor",
+      "description": "A dullahan and one of the Devil King's generals. He becomes hostile towards [Kazuma](https://anilist.co/character/89364)'s party after [Megumin](https://anilist.co/character/89361) keeps using his castle for explosion practice.\n~!He is weak against water and is defeated by [Aqua](https://anilist.co/character/89362)'s purifying magic.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136042-uqU81vphQIUY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136042
+      }
+    },
+    {
+      "id": "wolbach",
+      "name": "Wolbach",
+      "alt_names": [
+        "ウォルバク"
+      ],
+      "role": "minor",
+      "description": "Wolbach is a goddess that presides over violence and sloth. She serves as one of the eight generals of the Demon King and has many worshippers within the Demon King's army. \n\n~!She was a major antagonist, being one of the most predominately featured of the eight generals of the Demon King's army, and was the arch-nemesis of the adventurer Megumin.\n\nWolbach was split into two beings and sealed within a complex sealing stone; one of these beings represented the sloth aspect of Wolbach while the other one represented the aspect of violence and took the form of a huge black beast. Approximately 8 years prior to the main series, a young Megumin was playing with the complex sealing stone and accidentally released Wolbach and her other half, which went on a rampage. Wolbach used Explosion to defeat the beast and save Megumin, then she sapped her violence aspect of most of its energy before resealing it, deciding to come back for it when it was more calm. Wolbach then taught Megumin the spell \"Explosion\" as thanks and left the Crimson Demon Village behind. Despite being an \"evil god\" and a general of the Demon King, Wolbach was shown to be of relatively high moral standing. Although she was a Goddess, Wolbach didn't talk down to Megumin (who at the time was a young girl) and elicited concern about the young girl's future as she thought Megumin dedicating her life to Explosion would be a waste.\n\nThe aspect of violence was later unknowingly unsealed by Megumin's younger sister Komekko seven years later. Because violence was so weak after its confrontation with sloth, Komekko was able to best it and bring it home for lunch. However, Megumin, believing it was a common house cat in its weakened form, kept the aspect of violence as her pet/familiar and called it Chomusuke.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b177157-NO5ssqvYj0EL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 177157
+      }
+    },
+    {
+      "id": "cedre",
+      "name": "Cedre",
+      "alt_names": [
+        "セドル"
+      ],
+      "role": "minor",
+      "description": "~!He was one of the few people killed by Beldia and resurrected by Aqua.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326526-xBzwCrMvgXxL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326526
+      }
+    },
+    {
+      "id": "garilhe",
+      "name": "Garilhe",
+      "alt_names": [
+        "ガリル"
+      ],
+      "role": "minor",
+      "description": "An adventurer.\n~!He was one of the few people killed by Beldia and resurrected by Aqua.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326527-iXdRI2Qgn0ja.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326527
+      }
+    },
+    {
+      "id": "heinz",
+      "name": "Heinz",
+      "alt_names": [
+        "ヘインズ"
+      ],
+      "role": "minor",
+      "description": "He often teases Darkness for not being able to hit the enemy.\n~!He was one of the few people killed by Beldia and was resurrected by Aqua.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326529-VHlwpViPcug6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326529
+      }
+    },
+    {
+      "id": "kokuou",
+      "name": "Kokuou",
+      "alt_names": [
+        "国王",
+        "King"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327408-MtgHXsBUK6N5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327408
+      }
+    },
+    {
+      "id": "kajiya",
+      "name": "Kajiya",
+      "alt_names": [
+        "鍛冶屋",
+        "Blacksmith"
+      ],
+      "role": "minor",
+      "description": "Blacksmith who creates Kazuma's armour and katana.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327409-NLyCzMl2XrmH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327409
+      }
     }
   ],
-  "updated_at": "2025-12-22T17:55:23.599Z"
+  "updated_at": "2025-12-23T03:05:26.809Z"
 }

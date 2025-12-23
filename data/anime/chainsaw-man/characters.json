@@ -1,6 +1,6 @@
 {
   "work_id": "chainsaw-man",
-  "count": 25,
+  "count": 74,
   "characters": [
     {
       "id": "denji",
@@ -605,7 +605,1121 @@
       "external_ids": {
         "anilist": 174262
       }
+    },
+    {
+      "id": "tomato-no-akuma",
+      "name": "Tomato no Akuma",
+      "alt_names": [
+        "トマトの悪魔",
+        "Tomato Devil"
+      ],
+      "role": "supporting",
+      "description": "The Tomato Devil is a devil that embodies the fear of tomatoes. ~!The Tomato Devil was walking around a house, when [Denji](https://anilist.co/character/130102/Denji) with the help of [Pochita](https://anilist.co/character/170266/Pochita) went and killed him.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289200-mkFXS4A4MRBp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289200
+      }
+    },
+    {
+      "id": "eien-no-akuma",
+      "name": "Eien no Akuma",
+      "alt_names": [
+        "永遠の悪魔",
+        "Eternity Devil"
+      ],
+      "role": "supporting",
+      "description": "The Eien no Akuma is a devil that embodies the fear of eternity. He is the primary antagonist of the titular Eternity Devil arc.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157240-dQJO3S7285nW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157240
+      }
+    },
+    {
+      "id": "noroi-no-akuma",
+      "name": "Noroi no Akuma",
+      "alt_names": [
+        "呪いの悪魔",
+        "Curse Devil",
+        "Curse (カース)"
+      ],
+      "role": "supporting",
+      "description": "The Curse Devil is a Devil that embodies the fear of curses.\n\n__Known Contractors:__\n~! [Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa), [Santa Claus](https://anilist.co/character/174268/Doitsu-no-Santa-Claus)!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174265-NsRTeM1eAals.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174265
+      }
+    },
+    {
+      "id": "namako-no-akuma",
+      "name": "Namako no Akuma",
+      "alt_names": [
+        "ナマコの悪魔",
+        "Sea Cucumber Devil"
+      ],
+      "role": "supporting",
+      "description": "The Sea Cucumber Devil is a devil that embodies the fear of sea cucumbers.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174270-JcnbKLMlxrkn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174270
+      }
+    },
+    {
+      "id": "nyaako",
+      "name": "Nyaako",
+      "alt_names": [
+        "ニャーコ",
+        "Meowy"
+      ],
+      "role": "supporting",
+      "description": "[Power](https://anilist.co/character/137079/Power)'s cat. ~!Now currently owned by [Denji](https://anilist.co/character/130102/Denji).!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174271-iC0Ul9YfLOk6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174271
+      }
+    },
+    {
+      "id": "taiyou",
+      "name": "Taiyou",
+      "alt_names": [
+        "タイヨウ"
+      ],
+      "role": "supporting",
+      "description": "[Aki Hayakawa](https://anilist.co/character/137081)'s younger brother.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174261-qRcr40Q3zsyM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174261
+      }
+    },
+    {
+      "id": "reze",
+      "name": "Reze",
+      "alt_names": [
+        "レゼ",
+        "Lady Reze"
+      ],
+      "role": "minor",
+      "description": "Reze is a young girl who met Denji in a phone cabin. She works at a café. Reze is a kind and gentle girl who seems to have a crush on Denji soon after meeting him. She laughs at his jokes and isn't afraid to get close to and intimate with him.\n\n~!She is the Bomb Devil hybrid from the Soviet Union and ally to the Gun Devil. Her true personality is manipulative and brutal, as she is shown killing many Devil Hunters without care or mercy. She does, however, not enjoy killing and prefers to avoid it, unless necessary for her mission. She is the primary antagonist of the titular Bomb Girl arc. Her objective is to retrieve the Chainsaw Heart from Denji but the feelings she developed for him got in the way of her mission.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 148740
+      }
+    },
+    {
+      "id": "yakuza",
+      "name": "Yakuza",
+      "alt_names": [
+        "ヤクザ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289198-QxBRgBSAVkkK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289198
+      }
+    },
+    {
+      "id": "kobun",
+      "name": "Kobun",
+      "alt_names": [
+        "子分"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289199-QfzL8iFhjUPY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289199
+      }
+    },
+    {
+      "id": "himeno-no-imouto",
+      "name": "Himeno no Imouto",
+      "alt_names": [
+        "姫野の妹",
+        "Himeno's Sister"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174283-WfXe3FLaEi3y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174283
+      }
+    },
+    {
+      "id": "buka-a",
+      "name": "Buka A",
+      "alt_names": [
+        "部下A"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289201-dzChKYumlaoe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289201
+      }
+    },
+    {
+      "id": "buka-b",
+      "name": "Buka B",
+      "alt_names": [
+        "部下B"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289202-bcTrt145iS8Z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289202
+      }
+    },
+    {
+      "id": "zombie-tachi",
+      "name": "Zombie-tachi",
+      "alt_names": [
+        "ゾンビ達"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289206
+      }
+    },
+    {
+      "id": "tenin",
+      "name": "Tenin",
+      "alt_names": [
+        "店員"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289761-DdsSEjykcqoz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289761
+      }
+    },
+    {
+      "id": "keikan-a",
+      "name": "Keikan A",
+      "alt_names": [
+        "警官A"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289762
+      }
+    },
+    {
+      "id": "keikan-b",
+      "name": "Keikan B",
+      "alt_names": [
+        "警官B"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289763
+      }
+    },
+    {
+      "id": "keikan-c",
+      "name": "Keikan C",
+      "alt_names": [
+        "警官C"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289764-ZEF1QmvBodz0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289764
+      }
+    },
+    {
+      "id": "majin",
+      "name": "Majin",
+      "alt_names": [
+        "魔人",
+        "Fiend"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289765-MDgL4Q9AGqW3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289765
+      }
+    },
+    {
+      "id": "minkan-no-devil-hunter",
+      "name": "Minkan no Devil Hunter",
+      "alt_names": [
+        "民間のデビルハンター"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289766-NUUV6DUuH3LH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289766
+      }
+    },
+    {
+      "id": "uketsuke-shokuin",
+      "name": "Uketsuke Shokuin",
+      "alt_names": [
+        "受付職員"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290199-WoD8xG4Bcchf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290199
+      }
+    },
+    {
+      "id": "kanbu-a",
+      "name": "Kanbu A",
+      "alt_names": [
+        "幹部A"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290329-6W0zR4DM3cYf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290329
+      }
+    },
+    {
+      "id": "kanbu-c",
+      "name": "Kanbu C",
+      "alt_names": [
+        "幹部C"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290330-eilQqOmcgww0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290330
+      }
+    },
+    {
+      "id": "josei-ol",
+      "name": "Josei OL",
+      "alt_names": [
+        "女性OL",
+        "Josei Shain (女性社員)"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290331-3YiMZNhGHnyw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290331
+      }
+    },
+    {
+      "id": "chichi",
+      "name": "Chichi",
+      "alt_names": [
+        "父"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290333-XXbn2fobH9VV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290333
+      }
+    },
+    {
+      "id": "musume",
+      "name": "Musume",
+      "alt_names": [
+        "娘"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290334-leoCv0yz9AHk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290334
+      }
+    },
+    {
+      "id": "shanai-no-otoko",
+      "name": "Shanai no Otoko",
+      "alt_names": [
+        "車内の男"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290335-K5bjq1SxTaZi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290335
+      }
+    },
+    {
+      "id": "hayakawa-chichioya",
+      "name": "Hayakawa Chichioya",
+      "alt_names": [
+        "早川父親"
+      ],
+      "role": "minor",
+      "description": "Aki Hayakawa's father.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b291240-DdaFQl3fWFfa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 291240
+      }
+    },
+    {
+      "id": "hayakawa-hahaoya",
+      "name": "Hayakawa Hahaoya",
+      "alt_names": [
+        "早川母親"
+      ],
+      "role": "minor",
+      "description": "Aki Hayakawa's mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b291241-aKmKz7L1b2eQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 291241
+      }
+    },
+    {
+      "id": "josei-kain",
+      "name": "Josei Kain",
+      "alt_names": [
+        "女性課員"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b292666-NurASZuLVcGT.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 292666
+      }
+    },
+    {
+      "id": "dansei-kain",
+      "name": "Dansei Kain",
+      "alt_names": [
+        "男性課員"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 292667
+      }
+    },
+    {
+      "id": "buka",
+      "name": "Buka",
+      "alt_names": [
+        "部下"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293138-IyZYvwfHzbub.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293138
+      }
+    },
+    {
+      "id": "otoko-no-koe",
+      "name": "Otoko no Koe",
+      "alt_names": [
+        "男の声"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293139
+      }
+    },
+    {
+      "id": "kobun-a",
+      "name": "Kobun A",
+      "alt_names": [
+        "子分A"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294730
+      }
+    },
+    {
+      "id": "kobun-b",
+      "name": "Kobun B",
+      "alt_names": [
+        "子分B"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294731
+      }
+    },
+    {
+      "id": "kobun-c",
+      "name": "Kobun C",
+      "alt_names": [
+        "子分C"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294732
+      }
+    },
+    {
+      "id": "kobun-d",
+      "name": "Kobun D",
+      "alt_names": [
+        "子分D"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294733
+      }
+    },
+    {
+      "id": "joukyaku-a",
+      "name": "Joukyaku A",
+      "alt_names": [
+        "乗客A"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293665
+      }
+    },
+    {
+      "id": "otoko-a",
+      "name": "Otoko A",
+      "alt_names": [
+        "男A"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293666
+      }
+    },
+    {
+      "id": "shokuin",
+      "name": "Shokuin",
+      "alt_names": [
+        "職員"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293667
+      }
+    },
+    {
+      "id": "hanzaisha-a",
+      "name": "Hanzaisha A",
+      "alt_names": [
+        "犯罪者A"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293669
+      }
+    },
+    {
+      "id": "hanzaisha-b",
+      "name": "Hanzaisha B",
+      "alt_names": [
+        "犯罪者B"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293670
+      }
+    },
+    {
+      "id": "hitojichi-no-josei",
+      "name": "Hitojichi no Josei",
+      "alt_names": [
+        "人質の女性"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293671
+      }
+    },
+    {
+      "id": "announcer",
+      "name": "Announcer",
+      "alt_names": [
+        "アナウンサー",
+        "アナウンス"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 295191
+      }
+    },
+    {
+      "id": "kumichou",
+      "name": "Kumichou",
+      "alt_names": [
+        "組長"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294736
+      }
+    },
+    {
+      "id": "shiina",
+      "name": "Shiina",
+      "alt_names": [
+        "椎名"
+      ],
+      "role": "minor",
+      "description": "Kanagawa prefectural police",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b294737-xNHNlLwqBSuw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294737
+      }
+    },
+    {
+      "id": "furuno",
+      "name": "Furuno",
+      "alt_names": [
+        "古野"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b294738-mQPmNepLSuLH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294738
+      }
+    },
+    {
+      "id": "oootoko-zombie",
+      "name": "Oootoko Zombie",
+      "alt_names": [
+        "大男ゾンビ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 295192
+      }
+    },
+    {
+      "id": "nigeokureta-jyoukyaku",
+      "name": "Nigeokureta Jyoukyaku",
+      "alt_names": [
+        "逃げ遅れた乗客"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 295193
+      }
+    },
+    {
+      "id": "denji-no-chichi",
+      "name": "Denji no Chichi",
+      "alt_names": [
+        "デンジの父",
+        "Denji's Father"
+      ],
+      "role": "minor",
+      "description": "This unnamed man was the father of [Denji](https://anilist.co/character/130102/Denji). ~!When Denji was young he killed his father in self defense, as his father was in a drunken aggressive state and he feared for his life. His father's murder was ruled a suicide by the adults in Denji’s life as acknowledging his death as a murder would mean they would be unable to get any money from his death. After his death, Denji inherits his debt to the Yakuza.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311678-oRIk6xOjKo6Q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311678
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:25:09.425Z"
+  "updated_at": "2025-12-23T00:34:55.491Z"
 }

@@ -1,6 +1,6 @@
 {
   "work_id": "psycho-pass",
-  "count": 25,
+  "count": 38,
   "characters": [
     {
       "id": "shinya-kougami",
@@ -583,7 +583,301 @@
       "external_ids": {
         "anilist": 74425
       }
+    },
+    {
+      "id": "rouichi-ouryou",
+      "name": "Rouichi Ouryou",
+      "alt_names": [
+        "王陵牢一"
+      ],
+      "role": "supporting",
+      "description": "Ouryou Rikako's father. He was previously an artist.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/74427.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74427
+      }
+    },
+    {
+      "id": "mitsuru-sasayama",
+      "name": "Mitsuru Sasayama",
+      "alt_names": [
+        "佐々山光留"
+      ],
+      "role": "supporting",
+      "description": "Kougami Shinya's past partner and friend. He was murdered during an operation. Since then, Shinya has been investigating the case.",
+      "metadata": {
+        "gender": "male",
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/74541.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74541
+      }
+    },
+    {
+      "id": "kouichi-ashikaga",
+      "name": "Kouichi Ashikaga",
+      "alt_names": [
+        "足利紘一"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b74726-LFcYu9yGsXBB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74726
+      }
+    },
+    {
+      "id": "kouzaburou-touma",
+      "name": "Kouzaburou Touma",
+      "alt_names": [
+        "藤間幸三郎"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "age": "29",
+        "dateOfBirth": "2084-12-25"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/74952.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74952
+      }
+    },
+    {
+      "id": "jouji-saiga",
+      "name": "Jouji Saiga",
+      "alt_names": [
+        "雑賀譲二"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b75206-aWL8yEj0gSTe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 75206
+      }
+    },
+    {
+      "id": "rina-takizaki",
+      "name": "Rina Takizaki",
+      "alt_names": [
+        "滝崎リナ"
+      ],
+      "role": "supporting",
+      "description": "An unauthorized artist who Yayoi met when playing on a stage.   ~!In Yayois background episode it is shown that the two shared a deep relationship and when Yayoi was locked up as a latent criminal, Rina started an antisocial movement that vandalized street scanners. When Yayoi confronted Rina when she was joining the inspectors investigating the vandalism, Rina walks away into the tunnels with the rest of the gang. It is unclear if she is caught.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b77051-b0NpfquapHqG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 77051
+      }
+    },
+    {
+      "id": "joushuu-kasei",
+      "name": "Joushuu Kasei",
+      "alt_names": [
+        "禾生壌宗"
+      ],
+      "role": "supporting",
+      "description": "The chief of the Public Safety Bureau. She often speaks with Ginoza on classified matters and holds the utmost trust in him. She wishes for Shogo Makishima to be arrested rather than killed.   ~!In Episode 13, she shares with Ginoza classified files about the culprit of the Specimen Case, Touma Kouzoburou. She explains that he was able to get away with it due to him having a condition known as being \"criminally asymptotic\", meaning that he could get scanned and have no problems found with him.  It is believed that Shogo Makishima possesses the same condition due to his immunity to the Dominator.  In Episode 16, after Shuusei and Gu-Song discover the true form of the Sybil System she appears to kill Gu-Song with the \"Lethal Elimiinator\". However, she is revealed to be a cyborg and then turns and shoots Shuusei before fading out, leaving thier fates unknown.   She is actually a robotic body that the members of the Sibyl System use to run the MWPSB. The body is nothing but a shell, used by the members to do their whims. It is only operational when one of their brains occupies her body.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b77753-5GSHnlVABwG6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 77753
+      }
+    },
+    {
+      "id": "hiroko-fujii",
+      "name": "Hiroko Fujii",
+      "alt_names": [
+        "藤井博子"
+      ],
+      "role": "supporting",
+      "description": "Fuji is a fashionable woman with long, light brown hair and brown eyes. She wears a long red coat with a light colored scarf. \n\nShe gets involved in the Helmet Riots.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n77755-HEWakRDr6xzd.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 77755
+      }
+    },
+    {
+      "id": "junmei-itou",
+      "name": "Junmei Itou",
+      "alt_names": [
+        "伊藤純銘"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "28",
+        "dateOfBirth": "2084-12-03"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b77757-N75YdsrweHLk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 77757
+      }
+    },
+    {
+      "id": "risa-aoyanagi",
+      "name": "Risa Aoyanagi",
+      "alt_names": [
+        "青柳璃彩"
+      ],
+      "role": "supporting",
+      "description": "~!Possibly a container or vessel for the Sibyl System, as hinted on various episodes and scenes.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/80345.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 80345
+      }
+    },
+    {
+      "id": "nobuaki-kudama",
+      "name": "Nobuaki Kudama",
+      "alt_names": [
+        "管卷宣昭"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b80347-oABxgX2mDSLy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 80347
+      }
+    },
+    {
+      "id": "teppei-sugou",
+      "name": "Teppei Sugou",
+      "alt_names": [
+        "須郷徹平"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b147046-XHifXR4XQhOA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 147046
+      }
+    },
+    {
+      "id": "komissa-chan",
+      "name": "Komissa-chan",
+      "alt_names": [
+        "コミッサちゃん"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b359600-uLA43M8vbCzl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 359600
+      }
     }
   ],
-  "updated_at": "2025-12-22T17:56:17.228Z"
+  "updated_at": "2025-12-23T04:49:55.065Z"
 }

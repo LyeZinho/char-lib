@@ -1,6 +1,6 @@
 {
   "work_id": "the-disastrous-life-of-saiki-k",
-  "count": 25,
+  "count": 27,
   "characters": [
     {
       "id": "kusuo-saiki",
@@ -609,7 +609,6 @@
         "Người dẫn chuyện",
         "Tagapagsalaysay",
         "내레이터",
-        "Narratore",
         "Erzählperson",
         "מספר",
         "Narrátor",
@@ -638,7 +637,53 @@
       "external_ids": {
         "anilist": 36309
       }
+    },
+    {
+      "id": "zolbe-saberlight",
+      "name": "Zolbe Saberlight",
+      "alt_names": [
+        "ゾルベ・勘解由小路・シャーベライト"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b278266-D1YlrjvMJms1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 278266
+      }
+    },
+    {
+      "id": "manabe-baiku",
+      "name": "Manabe Baiku",
+      "alt_names": [
+        "真鍋梅久"
+      ],
+      "role": "minor",
+      "description": "Baiku Manabe is a motorcycle instructor at the JET driving school. \n\nHe often uses the phrase \"B. K. B.\" This is a reference to Fumitaka Kawasaki, who is his Japanese voice actor, as well as a comedian known for using this phrase in his routine. \n\nHis name comes from the words \"学ぶ (まなべ)\" which means learn/study, and the Katakana spelling of bike/motorcycle, \"バイク\" respectively.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b358989-sF803ZYLqzUb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 358989
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:17:26.444Z"
+  "updated_at": "2025-12-23T05:38:14.510Z"
 }

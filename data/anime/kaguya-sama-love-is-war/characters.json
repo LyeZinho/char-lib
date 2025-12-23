@@ -1,6 +1,6 @@
 {
   "work_id": "kaguya-sama-love-is-war",
-  "count": 34,
+  "count": 39,
   "characters": [
     {
       "id": "kaguya-shinomiya",
@@ -853,7 +853,126 @@
       "external_ids": {
         "anilist": 275620
       }
+    },
+    {
+      "id": "kozue-makihara",
+      "name": "Kozue Makihara ",
+      "alt_names": [
+        "槇原こずえ",
+        "Makkii-senhai"
+      ],
+      "role": "minor",
+      "description": "Makkii-senhai is a first-year high school student at Shuchi'in Academy and the president of the Tabletop Gaming Club, As the president of the Tabletop Gaming Club, Kozue loves games. She also has a somewhat sadistic sense of humor, as shown by her cheerfully torturing Miko while gathering audio for their class' event during the culture festival. She is shown to be very intelligent, regularly ranking among the top ten students in the freshman class during the end of semester exams.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b176219-5XhyzA12lms2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 176219
+      }
+    },
+    {
+      "id": "terashima",
+      "name": "Terashima",
+      "alt_names": [
+        "寺島",
+        "Terako",
+        "Megako",
+        "Gigako (ギガ子)"
+      ],
+      "role": "minor",
+      "description": "She's a third-year high school student at Shuchi'in Academy and a member of the Tabletop Gaming Club which Chika Fujiwara is also a part of. Terashima, being demoted from Terako to Gigako, is a pun on metric prefixes",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b176220-ybbcG8hZSgUO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 176220
+      }
+    },
+    {
+      "id": "subaru-suruga",
+      "name": "Subaru Suruga",
+      "alt_names": [
+        "駿河すばる"
+      ],
+      "role": "minor",
+      "description": "One of [Ai Hayasaka](https://anilist.co/character/121104/)'s closest friends. She wears her Shuchi'in Academy school uniform modified to match up with kogal fashion. She is the daughter of the president of an IT company.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276146-75kwCAf4VpMp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276146
+      }
+    },
+    {
+      "id": "mirin-hinokuchi",
+      "name": "Mirin Hinokuchi",
+      "alt_names": [
+        "火口三鈴"
+      ],
+      "role": "minor",
+      "description": "One of [Ai Hayasaka](https://anilist.co/character/121104/)'s closest friends. She wears her Shuchi'in Academy school uniform modified to match up with kogal fashion. She is the daughter of an advertising executive.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276147-kBHKjDvFpja8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276147
+      }
+    },
+    {
+      "id": "nayotake-shimizu",
+      "name": "Nayotake Shimizu",
+      "alt_names": [
+        "清水名夜竹"
+      ],
+      "role": "minor",
+      "description": "~![Kaguya Shinomiya](https://anilist.co/character/120649/)'s mother. She died 30th of January, 29 days after giving birth to Kaguya.!~\n\n~!In Chapter 242, it was revealed that she worked in Gion's red light district as a prostitute.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276148-62MvBarUtNQl.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276148
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:36:44.562Z"
+  "updated_at": "2025-12-23T02:52:23.657Z"
 }

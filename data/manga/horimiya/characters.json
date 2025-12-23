@@ -1,6 +1,6 @@
 {
   "work_id": "horimiya",
-  "count": 25,
+  "count": 29,
   "characters": [
     {
       "id": "kyouko-hori",
@@ -596,7 +596,99 @@
       "external_ids": {
         "anilist": 212579
       }
+    },
+    {
+      "id": "takeru-sengoku",
+      "name": "Takeru Sengoku",
+      "alt_names": [
+        "仙石武"
+      ],
+      "role": "supporting",
+      "description": "Takeru is [Kakeru](https://anilist.co/character/72447/Kakeru-Sengoku)'s father. He went to high school with [Kyousuke](https://anilist.co/character/89726/Kyousuke-Hori) and [Yuriko](https://anilist.co/character/78279/Yuriko-Hori).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306149-bWdHUvGCVGXj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306149
+      }
+    },
+    {
+      "id": "takako-nishi",
+      "name": "Takako Nishi",
+      "alt_names": [
+        "西貴子"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203892-t0pUbFpAjheN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 203892
+      }
+    },
+    {
+      "id": "miki-yoshikawa",
+      "name": "Miki Yoshikawa",
+      "alt_names": [
+        "吉川美紀"
+      ],
+      "role": "minor",
+      "description": "[Yuki's](https://anilist.co/character/66963) older sister.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212578-b5u2nVSdkP0f.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212578
+      }
+    },
+    {
+      "id": "kayo-yashiro",
+      "name": "Kayo Yashiro",
+      "alt_names": [
+        "矢代加世"
+      ],
+      "role": "minor",
+      "description": "**Height:** 176 cm\n\nCaretaker of the Ishikawa household.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215830-UqoX5c4HSqw4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215830
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:27:53.004Z"
+  "updated_at": "2025-12-23T07:53:52.603Z"
 }

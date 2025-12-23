@@ -1,6 +1,6 @@
 {
   "work_id": "dorohedoro",
-  "count": 25,
+  "count": 39,
   "characters": [
     {
       "id": "kaiman",
@@ -580,7 +580,325 @@
       "external_ids": {
         "anilist": 54987
       }
+    },
+    {
+      "id": "thirteen",
+      "name": "Thirteen",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Thirteen is an ordinary human from Hole. He is friends with Bauks and has a crush on Nikaido.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/68585.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 68585
+      }
+    },
+    {
+      "id": "gyouza-otoko",
+      "name": "Gyouza Otoko",
+      "alt_names": [
+        "ギョーザ男",
+        "The Gyoza Man",
+        "Gyouza no Yousei (ギョーザの妖精)",
+        "The Gyoza Fairy"
+      ],
+      "role": "supporting",
+      "description": "He is The Gyoza Fairy, currently residing in this restaurant called \"Hungry Bug\". His body is made of raw gyoza, he is as large as a beer can, but he is invisible to humans. His job is to make gyoza taste delicious. He does things like cooling the beer with pure willpower or putting in some chili oil for those who forgot to. However! He has no mercy for wretches who make light of gyoza!",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/74667.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74667
+      }
+    },
+    {
+      "id": "fukuyama",
+      "name": "Fukuyama",
+      "alt_names": [
+        "福山"
+      ],
+      "role": "supporting",
+      "description": "Fukuyama works at Tanba's pie shop. His magical abilities allow him to turn anything and anyone into meat pies.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/79439.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79439
+      }
+    },
+    {
+      "id": "tanba",
+      "name": "Tanba",
+      "alt_names": [
+        "丹波",
+        "President"
+      ],
+      "role": "supporting",
+      "description": "Tanba is the company president of a meat pie shop (also called \"Tanba\") in the magic user world. Fukuyama and Kirion are his employees, and Kaiman worked for him for a time.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/79441.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79441
+      }
+    },
+    {
+      "id": "chidaruma",
+      "name": "Chidaruma",
+      "alt_names": [
+        "チダルマ"
+      ],
+      "role": "supporting",
+      "description": "Chidaruma is leader of the Devils. He is friends with En and is very interested in Ai's tinkering with magical science.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b79443-lJrwt4yXwOFx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79443
+      }
+    },
+    {
+      "id": "kikurage",
+      "name": "Kikurage",
+      "alt_names": [
+        "キクラゲ",
+        "Judas' Ear"
+      ],
+      "role": "supporting",
+      "description": "Kikurage (named after the Judas' Ear mushroom) is a devil animal who En adopted into his Family because she has the very rare magic of resurrection. As long as a sorcerer's devil tumor is intact, Kikurage can bring them back to life. Kikurage has developed a close bond with another member of the En Family, Ebisu.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/79445.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79445
+      }
+    },
+    {
+      "id": "turkey",
+      "name": "Turkey",
+      "alt_names": [
+        "ターキー"
+      ],
+      "role": "supporting",
+      "description": "Turkey is a member of the En Family. Her magic allows them to cook up living (though mute) copies of people from pictures or memories. The copies are drawn to the location of the originals, living or dead.",
+      "metadata": {
+        "gender": "female",
+        "age": "33",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b79491-EAqLGoXVxTcO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79491
+      }
+    },
+    {
+      "id": "matsumura",
+      "name": "Matsumura",
+      "alt_names": [
+        "松村"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b153900-xkxJEO91rdaV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 153900
+      }
+    },
+    {
+      "id": "hole",
+      "name": "Hole ",
+      "alt_names": [
+        "Holy"
+      ],
+      "role": "supporting",
+      "description": "Hole has a long ragged sheet like head with black whorled bleeding eyes and multiple thin horns that circles it's head. Hole wears a big jacket with large pockets all over his chest to his legs. Hole also has thorn like horns poking out of it's arms along with some longs sharp claws running from his mitten like hands.\n\nHole is very tall (about twice the size of the average devil) at 4 meters tall and the things it can do with it's body is unknown. For example its mouth can only be visible when it's about to consume somebody and flow little people from it's eyes and mouth that drag it's enemies into it's mouth.\n\nHis debut appearance color scheme consisted in a uniform pallet of grey, later it was changed to a more remarked color difference, with a black overall clothes and his arms and mask white.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156199-tYdgjU0bgibC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156199
+      }
+    },
+    {
+      "id": "asuka",
+      "name": "Asuka",
+      "alt_names": [
+        "飛鳥"
+      ],
+      "role": "supporting",
+      "description": "Asuka is a former Tanba restaurant's employee and has an unrequited love for her boss. She wears a bat-shaped mask that covers her entire face, leaving only her mouth and eyes exposed, her hair is black and spiky and she wears clothes with cleavage and mice hanging from them. Her troubled personality prevents her from advancing in her relationship with Tanba, however, she has always tried to conquer him using her magic.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b164745-aYf4Vzcl6ae1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 164745
+      }
+    },
+    {
+      "id": "yasaka",
+      "name": "Yasaka",
+      "alt_names": [
+        "八坂"
+      ],
+      "role": "supporting",
+      "description": "One of the new members of the cross-eyes, who joined in the gang to find the black powder.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171152-vtUmwKtXSWjo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171152
+      }
+    },
+    {
+      "id": "syueron",
+      "name": "Syueron",
+      "alt_names": [
+        "シュエロン"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 191 cm\n\nSyueron is a human from Hole and he was the former owner of the shop that became the Hungry Bug. At his shop, Syueron sold tea and desserts that were very popular with magic users and thus he became a target of the Magic-User haters of Hole.",
+      "metadata": {
+        "gender": "male",
+        "age": "37",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209122-a7boJTLUd10k.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209122
+      }
+    },
+    {
+      "id": "gura-gura",
+      "name": "Gura-Gura",
+      "alt_names": [
+        "グラグラ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245049-4TJnhE4oaNx5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245049
+      }
+    },
+    {
+      "id": "hajime-damemaru",
+      "name": "Hajime Damemaru",
+      "alt_names": [
+        "一＝ダメ丸"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158225-ZxLXOzfqcs1m.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158225
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:36:14.880Z"
+  "updated_at": "2025-12-23T07:14:42.971Z"
 }

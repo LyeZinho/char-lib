@@ -1,0 +1,33 @@
+[Unit]
+Description=Smart Queue Daemon - Character Library Crawler
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+User=smartqueue
+Group=smartqueue
+ExecStart=/usr/bin/node /home/pedro/projetos/char-lib/scripts/smart-queue-daemon.js
+ExecReload=/bin/kill -HUP $MAINPID
+ExecStop=/bin/kill -USR1 $MAINPID
+Restart=always
+RestartSec=10
+Environment=NODE_ENV=production
+Environment=SMART_QUEUE_DATA_DIR=/home/pedro/projetos/char-lib/data
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=smart-queue
+
+# Security settings
+NoNewPrivileges=yes
+PrivateTmp=yes
+ProtectSystem=strict
+ReadWritePaths=/home/pedro/projetos/char-lib/data /var/log/smart-queue.log /var/run/smart-queue.pid
+ProtectHome=yes
+
+# Resource limits
+MemoryLimit=512M
+CPUQuota=50%
+
+[Install]
+WantedBy=multi-user.target

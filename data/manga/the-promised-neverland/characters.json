@@ -1,6 +1,6 @@
 {
   "work_id": "the-promised-neverland",
-  "count": 25,
+  "count": 50,
   "characters": [
     {
       "id": "norman",
@@ -592,7 +592,595 @@
       "external_ids": {
         "anilist": 129783
       }
+    },
+    {
+      "id": "thoma",
+      "name": "Thoma",
+      "alt_names": [
+        "トーマ",
+        "Pizza Topping"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 123 cm\n__Farm Identifier:__ 55294 (Grace Field House)\n\nThoma is a resourceful and mischievous boy, who enjoys pulling pranks alongside his best friend [Lani](https://anilist.co/character/129783). He is blunt, but can also be quite cowardly.",
+      "metadata": {
+        "gender": "male",
+        "age": "7",
+        "dateOfBirth": "2038-08-30"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129784-fn5VoMYAqCsk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129784
+      }
+    },
+    {
+      "id": "conny",
+      "name": "Conny",
+      "alt_names": [
+        "コニー"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 115cm\n__Farm Identifier:__ 48294\n\nConny is nice and lovely towards Emma, Don and the other orphans. She always carried her stuffed rabbit Little Bernie around with her. Her intellect level seemed to be average for her age.",
+      "metadata": {
+        "gender": "female",
+        "age": "6",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129785-7MHIm3Cp2HuM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129785
+      }
+    },
+    {
+      "id": "nat",
+      "name": "Nat",
+      "alt_names": [
+        "ナット",
+        "Nose"
+      ],
+      "role": "supporting",
+      "description": "__Age (2045):__ 9 yo\n__Farm Identifier:__ 48194 (Grace Field House)\n__D.O.B:__ 2036/12/18\n__Height (2045-2049):__ 133 - 156 cm\n\nNat is a rather frail boy, with brown eyes and a tall nose line (which he takes great pride in).  He wears the standard orphanage uniform. Even though he can be easily intimidated, he does have his moments of bravery.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129805-rUUS2wWGIAnH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129805
+      }
+    },
+    {
+      "id": "zack",
+      "name": "Zack",
+      "alt_names": [
+        "ザック"
+      ],
+      "role": "supporting",
+      "description": "Zack is a former orphan from the Grand Valley orphanage and a member of the Goldy Pond Resistance who is in charge of relief in Goldy Pond.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133404-FfTHXFrE10Rf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133404
+      }
+    },
+    {
+      "id": "sobo",
+      "name": "Sobo",
+      "alt_names": [
+        "祖母",
+        "Sarah",
+        "Grandma",
+        "Grandmother"
+      ],
+      "role": "supporting",
+      "description": "Grandmother is a high-ranking human and once worked as [Isabella's](https://anilist.co/character/121701/Isabella) Mama although she treated her more as a pawn than a human. \n\n~!On January 27, 2046, it was revealed that all of Isabella's mistakes and responsibilities, as in letting the children escape, were placed on Grandma Sarah. Although Isabella wasn't able to manage her products, Sarah wasn't able to manage Isabella. As a result, Sarah was shipped out to be served at the upcoming Tifari in order to make up for the escapees. Isabella took the role of Grandmother after that.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136463-CHTYDFuQnr7Q.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136463
+      }
+    },
+    {
+      "id": "ayshe",
+      "name": "Ayshe",
+      "alt_names": [
+        "Ayse"
+      ],
+      "role": "supporting",
+      "description": "~! Ayshe was stolen by a demon working at a farm, the demon raised her until the demon was slain by Norman and his team. Ayshe hates the people who killed her parent, she doesn't speak the human language around anyone that supports them. !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139693-WX1plo81Jilq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139693
+      }
+    },
+    {
+      "id": "hayato",
+      "name": "Hayato",
+      "alt_names": [
+        "ハヤト"
+      ],
+      "role": "supporting",
+      "description": "Farm Identifier: 01\n\nHayato is very cheerful, energetic and a bit jumpy, and often reacts as a normal person would in most situations. Despite his fearfulness, however, he's shown to be kind, loyal and trustworthy based on his actions of helping them get Chris' medicine and helping Ray with the demons.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b152194-DMWtFRXONK1m.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 152194
+      }
+    },
+    {
+      "id": "zazie",
+      "name": "Zazie",
+      "alt_names": [
+        "ザジー"
+      ],
+      "role": "supporting",
+      "description": "Zazie is a former Λ7214 experiment. He is the strongest among the humans. He gets mad when he doesn't wear the paper bag. He loves his boss, Norman.",
+      "metadata": {
+        "gender": "male",
+        "age": "5",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169006-wVXUuayBDq9q.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 169006
+      }
+    },
+    {
+      "id": "oliver",
+      "name": "Oliver",
+      "alt_names": [
+        "オリバー"
+      ],
+      "role": "supporting",
+      "description": "Oliver is an orphan who was shipped out of the Grand Valley orphanage by Leuvis. He was moved over to Goldy Pond, where he became one of the leaders of the Goldy Pond Resistance organization together with Lucas.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174334-oXfjAr8NCCED.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174334
+      }
+    },
+    {
+      "id": "cislo",
+      "name": "Cislo",
+      "alt_names": [
+        "シスロ",
+        "Shisuro"
+      ],
+      "role": "supporting",
+      "description": "Cislo is a former Lambda 7214 (aka Λ7214) experiment. His hobby is weight training, despite his looks he is easily moved to tears and he loves boss(Norman) . He was shipped to Lambda at age 12/13 from Goodwill Ridge, along with his close friend Barbara. Goodwill is one of the four premium farms.",
+      "metadata": {
+        "gender": "male",
+        "age": "17-19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192864-BHyTEeQZAu7o.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192864
+      }
+    },
+    {
+      "id": "vincent",
+      "name": "Vincent",
+      "alt_names": [
+        "ヴィンセント",
+        "Vinsento"
+      ],
+      "role": "supporting",
+      "description": "Vincent is a previous Lambda 7214 (aka Λ7214) experiment. He was born in Glory bell. He is known to have medical knowledge and is very fashionable. Also he can make snacks , cloths and weapons. He loves boss(aka Norman).",
+      "metadata": {
+        "gender": "male",
+        "age": "18-20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192865-ZVapJOXSrXkv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192865
+      }
+    },
+    {
+      "id": "barbara",
+      "name": "Barbara",
+      "alt_names": [
+        "バーバラ"
+      ],
+      "role": "supporting",
+      "description": "Barbara is a former Lambda 7214 (aka Λ7214) experiment. She eats a lot, and as a result of the experiments that were done on her she has inherited superhuman strength. At age 12, she was shipped from Goodwill Ridge to Lambda along with her close friend Cislo. Goodwill is one of the four premium farms.\n\n~!She likes to eat demon meat because she is \"pissed off\" that humans are the only ones getting eaten. It seems to be safe to do, as she shows no symptoms of it affecting her.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192866-Cqo4XXcYT8cR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192866
+      }
+    },
+    {
+      "id": "nigel",
+      "name": "Nigel",
+      "alt_names": [
+        "ナイジェル"
+      ],
+      "role": "supporting",
+      "description": "Nigel is an orphan from the Grand Valley orphanage and the former mechanic of the Goldy Pond Resistance. He's also in charge of the ammo stockpile.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193222-c94Pi3cTUrqc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 193222
+      }
+    },
+    {
+      "id": "leslie",
+      "name": "Leslie",
+      "alt_names": [
+        "レスリー"
+      ],
+      "role": "supporting",
+      "description": "__Farm Identifier:__ 71584\n\nLeslie was Isabella's childhood friend and is shown to be very kind and loves music.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b198999-bzNwD1iHZNiz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 198999
+      }
+    },
+    {
+      "id": "yvette",
+      "name": "Yvette",
+      "alt_names": [
+        "イベット",
+        "Shaggy"
+      ],
+      "role": "supporting",
+      "description": "__Farm Identifier:__ 59294\n__Height:__ 110 - 133 cm\n\nYvette is a smart and observant girl who is very artistic. She carries a pencil and a block with her.\n~!Once they escape, she helps to collect food and draws maps when asked.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "5-",
+        "dateOfBirth": "2040-12-31"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199112-xyVfJn8irWMX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199112
+      }
+    },
+    {
+      "id": "christie",
+      "name": "Christie",
+      "alt_names": [
+        "クリスティ",
+        "Chris"
+      ],
+      "role": "supporting",
+      "description": "__Farm Identifier:__ 70394 (Grace Field House)\n__Height (2045):__ 103 cm \n\nChris is a curious young boy, who is very cheerful and outspoken.",
+      "metadata": {
+        "gender": "male",
+        "age": "5",
+        "dateOfBirth": "2040-05-15"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199113-o58sBqMb1m3h.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199113
+      }
+    },
+    {
+      "id": "jemima",
+      "name": "Jemima",
+      "alt_names": [
+        "ジェミマ"
+      ],
+      "role": "supporting",
+      "description": "__Age (2045):__ 5 yo\n__Farm Identifier:__ 31394 (Grace Field House)\n__Height (2045-2049):__ 107 - 134 cm \n\nJemima is cheerful and well-behaved. Though, she can display acts of mischievousness. She is seen to have a strong bond with [Alicia](https://anilist.co/character/199115).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": "2040-07-20"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199114-dyn7IeoolRi1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199114
+      }
+    },
+    {
+      "id": "alicia",
+      "name": "Alicia",
+      "alt_names": [
+        "アリシア",
+        "Hairball "
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 109cm\n__Farm Identifier:__ 71394 (Grace Field House)\n\nAlicia is a cheerful, extroverted young girl with a tomboyish personality. She can also be sneaky, and knows how to stand up for herself. She is shown to have a strong bond with [Jemima](https://anilist.co/character/199114/Jemima).",
+      "metadata": {
+        "gender": "female",
+        "age": "5",
+        "dateOfBirth": "2036-09-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199115-IDyDlyokeLHw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199115
+      }
+    },
+    {
+      "id": "rossi",
+      "name": "Rossi",
+      "alt_names": [
+        "ロッシー"
+      ],
+      "role": "supporting",
+      "description": "__Age (2045):__ 5 yo\n__Farm Identifier:__ 50394 (Grace Field House)\n__D.O.B:__ 2040/4/14\n__Height (2045-2049):__ 108 - 130 cm \n\nRossi is a delicate and prudent boy, but he can also be quite mischievous.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199116-njqloLk0EMXO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199116
+      }
+    },
+    {
+      "id": "mark",
+      "name": "Mark",
+      "alt_names": [
+        "マルク"
+      ],
+      "role": "supporting",
+      "description": "__Age (2045):__ 5 yo\n__Farm Identifier:__ 79294\n__D.O.B:__ 2040/1/8\n__Height (2045-2049):__ 115 - 136 cm",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199117-hf0KR44q2XkP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199117
+      }
+    },
+    {
+      "id": "dominic",
+      "name": "Dominic",
+      "alt_names": [
+        "ドミニク"
+      ],
+      "role": "supporting",
+      "description": "__Farm Identifier:__ 07294 (Grace Field House)\n__Height (2045-2049):__ 119 - 147 cm \n\nDominic is an energetic and rather muscular young boy. He is very brave as well as caring towards others, and is willing to risk much to make sure everyone is safe.",
+      "metadata": {
+        "gender": "male",
+        "age": "6",
+        "dateOfBirth": "2039-02-28"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199118-FEIoj5A6GSxW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199118
+      }
+    },
+    {
+      "id": "legravalima",
+      "name": "Legravalima",
+      "alt_names": [
+        "レグラヴァリマ",
+        "Queen"
+      ],
+      "role": "supporting",
+      "description": "Legravalima is the Queen of the Demon World. She is the main antagonist of the Imperial Capital Battle Arc.\n~!It is later revealed that Sonju and Leuvis are her younger brothers.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216552-hVl3gJ2IzMfc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216552
+      }
+    },
+    {
+      "id": "pepe",
+      "name": "Pepe",
+      "alt_names": [
+        "ぺぺ"
+      ],
+      "role": "supporting",
+      "description": "Pepe is a 16-year-old boy born and raised at Grand Valley Orphanage with the ID number PX363-076. He was shipped out to Goldy Pond to become prey for the Poachers to hunt. After arriving in Goldy Pond, he joined the Goldy Pond Resistance, where he ended up in charge of the provisions. Pepe has dark skin and dark hair worn in a ponytail. He also wears an eyeglass. He is hardworking, resourceful and confident. Pepe and Zack are assigned to keep Bayon busy during the uprising. Like all the other kids in Goldy Pond, he cares deeply for his comrades and hates to see them injured. Pepe was shown to be on good terms with them despite how he only joined not long ago. He is also very skilled at creative cooking.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b223567-Pqmrl2tVofi1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 223567
+      }
+    },
+    {
+      "id": "paula",
+      "name": "Paula",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Paula is a 17-year-old girl born and raised at Grand Valley Orphanage with the ID number AXI640-651. She was shipped out to Goldy Pond to become prey for the Poachers to hunt. After arriving in Goldy Pond, she joined the Goldy Pond Resistance, where she ended up in charge of the provisions. Paula is a fair-skinned girl with long, black hair partially done up. She dresses in dark clothes and wears a bandanna covering her mouth. Paula is loyal and caring like all the Goldy Pond kids. However, she is reserved and doesn't talk much. Paula is skilled in sniping Demons with her gun.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b223568-VFf5hrdbA7CZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 223568
+      }
+    },
+    {
+      "id": "oni-no-chouten",
+      "name": "Oni no Chouten",
+      "alt_names": [
+        "鬼の頂点",
+        "Him",
+        "The One"
+      ],
+      "role": "supporting",
+      "description": "Him is seemingly the God of all Demons and the Demon World. However, his real name can’t be translated.\n\nHe lives in a special dimension where the laws of time and physics do not apply; said to be located in a mysterious space with a dragon. Anyone who tries to contact Him must need to go through a special ritual and trial that involves strange metaphysical puzzles. ~!He is the one capable of making promises in this world.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b225906-sCTTDDP86W8H.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 225906
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:27:16.961Z"
+  "updated_at": "2025-12-23T09:40:35.827Z"
 }

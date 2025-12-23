@@ -1,6 +1,6 @@
 {
   "work_id": "the-rising-of-the-shield-hero",
-  "count": 25,
+  "count": 36,
   "characters": [
     {
       "id": "naofumi-iwatani",
@@ -606,7 +606,267 @@
       "external_ids": {
         "anilist": 136957
       }
+    },
+    {
+      "id": "roudy",
+      "name": "Roudy",
+      "alt_names": [
+        "ラウド"
+      ],
+      "role": "supporting",
+      "description": "He is the bandit who has the most frequent unfortunate encounter with Naofumi. Later, he founded the Chivalrous Thief Guild with the guidance of Naofumi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136958-YG3fMpsfNJLc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136958
+      }
+    },
+    {
+      "id": "ake",
+      "name": "Ake",
+      "alt_names": [
+        "アケ"
+      ],
+      "role": "supporting",
+      "description": "He is one of the Juvenile Knights of Melromarc.. He accompanied the Knight squads to Lute Village in times of the wave, to assists the heroes.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137277-30o0Wf6CpFtH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137277
+      }
+    },
+    {
+      "id": "van-reichnott",
+      "name": "Van Reichnott",
+      "alt_names": [
+        "ヴァン・ライヒョット",
+        "Nice Guy"
+      ],
+      "role": "supporting",
+      "description": "He is a member of a wealthy family who happened to have close relations with Lord Seaetto. He is respected by the Demi-humans of his region. His name was not mentioned and Naofumi nicknames him as \"Nice Guy.\"",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138136-mP5M4prAxbXk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138136
+      }
+    },
+    {
+      "id": "rifana",
+      "name": "Rifana",
+      "alt_names": [
+        "リファナ"
+      ],
+      "role": "supporting",
+      "description": "She is the childhood friend of both Keel and Raphtalia. She was resided in the demi-human protected village in Melromarc.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138140-DLTD4MM45nJA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138140
+      }
+    },
+    {
+      "id": "idol-rabier",
+      "name": "Idol Rabier",
+      "alt_names": [
+        "アイドル・ラビエル",
+        "Fanatic Noble"
+      ],
+      "role": "supporting",
+      "description": "He is a Melromarc nobleman and Raphtalia's previous abusive owner.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138141-7mtGZ9tH5mUx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138141
+      }
+    },
+    {
+      "id": "mald",
+      "name": "Mald",
+      "alt_names": [
+        "マルド"
+      ],
+      "role": "supporting",
+      "description": "The leader of the revolutionary army against the Shield Hero.\n\n~!He was in Itsuki's party. However, when the Spirit Turtle was revived, he and the rest of the party abandoned Itsuki and ran away.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b177271-rt0w6zLTvQ4O.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 177271
+      }
+    },
+    {
+      "id": "joou-no-kage",
+      "name": "Joou no kage",
+      "alt_names": [
+        "女王の影",
+        "Queen's Shadow"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244843-Awt8uQOH1Zwm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244843
+      }
+    },
+    {
+      "id": "shisai",
+      "name": "Shisai",
+      "alt_names": [
+        "司祭",
+        "Priest"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244844-WC9AeYJAQ7AV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244844
+      }
+    },
+    {
+      "id": "raphtalia-no-haha",
+      "name": "Raphtalia no Haha",
+      "alt_names": [
+        "ラフタリアの母",
+        "Rapthalia's Mother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244841-BAzGHUWYpj1t.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244841
+      }
+    },
+    {
+      "id": "raphtalia-no-chichi",
+      "name": "Raphtalia no Chichi",
+      "alt_names": [
+        "ラフタリアの父",
+        "Raphtalia's Father"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244842-isKGyrxDhkho.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244842
+      }
+    },
+    {
+      "id": "mamoru-shirono",
+      "name": "Mamoru Shirono",
+      "alt_names": [
+        "城野守"
+      ],
+      "role": "minor",
+      "description": "Mamoru Shirono is a Shield Hero of Raphtalia's World in the ancient past. He was one of two Legendary Heroes summoned to defend against the waves.",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276961-XrZsv9yUkden.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276961
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:35:15.982Z"
+  "updated_at": "2025-12-23T05:48:34.937Z"
 }

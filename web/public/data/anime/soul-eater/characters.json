@@ -1,6 +1,6 @@
 {
   "work_id": "soul-eater",
-  "count": 25,
+  "count": 59,
   "characters": [
     {
       "id": "maka-albarn",
@@ -598,7 +598,810 @@
       "external_ids": {
         "anilist": 14068
       }
+    },
+    {
+      "id": "free",
+      "name": "Free",
+      "alt_names": [
+        "フリー",
+        "Man of the Demon eye"
+      ],
+      "role": "supporting",
+      "description": "A Werewolf and the last of the Immortal Clan, imprisoned by the Witch Order for stealing Witch Queen Maba's left eye. After being freed by Eruka Frog on Medusa Gorgon's orders, he renames himself in honor of his freedom and joins her group, acting as one of her operatives.",
+      "metadata": {
+        "gender": "male",
+        "age": "200+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b14099-HWEELkMsejHl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 14099
+      }
+    },
+    {
+      "id": "chiisana-oni",
+      "name": "Chiisana Oni",
+      "alt_names": [
+        "小さな 鬼",
+        "Little Demon"
+      ],
+      "role": "supporting",
+      "description": "Called \"Little Demon\" by Soul Eater, he is a strange demonic imp that appeared before Soul inside his heart after his first encounter with Ragnarök. He told Soul \"to be strong... follow me...\" when soul decides to follow the imp states; \"There will be insanity and ecstasy of joy.\" He may represent the power of the black blood and the insanity deep inside everyone's heart.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/14960.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 14960
+      }
+    },
+    {
+      "id": "marie-mjolnir",
+      "name": "Marie Mjolnir",
+      "alt_names": [
+        "マリー・ミョルニル",
+        "Crushing Weapon Marie"
+      ],
+      "role": "supporting",
+      "description": "The Death Scythe formerly in charge of Oceania. However, after the resurrection of [Asura](https://anilist.co/character/15840/Asura), her duties were reassigned to [Azusa](https://anilist.co/character/15770/Yumi-Azusa).\n\nShe is currently partnered with [Stein](https://anilist.co/character/8446/Franken-Stein) and is an instructor at the DWMA. Tends to feel glum about her lack of success in marriage, but is a kind and genuine woman. Stein was her old crush when they were students at the DWMA, but she still seems to hold feelings towards him in some capacity.\n\n__Anime:__\n\n~!After Stein is overwhelmed by madness and [Medusa](https://anilist.co/character/11924/Medusa-Gorgon) manipulates him into joining her side, Marie goes to save him alongside [Crona](https://anilist.co/character/11919/Crona), using her healing wavelength to bring him back to his senses.!~\n\n__Manga:__\n\n~!Marie's former betrothed, [Joe Buttataki](https://anilist.co/character/16944/Joe-Buttataki), is murdered during an internal investigation of the DWMA. Stein is framed for the murder due to his onset of madness at the time, orchestrated by Medusa, but Marie sets out with him to find the real killer, who is later revealed to be [Justin Law](https://anilist.co/character/14019/Justin-Law), a death scythe and a traitor to the DWMA.!~\n\n~!In the final chapter, it is revealed that Marie and Stein are officially in a relationship, with Marie also being pregnant with his child.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b15769-SPBkMY0lgmh5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 15769
+      }
+    },
+    {
+      "id": "azusa-yumi",
+      "name": "Azusa Yumi",
+      "alt_names": [
+        "弓梓"
+      ],
+      "role": "supporting",
+      "description": "The Death Scythe in charge of East Asia. She comes off as being bookish and analytical, she is very respectful to all, she was the one that talked Marie out of marrying a toilet using wordplay. She was the student council president when Stein and the other Death Scythes were students, she was the person that scolded Spirit for his endless flirting and Stein&#039;s urge to dissect everything, she was said to have been a small, yet talkative child. She still treats the others as little kids like a teacher would (clapping to get their attention and telling them to line up and walk in a single file line) much to the embarrassment of the others. In recent chapters it is shown that she takes the form of a crossbow, able to fire high pressure spirit shots up to 10 km accurately. She is also suggested to have a genius IQ, and is an extremely competent information gatherer and tactician, easily finding one of Arachnephobia&#039;s labs.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/15770.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 15770
+      }
+    },
+    {
+      "id": "asura",
+      "name": "Asura",
+      "alt_names": [
+        "阿修羅",
+        "Kishin"
+      ],
+      "role": "supporting",
+      "description": "The first-generation Kishin and one of the Great Old Ones whose affinity to madness resides in fear. He formerly served as one of the Warlords of the Eight Reaper Legions, being its most powerful member until he betrayed the group and became a Kishin, killing innocents to gain power through their souls and even consuming his own demon weapon partner, as well as two other Great Old Ones. After his betrayal he was sealed away by [Death](https://anilist.co/character/8457/Shinigami), and remained sealed until his revival by [Medusa](https://anilist.co/character/11924)'s Faction.\n\n__Manga:__\n\n~!He is later revealed to be Death's eldest son and the older brother of [Death the Kid](https://anilist.co/character/8455/Death-the-Kid), specifically created as a fragment containing all of Death's fear in order for Death to become the God of Absolute Order.!~\n\n~!After Asura's battle with [Maka](https://anilist.co/character/8439/Maka-Albarn), [Black Star](https://anilist.co/character/8464/BlackStar) and Death the Kid, [Crona](https://anilist.co/character/11919/Crona) seals both Asura and themselves inside the moon to keep his madness locked away from the world. Asura gleefully asserts that this method will not last, and that one day he will return to terrorize the world again.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "800+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b15840-ueu3I4BIs3av.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 15840
+      }
+    },
+    {
+      "id": "mizune",
+      "name": "Mizune",
+      "alt_names": [
+        "ミズネ"
+      ],
+      "role": "supporting",
+      "description": "Mizune is the surname of a large family of witches who all look alike and whose animal theme are mice. They speak by saying, &quot;chi&quot; (sound of a mouse squeak). One witch from this family is initially introduced as a friend of Eruka's. Like Eruka, she does not like the fact that Medusa has so much freedom and that she brings Chrona to the witch meetings. Mizune and Eruka try to kill her for endangering all witches while she is staying at Shibusen. Mizune is killed by Medusa when Medusa set off her snake bombs that she had implanted in Mizune's body. Five members of the family join Medusa after Eruka tells them that their family member that Medusa killed was actually killed by a Shibusen student. The five family members can merge into a single being capable of actual speech.     The form is of a good-looking young woman with short pink hair with a hat, long skirt, and a shirt showing her stomach and a good portion of her breasts; this exposed portion is most likely where the deceased Mizune covered.    (ref: [Wiki](http://en.wikipedia.org/wiki/List_of_Soul_Eater_characters#Mizune))",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/15977.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 15977
+      }
+    },
+    {
+      "id": "giriko",
+      "name": "Giriko",
+      "alt_names": [
+        "ギリコ"
+      ],
+      "role": "supporting",
+      "description": "Giriko is an enchanter and demon weapon allied with the witch [Arachne Gorgon](https://anilist.co/character/16228/Arachne-Gorgon), and serves as one of Arachnophobia's most powerful members.\n\nManga:\n\n~!After the destruction of Arachnophobia, he allies with [Noah](https://anilist.co/character/16232/Noah) and becomes part of his group in an effort to avenge [Arachne](https://anilist.co/character/16228/Arachne-Gorgon)'s demise.!~\n\n~!Within the Book of Eibon he badly injures both [Maka](https://anilist.co/character/8439/Maka-Albarn) and [Soul](https://anilist.co/character/8456/Soul-Eater-Evans) as revenge for their killing of [Arachne](https://anilist.co/character/16228/Arachne-Gorgon), deciding to kill [Maka](https://anilist.co/character/8439/Maka-Albarn) by strangling her before his new body undergoes soul rejection, causing his soul to explode due to the vessel being unable to contain his centuries of bloodlust.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "800+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16151-N6IwGUDXK0f2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 16151
+      }
+    },
+    {
+      "id": "arachne-gorgon",
+      "name": "Arachne Gorgon",
+      "alt_names": [
+        "アラクネ・ゴーゴン"
+      ],
+      "role": "supporting",
+      "description": "Arachne Gorgon was the head of Arachnophobia who conspired to replace Death Weapon Meister Academy's position as a world power using madness with her in charge. She was also the eldest of the Gorgon Sisters, a former associate of both Death and Eibon of some sort, and considered the darkest blemish in the history of the Witch Order.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16228-Eg0GJGmPjsnA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 16228
+      }
+    },
+    {
+      "id": "mira-nygus",
+      "name": "Mira Nygus",
+      "alt_names": [
+        "ミーラ=ナイグス"
+      ],
+      "role": "supporting",
+      "description": "Replaces Medusa as the school&#039;s interim doctor. She is Sid&#039;s partner, and looks like a mummy due to the fact she is covered in bandages (although she is seen without the bandages). She becomes a combat knife in weapon form. Her last name is a pun on how the word &#039;knives&#039; is pronounced.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/16229.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 16229
+      }
+    },
+    {
+      "id": "sid-barrett",
+      "name": "Sid Barrett",
+      "alt_names": [
+        "死人（シド）・バレット",
+        "Syd"
+      ],
+      "role": "supporting",
+      "description": "A three-star meister partner to Mira Naigus, instructor of Death Weapon Meister Academy, and a high-ranking member of the DWMA Central Intelligence Agency. Though killed in action by Shaula Gorgon—youngest of the three Gorgon sisters—he is later resurrected as a zombie by Franken Stein.",
+      "metadata": {
+        "gender": "male",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16582-CKy5CMoBlVUE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 16582
+      }
+    },
+    {
+      "id": "joe-buttataki",
+      "name": "Joe Buttataki",
+      "alt_names": [
+        "B・J（ブッ叩き・ジョー）",
+        "Mole Hunter"
+      ],
+      "role": "supporting",
+      "description": "Referred to as &quot;Mole Hunter&quot; Joe Buttataki, Joe makes his first appearance at the end of chapter thirty-seven of the manga when he is called to Shibusen to investigate the possibility of a spy. His name when literally translated is &quot;kick the shit out of,&quot; a phrase he says at the end of chapter thirty-seven in the manga. He is able to detect the snake placed in Marie's body. He is the ex-boyfriend of Marie Mjolnir. Joe had apparently kept his distance from her, fearing that his &quot;soul perception&quot; may grow so powerful that he could see through her. Joe stated to Marie that he regretted his decision and asked her out for dinner. He considers his ability unpleasant since it only allows him to work a job where he can only mistrust his allies. Joe is the first technician to be able to pierce a witch's technique to appear human and his power is growing even now.    -Wiki",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/16944.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 16944
+      }
+    },
+    {
+      "id": "hiro",
+      "name": "Hiro",
+      "alt_names": [
+        "ヒーロ",
+        "Hero"
+      ],
+      "role": "supporting",
+      "description": "During his one episode appearance, Hiro was a loser at Shibusen that couldn't do anything right, and was constantly picked on or used by other students. One day, Hiro learned of Excalibur, and seeked out to be his partner. During his time with Excalibur, he was able to defeat Black Star, Death the Kid, and Kilik at the same time, by simply saying the name of an attack, which was followed by an explosion. Hiro was also able to complete all 1,000 of Excalibur's tasks, but the one thing he could not stand was his incessant sneezing. He later dropped Excalibur and took up weight lifting.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/17032.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17032
+      }
+    },
+    {
+      "id": "masamune-nakatsukasa",
+      "name": "Masamune Nakatsukasa",
+      "alt_names": [
+        "中務マサムネ"
+      ],
+      "role": "supporting",
+      "description": "The demon blade, Masamune, is an extremely dangerous weapon and Tsubaki's older brother. He wanders around, possessing others to use him as their weapon to collect any soul he wants. He speaks using ancient words and likes to write haiku. He plays on the fears of others to possess and use them until he takes over their soul. He believes only the strong survive and the weak live only to serve the strong. He developed this way of thinking when Tsubaki inherited the family's multiple weapon forms. He considers himself more worthy than her and believed that he should have gotten the multiple weapon forms. He later lets Tsubaki defeat and absorb him after he sees that she really does care about him. Which gives her his katana form and all of his abilities, simultaneously being the first soul that Tsubaki successfully absorbs. He now resides deep within Tsubaki in the form of a large deer.    Attacks: He cannot use any attacks until he has possessed someone to wield him.        * Soul Possession: Used by demon blades to overpower and control the soul of its user.      * Shadow Puppet: Used by Demon Blade Masamune to control the shadow of the person he possessed for pincer attacks (the puppet can only say shadow).      * Puppet Strike: By folding the Shadow Puppet onto the blade, Masamune can create a far reaching lunge thrust.      * Split Branches: After the Puppet Strike, large spikes come out from the shadows body to skewer the enemy at close range.      * Puppet's Rain: By using multiple Shadow Puppets to restrain his enemy, Masamune stabs his enemy.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/17813.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17813
+      }
+    },
+    {
+      "id": "mosquito",
+      "name": "Mosquito",
+      "alt_names": [
+        "モスキート"
+      ],
+      "role": "supporting",
+      "description": "Mosquito is a bloodsucker who acted as [Arachne's](https://anilist.co/character/16228/Arachne-Gorgon) steward and Arachnophobia's top henchman. He carries himself in an aristocratic manner and is a genuine believer in Arachnophobia and his mistress. \n\nHe is capable of drinking blood in order to restore himself and can revert his body to multiple types of younger and powerful appearances.",
+      "metadata": {
+        "gender": "male",
+        "age": "800+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/17816.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17816
+      }
+    },
+    {
+      "id": "fisher-king",
+      "name": "Fisher King",
+      "alt_names": [
+        "フィッシャーキング"
+      ],
+      "role": "supporting",
+      "description": "The Fisher King is an assassin for Arachnophobia. He is sent to capture a demon tool, but is easily defeated by Kid on the Runaway Express. His cannon arm is destroyed by a Mizune witch, and is killed by Sid.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17817-YOLKId8b5jKO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17817
+      }
+    },
+    {
+      "id": "whitestar",
+      "name": "White☆Star",
+      "alt_names": [
+        "ホワイト☆スター"
+      ],
+      "role": "supporting",
+      "description": "He is the father of Black Star and the leader of the infamous Star Clan.  Much like Black Star, he was very bent towards being the best and winning every battle.  In the past, White Star was put into a very similar situation as Black Star in his battle with Mifune.  They were both asked by Mifune about which path (path of a Warrior or path of a Demon) they&#039;d rather take.  White Star did not answer, but Mifune was easily able to tell that White Star already took the path of a Demon.  Black Star simply said he&#039;d make his own path.  White Star was slain in battle by Mifune.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/20297.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 20297
+      }
+    },
+    {
+      "id": "kirisaki-jack",
+      "name": "Kirisaki Jack",
+      "alt_names": [
+        "切り裂きジャック",
+        "Jack the Ripper"
+      ],
+      "role": "supporting",
+      "description": "A bloodthirsty and malicious killer who seemingly enjoys attempting to end the lives of others.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b27390-7gydxjGyUmmS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27390
+      }
+    },
+    {
+      "id": "risa",
+      "name": "Risa",
+      "alt_names": [
+        "リサ"
+      ],
+      "role": "supporting",
+      "description": "Works at Chupa Kyaburasu Cabaret house.   ~! It seems that she works for arachnophobia gathering information for mosquito!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/27391.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27391
+      }
+    },
+    {
+      "id": "arisa",
+      "name": "Arisa",
+      "alt_names": [
+        "アリサ"
+      ],
+      "role": "supporting",
+      "description": "Works at Chupa Kyaburasu Cabaret house.   ~! it seems that she works for arachnophobia gathering information for mosquito!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/27392.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27392
+      }
+    },
+    {
+      "id": "alcapone",
+      "name": "Alcapone",
+      "alt_names": [
+        "アルカポネ"
+      ],
+      "role": "supporting",
+      "description": "Alcapone (アルカポネ, Arukapone) was a Mafia leader who eats souls. He was to be killed by Black Star and Tsubaki, but he and all his family were killed by Mifune for trying to get his hands on the witch Angela&#039;s power.     Wikia",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/27393.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27393
+      }
+    },
+    {
+      "id": "lupin",
+      "name": "Lupin",
+      "alt_names": [
+        "ルパン"
+      ],
+      "role": "supporting",
+      "description": "Lupin (ルパン, Rupan) was a phantom thief (怪盗, kaitō) in the human world. In the anime, he is shown to have stolen a large bag of pure souls. He was to be defeated by Death the Kid, but due to Patti being a little off in a pose, he managed to escape while Kid berated her, fleeing after some difficulty into the sewer.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/27394.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27394
+      }
+    },
+    {
+      "id": "samantha",
+      "name": "Samantha",
+      "alt_names": [
+        "サマンサ"
+      ],
+      "role": "supporting",
+      "description": "Samantha was a necromancer witch in an Egyptian pyramid, who resurrected a pharaoh but was latter consumed by the pharaoh. She was more of a generic witch, with no apparent animal theme. She also revived many mummies in the Pyramid of Anubis.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b27395-GFFdGldmN9bP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27395
+      }
+    },
+    {
+      "id": "pharaoh",
+      "name": "Pharaoh",
+      "alt_names": [
+        "ファラオ"
+      ],
+      "role": "supporting",
+      "description": "Referred to as &quot;Pharaoh&quot; (ファラオ, Farao), he was an unnamed ancient pharaoh who resided in the Pyramid of Anubis. He was resurrected by the witch Samantha. Kid could not bring himself to attack while in his symmetrical coffin but was gunned down mercilessly once Kid saw his real (and very mismatched) appearance, leaving only the button on his forehead, which was the only thing symmetrical.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/27396.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27396
+      }
+    },
+    {
+      "id": "rasputin",
+      "name": "Rasputin",
+      "alt_names": [
+        "ラスプーチン"
+      ],
+      "role": "supporting",
+      "description": "Rasputin was only shown in the series for a few minutes, but from the statements that Rasputin made it was implied that his body was invulnerable against any form of bullet.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/27397.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27397
+      }
+    },
+    {
+      "id": "sonson-j",
+      "name": "Sonson J.",
+      "alt_names": [
+        "ソンソンJ"
+      ],
+      "role": "supporting",
+      "description": "Bloodthirsty killer of Emerald Lake Sonson J. (ソンソンJ, Sonson Jei) was an evil human soul.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/27398.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27398
+      }
+    },
+    {
+      "id": "ryoku",
+      "name": "Ryoku",
+      "alt_names": [
+        "リョク"
+      ],
+      "role": "supporting",
+      "description": "Ryoku is a young boy from Needle Village. Ryoku is one of the most level headed people in his village appearing as calm and collected through most occurrences, except when it comes to his fear/hatred of the Star Clan. Ryoku is fearful of their power and their ways of battle, even losing self confidence in himself while comparing himself to [Black☆Star.](https://anilist.co/character/8464/BlackStar)\n\n(Source: Soul Eater Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b27399-o7zYDJFsJmWS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27399
+      }
+    },
+    {
+      "id": "mabaa",
+      "name": "Mabaa",
+      "alt_names": [
+        "魔婆"
+      ],
+      "role": "supporting",
+      "description": "Mabaa (魔婆, Mabaa) is the current leader of all witches. She is held in high regards for being almost as powerful as Shinigami-sama. Her left eye was taken by Free which is now covered by a bandage with 1/2 written across it. Her specialty is Spatial Magic.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/27400.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27400
+      }
+    },
+    {
+      "id": "flying-dutchman",
+      "name": "Flying Dutchman",
+      "alt_names": [
+        "さまよえるオランダ人"
+      ],
+      "role": "supporting",
+      "description": "The Flying Dutchman (さまよえるオランダ人, Samayoeru Orandajin) was the soul of the ghost ship Nidhogg (ニーズヘッグ, Nīzuheggu) that was being used by Medusa to gather more souls for kishin. He fought with a gun, just as Kid, though the term &quot;gun&quot; might not be a good enough comparison; the gun itself resembles a miniature cannon.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b27401-qpSJzkXbtmcv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27401
+      }
+    },
+    {
+      "id": "pot-of-fire",
+      "name": "Pot of Fire",
+      "alt_names": [
+        "ポット・オブ・ファイア"
+      ],
+      "role": "supporting",
+      "description": "Commonly called Fire and Thunder are Kirikou Rung&#039;s weapon partners and take the form of &quot;Pots&quot;, although in weapon form they are actually gloves.    Fire and Thunder are young small twins, befitting their young age in comparison to other characters within the series. Both have a dark skin complexion and facial features consisting of blue eyes, rosy cheeks and mid-length blonde hair framing their faces. Their main differences are; Fire is male and wears an orange cap.    Despite being powerful weapons, they are still kids and as such, are distracted and quarrel a lot.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/30326.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 30326
+      }
+    },
+    {
+      "id": "vajra",
+      "name": "Vajra",
+      "alt_names": [
+        "ヴァジュラ"
+      ],
+      "role": "supporting",
+      "description": "Asura's weapon. It was devoured by it's own master, Asura, after becoming a Kishin.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/38840.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 38840
+      }
+    },
+    {
+      "id": "otama-jackson",
+      "name": "Otama Jackson",
+      "alt_names": [
+        "オタマ・ジャクソン",
+        "Tadpole Jackson"
+      ],
+      "role": "supporting",
+      "description": "Otama Jackson is a gigantic black tadpole with googly eyes, a long tail and a wide red-lipped mouth bearing a set of sharp teeth. He is a very loyal and hard-working familiar, always doing his best to serve Eruka, even if it means putting himself in harm&#039;s way.  His main function is to act as a mount for Eruka, using his large size and capability to fly to aid his master in whatever way possible. However, Otama Jackson has very low stamina, and cannot fight at all, making him easily exhausted and extremely vulnerable to attack.    Unlike other Witches with their familiars the two seem to share a close friendship with each other despite Eruka&#039;s apparent dominant role in the relationship, with even the normally docile Eruka reprimanding Free after he only slightly injures Jackson. Jackson in turn is extremely loyal to Eruka, going so far as to help pass her the needle of Black Blood that is supposed to reawaken Asura before Black Star can get at it, resulting in the tadpole getting beaten up by Black Star. Eruka laments over this, and decides to fulfill the mission solely for Jackson&#039;s sake.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/48535.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 48535
+      }
+    },
+    {
+      "id": "eibon",
+      "name": "Eibon",
+      "alt_names": [
+        "エイボン"
+      ],
+      "role": "supporting",
+      "description": "Eibon is an enigmatic sorcerer and former acquaintance, if not friend of Shinigami, who is revered for the creation of numerous Demon Tools, including Brew. As one of the eight Great Old Ones , his \"wisdom\" and very existence drives men to madness.  source - soul eater wikia",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/70837.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70837
+      }
+    },
+    {
+      "id": "yousei",
+      "name": "Yousei",
+      "alt_names": [
+        "妖精",
+        "Eternal Cave Fairy"
+      ],
+      "role": "supporting",
+      "description": "Resides in the Eternal Cave with [Excalibur](https://anilist.co/character/13046/Excalibur)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b334540-nfh6XlaTJZFu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 334540
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "minor",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
     }
   ],
-  "updated_at": "2025-12-22T17:54:55.851Z"
+  "updated_at": "2025-12-23T05:14:20.137Z"
 }

@@ -1,6 +1,6 @@
 {
   "work_id": "demon-slayer-kimetsu-no-yaiba-entertainment-district-arc",
-  "count": 25,
+  "count": 48,
   "characters": [
     {
       "id": "tanjirou-kamado",
@@ -649,7 +649,535 @@
       "external_ids": {
         "anilist": 145286
       }
+    },
+    {
+      "id": "kiyo-terauchi",
+      "name": "Kiyo Terauchi",
+      "alt_names": [
+        "寺内きよ"
+      ],
+      "role": "supporting",
+      "description": "She is a servant of the Butterfly Estate.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145287-XMoG5upMikFs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145287
+      }
+    },
+    {
+      "id": "aoi-kanzaki",
+      "name": "Aoi Kanzaki",
+      "alt_names": [
+        "神崎アオイ"
+      ],
+      "role": "supporting",
+      "description": "She is a Demon Slayer, though she works as a servant in the Butterfly Estate rather than taking to the front lines.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145288-1sZG1vJmysmY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145288
+      }
+    },
+    {
+      "id": "sumi-nakahara",
+      "name": "Sumi Nakahara",
+      "alt_names": [
+        "中原すみ"
+      ],
+      "role": "supporting",
+      "description": "She is a servant of the Butterfly Estate.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145289-cdQSDA9CIy2U.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145289
+      }
+    },
+    {
+      "id": "shinjurou-rengoku",
+      "name": "Shinjurou Rengoku",
+      "alt_names": [
+        "煉獄槇寿郎"
+      ],
+      "role": "supporting",
+      "description": "Father of Kyoujurou and Senjurou.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193379-54MeZxQdvZ9o.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 193379
+      }
+    },
+    {
+      "id": "senjurou-rengoku",
+      "name": "Senjurou Rengoku",
+      "alt_names": [
+        "煉獄千寿郎"
+      ],
+      "role": "supporting",
+      "description": "Younger brother of Kyoujurou Rengoku and son of Shinjurou Rengoku and Ruka Rengoku.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193380-W10Kx339cY4D.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 193380
+      }
+    },
+    {
+      "id": "kie-kamado",
+      "name": "Kie Kamado",
+      "alt_names": [
+        "竈門葵枝"
+      ],
+      "role": "supporting",
+      "description": "Kie is Tanjiro Kamado's mother.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196849-xnYBt0Jf5Htf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196849
+      }
+    },
+    {
+      "id": "shigeru-kamado",
+      "name": "Shigeru Kamado",
+      "alt_names": [
+        "竈門茂"
+      ],
+      "role": "supporting",
+      "description": "Shigeru was Tanjiro's second youngest brother.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196851-r5px2ZuOU9I2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196851
+      }
+    },
+    {
+      "id": "takeo-kamado",
+      "name": "Takeo Kamado",
+      "alt_names": [
+        "竈門竹雄"
+      ],
+      "role": "supporting",
+      "description": "Takeo was Tanjiro Kamado's first younger brother.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196852-zzu0xZXJrFr9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196852
+      }
+    },
+    {
+      "id": "hanako-kamado",
+      "name": "Hanako Kamado",
+      "alt_names": [
+        "竈門花子"
+      ],
+      "role": "supporting",
+      "description": "Hanako was Tanjiro Kamado's youngest sister.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196853-3MBhoPxBTvrN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196853
+      }
+    },
+    {
+      "id": "tanjurou-kamado",
+      "name": "Tanjurou Kamado",
+      "alt_names": [
+        "竈門炭十郎"
+      ],
+      "role": "supporting",
+      "description": "Tanjuro Kamadou was the husband of Kie Kamado and the late father of Tanjiro, Nezuko, Takeo, Hanako, Shigeru, and Rokuta.\n\nTanjuro was a quiet, calculating, forgiving, charismatic and loving person. He had a peaceful relationship with his family and regularly lectured Tanjiro about life.\n\nWhile he appeared calm on the outside, he showed a decent, noble aura with a quiet perception to his surroundings. According to his son, he did not like standing out or displaying his true abilities to others. However, if his family is in danger, he would not hesitate to protect them and shows no mercy towards the enemy.\n\n~!Despite not being a Demon Slayer and having a tragic disease that makes his body incredibly frail, Tanjuro was shown to be a phenomenally strong individual. He was born with a demon slayer mark on his forehead, had the ability to access the transparent world, and was constantly using the selfless state.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206330-dDKOKM4O2pVg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 206330
+      }
+    },
+    {
+      "id": "rokuta-kamado",
+      "name": "Rokuta Kamado",
+      "alt_names": [
+        "竈門六太"
+      ],
+      "role": "supporting",
+      "description": "Tanjiro's youngest sibling.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207857-sn24LyeKSrPr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207857
+      }
+    },
+    {
+      "id": "yoriichi-tsugikuni",
+      "name": "Yoriichi Tsugikuni",
+      "alt_names": [
+        "継国緑壱"
+      ],
+      "role": "supporting",
+      "description": "__Combat Style:__ Sun Breathing\n\nYoriichi Tsugikuni is a major supporting character of Demon Slayer: Kimetsu no Yaiba. He was a legendary Demon Slayer of the Demon Slayer Corps during the Sengoku Era.\n\n~!Yoriichi is the younger twin brother of Michikatsu Tsugikuni, who later became a Demon and joined the Twelve Kizuki, holding the position of Upper Rank 1.!~\n\n~!Yoriichi is also the progenitor of Breathing Styles as a whole and was an immensely gifted individual who was fated and meant to defeat Muzan Kibutsuji, but failed.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "17-24 (young), 80+ (old)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b149220-OuBk7B3O6WD6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 149220
+      }
+    },
+    {
+      "id": "ninju-mukimuki-nezumi",
+      "name": "Ninju Mukimuki Nezumi",
+      "alt_names": [
+        "忍にん獣ムキムキねずみ",
+        "Shino Buff Mice"
+      ],
+      "role": "supporting",
+      "description": "Intelligent mice that work for Tengen Uzui. The mice are specially trained for the purpose of being assistants to Tengen and his acquaintances, as seen during the events at Yoshiwara, Tokyo. They are strong enough to carry one sword per mouse, and are capable of navigating small spaces humans normally wouldn't be able to.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246712-DYIZvLfd3pEM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246712
+      }
+    },
+    {
+      "id": "koinatsu",
+      "name": "Koinatsu",
+      "alt_names": [
+        "鯉夏"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b259262-WuAoPoYW3iXq.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 259262
+      }
+    },
+    {
+      "id": "kagaya-ubuyashiki",
+      "name": "Kagaya Ubuyashiki",
+      "alt_names": [
+        "産屋敷耀哉",
+        "Oyakata-sama"
+      ],
+      "role": "supporting",
+      "description": "He is the head of the Ubuyashiki Family and 97th leader of the Demon Slayer Corps known mainly as \"Oyakata-sama\" (\"Master\") by his subordinates and peers.",
+      "metadata": {
+        "gender": "male",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137808-4yA8XQUDrAho.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137808
+      }
+    },
+    {
+      "id": "kiriya-ubuyashiki",
+      "name": "Kiriya Ubuyashiki",
+      "alt_names": [
+        "産屋敷輝利哉"
+      ],
+      "role": "supporting",
+      "description": "~!Kiriya Ubuyashiki is the son and middle child of Kagaya Ubuyashiki.\nHe is the current head of the Ubuyashiki Household and leader of the Demon Slaying Corps!~",
+      "metadata": {
+        "gender": "male",
+        "age": "8",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139460-jA7lAHb17aLL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139460
+      }
+    },
+    {
+      "id": "nichika-ubuyashiki",
+      "name": "Nichika Ubuyashiki",
+      "alt_names": [
+        "産屋敷 にちか"
+      ],
+      "role": "supporting",
+      "description": "Nichika Ubuyashiki is one of the older daughters of Kagaya Ubuyashiki.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b167548-2bPBlCKBiIBY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 167548
+      }
+    },
+    {
+      "id": "hinaki-ubuyashiki",
+      "name": "Hinaki Ubuyashiki",
+      "alt_names": [
+        "産屋敷 ひなき"
+      ],
+      "role": "supporting",
+      "description": "Hinaki Ubuyashiki is one of the older daughters of Kagaya Ubuyashiki.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b167549-1fG4eh5KkmZg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 167549
+      }
+    },
+    {
+      "id": "murata",
+      "name": "Murata",
+      "alt_names": [
+        "村田"
+      ],
+      "role": "supporting",
+      "description": "Murata is a member of the Demon Slayer Corps.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171150-3Ju2DXBVq41F.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171150
+      }
+    },
+    {
+      "id": "amane-ubuyashiki",
+      "name": "Amane Ubuyashiki",
+      "alt_names": [
+        "産屋敷あまね",
+        "Amane Himorogi"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 167cm (5'6\")\n\nShe is the wife and caretaker of [Kagaya Ubuyashiki](https://anilist.co/character/137808/Kagaya-Ubuyashiki) and the mother of Hinaki Ubuyashiki, Nichika Ubuyashiki, Kiriya Ubuyashiki, Kanata Ubuyashiki and Kuina Ubuyashiki. Her maiden name is Amane Himorogi.",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b221375-cMlefDNTlcD6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 221375
+      }
+    },
+    {
+      "id": "chachamaru",
+      "name": "Chachamaru",
+      "alt_names": [
+        "茶々丸"
+      ],
+      "role": "supporting",
+      "description": "Chachamaru is a feline familiar that assists in Tamayo's medical research with Demon blood.\n\n~!Chachamaru is seen during the battle with Muzan, after the Infinity Castle collapses. The cat jumps above the remaining Hashira in order to administer an antidote to stave off the poisonous effects of Muzan's attacks. As a result, it is sliced in half by the demon. However, it was later reassembled by Yushirou.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268212-cdX6j5xYomyU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268212
+      }
+    },
+    {
+      "id": "daki-no-obi-no-oni",
+      "name": "Daki no Obi no Oni",
+      "alt_names": [
+        "堕姫の帯の鬼",
+        "Demon of Daki's Belt",
+        "だきのおびのおに"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b294235-bUutDbmy9x9R.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294235
+      }
+    },
+    {
+      "id": "omitsu",
+      "name": "Omitsu",
+      "alt_names": [
+        "お三津"
+      ],
+      "role": "supporting",
+      "description": "Manager of the Kyogoku House in the Entertainment District of Yoshiwara, Tokyo.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b294247-lcte11itoWwp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294247
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:34:41.995Z"
+  "updated_at": "2025-12-23T01:13:03.251Z"
 }

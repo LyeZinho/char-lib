@@ -1,6 +1,6 @@
 {
   "work_id": "food-wars",
-  "count": 25,
+  "count": 61,
   "characters": [
     {
       "id": "souma-yukihira",
@@ -611,7 +611,830 @@
       "external_ids": {
         "anilist": 88972
       }
+    },
+    {
+      "id": "eizan-etsuya",
+      "name": "Eizan Etsuya",
+      "alt_names": [
+        "枝津也叡山",
+        "The Alchemist"
+      ],
+      "role": "supporting",
+      "description": "He is a 91st Toutsuki Generation student of Toutsuki Culinary Academy and the current 9th Seat of the Elite Ten Council. He is known as the Alquimista aka \"The Alchemist\".",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89210-OGY52lUYEO9X.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89210
+      }
+    },
+    {
+      "id": "akira-hayama",
+      "name": "Akira Hayama",
+      "alt_names": [
+        "葉山アキラ",
+        "Curry man"
+      ],
+      "role": "supporting",
+      "description": "An assistant of Professor Jun Shiomi, Akira comes from overseas; they met when he was an orphaned child and warned her about adultered spices in a market (presumably in India). Jun recognized the dormant talent in him and brought him back to Japan, where he was adopted by her teacher, Hayama. Akira quickly learned Japanese and studied spices and aroma under Shiomi. Jun became a mother figure for him, and his motivation to succeed at cooking stems from wanting to give something back to Jun. Akira specializes in curry dishes, with a wide knowledge of spices and aroma. He is a tall and handsome man with tanned skin and silver hair. Like Sōma, he aims to be at the top of the Elite Ten. His nose is very sharp when it comes to spices, capable of identifying ingredients and grade of cooking by the first smell, considered a worthy match of Erina's God's Tongue and being identified as an \"Aroma Master\". Although Jun and Akira are both experts in spices, she uses theoretical knowledge while he depends on his sense of smell. In contrast to Jun's naive, ditzy, easily angered and dependent persona, Akira is mature, reliable, street smart, cool and down-to-earth.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/122706-OBGbtM9Lwt00.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122706
+      }
+    },
+    {
+      "id": "hisako-arato",
+      "name": "Hisako Arato",
+      "alt_names": [
+        "新戸緋沙子",
+        "Hishoko"
+      ],
+      "role": "supporting",
+      "description": "Erina's secretary and close friend, Hisako specializes in medicinal-based dishes. She thinks of Erina as the best, that only she could be Erina's number two and nobody could ever get past her to Erina's level.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/122708-dzXA64gVD1dq.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122708
+      }
+    },
+    {
+      "id": "nao-sadatsuka",
+      "name": "Nao Sadatsuka",
+      "alt_names": [
+        "貞塚ナオ",
+        "Boiling Witch"
+      ],
+      "role": "supporting",
+      "description": "Nao Sadatsuka is a 92nd Tootsuki Generation student of Tootsuki Culinary Academy. Nao holds a deep harboring affection towards Erina Nakiri. Nao would do anything to get close to Erina including sending her 30 letters daily or watching her from afar using binoculars.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140802-Lm24UMnzjkuF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 140802
+      }
+    },
+    {
+      "id": "jun-shiomi",
+      "name": "Jun Shiomi",
+      "alt_names": [
+        "汐見潤"
+      ],
+      "role": "supporting",
+      "description": "Shiomi is a 74th Generation Toutsuki Academy Alumnus and a former resident of the Polar Star Dormitory. She is one of the lecturers in Tootsuki Culinary Academy as well as the professor of the Shiomi Seminar. Shiomi Jun is leagal guardian of Hayama Akira.\n\nJun is the youngest lecturer in the academy, but is actually older than she physically appears. Despite the fact that she in her 30s, she is shorter than both Souma and Megumi and has a noticeably youthful face, causing both Souma and Megumi to mistake her as a middle school student of the academy.",
+      "metadata": {
+        "gender": "female",
+        "age": "34",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144632-sKalGepwQMJn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144632
+      }
+    },
+    {
+      "id": "yaeko-minegasaki",
+      "name": "Yaeko Minegasaki",
+      "alt_names": [
+        "峰ヶ崎八重子"
+      ],
+      "role": "supporting",
+      "description": "Yaeko is an urban life planner and the first, albeit minor, antagonist of Shokugeki no Soma. She is a ruthless business woman who only cares about her job and she is willing to resort to dirty tactics to ensure that she has her way. Because of her job and callous behavior, she disregards many family-owned businesses, such as Restaurant Yukihira.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158237-1FcU1znlB9kp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158237
+      }
+    },
+    {
+      "id": "miyoko-houjou",
+      "name": "Miyoko Houjou",
+      "alt_names": [
+        "北条美代子"
+      ],
+      "role": "supporting",
+      "description": "A 92nd Totsuki Generation student. She is also the heiress to her family restaurant.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162355-yP5IxImiIt21.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162355
+      }
+    },
+    {
+      "id": "shouji-satou",
+      "name": "Shouji  Satou ",
+      "alt_names": [
+        "佐藤昭二",
+        "Shoji Sato"
+      ],
+      "role": "supporting",
+      "description": "Shōji Satō is a 92nd Tōtsuki Generation student and a resident of Polar Star Dormitory.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181780-6vAglImjdq0P.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181780
+      }
+    },
+    {
+      "id": "daigo-aoki",
+      "name": "Daigo  Aoki ",
+      "alt_names": [
+        "青木大吾"
+      ],
+      "role": "supporting",
+      "description": "Daigo Aoki is a 92nd Tōtsuki Generation student and a resident of Polar Star Dormitory.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181782-cjLOY8b534R5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181782
+      }
+    },
+    {
+      "id": "aki-koganei",
+      "name": "Aki Koganei",
+      "alt_names": [
+        "小金井亞紀"
+      ],
+      "role": "supporting",
+      "description": "Aki Koganei is a high school student and a close friend of Mayumi Kurase.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b198857-7tx3vYSnZaqF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 198857
+      }
+    },
+    {
+      "id": "kinu-nakamozu",
+      "name": "Kinu Nakamozu",
+      "alt_names": [
+        "中百舌鳥きぬ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b198858-66oQKj9Ljnma.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 198858
+      }
+    },
+    {
+      "id": "tokuzou",
+      "name": "Tokuzou",
+      "alt_names": [
+        "徳蔵"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b198859-7OE9NtWLaGsy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 198859
+      }
+    },
+    {
+      "id": "kanichi-konishi",
+      "name": "Kanichi Konishi",
+      "alt_names": [
+        "小西寛一",
+        "The Don"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203140-iAhzKeGKOzLG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 203140
+      }
+    },
+    {
+      "id": "urara-kawashima",
+      "name": "Urara Kawashima",
+      "alt_names": [
+        "川島麗"
+      ],
+      "role": "supporting",
+      "description": "Urara is a 92nd Toutsuki Generation student and a popular idol at Toutsuki Culinary Academy. She is often an emcee for many of the academy's grand events.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219135-ynVz5fKyM1Rp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 219135
+      }
+    },
+    {
+      "id": "osaji-kita",
+      "name": "Osaji Kita",
+      "alt_names": [
+        "喜田修治"
+      ],
+      "role": "supporting",
+      "description": "He was one of the 5 guest judges of Block \"B\" for the 43rd Annual Tōtsuki Autumn Election. A renowned entrepreneur and a founder of his own Gastronomy Club, Osaji's reputation in both his wealth and influence has made him a celebrity in the cooking industry.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219632-DYSMF9WA9Vsp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 219632
+      }
+    },
+    {
+      "id": "natsume-sendawara",
+      "name": "Natsume Sendawara",
+      "alt_names": [
+        "千俵なつめ"
+      ],
+      "role": "supporting",
+      "description": "Natsume Sendawara is one of the heads of the Haubi Food Corporation along with her twin sister, Orie Sendawara, and one of the five judges of Block A in the 43rd Annual Tōtsuki Autumn Election Preliminaries",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219633-n97A2jdScBd8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 219633
+      }
+    },
+    {
+      "id": "orie-sendawara",
+      "name": "Orie Sendawara",
+      "alt_names": [
+        "千俵 おりえ"
+      ],
+      "role": "supporting",
+      "description": "Orie Sendawara is one of the heads of the Haubi Food Cooperation along with her twin sister, Natsume Sendawara, and was one of the five judges of the B Block in the 43rd Annual Tōtsuki Autumn Election.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219634-LrXURMS2Vodz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 219634
+      }
+    },
+    {
+      "id": "yua-sasaki",
+      "name": "Yua Sasaki",
+      "alt_names": [
+        "佐々木由愛"
+      ],
+      "role": "supporting",
+      "description": "A 92nd Tōtsuki Generation student. Like her fellow schoolmate, Urara Kawashima, she is also an MC for hosting important events occurring around and within Tōtsuki Culinary Academy.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219665-FxUKPpDMIKF3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 219665
+      }
+    },
+    {
+      "id": "mayumi-kurase",
+      "name": "Mayumi Kurase",
+      "alt_names": [
+        "倉瀬真由美"
+      ],
+      "role": "supporting",
+      "description": "Mayumi Kurase is Sōma Yukihira's close friend and one of his former classmates from kindergarten to middle school.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219696-SZiw9EYu3LHv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 219696
+      }
+    },
+    {
+      "id": "yuuya-tomita",
+      "name": "Yuuya Tomita",
+      "alt_names": [
+        "富田友哉"
+      ],
+      "role": "supporting",
+      "description": "Yūya Tomita is the chairman of the Sumiredōri Shopping District and the 2nd generation owner of Tomitaya.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219697-W5NYFbtENISe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 219697
+      }
+    },
+    {
+      "id": "shigeno-kuraki",
+      "name": "Shigeno Kuraki",
+      "alt_names": [
+        "蔵木 滋乃"
+      ],
+      "role": "supporting",
+      "description": "Shigeno Kuraki is one of the three judges who appeared in Sōma Yukihira's Shokugeki against Ikumi Mito and she is also the president of the traditional Japanese restaurant called Kuraki.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b219951-grDhVOhkTUs2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 219951
+      }
+    },
+    {
+      "id": "tadokoro-no-haha",
+      "name": "Tadokoro no Haha",
+      "alt_names": [
+        "田所の母",
+        "Tadokoro's Mother"
+      ],
+      "role": "supporting",
+      "description": "The mother of [Tadokoro Megumi](https://anilist.co/character/76026/Megumi-Tadokoro).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220280-uG2CR1mJaUN0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220280
+      }
+    },
+    {
+      "id": "shigenoshin-kouda",
+      "name": "Shigenoshin Kouda",
+      "alt_names": [
+        "香田茂之進"
+      ],
+      "role": "supporting",
+      "description": "Shigenoshin Kouda is a gourmet critique and one of the five judges of Block A in the 43rd Annual Tōtsuki Autumn Election.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220281-4XaNL2QEpwCB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220281
+      }
+    },
+    {
+      "id": "madoka-enomoto",
+      "name": "Madoka Enomoto",
+      "alt_names": [
+        "榎本円"
+      ],
+      "role": "supporting",
+      "description": "Madoka Enomoto is a 92nd Tōtsuki Generation student and a member of the Miyazato Seminar. She adores [Marui](https://anilist.co/character/88721/Zenji-Marui).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220282-fFNVXNDbaBGW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220282
+      }
+    },
+    {
+      "id": "tokihiko-sakuma",
+      "name": "Tokihiko Sakuma",
+      "alt_names": [
+        "佐久間時彦"
+      ],
+      "role": "supporting",
+      "description": "Tokihiko Sakuma is the Maître d'hôtel of the Tōtsuki Resort and one of the judges during the Egg Breakfast Buffet Challenge at the Tōtsuki Friendship and Rapport Training Camp.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220283-fneuU7yOM73Z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220283
+      }
+    },
+    {
+      "id": "yoshiaki-nikaidou",
+      "name": "Yoshiaki Nikaidou",
+      "alt_names": [
+        "二楷堂佳明"
+      ],
+      "role": "supporting",
+      "description": "Yoshiaki Nikaidō is one of the students who attempted to enter Tōtsuki Culinary Academy alongside Sōma Yukihira. His family owns an unnamed French restaurant.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220284-aE7xfAssOfrn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220284
+      }
+    },
+    {
+      "id": "hiromi-sena",
+      "name": "Hiromi Sena",
+      "alt_names": [
+        "瀬名博巳"
+      ],
+      "role": "supporting",
+      "description": "Hiromi Sena is the Vice Chef De Cuisine, Sous Chef to Gin Dōjima at Tōtsuki Resort, and a minor character of the series.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220285-oOjXWp3Qzpli.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220285
+      }
+    },
+    {
+      "id": "takao-miyazato",
+      "name": "Takao Miyazato",
+      "alt_names": [
+        "宮里隆夫"
+      ],
+      "role": "supporting",
+      "description": "Takao Miyazato is one of the lecturers in Tōtsuki Culinary Academy as well as the professor of the Miyazato Seminar. He is among the few who recognizes Zenji Marui's true talent behind his frail endurance.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220286-JRHPRFnmyjLh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220286
+      }
+    },
+    {
+      "id": "makito-minatozaka",
+      "name": "Makito Minatozaka",
+      "alt_names": [
+        "港坂巻人"
+      ],
+      "role": "supporting",
+      "description": "Makito Minatozaka is an exclusive producer of a popular television program called Is That A Kitchen?. He is also one of the five judges in Block A in the 43rd Annual Tōtsuki Autumn Election",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220287-HvtogyccyCd8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220287
+      }
+    },
+    {
+      "id": "takumi-ishiwatari",
+      "name": "Takumi Ishiwatari",
+      "alt_names": [
+        "石渡拓己"
+      ],
+      "role": "supporting",
+      "description": "Takumi Ishiwatari is a 92nd Tōtsuki Generation student.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220288-EwqtSUuSTg0f.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220288
+      }
+    },
+    {
+      "id": "yoshiki-bitou",
+      "name": "Yoshiki Bitou",
+      "alt_names": [
+        "尾藤良樹"
+      ],
+      "role": "supporting",
+      "description": "Yoshiki Bitou is a Japanese black beef critic and one of the three judges involved in Sōma Yukihira's Shokugeki against Ikumi Mito.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220289-cQbYMybecsmq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220289
+      }
+    },
+    {
+      "id": "katsunori-okamoto",
+      "name": "Katsunori Okamoto",
+      "alt_names": [
+        "岡本克典"
+      ],
+      "role": "supporting",
+      "description": "Katsunori Okamoto is the television producer of First-Class Gluttons, and one of the three judges involved in Sōma Yukihira's Shokugeki against Ikumi Mito.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220290-GwEKXNwLVjEJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220290
+      }
+    },
+    {
+      "id": "kyuusaku",
+      "name": "Kyuusaku",
+      "alt_names": [
+        "久作",
+        "Kyusaku"
+      ],
+      "role": "supporting",
+      "description": "Kyūsaku is the owner of Natural Cheese's Kyūsaku, a partner of the Tōtsuki Culinary Academy Manufacturer Division, and a food supplier to Tōtsuki Resort.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b221491-Bml2TiFAX9IU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 221491
+      }
+    },
+    {
+      "id": "akari-miyano",
+      "name": "Akari Miyano",
+      "alt_names": [
+        "宮野 朱里"
+      ],
+      "role": "supporting",
+      "description": "Akari Miyano was a guest at the Tōtsuki Resort and participated as a judge for the breakfast buffet task for the 92nd Tōtsuki Generation's Tōtsuki Friendship and Rapport Training Camp.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b221492-wO0Sf4NoAElW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 221492
+      }
+    },
+    {
+      "id": "kousuke",
+      "name": "Kousuke",
+      "alt_names": [
+        "耕助",
+        "Kosuke"
+      ],
+      "role": "supporting",
+      "description": "Kōsuke is the owner of Green Bean's Kōsuke, a partner of the Tōtsuki Culinary Academy Manufacturer Division, and a food supplier to Tōtsuki Resort.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b221493-yZaYHHAeKBrh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 221493
+      }
+    },
+    {
+      "id": "mcfly",
+      "name": "McFly",
+      "alt_names": [
+        "マク・フライ",
+        "McFlee"
+      ],
+      "role": "minor",
+      "description": "McFly is a doctor and one of Jōichirō Yukihira's customers abroad.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b221494-WME4LnVPSggw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 221494
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:38:13.159Z"
+  "updated_at": "2025-12-23T01:51:11.959Z"
 }

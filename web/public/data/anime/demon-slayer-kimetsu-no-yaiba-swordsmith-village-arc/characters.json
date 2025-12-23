@@ -1,6 +1,6 @@
 {
   "work_id": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc",
-  "count": 25,
+  "count": 56,
   "characters": [
     {
       "id": "tanjirou-kamado",
@@ -631,7 +631,750 @@
       "external_ids": {
         "anilist": 260323
       }
+    },
+    {
+      "id": "gyokko",
+      "name": "Gyokko",
+      "alt_names": [
+        "玉壺",
+        "Upper Moon Five",
+        "Managi"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 150 cm (4'11\") (Normal), 170 cm (5'7\") (Molted)\n\nGyokko is a major supporting antagonist in the Swordsmith Village Arc of Demon Slayer: Kimetsu no Yaiba. He is also a member of the Twelve Kizuki, holding the position of Upper Rank 5.",
+      "metadata": {
+        "gender": "male",
+        "age": "113+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205590-mNWuXG5oPw4g.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205590
+      }
+    },
+    {
+      "id": "kozo-kanamori",
+      "name": "Kozo Kanamori",
+      "alt_names": [
+        "鉄穴森鋼蔵"
+      ],
+      "role": "supporting",
+      "description": "Kozo Kanamori is a swordsmith affiliated with the Demon Slayer Corps.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206331-ss70JxaeUkeU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 206331
+      }
+    },
+    {
+      "id": "gotou",
+      "name": "Gotou",
+      "alt_names": [
+        "後藤"
+      ],
+      "role": "supporting",
+      "description": "Goto is a member of the Kakushi, the clean-up brigade of the Demon Slayers. He is the one who found a near-dead Tanjiro, Inosuke, and Zenitsu in the aftermath of the Entertainment District Arc. He possesses deep respect for the three because of their capability and bravery.\n\nAt one point in his life, he was found worthy of being a Demon Slayer, but for unknown reasons, he decided to become one of the Kakushi.",
+      "metadata": {
+        "gender": "male",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207949-ZteimhlyO7EX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207949
+      }
+    },
+    {
+      "id": "amane-ubuyashiki",
+      "name": "Amane Ubuyashiki",
+      "alt_names": [
+        "産屋敷あまね",
+        "Amane Himorogi"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 167cm (5'6\")\n\nShe is the wife and caretaker of [Kagaya Ubuyashiki](https://anilist.co/character/137808/Kagaya-Ubuyashiki) and the mother of Hinaki Ubuyashiki, Nichika Ubuyashiki, Kiriya Ubuyashiki, Kanata Ubuyashiki and Kuina Ubuyashiki. Her maiden name is Amane Himorogi.",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b221375-cMlefDNTlcD6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 221375
+      }
+    },
+    {
+      "id": "tecchin-tecchikawahara",
+      "name": "Tecchin Tecchikawahara",
+      "alt_names": [
+        "鉄地河原鉄珍",
+        "てっちかわはらてっちん",
+        "Tecchin Tecchi Kawahara"
+      ],
+      "role": "supporting",
+      "description": "Chief of the Swordsmith Village.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b299978-KMYqUZV1ejla.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 299978
+      }
+    },
+    {
+      "id": "sumiyoshi",
+      "name": "Sumiyoshi",
+      "alt_names": [
+        "炭吉"
+      ],
+      "role": "supporting",
+      "description": "Ancestor of the Kamado family and close acquaintance of [Yoriichi Tsugikuni](https://anilist.co/character/149220).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302101-hLusXT4jNZyd.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302101
+      }
+    },
+    {
+      "id": "ginko",
+      "name": "Ginko",
+      "alt_names": [
+        "銀子",
+        "ぎんこ",
+        "Kasugai Garasu (鎹鴉)",
+        "Muichirou's Kasugai Crow"
+      ],
+      "role": "supporting",
+      "description": "Kasugai Crow assigned to [Muichirou Tokitou](https://anilist.co/character/136069). Does not get along well with [Tanjirou](https://anilist.co/character/126071) and his crow or the other crows in general. She is very proud of Muichirou.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304323-WNANJ9ULlZtQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304323
+      }
+    },
+    {
+      "id": "shizu-shinazugawa",
+      "name": "Shizu Shinazugawa",
+      "alt_names": [
+        "不死川志津",
+        "しなずがわしづ"
+      ],
+      "role": "supporting",
+      "description": "Mother to the 7 Shinazugawa children, including Sanemi and Genya.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305514-fcIEvvOxcrx7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305514
+      }
+    },
+    {
+      "id": "tokitou-no-chichi",
+      "name": "Tokitou no Chichi",
+      "alt_names": [
+        "時透の父",
+        "Tokitou's Father"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306030-cm4kWNRtR2pc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306030
+      }
+    },
+    {
+      "id": "yushirou",
+      "name": "Yushirou",
+      "alt_names": [
+        "愈史郎",
+        "Yushiro"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 157 cm (5'2\")\n\nYushiro is a traveling companion of Tamayo and close ally of Kamado Tanjirou. He was turned into a Demon by Tamayo. Yushiro was a human who was under the care of Tamayo as she was practicing as a medical practitioner. He was in the frail state fighting disease when Tamayo gave him the choice of succumbing to his illness or to live longer as a Demon. He agreed to become a Demon and has since stayed by Tamayo's side serving as an assistant as well as her guard.\n~!Yushiro would become the last known survivor of the Demon race. In time he would dedicate himself to a life of art and become a world famous painter in the present day under the name of Yushiro Yamamoto, known for his paintings of Tamayo to wide critical acclaim!~",
+      "metadata": {
+        "gender": "male",
+        "age": ">35",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138846-i8frJEl8baly.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138846
+      }
+    },
+    {
+      "id": "tamayo",
+      "name": "Tamayo",
+      "alt_names": [
+        "珠世"
+      ],
+      "role": "supporting",
+      "description": "__Age:__ >500 ~!__Physical Age:__ 19!~\n__Height:__ 150 cm (4'11\")\n\nTamayo is a doctor and close ally of Kamado Tanjirou. She was turned into a Demon by Kibutsuji Muzan.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138847-rOwIPLKaR5Ux.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138847
+      }
+    },
+    {
+      "id": "kiriya-ubuyashiki",
+      "name": "Kiriya Ubuyashiki",
+      "alt_names": [
+        "産屋敷輝利哉"
+      ],
+      "role": "supporting",
+      "description": "~!Kiriya Ubuyashiki is the son and middle child of Kagaya Ubuyashiki.\nHe is the current head of the Ubuyashiki Household and leader of the Demon Slaying Corps!~",
+      "metadata": {
+        "gender": "male",
+        "age": "8",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139460-jA7lAHb17aLL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139460
+      }
+    },
+    {
+      "id": "kanata-ubuyashiki",
+      "name": "Kanata Ubuyashiki",
+      "alt_names": [
+        "産屋敷かなた"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b153220-QH10oCcepSdz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 153220
+      }
+    },
+    {
+      "id": "nichika-ubuyashiki",
+      "name": "Nichika Ubuyashiki",
+      "alt_names": [
+        "産屋敷 にちか"
+      ],
+      "role": "supporting",
+      "description": "Nichika Ubuyashiki is one of the older daughters of Kagaya Ubuyashiki.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b167548-2bPBlCKBiIBY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 167548
+      }
+    },
+    {
+      "id": "hinaki-ubuyashiki",
+      "name": "Hinaki Ubuyashiki",
+      "alt_names": [
+        "産屋敷 ひなき"
+      ],
+      "role": "supporting",
+      "description": "Hinaki Ubuyashiki is one of the older daughters of Kagaya Ubuyashiki.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b167549-1fG4eh5KkmZg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 167549
+      }
+    },
+    {
+      "id": "yuuichirou-tokitou",
+      "name": "Yuuichirou Tokitou",
+      "alt_names": [
+        "時透有一郎"
+      ],
+      "role": "supporting",
+      "description": "Older twin brother of [Muichirou.](https://anilist.co/character/136069/Muichirou-Tokitou) He had a cold and harsh personality, speaking critically of his dead parents and brother. \n\n~!He is killed when a demon attacks him and Muichiro, and his last words were encouragement toward Muichiro to live on.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "11",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b269650-aHhxtgSTpIEM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 269650
+      }
+    },
+    {
+      "id": "tokitou-no-haha",
+      "name": "Tokitou no Haha",
+      "alt_names": [
+        "時透の母",
+        "Tokitou's Mother"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306575-kcqntQSVosRc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306575
+      }
+    },
+    {
+      "id": "tetsuido",
+      "name": "Tetsuido",
+      "alt_names": [
+        "鉄井戸"
+      ],
+      "role": "supporting",
+      "description": "A swordsmith affiliated with the Demon Slayer Corps. He was responsible for Muichirou Tokitou's swords until he died from a heart attack.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306576-4J8nCrnp84dn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306576
+      }
+    },
+    {
+      "id": "kanroji-no-chichi",
+      "name": "Kanroji no Chichi",
+      "alt_names": [
+        "甘露寺の父",
+        "Kanroji's Father"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b307747-rDxCB4Sp4kRZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 307747
+      }
+    },
+    {
+      "id": "kanroji-no-haha",
+      "name": "Kanroji no Haha",
+      "alt_names": [
+        "甘露寺の母",
+        "Kanroji's Mother"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b307748-QFjiNqdyuO9B.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 307748
+      }
+    },
+    {
+      "id": "tengen-uzui",
+      "name": "Tengen Uzui",
+      "alt_names": [
+        "宇髄天元",
+        "Sound Hashira",
+        "Sound Pillar"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 198 cm (6'6\")\n__Combat Style:__ Sound Breathing\n\nA Demon Slayer, and the Sound Pillar of the Demon Slayer Corps.\n\nTengen is a very eccentric person, always wanting to complete actions as flashy as possible. Although he has displayed an uncaring and forceful attitude towards some people, he also has a caring side that is mainly only shown towards his most treasured ones, most notably his three wives, Makio, Suma, and Hinatsuru. He also shows a somewhat nicer side towards Tanjiro after their mission and starts to accept him more as the series goes on.\n\nTengen is a very tall, wide-set man of a bulky, muscular build with lightly-tanned skin. His hair is white and of uneven length, the longest strands reaching his shoulders, and is styled with three more notable, shorter clumps arching up to fall as bangs between his eyes and on either side of his face. Tengen is most often seen wearing a sleeveless and dark turquoise version of the standard Demon Slayer uniform. He also wears two thick, golden rings around his upper arms.",
+      "metadata": {
+        "gender": "male",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136071-99Kexnnn2PiV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136071
+      }
+    },
+    {
+      "id": "urara",
+      "name": "Urara",
+      "alt_names": [
+        "麗",
+        "うらら",
+        "Kasugai Garasu (鎹鴉)",
+        "Mitsuri's Kasugai Crow"
+      ],
+      "role": "minor",
+      "description": "Kasugai Crow assigned to [Mitsuri Kanroji](https://anilist.co/character/136072). Wears a clover-shaped crown similar to Mitsuri's Nichirin Sword tsuba. Often appears to be nervous and fidgety, and is rumored to have a sweet tooth as a result of how often she has tea time with Mitsuri.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304324-qUSdSQQ6p1xj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304324
+      }
+    },
+    {
+      "id": "suyako",
+      "name": "Suyako",
+      "alt_names": [
+        "珠彌子"
+      ],
+      "role": "minor",
+      "description": "Wife of [Sumiyoshi](https://anilist.co/character/302101) and ancestor of the Kamado family.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304940-GVtiulZQtLgo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304940
+      }
+    },
+    {
+      "id": "sumi-shinazugawa",
+      "name": "Sumi Shinazugawa",
+      "alt_names": [
+        "不死川寿美"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305515-yZrQOBmaZaeH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305515
+      }
+    },
+    {
+      "id": "shuya-shinazugawa",
+      "name": "Shuya Shinazugawa",
+      "alt_names": [
+        "不死川就也"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305516-J6Ao5Qwv1dW0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305516
+      }
+    },
+    {
+      "id": "hiroshi-shinazugawa",
+      "name": "Hiroshi Shinazugawa",
+      "alt_names": [
+        "不死川弘",
+        "ひろし"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305517-zGRqWJyhkU3h.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305517
+      }
+    },
+    {
+      "id": "koto-shinazugawa",
+      "name": "Koto Shinazugawa",
+      "alt_names": [
+        "不死川こと"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305518-tijAkr429yiW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305518
+      }
+    },
+    {
+      "id": "teiko-shinazugawa",
+      "name": "Teiko Shinazugawa",
+      "alt_names": [
+        "不死川貞子",
+        "ていこ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305519-Bc6QOJI9Sm7A.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305519
+      }
+    },
+    {
+      "id": "kyoujurou-rengoku",
+      "name": "Kyoujurou Rengoku",
+      "alt_names": [
+        "煉獄杏寿郎",
+        "Flame Hashira",
+        "Flame Pillar",
+        "Ildsøylen",
+        "Googly Eyes"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 177 cm (5'10\")\n__Combat Style:__ Flame Breathing\n\nHe is greatly enthusiastic in regard to his duties as Flame Pillar and often cheerfully eccentric. He is amiable, kind and boasts extraordinary flame techniques and swordsmanship stemming from strict practice and discipline. He is an honourable warrior who adheres to his code of morals and principles that was instilled into him by his mother at a young age - the most significant being that those who were born strong have a duty to protect the weak.\n\n~!Rengoku is killed by Akaza during the Infinity Train incident!~",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129133
+      }
+    },
+    {
+      "id": "chachamaru",
+      "name": "Chachamaru",
+      "alt_names": [
+        "茶々丸"
+      ],
+      "role": "minor",
+      "description": "Chachamaru is a feline familiar that assists in Tamayo's medical research with Demon blood.\n\n~!Chachamaru is seen during the battle with Muzan, after the Infinity Castle collapses. The cat jumps above the remaining Hashira in order to administer an antidote to stave off the poisonous effects of Muzan's attacks. As a result, it is sliced in half by the demon. However, it was later reassembled by Yushirou.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268212-cdX6j5xYomyU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268212
+      }
+    },
+    {
+      "id": "kyougo-shinazugawa",
+      "name": "Kyougo Shinazugawa",
+      "alt_names": [
+        "不死川恭梧"
+      ],
+      "role": "minor",
+      "description": "Father of of the Shinazugawa family and husband to Shizu.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b310541-KlsievxtMYsn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 310541
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:18:05.342Z"
+  "updated_at": "2025-12-23T01:18:59.082Z"
 }

@@ -1,6 +1,6 @@
 {
   "work_id": "blue-period",
-  "count": 25,
+  "count": 29,
   "characters": [
     {
       "id": "yatora-yaguchi",
@@ -572,7 +572,98 @@
       "external_ids": {
         "anilist": 243322
       }
+    },
+    {
+      "id": "hanako-sakuraba",
+      "name": "Hanako Sakuraba",
+      "alt_names": [
+        "桜庭華子"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244918-i2Y74epFcR03.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244918
+      }
+    },
+    {
+      "id": "inukai",
+      "name": "Inukai",
+      "alt_names": [
+        "犬飼"
+      ],
+      "role": "supporting",
+      "description": "Geidai professor and vice-principal. In charge of the 2nd year Oil Painting majors.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b277771-SAgJzwIknvdu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 277771
+      }
+    },
+    {
+      "id": "fuji-kirio",
+      "name": "Fuji Kirio",
+      "alt_names": [
+        "不二桐緒"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b298766-jmiKjNVifSmV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 298766
+      }
+    },
+    {
+      "id": "johan",
+      "name": "Johan",
+      "alt_names": [
+        "Yagami"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282252-WslsiIArO99G.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282252
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:38:15.990Z"
+  "updated_at": "2025-12-23T06:54:53.528Z"
 }

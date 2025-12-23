@@ -1,6 +1,6 @@
 {
   "work_id": "gurren-lagann",
-  "count": 25,
+  "count": 38,
   "characters": [
     {
       "id": "simon",
@@ -576,7 +576,320 @@
       "external_ids": {
         "anilist": 18639
       }
+    },
+    {
+      "id": "gabal-docker",
+      "name": "Gabal Docker",
+      "alt_names": [
+        "ガバル・ドッカー"
+      ],
+      "role": "supporting",
+      "description": "Gabal Docker is Team Dai-Gurren&#039;s helmsman, in charge of Dai-Gurren&#039;s steering and maneuvering.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/18640.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18640
+      }
+    },
+    {
+      "id": "kid-coega",
+      "name": "Kid Coega",
+      "alt_names": [
+        "キッド・コイーガ"
+      ],
+      "role": "supporting",
+      "description": "Personal Gunmen: Kidd Knuckle    Kid Coega is another new member of Team Dai-Gurren. His Gunmen utilizes two pistols to attack enemies, the Kid Knuckle. Kid is killed during the first deep space battle versus the Anti-Spirals, when he and Iraak attempt to avenge Zorthy&#039;s death.    Kid&#039;s post-timeskip design bears a striking resemblance to Lupin III.    from wikipedia",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/18641.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18641
+      }
+    },
+    {
+      "id": "iraak-coega",
+      "name": "Iraak Coega",
+      "alt_names": [
+        "アイラック・コイーガ",
+        "Ailac"
+      ],
+      "role": "supporting",
+      "description": "Personal Gunmen: Ainzer    Iraak Coega is a member of Team Dai-Gurren. He pilots a Gunmen that serves Yoko as a mobile rifle platform. Together, they assaulted Dai-Gunzan with the rest of the Team Gurren. The name of his Gunmen is Ainzer.    from wikipedia",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/18642.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18642
+      }
+    },
+    {
+      "id": "tetsukan-littner",
+      "name": "Tetsukan Littner",
+      "alt_names": [
+        "テツカン・リットナー"
+      ],
+      "role": "supporting",
+      "description": "Tetsukan Littner is a member of the control team for Dai-Gurren. He is in charge of monitoring the condition of the ship. After the timeskip, he becomes a part of Leeron&#039;s science team. Also due to being attracted to the fast-food restaurants that were built in the new city he became obese. In the &quot;alternate universe&quot; scenes in Episode 26, Tetsukan is seen sleeping in a bed with Cybela, implying that the two are involved in a relationship, or that one (or both) of them desire to be. In the epilogue, he is seen working under Viral&#039;s command alongside Cybela.    (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/18643.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18643
+      }
+    },
+    {
+      "id": "dayakka-littner",
+      "name": "Dayakka Littner",
+      "alt_names": [
+        "ダヤッカ・リットナー"
+      ],
+      "role": "supporting",
+      "description": "Dayakka Littner is the former leader of Littner Village, abandoning his post, when most of Littner joined Team Dai-Gurren. His Gunmen is the Dayakkaiser, but after the seizure of Dai-Gunzan, he acted as the captain of Dai-Gurren during battles, while Kiyoh piloted the Dayakkaiser in his stead. ~!After the timeskip, we discover that Dayakka is appointed the Minister of Food Affairs for Kamina City, and he and Kiyoh have married and expecting a child. With the threat of the Anti-Spirals, Dayakka resigns his post and returns to his duties in Team Dai-Gurren.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b18644-BCb3J5spW3hq.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18644
+      }
+    },
+    {
+      "id": "jorgun-bakusa",
+      "name": "Jorgun Bakusa",
+      "alt_names": [
+        "ジョーガン・バクサ"
+      ],
+      "role": "supporting",
+      "description": "Personal Gunmen: Twin Boukun    Jorgun Bakusa and Balinbow Bakusa are the towering, twin brothers of Team Dai-Gurren, piloting the two-faced Gunmen, Twin Boukun. The two are always hyped and normally speak in manly grunts and monosyllabic phrases. They sport differently coloured sunglasses, which can be used to tell one brother from the other -- Jorgun wears red shades, while Balinbow sports blue ones. After the timeskip, the two were appointed Directors of the Public Affairs Department, in which they were responsible for the human population count.    from wikipedia",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/18645.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18645
+      }
+    },
+    {
+      "id": "balinbow-bakusa",
+      "name": "Balinbow Bakusa",
+      "alt_names": [
+        "バリンボー・バクサ"
+      ],
+      "role": "supporting",
+      "description": "Personal Gunmen: Twin Boukun  Jorgun Bakusa and Balinbow Bakusa are the towering, twin brothers of Team Dai-Gurren, piloting the two-faced Gunmen, Twin Boukun. The two are always hyped and normally speak in manly grunts and monosyllabic phrases. They sport differently coloured sunglasses, which can be used to tell one brother from the other—Jorgun wears red shades, while Balinbow sports blue ones. After the timeskip, the two were appointed Directors of the Public Affairs Department, in which they were responsible for the human population count.  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/18646.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18646
+      }
+    },
+    {
+      "id": "makken-jokin",
+      "name": "Makken Jokin",
+      "alt_names": [
+        "マッケン・ジョーキン"
+      ],
+      "role": "supporting",
+      "description": "Personal Gunmen: Moshogun    Makken is a fairly silent man who is an important part of Team Dai-Gurren, but has rarely spoken or gotten much screen time whatsoever. He has his own Gunmen, Moshogun, which is based on an ancient samurai.    After the timeskip, Makken is married to Leite with three children.      ~!Sadly, he is killed in the first deep space battle versus the Anti-Spirals, after sacrificing himself to stop a large Anti-Spiral missile from destroying the Super Galaxy Dai-Gurren.    In the epilogue, a memorial site, in the form of a sword, is seen in his honor right alongside Kamina and the other members of Team Dai-Gurren.!~    Makken has the same voice actor as Kamina, though he is credited as &quot;Leo Kaminaga.&quot; Leo Kaminaga, when written in hiragana, is an anagram for &quot;ore ga Kamina,&quot; or &quot;I am Kamina.&quot;    - Wikipedia",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/18647.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18647
+      }
+    },
+    {
+      "id": "cybela-kuto",
+      "name": "Cybela Kuto",
+      "alt_names": [
+        "シベラ・クトー"
+      ],
+      "role": "supporting",
+      "description": "Cybela Kuto is mainly seen at a computer, where she can communicate with Grapearls or do analyzation tasks. Later, she joins Team Dai-Gurren, assuming a position at Super Galaxy Dai-Gurren&#039;s bridge. In the epilogue, she is seen still working there, now under Viral&#039;s command. Her name is an anagram of &quot;shirabe&quot;, which means &quot;to search&quot;.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/18678.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18678
+      }
+    },
+    {
+      "id": "guinble-kaito",
+      "name": "Guinble Kaito",
+      "alt_names": [
+        "ギンブレー・カイト"
+      ],
+      "role": "supporting",
+      "description": "Guinble Kaito, along with Kinon, seems to be one of the more important members of Rossiu&#039;s intelligence team. He and Kinon often accompany Rossiu, and stayed with him on Earth to watch out for the city while the rest of Team Dai-Gurren headed into space for their final battle against the Anti-Spirals.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/18679.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18679
+      }
+    },
+    {
+      "id": "anne-littner",
+      "name": "Anne Littner",
+      "alt_names": [
+        "アン・リットナー"
+      ],
+      "role": "supporting",
+      "description": "~!After the timeskip, we discover that Kiyoh and Dayakka have married, and Kiyoh gives birth to a daughter, whom she names Anne. Anne happens to be the newborn that makes the human population reach one million, and as soon as she is born, the Human Extermination System begins.!~    Source: Wikipedia",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/26914.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 26914
+      }
+    },
+    {
+      "id": "memu",
+      "name": "Memu",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Viral&#039;s fantasy daughter.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/31075.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31075
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "supporting",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
     }
   ],
-  "updated_at": "2025-12-22T17:55:42.645Z"
+  "updated_at": "2025-12-23T02:01:22.505Z"
 }

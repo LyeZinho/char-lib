@@ -1,6 +1,6 @@
 {
   "work_id": "fire-force",
-  "count": 25,
+  "count": 55,
   "characters": [
     {
       "id": "shinra-kusakabe",
@@ -614,7 +614,699 @@
       "external_ids": {
         "anilist": 150322
       }
+    },
+    {
+      "id": "dr-giovanni",
+      "name": "Dr. Giovanni",
+      "alt_names": [
+        "Dr.ジョヴァンニ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150692-XKOWyAHPVmjw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 150692
+      }
+    },
+    {
+      "id": "arrow",
+      "name": "Arrow",
+      "alt_names": [
+        "アロー",
+        "Sniper (狙撃手)"
+      ],
+      "role": "supporting",
+      "description": "Arrow is the Primary Vice-Commander of the Knights of the Ashen Flame and serves as the Third Pillar's bodyguard.",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b154079-GpsGmipLzbB2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 154079
+      }
+    },
+    {
+      "id": "yona",
+      "name": "Yona",
+      "alt_names": [
+        "ヨナ"
+      ],
+      "role": "supporting",
+      "description": "Yona is a member of the Knights of the Ashen Flame's Commando Unit.\n\nHe is a Third Generation, giving him the ability to ignite and manipulate flames from his palms and fingers. He can use his Ignition Ability to change the appearance of people's faces. He executes this process by using heat to control the blood flow in people's faces, and makes the capillaries and lymph nodes expand, and then uses localized edema to change the shape of people's faces, something he commonly calls art. He is also able to change his own appearance with ease. Using this same process, he can increase the temperature of someone's blood until they explode. Due to his age, it is speculated Yona is a non-human entity like the Preacher who does not age.\n\n(Source: Fire Force Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b160042-8Dahoi8tVy5H.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 160042
+      }
+    },
+    {
+      "id": "haumea",
+      "name": "Haumea",
+      "alt_names": [
+        "ハウメア"
+      ],
+      "role": "supporting",
+      "description": "Haumea is a Third Generation pyrokinetic and a member of the White-Clad. She possesses the Adolla Burst and is known as the Second Pillar.\n\n(Source: Fire Force Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b160044-Vef7Nz9J4OX9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 160044
+      }
+    },
+    {
+      "id": "assault",
+      "name": "Assault",
+      "alt_names": [
+        "アサルト"
+      ],
+      "role": "supporting",
+      "description": "Assault has dark skin and light spiky hair, three piercing in each of his ears, and two piercings in-place of his absent eyebrows. Being a White Hood, he wears a variation of his organisation's uniform, which consists of white clothing and the cross of the Sol God symbol across his chest.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161515-TrcGb7DuXhpM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161515
+      }
+    },
+    {
+      "id": "onyango",
+      "name": "Onyango",
+      "alt_names": [
+        "オニャンゴ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171892-3mvcgGC4t8Mr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171892
+      }
+    },
+    {
+      "id": "gustav-honda",
+      "name": "Gustav Honda",
+      "alt_names": [
+        "グスタフ本田"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171893-8pnS14My6LAB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171893
+      }
+    },
+    {
+      "id": "souichirou-hague",
+      "name": "Souichirou Hague",
+      "alt_names": [
+        "蒼一郎・アーグ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171894-9PwCxAGwDECK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171894
+      }
+    },
+    {
+      "id": "asako-hague",
+      "name": "Asako Hague",
+      "alt_names": [
+        "アサコ・アーグ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171895-IuNBuJIm2enN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171895
+      }
+    },
+    {
+      "id": "kayoko-huang",
+      "name": "Kayoko Huang",
+      "alt_names": [
+        "火代子黄"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "age": "47",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171896-RfjRAQWWxyQP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171896
+      }
+    },
+    {
+      "id": "flail",
+      "name": "Flail",
+      "alt_names": [
+        "フレイル"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171897-9RVoy4SRhTKh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171897
+      }
+    },
+    {
+      "id": "charon",
+      "name": "Charon",
+      "alt_names": [
+        "カロン"
+      ],
+      "role": "supporting",
+      "description": "__Type:__ Second Generation \n\nCharon is a member of the White-Clad, that serves as the Second Pillar's guardian. He appears to be a devoted member of the White-Clad with a strong loyalty to the Evangalist. He takes his role as a guardian very seriously with protecting pillars at even risking the cost of his life. Charon has taken care of Haumea since she was young although she doesn’t seem to appreciate his efforts. He is very durable and is a expert in hand to hand combat with being very confidence and cunning in his battles.",
+      "metadata": {
+        "gender": "male",
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171898-sOFT5nvhIsET.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171898
+      }
+    },
+    {
+      "id": "mirage",
+      "name": "Mirage",
+      "alt_names": [
+        "ミラージユ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171899-0aTksBNwR43R.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171899
+      }
+    },
+    {
+      "id": "raffles-iii",
+      "name": "Raffles III",
+      "alt_names": [
+        "ラフルス三世"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174549-QgravqZOC3z3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174549
+      }
+    },
+    {
+      "id": "mari-kusakabe",
+      "name": "Mari Kusakabe",
+      "alt_names": [
+        "日下部万里",
+        "Shinra's mother",
+        "森羅の母"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174550-u82Q80mLZFAX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174550
+      }
+    },
+    {
+      "id": "nataku-son",
+      "name": "Nataku Son",
+      "alt_names": [
+        "ナタク孫",
+        "Tatsu (たつ)"
+      ],
+      "role": "supporting",
+      "description": "A young boy who gained Third Generation pyrokinetic abilities after being bitten by an Infernal Bug.",
+      "metadata": {
+        "gender": "male",
+        "age": "11",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190921-lGbolm0h0SLC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190921
+      }
+    },
+    {
+      "id": "haran",
+      "name": "Haran",
+      "alt_names": [
+        "ハラン"
+      ],
+      "role": "supporting",
+      "description": "Haran was a member of the White-Clad, who turned himself into a Demon.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b251814-TdYqls1vAUxl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 251814
+      }
+    },
+    {
+      "id": "mamoru-kun",
+      "name": "Mamoru-kun",
+      "alt_names": [
+        "まもる君"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b295094-ccyEHj5TyeyE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 295094
+      }
+    },
+    {
+      "id": "dendou-sha",
+      "name": "Dendou-sha",
+      "alt_names": [
+        "伝道者",
+        "Evangelist"
+      ],
+      "role": "supporting",
+      "description": "The Evangelist is the leader of the White-Clad.\n~!The Evangelist is the collective unconscious of all humanity personified. It is not a person nor is it conscious, it represents despair itself.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327307-9UpfnCW1GSOT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327307
+      }
+    },
+    {
+      "id": "nise-hikage",
+      "name": "Nise Hikage",
+      "alt_names": [
+        "偽ヒカゲ",
+        "Fake Hikage"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327308-ayimy8oRgfCx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327308
+      }
+    },
+    {
+      "id": "setsuo-miyamoto",
+      "name": "Setsuo Miyamoto",
+      "alt_names": [
+        "節男宮本"
+      ],
+      "role": "supporting",
+      "description": "Setsuo was a former firefighter, who turned into a Flame Human. Through the process of the Human Body Ignition Phenomenon, he was able to keep his consciousness, making him a sentient Flame Human.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327309-zX6MEn6k2OxM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327309
+      }
+    },
+    {
+      "id": "toujou",
+      "name": "Toujou",
+      "alt_names": [
+        "灯城"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327310-HPcOcHoIKPKN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327310
+      }
+    },
+    {
+      "id": "mikako",
+      "name": "Mikako",
+      "alt_names": [
+        "ミカコ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327311-WK421VmZxmrT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327311
+      }
+    },
+    {
+      "id": "kantarou",
+      "name": "Kantarou",
+      "alt_names": [
+        "勘太郎"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327313-ULngv6hkn1UF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327313
+      }
+    },
+    {
+      "id": "pusu-pusu",
+      "name": "Pusu Pusu",
+      "alt_names": [
+        "プスプス",
+        "Sputter"
+      ],
+      "role": "supporting",
+      "description": "Pusu Pusu is one of [Maki Oze's](https://anilist.co/character/130713/Maki-Oze) sentient fireballs she creates with her second generation ability.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b339136-1un5Bf1098Ff.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 339136
+      }
+    },
+    {
+      "id": "mera-mera",
+      "name": "Mera Mera",
+      "alt_names": [
+        "メラメラ",
+        "Flare"
+      ],
+      "role": "supporting",
+      "description": "Mera Mera is one of [Maki Oze's](https://anilist.co/character/130713/Maki-Oze) sentient fireballs she creates with her second generation ability.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b339137-UGIwerw7YmDq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 339137
+      }
+    },
+    {
+      "id": "amaterasu",
+      "name": "Amaterasu",
+      "alt_names": [
+        "アマテラス",
+        "First Pillar"
+      ],
+      "role": "minor",
+      "description": "~!Amaterasu is a survivor of the Great Cataclysm. Possessing an Adolla Burst, she powers Tokyo and is referred to as the First Pillar.!~ She tends to be very manipulative.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192562-fUngMeHXtvXB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192562
+      }
+    },
+    {
+      "id": "sumire",
+      "name": "Sumire ",
+      "alt_names": [
+        "スミレ"
+      ],
+      "role": "minor",
+      "description": "Sumire is a servant of the Evangelist and the Seventh Pillar. She is responsible for creating Pillars for 200 years since the failure of the Great Cataclysm, as well as the burning of St. Raffles Convent and the sisters residing in it.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193751-YoVjfOMqhCQG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 193751
+      }
+    },
+    {
+      "id": "ogun-montgomery",
+      "name": "Ogun Montgomery",
+      "alt_names": [
+        "オグン・モンゴメリ"
+      ],
+      "role": "minor",
+      "description": "Ogun is a Third Generation and member of Special Fire Force Company 4.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180505-a78izQlOQ40r.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180505
+      }
+    },
+    {
+      "id": "sister-sakura",
+      "name": "Sister Sakura",
+      "alt_names": [
+        "シスター桜"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b376111-v0tgNqFBQPNi.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 376111
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:34:01.536Z"
+  "updated_at": "2025-12-23T01:47:58.834Z"
 }

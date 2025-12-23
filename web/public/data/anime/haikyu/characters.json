@@ -1,6 +1,6 @@
 {
   "work_id": "haikyu",
-  "count": 25,
+  "count": 66,
   "characters": [
     {
       "id": "shouyou-hinata",
@@ -654,7 +654,971 @@
       "external_ids": {
         "anilist": 74039
       }
+    },
+    {
+      "id": "manabu-naoi",
+      "name": "Manabu Naoi",
+      "alt_names": [
+        "直井学"
+      ],
+      "role": "supporting",
+      "description": "__Team:__ Nekoma High School \n\nThe coach of the Nekoma High School volleyball club and Ukai's old acquaintance.",
+      "metadata": {
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b74591-mkUKSp93qOKU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74591
+      }
+    },
+    {
+      "id": "yasufumi-nekomata",
+      "name": "Yasufumi Nekomata",
+      "alt_names": [
+        "猫又育史"
+      ],
+      "role": "supporting",
+      "description": "__Team:__ Nekoma High School \n\nThe coach of the Nekoma High School volleyball club and Ukai's rival. He doesn't like to lose.",
+      "metadata": {
+        "age": "68",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b74593-Mal8sd4pNOVF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74593
+      }
+    },
+    {
+      "id": "hajime-iwaizumi",
+      "name": "Hajime Iwaizumi",
+      "alt_names": [
+        "岩泉一",
+        "Iwa"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 179.3 cm \n__Team:__ Aobajousai High School \n__Year:__ 3rd Year, class 5 \n__Number:__ 4 \n__Position:__ Wing Spiker \n__Ability Parameters (out of 5):__ Power = 5; jump = 4; stamina = 4; intellect = 3; technique = 3; speed = 4  \n\nIs a third-year student from Aoba Johsai High; he is the volleyball team's ace, vice-captain and a wing spiker. He is also Tōru Oikawa's childhood friend and \"pillar\". Iwaizumi often gets irritated by Oikawa's behavior and tells him that guys who have girls going kyaa kyaa over them irritates him the most.",
+      "metadata": {
+        "gender": "male",
+        "age": "17-18",
+        "dateOfBirth": "1994-06-10"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b75636-d8LM75218eDS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 75636
+      }
+    },
+    {
+      "id": "hayato-ikejiri",
+      "name": "Hayato Ikejiri",
+      "alt_names": [
+        "隼人池尻"
+      ],
+      "role": "supporting",
+      "description": "__Team:__ Tokonami High School \n__Birthday:__ February 19 __Height:__ 177.2 cm \n__Weight:__ 67.5 kg \n__Year:__ 3rd Year, class 1 \n__Number:__ 4 \n__Position:__ Wing Spiker \n__Ability Parameters (out of 5):__ Power = 3; jump = 2; stamina = 3; intellect = 3; technique = 3; speed = 2  \n\nIkejiri went to the same junior high school as Daichi where they played volleyball together.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b76814-U1bpPGfQdZkA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 76814
+      }
+    },
+    {
+      "id": "yui-michimiya",
+      "name": "Yui Michimiya",
+      "alt_names": [
+        "道宮結"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 159 cm (5' 2\")\n__Team:__ Karasuno Girls' Volleyball Club\n__Year:__ 3rd Year, class 1 \n__Number:__ 1 \n\nThe captain of the Karasuno High girls volleyball club. Michimiya is shown to be a very active person, always smiling and cracking jokes. She is a very determined person, who cares a lot for her team, giving them motivational speeches, and always tries to stay composed in front of them; she only cries when she's away from her teammates. However, she herself had stated that she isn't strict enough.\n\nAround Daichi though she can become flustered and clumsy, repeating words to try and find the right thing to say.",
+      "metadata": {
+        "gender": "female",
+        "age": "17-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b77165-H2YhpXe7bk9u.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 77165
+      }
+    },
+    {
+      "id": "kaname-moniwa",
+      "name": "Kaname Moniwa",
+      "alt_names": [
+        "茂庭要"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 176 cm \n**Team:** Datekougyou High School\n**Number:** 2 \n**Position:** Setter \n\nThe captain of the Datekougyou High School volleyball club.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b77413-XuqkC1XD1T22.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 77413
+      }
+    },
+    {
+      "id": "kenji-futakuchi",
+      "name": "Kenji Futakuchi",
+      "alt_names": [
+        "二口堅治"
+      ],
+      "role": "supporting",
+      "description": "__Team:__ Datekougyou High School\n__Height:__ 184.2 cm \n\nAccording to Moniwa, Futakuchi is a problematic kouhai with a very easy going personality. He's often seen arguing with Kamasaki who is the ​complete opposite of Futakuchi.",
+      "metadata": {
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b77415-T3E1rohigs8j.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 77415
+      }
+    },
+    {
+      "id": "takanobu-aone",
+      "name": "Takanobu Aone",
+      "alt_names": [
+        "青根高伸",
+        "No-Eyebrows"
+      ],
+      "role": "supporting",
+      "description": "__Team:__ Datekougyou High School \n__Height:__ 191.8 cm \n__Year:__ 2nd Year, class A \n__Number:__ 7 \n__Position:__ Middle Blocker \n\nMain pillar of Datekou. Even though Aone never smiles and seems serious and scary, he actually has a very kind heart. Futakuchi said that Aone has a habit of \"locking on\" to you if he knows his opponent is an ace.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b77417-XxLvn0PHaPGG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 77417
+      }
+    },
+    {
+      "id": "nobuteru-irihata",
+      "name": "Nobuteru Irihata",
+      "alt_names": [
+        "入畑伸照 "
+      ],
+      "role": "supporting",
+      "description": "The coach of the Aoba Josai High School volleyball club.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b77419-MunWILU6gUJa.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 77419
+      }
+    },
+    {
+      "id": "yuusuke-takinoue",
+      "name": "Yuusuke Takinoue",
+      "alt_names": [
+        "滝ノ上祐輔",
+        "Takinoue Electronics",
+        "Tattsun"
+      ],
+      "role": "supporting",
+      "description": "Height: 185.6 cm \nPosition: Middle Blocker \n\nKarasuno High School volleyball club's alumnus. He and Shimada are part of the Karasuno Neighborhood Association team. And they often come to watch current Karasuno's games as well as to root for them. Yuusuke's working at Takinoue Electric Goods.",
+      "metadata": {
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b80511-UdUNR2OI5ipW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 80511
+      }
+    },
+    {
+      "id": "makoto-shimada",
+      "name": "Makoto Shimada",
+      "alt_names": [
+        "嶋田誠"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 177.7cm\n\n Karasuno High School volleyball club's alumnus. He and Takinoue are part of the Karasuno Neighborhood Association team. And they often come to watch current Karasuno's games as well as to root for them. Makoto's working at Shimada Mart.",
+      "metadata": {
+        "gender": "male",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/80513.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 80513
+      }
+    },
+    {
+      "id": "hisashi-kinoshita",
+      "name": "Hisashi Kinoshita",
+      "alt_names": [
+        "木下久志"
+      ],
+      "role": "supporting",
+      "description": "Team: Karasuno High Height: 174.7 cm \nWeight: 65.5 kg Year: 2nd Year, class 2 \nAbility Parameters (out of 5): Power = 3; jump = 2; stamina = 3; intellect = 2; technique = 2; speed = 4  \n\nNarita, Ennoshita and Kinoshita are 2nd years who couldn't keep up with the training when old Ukai returned and that's why they left volleyball club. However after some time they came back because they realized that they still want to play volleyball, though coach Ukai was no longer there. Ennoshita called them ''disgraceful'' 2nd years.",
+      "metadata": {
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b80515-iSRjeok2Ogif.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 80515
+      }
+    },
+    {
+      "id": "kazuhito-narita",
+      "name": "Kazuhito Narita",
+      "alt_names": [
+        "成田一仁"
+      ],
+      "role": "supporting",
+      "description": "__Team:__ Karasuno High\n__Height:__ 180.2 cm \n__Year:__ 2nd Year, class 4 \n\nNarita, Ennoshita and Kinoshita are 2nd years who couldn't keep up with the training when old Ukai returned and that's why they left volleyball club. However after some time they came back because they realized that they still want to play volleyball, though coach Ukai was no longer there. Ennoshita called them ''disgraceful'' 2nd years.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/80517-NOTmRuD0WECQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 80517
+      }
+    },
+    {
+      "id": "akira-kunimi",
+      "name": "Akira Kunimi",
+      "alt_names": [
+        "国見英"
+      ],
+      "role": "supporting",
+      "description": "__Team:__ Aobajōsai (former Kitagawa Daīchi) (first year at Aoba Johsai)\n__Height:__ 182.8 cm\n__Number:__ 13 \n__Position:__ Wing Spiker\n\nHe is a quiet and indifferent person, though it's mostly out of laziness. He occasionally skips practice as well and doesn't seem to put his full effort into matches; however, his true strength lies in his late game plays. Kunimi dislikes loud, energetic people and was dismayed when Koganegawa yelled at him to \"go all out\", which is one of his least liked phrases. He also refers to Hinata, Koganegawa, and Hyakuzawa as the \"idiot squad\" because of their energy. Kageyama has also mentioned that Kunimi is smart, though it's unknown if that refers to his game sense or general studies.",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89508-Qx1QErebdTaD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89508
+      }
+    },
+    {
+      "id": "issei-matsukawa",
+      "name": "Issei Matsukawa",
+      "alt_names": [
+        "松川一静",
+        "Mattsun"
+      ],
+      "role": "supporting",
+      "description": "Issei is a 3rd year student from Aobajohsai High; he is one of the middle blockers.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137468-fjZut9jfWPf6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137468
+      }
+    },
+    {
+      "id": "shinji-watari",
+      "name": "Shinji Watari",
+      "alt_names": [
+        "渡親治"
+      ],
+      "role": "supporting",
+      "description": "Shinji is a second year libero in Aobajohsai High.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137469-eT6wrlHXWuv6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137469
+      }
+    },
+    {
+      "id": "takahiro-hanamaki",
+      "name": "Takahiro Hanamaki",
+      "alt_names": [
+        "花巻貴大",
+        "Makki"
+      ],
+      "role": "supporting",
+      "description": "Takahiro is a 3rd year wing spiker at Aobajohsai High.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137470-bM0JpKqbB0oK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137470
+      }
+    },
+    {
+      "id": "sadayuki-mizoguchi",
+      "name": "Sadayuki Mizoguchi",
+      "alt_names": [
+        "溝口貞幸"
+      ],
+      "role": "supporting",
+      "description": "Sadayuki is the coach of Aobajohsai High.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137471-AKKCdEj83s76.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137471
+      }
+    },
+    {
+      "id": "shigeru-yahaba",
+      "name": "Shigeru Yahaba",
+      "alt_names": [
+        "矢巾秀"
+      ],
+      "role": "supporting",
+      "description": "Shigeru is a 2nd year setter at Aobajohsai High.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137472-iEIwkEV8ATZk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137472
+      }
+    },
+    {
+      "id": "tamahiko-teshiro",
+      "name": "Tamahiko Teshiro",
+      "alt_names": [
+        "手白球彦"
+      ],
+      "role": "supporting",
+      "description": "Tamahiko is a first year setter and a pinch server at Nekoma High.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137473-RWG3xtfKR7Da.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137473
+      }
+    },
+    {
+      "id": "takurou-oiwake",
+      "name": "Takurou Oiwake",
+      "alt_names": [
+        "追分拓朗"
+      ],
+      "role": "supporting",
+      "description": "Takurou is the coach of Date Tech High's volleyball team.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137482-EgU20W0nK30E.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137482
+      }
+    },
+    {
+      "id": "yutaka-obara",
+      "name": "Yutaka Obara",
+      "alt_names": [
+        "小原豊"
+      ],
+      "role": "supporting",
+      "description": "Yutaka is a second year wing spiker of the Date Tech High Volleyball Club.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137484-4ZEEgblmwOSJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137484
+      }
+    },
+    {
+      "id": "kousuke-sakunami",
+      "name": "Kousuke Sakunami",
+      "alt_names": [
+        "作並浩輔"
+      ],
+      "role": "supporting",
+      "description": "Kousuke is a first year libero at Date Tech High.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137485-6YpryJyKtuc5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137485
+      }
+    },
+    {
+      "id": "takehito-sasaya",
+      "name": "Takehito Sasaya",
+      "alt_names": [
+        "笹谷武仁"
+      ],
+      "role": "supporting",
+      "description": "Takehito is a third year Wing Spiker at Date Tech High.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137486-3eGWIl1faU31.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137486
+      }
+    },
+    {
+      "id": "ikkei-ukai",
+      "name": "Ikkei Ukai",
+      "alt_names": [
+        "烏養一繋"
+      ],
+      "role": "supporting",
+      "description": "Ikkei is the former coach of Karasuno High's Boys' Volleyball Club. He once led the team to nationals and was well-known. After being hospitalized, he resigned from coaching the team.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137541-ezvI4unNftsC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137541
+      }
+    },
+    {
+      "id": "taiga-sakurai",
+      "name": "Taiga Sakurai",
+      "alt_names": [
+        "桜井大河"
+      ],
+      "role": "supporting",
+      "description": "Taiga is a third year at Tokonami High. He plays as a libero.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137604-fPVY7XgzBVFt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137604
+      }
+    },
+    {
+      "id": "kazuma-chaya",
+      "name": "Kazuma Chaya",
+      "alt_names": [
+        "茶屋和馬"
+      ],
+      "role": "supporting",
+      "description": "Kazuma is a third year at Tokonami High. He plays as a middle blocker.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137605-0SJQebSWBpvz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137605
+      }
+    },
+    {
+      "id": "yoshiharu-haga",
+      "name": "Yoshiharu Haga",
+      "alt_names": [
+        "芳賀良治"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 174 cm (5' 8.5\")\n__Uniform Number:__ 9\n\nThird-year student at Tokonami High and setter on the boys' volleyball team.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137606-O7BCDqjkY0Kc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137606
+      }
+    },
+    {
+      "id": "hikaru-komaki",
+      "name": "Hikaru Komaki",
+      "alt_names": [
+        "駒木輝"
+      ],
+      "role": "supporting",
+      "description": "Hikaru is a third year at Tokonami High. He plays as a wing spiker and is the captain of the volleyball team.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137607-mAIFdXKNftVs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137607
+      }
+    },
+    {
+      "id": "rikuto-shibuya",
+      "name": "Rikuto Shibuya",
+      "alt_names": [
+        "渋谷陸斗"
+      ],
+      "role": "supporting",
+      "description": "Rikuto is a second year at Tokonami High. He plays as a middle blocker.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137608-nPBrgOOiUWy2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137608
+      }
+    },
+    {
+      "id": "hiroki-tamagawa",
+      "name": "Hiroki Tamagawa",
+      "alt_names": [
+        "玉川弘樹"
+      ],
+      "role": "supporting",
+      "description": "Hiroki is a third year at Tokonami High. He plays as a wing spiker.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137609-mqvX50Zu0VHK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137609
+      }
+    },
+    {
+      "id": "natsu-hinata",
+      "name": "Natsu Hinata",
+      "alt_names": [
+        "日向夏"
+      ],
+      "role": "supporting",
+      "description": "Shouyou Hinata's younger sister.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139519-RX8EDSLsgZ7S.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139519
+      }
+    },
+    {
+      "id": "hidenori-uchizawa",
+      "name": "Hidenori Uchizawa",
+      "alt_names": [
+        "内沢英紀"
+      ],
+      "role": "supporting",
+      "description": "A wing spiker on the Karasuno Neighborhood Association Team.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139523-EBn51tZKEZWc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139523
+      }
+    },
+    {
+      "id": "yukinari-mori",
+      "name": "Yukinari Mori",
+      "alt_names": [
+        "森行成"
+      ],
+      "role": "supporting",
+      "description": "A college student and a middle blocker in the Karasuno Neighborhood Association Team.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139525-Cvem9gkKeNrK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139525
+      }
+    },
+    {
+      "id": "asuka-hirama",
+      "name": "Asuka Hirama",
+      "alt_names": [
+        "平間あすか",
+        "Haruka",
+        "ハルカ"
+      ],
+      "role": "supporting",
+      "description": "One of the girls who came to cheer for Aoba Johsai, especially Oikawa, during the Interhigh Preliminary match against Karasuno. Throughout the match, she shows that she isn't too familiar with the rules and plays of volleyball and relies on [Takinoue](https://anilist.co/character/80511/Yuusuke-Takinoue) and [Shimada](https://anilist.co/character/80513/Makoto-Shimada) to explain things to her. She would later appear during Seijoh's rematch against Karasuno.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290163-uDfPsXmEEe2r.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290163
+      }
+    },
+    {
+      "id": "manaka-ujiie",
+      "name": "Manaka Ujiie",
+      "alt_names": [
+        "氏家愛花",
+        "Yuuko",
+        "ユウコ"
+      ],
+      "role": "supporting",
+      "description": "One of the girls who came to cheer for Aoba Johsai, especially [Oikawa](https://anilist.co/character/71611/Tooru-Oikawa), during the InterHigh Preliminary. Throughout the match, she shows that she isn't too familiar with the rules and plays of volleyball and relies on [Takinoue](https://anilist.co/character/80511/Yuusuke-Takinoue) and [Shimada](https://anilist.co/character/80513/Makoto-Shimada) to explain things to her. She would later appear during Seijoh's rematch against Karasuno.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290164-buJA35e3Cw4q.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290164
+      }
+    },
+    {
+      "id": "chizuru-sasaki",
+      "name": "Chizuru Sasaki",
+      "alt_names": [
+        "佐々木千鶴",
+        "Aya (アヤ)"
+      ],
+      "role": "supporting",
+      "description": "__Uniform Number:__ 11\n\nThird-year student at Karasuno High and wing spiker for the girls' volleyball team. She is close friends with [Michimiya](https://anilist.co/character/77165/Yui-Michimiya) and Aihara.",
+      "metadata": {
+        "gender": "female",
+        "age": "17-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290165-cQ84dCjQaDl6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290165
+      }
+    },
+    {
+      "id": "yasushi-kamasaki",
+      "name": "Yasushi Kamasaki",
+      "alt_names": [
+        "鎌先靖志",
+        "Kamachi"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 186.8cm (6' 1.5\")\n__Uniform Number:__ 1\n__Position:__ Middle Blocker\n__Ability Parameters (out of 5):__ Power = 5; Jump = 2; Stamina = 4; Game Sense 2; Technique = 2; Speed = 4\n\nThird-year student at Datekougyou High School. Prior to retiring, he played on the boys' volleyball team as a middle blocker and the vice-captain. He is loud, strict, and often argues with and threatens his problematic kouhai [Futakuchi](https://anilist.co/character/77415/Kenji-Futakuchi). However, he is incredibly supportive of his team and often attends their official and practices matches with [Moniwa](https://anilist.co/character/77413/Kaname-Moniwa) and [Sasaya](https://anilist.co/character/137486/Takehito-Sasaya) after retiring.",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": "1994-11-08"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290202-EXzXudq8MNEI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290202
+      }
+    },
+    {
+      "id": "kyoutou",
+      "name": "Kyoutou",
+      "alt_names": [
+        "教頭",
+        "Vice Principal",
+        "Dean"
+      ],
+      "role": "supporting",
+      "description": "Vice Principal of Karasuno High School. He is balding and attempts to keep his head covered with a toupee. He is said to have a bad relationship with the volleyball club that has gotten worse since Hinata and Kageyama joined the club. However, once the team starts to win again, he begins supporting the club more.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290203-o4BCJp17CYQQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290203
+      }
+    },
+    {
+      "id": "mao-aihara",
+      "name": "Mao Aihara",
+      "alt_names": [
+        "相原真緒"
+      ],
+      "role": "supporting",
+      "description": "__Uniform Number:__ 2\n\nThird-year student at Karasuno High School. She played on the girls' volleyball team as the team's ace and vice-captain. She is good friends with and very supportive of [Michimiya](https://anilist.co/character/77165/Yui-Michimiya).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290205-mEyG2nYbiM2e.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290205
+      }
+    },
+    {
+      "id": "wakatoshi-ushijima",
+      "name": "Wakatoshi Ushijima",
+      "alt_names": [
+        "牛島若利",
+        "Ushiwaka",
+        "Super Ace",
+        "The Lefty",
+        "Japan"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 189.5 cm (6' 2.6\")\n__Team:__ Shiratorizawa Academy\n__Number:__ 1\n__Position:__ Wing Spiker\n\nWakatoshi Ushijima is a third year at Shiratorizawa Academy and the captain and ace of the school's boys' volleyball team. Currently, he is the number one ace in Miyagi Prefecture and one of the country's top three aces, along with Sakusa and Kiryu. Left handed. His favourite food is hayashi rice.",
+      "metadata": {
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b76816-sS6LcPRxisQ9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 76816
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:24:45.066Z"
+  "updated_at": "2025-12-23T02:04:35.708Z"
 }

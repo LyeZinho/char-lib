@@ -59,6 +59,8 @@ node src/cli.js interactive
 - 🧹 **Limpar Fila**: Resetar fila pendente
 - ➕ **Aumentar Fila**: Descobrir mais obras populares
 - 🔄 **AutoCraw Contínuo**: Crawling automático contínuo
+- 🎯 **Smart Queue**: Sistema inteligente de alternância entre tipos
+- 🐧 **Smart Queue Daemon**: Gerenciamento do daemon Linux
 
 #### 📋 **Listar Obras**
 - Listar todas as obras por tipo
@@ -174,11 +176,142 @@ node src/cli.js autocraw --max-works 1 --max-total 2 --delay 5000
 4. Pode ser interrompido a qualquer momento
 - 📊 Gera índice para pesquisa futura
 
+## 🎯 Smart Queue (Daemon Linux)
+
+Sistema inteligente de fila que roda como **processo Linux** (daemon), alterna entre tipos de conteúdo para otimização máxima de coleta:
+
+### 🚀 Instalação como Serviço
+
+```bash
+# Instalar como serviço systemd (requer sudo)
+npm run smart-queue-install
+
+# Ou diretamente
+sudo bash scripts/install-smart-queue-service.sh
+```
+
+### 🛠️ Gerenciamento do Daemon
+
+```bash
+# Iniciar daemon
+npm run smart-queue-start
+
+# Parar daemon
+npm run smart-queue-stop
+
+# Reiniciar daemon
+npm run smart-queue-restart
+
+# Ver status detalhado
+npm run smart-queue-service-status
+
+# Ver logs (últimas 50 linhas)
+npm run smart-queue-logs
+
+# Seguir logs em tempo real
+npm run smart-queue-logs -- --follow
+
+# Resetar estado e logs
+npm run smart-queue-service-reset
+```
+
+### ⚙️ Configuração
+
+**Características:**
+- 🐧 **Daemon Linux**: Roda como processo do sistema (systemd)
+- 🛡️ **Ultra-conservativo**: Rate limiting de 5 req/min (12s mínimo) para AniList
+- 🔄 **Background persistente**: Continua rodando mesmo após logout
+- 📊 **Estado persistente**: Salva progresso automaticamente
+- 🎯 **Balanceado**: Processa quantidades iguais de cada tipo
+- ⏱️ **Long-running**: Projetado para execução indefinida
+- 🚀 **Auto-Deploy**: Deploy automático da database a cada X obras
+
+**Como funciona:**
+1. Instalado como serviço systemd com usuário dedicado
+2. Alterna entre tipos (anime → manga → anime...) automaticamente
+3. Processa lote de cada tipo antes de alternar
+4. **Executa auto-deploy automaticamente** quando atinge threshold
+5. Logs salvos em `/var/log/smart-queue.log`
+6. Estado salvo em `data/smart-queue-state.json`
+7. Pode ser monitorado e controlado via systemctl
+
+### 📊 Monitoramento
+
+```bash
+# Status completo do serviço
+npm run smart-queue-service-status
+
+# Ver logs recentes
+npm run smart-queue-logs
+
+# Seguir logs ao vivo
+npm run smart-queue-logs -- --follow
+
+# Verificar com systemctl
+sudo systemctl status smart-queue
+```
+
+### 🛑 Controle Avançado
+
+```bash
+# Comandos systemctl diretos
+sudo systemctl start smart-queue
+sudo systemctl stop smart-queue
+sudo systemctl restart smart-queue
+sudo systemctl enable smart-queue    # Auto-início
+sudo systemctl disable smart-queue   # Desabilitar auto-início
+
+# Ver logs do sistema
+journalctl -u smart-queue -f
+journalctl -u smart-queue --since today
+```
+
+### � Auto-Deploy Automático
+
+**Deploy automático da database** a cada X obras processadas:
+
+```bash
+# Executar com auto-deploy (deploy a cada 10 obras)
+npm run smart-queue-with-deploy
+
+# Com threshold customizado
+node src/cli.js smart-queue --auto-deploy --deploy-threshold 5
+
+# No daemon (habilitar no config)
+# Editar /etc/smart-queue/config.json:
+{
+  "autoDeployEnabled": true,
+  "autoDeployThreshold": 10
+}
+```
+
+**O que o auto-deploy faz:**
+1. ✅ `npm run generate-indexes` - Gera índices de pesquisa
+2. ✅ `npm run validate` - Valida integridade da database
+3. ✅ `npm run deploy` - Faz deploy para interface web
+4. ✅ `git add .` - Adiciona mudanças ao staging
+5. ✅ `git commit -m "automatic db update DD/MM/YYYY-HH:MM:SS: queue X works YMB"`
+
+**Vantagens:**
+- 🔄 **Automação completa**: Deploy automático após processamento
+- 📊 **Histórico versionado**: Commits automáticos com timestamp
+- ✅ **Validação**: Database validada antes do deploy
+- 🌐 **Web atualizada**: Interface web sempre atualizada
+- 📝 **Logs detalhados**: Acompanhamento completo das operações
+
+**Para deploy final:**
+```bash
+# Após auto-deploy, fazer push manual
+git push origin main
+```
+
 ## ✨ Features
 
 - 🎯 **Database JSON local** - Sem dependência de banco de dados externo
 - 🔄 **Import incremental** - Merge inteligente sem duplicação
 - 🤖 **Auto-Crawling** - Descoberta automática de obras populares
+- 🎯 **Smart Queue** - Sistema inteligente de alternância entre tipos de conteúdo
+- 🐧 **Daemon Linux** - Smart Queue como serviço systemd persistente
 - � **API AniList** - Coleta de animes e mangas
 - 🎮 **API RAWG** - Coleta de jogos e criadores
 - 🔍 **Enrichment System** - Fallback para wikis quando APIs atingem limite

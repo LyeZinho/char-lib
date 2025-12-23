@@ -1,6 +1,6 @@
 {
   "work_id": "death-parade",
-  "count": 25,
+  "count": 34,
   "characters": [
     {
       "id": "decim",
@@ -572,7 +572,214 @@
       "external_ids": {
         "anilist": 158795
       }
+    },
+    {
+      "id": "shimada",
+      "name": "Shimada",
+      "alt_names": [
+        "島田"
+      ],
+      "role": "supporting",
+      "description": "Brother of Sae Shimada.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158803-lQjVODqWshGi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158803
+      }
+    },
+    {
+      "id": "sae-shimada",
+      "name": "Sae Shimada",
+      "alt_names": [
+        "島田紗英"
+      ],
+      "role": "supporting",
+      "description": "Sister of Shimada.\n~!After losing both her parents at a young age, her brother Shimada supported her. She was attacked and raped by an unnamed assailant and unknowingly saw Tatsumi watching, thinking he was a partner. After the attack this leaves her hateful and broken going as far as telling her brother that she wants her attackers dead.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158964-VLc5LLBd4HB2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158964
+      }
+    },
+    {
+      "id": "misaki-tachibana",
+      "name": "Misaki Tachibana",
+      "alt_names": [
+        "橘みさき"
+      ],
+      "role": "supporting",
+      "description": "Actress and a single mom, who has underwent a lot of failed relationships. She and Yousuke both arrive at Quindecim where they were force to play an arcade game to decide their fate. At first she thought that she is in some kind of reality show only to discover in the midst of the game that she was strangle to death by her manager whom she antagonised and slapped.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158990-KX4e80u9vYWu.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158990
+      }
+    },
+    {
+      "id": "yumi-tatsumi",
+      "name": "Yumi Tatsumi",
+      "alt_names": [
+        "辰巳由美"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161539-ks4rs6wqhNlv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161539
+      }
+    },
+    {
+      "id": "sachiko-uemura",
+      "name": "Sachiko Uemura",
+      "alt_names": [
+        "上村幸子"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161541-e5f63aRZ8SaN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161541
+      }
+    },
+    {
+      "id": "tatsumi",
+      "name": "Tatsumi",
+      "alt_names": [
+        "辰巳"
+      ],
+      "role": "supporting",
+      "description": "Detective",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162882-16aBuh1qxE3O.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162882
+      }
+    },
+    {
+      "id": "memine",
+      "name": "Memine",
+      "alt_names": [
+        "メミン"
+      ],
+      "role": "supporting",
+      "description": "Memine is a cat who lives on Viginti together with Ginti, and helps him with his duties as an arbiter.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181332-2YiKE2W82MhE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181332
+      }
+    },
+    {
+      "id": "light-yagami",
+      "name": "Light Yagami",
+      "alt_names": [
+        "夜神月",
+        "Kira",
+        "Light Asahi",
+        "God"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 179 cm (5'10\")\n\nLight is a third year high school student (12th Grade) at Daikoku Private Academy who also attends supplemental classes at Gamou Prep Academy in the beginning of the story. Light has a father, Soichiro Yagami, who is the head of the Police Force. Light also has a mother, Sachiko Yagami, and a younger sister, Sayu Yagami. In Spring 2004, he becomes a first-year student (freshman) at To-Oh University and gets one of the top scores of its entrance exam.\n\nNicknamed \"Kira\", he uses the Death Note to create his ideal world of justice under him; its new God. Though he looks frail, Light is an extremely athletic person, with an aptitude to find an opponent's weak point. He is a genius, which adds to his notion that only he is fit to judge humanity and steer it on a proper moral course.",
+      "metadata": {
+        "gender": "male",
+        "age": "17-23",
+        "dateOfBirth": "1986-02-28"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 80
+      }
+    },
+    {
+      "id": "roujin",
+      "name": "Roujin",
+      "alt_names": [
+        "老人",
+        "Old Man"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82039-nMF6EmKqGbcW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82039
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:32:52.575Z"
+  "updated_at": "2025-12-23T01:06:36.724Z"
 }

@@ -1,6 +1,6 @@
 {
   "work_id": "fatezero",
-  "count": 25,
+  "count": 37,
   "characters": [
     {
       "id": "kiritsugu-emiya",
@@ -637,7 +637,294 @@
       "external_ids": {
         "anilist": 16035
       }
+    },
+    {
+      "id": "leysritt",
+      "name": "Leysritt",
+      "alt_names": [
+        "リーゼリット",
+        "Liz"
+      ],
+      "role": "supporting",
+      "description": "Leysritt is a homunculus created by the Einzbern family to serve as a maid much like Sella. Despite her appearance, she is only about two years old.\n\nRegardless of her thin ego, she developed a sense of reason due to her alignment with Illya. As a result, Leysritt often says what she thinks without any consideration and this gets her often into a verbal conflict with Sella.\n\nShe and Illya are actually very close friends and should Illya die, Leysritt would die as well. In contrast to Sella, she possesses a casual personality but has difficulty expressing her emotions and comes across as robotic at times. However, she appears to enjoy teasing Sella and also takes a liking to Shirou because his presence makes Illya happy.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b24333-alhbcqCDBbzZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 24333
+      }
+    },
+    {
+      "id": "martha-mackenzie",
+      "name": "Martha Mackenzie",
+      "alt_names": [
+        "マーサ・マッケンジー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b51305-AhcWmCegkqyW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 51305
+      }
+    },
+    {
+      "id": "glen-mackenzie",
+      "name": "Glen Mackenzie",
+      "alt_names": [
+        "グレン・マッケンジー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b52245-KxFhIfYBxIa6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 52245
+      }
+    },
+    {
+      "id": "fionn-mac-cumhaill",
+      "name": "Fionn mac Cumhaill",
+      "alt_names": [
+        "フィン・マックール"
+      ],
+      "role": "supporting",
+      "description": "Fionn mac Cumhaill is leader of the Fianna knights of legend and lord of Diarmuid Ua Duibhne, the Lancer of the 4th Holy Grail War.   ~! He was the intended husband of Princess Grainne, whom Diarmuid inadvertently charmed with his Mystic Face. He was thus forced to elope with her, and Fionn, driven by jealousy, sent many pursuers after them. After some times, Fionn acknowledged their marriage, and reconciled with Diarmuid. Still, his resentment remained, and eventually drove him to leave Diarmuid for death when the warrior was fatally injured by a boar during their hunting trip.   Even after his death, Diarmuid resented neither Fionn nor Grainne, and regretted only that he could not follow his path of loyalty to Fionn. For this reason, Diarmuid participated in the War, in order to have a second chance of fighting for his master. !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b52491-5jBBfGBbKVqJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 52491
+      }
+    },
+    {
+      "id": "grainne",
+      "name": "Grainne",
+      "alt_names": [
+        "グラニア"
+      ],
+      "role": "supporting",
+      "description": "Princess Gráinne, daughter of the High King of Ireland Cormac mac Airt is the betrothed of Fionn mac Cumhaill, leader of the Fianna knight and lord of Diarmuid Ua Duibhne, the Lancer of the 4th Holy Grail War.   ~!  True to the legend, she fell in love with Diarmuid under the influcence of his Mystic Face (originated from the beauty mark under his right eye), and placed a geis on him so that he would run away with her on the night of her wedding to Fionn. As Diarmuid considered the geis a test of his honor, and knew that Gráinne fell prey to his curse, Diarmuid accepted her proposal and the two fled, besieged by Fionn's many warriors on the way. Finally, when Fionn accepted their marriage, Diarmuid was overjoyed to return to his service.  During a wild boar hunt, Diarmuid was fatally injured, and nothing but water drunk from Fionn's hands could save him. However, due to his lingering resentment, Fionn let the water slipped from his hands twice, and when he brought the water back to Diarmuid for the third time, Diarmuid was dead.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b52493-pff5Yn3bfoQR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 52493
+      }
+    },
+    {
+      "id": "kotone",
+      "name": "Kotone",
+      "alt_names": [
+        "コトネ"
+      ],
+      "role": "supporting",
+      "description": "Rin's classmate.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b52829-tkzC9k9rdIq9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 52829
+      }
+    },
+    {
+      "id": "jeanne-darc",
+      "name": "Jeanne  d'Arc",
+      "alt_names": [
+        "ジャンヌ・ダルク",
+        "Ruler (ルーラー)",
+        "Joan of Arc",
+        "The Maid of Orléans",
+        "Holy Maiden of Salvation",
+        "Juana de Arco",
+        "La Pucelle d'Orléans",
+        "The Maiden of Orleans",
+        "St. Joan"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 159 cm (5'3)\n\nRuler's True Name is Jeanne d'Arc, the Saint of Orleans. A Catholic saint born in Domrémy, France, and the heroine of France who liberated Orléans in the Hundred Years' War.\n\nA Ruler Class Servant is the Standard-Bearer who Correctly Guides the Holy Grail War. Jeanne is a special Heroic Spirit summoned by the Holy Grail itself to act as the administrator of the Holy Grail War instead of the Church. Being summoned in the Ruler class also allows her to retain the memories of each repeating \"game\" unlike other Servants.\n\nJeanne d'Arc was a common farmer's daughter. She claims she had received the command of God to fight. She heard the Lord’s lament that the world changed straight into hell. The Lord wept into sorrow as no one could stop it and people were not even allowed to live simply, and were compelled to become either beasts or food. Conflict never ended, and blood continued to rain incessantly and soak the land. She received a revelation from the Lord, the voice contained no glory or victory, no obligation or sense of purpose but only the Lord laments. She caught his small, feeble murmurs that everyone else failed to hear. \n\nJeanne also has a minor cameo in the second season of Fate/Zero.",
+      "metadata": {
+        "gender": "female",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67769-6TSfn8kz4KVf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67769
+      }
+    },
+    {
+      "id": "mordred-pendragon",
+      "name": "Mordred Pendragon",
+      "alt_names": [
+        "モードレッド",
+        "The Knight of Treachery",
+        "Saber of Red",
+        "Aka no Saber"
+      ],
+      "role": "minor",
+      "description": "Mordred is the \"son\" of King Arthur though, in reality, she is a woman. \n\nMorgan le Fay, Artoria's sister, created Mordred as a homunculus clone of the King. Morgan grew Mordred in secret, inculcating her the desire to usurp the King and ascend to the throne as the rightful heir. To achieve this objective Mordred was made to be one of the Knights of the Round Table. \n\nWith time Mordred grew to idolize her \"father\", but the King refused to recognize her as a rightful heir. These clashing feelings of love and hate made Mordred play an important role in the fall of Camelot.\n\nIn Fate/Apocrypha\n\n~!Mordred is the Saber-class Servant of Kairi Sisigou as part of the Red Faction in the Turifas Holy Grail War.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55977-wqiEfiJUuEFw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55977
+      }
+    },
+    {
+      "id": "dekorou",
+      "name": "Dekorou",
+      "alt_names": [
+        "デコ朗"
+      ],
+      "role": "minor",
+      "description": "He’s a soldier from Iskandar’s Ionioi Hetairoi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245712-wQqWLz5vzsUj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245712
+      }
+    },
+    {
+      "id": "eumenes",
+      "name": "Eumenes",
+      "alt_names": [
+        "エウメネス",
+        "Long Hair"
+      ],
+      "role": "minor",
+      "description": "Eumenes is a soldier of Iskandar's army. He is a Non-classed Servant summoned by Iskandar's Noble Phantasm Ionioi Hetairoi. Eumenes has long dark hair and closely resembles Lord El-Melloi II, Iskandar's Master.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245713-rpAIIqk9ZVgk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245713
+      }
+    },
+    {
+      "id": "chuu-wake",
+      "name": "Chuu Wake",
+      "alt_names": [
+        "中分け"
+      ],
+      "role": "minor",
+      "description": "A soldier from Iskandar’s Ionioi Hetairoi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245714-Ki5YsxSI9nQC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245714
+      }
+    },
+    {
+      "id": "ptolemy",
+      "name": "Ptolemy",
+      "alt_names": [
+        "プトレマイオス",
+        "Erect Member",
+        "Ptolemaios",
+        "Ptolemaeus",
+        "Ptolemy I Soter"
+      ],
+      "role": "minor",
+      "description": "Ptolemy is a soldier of Iskandar's army. He is a Non-classed Servant summoned by Iskandar's Noble Phantasm Ionioi Hetairoi. Like all of his fellow comrades in Ionioi Hetairoi, he is unquestionably loyal to Iskander and always supports his cause.\n\nWhile this younger version embodies his youth as a soldier under Alexander the Great, his older version embodies him as an old man and the ruler of Egypt.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245715-7HD3EApk8tth.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245715
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:16:54.204Z"
+  "updated_at": "2025-12-23T01:44:45.744Z"
 }

@@ -1,6 +1,6 @@
 {
   "work_id": "the-seven-deadly-sins",
-  "count": 25,
+  "count": 46,
   "characters": [
     {
       "id": "meliodas",
@@ -203,7 +203,6 @@
         "Người dẫn chuyện",
         "Tagapagsalaysay",
         "내레이터",
-        "Narratore",
         "Erzählperson",
         "מספר",
         "Narrátor",
@@ -642,7 +641,482 @@
       "external_ids": {
         "anilist": 131567
       }
+    },
+    {
+      "id": "zeal",
+      "name": "Zeal",
+      "alt_names": [
+        "ジール"
+      ],
+      "role": "supporting",
+      "description": "Guila's younger brother",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131574-c4qny7oco8L3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131574
+      }
+    },
+    {
+      "id": "slader",
+      "name": "Slader",
+      "alt_names": [
+        "スレイダー"
+      ],
+      "role": "supporting",
+      "description": "Slader was kidnapped and raised as a child by savages who held no regard for his worth as a human. After being freed by the king of Liones he pledged loyalty and resolved to hunt down any who wronged the kingdom.\n\nHe is a member of Dawn Roar who holds a rivalry against Gowther of the Seven Deadly Sins.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131889-hA4qiH1hg8oL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131889
+      }
+    },
+    {
+      "id": "golgius",
+      "name": "Golgius",
+      "alt_names": [
+        "ゴルギウス"
+      ],
+      "role": "supporting",
+      "description": "A holy knight of the weird fangs. Golgius uses underhanded and deceitful tactics in order to get his way. Contracts a doctor to poison Melodidas while holding his daughter hostage and making off with Elizabeth and his sword, also tries to assassinate Melodidas while holding his hands up in surrender.\n\nHe has the power of transparency, which he claims to be teleportation",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131891-oN0zU2jKuEMN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131891
+      }
+    },
+    {
+      "id": "cain-barzard",
+      "name": "Cain Barzard",
+      "alt_names": [
+        "ケイン・バルザド",
+        "Drunken Old Man",
+        "The Flame"
+      ],
+      "role": "supporting",
+      "description": "Cain is a short elderly man with combed hair, and a long mustache and beard. He also wears a clock, and his eyes seem to be always closed. Under his cloak, Cain wears trousers, and a long shirt that bears the crest of Danafor. He seem like a drunk, and strange, weak old man but deep down he might be a powerful fighter and wanted to have revenge on Meliodas for destroying their kingdom long time ago, he seem to be shock when he found out he wasn't Meliodas' son and that he didn't age.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131898-sLCx0aHWDtHN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131898
+      }
+    },
+    {
+      "id": "mead",
+      "name": "Mead",
+      "alt_names": [
+        "ミード"
+      ],
+      "role": "supporting",
+      "description": "Mead is an orphan, adopted by the villagers of Bernia after his parents, who were travelers, became victim to an epidemic when they stopped by Bernia.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131904-20VtZ6sP26YA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131904
+      }
+    },
+    {
+      "id": "ellen",
+      "name": "Ellen",
+      "alt_names": [
+        "エレン"
+      ],
+      "role": "supporting",
+      "description": "She is the sister of Luigi. She knows the way into the Capital of the Dead.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131905-2jnRBIIf7fbA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131905
+      }
+    },
+    {
+      "id": "weinheidt",
+      "name": "Weinheidt",
+      "alt_names": [
+        "ワインハイト"
+      ],
+      "role": "supporting",
+      "description": "Weinheidt was a member from the group of Holy Knights, Dawn Roar and was the marksman of the team.\n\nWeinheidt was a well-built man with a short beard and mustache and wears a set of medieval archer clothing with a small cloak draped around his shoulders.\n\nLike the other Dawn Roar members, Weinheidt was willing to kill anybody for the mission. He was faithful to whatever mission his team is assigned to and doesn't care about the motives behind the mission as long as the job gets done, although he can be curious sometimes.\n\nDespite the Holy Knights' coup, Weinheidt retains his loyalty to the king along with his teammates when Baltra ordered Dawn Roar to stop Slader from hurting himself, to which Weinheidt complied.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131906-KjpyWrwu6uhn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131906
+      }
+    },
+    {
+      "id": "friesia",
+      "name": "Friesia",
+      "alt_names": [
+        "フリージア",
+        "Freesia"
+      ],
+      "role": "supporting",
+      "description": "Friesia is a Holy Knight with the ability to manipulate insects. Belonging to the infamous Weird Fangs stationed at Baste Dungeon, she aided in the capture of the Deadly Sin, Ban.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131907-275Li0gbcuvM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131907
+      }
+    },
+    {
+      "id": "dale",
+      "name": "Dale",
+      "alt_names": [
+        "デール"
+      ],
+      "role": "supporting",
+      "description": "A Holy Knight and father of Guila and Zeal. Although Dale is labeled as a traitor after his disappearance, the incident is shrouded in mystery",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131908-lrnEROAH8bDq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131908
+      }
+    },
+    {
+      "id": "jude",
+      "name": "Jude",
+      "alt_names": [
+        "ジュド"
+      ],
+      "role": "supporting",
+      "description": "A Holy Knight, and one of the four Weird Fangs of Baste Dungeon who captured and imprisoned Ban. Jude is known to have tortured Ban mercilessly during the Sin's imprisonment.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131909-2iUdJ8Wz7mDA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131909
+      }
+    },
+    {
+      "id": "taizoo",
+      "name": "Taizoo",
+      "alt_names": [
+        "タイズー"
+      ],
+      "role": "supporting",
+      "description": "is a mountain bandit-turned merchant, and a three-time champion of Vaizel's annual fight festival",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131910-F1jn6wUvyZwy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131910
+      }
+    },
+    {
+      "id": "ruin",
+      "name": "Ruin",
+      "alt_names": [
+        "ルイン"
+      ],
+      "role": "supporting",
+      "description": "A holy knight of the weird fangs whom wishes to bring ruin to the seven deadly sins. Claims his body is his true armor, and more durable than steel. Hypnotizes both Melodidas and Diane into fighting each other with his bell. Easily defeated by Melodidas after Elizabeth tore the hypnotizing bell off his staff.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131911-2kGqFE9VAxRE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131911
+      }
+    },
+    {
+      "id": "twigo",
+      "name": "Twigo",
+      "alt_names": [
+        "ツイーゴ"
+      ],
+      "role": "supporting",
+      "description": "Twigo was an apprentice Holy Knight who was stationed near Caines Village. After his defeat by Meliodas, he, wanting to gain greater powers, drank the demon's blood, but died since he was incompatible.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131912-KbRBxNWdVwW1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131912
+      }
+    },
+    {
+      "id": "dana",
+      "name": "Dana",
+      "alt_names": [
+        "ダナ"
+      ],
+      "role": "supporting",
+      "description": "is an elderly doctor who resides in Dalmary Town, and has a daughter named Sennett.\nDr. Dana is a level-headed person and is extremely dedicated to his work as he did not stop \"treating\" Meliodas even when Friesia was destroying the town.He cares deeply about his daughter as he was willing to even poison Meliodas to have her released from imprisonment",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131913-VW0fuw6j9iXw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131913
+      }
+    },
+    {
+      "id": "marmas",
+      "name": "Marmas",
+      "alt_names": [
+        "マルマス"
+      ],
+      "role": "supporting",
+      "description": "Marmas is a Holy Knight. He led Guila and Jericho in the assault on Byzel",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131914-hPnMpyYoNdQC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131914
+      }
+    },
+    {
+      "id": "alioni",
+      "name": "Alioni",
+      "alt_names": [
+        "アリオーニ"
+      ],
+      "role": "supporting",
+      "description": "Alioni is a member of the group of knights, Beard of the Mountain Cat, which was garrisoned at the base of the mountain in Kaynes Village, and claimed to serve under a Holy Knight. He was first seen beside his fellow knights trying to capture to capture the enigmatic and infamous Rust Knight who had appeared at the mysterious bar, the Boar Hat.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131915-IQ4fNzUt7CGg.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131915
+      }
+    },
+    {
+      "id": "simon",
+      "name": "Simon",
+      "alt_names": [
+        "サイモン"
+      ],
+      "role": "supporting",
+      "description": "is a Holy Knight and a member of Dawn Roar",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131916-lcMq8Y6YHdBe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131916
+      }
+    },
+    {
+      "id": "sennett",
+      "name": "Sennett",
+      "alt_names": [
+        "セネット"
+      ],
+      "role": "supporting",
+      "description": "is the daughter of an elderly doctor, Dana who works at Dalmary Town.\nSennett is a polite and caring person. She loves her father very much, and was worried about him when she left; she was extremely happy when he is revealed to be alive.She also cares about her dagger as it is a memento of her mother",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131917-ZZKybvckgq1c.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131917
+      }
+    },
+    {
+      "id": "luigi",
+      "name": "Luigi",
+      "alt_names": [
+        "ルイジ"
+      ],
+      "role": "supporting",
+      "description": "He is the brother of Ellen.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131918-U5awoX77WrDG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131918
+      }
+    },
+    {
+      "id": "hawk-mama",
+      "name": "Hawk Mama",
+      "alt_names": [
+        "ホークママ",
+        "Great Oshiro",
+        "Giant Pig"
+      ],
+      "role": "supporting",
+      "description": "She is Hawk's mother and the extremely large, green pig who transports the Boar Hat bar. She is introduced to live underground and transports the bar Boar Hat with her head. So far, her name remains unknown but she has gained many aliases.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133377-CLYrm3YBvJoY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133377
+      }
+    },
+    {
+      "id": "helbram",
+      "name": "Helbram",
+      "alt_names": [
+        "ヘルブラム"
+      ],
+      "role": "supporting",
+      "description": "Helbram is a Holy Knight, Geera's master, and the subordinate of the Great Holy Knight, Hendricksen.\n\nHe wears a set of copper-colored full body armor, adorning it with a purple coat on top. He usually covers his face with a unique helm with a skyblue crest on it. Helbram has a serious personality, but also a playful side, which is seen when he jokes that Meliodas' decoration of Geera's face was not very bad. Helbram was also shown to like doing research, even taking notes during battle.\n\n~!During the fighting festival in the Byzel Arc, he disguised himself as a referee with the alias of Love Helm.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140918-r4nb9TM0r1qG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 140918
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:30:32.658Z"
+  "updated_at": "2025-12-23T05:51:17.892Z"
 }

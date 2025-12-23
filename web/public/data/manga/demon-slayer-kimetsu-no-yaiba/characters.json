@@ -1,6 +1,6 @@
 {
   "work_id": "demon-slayer-kimetsu-no-yaiba",
-  "count": 25,
+  "count": 134,
   "characters": [
     {
       "id": "tanjirou-kamado",
@@ -637,7 +637,2547 @@
       "external_ids": {
         "anilist": 138847
       }
+    },
+    {
+      "id": "teoni",
+      "name": "Teoni",
+      "alt_names": [
+        "手鬼",
+        "Hand Demon"
+      ],
+      "role": "supporting",
+      "description": "The Hand Demon was a notorious Demon that killed thirteen of Urokodaki Sakonji's apprentices, including Sabito and Makomo.",
+      "metadata": {
+        "gender": "male",
+        "age": "47+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138988-xU0pGFRXSweT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138988
+      }
+    },
+    {
+      "id": "odou-no-oni",
+      "name": "Odou no Oni",
+      "alt_names": [
+        "お堂の鬼",
+        "Head Demon"
+      ],
+      "role": "supporting",
+      "description": "The Head Demon is the first Demon encountered by Kamado Tanjirou.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138989-2ZWGyfLbCxtV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138989
+      }
+    },
+    {
+      "id": "hotaru-haganezuka",
+      "name": "Hotaru Haganezuka",
+      "alt_names": [
+        "鋼鐵塚蛍"
+      ],
+      "role": "supporting",
+      "description": "Hotaru Haganezuka is a swordsmith affiliated with the Demon Killing Corps.",
+      "metadata": {
+        "gender": "male",
+        "age": "37",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138990-E5kiUoLigpyX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138990
+      }
+    },
+    {
+      "id": "kanao-tsuyuri",
+      "name": "Kanao Tsuyuri",
+      "alt_names": [
+        "栗花落カナヲ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 156 cm (5'1½\")\n\nKanao Tsuyuri is a Demon Hunter and the Tsuguko, who is personally looked after by the Demon Killing Corps' Pillars.\n\n~!When Kanao is first introduced, she is an indecisive and quiet girl due to the abuse she endured in her past before meeting the Kocho sisters. She became unable to make decisions by herself and repressed her emotions as a defense mechanism. In order to help rectify this, Kanae gave her a coin to flip to decide which path to follow when she didn't know what to do.\n\nLater on, Tanjiro helps Kanao overcome her indecisiveness and Kanao soon becomes more confident in making decisions with or without her coin.\n\nKanao and Tanjiro would eventually marry and start a family, having two great-great-grandchildren by the names of [Kanata Kamado](https://anilist.co/character/171144/Kanata-Kamado) and [Sumihiko Kamado](https://anilist.co/character/171145/Sumihiko-Kamado) between them.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139038-OcOoDUyLEsRn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139038
+      }
+    },
+    {
+      "id": "kanae-kochou",
+      "name": "Kanae Kochou",
+      "alt_names": [
+        "胡蝶カナエ"
+      ],
+      "role": "supporting",
+      "description": "Kanae Kocho was a Demon Slayer and the late Flower Hashira. She was slain several years prior to the present story. She is also the biological older sister of [Shinobu Kochou](https://anilist.co/character/136070/Shinobu-Kochou) and the adoptive older sister of [Kanao Tsuyuri](https://anilist.co/character/139038/Tsuyuri-Kanao).",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139039-YmIZQzx1HdvY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139039
+      }
+    },
+    {
+      "id": "kiriya-ubuyashiki",
+      "name": "Kiriya Ubuyashiki",
+      "alt_names": [
+        "産屋敷輝利哉"
+      ],
+      "role": "supporting",
+      "description": "~!Kiriya Ubuyashiki is the son and middle child of Kagaya Ubuyashiki.\nHe is the current head of the Ubuyashiki Household and leader of the Demon Slaying Corps!~",
+      "metadata": {
+        "gender": "male",
+        "age": "8",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139460-jA7lAHb17aLL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139460
+      }
+    },
+    {
+      "id": "daki",
+      "name": "Daki",
+      "alt_names": [
+        "堕姫",
+        "Warabihime",
+        "Upper Moon Six"
+      ],
+      "role": "supporting",
+      "description": "Daki, known as Warabihime in her oiran guise, is a member of the Twelve Demon Moons, holding the position of Upper Moon Six.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139734-ZEy1ccFcwjaK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139734
+      }
+    },
+    {
+      "id": "gyuutarou",
+      "name": "Gyuutarou",
+      "alt_names": [
+        "妓夫太郎",
+        "Gyutaro",
+        "Gyuutarou Shabana"
+      ],
+      "role": "supporting",
+      "description": "~!Gyuutarou is a member of the Twelve Demon Moons, holding the position of Upper Moon Six, which he shares with his younger sister Daki.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "13+ (human), 126+ (demon)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139735-o4G63Po27zND.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139735
+      }
+    },
+    {
+      "id": "nakime",
+      "name": "Nakime",
+      "alt_names": [
+        "鳴女",
+        "琵琶鬼",
+        "Biwa Demon"
+      ],
+      "role": "supporting",
+      "description": "Nakime is a mysterious Biwa Demon that dwells in the Dimensional Infinity Fortress.\n\n~!Actually she is a member of the Twelve Demon Moons, replacing Hantengu and holding the position of Upper Moon Four.!~\n\n(Source: Fandom)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139736-CrfqAqlktDTP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139736
+      }
+    },
+    {
+      "id": "enmu",
+      "name": "Enmu",
+      "alt_names": [
+        "魘夢",
+        "Tamio Enmu"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Demon\n__Height:__ 168 cm (5'6\")\n\nEnmu is a sadistic and cruel demon  Who is only driven by his liking to making humans suffer. He is shown to be completely loyal to Muzan. Caring about him probably more than what he cares about himself. He also hates the other lower moons, labeling them as \"Fools\".\n\n~!Enmu was a member of the Twelve Demon Moons, having held the position of Lower Moon One.!~\n\n~!Enmu was aboard the infinity train, and starts eating humans in order to make himself more powerful. He knocks them unconscious, promising them that he will gift them with nice and peaceful dreams but in reality, after giving them a nice dream, he always likes to follow it up with a horrifying nightmare because he thinks it is so much fun.!~\n\n~!In the end, Tanjiro's Hinokami Kagura cuts through Enmu's train spine and kills him.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139737-1YaFT0Xvxwaz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139737
+      }
+    },
+    {
+      "id": "kyougai",
+      "name": "Kyougai",
+      "alt_names": [
+        "響凱",
+        "Tsuzumi no Oni",
+        "鼓つづみの鬼",
+        "Drum Demon",
+        "Kyogai"
+      ],
+      "role": "supporting",
+      "description": "~!Kyougai was a member of the Twelve Demon Moons, having held the position of Lower Moon Six. He is also known as Drum Demon.!~\n\n(Source: Kimetsu no Yaiba Fandom, edited)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139738-dP9GWQSX5dIG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139738
+      }
+    },
+    {
+      "id": "rui",
+      "name": "Rui",
+      "alt_names": [
+        "累"
+      ],
+      "role": "supporting",
+      "description": "~!Rui was a member of the Twelve Demon Moons, having held the position of Lower Moon Five.!~\n\n(Source: Kimetsu no Yaiba Fandom)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139739-BP0eUt2P9pRv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139739
+      }
+    },
+    {
+      "id": "kumo-oni-ani",
+      "name": "Kumo Oni Ani",
+      "alt_names": [
+        "蜘蛛鬼「兄」",
+        "Older Brother Spider Demon"
+      ],
+      "role": "supporting",
+      "description": "~!The Older Brother Spider Demon was a member of the Spider Family.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139740-0mwob6HrCIQN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139740
+      }
+    },
+    {
+      "id": "kumo-oni-ane",
+      "name": "Kumo Oni Ane",
+      "alt_names": [
+        "蜘蛛鬼「姉」"
+      ],
+      "role": "supporting",
+      "description": "She is a member of the spider family.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141690-IFs8C1TVRS7m.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141690
+      }
+    },
+    {
+      "id": "kumo-oni-haha",
+      "name": "Kumo Oni Haha",
+      "alt_names": [
+        "蜘蛛鬼「母」"
+      ],
+      "role": "supporting",
+      "description": "Like most demons, she is cruel, unfeeling, and murderous towards humans. Though after much time with him, she developed fear for Rui and the Father Spider Demon who abused her for being weaker than expected.\n~!She was a member of the Spider Family.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141692-WQtsdIB6qfUF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141692
+      }
+    },
+    {
+      "id": "kumo-oni-chichi",
+      "name": "Kumo Oni Chichi",
+      "alt_names": [
+        "蜘蛛鬼「父」"
+      ],
+      "role": "supporting",
+      "description": "~!He was a member of the Spider Family.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141693-18yNfOx3iopF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141693
+      }
+    },
+    {
+      "id": "akaza",
+      "name": "Akaza",
+      "alt_names": [
+        "猗窩座",
+        "Hakuji",
+        "Upper Moon Three"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 173 cm (5'8\")\n\nA member of the Twelve Demon Moons, holding the position of Upper Moon Three. While he was human, his name was Hakuji.\n\n~!Upper Moon Three Akaza ends up killing Flame Hashira Kyoujurou Rengoku during the battle that took place outside the destroyed Mugen Train.!~ ~!He later commits suicide while fighting Tanjirou and Giyuu.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "18 (human), 133+ (demon)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141694-0COi0GVXPuEn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141694
+      }
+    },
+    {
+      "id": "kokushibo",
+      "name": "Kokushibo",
+      "alt_names": [
+        "黒死牟",
+        "Upper Moon One"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 190 cm (6'3\") \n__Combat Style:__ ~!Moon breathing!~\n\nKokushibo is a member of the Twelve Demon Moons, holding the position of Upper Moon One. ~!When he was a human he went by the name Michikatsu Tsugikuni. He is also the brother of Yoriichi Tsugikuni.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "17-24 (human), 480+ (demon)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141918-Bfgq88XJFOPz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141918
+      }
+    },
+    {
+      "id": "douma",
+      "name": "Douma",
+      "alt_names": [
+        "童磨",
+        "Upper Moon Two"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 187 cm (6'1½\")\n\nHe is Upper Moon Two, making him the third-strongest demon after Muzan and Upper Moon One. He has a very friendly attitude, and fights with a pair of metal fans. He is the founder of a cult known as the \"Eternal Paradise Cult,\" and eats his followers, allegedly in order to release them from the pain of living.\n\n~!He is the demon who killed Shinobu Kochou's older sister and Shinobu, as well as Inosuke's mother.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "20 (human), 133+ (demon)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144591-v2yrXtHorZFS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144591
+      }
+    },
+    {
+      "id": "naho-takada",
+      "name": "Naho Takada",
+      "alt_names": [
+        "高田なほ"
+      ],
+      "role": "supporting",
+      "description": "She is a servant of the Butterfly Estate.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145286-dWQZ9VB0DlHv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145286
+      }
+    },
+    {
+      "id": "kiyo-terauchi",
+      "name": "Kiyo Terauchi",
+      "alt_names": [
+        "寺内きよ"
+      ],
+      "role": "supporting",
+      "description": "She is a servant of the Butterfly Estate.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145287-XMoG5upMikFs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145287
+      }
+    },
+    {
+      "id": "aoi-kanzaki",
+      "name": "Aoi Kanzaki",
+      "alt_names": [
+        "神崎アオイ"
+      ],
+      "role": "supporting",
+      "description": "She is a Demon Slayer, though she works as a servant in the Butterfly Estate rather than taking to the front lines.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145288-1sZG1vJmysmY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145288
+      }
+    },
+    {
+      "id": "sumi-nakahara",
+      "name": "Sumi Nakahara",
+      "alt_names": [
+        "中原すみ"
+      ],
+      "role": "supporting",
+      "description": "She is a servant of the Butterfly Estate.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145289-cdQSDA9CIy2U.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145289
+      }
+    },
+    {
+      "id": "yoriichi-tsugikuni",
+      "name": "Yoriichi Tsugikuni",
+      "alt_names": [
+        "継国緑壱"
+      ],
+      "role": "supporting",
+      "description": "__Combat Style:__ Sun Breathing\n\nYoriichi Tsugikuni is a major supporting character of Demon Slayer: Kimetsu no Yaiba. He was a legendary Demon Slayer of the Demon Slayer Corps during the Sengoku Era.\n\n~!Yoriichi is the younger twin brother of Michikatsu Tsugikuni, who later became a Demon and joined the Twelve Kizuki, holding the position of Upper Rank 1.!~\n\n~!Yoriichi is also the progenitor of Breathing Styles as a whole and was an immensely gifted individual who was fated and meant to defeat Muzan Kibutsuji, but failed.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "17-24 (young), 80+ (old)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b149220-OuBk7B3O6WD6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 149220
+      }
+    },
+    {
+      "id": "kaigaku",
+      "name": "Kaigaku",
+      "alt_names": [
+        "獪岳"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 167 cm (5'6\")\n\nA member of the Demon Slaying Corps, who was taught the Breath of Thunder by former Thunder Pillar, Jigoro, with fellow disciple Zenitsu.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b165862-G9PpuvlEsfdN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 165862
+      }
+    },
+    {
+      "id": "yoshiteru-agatsuma",
+      "name": "Yoshiteru Agatsuma",
+      "alt_names": [
+        "我妻善照"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171143-BiODLomlAGm7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171143
+      }
+    },
+    {
+      "id": "kanata-kamado",
+      "name": "Kanata Kamado",
+      "alt_names": [
+        "竈門カナタ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171144-CBANycLgwkgC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171144
+      }
+    },
+    {
+      "id": "sumihiko-kamado",
+      "name": "Sumihiko Kamado",
+      "alt_names": [
+        "竈門炭彦"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171145-K4hBGx08iWLQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171145
+      }
+    },
+    {
+      "id": "touko-agatsuma",
+      "name": "Touko Agatsuma",
+      "alt_names": [
+        "我妻燈子"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171147-UMmIC1kgcO5f.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171147
+      }
+    },
+    {
+      "id": "aoba-hashibira",
+      "name": "Aoba Hashibira",
+      "alt_names": [
+        "嘴平青葉"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171148-kNr5xH7XsgG9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171148
+      }
+    },
+    {
+      "id": "toujurou-rengoku",
+      "name": "Toujurou Rengoku",
+      "alt_names": [
+        "煉獄桃寿郎"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171149-GtU3oi3rixzY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171149
+      }
+    },
+    {
+      "id": "murata",
+      "name": "Murata",
+      "alt_names": [
+        "村田"
+      ],
+      "role": "supporting",
+      "description": "Murata is a member of the Demon Slayer Corps.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171150-3Ju2DXBVq41F.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171150
+      }
+    },
+    {
+      "id": "kotetsu",
+      "name": "Kotetsu",
+      "alt_names": [
+        "小鉄"
+      ],
+      "role": "supporting",
+      "description": "Kotetsu is a young villager from the Swordsmith Village. His ancestors built the battle doll Yoriichi Type Zero.",
+      "metadata": {
+        "gender": "male",
+        "age": "10",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171768-1bj6sdEUO61e.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171768
+      }
+    },
+    {
+      "id": "ruka-rengoku",
+      "name": "Ruka Rengoku",
+      "alt_names": [
+        "煉獄瑠火"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193378-dSruD7x4KzQA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 193378
+      }
+    },
+    {
+      "id": "shinjurou-rengoku",
+      "name": "Shinjurou Rengoku",
+      "alt_names": [
+        "煉獄槇寿郎"
+      ],
+      "role": "supporting",
+      "description": "Father of Kyoujurou and Senjurou.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193379-54MeZxQdvZ9o.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 193379
+      }
+    },
+    {
+      "id": "senjurou-rengoku",
+      "name": "Senjurou Rengoku",
+      "alt_names": [
+        "煉獄千寿郎"
+      ],
+      "role": "supporting",
+      "description": "Younger brother of Kyoujurou Rengoku and son of Shinjurou Rengoku and Ruka Rengoku.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193380-W10Kx339cY4D.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 193380
+      }
+    },
+    {
+      "id": "kie-kamado",
+      "name": "Kie Kamado",
+      "alt_names": [
+        "竈門葵枝"
+      ],
+      "role": "supporting",
+      "description": "Kie is Tanjiro Kamado's mother.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196849-xnYBt0Jf5Htf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196849
+      }
+    },
+    {
+      "id": "hisa",
+      "name": "Hisa",
+      "alt_names": [
+        "ひさ"
+      ],
+      "role": "supporting",
+      "description": "Hisa is an old lady who welcomes Demon Slayers to rest in her house. Tanjiro Kamado and his group visit her after they fight Kyogai at the Drum House.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196850-T9wLOqziha6k.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196850
+      }
+    },
+    {
+      "id": "shigeru-kamado",
+      "name": "Shigeru Kamado",
+      "alt_names": [
+        "竈門茂"
+      ],
+      "role": "supporting",
+      "description": "Shigeru was Tanjiro's second youngest brother.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196851-r5px2ZuOU9I2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196851
+      }
+    },
+    {
+      "id": "takeo-kamado",
+      "name": "Takeo Kamado",
+      "alt_names": [
+        "竈門竹雄"
+      ],
+      "role": "supporting",
+      "description": "Takeo was Tanjiro Kamado's first younger brother.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196852-zzu0xZXJrFr9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196852
+      }
+    },
+    {
+      "id": "hanako-kamado",
+      "name": "Hanako Kamado",
+      "alt_names": [
+        "竈門花子"
+      ],
+      "role": "supporting",
+      "description": "Hanako was Tanjiro Kamado's youngest sister.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196853-3MBhoPxBTvrN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196853
+      }
+    },
+    {
+      "id": "gyokko",
+      "name": "Gyokko",
+      "alt_names": [
+        "玉壺",
+        "Upper Moon Five",
+        "Managi"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 150 cm (4'11\") (Normal), 170 cm (5'7\") (Molted)\n\nGyokko is a major supporting antagonist in the Swordsmith Village Arc of Demon Slayer: Kimetsu no Yaiba. He is also a member of the Twelve Kizuki, holding the position of Upper Rank 5.",
+      "metadata": {
+        "gender": "male",
+        "age": "113+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205590-mNWuXG5oPw4g.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205590
+      }
+    },
+    {
+      "id": "kozo-kanamori",
+      "name": "Kozo Kanamori",
+      "alt_names": [
+        "鉄穴森鋼蔵"
+      ],
+      "role": "supporting",
+      "description": "Kozo Kanamori is a swordsmith affiliated with the Demon Slayer Corps.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206331-ss70JxaeUkeU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 206331
+      }
+    },
+    {
+      "id": "gotou",
+      "name": "Gotou",
+      "alt_names": [
+        "後藤"
+      ],
+      "role": "supporting",
+      "description": "Goto is a member of the Kakushi, the clean-up brigade of the Demon Slayers. He is the one who found a near-dead Tanjiro, Inosuke, and Zenitsu in the aftermath of the Entertainment District Arc. He possesses deep respect for the three because of their capability and bravery.\n\nAt one point in his life, he was found worthy of being a Demon Slayer, but for unknown reasons, he decided to become one of the Kakushi.",
+      "metadata": {
+        "gender": "male",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207949-ZteimhlyO7EX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207949
+      }
+    },
+    {
+      "id": "shoichi",
+      "name": "Shoichi",
+      "alt_names": [
+        "正一"
+      ],
+      "role": "supporting",
+      "description": "Shoichi is a young boy saved by Tanjiro Kamado and Zenitsu Agatsuma when they approached him to help his older brother, Kiyoshi, escape from the Drum House. He also has a younger sister, Teruko.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207950-QQzsB5OmINoW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207950
+      }
+    },
+    {
+      "id": "female-kakushi",
+      "name": "Female Kakushi",
+      "alt_names": [
+        "隠"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207951-yTClnNQvda4X.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207951
+      }
+    },
+    {
+      "id": "kibutsuji-no-musume",
+      "name": "Kibutsuji no Musume",
+      "alt_names": [
+        "鬼舞辻の娘",
+        "Muzan's Daughter"
+      ],
+      "role": "supporting",
+      "description": "Muzan's Daughter",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207952-W0vp1yGKN1SW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207952
+      }
+    },
+    {
+      "id": "teruko",
+      "name": "Teruko",
+      "alt_names": [
+        "てる子"
+      ],
+      "role": "supporting",
+      "description": "Teruko is a young girl, accompanied by her brother Shoichi, who approaches Tanjiro Kamado and Zenitsu Agatsuma to help save her older brother from the Drum House.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207953-7SkgAPP9raMa.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207953
+      }
+    },
+    {
+      "id": "kiyoshi",
+      "name": "Kiyoshi",
+      "alt_names": [
+        "清"
+      ],
+      "role": "supporting",
+      "description": "Kiyoshi is the elder brother of Shoichi and Teruko, who gets kidnapped by the Drum House Demon, Kyogai.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207954-kUwQCp1zJPm9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207954
+      }
+    },
+    {
+      "id": "tokie",
+      "name": "Tokie",
+      "alt_names": [
+        "トキエ"
+      ],
+      "role": "supporting",
+      "description": "Tokie is a resident of the village the Swamp Demon attacked and his final target.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207955-paSdmgn7LPH7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207955
+      }
+    },
+    {
+      "id": "toyo",
+      "name": "Toyo",
+      "alt_names": [
+        "豊"
+      ],
+      "role": "supporting",
+      "description": "Toyo is an udon street vendor.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207956-UZyuTqSS9xCy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207956
+      }
+    },
+    {
+      "id": "tsunojou-oni",
+      "name": "Tsunojou Oni",
+      "alt_names": [
+        "角状鬼"
+      ],
+      "role": "supporting",
+      "description": "Tsunojou oni was a Demon that lived in the Drum House.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207957-oY3z8wQ334i9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207957
+      }
+    },
+    {
+      "id": "kamanue",
+      "name": "Kamanue",
+      "alt_names": [
+        "釜鵺"
+      ],
+      "role": "supporting",
+      "description": "Kamanue was a member of the Twelve Kizuki, having held the position of Lower Rank 6.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207958-LGzzo8oY1LSM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207958
+      }
+    },
+    {
+      "id": "mukago",
+      "name": "Mukago",
+      "alt_names": [
+        "零余子"
+      ],
+      "role": "supporting",
+      "description": "Mukago was a member of the Twelve Kizuki, having held the position of Lower Rank 4.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207959-DpoeLCpN53Vk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207959
+      }
+    },
+    {
+      "id": "shita-oni",
+      "name": "Shita Oni",
+      "alt_names": [
+        "舌鬼"
+      ],
+      "role": "supporting",
+      "description": "Shita Oni was a Demon that lived in the Drum House.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207960-do83Y1g3VhtN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207960
+      }
+    },
+    {
+      "id": "rokuro",
+      "name": "Rokuro",
+      "alt_names": [
+        "轆轤"
+      ],
+      "role": "supporting",
+      "description": "Rokuro was a member of the Twelve Kizuki, having held the position of Lower Rank 2.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207961-m4uufGDXOAPK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207961
+      }
+    },
+    {
+      "id": "amane-ubuyashiki",
+      "name": "Amane Ubuyashiki",
+      "alt_names": [
+        "産屋敷あまね",
+        "Amane Himorogi"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 167cm (5'6\")\n\nShe is the wife and caretaker of [Kagaya Ubuyashiki](https://anilist.co/character/137808/Kagaya-Ubuyashiki) and the mother of Hinaki Ubuyashiki, Nichika Ubuyashiki, Kiriya Ubuyashiki, Kanata Ubuyashiki and Kuina Ubuyashiki. Her maiden name is Amane Himorogi.",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b221375-cMlefDNTlcD6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 221375
+      }
+    },
+    {
+      "id": "ninju-mukimuki-nezumi",
+      "name": "Ninju Mukimuki Nezumi",
+      "alt_names": [
+        "忍にん獣ムキムキねずみ",
+        "Shino Buff Mice"
+      ],
+      "role": "supporting",
+      "description": "Intelligent mice that work for Tengen Uzui. The mice are specially trained for the purpose of being assistants to Tengen and his acquaintances, as seen during the events at Yoshiwara, Tokyo. They are strong enough to carry one sword per mouse, and are capable of navigating small spaces humans normally wouldn't be able to.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246712-DYIZvLfd3pEM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246712
+      }
+    },
+    {
+      "id": "koyuki",
+      "name": "Koyuki",
+      "alt_names": [
+        "恋雪"
+      ],
+      "role": "supporting",
+      "description": "~!She was the daughter of Keizo. Due to her sickness, she spent most of her time bedridden while being treated by [Akaza](https://anilist.co/character/141694/Akaza).!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246713-YqGfSxU2Cc6M.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246713
+      }
+    },
+    {
+      "id": "makio",
+      "name": "Makio",
+      "alt_names": [
+        "まきを"
+      ],
+      "role": "supporting",
+      "description": "Makio is a kunoichi and one of Tengen Uzui's wives.\n~!\nAccording to the second official fanbook, Makio is actually a distant cousin of Tengen's.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250554-tPaaPn3oAwNf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250554
+      }
+    },
+    {
+      "id": "suma",
+      "name": "Suma",
+      "alt_names": [
+        "須磨"
+      ],
+      "role": "supporting",
+      "description": "Suma is a kunoichi and one of Tengen Uzui's wives.",
+      "metadata": {
+        "gender": "female",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250555-jmjxCYpywW03.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250555
+      }
+    },
+    {
+      "id": "hinatsuru",
+      "name": "Hinatsuru",
+      "alt_names": [
+        "雛鶴"
+      ],
+      "role": "supporting",
+      "description": "Hinatsuru is a kunoichi and one of Tengen Uzui's wives.",
+      "metadata": {
+        "gender": "female",
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250556-tZ6egykZTk4Y.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250556
+      }
+    },
+    {
+      "id": "hantengu",
+      "name": "Hantengu",
+      "alt_names": [
+        "半天狗"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 166 cm (5'5¼\")\n\nDemon of the 12 Kizuki with the rank of Upper Moon 4. ~!Through his Blood Demon Art, he is able to create clones that are manifestations of his emotions, each of them possessing an Upper Rank demon's level of strength.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "200+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b260323-2zytvxsXp7rG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 260323
+      }
+    },
+    {
+      "id": "yuuichirou-tokitou",
+      "name": "Yuuichirou Tokitou",
+      "alt_names": [
+        "時透有一郎"
+      ],
+      "role": "supporting",
+      "description": "Older twin brother of [Muichirou.](https://anilist.co/character/136069/Muichirou-Tokitou) He had a cold and harsh personality, speaking critically of his dead parents and brother. \n\n~!He is killed when a demon attacks him and Muichiro, and his last words were encouragement toward Muichiro to live on.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "11",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b269650-aHhxtgSTpIEM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 269650
+      }
+    },
+    {
+      "id": "tecchin-tecchikawahara",
+      "name": "Tecchin Tecchikawahara",
+      "alt_names": [
+        "鉄地河原鉄珍",
+        "てっちかわはらてっちん",
+        "Tecchin Tecchi Kawahara"
+      ],
+      "role": "supporting",
+      "description": "Chief of the Swordsmith Village.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b299978-KMYqUZV1ejla.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 299978
+      }
+    },
+    {
+      "id": "sumiyoshi",
+      "name": "Sumiyoshi",
+      "alt_names": [
+        "炭吉"
+      ],
+      "role": "supporting",
+      "description": "Ancestor of the Kamado family and close acquaintance of [Yoriichi Tsugikuni](https://anilist.co/character/149220).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302101-hLusXT4jNZyd.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302101
+      }
+    },
+    {
+      "id": "tetsuido",
+      "name": "Tetsuido",
+      "alt_names": [
+        "鉄井戸"
+      ],
+      "role": "supporting",
+      "description": "A swordsmith affiliated with the Demon Slayer Corps. He was responsible for Muichirou Tokitou's swords until he died from a heart attack.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306576-4J8nCrnp84dn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306576
+      }
+    },
+    {
+      "id": "kaburamaru",
+      "name": "Kaburamaru",
+      "alt_names": [
+        "鏑丸"
+      ],
+      "role": "supporting",
+      "description": "Kaburamaru is a snake and animal guide belonging to the Serpent Hashira, [Obanai Iguro](https://anilist.co/character/137777/Obanai-Iguro). Kaburamaru is always seen wrapped around Obanai’s shoulder.",
+      "metadata": {
+        "gender": "male",
+        "age": "9+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b310304-5cCfTJq9vRWS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 310304
+      }
+    },
+    {
+      "id": "kagaya-no-kasugai-garasu",
+      "name": "Kagaya no Kasugai Garasu",
+      "alt_names": [
+        "耀哉の鎹鴉",
+        "Kagaya's Kasugai Crow"
+      ],
+      "role": "supporting",
+      "description": "[Kagaya Ubayashiki](https://anilist.co/character/137808)'s kasugai crow.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b335996-7Ft5ZdOgGJ4E.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 335996
+      }
+    },
+    {
+      "id": "takeuchi",
+      "name": "Takeuchi",
+      "alt_names": [
+        "竹内"
+      ],
+      "role": "supporting",
+      "description": "Member of the Demon Slayer Corps. He is close friends with Murata.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b335997-FpM0islytjYE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 335997
+      }
+    },
+    {
+      "id": "matsuemon-tennouji",
+      "name": "Matsuemon Tennouji",
+      "alt_names": [
+        "天王寺松右衛門",
+        "Kasugai Garasu (鎹鴉)",
+        "Tanjirou's Kasugai Crow"
+      ],
+      "role": "minor",
+      "description": "Kasugai Crow assigned to Tanjirou Kamado. Very intelligent and seems to have a large ego.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137810-x5JEOQTuxd86.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137810
+      }
+    },
+    {
+      "id": "ukogi",
+      "name": "Ukogi",
+      "alt_names": [
+        "うこぎ",
+        "Chuntaro",
+        "Chuntarou (チュン太郎)"
+      ],
+      "role": "minor",
+      "description": "Ukogi is Zenitsu's Kasugai Crow. He is the only sparrow to appear in the series and pass the Kasugai Crow Test and also the only Kasugai Crow without the ability to talk. His family was killed by Demons.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142420-S8qfnTq1rKeW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142420
+      }
+    },
+    {
+      "id": "kanata-ubuyashiki",
+      "name": "Kanata Ubuyashiki",
+      "alt_names": [
+        "産屋敷かなた"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b153220-QH10oCcepSdz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 153220
+      }
+    },
+    {
+      "id": "kotoha-hashibira",
+      "name": "Kotoha Hashibira",
+      "alt_names": [
+        "嘴平琴葉",
+        "謎の女性"
+      ],
+      "role": "minor",
+      "description": "~!Kotoha was Inosuke's mother!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161211-Wu2RXlkFQdE1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161211
+      }
+    },
+    {
+      "id": "nichika-ubuyashiki",
+      "name": "Nichika Ubuyashiki",
+      "alt_names": [
+        "産屋敷 にちか"
+      ],
+      "role": "minor",
+      "description": "Nichika Ubuyashiki is one of the older daughters of Kagaya Ubuyashiki.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b167548-2bPBlCKBiIBY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 167548
+      }
+    },
+    {
+      "id": "hinaki-ubuyashiki",
+      "name": "Hinaki Ubuyashiki",
+      "alt_names": [
+        "産屋敷 ひなき"
+      ],
+      "role": "minor",
+      "description": "Hinaki Ubuyashiki is one of the older daughters of Kagaya Ubuyashiki.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b167549-1fG4eh5KkmZg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 167549
+      }
+    },
+    {
+      "id": "tenma-uzui",
+      "name": "Tenma Uzui",
+      "alt_names": [
+        "宇髄天満"
+      ],
+      "role": "minor",
+      "description": "Tenma Uzui is a professional gymnast who won the gold medal in gymnastics for Japan during the recent Olympics. He has seven siblings.\n~!He is the descendant of [Tengen Uzui](https://anilist.co/character/136071/Tengen-Uzui).!~",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171146-VRGuH2fbCaMB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171146
+      }
+    },
+    {
+      "id": "giichi",
+      "name": "Giichi",
+      "alt_names": [
+        "義一"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b171151-vlwXeO0NEjsD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 171151
+      }
+    },
+    {
+      "id": "saburou",
+      "name": "Saburou",
+      "alt_names": [
+        "三郎"
+      ],
+      "role": "minor",
+      "description": "Saburou is a villager from the village near Tanjiro's home.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196854-OxXRBTZJKPE5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196854
+      }
+    },
+    {
+      "id": "rei-kibutsuji",
+      "name": "Rei Kibutsuji",
+      "alt_names": [
+        "きぶつじれい"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206329-7FVSo4gsNYYl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 206329
+      }
+    },
+    {
+      "id": "tanjurou-kamado",
+      "name": "Tanjurou Kamado",
+      "alt_names": [
+        "竈門炭十郎"
+      ],
+      "role": "minor",
+      "description": "Tanjuro Kamadou was the husband of Kie Kamado and the late father of Tanjiro, Nezuko, Takeo, Hanako, Shigeru, and Rokuta.\n\nTanjuro was a quiet, calculating, forgiving, charismatic and loving person. He had a peaceful relationship with his family and regularly lectured Tanjiro about life.\n\nWhile he appeared calm on the outside, he showed a decent, noble aura with a quiet perception to his surroundings. According to his son, he did not like standing out or displaying his true abilities to others. However, if his family is in danger, he would not hesitate to protect them and shows no mercy towards the enemy.\n\n~!Despite not being a Demon Slayer and having a tragic disease that makes his body incredibly frail, Tanjuro was shown to be a phenomenally strong individual. He was born with a demon slayer mark on his forehead, had the ability to access the transparent world, and was constantly using the selfless state.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206330-dDKOKM4O2pVg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 206330
+      }
+    },
+    {
+      "id": "rokuta-kamado",
+      "name": "Rokuta Kamado",
+      "alt_names": [
+        "竈門六太"
+      ],
+      "role": "minor",
+      "description": "Tanjiro's youngest sibling.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207857-sn24LyeKSrPr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207857
+      }
+    },
+    {
+      "id": "fuku",
+      "name": "Fuku",
+      "alt_names": [
+        "ふく"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b251681-UPIbcoLHI8zX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 251681
+      }
+    },
+    {
+      "id": "kirisaki",
+      "name": "Kirisaki",
+      "alt_names": [
+        "切り裂き",
+        "Slasher"
+      ],
+      "role": "minor",
+      "description": "Kirisaki was the nickname given to a demon that appeared during the investigation of the Mugen Train and was responsible for a number of human attacks. ~!He was defeated by Kyoujurou Rengoku.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b252147-gRa8umJxLWGs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 252147
+      }
+    },
+    {
+      "id": "koinatsu",
+      "name": "Koinatsu",
+      "alt_names": [
+        "鯉夏"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b259262-WuAoPoYW3iXq.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 259262
+      }
+    },
+    {
+      "id": "chachamaru",
+      "name": "Chachamaru",
+      "alt_names": [
+        "茶々丸"
+      ],
+      "role": "minor",
+      "description": "Chachamaru is a feline familiar that assists in Tamayo's medical research with Demon blood.\n\n~!Chachamaru is seen during the battle with Muzan, after the Infinity Castle collapses. The cat jumps above the remaining Hashira in order to administer an antidote to stave off the poisonous effects of Muzan's attacks. As a result, it is sliced in half by the demon. However, it was later reassembled by Yushirou.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268212-cdX6j5xYomyU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268212
+      }
+    },
+    {
+      "id": "omitsu",
+      "name": "Omitsu",
+      "alt_names": [
+        "お三津"
+      ],
+      "role": "minor",
+      "description": "Manager of the Kyogoku House in the Entertainment District of Yoshiwara, Tokyo.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b294247-lcte11itoWwp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294247
+      }
+    },
+    {
+      "id": "ginko",
+      "name": "Ginko",
+      "alt_names": [
+        "銀子",
+        "ぎんこ",
+        "Kasugai Garasu (鎹鴉)",
+        "Muichirou's Kasugai Crow"
+      ],
+      "role": "minor",
+      "description": "Kasugai Crow assigned to [Muichirou Tokitou](https://anilist.co/character/136069). Does not get along well with [Tanjirou](https://anilist.co/character/126071) and his crow or the other crows in general. She is very proud of Muichirou.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304323-WNANJ9ULlZtQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304323
+      }
+    },
+    {
+      "id": "urara",
+      "name": "Urara",
+      "alt_names": [
+        "麗",
+        "うらら",
+        "Kasugai Garasu (鎹鴉)",
+        "Mitsuri's Kasugai Crow"
+      ],
+      "role": "minor",
+      "description": "Kasugai Crow assigned to [Mitsuri Kanroji](https://anilist.co/character/136072). Wears a clover-shaped crown similar to Mitsuri's Nichirin Sword tsuba. Often appears to be nervous and fidgety, and is rumored to have a sweet tooth as a result of how often she has tea time with Mitsuri.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304324-qUSdSQQ6p1xj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304324
+      }
+    },
+    {
+      "id": "suyako",
+      "name": "Suyako",
+      "alt_names": [
+        "珠彌子"
+      ],
+      "role": "minor",
+      "description": "Wife of [Sumiyoshi](https://anilist.co/character/302101) and ancestor of the Kamado family.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304940-GVtiulZQtLgo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304940
+      }
+    },
+    {
+      "id": "shizu-shinazugawa",
+      "name": "Shizu Shinazugawa",
+      "alt_names": [
+        "不死川志津",
+        "しなずがわしづ"
+      ],
+      "role": "minor",
+      "description": "Mother to the 7 Shinazugawa children, including Sanemi and Genya.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305514-fcIEvvOxcrx7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305514
+      }
+    },
+    {
+      "id": "sumi-shinazugawa",
+      "name": "Sumi Shinazugawa",
+      "alt_names": [
+        "不死川寿美"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305515-yZrQOBmaZaeH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305515
+      }
+    },
+    {
+      "id": "shuya-shinazugawa",
+      "name": "Shuya Shinazugawa",
+      "alt_names": [
+        "不死川就也"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305516-J6Ao5Qwv1dW0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305516
+      }
+    },
+    {
+      "id": "hiroshi-shinazugawa",
+      "name": "Hiroshi Shinazugawa",
+      "alt_names": [
+        "不死川弘",
+        "ひろし"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305517-zGRqWJyhkU3h.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305517
+      }
+    },
+    {
+      "id": "koto-shinazugawa",
+      "name": "Koto Shinazugawa",
+      "alt_names": [
+        "不死川こと"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305518-tijAkr429yiW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305518
+      }
+    },
+    {
+      "id": "teiko-shinazugawa",
+      "name": "Teiko Shinazugawa",
+      "alt_names": [
+        "不死川貞子",
+        "ていこ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305519-Bc6QOJI9Sm7A.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305519
+      }
+    },
+    {
+      "id": "ozaki",
+      "name": "Ozaki",
+      "alt_names": [
+        "尾崎"
+      ],
+      "role": "minor",
+      "description": "Ozaki was a Demon Slayer and part of the Demon Slayer Corps.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306223-j1Cqsi2HtL1q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306223
+      }
+    },
+    {
+      "id": "wakuraba",
+      "name": "Wakuraba",
+      "alt_names": [
+        "病葉"
+      ],
+      "role": "minor",
+      "description": "Wakuraba was a member of the Twelve Kizuki, having held the position of Lower Rank Three.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306224-jC7A24uB82Xb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306224
+      }
+    },
+    {
+      "id": "asakusa-oni",
+      "name": "Asakusa Oni",
+      "alt_names": [
+        "Asakusa Demon"
+      ],
+      "role": "minor",
+      "description": "The Asakusa Demon is a minor character in Kimetsu no Yaiba. He was a pedestrian in Asakusa who [Muzan Kibutsuji](https://anilist.co/character/129132/Muzan-Kibutsuji) turned into a demon.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306225-JHEG5fwFYIT7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306225
+      }
+    },
+    {
+      "id": "tokitou-no-haha",
+      "name": "Tokitou no Haha",
+      "alt_names": [
+        "時透の母",
+        "Tokitou's Mother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306575-kcqntQSVosRc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306575
+      }
+    },
+    {
+      "id": "kanroji-no-chichi",
+      "name": "Kanroji no Chichi",
+      "alt_names": [
+        "甘露寺の父",
+        "Kanroji's Father"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b307747-rDxCB4Sp4kRZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 307747
+      }
+    },
+    {
+      "id": "kanroji-no-haha",
+      "name": "Kanroji no Haha",
+      "alt_names": [
+        "甘露寺の母",
+        "Kanroji's Mother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b307748-QFjiNqdyuO9B.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 307748
+      }
+    },
+    {
+      "id": "satoko",
+      "name": "Satoko",
+      "alt_names": [
+        "里子"
+      ],
+      "role": "minor",
+      "description": "Satoko was a villager betrothed to Kazumi. She was kidnapped and killed by the Swamp Demon.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b310302-RBzdk050JPBO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 310302
+      }
+    },
+    {
+      "id": "kikanshi",
+      "name": "Kikanshi",
+      "alt_names": [
+        "機関士",
+        "Train Engineer"
+      ],
+      "role": "minor",
+      "description": "A train engineer appears as a minor antagonist in the Mugen Train Arc of Kimetsu No Yaiba. He is a civilian recruited by Enmu to be the train engineer of the Mugen Train.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b310303-Y3LIa2NFVtKL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 310303
+      }
+    },
+    {
+      "id": "shashou",
+      "name": "Shashou",
+      "alt_names": [
+        "車掌",
+        "Train Conductor"
+      ],
+      "role": "minor",
+      "description": "A train conductor appeared as a minor antagonist in the Mugen Train Arc of Kimetsu No Yaiba. He was a civilian who was recruited by Enmu to trap the Demon Slayers into his Blood Demon Art.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b310305-aU9wcobW7Doo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 310305
+      }
+    },
+    {
+      "id": "yatsu",
+      "name": "Yatsu",
+      "alt_names": [
+        "やつ"
+      ],
+      "role": "minor",
+      "description": "Yatsu is a minor character of Kimetsu no Yaiba. He is a civilian that [Muzan Kibutsuji](https://anilist.co/character/129132/Muzan-Kibutsuji) bumped into at an alleyway in Asakusa.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b310306-RgzjoCzKx1Vy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 310306
+      }
+    },
+    {
+      "id": "kanroji-no-otouto",
+      "name": "Kanroji no Otouto",
+      "alt_names": [
+        "甘露寺の弟",
+        "Kanroji's Brother"
+      ],
+      "role": "minor",
+      "description": "This unnamed boy is the younger brother of Love Hashira [Mitsuri Kanroji](https://anilist.co/character/136072/Mitsuri-Kanroji).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b310310-S5DXJzOVFu4m.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 310310
+      }
+    },
+    {
+      "id": "kazumi",
+      "name": "Kazumi",
+      "alt_names": [
+        "和巳"
+      ],
+      "role": "minor",
+      "description": "Kazumi was a minor character in Kimetsu no Yaiba. He was a villager whose fiancée, Satoko, was kidnapped and eaten by the Swamp Demon.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b310311-dQPOkhVMGOuv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 310311
+      }
+    },
+    {
+      "id": "kuina-ubuyashiki",
+      "name": "Kuina Ubuyashiki",
+      "alt_names": [
+        "産屋敷くいな"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "age": "8",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b380023-4UZZf6WA8U4U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 380023
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:25:04.963Z"
+  "updated_at": "2025-12-23T07:09:47.896Z"
 }

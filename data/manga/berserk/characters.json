@@ -1,6 +1,6 @@
 {
   "work_id": "berserk",
-  "count": 25,
+  "count": 68,
   "characters": [
     {
       "id": "guts",
@@ -587,7 +587,1001 @@
       "external_ids": {
         "anilist": 7869
       }
+    },
+    {
+      "id": "irvine",
+      "name": "Irvine",
+      "alt_names": [
+        "アーヴァン"
+      ],
+      "role": "supporting",
+      "description": "Irvine is a prominent archer in the new Band of the Hawks. He has never spoken to anyone on page but Sonia. His eyes have neither pupils nor irises. A self-described hunter and loner, he prefers to camp out in the woods whilst indulging in his only known pleasure: playing the lute by the campfire.   Irvine's precision with the bow is peerless. He is able to fire off several arrows simultaneously with unerring accuracy. The bow itself seems to funnel quite a bit of power into its arrows; foes hit at the neck find themselves headless. In his Apostle form his legs are replaced by a large wolf creature with horns and the same demonic eye as his bow and his body is now covered in fur and his face looks similar to that of a werewolf. In this new form he is able to remove and twist his tail hairs in to arrows and his horns can be used as a crossbow with string made from the horns. Once these arrows from his tail pierce the target they suddenly grow unusually large spikes with the shape of a root that perforate the target's body completely. He has formed a close bond with Sonia, who has taken to riding him as a mount during the final battle with Ganishka.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7871-YWkTzBL2BOp0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7871
+      }
+    },
+    {
+      "id": "rakshas",
+      "name": "Rakshas",
+      "alt_names": [
+        "ラクシャス"
+      ],
+      "role": "supporting",
+      "description": "Once a member of the Bākiraka Clan, Rakshas now supposedly serve the new Band of the Hawk. His entire body is covered by a black cloak and a mask, which seems to appear and disappear like a shadow.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7873-uBHBjMq1fl0y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7873
+      }
+    },
+    {
+      "id": "sonia",
+      "name": "Sonia",
+      "alt_names": [
+        "ソーニャ",
+        "Lady Sorceress",
+        "Sorceress of the Hawk"
+      ],
+      "role": "supporting",
+      "description": "Sonia is part of Griffith's reformed Band of the Hawk and is extremely devout in her admiration of him. Her parents were killed when Kushans came to her village. She was held prisoner by them until Griffith, with his apostles, rescued her and others in an assault against the invading Kushans forces.   Sonia, despite being surrounded in a surreal and sometimes horrific world, remains abnormally calm and shows no sign of fear for her life. On the contrary, she is amazed and cheerful about her position in the Hawks. She is gifted with the power of clairvoyance, which is amplified when she is near Griffith, with whom she has a childish infatuation and, because of this, is very jealous of Charlotte for being betrothed to Griffith.   Sonia uses her ability to sense people's emotions and see visions of the future to aid in the new Band of the Hawk's campaigns. She befriended Schierke when they met in Vritanis and foresees they'll meet again: referring to Schierke as an owl and herself a kite playing in a moonlight forest. She also struck a close relationship with the distant Irvine.  Sonia is a very clear cut counterpart of Casca: both have been rescued by Griffith, and both have had crushes on him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7874-fzJmDCTfbm4N.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7874
+      }
+    },
+    {
+      "id": "mule-wolflame",
+      "name": "Mule Wolflame",
+      "alt_names": [
+        "ミュール・ウォーフレイム"
+      ],
+      "role": "supporting",
+      "description": "One of the leftovers of Midland's army, Mule was caught by Griffith's aura and joined the new Band of the Hawk along with his fellow soldiers. Seems to be a guardian of sorts for Sonia, who refers to him as &quot;The Duck Prince&quot;",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7876-OWslFHIUQYdO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7876
+      }
+    },
+    {
+      "id": "ganishka",
+      "name": "Ganishka",
+      "alt_names": [
+        "ガニシュカ",
+        "Serpent Prince",
+        "Dread Emperor",
+        "Demon King",
+        "Demon God",
+        "Thunder Emperor",
+        "Shiva"
+      ],
+      "role": "supporting",
+      "description": "The Emperor of the Kushans, Ganishka is an Apostle who defies the Hawk, and plans on defeating him and conquering the world with his familiars and demons. He can manifest himself in mist and wields powerful dark magic and is known often called the Emperor of Terror, because of his cruel sadism and unusual sense of decoration.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7878-jSpsiJD2kgcQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7878
+      }
+    },
+    {
+      "id": "silat",
+      "name": "Silat",
+      "alt_names": [
+        "シラット"
+      ],
+      "role": "supporting",
+      "description": "The Prince of the exiled Bākiraka Clan, Silat serves Emperor Ganishka, hoping to restore the honor of his exiled clan. While only a human, Silat is still a powerful fighter and employs agility and acrobatic skills as well as various exotic weapons. However, after witnessing the Emperor's cruel and demonic nature, he seems to ponder his allegiance.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7879-nleONLu3YqUL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7879
+      }
+    },
+    {
+      "id": "the-skull-knight",
+      "name": "The Skull Knight",
+      "alt_names": [
+        "髑髏の騎士"
+      ],
+      "role": "supporting",
+      "description": "The Skull Knight is one of the most mysterious and prolific characters introduced in Berserk, a towering warrior dressed in full armor whose ornaments, especially his helmet, are shaped as parts of a human skeleton, hence his moniker, who rides a massive, ghostly black horse. Though ominous and macabre, he is an enemy of the Godhand and its acolytes, hunting down Apostles and devouring their Behelits; especially bitter is his rivalry with Zodd the Immortal, whom he was often showed to overwhelm with ease.   He wields a powerful sword that, when stuck down his throat, becomes a terrible, Behelit-coated blade capable of slashing rifts through reality itself, thus allowing the Skull Knight to move freely around the world or even between different dimensions.   This enigmatic knight saved Guts in more than one occasion, notably during the infamous Eclipse which saw Griffith become a member of the Hand of God or when Slan almost slaughtered him, though he never explained why, simply declaring that the Struggler (the way he calls Guts) has to keep following his fate. He was the wearer of the Berserker's Armor, and knew the witch Flora. During the duel between Griffith and Ganishka he suddenly appeared out of thin air through a dimensional rift, trying to land a fatal blow on the Hawk, only to see it diverted on the writhing body of the Kushan Emperor.\n\n~!It is heavily speculated that, during his life as a mortal, the Skull Knight was in fact Gaiseric, the warlord that unified the Midland and became its first Emperor, notorious for his helmet whose shape was that of a human skull and whose ambitions 'prompted God to send four Angels' (most likely the four members of the Hand of God) to punish him.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7881-I6JM88ItFsnS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7881
+      }
+    },
+    {
+      "id": "azan",
+      "name": "Azan",
+      "alt_names": [
+        "アザン"
+      ],
+      "role": "supporting",
+      "description": "Once a member of the Holy Iron Chain Knights, Azan is a chivalrous and religious knight, but eventually left the Holy Knights and became a wandering Knight. After ending up on the same ship as Guts and company, he have even helped Isidro in his training.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7882-pTZRwQA6onyf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7882
+      }
+    },
+    {
+      "id": "wyald",
+      "name": "Wyald",
+      "alt_names": [
+        "ワイアルド"
+      ],
+      "role": "supporting",
+      "description": "A notorious Apostle and leader of the tyrannical Black Dog Knights, a band of criminals and rapists. After the Bakiraka's failure, the brutal strength of Wyald was the last weapon for the King to send after Griffith and the Hawks.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19548-sXksL7KrpNH2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19548
+      }
+    },
+    {
+      "id": "rosine",
+      "name": "Rosine",
+      "alt_names": [
+        "ロシーヌ"
+      ],
+      "role": "supporting",
+      "description": "Rosine is a female apostle who sacrificed her parents to obtain the form of a female elf with the wings and antennae of a luna moth, as well as a small pair of moth-like limbs near her hips and a &#039;helmet&#039; similar to the head of a luna moth. Her motivation for doing so was the legend of a child named Peekaf who believed himself an Elf and in doing so lost his human parents. She refers to herself as the Queen of the Elves and her true form is a monstrous female Luna Moth. Dwelling in the Misty Valley, she terrorized a nearby village, sending an army of insect demons disguised as elves to eat the town&#039;s livestock and people, as well as capturing children that she transformed into more insect demons via cocoons. \n~!Guts, Puck, and Rosine&#039;s former friend Jill travelled to the Misty Valley to confront Rosine, who offered to make Jill an elf apostle. Jill was tempted by the promise of flight, but was uneasy with the warlike ways of the elf demons who would kill each other for fun. Guts found and destroyed the elf demon cocoons, and an enraged Rosine battled Guts until she was so badly injured that she could no longer fight. As Guts was about to deliver a killing blow, Jill shielded Rosine with her body. It did nothing to stop Guts, but before he could act, Jill&#039;s father arrived and shot him with an arrow. Guts was then attacked by the Holy Iron Chain Knights, led by Farnese. Mortally wounded, Rosine finally understood the moral of Peekaf&#039;s fable and in her delirium attempted to return home to her parents but ultimately succumbed to her injuries and fell from the sky to her death.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19553-6gsT45cT4WSS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19553
+      }
+    },
+    {
+      "id": "hakushaku",
+      "name": "Hakushaku",
+      "alt_names": [
+        "伯爵",
+        "Slug Baron"
+      ],
+      "role": "supporting",
+      "description": "The Count was once a strong war general and ruled his kingdom fairly, but after he found his wife in a large pagan orgy, he sacrificed her and became an Apostle of the God Hand. Afterwards, his kingdom was enveloped in darkness. The one light left in his life was his daughter, Theresa.  \n\nThe Count makes a brief appearance in anime episodes 22 &amp; 25, where he appears in a demonic giant slug-like form.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b20370-QvIaGqOp2Thc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 20370
+      }
+    },
+    {
+      "id": "vargas",
+      "name": "Vargas",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Vargas was once the Count's doctor, but when his master became an Apostle, Vargas was one of the first to see his true form. After witnessing horror after horror, Vargas attempted to flee the castle with his wife and two sons. However, members of the Count's staff captured him as he fled. His family was executed and Vargas was tortured by the Count, leaving him horribly disfigured. Vargas now lives only to see the Count's downfall.     (Source: Skullknight.net)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/20371.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 20371
+      }
+    },
+    {
+      "id": "general-boscogne",
+      "name": "General Boscogne",
+      "alt_names": [
+        "ボスコーン"
+      ],
+      "role": "supporting",
+      "description": "Boscogne is the ultra powerful commanding officer of Tuda's most powerful force, the Purple Rhinos. He is politically bound to take orders from Lord Gennon.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21706-2ae3Kg1PgiSf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21706
+      }
+    },
+    {
+      "id": "lord-gennon",
+      "name": "Lord Gennon",
+      "alt_names": [
+        "ゲノン"
+      ],
+      "role": "supporting",
+      "description": "Lord Gennon is a high-ranking noble in Chuder. During the early days of the Band of the Hawk, he hired them for a number of jobs. A notorious pedophile, he developed an attraction for Griffith, which culminated when Griffith agreed to sleep with him in exchange for funds to support the growing Band. He is often seen to be attended by many very young male servants, no older than being in their teens. Gennon's voice was done by Masashi Oki in the Japanese version of the original anime and Fred Velde was his English voice actor.   ~!Gennon later rose to become Governor of Doldrey. When General Boscone reveals that the Band of the Hawk's leader is Griffith, his obsession starts to cloud his judgement, which would eventually lead to his defeat. When the Band of the Hawk attacked Doldrey as part of Midland's regular army during the One Hundred Years War, Gennon became so obsessed with capturing Griffith to the detriment of his greater military objectives. Chuder lost the battle, in large part because Gennon overrode the military command structure and took direct control of Chuder's forces, which was all in Griffith's plan. In his final moments, he pleaded with Griffith, telling him that all he wanted was to have him back. This plea fell upon deaf ears as Gennon was killed by Griffith after the main part of Chuder's army fled the battlefield following the death of General Boscone at Guts's hands.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21707-auQCxojqrGzm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21707
+      }
+    },
+    {
+      "id": "luca",
+      "name": "Luca",
+      "alt_names": [
+        "ルカ"
+      ],
+      "role": "supporting",
+      "description": "Luca is the leader of a band of prostitutes at Albion. Red-haired and fiercely loyal to her charges, she is romantically linked to the Holy Iron Chain Knight Jerome. When Jerome gave her a necklace of pearls, she divided them evenly among her girls, believing that they could only survive the hysteria of the heretic hunts by eliminating any cause for jealousy.   Luca took in the wayward Casca, calling the mute former Hawk commander Elaine. She covered Casca's face in bandages, pretending that Casca had contracted syphilis.    ~!When the cowardly prostitute Nina visited the nearby goat worshiping cult, and she threatened to turn Luca over to the worshipers, Luca smacked and then spanked the blond haired girl, causing her to submit. When Pepe, one of her prostitutes, was accused of heresy, Luca came to her defense. Luca and Pepe were saved from arrest by a timely appearance by Guts. When Guts discovered that Luca had seen Casca, Luca attempted to reunite him with Casca, but she could not since Nina had taken the mute girl to the cult. When Casca and Nina were taken to Mozgus, Luca bribed a guard to allow her to enter the monastery. While Guts was looking for Casca, Luca released Nina from her imprisonment. After Isidro challenged Mozgus to release Casca, one of the priest's torturers attacked, causing Luca to fall. Nina grabbed Luca and tried to hold her, but Luca let go. Luca was spared injury because she was caught by the Skull Knight. She then met the Egg of the Perfect World, who explained his purpose to her. When Albion was being overrun by monsters, Luca hid Nina in a barrel and herself in as well. As a result, Luca and Nina survived the carnage.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b26394-jH9uzZ3ViryM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 26394
+      }
+    },
+    {
+      "id": "jill",
+      "name": "Jill",
+      "alt_names": [
+        "ジル"
+      ],
+      "role": "supporting",
+      "description": "Jill is a quiet, sensitive girl who lives in a village (which at the time that Guts and Puck arrive) is being plagued by violent attacks from fairies. Her father, Mr. Zepek, is a reminiscent drunk, who basks in the memory of his former days in the military and pays little attention to Jill, while her mother is a more caring and compassionate woman who as well suffers a bit of neglect from her husband. She sets out with guts and Puck to find her friend Rosine in the forest, despite the many dangers and trials that await. At the end of their journey she asks Guts if she can accompany him on his quest for revenge, Guts declines and insists that Jill stays in her village with her parents. Guts&#039; Journey is a dark one, filled with hate and violence. perhaps he knew it was best for such a tender young girl not to accompany him.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b27057-l74SVdx6ouOk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27057
+      }
+    },
+    {
+      "id": "yami-no-kemono",
+      "name": "Yami no Kemono",
+      "alt_names": [
+        "闇の獣",
+        "Beast of Darkness",
+        "Hellhound"
+      ],
+      "role": "supporting",
+      "description": "The Hellhound (also known as the Beast Of Darkness) is a creature which sometimes appears to Guts, taunting him, questioning the morality of his quest for revenge, and urging him to commit ever-greater atrocities, most notably attempting to convince him to rape Casca. While it at first appears to be a demon or evil spirit of some kind, it also appears to Guts inside Godo&#039;s cave which evil spirits cannot enter. This would seem to imply that it is either a hallucination or otherwise a part of Guts&#039; mind.    The Hellhound might be the embodiment of Guts&#039; own rage and hatred at the God Hand, the Apostles and especially Griffith after the Eclipse. Among other things, it wants Guts to kill Casca so that he can get back to seeking revenge.     The fact that in the past (volume 5, chapter 3: Wind of Swords) Casca shouted in anger to Guts that he is just a &quot;mad dog&quot; it is probably the reason why his inner beast is represented as the Hellhound.     When Guts uses the Berserker armor, the helmet appears very similar to the Hellhound&#039;s head. The Hellhound appears to be strengthened by repeated use of the armor, but is held in check by Guts&#039; affection and loyalty for his companions. These two forces are constantly at odds: in his latest appearance, the Hellhound seemed larger and stronger than ever, but was bound by thick chains. However the Hellhound has vowed should the time come when Guts was too weak to subdue him, the Hellhound would break free and take over Guts and kill all those Guts held dear.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b27213-96eMPmdvCm1D.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27213
+      }
+    },
+    {
+      "id": "flora",
+      "name": "Flora",
+      "alt_names": [
+        "フローラ"
+      ],
+      "role": "supporting",
+      "description": "Flora is Schierke&#039;s mistress, who taught her in the arts of magic and Od (spirit energy, life force, etc). In addition to being a powerful witch of indeterminate age, she is an old friend of the Skull Knight, whom she sees as &quot;still having a human heart.&quot; This would imply that Flora knew the Skull Knight before he took on his current ghoulish form.     Prior to her living in the woods outside Enoch village, she wandered the land, helping people with her magic until the Holy See&#039;s influence drove her into seclusion.    Flora helped Guts&#039; company, at the request of the Skull Knight, by putting magical seals on Guts&#039; and Casca&#039;s brands, stopping evil spirits from being attracted to them. She also provided them with much needed magical equipments in their fight with the trolls. Flora told Schierke that Guts is the man with whom her destiny is bound, though Schierke did not believe at first.     ~!She dies willingly in a fire when Griffith sends apostles to hunt down any witches powerful enough to oppose him, but not before securing an escape route for Schierke and Guts&#039; companions to flee the destruction of her home.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b29388-QmxbfQlqCXMx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 29388
+      }
+    },
+    {
+      "id": "isma",
+      "name": "Isma",
+      "alt_names": [
+        "イスマ"
+      ],
+      "role": "supporting",
+      "description": "Isma is a young fishing girl who lives by the outskirts of the village on an island that holds the Sea God.    Isma has short hair with long bangs that will cover half her face at times. Her eyes are much rounder that that of and average person and has a few freckles on her nose.    She claims that her father was courting a merrow but admits that she is all human, dispite this she can still fish as good as any other merrow and Schierke saw a strange aquatic od/ aura around her. It was because of this and the story of the merrow sealing the Sea God on the island that she now lives on, the people of the village shun her and so she decided to move to the outskirts of town.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b30669-1F3ZmglmGIoF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 30669
+      }
+    },
+    {
+      "id": "mozgus",
+      "name": "Mozgus",
+      "alt_names": [
+        "モズグス",
+        "Bloody Scripture Mozgus",
+        "The Great Angel",
+        "Bloodthirsty Mozgus"
+      ],
+      "role": "supporting",
+      "description": "Mozgus is one of the chief Inquisitors of the Holy See, traveling the world with his group of torturers, sent to root out a violent cult of heretics in the city of St. Albion. He&#039;s the main antagonist in the Tower of Conviction, hindering with his excessive religious zeal Guts&#039; efforts in saving Casca. His symbol are four torture wheels, embodying his willingness to use torture as a way to cleanse people from evil.    [/b]Life[/b]    Mozgus, prior to the events told in the Resurrection Arc was a zealous Inquisitor, acting on behalf of the Holy See. There he recruited a small group of marginalized, disfigured individuals, comforting them by reading parts of the Holy See Doctrine, meant to reassure them that even their disfigurements were meant to be worn with pride as a gift from God, and training them in his particular brand of torture, vicious and rarely leading its survivors to walk away without serious wounds.    He is then sent to St. Albion to root out heretics on the behalf of the Holy See, requesting the Holy Iron Chain Knights as his personal guard. Albeit a true heretical group is brewing in the mountains surrounding St. Albion, based on orgiastic rituals, Mozgus himself apparently does little to stop them, managing to capture many of them only by Farnese&#039;s intervention. Instead, he sets every bit of his attention towards smothering in blood and torture the rebellions of the poor and starving population of St. Albion against the tyrannical rule of the Holy See. Mozgus sees such acts of defiance against himself as defiance against God, whose rule he&#039;s meant to embody.    Physically tall and strong, harsh and demanding with everyone, even himself, he impresses Farnese by smothering several rebellions with threat of death and torture, sparing only a young mother asking more food for her starving child. Though Mozgus does give the child food and medical attention, he sentences the woman to torture with a tearful prayer that she survive the &quot;test&quot; that God has prepared for her, and attempting to use the encounter as a lesson to Farnese about the harshness of God&#039;s doctrine.     ~!Upon capturing Casca, mistaken as a witch by the local heretics and priests alike, he realizes how the recent accounts of the Black Swordsman may be related to the mute, amnesiac branded girl, so, as usual, tries to torture her as a way to get some more information. Instead, he merely triggers the appearance of a huge band of demons, attracted by the Tower itself, chosen place for the Incarnation Ceremony, and the presence of the Brand. Mozgus doesn&#039;t flinch at all, instead closing himself in the chapel of the Tower of Rebirth, where the Apostle-Behelit uses his venom to turn Mozgus and his servants into Apostle-spawns with angelic features, as a way to hasten the Incarnation Ceremony.    Without ever knowing what befell him, Mozgus believes that his angelic wings, his increased stamina and the growing of a scaly hide able to withstand blows from the Dragonslayer and Guts&#039; arm cannon were gifts from God, and decides, as a way to stop the Ceremony and quell the population&#039;s fears, to burn Casca at the stake, forcing Guts to come out.    After an heated battle against his mutated servants, Guts himself is almost defeated by Mozgus, until he manages to drive his sword into the only weak spot in Mozgus&#039; hide: a small, weaker plate with the Holy See insignia, a representation of the Holy Book he always brings with him. Shortly after his death, the Incarnation Ceremony is completed, with Griffith&#039;s rebirth and the total destruction of St. Albion.!~     _source: http://berserk.wikia.com/wiki/Mozgus _",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b32488-hvSdwbROg4qc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 32488
+      }
+    },
+    {
+      "id": "bazuso",
+      "name": "Bazuso",
+      "alt_names": [
+        "バズーソ",
+        "The Grey Knight",
+        "Thirty-Man Slayer",
+        "ボスコーン"
+      ],
+      "role": "supporting",
+      "description": "Bazuso was exaggerated in stature, and stood much taller than other men. Although he was killed before he could be seen without his armor, it can be inferred that his physique was very muscular due to the excessive size of his weapon, as well as the incredible size and weight of his armor.\n\nBazuso was a violent and brash man. He was greatly arrogant and seemingly viewed himself as superior to his foes, taunting those reluctant to attack him and loudly goading his enemies right in front of him. He bore an insatiable drive for combat and possessed incredible physical strength, which allowed him to easily slay anyone who challenged him. However, after Guts emerged as the victor of their duel and mortally wounded Bazuso, he attempted to yield before Guts finished him off.\n\nBazuso's strength and fighting ability became infamous throughout the battlefield. It is said that he once successfully took on over thirty men in combat, earning him the moniker of \"Thirty-Man Slayer\", and that he defeated a bear by himself, both of which were testaments to his incredible physical strength. Bazuso was strong enough to send men flying with a single swing of his battleaxe, even when using just one arm.\n\nBazuso wielded a large battleaxe during his fight against Guts. Due to his fearsome reputation, one can assume that he was very skilled in wielding it. Furthermore, the size of the battleaxe complimented Bazuso's height, giving him a wide reach in combat.\n\nPlaced in charge of a fortress under siege by a band of mercenaries, Bazuso leaves the group frozen in fear on sight, intimidated by the immense reputation of the battleaxe wielding man. As Bazuso taunts his enemies, Guts, a young independent mercenary, puts himself forward to remedy the problem; he tells his employer that he will kill Bazuso in exchange for seven pieces of gold. Though Bazuso intends to humor Guts in accepting his duel, expecting to kill the young swordsman with little effort, the ensuing battle is fought on equal terms. After an exchange of blows, Guts is fortunate enough to be able to damage Bazuso's battleaxe and deliver a powerful slash to his waist, forcing the colossal man to his knees. In his final moments, Bazuso attempts to yield for his life; Guts quickly drives his sword down into the neutralized man's head, splitting it half-way, one of Bazuso's eyes dislodged from the impact. It is Guts' triumph over Bazuso that earns him the attention of the Band of the Falcon, and more specifically, Griffith.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b49343-4SacxmbJQ2X9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 49343
+      }
+    },
+    {
+      "id": "julius",
+      "name": "Julius",
+      "alt_names": [
+        "ユリウス"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b49607-2cpTruylbLyE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 49607
+      }
+    },
+    {
+      "id": "moonlight-boy",
+      "name": "Moonlight Boy",
+      "alt_names": [
+        "月下の少年",
+        "Demon Child"
+      ],
+      "role": "supporting",
+      "description": "Along the sea shore, Guts' party came across a young male child who not only looks similar to Guts and Casca but shows an attraction to both of them. When Guts began to be consumed by the Berserker Armor during a fight with Ganishka's monsters, the boy was able to telepathically call him back to his senses before vanishing as mysteriously as he appeared. He appears again on the Sea God's Island when Casca tries to save it. \n\n~!Griffith is actually sharing the body with Guts and Casca’s child. Femto raping Casca corrupted her unborn child with Guts; that corrupted kid looked like an unborn embryo and was called the Demon Child. The child protected Casca and Guts on many occasions. However, the Apostle Egg of the Perfect World later swallows the embryo. The Demon Child later evolved into an infant inside the Apostle Egg, and later Griffith used the infant’s body for the incarnation ceremony. Therefore, the two now end up sharing the body, and Griffith transforms into Guts and Casca’s child on nights of full moons.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55193-QR4gd0HxOboC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55193
+      }
+    },
+    {
+      "id": "nina",
+      "name": "Nina",
+      "alt_names": [
+        "ニーナ"
+      ],
+      "role": "supporting",
+      "description": "A young, reckless prostitute. Nina is a member of Luca's group of travelling prostitutes. During her time at Albion, she dated Joachim, a young refugee. At one time she was a member of a heretic cult group, who held orgies in a cave, worshipping the Goddess of Fire. During her ordeal in the cave, Nina contracted a disease similar to tuberculosis.  Soon after the Tower of Conviction was destroyed, she apologised to Luca for all the trouble she had caused, but soon left afterwards with Joachim, who survived the fall from the cliffs.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55205-sdqY1n1LSyqZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55205
+      }
+    },
+    {
+      "id": "roderick-of-staufen",
+      "name": "Roderick of Staufen",
+      "alt_names": [
+        "ロデリック・オブ・シュタウフェン",
+        "Prince of the Seas"
+      ],
+      "role": "supporting",
+      "description": "Roderick of Staufen, the third prince of the island nation Eath is the childhood friend of Magnifico and the fiancé of Farnese.  As a sailor, he sees vast potential in the exploration of the seas, unlike his peers, who focus internally to the point of stagnation. As part of Magnifico's plan to join the Vandimion name with the royal Eath family, Roderick agreed to be Farnese's fiancé. His obvious motivations for this arranged marriage are the vast opportunities and support the Vandimion name could bring him, but he seems to take a personal interest in the heiress as well due to her reputation.   Roderick has been used as a way for the author to delve into Guts' deeper psyche by asking him questions about himself and Casca. Guts approves of his naval prowess, as indicated in the fight against the pirates. It is not known whether Roderick is in love with Farnese, but he does try to win her affection, even in the delicate matter concerning her own affection for Guts.   Roderick, with his long black ponytail, his good looks and devil-may-care attitude, is an excellent charmer and a decent swordsman, and demonstrates a willingness to fight the demons, even though he is ill equipped to take them on. He is currently ferrying Guts and company aboard his ship, on their way to Skellig.  Roderick and his crew also have a claim to fame on the high seas: His ship, the Sea Horse, downed 5 Tudor vessels on its own, thus earning Roderick the title of \"Prince of the Seas\".  He and Isidro think very much in the same line in presence of women.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55333-PJueSqqJF1Sn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55333
+      }
+    },
+    {
+      "id": "adon-coborlwitz",
+      "name": "Adon Coborlwitz",
+      "alt_names": [
+        "アドン コボルイッツ"
+      ],
+      "role": "supporting",
+      "description": "He is General of the Blue Whale Knights. Adon's resilience and extended speeches are legendary. He also possesses a wide array of ancient techniques passed down through generations of the Coborlwitz family, which helped him surviving several battles with the Band of the Hawk.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b57715-eJlChRTXuffF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 57715
+      }
+    },
+    {
+      "id": "midland-no-ouhi",
+      "name": "Midland no Ouhi",
+      "alt_names": [
+        "ミッドランドの王妃",
+        "Queen of Midland"
+      ],
+      "role": "supporting",
+      "description": "The queen is [Charlotte](https://anilist.co/character/614)'s step mother. She disapproves of Charlotte's interest in Griffith.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58299-5MxYN0tic37y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58299
+      }
+    },
+    {
+      "id": "foss",
+      "name": "Foss",
+      "alt_names": [
+        "フォス"
+      ],
+      "role": "supporting",
+      "description": "Minister Foss is a master of court intrigue. \n\n~!He conceived 2 plots in an attempt to kill Griffith. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b58301-MYjTqF9aUsqD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 58301
+      }
+    },
+    {
+      "id": "martino",
+      "name": "Martino",
+      "alt_names": [
+        "マルティノ"
+      ],
+      "role": "supporting",
+      "description": "A crafty old mercenary met by Guts after a defeat on the battlefield. Kind and wise, he created an opening for Guts to escape their guards, but in fact, he used him as a bait for his own escape.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b64499-1qYH18vf8mv4.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 64499
+      }
+    },
+    {
+      "id": "erica",
+      "name": "Erica",
+      "alt_names": [
+        "エリカ",
+        "Erika"
+      ],
+      "role": "supporting",
+      "description": "Adopted daughter of Godo. She was in a wagon being chased by trolls when the Band of the Hawk and Irvine saved her.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b73441-wRNZJLhF4tCB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73441
+      }
+    },
+    {
+      "id": "chicchi",
+      "name": "Chicchi",
+      "alt_names": [
+        "チッチ",
+        "Flower Sprit",
+        "Kawa no Hikari",
+        "Chitch"
+      ],
+      "role": "supporting",
+      "description": "Chicchi is the first Spirit Guts encounters as a young man and consequently, his first encounter with the supernatural. Chicchi is a Spirit of a flower in a small prison, and was always alone until she met Guts. Its never revealed if she was part of a dream or real.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b74513-2NZhujr2KIKB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74513
+      }
+    },
+    {
+      "id": "donovan",
+      "name": "Donovan",
+      "alt_names": [
+        "ドノヴァン"
+      ],
+      "role": "supporting",
+      "description": "Donovan was a mercenary in the same band as Guts and Gambino.\n\n~!He took an interest in the young Guts and offered Gambino three silver coins to have him for the night, unbeknownst to Guts. When night came, Donovan went into Guts' tent and after a small struggle, forced himself onto the boy while telling him that Gambino was the one who prostituted him. After that night, he is murdered by Guts, who followed him to a secluded spot during a battle.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132490-VrzVB9JTWs2A.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132490
+      }
+    },
+    {
+      "id": "theresia",
+      "name": "Theresia",
+      "alt_names": [
+        "テレジア"
+      ],
+      "role": "supporting",
+      "description": "Theresia is introduced as the Count's daughter, much to Puck's shock, as the elf is given to her as a gift. She appears stiff and stoic around her father, and recoils when he attempts to touch her. Despite Puck's fear of her, she quickly assures him she won't harm him and that she knows what it's like to live in a cage, before opening up to him about her life. Describing the change her father went through seven years ago, she states that her mother was killed by a band of heretics, inspiring the demonic change in her father and his appalling bloodlust.\n\nSoon, Puck has to leave in order to help Guts, but assures her that he will come back. However, before Puck can fulfill this promise, Theresia leaves her room on her own, inspired by Puck's own freedom, and walks in on Guts' battle with her monstrous father in Apostle form. Terrified and with her worst fears confirmed, Theresia runs away, but is taken hostage by Guts, who uses the opening presented to blast the Count's face apart and cleave off his head. Theresia cries while Guts torments her father viciously, though it is unknown if she feels he is going too far or is simply overwhelmed by the events.\n\n~!Theresia is quickly reduced to hysterics as the God Hand arrive, being suggested and pushed as a sacrifice while Ubik shows her and everyone present the truth of how her mother died: the Count's wife was discovered in a pagan orgy of her own accord while he was gone, and unable to kill her, he sacrificed her to the God Hand to escape his sorrow and become an Apostle. Theresia is nearly sacrificed, but the Count cannot bring himself to do it, and she witnesses him dragged off the to Abyss and, as the real world rematerializes around her, sobs over the human corpse of her father.\n\nTheresia considers suicide and attempts it after being goaded by a dispassionate Guts, only for Puck to intervene. Nearly falling off the cliff, she is given a foothold by Guts, who brings her back onto the ledge. Regardless, she angrily blames him for killing her father and ruining her life, and swears she will have revenge on him one day. Guts cockily takes this in stride, reminding her that she now has a reason to continue living, though deep down he is saddened by what he has turned Theresia into.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162627-TGAPx2PonJqi.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162627
+      }
+    },
+    {
+      "id": "morda",
+      "name": "Morda",
+      "alt_names": [
+        "モルダ",
+        "Moruda"
+      ],
+      "role": "supporting",
+      "description": "Morda is a young witch from Skellig island. \n\nDebut: Chapter 343",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b182274-hZpE7qhFrtVM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 182274
+      }
+    },
+    {
+      "id": "laban",
+      "name": "Laban",
+      "alt_names": [
+        "ラバン"
+      ],
+      "role": "supporting",
+      "description": "Laban was a high-ranking noble in Midland's Court. During the Hundred-Year War, Laban was a general for Midland and put great faith in Griffith's abilities.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193813-toW59GQj2EgX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 193813
+      }
+    },
+    {
+      "id": "owen",
+      "name": "Owen",
+      "alt_names": [
+        "オーウェン"
+      ],
+      "role": "supporting",
+      "description": "Owen is of similar rank to that of Laban, and he also shares the equal amount of respect for Griffith. Together, they are the most humanitarian among Midland's nobles. He led Midland's Toumel Knights.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193814-uksEePSDAnzr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 193814
+      }
+    },
+    {
+      "id": "anna",
+      "name": "Anna",
+      "alt_names": [
+        "アンナ"
+      ],
+      "role": "supporting",
+      "description": "Anna is the faithful and loyal servant of Charlotte.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193851-xADWNYm3BtJQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 193851
+      }
+    },
+    {
+      "id": "gedfring",
+      "name": "Gedfring",
+      "alt_names": [
+        "ゲドフリン"
+      ],
+      "role": "supporting",
+      "description": "Gedfring is a great guru of Skellig. He governs over a mage village of the island.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193852-oKypYF52wxqx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 193852
+      }
+    },
+    {
+      "id": "bonebeard",
+      "name": "Bonebeard",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Bonebeard was the captain of the pirate crew that Isidro and Mule Wolflame were forced to fight to save Schierke and Sonia. The ship he captained was called the Captain Sharkrider.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199051-4fJd0PZwE3Cy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199051
+      }
+    },
+    {
+      "id": "morgan",
+      "name": "Morgan",
+      "alt_names": [
+        "モーガン"
+      ],
+      "role": "supporting",
+      "description": "Morgan is a native of the Enoch Village.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199052-OQXIhzTy6tCI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199052
+      }
+    },
+    {
+      "id": "kanpeki-sekai-no-tamago",
+      "name": "Kanpeki Sekai no Tamago",
+      "alt_names": [
+        "完璧な世界の卵",
+        "Egg of the Perfect World",
+        "Egg-Shaped Apostle",
+        "The Behelit Apostle",
+        "Nobody"
+      ],
+      "role": "supporting",
+      "description": "The Egg of the Perfect World was a deformed outcast of society who became an apostle, watching over the city of Albion. \n\n~! While initially serving as a minor antagonist in the Conviction Arc, the Egg ultimately acted as the key needed to reconstitute Griffith into a corporeal form by means of self-sacrifice. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229401-lfLa9XcHJPbz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229401
+      }
+    },
+    {
+      "id": "danann",
+      "name": "Danann",
+      "alt_names": [
+        "ダナン",
+        "Flower Storm Monarch"
+      ],
+      "role": "supporting",
+      "description": "The Flower Storm Monarch (real name Danan) is the lord of the elves, ruling over Elfhelm on the island of Skellig.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b247955-UEvMW95RbuQr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 247955
+      }
+    },
+    {
+      "id": "adonis",
+      "name": "Adonis",
+      "alt_names": [
+        "アドニス"
+      ],
+      "role": "supporting",
+      "description": "Adonis was the son of [Julius](https://anilist.co/character/49607/). He was a slim child with long, blonde hair and brown eyes (blue in the movie). In the anime, he wears a green shirt, but in the movie he wears grey noble clothes.\n\nHe was a timid young boy who trained with his father in swordplay, who was excessively brutal and harsh when they sparred.\n\n~! After his assassination of Julius, [Guts](https://anilist.co/character/422/) accidentally stabs the young boy through the chest when he approaches the door to the scene. Adonis grasps Guts' hand before he dies, much to the swordsman's horror. According to the caretaker Hassan, Adonis never once saw his father smile. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300544-wk75wHRllpH6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300544
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:23:27.131Z"
+  "updated_at": "2025-12-23T06:37:25.198Z"
 }

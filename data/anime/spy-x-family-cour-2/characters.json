@@ -1,6 +1,6 @@
 {
   "work_id": "spy-x-family-cour-2",
-  "count": 25,
+  "count": 38,
   "characters": [
     {
       "id": "loid-forger",
@@ -631,7 +631,340 @@
       "external_ids": {
         "anilist": 290959
       }
+    },
+    {
+      "id": "george-glooman",
+      "name": "George Glooman",
+      "alt_names": [
+        "ジョージ・グルーマン"
+      ],
+      "role": "supporting",
+      "description": "A student at Eden Academy and a member of Cecile Hall. He is the son of the CEO of Glooman Pharmaceuticals, a company later bought by the Desmond Group.",
+      "metadata": {
+        "gender": "male",
+        "age": "6",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b291621-A88lxV8BEuxM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 291621
+      }
+    },
+    {
+      "id": "george-no-chichi",
+      "name": "George no chichi",
+      "alt_names": [
+        "ジョージの父",
+        "Jack Glooman"
+      ],
+      "role": "supporting",
+      "description": "Father of George Glooman. He was the CEO of Glooman Pharmaceuticals until the company was bought by The Desmond Group.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b291622-qcGXfniqDvFQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 291622
+      }
+    },
+    {
+      "id": "kim-campbell",
+      "name": "Kim Campbell",
+      "alt_names": [
+        "キム・キャンベル"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293393-QufNViZKdEO1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293393
+      }
+    },
+    {
+      "id": "carrol-campbell",
+      "name": "Carrol Campbell",
+      "alt_names": [
+        "キャロル・キャンベル"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293394-qpWc7ObaEuGl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293394
+      }
+    },
+    {
+      "id": "cavi-campbell",
+      "name": "Cavi Campbell",
+      "alt_names": [
+        "キャビー・キャンベル"
+      ],
+      "role": "supporting",
+      "description": "After obtaining a fortune in the energy sector, he became known as one of the world's foremost collectors of classical art. He is one of the organizers of Campbelldon, an underground tennis competition.",
+      "metadata": {
+        "gender": "male",
+        "age": "56",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293395-WV8hfeXhtnfx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293395
+      }
+    },
+    {
+      "id": "erik-zacharis",
+      "name": "Erik Zacharis",
+      "alt_names": [
+        "エリック・ザカリス",
+        "Colonel Zacharis (ザカリス大佐)"
+      ],
+      "role": "supporting",
+      "description": "Colonel Zacharis was in the East's Military Intelligence Division during the war and played a major role in ending the war. He previously owned the Lady In The Sun painting that holds a clue to the location of the Zacharis Dossier, rumored to contain information that could \"reignite the war.\"",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293859-fvETD1y4t8UH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293859
+      }
+    },
+    {
+      "id": "wise-kikanin",
+      "name": "WISE Kikanin",
+      "alt_names": [
+        "<WISE> 機関員",
+        "WISE Engineer"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293860-2TdtCUGpuQY2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293860
+      }
+    },
+    {
+      "id": "martha-marriott",
+      "name": "Martha Marriott",
+      "alt_names": [
+        "マーサ・マリオット"
+      ],
+      "role": "supporting",
+      "description": "Butler of the Blackbell family and typically acts as [Becky](https://anilist.co/character/150423)'s caretaker.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b294502-LjGDcdOuXxbU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294502
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "minor",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
+    },
+    {
+      "id": "bondman",
+      "name": "Bondman",
+      "alt_names": [
+        "ボンドマーン"
+      ],
+      "role": "minor",
+      "description": "The protagonist of Spy Wars and the number one spy in the show. He frequently has to take down enemies from the League of Evil in order to save Princess Honey.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274081-OQdVAPCoTuBI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 274081
+      }
+    },
+    {
+      "id": "honey-hime",
+      "name": "Honey-hime",
+      "alt_names": [
+        "ハニー姫",
+        "Hanī-hime",
+        "Princess Honey"
+      ],
+      "role": "minor",
+      "description": "Princess of the kingdom where Spy Wars takes place. She is frequently saved by Bondman which has caused her to develop feelings for him.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b277084-gzuXbmilBj3I.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 277084
+      }
+    },
+    {
+      "id": "becky-no-chichi",
+      "name": "Becky no Chichi",
+      "alt_names": [
+        "ベッキーの 父",
+        "Becky's Father",
+        "Mr. Blackbell"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b294503-esqhsK5loh9e.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294503
+      }
+    },
+    {
+      "id": "demetrius-desmond",
+      "name": "Demetrius Desmond",
+      "alt_names": [
+        "デミトリアス・デズモンド"
+      ],
+      "role": "minor",
+      "description": "First son of the Desmond family and the older brother of [Damian Desmond](https://anilist.co/character/150424/). He is an Imperial Scholar and is noted by [Loid Forger](https://anilist.co/character/138101/) to be an exceptional student, barely getting a single question wrong on the midterm exams.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b294960-zuworBFPDUqY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294960
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:22:33.689Z"
+  "updated_at": "2025-12-23T05:21:57.895Z"
 }

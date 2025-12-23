@@ -1,6 +1,6 @@
 {
   "work_id": "sword-art-online",
-  "count": 25,
+  "count": 51,
   "characters": [
     {
       "id": "kazuto-kirigaya",
@@ -606,7 +606,580 @@
       "external_ids": {
         "anilist": 70687
       }
+    },
+    {
+      "id": "rosalia",
+      "name": "Rosalia",
+      "alt_names": [
+        "ロサリア"
+      ],
+      "role": "supporting",
+      "description": "Rosalia is the leader of the orange guild Titan's Hand, she was caught by Kirito and sent to the prison managed by The Army.  As the leader of the guild, and in order to maintain her \"green\" status, she looks for victims and lures the players to a place where the other members of the guild attack and loot the player, while she maintains her «green cursor» to avoid suspicion.  (Source: SAO Wiki)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71579-cZZK4dQuCB5d.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 71579
+      }
+    },
+    {
+      "id": "nobuyuki-sugou",
+      "name": "Nobuyuki Sugou",
+      "alt_names": [
+        "須郷伸之",
+        "Fairy King Oberon"
+      ],
+      "role": "supporting",
+      "description": "Originally selected by Asuna's father to marry Asuna, he was adopted into her family on her father's wishes. He attended the same school with Kayaba Akihiko, who he viewed as a rival. During the Sword Art Online incident, he took advantage of the chaos to steal test subjects for research along with Asuna. In ALfheim Online he adopts the persona Fairy King Oberon  As the Fairy King Oberon, he keeps Asuna locked up in a bird cage at the top of the World Tree. In the real world, he confronts the powerless Kazuto by voicing his intentions of wedding the unconscious Asuna. While keeping Asuna locked up in ALO, he constantly visited her just to fool around with her. From his actions, one could say that he is a pervert.    ~!After Kirito manages to ascend the World Tree, Oberon and Kirito have a devastating fight. By using his system commands, Oberon is able to completely dominate Kirito. Fortunately, Kayaba Akihiko saves Kirito by overriding Oberon's authority. Then, in the real world, Sugou attempts to kill Kirito when he is running to Asuna's hospital. This backfired and ended up with him going to prison.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71581-FHV6DGAjL6vX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 71581
+      }
+    },
+    {
+      "id": "schmitt",
+      "name": "Schmitt",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Schmitt is a lancer of the Divine Dragon Alliance and a former member of the Golden Apple.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72337-XkWK35oRE9MB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72337
+      }
+    },
+    {
+      "id": "tetsuo",
+      "name": "Tetsuo",
+      "alt_names": [
+        "テツオ"
+      ],
+      "role": "supporting",
+      "description": "Tetsuo was the member of the «Black Cats of the Full Moon», a small guild in «Sword Art Online». He is a mace user and the forward of the guild. He was killed along with most of his guild when a trap was triggered that called multiple monsters and prevented the use of crystals.\n\n(Source: SAO Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72339-v5tZjV7x5cGO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72339
+      }
+    },
+    {
+      "id": "sasamaru",
+      "name": "Sasamaru",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Sasamaru was the member of the «Black Cats of the Full Moon», a small guild in «Sword Art Online». He was killed along with most of his guild when a trap was triggered that called multiple monsters and prevented the use of crystals.\n\n(Source: SAO Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72341-gproKJOB1sk4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72341
+      }
+    },
+    {
+      "id": "ducker",
+      "name": "Ducker",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Ducker is a member of the «Black Cats of the Full Moon», a small guild in «Sword Art Online». He's a dagger user. \n\n~!He was killed along with most of his guild when a trap was triggered that called multiple monsters and prevented the use of crystals.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72343-9FiLhXT0s7n9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72343
+      }
+    },
+    {
+      "id": "grimlock",
+      "name": "Grimlock",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Grimlock is a player in Sword Art Online and a former member of the guild Golden Apple.    ~!He was the culprit of his in-game and real-life wife, Griselda's death. He killed her because he didn't like the changes in her personality. At first he didn't want to aid Caynz and Yolko in their plans to catch Griselda's killer by forging them weapons to use in the in-AREA murders. Evenutally he did, but not with good intentions. He helped so he could have Caynz, Yolko and Scmitt together and get them killed with the help of the Laughing Coffin. But the plan failed, because Kirito came to the rescue. He is caught by Asuna. It is unknown to what happened to him in the remaining time of SAO, but in the end, he was logged out.!~ (Source: Sword Art Online Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72345-GDuwlF2SDD0D.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72345
+      }
+    },
+    {
+      "id": "nishida",
+      "name": "Nishida",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Nishida is one of the oldest players in Sword Art Online. In the game, he is a fisherman, but in reality, he works for the Tohto Broadband Connection, a network operator company that runs SAO. He was in charge of maintaining the network connection before being trapped in the game.   (Source: SAO Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72347-CeTuU3U5Jorv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72347
+      }
+    },
+    {
+      "id": "shinichi-nagata",
+      "name": "Shinichi Nagata",
+      "alt_names": [
+        "長田伸一",
+        "Recon"
+      ],
+      "role": "supporting",
+      "description": "He is Lyfa's friend and mentor in ALfheim Online. He is skilled in concealment and high level dark magic.  He harbors a crush on Suguha, being her classmate in real life. He is key in investigating the Salamander's infiltration of the Sylph, and uncovering Sigurd's plot. He later rejoins Kirito and Lyfa at Aarun, and urges Lyfa to leave and return to Sylvain, after he finds her upset. Later he confesses to her and ends up getting punched. After Lyfa returns from meeting Kirito again, she informs them they are attacking the World Tree.   ~!During the World Tree assault, Recon breaks off and attracts multiple guardians, and later uses high level dark magic called Sacrifice to self-destruct, which entails a higher death penalty. This action buys enough time for Sylph and Cait Sith reinforcements to arrive.!~ (Source: SAO Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72349-iuPCNOtHjPfX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72349
+      }
+    },
+    {
+      "id": "kagemune",
+      "name": "Kagemune",
+      "alt_names": [
+        "カゲムネ"
+      ],
+      "role": "supporting",
+      "description": "Kagemune is the Lance Group captain for the Salamanders.  He led a group on a mission, to attempt to steal money and items from Lyfa and Recon. They managed to kill Recon but Lyfa escaped and they met Kirito. Kirito killed the two of his team members and left him alive after realizing he can't beat him.   ~! He helped Kirito on his lie about him being the ambassador of the Undine-Spriggan Union by lying to Eugene that Kirito had an Undine Ally when his teammates were killed by him. !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72653-RrSpeYcKmkFs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72653
+      }
+    },
+    {
+      "id": "kobatz",
+      "name": "Kobatz",
+      "alt_names": [
+        "コーバッツ"
+      ],
+      "role": "supporting",
+      "description": "Cobert is a lieutenant-colonel in the Aincrad Liberation Force in Sword Art Online. He has a gung ho attitude. He drives his men to their limits, giving them no rest.   ~!He was killed by The Gleam Eyes after his party entered the boss room without any major preparations.!~ (Source: Sword Art Online Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72711-bsFEHrmT4rMo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72711
+      }
+    },
+    {
+      "id": "alicia-rue",
+      "name": "Alicia Rue",
+      "alt_names": [
+        "アリシャ・ルー"
+      ],
+      "role": "supporting",
+      "description": "Alicia Rue is the leader of the Cait Sith. She was elected by popular vote. She is also training her dark magic capable of using Moonlight Mirror. She forms an alliance with the Sylphs to finish the Conquer the World Tree Quest.    ~!During the meeting with Sylph , the groups are attacked by Salamanders lead by General Eugene. Kirito dives in to save the day and fights off Eugene although Kirito has inferior equipment.  Later, along with Sylph reinforcements, she aid Kirito's ascension of the World Tree after using collected funds to purchase armor of at least Ancient grade for all of her warriors.!~ (Source: SAO Wiki)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72901-nw8klNK66XFl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72901
+      }
+    },
+    {
+      "id": "eugene",
+      "name": "Eugene",
+      "alt_names": [
+        "ユージン"
+      ],
+      "role": "supporting",
+      "description": "General Eugene is the head of the Salamander armed forces.   ~!He was considered the strongest player in ALfheim Online until he was defeated by Kirito during the Conference of the Lords.!~ (Source: SAO Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72903-sydZD4sXrDTw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72903
+      }
+    },
+    {
+      "id": "sigurd",
+      "name": "Sigurd",
+      "alt_names": [
+        "シグルド"
+      ],
+      "role": "supporting",
+      "description": "Sigurd is a Sylph warrior in the VRMMORPG «ALfheim Online». He lost to Lyfa in the Sylph tournament yet he still retained high ambitions to hold power among the Sylph. He later tries to betray the Sylph to the Salamander. He is later caught and exiled by Sakuya, after the botched assassination attempt.   (Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72905-IgRbCfHOLSCh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72905
+      }
+    },
+    {
+      "id": "sakuya",
+      "name": "Sakuya",
+      "alt_names": [
+        "サクヤ"
+      ],
+      "role": "supporting",
+      "description": "Leader of the Sylph race and an exceptional swordswoman. She was elected as the leader of the Sylph race by popular vote (80% voice of the vote). Her statistics are not very high due to her status as a Lord not allowing her to do much training. Despite her low stats, she is a formidable opponent in the Sylph dueling tournaments.    ~!During a meeting with the Cait Sith, she is attacked by Salamanders led by General Eugene. At the same moment, Kirito flies in to challenge the intruder to a duel. After Kirito wins the battle, she attempts to seduce him along with Alicia Rue. Lyfa smothers their attempt, saying that he is accompanying her to the World Tree. At the end of the arc, Lady Sakuya leads a combined force of Cait Sith and Sylph against the World Tree in an attempt to aid Kirito along his journey.!~ (Source: SAO Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/73811.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73811
+      }
+    },
+    {
+      "id": "gtacs",
+      "name": "Gtacs",
+      "alt_names": [
+        "ジータクス"
+      ],
+      "role": "supporting",
+      "description": "Gtacs is a powerful mage and the leader of a Salamanders Mage Group.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b74093-wjf0CuXflABx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74093
+      }
+    },
+    {
+      "id": "pina",
+      "name": "Pina",
+      "alt_names": [
+        "ピナ"
+      ],
+      "role": "supporting",
+      "description": "is Silica's Feathered Little Dragon and the first known monster to be tamed in Sword Art Online. It understands Silica's commands and will protect her in any way it can, as it is her «Tamed Monster». It is also present in ALfheim Online as her Cait Sith familiar.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212810-jHVw3QgmELu9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212810
+      }
+    },
+    {
+      "id": "daizen",
+      "name": "Daizen",
+      "alt_names": [
+        "ダイゼン"
+      ],
+      "role": "supporting",
+      "description": "is the finance chief of the Knights of the Brotherhood of Blood guild in Sword Art Online.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213212-i1wewHg54961.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 213212
+      }
+    },
+    {
+      "id": "yanai",
+      "name": "Yanai",
+      "alt_names": [
+        "柳井"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b221512-upXvuBcIUOmc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 221512
+      }
+    },
+    {
+      "id": "griselda",
+      "name": "Griselda",
+      "alt_names": [
+        "グリセルダ"
+      ],
+      "role": "supporting",
+      "description": "She was one of the 10,000 players who were trapped in Sword Art Online, the leader of the «Golden Apple» guild before its dissolution, and the wife of Grimlock both in-game and in the real world.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b237215-YkfnRDgLzBdW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 237215
+      }
+    },
+    {
+      "id": "gin",
+      "name": "Gin",
+      "alt_names": [
+        "ギン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b249118-3rN7kKZNZONd.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 249118
+      }
+    },
+    {
+      "id": "shivata",
+      "name": "Shivata",
+      "alt_names": [
+        "シヴァタ"
+      ],
+      "role": "minor",
+      "description": "One of the 10,000 players trapped in Sword Art Online. A member of the Dragon Knights Brigade and, later, the Divine Dragon Alliance. He and [Liten](https://anilist.co/character/280880/Liten) fell in love with each other during their time throughout Aincrad.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b249116-wck4ndWryM03.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 249116
+      }
+    },
+    {
+      "id": "mina",
+      "name": "Mina",
+      "alt_names": [
+        "ミナ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b249117-3UkBJEYAZ21D.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 249117
+      }
+    },
+    {
+      "id": "kain",
+      "name": "Kain",
+      "alt_names": [
+        "カイン"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b249119-FCL13kWzGpYi.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 249119
+      }
+    },
+    {
+      "id": "salamander",
+      "name": "Salamander",
+      "alt_names": [
+        "サラマンダー"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 264137
+      }
+    },
+    {
+      "id": "lind",
+      "name": "Lind",
+      "alt_names": [
+        "リンド"
+      ],
+      "role": "minor",
+      "description": "Lind is one of the 10,000 players initially trapped in Sword Art Online. He sees himself as [Diavel](https://anilist.co/character/65169/Diavel)'s successor and thus founds the Dragon Knights Brigade, one of the two major clearing guilds early in the game alongside [Kibaou](https://anilist.co/character/65171/Kibaou)'s Aincrad Liberation Squad.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284250-62evtgfSN3bL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284250
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:14:07.463Z"
+  "updated_at": "2025-12-23T05:27:23.403Z"
 }

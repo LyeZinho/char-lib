@@ -1,6 +1,6 @@
 {
   "work_id": "blue-exorcist",
-  "count": 25,
+  "count": 31,
   "characters": [
     {
       "id": "rin-okumura",
@@ -599,7 +599,146 @@
       "external_ids": {
         "anilist": 49369
       }
+    },
+    {
+      "id": "yoshikuni-xi",
+      "name": "Yoshikuni XI",
+      "alt_names": [
+        "吉国"
+      ],
+      "role": "supporting",
+      "description": "A descendant of the one who forged the Kurikara, Rin&#039;s sword. She seems easygoing and friendly. She is especially nice towards Ryuji, and calls him &quot;Ryu-chan&quot;. The two are childhood friends, and she even embarrasses him by mentioning that he was in love with her and asked her to marry him.     She remains nameless and is an anime only character.     (Source: BlueExorcist.wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b49371-uTq5t9KuQYvt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 49371
+      }
+    },
+    {
+      "id": "satou",
+      "name": "Satou",
+      "alt_names": [
+        "佐藤先生"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b64213-erHY5HskNFdF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 64213
+      }
+    },
+    {
+      "id": "ukobach",
+      "name": "Ukobach",
+      "alt_names": [
+        "ウコバク",
+        "Ukobaku"
+      ],
+      "role": "supporting",
+      "description": "Ukobach is Mephisto's familiar and a stove spirit who prepares Rin and Yukio's meals. He developed a close bond with Rin through their mutual love for cooking.  Ukobach is a minotaur like demon. He has been seen to transform into a bigger minotaur and appears from thunder strikes (for a comedic effect of some sort).  Ukobach is proud of his cooking skills, but also fiercely protective of his food and his domain, the dorm kitchen. As such he was enraged at Rin for using the dorm kitchen without his permission and for a while he refused to cook for the brothers. He also tried to cook 3 girls for ruining his lunch for Rin and Yukio. He is often silent, but Rin has been able to communicate with the little demon and the two get along well due to their mutual love of cooking.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84925-XAU47vDVmu10.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84925
+      }
+    },
+    {
+      "id": "miketsu",
+      "name": "Miketsu",
+      "alt_names": [
+        "御饌津",
+        "Mike (ミケ)"
+      ],
+      "role": "supporting",
+      "description": "Miketsu, or simply Mike, is a Byakko and Eighth in rank amongst his peers. He is Izumo Kamiki's familiar, having previously served her mother, Tamamo Kamiki.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141958-xPE2c4hKFg3t.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141958
+      }
+    },
+    {
+      "id": "ukemochi",
+      "name": "Ukemochi",
+      "alt_names": [
+        "保食",
+        "Uke (ウケ)"
+      ],
+      "role": "supporting",
+      "description": "Ukemochi or simply Uke, is a Byakko and Izumo Kamiki's familiar. He previously served her mother, Tamamo Kamiki.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141962-a7W9yO0aXw8O.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141962
+      }
+    },
+    {
+      "id": "shiemi-no-sobo",
+      "name": "Shiemi no Sobo",
+      "alt_names": [
+        "しえみの祖母",
+        "Shiemi's Grandmother"
+      ],
+      "role": "minor",
+      "description": "Shiemi's Grandmother was a gardener at the Exorcist shop Futsumaya, located on the campus of the True Cross Academy.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b355666-eBdXjG0YFV7S.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 355666
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:33:04.253Z"
+  "updated_at": "2025-12-23T00:28:29.240Z"
 }

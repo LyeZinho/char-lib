@@ -1,6 +1,6 @@
 {
   "work_id": "jujutsu-kaisen-0",
-  "count": 25,
+  "count": 28,
   "characters": [
     {
       "id": "yuuta-okkotsu",
@@ -601,7 +601,78 @@
       "external_ids": {
         "anilist": 272175
       }
+    },
+    {
+      "id": "manami-suda",
+      "name": "Manami Suda",
+      "alt_names": [
+        "菅田真奈美"
+      ],
+      "role": "supporting",
+      "description": "Curse user who used to be [Suguru Getou](https://anilist.co/character/133699/Suguru-Getou)'s secretary as well as a commander in his \"family\" of sorcerers. ~!After Suguru's death, Manami and Toshihisa Negi both decided to carry on his will by joining the entity to who stole his body.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306254-rcw8cnkJlTak.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306254
+      }
+    },
+    {
+      "id": "toshihisa-negi",
+      "name": "Toshihisa Negi",
+      "alt_names": [
+        "祢木利久"
+      ],
+      "role": "minor",
+      "description": "Curse user who used to be a commander in [Suguru Getou](https://anilist.co/character/133699/Suguru-Getou)'s \"family\" of sorcerers. After Suguru's death, Negi and Manami Suda both decided to carry on his will by joining the entity to who stole his body.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306257-XmeYJw91idBY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306257
+      }
+    },
+    {
+      "id": "kakunou-jurei",
+      "name": "Kakunou Jurei",
+      "alt_names": [
+        "格納呪霊",
+        "Kakunou-gata Jurei (格納型呪霊)",
+        "Inventory Curse",
+        "Storage Type Curse"
+      ],
+      "role": "minor",
+      "description": "A cursed spirit that can store many different objects within its body. First seen as the servant of Touji Fushiguro, it contains Touji's entire wide arsenal of weapons.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311131-OS4dUGlxR6OH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311131
+      }
     }
   ],
-  "updated_at": "2025-12-22T17:54:06.511Z"
+  "updated_at": "2025-12-23T02:45:26.902Z"
 }

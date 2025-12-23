@@ -1,6 +1,6 @@
 {
   "work_id": "devilman-crybaby",
-  "count": 25,
+  "count": 35,
   "characters": [
     {
       "id": "akira-fudou",
@@ -560,7 +560,231 @@
       "external_ids": {
         "anilist": 232959
       }
+    },
+    {
+      "id": "zay",
+      "name": "Zay",
+      "alt_names": [
+        "ゼイ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232960-XADmJnju5LdB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 232960
+      }
+    },
+    {
+      "id": "noel-makimura",
+      "name": "Noel Makimura",
+      "alt_names": [
+        "牧村ノエル"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232961-0wrbKVDKpAGv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 232961
+      }
+    },
+    {
+      "id": "reijirou-fudou",
+      "name": "Reijirou Fudou",
+      "alt_names": [
+        "不動礼次郎"
+      ],
+      "role": "supporting",
+      "description": "Akira's father.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232962-3J7QdFGP4nfc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 232962
+      }
+    },
+    {
+      "id": "web-producer",
+      "name": "Web Producer",
+      "alt_names": [
+        "ウェブプロデューサー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232963-bkbWjXSQXhmD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 232963
+      }
+    },
+    {
+      "id": "takahama",
+      "name": "Takahama",
+      "alt_names": [
+        "タカハマ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232964-cNl6bRH8SDcO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 232964
+      }
+    },
+    {
+      "id": "kudou",
+      "name": "Kudou",
+      "alt_names": [
+        "クドウ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232965-VDwX8CKZwiYq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 232965
+      }
+    },
+    {
+      "id": "kouzou-rainuma",
+      "name": "Kouzou Rainuma",
+      "alt_names": [
+        "雷沼耕造",
+        "Shizego"
+      ],
+      "role": "supporting",
+      "description": "Dr. Rainuma is a famous research biologist. After the attacks across the world by the Demon menace he became devoted to finding a way to combat the Demons and set up the Demon Busters.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327284-M2ItJLM1UZK7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327284
+      }
+    },
+    {
+      "id": "track-coach",
+      "name": "Track Coach",
+      "alt_names": [
+        "トラックコーチ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327286-l6b4aZfffMqo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327286
+      }
+    },
+    {
+      "id": "sachiko",
+      "name": "Sachiko",
+      "alt_names": [
+        "サッちゃん",
+        "Sacchan"
+      ],
+      "role": "supporting",
+      "description": "She is the girl that lived next to Fudou Akira.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327287-hAxB7l4cgBMq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327287
+      }
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "alt_names": [],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187217-fvBuVKuaEpU4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187217
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:16:36.965Z"
+  "updated_at": "2025-12-23T01:24:24.581Z"
 }

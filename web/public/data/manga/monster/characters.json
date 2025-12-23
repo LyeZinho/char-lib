@@ -1,6 +1,6 @@
 {
   "work_id": "monster",
-  "count": 25,
+  "count": 66,
   "characters": [
     {
       "id": "kenzou-tenma",
@@ -605,7 +605,936 @@
       "external_ids": {
         "anilist": 34401
       }
+    },
+    {
+      "id": "richard-braun",
+      "name": "Richard Braun",
+      "alt_names": [
+        "リヒァルト・ブラウン",
+        "Brown"
+      ],
+      "role": "supporting",
+      "description": "A private investigator hired by Hans Georg Schubert to investigate the supposed suicide of Edmund Farren. His alcoholism after shooting a criminal resulted in his wife and daughter leaving him. Since then, he was trying everything to piece his life back together and reconcile with his family.    ~!When it came to encountering Johan Liebert after finding his tombstone, Johan lured him to the roof of a building about his role of killing a criminal in his last case. Johan manipulates Richard into a state of deep regret after which he offers Richard a bottle of whiskey. It&#039;s unknown if he took the bottle or not. Richard is later found dead after falling from the building, presumably an accident. However it is hinted that Johan may have murdered him and made it appear as if he had fallen. One clue to support that Johan murdered him is that he offered and left a broken bottle of whiskey when Dr. Reichwein knew very well that Richard only drank scotch. Both his wife and daughter are seen at his funeral mourning him.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": "1951-01-25"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/36223.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36223
+      }
+    },
+    {
+      "id": "blue-sophie",
+      "name": "Blue Sophie",
+      "alt_names": [
+        "偽マルゴット",
+        "Margot Langer",
+        "Red Hindenburg"
+      ],
+      "role": "supporting",
+      "description": "Retired prostitute turned con artist. Blue Sophie takes over the identity of Margot Langer in order to scam regret money from the deceased's lover, Hans Georg Schuwald.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/36224.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36224
+      }
+    },
+    {
+      "id": "helenka-novakova",
+      "name": "Helenka Novakova",
+      "alt_names": [
+        "ヘレンカ・ノヴァコバー",
+        "Halenka",
+        "Margot Langer (マルゴット・ランガー)"
+      ],
+      "role": "supporting",
+      "description": "A prostitute who gave birth to Hans Georg Schuwald&#039;s child, Karl Neumann. After successfully leaving Prague, she worked as a high price call girl who eventually became Schuwald&#039;s lover.    (source: wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/38843.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 38843
+      }
+    },
+    {
+      "id": "milan-kolacsh",
+      "name": "Milan Kolacsh",
+      "alt_names": [
+        "ミラン・コラーシュ",
+        "Miran Krausch",
+        "Kolas"
+      ],
+      "role": "supporting",
+      "description": "Milan is a dentist who saved Tenma from being caught by the police in the Turkish Quarter in Frankfurt. He took Tenma to his place after Tenma was hit by a van while trying to escape.  ~!Milan was a childhood friend with [[Peter Čapek]] and his main purpose was to kill Čapek which resulted in his death.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b45169-728dH0TecrNt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 45169
+      }
+    },
+    {
+      "id": "toshio-iwai",
+      "name": "Toshio Iwai",
+      "alt_names": [
+        "岩井俊雄"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b81643-KSLah1py8tkH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81643
+      }
+    },
+    {
+      "id": "udo-heinemann",
+      "name": "Udo Heinemann",
+      "alt_names": [
+        "ハイネマン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166665-PHEgehLtxotP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166665
+      }
+    },
+    {
+      "id": "adolf-junkers",
+      "name": "Adolf Junkers",
+      "alt_names": [
+        "アドルフ ユンケルス"
+      ],
+      "role": "supporting",
+      "description": "Adolf Junkers is a lock pick responsible for opening the doors of four houses belonging to victims of the middle-aged couple serial murders across Germany between the years of 1993 and 1995.  (Source Naoki Urasawa's Monster Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166666-nuWoWXbbwEFw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166666
+      }
+    },
+    {
+      "id": "dr-becker",
+      "name": "Dr. Becker",
+      "alt_names": [
+        "Dr.ベッカー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166667-hz6ZpV9Wuu2D.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166667
+      }
+    },
+    {
+      "id": "gross",
+      "name": "Gross",
+      "alt_names": [
+        "グロス"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166947-d8HOug14xigE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166947
+      }
+    },
+    {
+      "id": "karl-brandt",
+      "name": "Karl Brandt",
+      "alt_names": [
+        "カール"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166953-maHd6pjEAtWd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166953
+      }
+    },
+    {
+      "id": "max-steindorf",
+      "name": "Max Steindorf",
+      "alt_names": [
+        "マックス・シュタインドルフ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166954-moL8cBN8WS4l.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166954
+      }
+    },
+    {
+      "id": "hartmann",
+      "name": "Hartmann",
+      "alt_names": [
+        "ハルトマン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166955-f6voQrkdh7t7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166955
+      }
+    },
+    {
+      "id": "elna",
+      "name": "Elna",
+      "alt_names": [
+        "エルナ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166957-e3JqWgQPSSvY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166957
+      }
+    },
+    {
+      "id": "petra",
+      "name": "Petra",
+      "alt_names": [
+        "ペトラ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166959-w9Mp1jZjDfzn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166959
+      }
+    },
+    {
+      "id": "schone",
+      "name": "Schone",
+      "alt_names": [
+        "ショーネ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166961-TJ8zELVB86kt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166961
+      }
+    },
+    {
+      "id": "heinz",
+      "name": "Heinz",
+      "alt_names": [
+        "ハインツ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166962-WDtbTNd4F131.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166962
+      }
+    },
+    {
+      "id": "pionyr",
+      "name": "Pionyr",
+      "alt_names": [
+        "ピオニール"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166963-ezIUb1F2HfQf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166963
+      }
+    },
+    {
+      "id": "wim-knaup",
+      "name": "Wim Knaup",
+      "alt_names": [
+        "ヴィムナウプ"
+      ],
+      "role": "supporting",
+      "description": "Wim Knaup is a boy frequently bullied by his young neighbours in Ruhenheim because of his father being a good-for-nothing drunkard. Wim works as pageboy at Hotel Versteck, running errands for Mr. Klaus Poppe. Whenever he gets his salary from running errands, he takes it home for his and his father's maintenance. Most of the time, his payment goes to his father's drinking vice. For this reason, he is always bullied by some kids on the neighborhood and steal his wages.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229557-BLOOomdpwEFk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229557
+      }
+    },
+    {
+      "id": "herbert-knaup",
+      "name": "Herbert Knaup",
+      "alt_names": [
+        "ヘルベルト"
+      ],
+      "role": "supporting",
+      "description": "Herbert Knaup is a known alcoholic in Ruhenheim. He is the father of Wim Knaup. He lives in Ruhenheim, with his son Wim Knaup. His wife left him as a result of his drunkenness. Around the time Mr. Konrad went missing, he has been kicked out from a bar, because the bartender refused to let anyone like him who gets money from his son who works for it. Herbert heard the guests inside, talking about how he is suspicious, however guys just laughed at that fact and said that he has no guts to fire a gun and that he is just a cowardly drunk. Those comments made Herbert provoked and he noticed an elderly couple, offering him a gun (a couple was ordered by Johan to give guns to the certain people in the town). He rushed into a bar, but when he arrived, everyone was already dead. He had felt that the \"devil\" has come to the town to destroy it. ~! He was the one who shot Johan Liebert at the end. Herbert later described him as a \"monster with seven heads and many horns\"  who was threatening his son. He was later taken to the police for the further questioning. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229558-TFElRD6V2hWD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229558
+      }
+    },
+    {
+      "id": "viera-cerna",
+      "name": "Viera Černá",
+      "alt_names": [
+        "ビエラ・チェルナ",
+        "Anna"
+      ],
+      "role": "supporting",
+      "description": "Viera Černá is the mother of Johan Liebert and Nina Fortner. After the Eugenics Experiment spearheaded by Franz Bonaparta, she is given a new name: Anna. \n\n~!At the end of the series, she is found in Southern France.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229559-otYTA1ygtTW3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229559
+      }
+    },
+    {
+      "id": "karel-ranke",
+      "name": "Karel Ranke",
+      "alt_names": [
+        "カレル・ランケ"
+      ],
+      "role": "supporting",
+      "description": "Nationality: Czech\nOccupation: Retired Colonel of the Czech Secret Police\n\nA former Captain of the Czechoslovakian Secret Police.  He was involved in the reading seminars conducted by Franz Bonaparta and Peter Čapek, and remained the sole care-taker of the Red Rose Mansion until Inspector Heinrich Lunge asked to examine the house during his stay in Prague.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229938-qF0fNEYaqcfm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229938
+      }
+    },
+    {
+      "id": "messener",
+      "name": "Messener",
+      "alt_names": [
+        "メスナー",
+        "Detective Messener"
+      ],
+      "role": "supporting",
+      "description": "Nationality: German\nOccupation: Police Detective\n~! Detective Messener is a look-out during the murder of the Fortners. He was Detective Müller’s partner until they were ordered to murder the Fortner couple by an anonymous man who knew about their drug trading. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229939-SoN7YveohY8u.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229939
+      }
+    },
+    {
+      "id": "michael-muller",
+      "name": "Michael Müller",
+      "alt_names": [
+        "ミハエル・ミュラー"
+      ],
+      "role": "supporting",
+      "description": "Nationality:German\nOccupation: Police detective, art dealer (in his later appearance)\n\n~!Together with Detective Messener, was the police officer hired by Johan to murder Nina’s foster parents.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229940-xAXzr8f67Qnb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229940
+      }
+    },
+    {
+      "id": "mikhail-ivanovich-petrov",
+      "name": "Mikhail Ivanovich Petrov",
+      "alt_names": [
+        "ミハイル・イワーノヴィチ・ペドロフ",
+        "Reinhard Biermann"
+      ],
+      "role": "supporting",
+      "description": "Nationality: German (formerly), Russian\n\nFormely known as Reinhard Biermann. Having been part of the inner circle of the Kinderheim 511 experiments, he tried to recreate their experiments by bringing up the Czech orphan children in the opposite way the 511 children were brought up.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229941-fPcLqYLMsCSB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229941
+      }
+    },
+    {
+      "id": "milosz",
+      "name": "Milosz",
+      "alt_names": [
+        "ミローシュ",
+        "Milos",
+        "Miloš"
+      ],
+      "role": "supporting",
+      "description": "One of the orphan boys living in the Czech orphanage",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229942-lSGx6kwflD9t.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229942
+      }
+    },
+    {
+      "id": "weissbach",
+      "name": "Weissbach",
+      "alt_names": [
+        "ヴァイスバッハ",
+        "Weißbach"
+      ],
+      "role": "supporting",
+      "description": "A Police Inspector from North Rhine-Westphalia. He is one of the officers assigned to solving the unrelated murders happening in that region of Germany.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229944-W0iapAt9LoqF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229944
+      }
+    },
+    {
+      "id": "jacob-maurer",
+      "name": "Jacob Maurer",
+      "alt_names": [
+        "ヤコプ・マウラー",
+        "Mauler"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b260057-WgnvomUNHgvQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 260057
+      }
+    },
+    {
+      "id": "gustav-milch",
+      "name": "Gustav Milch",
+      "alt_names": [
+        "グスタフ・ミルヒ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/32430.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 32430
+      }
+    },
+    {
+      "id": "inge",
+      "name": "Inge",
+      "alt_names": [
+        "インゲ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166956-6AdmTGPYVJT2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166956
+      }
+    },
+    {
+      "id": "joushi",
+      "name": "Joushi",
+      "alt_names": [
+        "上司",
+        "Boss"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166960-Kp1F5S5ceT9h.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166960
+      }
+    },
+    {
+      "id": "dr-schumann",
+      "name": "Dr. Schumann",
+      "alt_names": [
+        "シューマン"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166964-bxdkTtFlozvM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166964
+      }
+    },
+    {
+      "id": "general-manager",
+      "name": "General Manager",
+      "alt_names": [
+        "部長"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168042-EsmMNS7syOv2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168042
+      }
+    },
+    {
+      "id": "charlotte",
+      "name": "Charlotte",
+      "alt_names": [
+        "シャルロッテ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168043-QwLvpUQrdwML.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168043
+      }
+    },
+    {
+      "id": "lunge-no-tsuma",
+      "name": "Lunge no Tsuma",
+      "alt_names": [
+        "ルンゲの妻",
+        "Lunge's Wife"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168045-KlaS62hHUe2v.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168045
+      }
+    },
+    {
+      "id": "mintach",
+      "name": "Mintach",
+      "alt_names": [
+        "ミンターク"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168046-6TvGuXuxpmq6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168046
+      }
+    },
+    {
+      "id": "lunge-no-musume",
+      "name": "Lunge no Musume",
+      "alt_names": [
+        "ルンゲの娘",
+        "Lunge's Daughter"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168048-sOx8jdE0VhB7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168048
+      }
+    },
+    {
+      "id": "niwashi",
+      "name": "Niwashi",
+      "alt_names": [
+        "庭師"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168050-5BYVc2sgMlxx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168050
+      }
+    },
+    {
+      "id": "coletta",
+      "name": "Coletta",
+      "alt_names": [
+        "コレッタ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168051-lCJ2L7QJEHsf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168051
+      }
+    },
+    {
+      "id": "ayse",
+      "name": "Ayse",
+      "alt_names": [
+        "アイシェ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168059-OtCaR44oXwtJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168059
+      }
+    },
+    {
+      "id": "gunther-goedelitz",
+      "name": "Gunther Goedelitz",
+      "alt_names": [
+        "ギュンター・ゲーデリッツ"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168060-aPk3kb57vU74.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168060
+      }
+    },
+    {
+      "id": "kronecker-kyouju",
+      "name": "Kronecker-kyouju",
+      "alt_names": [
+        "クローネッカー教授",
+        "Professor Kronecker"
+      ],
+      "role": "minor",
+      "description": "Professor Kronecker is Anna's professor of Law at the Heidelberg University",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229945-Ap5cuiq0EQMd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229945
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:31:49.904Z"
+  "updated_at": "2025-12-23T08:37:16.388Z"
 }

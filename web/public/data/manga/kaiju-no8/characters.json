@@ -1,6 +1,6 @@
 {
   "work_id": "kaiju-no8",
-  "count": 25,
+  "count": 52,
   "characters": [
     {
       "id": "kafka-hibino",
@@ -598,7 +598,661 @@
       "external_ids": {
         "anilist": 311270
       }
+    },
+    {
+      "id": "kaijuu-juugo-gou",
+      "name": "Kaijuu Juugo-gou",
+      "alt_names": [
+        "怪獣15号",
+        "Kaiju No. 15",
+        "Kaiju #15",
+        "Monster #15"
+      ],
+      "role": "supporting",
+      "description": "Kaijuu Juugo-gou was one of the many Identified Kaiju created by [Kaijuu Kyuu-gou](https://anilist.co/character/259598/Kaijuu-Kyuugou). It was created to defeat [Kikoru Shinomiya](https://anilist.co/character/183889/Kikoru-Shinomiya).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311278-plyPZhr67ZKM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311278
+      }
+    },
+    {
+      "id": "kaijuu-juuni-gou",
+      "name": "Kaijuu Juuni-gou",
+      "alt_names": [
+        "怪獣12号",
+        "Kaiju No. 12",
+        "Kaiju #12",
+        "Monster #12"
+      ],
+      "role": "supporting",
+      "description": "Kaijuu Juuni-gou is one of the many Identified Kaiju created by [Kaijuu Kyuu-gou](https://anilist.co/character/259598/Kaijuu-Kyuugou).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311281-CbkRGirS9tw5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311281
+      }
+    },
+    {
+      "id": "kaijuu-ichi-gou",
+      "name": "Kaijuu Ichi-gou",
+      "alt_names": [
+        "怪獣1号",
+        "Kaiju No. 1",
+        "Kaiju #1",
+        "Monster #1",
+        "The Future Sight Kaiju",
+        "Japan's Oldest Numbers Weapon",
+        "Numbers Weapon 1"
+      ],
+      "role": "supporting",
+      "description": "Kaiju Ichi-gou, also known as The Future Sight Kaiju, was the first Identified Kaiju to ever receive an I.D. number. After its death, it was turned into Numbers Weapon 1, currently used by First Division Captain [Gen Narumi](https://anilist.co/character/241577/Gen-Narumi).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311282-y50cq4NcfhC7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311282
+      }
+    },
+    {
+      "id": "akira-kurusu",
+      "name": "Akira Kurusu",
+      "alt_names": [
+        "来栖アキラ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 168 cm\n\nOperations Leader of the First Division in the Defense Force. He used to be Director Isao Shinomiya's personal aid in battle.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b340313-C1HCzerUxCfp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 340313
+      }
+    },
+    {
+      "id": "doujima-itaosa",
+      "name": "Doujima Itaosa",
+      "alt_names": [
+        "堂島板長",
+        "Head Chef Doujima"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b340314-rHpMzTTffcGr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 340314
+      }
+    },
+    {
+      "id": "tachibana",
+      "name": "Tachibana",
+      "alt_names": [
+        "立花",
+        "Platoon Leader Tachibana"
+      ],
+      "role": "minor",
+      "description": "__Ocuppation:__ Platoon Leader in the First Division of the Defense Force\n\nTachibana seems to be a quite serious individual, despite being oftenly surprised in the battle field. He also seems to get irritated quite easily.\n\n~!Ever since joining the First Division, Tachibana trained and witnessed her countless attempts to become stronger and more beautiful in order to impress Captain [Gen Narumi](https://anilist.co/character/241577/Gen-Narumi).\nAt some point, Tachibana was promoted to Platoon Leader.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305762-s6VPcDzVzLDP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305762
+      }
+    },
+    {
+      "id": "jura-igarashi",
+      "name": "Jura Igarashi",
+      "alt_names": [
+        "五十嵐ジュラ",
+        "Captain Igarashi"
+      ],
+      "role": "minor",
+      "description": "__Occupation:__ Second Division Captain\n\nJura is a serious and short-tempered individual, getting easily disturbed and angry when her colleagues take it easy while on-duty.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305765-WjaXwlheFk5k.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305765
+      }
+    },
+    {
+      "id": "kurusu",
+      "name": "Kurusu",
+      "alt_names": [
+        "来栖"
+      ],
+      "role": "minor",
+      "description": "Kurusu is a member of the Defense Force and Director [Isao Shinomiya](https://anilist.co/character/257340/Isao-Shinomiya)'s personal aid in battle.\n\nKurusu is very serious and always aware of the kaiju threat he analyses. He seems to be extremely loyal to Isao Shinomiya, caring about his well-being ~!and even aiding him in his dangerous fight against [Kaiju Kyuu-gou](https://anilist.co/character/259598/Kaijuu-Kyuugou) to avoid leaving the Director alone.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305766-RwLbFJtMlX40.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305766
+      }
+    },
+    {
+      "id": "juzo-nogizaka",
+      "name": "Juzo Nogizaka",
+      "alt_names": [
+        "乃木坂十藏"
+      ],
+      "role": "minor",
+      "description": "Nogizaka is a high-ranking member of the Defense Force.\n\nNogizaka is very rational when making decisions, making him clash with [Isao Shinomiya](https://anilist.co/character/257340/Isao-Shinomiya)'s new ideals for the next generation. In spite of that, he still trusts and respects the Director. He seems to get annoyed when denied a chance to fight.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305767-UBGJjX7UjoN0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305767
+      }
+    },
+    {
+      "id": "bakko",
+      "name": "Bakko",
+      "alt_names": [
+        "伐虎"
+      ],
+      "role": "minor",
+      "description": "Bakko is a tiger owned by [Mina Ashiro](https://anilist.co/character/180693/Mina-Ashiro)\n\nBakko seems to be rather calm and totally obedient to his owner Mina.\n\nAlways present at Mina's side, even in battle, Bakko is inferred to be strong enough to take on and possibly eliminate kaiju.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305768-3JzmAKRPnsaq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305768
+      }
+    },
+    {
+      "id": "sebas",
+      "name": "Sebas",
+      "alt_names": [
+        "瀬羽須",
+        "Sebasu",
+        "Subasu"
+      ],
+      "role": "minor",
+      "description": "__Occupation:__ Butler\n\nSebas is the butler of the Shinomiya Family and serves [Kikoru Shinomiya](https://anilist.co/character/183889/Kikoru-Shinomiya).\n\nSebas appears as a calm man in a subservient relationship with Kikoru. ~!He is also very protective towards her since he hit [Kafka Hibino](https://anilist.co/character/180692/Kafka-Hibino) just for touching Kikoru.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308017-654bU7aQfcfg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308017
+      }
+    },
+    {
+      "id": "takao",
+      "name": "Takao",
+      "alt_names": [
+        "鷹尾"
+      ],
+      "role": "minor",
+      "description": "__Occupation:__ Third Division Platoon Leader\n\nDuring the Raid on Tachikawa Base, Takao and his sniper platoon arrived to aid the rest of the Third Division against the airborne Wyvern-type kaiju.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308021-413JW06h6Ddf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308021
+      }
+    },
+    {
+      "id": "ebina",
+      "name": "Ebina",
+      "alt_names": [
+        "海老名"
+      ],
+      "role": "minor",
+      "description": "__Occupation:__ Third Division Platoon Leader\n\nAs a Platoon Leader, Ebina is inferred to be a top-notch Officer of the Defense Force, able to take multiple kaiju and guide his men in battle with determination.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308024-jUf4T865OyGw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308024
+      }
+    },
+    {
+      "id": "tae-nakanoshima",
+      "name": "Tae Nakanoshima",
+      "alt_names": [
+        "中之島タエ",
+        "Platoon Leader Nakanoshima"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 163 cm\n__Occupation:__ Third Division Platoon Leader\n\nTae seems to be some kind of \"man-eater\", praising the newbies in the platoon not only for their fighting ability but also for their looks.\n\nTae seems to have a rivalry with [Rin Shinonome](https://anilist.co/character/305763/Rin-Shinonome)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308028-A3FRTziHHaJ0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308028
+      }
+    },
+    {
+      "id": "itakura",
+      "name": "Itakura",
+      "alt_names": [
+        "板倉"
+      ],
+      "role": "minor",
+      "description": "__Occupation:__ Third Division Platoon Leader\n\nDuring the Raid on Tachikawa Base, his platoon arrived to aid the rest of the Third Division against the wyvern-type kaiju, securing the storehouse area.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308029-R2S91CbMwZfT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308029
+      }
+    },
+    {
+      "id": "ryou-ikaruga",
+      "name": "Ryou Ikaruga",
+      "alt_names": [
+        "斑鳩亮",
+        "Platoon Leader Ikaruga"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 187 cm\n__Occupation:__ Third Division Platoon Leader\n\nRyou seems to have a rivarly with [Tachibana](https://anilist.co/character/305762/Tachibana)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308030-dsdiqSzhJjy2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308030
+      }
+    },
+    {
+      "id": "kaijuu-4-gou",
+      "name": "Kaijuu 4-gou",
+      "alt_names": [
+        "怪獣4号",
+        "Monster #4",
+        "Kaiju #4",
+        "Numbers Weapon#4"
+      ],
+      "role": "minor",
+      "description": "Kaijuu Yon-gou was an Identified Kaiju. After its death, it was turned into Numbers Weapon #4, formerly used by [Hikari Shinomiya](https://anilist.co/character/305720/Hikari-Shinomiya) ~!and currently used by [Kikoru Shinomiya](https://anilist.co/character/183889/Kikoru-Shinomiya).!~\n\nEven as a Numbers Weapon, Kaijuu Yon-gou seems to vividly remember its past user Hikari Shinomiya, ~!since her ghost is clearly visible to its current user [Kikoru Shinomiya](https://anilist.co/character/183889/Kikoru-Shinomiya). The Kaiju also seems to be very observational and judgemental with Kikoru.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308034-kxVH2onoNiXW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308034
+      }
+    },
+    {
+      "id": "kaijuu-2-gou",
+      "name": "Kaijuu 2-gou",
+      "alt_names": [
+        "怪獣2号",
+        "Kaiju #2",
+        "Monster #2"
+      ],
+      "role": "minor",
+      "description": "Kaijuu 2-gou was an Identified Kaiju and the second kaiju to ever recieve an I.D. number. After being killed by the Defense Force, it was converted into [Isao Shinomiya](https://anilist.co/character/257340/Isao-Shinomiya)'s Numbers Weapon #2 ~!before being eventually absorbed by [Kaijuu Kyuu-gou](https://anilist.co/character/259598/Kaijuu-Kyuugou).!~\n\nAccording to [Keiji Itami](https://anilist.co/character/305719/Keiji-Itami), Kaijuu 2-gou had an immense sense of pride, holding on to it until its very death.\n\nIn 1972, Kaijuu 2-gou attacked and nearly destroyed Sapporo, until it was defeated and killed by the Defense Force. Its corpse was then repurposed as the base for Isao Shinomiya's combat suit and gauntlets.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308035-KGCU2QGicVU3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308035
+      }
+    },
+    {
+      "id": "soratobu-kaijuu",
+      "name": "Soratobu Kaijuu",
+      "alt_names": [
+        "空飛ぶ怪獣",
+        "Flying Kaiju",
+        "Flying Monster",
+        "Nazo no Youjuu (謎の幼獣)",
+        "Kogata no Kaiju (小型の怪獣)"
+      ],
+      "role": "minor",
+      "description": "This unnamed kaiju is the one responsible for infecting [Kafka Hibino](https://anilist.co/character/180692) and turning him into Kaiju 8-gou.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311251-22t28SMIQ7ot.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311251
+      }
+    },
+    {
+      "id": "touma-takanashi",
+      "name": "Touma Takanashi",
+      "alt_names": [
+        "小鳥遊トウマ"
+      ],
+      "role": "minor",
+      "description": "Touma Takanashi is a Defense Force officer in the Third Division.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311252-W9Q9wDJ3jNTf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311252
+      }
+    },
+    {
+      "id": "hikaru-kaijuu",
+      "name": "Hikaru Kaijuu",
+      "alt_names": [
+        "光る怪獣",
+        "Glowing Kaiju",
+        "Glowing Monster"
+      ],
+      "role": "minor",
+      "description": "This unnamed kaiju is one of the many kaiju created by [Kaijuu Kyuu-gou](https://anilist.co/character/259598/Kaijuu-Kyuugou).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311255-43r4cnn8NcpO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311255
+      }
+    },
+    {
+      "id": "kanji-nagamine",
+      "name": "Kanji Nagamine",
+      "alt_names": [
+        "長嶺カンジ"
+      ],
+      "role": "minor",
+      "description": "Kanji Nagamine was one of the victims of [Kaijuu Kyuu-gou](https://anilist.co/character/259598/Kaijuu-Kyuugou) and its second disguise.",
+      "metadata": {
+        "gender": "male",
+        "age": "34",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311262-Nh0w9js3jqfJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311262
+      }
+    },
+    {
+      "id": "kaijuu-roku-gou",
+      "name": "Kaijuu Roku-gou",
+      "alt_names": [
+        "怪獣6号",
+        "Kaiju No. 6",
+        "Kaiju #6",
+        "Monster #6",
+        "Numbers Weapon 6",
+        "The King of Kaiju",
+        "Symbol of Despair"
+      ],
+      "role": "minor",
+      "description": "Kaijuu Roku-gou also known as The King of Kaiju was an Identified Kaiju that was neutralized by the Defense Force ten years ago. After its death, it was converted into Numbers Weapon 6.\n~!The Numbers Weapon 6 is currently used by Fourth Division officer [Reno Ichikawa](https://anilist.co/character/180694/Reno-Ichikawa).!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311263-vuRSNwzI1Rz1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311263
+      }
+    },
+    {
+      "id": "hakua-igarashi",
+      "name": "Hakua Igarashi",
+      "alt_names": [
+        "五十嵐 ハクア"
+      ],
+      "role": "minor",
+      "description": "Hakua Igarashi is a Defense Force officer in the Third Division.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311264-uQBs9uPGDvab.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311264
+      }
+    },
+    {
+      "id": "akari-minase",
+      "name": "Akari Minase",
+      "alt_names": [
+        "水無瀬あかり"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 153 cm\n\nAkari Minase is a Defense Force officer of the Third Division.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311279-z2X40KkXkqUY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311279
+      }
+    },
+    {
+      "id": "kaijuu-juuyon-gou",
+      "name": "Kaijuu Juuyon-gou",
+      "alt_names": [
+        "怪獣14号",
+        "Kaiju No. 14",
+        "Kaiju #14",
+        "Monster #14"
+      ],
+      "role": "minor",
+      "description": "Kaijuu Juuyon-gou is one of the many Identified Kaiju created by [Kaijuu Kyuu-gou](https://anilist.co/character/259598/Kaijuu-Kyuugou).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311280-elE7xSn95WmT.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311280
+      }
+    },
+    {
+      "id": "kaijuu-juuichi-gou",
+      "name": "Kaijuu Juuichi-gou",
+      "alt_names": [
+        "怪獣11号",
+        "Kaiju No. 11",
+        "Kaiju #11",
+        "Monster #11"
+      ],
+      "role": "minor",
+      "description": "Kaijuu Juuichi-gou is one of the many Identified Kaiju created by [Kaijuu Kyuu-gou](https://anilist.co/character/259598/Kaijuu-Kyuugou).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311283-1q7GdU4pqePR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311283
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:31:13.887Z"
+  "updated_at": "2025-12-23T08:22:52.023Z"
 }

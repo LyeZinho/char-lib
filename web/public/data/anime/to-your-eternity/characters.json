@@ -1,6 +1,6 @@
 {
   "work_id": "to-your-eternity",
-  "count": 25,
+  "count": 29,
   "characters": [
     {
       "id": "fushi",
@@ -590,7 +590,101 @@
       "external_ids": {
         "anilist": 254174
       }
+    },
+    {
+      "id": "march-no-chichi",
+      "name": "March no Chichi",
+      "alt_names": [
+        "マーチの父",
+        "March’s Father"
+      ],
+      "role": "minor",
+      "description": "He is March’s father",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b201554-XBlit4ebLRx1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 201554
+      }
+    },
+    {
+      "id": "penna",
+      "name": "Penna",
+      "alt_names": [
+        "ペンナ"
+      ],
+      "role": "minor",
+      "description": "She's Parona's sister. One day she went out for food and never came back.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b201557-y1zLzbAnCKbD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 201557
+      }
+    },
+    {
+      "id": "march-no-haha",
+      "name": "March no Haha",
+      "alt_names": [
+        "マーチの母",
+        "March's mother"
+      ],
+      "role": "minor",
+      "description": "She is March’s mother",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b202865-DB7W0xsqWUL2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 202865
+      }
+    },
+    {
+      "id": "lee",
+      "name": "Lee",
+      "alt_names": [
+        "リー"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b230962-HlBbLdPcnmXV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 230962
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:23:30.306Z"
+  "updated_at": "2025-12-23T05:54:00.513Z"
 }

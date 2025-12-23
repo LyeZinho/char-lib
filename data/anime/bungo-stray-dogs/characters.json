@@ -1,6 +1,6 @@
 {
   "work_id": "bungo-stray-dogs",
-  "count": 25,
+  "count": 28,
   "characters": [
     {
       "id": "atsushi-nakajima",
@@ -611,7 +611,74 @@
       "external_ids": {
         "anilist": 138152
       }
+    },
+    {
+      "id": "junsa-sugimoto",
+      "name": "Junsa Sugimoto",
+      "alt_names": [
+        "杉本巡査"
+      ],
+      "role": "supporting",
+      "description": "He is is a rookie police officer who served under Yamagiwa and Minoura, also being the former's killer.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138153-f36RZ0og4d9v.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138153
+      }
+    },
+    {
+      "id": "aoiki-king",
+      "name": "Aoiki King",
+      "alt_names": [
+        "蒼き王",
+        "Azure King"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203971-OivpNoIEiyRO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 203971
+      }
+    },
+    {
+      "id": "james-l",
+      "name": "James L",
+      "alt_names": [
+        "ジェームズ・L"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203972-H6CNS3DMxcv3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 203972
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:37:35.424Z"
+  "updated_at": "2025-12-23T00:31:11.917Z"
 }

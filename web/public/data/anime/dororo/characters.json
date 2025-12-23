@@ -1,6 +1,6 @@
 {
   "work_id": "dororo",
-  "count": 25,
+  "count": 37,
   "characters": [
     {
       "id": "hyakkimaru",
@@ -120,7 +120,6 @@
         "Người dẫn chuyện",
         "Tagapagsalaysay",
         "내레이터",
-        "Narratore",
         "Erzählperson",
         "מספר",
         "Narrátor",
@@ -602,7 +601,279 @@
       "external_ids": {
         "anilist": 136994
       }
+    },
+    {
+      "id": "oume",
+      "name": "Oume",
+      "alt_names": [
+        "青梅"
+      ],
+      "role": "supporting",
+      "description": "She is a kind woman who takes care of an orphan boy called Saru after she found him alone in the mountains.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137172-fLqleXdTTsb4.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137172
+      }
+    },
+    {
+      "id": "sukeroku",
+      "name": "Sukeroku",
+      "alt_names": [
+        "助六"
+      ],
+      "role": "supporting",
+      "description": "He is the orphan that separates​ from his mother during the land split by the Banmon.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137173-xlSRsJx04q6C.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137173
+      }
+    },
+    {
+      "id": "okaka",
+      "name": "Okaka",
+      "alt_names": [
+        "おかか",
+        "Mama"
+      ],
+      "role": "supporting",
+      "description": "She is a young lady who lived in a small cottage which Dororo and Hyakkimaru encountered along their journey. She initially appeared to be a kind, compassionate individual, allowing the two to stay in her cottage for shelter. However, she was, in truth, the spirit of a Buddha Statue carver who lived a very long time ago",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138121-PBP9L7x53iZB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138121
+      }
+    },
+    {
+      "id": "maimai-onba",
+      "name": "Maimai-onba",
+      "alt_names": [
+        "ミマイオンブ"
+      ],
+      "role": "supporting",
+      "description": "She is one of the twelve demons that made a contract with Daigo Kagemitsu. She hypnotized Sabame to become his lover and do her bidding by killing Hyakkimaru and Dororo, so her offspring can eat them. However, she was unable to succeed.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138198-fMOeVWo2bNHb.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138198
+      }
+    },
+    {
+      "id": "sabame",
+      "name": "Sabame",
+      "alt_names": [
+        "鯖目"
+      ],
+      "role": "supporting",
+      "description": "He is the landlord of a mountain village. He had been hypnotized by the Maimai-onba to become her lover and being manipulated to kill Hyakkimaru and Dororo so that her offspring can eat them.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138199-zfIjECbobN5b.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138199
+      }
+    },
+    {
+      "id": "youkai-kozo",
+      "name": "Youkai Kozo",
+      "alt_names": [
+        "妖怪コゾ"
+      ],
+      "role": "supporting",
+      "description": "is the spirit of a deceased child who once lived in an orphanage in the mountains. Some time ago He along with the nun, the other orphans and the orphanage, burned down in a fire.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138526-l5o7xJDsTIRL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138526
+      }
+    },
+    {
+      "id": "jisho-ama-yuurei",
+      "name": "Jisho Ama Yuurei",
+      "alt_names": [
+        "地所尼幽霊",
+        "Jishou Nun Ghost"
+      ],
+      "role": "supporting",
+      "description": "is the spirit of a deceased nun who once ran an orphanage in the mountains. Some time ago, She, along with the orphans and the orphanage, burned down in a fire.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138527-q093FrDJIS0E.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138527
+      }
+    },
+    {
+      "id": "shiranui",
+      "name": "Shiranui",
+      "alt_names": [
+        "不知火"
+      ],
+      "role": "supporting",
+      "description": "He s a lonely fisherman who seems to be the owner of two huge shark demons, Jiromaru and Saburomaru. But in reality, he is more of a slave to them.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138647-VbA9XxeBmikE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138647
+      }
+    },
+    {
+      "id": "munetsuna",
+      "name": "Munetsuna",
+      "alt_names": [
+        "ムネツナ"
+      ],
+      "role": "supporting",
+      "description": "He is the father of Okowa and is known as the best swordmaker in the region. Although he makes a living by making swords, he has expressed discontent with the products he has made and wishes that he would make a sword for peace and not bloodshed. He fix up and sharpen Hyakkimaru's blades.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139479-j2ywKzHOclfo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139479
+      }
+    },
+    {
+      "id": "okowa",
+      "name": "Okowa",
+      "alt_names": [
+        "オコワ"
+      ],
+      "role": "supporting",
+      "description": "She is the daughter of Munetsuna. She is the second love interest of Hyakkimaru after Mio.\nOkowa is a cheerful girl, but with childish attitude.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139480-vDlu2ZzzfIYc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139480
+      }
+    },
+    {
+      "id": "saburota",
+      "name": "Saburota",
+      "alt_names": [
+        "サブロータ"
+      ],
+      "role": "supporting",
+      "description": "He claims to be a courageous man wanting to kill the demon. But in reality, he's a coward that submitted himself to Nue after being frightened to death from seeing people being devoured by the demon. From that day onwards, he even helped the beasts to lure any travellers into its territory and devour them bit by bit.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139935-aPb3sKctaeLZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139935
+      }
+    },
+    {
+      "id": "nyoubou",
+      "name": "Nyoubou",
+      "alt_names": [
+        "女房"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331875
+      }
     }
   ],
-  "updated_at": "2025-12-22T17:55:35.839Z"
+  "updated_at": "2025-12-23T01:27:07.216Z"
 }

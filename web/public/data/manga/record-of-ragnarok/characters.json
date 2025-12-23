@@ -1,6 +1,6 @@
 {
   "work_id": "record-of-ragnarok",
-  "count": 100,
+  "count": 152,
   "characters": [
     {
       "id": "brunhilde",
@@ -2347,7 +2347,1221 @@
       "external_ids": {
         "anilist": 381847
       }
+    },
+    {
+      "id": "chi-you",
+      "name": "Chi You",
+      "alt_names": [
+        "蚩尤",
+        "God of War"
+      ],
+      "role": "supporting",
+      "description": "Chi You is a demon god from ancient China who appears in various forms throughout early Chinese mythology and classical texts. He was revered as the God of War and as the inventor of the Five Bronze Weapons. In the ancient ritual tradition, only the emperor who had received the Mandate of Heaven was permitted to ascend the sacred mountain and perform the sealing rites dedicated to Chi You. In China, the right to be king had to be granted by Chi You himself. He was defeated by [Qin Shi Huang](https://anilist.co/character/203633/Shihuang-Qin) in 219 BC.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381848-j1B6IDFGh4OH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381848
+      }
+    },
+    {
+      "id": "flauros",
+      "name": "Flauros",
+      "alt_names": [
+        "フラウロス"
+      ],
+      "role": "supporting",
+      "description": "Flauros is a guard of Tartarus and the 64th demon of Solomon’s 72 Pillars. He serves in Helheim, within Tartarus, and is one of the jailers responsible for [Siegfried](https://anilist.co/character/368799/Siegfried).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381849-4oK4WPFYEhoi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381849
+      }
+    },
+    {
+      "id": "andras",
+      "name": "Andras",
+      "alt_names": [
+        "アンドラス"
+      ],
+      "role": "supporting",
+      "description": "Andras is a guard of Tartarus and the 63rd demon of Solomon’s 72 Pillars. He serves in Helheim, within Tartarus, and is one of the jailers responsible for [Siegfried](https://anilist.co/character/368799/Siegfried).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381850-KDjURoX8JkcF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381850
+      }
+    },
+    {
+      "id": "verk",
+      "name": "Verk",
+      "alt_names": [
+        "ヴェルク",
+        "Nameless God"
+      ],
+      "role": "supporting",
+      "description": "Verk was a member of the people of Golnir. ~!He discovered the Calamity Treasure, the magic sword Gram, and by obtaining it he would become the future [Odin](https://anilist.co/character/140639/Odin).!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381851-G2wzIcQdiPyQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381851
+      }
+    },
+    {
+      "id": "ferdis",
+      "name": "Ferdis",
+      "alt_names": [
+        "フェルディス"
+      ],
+      "role": "supporting",
+      "description": "Ferdis is [Golnir](https://anilist.co/character/381166)’s first disciple.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381852-gOp3O2VG6nTX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381852
+      }
+    },
+    {
+      "id": "hajime-saitou",
+      "name": "Hajime Saitou",
+      "alt_names": [
+        "斉藤"
+      ],
+      "role": "minor",
+      "description": "A Japanese samurai of the late Edo period, who later became captain of the third unit of the Shinsengumi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168591-U6m1bJfuOikt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168591
+      }
+    },
+    {
+      "id": "toshizou-hijikata",
+      "name": "Toshizou Hijikata",
+      "alt_names": [
+        "土方 歳三"
+      ],
+      "role": "minor",
+      "description": "Vice-Commander of the Shinsengumi.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168598-EMNHhSD74FWA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168598
+      }
+    },
+    {
+      "id": "varuna",
+      "name": "Varuna",
+      "alt_names": [
+        "ヴァルナ"
+      ],
+      "role": "minor",
+      "description": "Hindu God of Water. He fought alongside Agni against Shiva and Rudra during the latters' journey to Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b297580-qcOGZTkBcVHu.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 297580
+      }
+    },
+    {
+      "id": "yohachi-urakaze",
+      "name": "Yohachi Urakaze",
+      "alt_names": [
+        "浦風よはち"
+      ],
+      "role": "minor",
+      "description": "Sumo wrestler",
+      "metadata": {
+        "gender": "male",
+        "age": "250",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b297591-gwXYHqQyQVvz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 297591
+      }
+    },
+    {
+      "id": "agni",
+      "name": "Agni",
+      "alt_names": [
+        "アグニ"
+      ],
+      "role": "minor",
+      "description": "Hindu God of Fire. He fought with Varuna against Shiva and Rudra during the latter's journey to the peak of Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b297592-0Ibs1KKdt7GJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 297592
+      }
+    },
+    {
+      "id": "indra",
+      "name": "Indra",
+      "alt_names": [
+        "インドラ"
+      ],
+      "role": "minor",
+      "description": "Indra is the Hindu god of lightning and one of the participants in the Gods' Apocalypse tournament to claim the final spot in Ragnarok.",
+      "metadata": {
+        "gender": "male",
+        "age": "4000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b364688-HFsjZR2qQzWn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 364688
+      }
+    },
+    {
+      "id": "shinpachi-nagakura",
+      "name": "Shinpachi Nagakura",
+      "alt_names": [
+        "永倉新八"
+      ],
+      "role": "minor",
+      "description": "Shinpachi Nagakura was the captain of the second division of the Shinsengumi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b368551-etivKWR7nqIb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 368551
+      }
+    },
+    {
+      "id": "kai-shimada",
+      "name": "Kai Shimada",
+      "alt_names": [
+        "島田魁"
+      ],
+      "role": "minor",
+      "description": "Kai Shimada served as an inspector and officer in charge of member records in the Shinsengumi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b368555-OnMKNQyDGwKO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 368555
+      }
+    },
+    {
+      "id": "keisuke-yamanami",
+      "name": "Keisuke Yamanami",
+      "alt_names": [
+        "山南敬助"
+      ],
+      "role": "minor",
+      "description": "Keisuke Yamanami was the vice-commander of the Shinsengumi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b368556-oRGpGWmo5Tza.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 368556
+      }
+    },
+    {
+      "id": "heisuke-toudou",
+      "name": "Heisuke Toudou",
+      "alt_names": [
+        "藤堂平助"
+      ],
+      "role": "minor",
+      "description": "Heisuke Toudou was the captain of the Eighth Unit of the Shinsengumi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b368557-frmh4edBYW8b.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 368557
+      }
+    },
+    {
+      "id": "yasutsuna-houki",
+      "name": "Yasutsuna Houki",
+      "alt_names": [
+        "伯耆安綱"
+      ],
+      "role": "minor",
+      "description": "Yasutsuna Houki is a master swordsmith whose representative work is the blade Dōjigiri Yasutsuna.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381167-vEZrCdIHghaA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381167
+      }
+    },
+    {
+      "id": "kunitsuna-awataguchi",
+      "name": "Kunitsuna Awataguchi",
+      "alt_names": [
+        "粟田口国綱"
+      ],
+      "role": "minor",
+      "description": "Kunitsuna Awataguchi is a master swordsmith whose representative work is the blade Onimaru Kunitsuna.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381168-eWafWhZxDqXl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381168
+      }
+    },
+    {
+      "id": "munechika-sanjou",
+      "name": "Munechika Sanjou",
+      "alt_names": [
+        "三条宗近"
+      ],
+      "role": "minor",
+      "description": "Munechika Sanjou is a master swordsmith whose representative work is the blade Mikazuki Munechika.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381169-9oMbLWr59uHL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381169
+      }
+    },
+    {
+      "id": "butesha",
+      "name": "Butesha",
+      "alt_names": [
+        "ブーテーシャ",
+        "Lord of the Demons"
+      ],
+      "role": "minor",
+      "description": "Butesha is the Lord of the Demons. He was defeated during Shiva and Rudra’s journey to reach the peak of Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381274-hPCrB83UIBHc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381274
+      }
+    },
+    {
+      "id": "mahatapas",
+      "name": "Mahatapas",
+      "alt_names": [
+        "マハータパス",
+        "The Great Ascetic"
+      ],
+      "role": "minor",
+      "description": "Mahatapas is the Great Ascetic. He was defeated during Shiva and Rudra’s journey to reach the peak of Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381275-m4ZOyBtNlAx1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381275
+      }
+    },
+    {
+      "id": "muritoinjaya",
+      "name": "Muritoinjaya",
+      "alt_names": [
+        "ムリトィンジャヤ"
+      ],
+      "role": "minor",
+      "description": "Muritoinjaya is the One Who Overcame Death. He was defeated during Shiva and Rudra’s journey to reach the peak of Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381276-MXMkX1RYnhtm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381276
+      }
+    },
+    {
+      "id": "sharubeija",
+      "name": "Sharubeija",
+      "alt_names": [
+        "シャルベージャ",
+        "The Winged Lion"
+      ],
+      "role": "minor",
+      "description": "Sharubeija is the Winged Lion. He was defeated during Shiva and Rudra’s journey to reach the peak of Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381277-Nl6sxhX1e7Ai.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381277
+      }
+    },
+    {
+      "id": "trilochano",
+      "name": "Trilochano",
+      "alt_names": [
+        "トリローチャーノ",
+        "The One Who Has Three Eyes"
+      ],
+      "role": "minor",
+      "description": "Trilochano is the One Who Has Three Eyes. He was defeated during Shiva and Rudra’s journey to reach the peak of Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381280-T2osC5yXhjC4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381280
+      }
+    },
+    {
+      "id": "hara",
+      "name": "Hara",
+      "alt_names": [
+        "ハラ",
+        "The One Who Takes Away"
+      ],
+      "role": "minor",
+      "description": "Hara is the One Who Takes Away. He was defeated during Shiva and Rudra’s journey to reach the peak of Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381281-5KHT65mWJb6v.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381281
+      }
+    },
+    {
+      "id": "gangadara",
+      "name": "Gangadara",
+      "alt_names": [
+        "ガンガダーラ"
+      ],
+      "role": "minor",
+      "description": "Gangadara is the One Who Supports the Ganges. He was defeated during Shiva and Rudra’s journey to reach the peak of Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381286-cF3E85tJlzsh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381286
+      }
+    },
+    {
+      "id": "nagakundara",
+      "name": "Nagakundara",
+      "alt_names": [
+        "ナーガクンダラ"
+      ],
+      "role": "minor",
+      "description": "Nagakundara is the One Who Wears Snakes as a Necklace. He was defeated during Shiva and Rudra’s journey to reach the peak of Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381287-vJ42QJMRiZUO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381287
+      }
+    },
+    {
+      "id": "trilochana",
+      "name": "Trilochana",
+      "alt_names": [
+        "トリローチャナ"
+      ],
+      "role": "minor",
+      "description": "Trilochana is the One Who Possesses a Corpse-Like Body. He was defeated during Shiva and Rudra’s journey to reach the peak of Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381289-rNR2COGBxXNF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381289
+      }
+    },
+    {
+      "id": "amarnaat",
+      "name": "Amarnaat",
+      "alt_names": [
+        "アマルナート",
+        "The Lord of Immortality"
+      ],
+      "role": "minor",
+      "description": "Amarnaat is the Lord of Immortality. He was defeated during Shiva and Rudra’s journey to reach the peak of Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381300-9ewM7sPjAaQ8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381300
+      }
+    },
+    {
+      "id": "maheshvara",
+      "name": "Maheshvara",
+      "alt_names": [
+        "マハーシュバラ",
+        "The Great King"
+      ],
+      "role": "minor",
+      "description": "Maheshvara is the Great King. He was defeated during Shiva and Rudra’s journey to reach the peak of Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381303-v0KgAkGZ8c8l.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381303
+      }
+    },
+    {
+      "id": "acharanata",
+      "name": "Acharanata",
+      "alt_names": [
+        "アチャラナータ",
+        "The Unmoving One"
+      ],
+      "role": "minor",
+      "description": "Acharanata is the Unmoving One. He was defeated during Shiva and Rudra’s journey to reach the peak of Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381304-N2AzLa8iePr8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381304
+      }
+    },
+    {
+      "id": "ishana",
+      "name": "Ishana",
+      "alt_names": [
+        "イシャナ",
+        "The One Who Rules"
+      ],
+      "role": "minor",
+      "description": "Ishana is the One Who Rules. He was defeated during Shiva and Rudra’s journey to reach the peak of Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381305-Xf7V0rF1akkv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381305
+      }
+    },
+    {
+      "id": "mahakala",
+      "name": "Mahakala",
+      "alt_names": [
+        "マハカーラ"
+      ],
+      "role": "minor",
+      "description": "Mahakala is the Great Darkness, the One Who Rules Time and Death. He was defeated during Shiva and Rudra’s journey to reach the peak of Svarga.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381306-nQ9soN1sI2ZA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381306
+      }
+    },
+    {
+      "id": "genzaburou-inoue",
+      "name": "Genzaburou Inoue",
+      "alt_names": [
+        "井上源三郎"
+      ],
+      "role": "minor",
+      "description": "Genzaburou Inoue was the captain of the Sixth Division of the Shinsengumi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381307-0MBdlvGOfUua.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381307
+      }
+    },
+    {
+      "id": "eisaburou-abiru",
+      "name": "Eisaburou Abiru",
+      "alt_names": [
+        "阿比留銃三郎"
+      ],
+      "role": "minor",
+      "description": "Eisaburou Abiru was a member of the Mibu Roshigumi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381308-LYtkKI4EYVHP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381308
+      }
+    },
+    {
+      "id": "sanosuke-harada",
+      "name": "Sanosuke Harada",
+      "alt_names": [
+        "原田左之助"
+      ],
+      "role": "minor",
+      "description": "Sanosuke Harada was the captain of the tenth division of the Shinsengumi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381309-HNyuFfHJMpVj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381309
+      }
+    },
+    {
+      "id": "kanayakoshin",
+      "name": "Kanayakoshin",
+      "alt_names": [
+        "金屋子神",
+        "The Goddess of Blacksmithing"
+      ],
+      "role": "minor",
+      "description": "Kanayakoshin is the Goddess of Blacksmithing.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381310-EkPt9XUcKUU1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381310
+      }
+    },
+    {
+      "id": "hephaestus",
+      "name": "Hephaestus",
+      "alt_names": [
+        "ヘパイストス",
+        "God of Fire and Blacksmithing"
+      ],
+      "role": "minor",
+      "description": "Hephaestus is the God of Fire and Blacksmithing.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381311-OUmMmrL8wQWD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381311
+      }
+    },
+    {
+      "id": "xerxes-i",
+      "name": "Xerxes I",
+      "alt_names": [
+        "クセルクセス1世"
+      ],
+      "role": "minor",
+      "description": "Xerxes I was the fourth king of the Achaemenid Persian Empire.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381719-AKYjJtE6bhkd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381719
+      }
+    },
+    {
+      "id": "gaia",
+      "name": "Gaia",
+      "alt_names": [
+        "ガイア"
+      ],
+      "role": "minor",
+      "description": "__Species__: Primordial God",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381738-NqHfV3aFe4U6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381738
+      }
+    },
+    {
+      "id": "hanjiro-nakamura",
+      "name": "Hanjiro Nakamura",
+      "alt_names": [
+        "中村半次郎"
+      ],
+      "role": "minor",
+      "description": "Hanjiro Nakamura was one of the Four Great Manslayers of the Bakumatsu.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381854-Eflvm5m61kPz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381854
+      }
+    },
+    {
+      "id": "gensai-kawakami",
+      "name": "Gensai Kawakami",
+      "alt_names": [
+        "河上彦斎"
+      ],
+      "role": "minor",
+      "description": "Gensai Kawakami was one of the Four Great Manslayers of the Bakumatsu.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381855-dOGT0fmaQ1ft.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381855
+      }
+    },
+    {
+      "id": "shinbei-tanaka",
+      "name": "Shinbei Tanaka",
+      "alt_names": [
+        "田中新兵衛"
+      ],
+      "role": "minor",
+      "description": "Shinbei Tanaka was one of the Four Great Manslayers of the Bakumatsu.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381856-bsMXfMasQIED.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381856
+      }
+    },
+    {
+      "id": "izo-okada",
+      "name": "Izo Okada",
+      "alt_names": [
+        "岡田以蔵"
+      ],
+      "role": "minor",
+      "description": "Izo Okada was one of the Four Great Manslayers of the Bakumatsu.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381857-Df26J1mWdKVN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381857
+      }
+    },
+    {
+      "id": "incubus",
+      "name": "Incubus",
+      "alt_names": [
+        "インキュバス"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381858-oAAc94rYsm2H.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381858
+      }
+    },
+    {
+      "id": "forseti",
+      "name": "Forseti",
+      "alt_names": [
+        "フォルセティ",
+        "God of Peace"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381859-QDCEiiC6YbT2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381859
+      }
+    },
+    {
+      "id": "ekitoku-chouhi",
+      "name": "Ekitoku Chouhi",
+      "alt_names": [
+        "張飛益徳"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381860-zTECqtQco7V1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381860
+      }
+    },
+    {
+      "id": "kentoku-ryuuhi",
+      "name": "Kentoku Ryuuhi",
+      "alt_names": [
+        "劉備玄徳"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381863-75kFPj0LTGaL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381863
+      }
+    },
+    {
+      "id": "unchou-kanu",
+      "name": "Unchou Kanu",
+      "alt_names": [
+        "関羽雲長"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b381864-XItnW2H6f3ID.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381864
+      }
+    },
+    {
+      "id": "duel",
+      "name": "Duel",
+      "alt_names": [
+        "デュール"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 381865
+      }
+    },
+    {
+      "id": "bang-liu",
+      "name": "Bang Liu",
+      "alt_names": [
+        "劉邦",
+        "りゅうばう"
+      ],
+      "role": "minor",
+      "description": "Bang Liu was the first emperor of the Former Han Dynasty.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382276-e7uy0M5e2KR6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382276
+      }
+    },
+    {
+      "id": "che-liu",
+      "name": "Che Liu",
+      "alt_names": [
+        "劉徹",
+        "りゅうてつ"
+      ],
+      "role": "minor",
+      "description": "Che Liu was the seventh emperor of the Former Han Dynasty.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382277-NYlDoX7SRDjm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382277
+      }
+    },
+    {
+      "id": "yuanzhang-zhu",
+      "name": "Yuanzhang Zhu",
+      "alt_names": [
+        "朱元璋",
+        "しゅげんしょう"
+      ],
+      "role": "minor",
+      "description": "Yuanzhang Zhu was the first emperor of the Ming Dynasty.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382279-1PTWV99z1PGA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382279
+      }
     }
   ],
-  "updated_at": "2025-12-22T22:01:28.485Z"
+  "updated_at": "2025-12-23T09:20:05.101Z"
 }

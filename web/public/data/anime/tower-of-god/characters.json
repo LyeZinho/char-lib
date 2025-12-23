@@ -1,6 +1,6 @@
 {
   "work_id": "tower-of-god",
-  "count": 25,
+  "count": 56,
   "characters": [
     {
       "id": "twenty-fifth-baam",
@@ -628,7 +628,744 @@
       "external_ids": {
         "anilist": 168145
       }
+    },
+    {
+      "id": "leo-clocker",
+      "name": "Leo Clocker",
+      "alt_names": [
+        "레오 클록커",
+        "クロッカ"
+      ],
+      "role": "supporting",
+      "description": "Leo Cloakeris a Regular that was assigned to the Fisherman position.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168146-jpm1s4njPqcO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168146
+      }
+    },
+    {
+      "id": "catan",
+      "name": "Catan",
+      "alt_names": [
+        "카탄"
+      ],
+      "role": "supporting",
+      "description": "Catan is a Regular assigned to the Scout Position.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168147-JwTPVNSYOkbO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168147
+      }
+    },
+    {
+      "id": "rozeal",
+      "name": "Rozeal",
+      "alt_names": [
+        "로제알",
+        "ロゼアール"
+      ],
+      "role": "supporting",
+      "description": "She is a Regular, who was assigned to the Wave Controller position.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168148-4mEzwpc2CHMu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168148
+      }
+    },
+    {
+      "id": "palgyon",
+      "name": "Palgyon",
+      "alt_names": [
+        "팔견",
+        "八見"
+      ],
+      "role": "supporting",
+      "description": "Palgyunis is a F-Rank Regular, who was assigned to the Scout position.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168149-o6upMiQ1vkcB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168149
+      }
+    },
+    {
+      "id": "full-black",
+      "name": "Full Black",
+      "alt_names": [
+        "풀 블랙",
+        "プール・ブラツク"
+      ],
+      "role": "supporting",
+      "description": "Full Black is a Regular and a Light Bearer",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168150-DOAdTFOrwBnR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168150
+      }
+    },
+    {
+      "id": "hoh",
+      "name": "Hoh",
+      "alt_names": [
+        "호",
+        "ホー"
+      ],
+      "role": "supporting",
+      "description": "Hoh is a seemingly cheerful person who is actually quite conflicted. Making his way up the tower, dealing with flashbacks of the past in his homeplace, and making friends, he struggles to make his way.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168151-1D29YWmA8xjW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168151
+      }
+    },
+    {
+      "id": "hyun-seung",
+      "name": "Hyun Seung",
+      "alt_names": [
+        "현승",
+        "Kazu",
+        "カズ"
+      ],
+      "role": "supporting",
+      "description": "Hyun Seung is a Regular who was assigned to the Spear Bearer position.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168152-x57q6SGKP27Y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168152
+      }
+    },
+    {
+      "id": "chungchung",
+      "name": "Chungchung",
+      "alt_names": [
+        "청청",
+        "チョンチョン"
+      ],
+      "role": "supporting",
+      "description": "Chungchung is an extremely small and fast Regular who was assigned the Light Bearer position.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168153-rHrNxjknt8EN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168153
+      }
+    },
+    {
+      "id": "deod",
+      "name": "Deod",
+      "alt_names": [
+        "데오드",
+        "デオード"
+      ],
+      "role": "supporting",
+      "description": "Deod is a Regular that was assigned to the Fisherman position. He teamed up with Leo Cloaker and First Emperor after the \"Deathmatch\" Test.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168159-Eki61fcgwsL3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168159
+      }
+    },
+    {
+      "id": "geomeun-samwol",
+      "name": "Geomeun Samwol",
+      "alt_names": [
+        "검은 삼월",
+        "Geomeun Sahmwol",
+        "Black March",
+        "黒の三月",
+        "검은三月",
+        "Black Third Moon"
+      ],
+      "role": "supporting",
+      "description": "Black March is a B-rank Needle and Ignition Weapon lent to Baam for a short time by Yuri Jahad. Black March is one of the 13 Month Series made by the craftsmaster, Ashul Edwaru. The weapon is sentient and has a spirit inside it and when ignited, it is capable of unleashing extreme power like the other 13 Month Series.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168700-FZdM1OR5cVSj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168700
+      }
+    },
+    {
+      "id": "mr-neon-bag",
+      "name": "Mr. Neon Bag",
+      "alt_names": [
+        "형광봉다리씨",
+        "蛍光ポリ袋 ",
+        "Keikou porifukuro",
+        "Fluorescent Plastic Bag"
+      ],
+      "role": "supporting",
+      "description": "He  is a Test Assistant in the Door Test. He and his team pretended to be a Regular in order to give hints to all the teams before they took the door-selection exam under the order of the Test Director Yu Han Sung.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169093-2MPQtWSTh8E5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 169093
+      }
+    },
+    {
+      "id": "hachuling-khun",
+      "name": "Hachuling Khun",
+      "alt_names": [
+        "하츨링",
+        "Hahcheulling",
+        "Hachling",
+        "クン・ハツルリング"
+      ],
+      "role": "supporting",
+      "description": "Khun Hachuling, or simply just Hachuling, is a Ranker, a defected member of the Khun Family and one of the numerous children related to Khun Eduan. He is also a member of Wolhaiksong and is sometimes referred to as Blueberry.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175047-o2zQmdPwHPLu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175047
+      }
+    },
+    {
+      "id": "aleksai-amigochaz",
+      "name": "Aleksai Amigochaz",
+      "alt_names": [
+        "알렉세이 아미고챠즈"
+      ],
+      "role": "supporting",
+      "description": "Aleksai Amigochaz is the red-winged Regular from early 2nd Floor who had been climbing the Tower with Shibisu, Anak Zahard and Androssi Zahard as a member of Team Isu. His position is a Spear Bearer.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175702-JSnskF1Gvy3i.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175702
+      }
+    },
+    {
+      "id": "azadni",
+      "name": "Azadni",
+      "alt_names": [
+        "아자드니"
+      ],
+      "role": "supporting",
+      "description": "Azadni is a Regular assigned to the Spear Bearer Position.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175703-kHhJJfyQlyVc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175703
+      }
+    },
+    {
+      "id": "baunian",
+      "name": "Baunian",
+      "alt_names": [
+        "버니안"
+      ],
+      "role": "supporting",
+      "description": "Baunian is a Regular assigned to the Light Bearer position.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175704-fWop7EtQs4Qr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175704
+      }
+    },
+    {
+      "id": "bok-dol-yu",
+      "name": "Bok-Dol Yu",
+      "alt_names": [
+        "유복돌"
+      ],
+      "role": "supporting",
+      "description": "Yu Bok-Dol is a Ranker. He is the Position Instructor for the Spear Bearers on the Second Floor and therefore one of the judges during the Hide-and-Seek test as well as the judge for the Spear Bearers during the Position Test.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175705-2FIu50t7mbhV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175705
+      }
+    },
+    {
+      "id": "le-ara",
+      "name": "Le-Ara",
+      "alt_names": [
+        "레-아라"
+      ],
+      "role": "supporting",
+      "description": "Le-Ara is a Regular assigned to the Light Bearer position.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175706-VWKfI1glmXsn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175706
+      }
+    },
+    {
+      "id": "kurdan",
+      "name": "Kurdan",
+      "alt_names": [
+        "쿠르단"
+      ],
+      "role": "supporting",
+      "description": "Kurudan is a Ranker and member of Wolhaiksong. He travelled with Yuri Zahard and her group, whose objective was to navigate the more dangerous parts of the Middle Area in order to infiltrate the Second Floor so she could retrieve the Black March.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175707-ixQXT8C7TRno.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175707
+      }
+    },
+    {
+      "id": "hax",
+      "name": "Hax",
+      "alt_names": [
+        "헥스"
+      ],
+      "role": "supporting",
+      "description": "Hax is a Ranker. She is the Position Instructor for the Fishermen on the Second Floor and was, therefore, one of the judges during the Hide-and-Seek test as well as the judge for the Fishermen during the overall Position Test.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175709-pG486XvxOL9S.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175709
+      }
+    },
+    {
+      "id": "chunhwa-hong",
+      "name": "Chunhwa Hong",
+      "alt_names": [
+        "홍천화"
+      ],
+      "role": "supporting",
+      "description": "Hong Chunhwa is a Regular. He passed all of the Second Floor tests and was assigned to the Fisherman position. He seems to be quite close to Sunwoo Nare.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175710-z35YAIt9WdpK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175710
+      }
+    },
+    {
+      "id": "kukaku-rakukakuka",
+      "name": "Kukaku Rakukakuka",
+      "alt_names": [
+        "쿠카쿠 라쿠카쿠카"
+      ],
+      "role": "supporting",
+      "description": "Kukaku Rakukakuka is a Regular who participated on the 2nd Floor tests. He was one of the people who were \"stored\" in Khun's bag throughout the first \"Deathmatch\" Test. He participated in the Crown Game with his teammates Blarouse and Grey, and helped Khun by attacking the other Regulars. He was then assigned to the Light Bearer position.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175711-IGhN6r38E4Nk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175711
+      }
+    },
+    {
+      "id": "changsoo-yeon",
+      "name": "Changsoo Yeon",
+      "alt_names": [
+        "연창수"
+      ],
+      "role": "supporting",
+      "description": "Yung Changsoo is a Regular assigned to the Fisherman position.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175712-SfEqzUcR8wGx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175712
+      }
+    },
+    {
+      "id": "blarouse",
+      "name": "Blarouse",
+      "alt_names": [
+        "블라루즈"
+      ],
+      "role": "supporting",
+      "description": "Blarouse is a Regular who participated on the 2nd Floor tests. He was one of the people who were \"stored\" in Khun's bag throughout the first \"Deathmatch\" Test.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175713-k9wTEvD2OZPA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175713
+      }
+    },
+    {
+      "id": "hoshi",
+      "name": "Hoshi",
+      "alt_names": [
+        "호시"
+      ],
+      "role": "supporting",
+      "description": "Hoshi is Regular who was assigned the Scout position.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175714-j2HlmOSfHiC5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175714
+      }
+    },
+    {
+      "id": "grey",
+      "name": "Grey",
+      "alt_names": [
+        "그레이"
+      ],
+      "role": "supporting",
+      "description": "Grey is a Regular who participated on the 2nd Floor tests. She was one of the three people who were \"stored\" in Khun's bag throughout the first \"Deathmatch\" Test.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175715-A7MVunx0mb7U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175715
+      }
+    },
+    {
+      "id": "goon",
+      "name": "Goon",
+      "alt_names": [
+        "군",
+        "Gun"
+      ],
+      "role": "supporting",
+      "description": "Goon is a Regular who was assigned to the Spear Bearer position.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175716-ixCmFHuaEXdx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175716
+      }
+    },
+    {
+      "id": "parakewl",
+      "name": "Parakewl",
+      "alt_names": [
+        "파라큘",
+        "Paracule"
+      ],
+      "role": "supporting",
+      "description": "Parakewl is a rather unintelligent and useless Regular.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175717-NifIOzxcDyfF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175717
+      }
+    },
+    {
+      "id": "no-rang",
+      "name": "No Rang",
+      "alt_names": [
+        "노랑",
+        "Yellow",
+        "黄色"
+      ],
+      "role": "minor",
+      "description": "Yellow is an exam assistant. She gave instructions to the Regulars for Yu Han Sung 's examination, The Door Test.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166490-LyMFNAxL2b4V.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166490
+      }
+    },
+    {
+      "id": "announcer",
+      "name": "Announcer",
+      "alt_names": [
+        "アナウンスの声"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166493-bfdeak3nW76O.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166493
+      }
+    },
+    {
+      "id": "anaak-ui-eomma",
+      "name": "Anaak-ui Eomma",
+      "alt_names": [
+        "아낙의 엄마",
+        "Anaak's mother アナクの母親"
+      ],
+      "role": "minor",
+      "description": "~!She is the real Anaak Jahad. Her daughter decided to take her name while going up the tower to avenge her.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175708-tmYLDohh4vlR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175708
+      }
+    },
+    {
+      "id": "angnyeong",
+      "name": "Angnyeong",
+      "alt_names": [
+        "악령",
+        "Akryung",
+        "Ghost"
+      ],
+      "role": "minor",
+      "description": "A mysterious regular that first appeard during the Crown game on the Floor of tests.\n\n~!It was later revealed that he was a Bodyguard assigned by Headon to help Rachel climb the Tower.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212873-HeYsP3GBNjZf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212873
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:19:36.726Z"
+  "updated_at": "2025-12-23T06:07:34.354Z"
 }

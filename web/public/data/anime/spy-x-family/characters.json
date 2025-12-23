@@ -1,6 +1,6 @@
 {
   "work_id": "spy-x-family",
-  "count": 25,
+  "count": 38,
   "characters": [
     {
       "id": "loid-forger",
@@ -626,7 +626,341 @@
       "external_ids": {
         "anilist": 278137
       }
+    },
+    {
+      "id": "bill-watkins",
+      "name": "Bill Watkins",
+      "alt_names": [
+        "ビル・ワトキンス",
+        "Bazooka Bill"
+      ],
+      "role": "supporting",
+      "description": "The 6-year-old son of a major in the National Army who attends Eden Academy as part of Wald Hall. He was given the nickname \"Bazooka Bill\" by his peers for his mental and physical domination in sports since nursery school.",
+      "metadata": {
+        "gender": "male",
+        "age": "6",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b278821-yK2ulLgK3KEM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 278821
+      }
+    },
+    {
+      "id": "kokkahoankyoku-chuui",
+      "name": "Kokkahoankyoku Chuui",
+      "alt_names": [
+        "国家保安局中尉",
+        "SSS Lieutenant",
+        "State Security Service Lieutenant"
+      ],
+      "role": "supporting",
+      "description": "A scarred man who is a lieutenant and a higher position than [Yuuri Briar](https://anilist.co/character/150425/Yuuri-Briar) in the SSS. He seems to be fairly close to Yuuri and is aware of his drinking habits and sister complex, advising Yuri to get over his sister and focus on his work.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279677-VeVumWIwfdFi.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 279677
+      }
+    },
+    {
+      "id": "kokkahoankyoku-kyokuchou",
+      "name": "Kokkahoankyoku Kyokuchou",
+      "alt_names": [
+        "国家保安局局長",
+        "SSS Director",
+        "State Security Service Director"
+      ],
+      "role": "supporting",
+      "description": "The boss of the SSS who dotes on [Yuuri](https://anilist.co/character/150425/Yuuri-Briar) because he finds him adorable like a puppy.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279678-Q59PfmCFihrW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 279678
+      }
+    },
+    {
+      "id": "roujo",
+      "name": "Roujo",
+      "alt_names": [
+        "老女",
+        "Old Woman"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b301863-mzKXUuQavGJw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 301863
+      }
+    },
+    {
+      "id": "kojiin-no-shujin",
+      "name": "Kojiin no Shujin",
+      "alt_names": [
+        "孤児院の主人",
+        "Orphanage Owner"
+      ],
+      "role": "supporting",
+      "description": "An inebriated middle-aged man who is the owner of the orphanage where Anya Forger is adopted by Loid Forger. He is apathetic about his orphanage, as shown by the neglected state of the children and his indifference to Loid's given background. He thinks of Anya as a \"creepy little brat\", attempting to give her away to Loid upon hearing he wants a literate child.\n\n(Source: Spy x Family Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b301867-Vc4auE6Amt5O.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 301867
+      }
+    },
+    {
+      "id": "wise-kikanin-a",
+      "name": "WISE Kikanin A",
+      "alt_names": [
+        "WISE機関員",
+        "WISE Secretary"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b301868-felhZ37s3zzW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 301868
+      }
+    },
+    {
+      "id": "shitateya-no-tenin",
+      "name": "Shitateya no Tenin",
+      "alt_names": [
+        "仕立て屋の店員"
+      ],
+      "role": "supporting",
+      "description": "An elderly lady who works as a clerk at Mona & Monacca.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b316686-W5z27mhVDD2i.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 316686
+      }
+    },
+    {
+      "id": "shitateya-no-tenshu",
+      "name": "Shitateya no Tenshu",
+      "alt_names": [
+        "仕立て屋の店主"
+      ],
+      "role": "supporting",
+      "description": "The owner of Mona & Monacca, a tailor shop in Berlint. She was one of [Loid](https://anilist.co/character/138101/Forger-Loid)'s candidates as an unmarried woman, but was rejected due to having been arrested for political activities in the past and her somewhat older age. When the Forgers come to her shop to purchase Eden Academy's uniforms for [Anya](https://anilist.co/character/138100/Forger-Anya), she warns them about the bullying and kidnappings in Eden Academy. She also appears to be familiar with [Yor](https://anilist.co/character/138102/Forger-Yor) as she is suggested to be a regular at the shop.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b316687-tfXjCsfbp0N7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 316687
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "minor",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
+    },
+    {
+      "id": "bond",
+      "name": "Bond",
+      "alt_names": [
+        "ボンド",
+        "Subject 8"
+      ],
+      "role": "minor",
+      "description": "Bond is the recently adopted pet of the Forger Family. Formally known as Subject 8, Bond has been used for experiments that resulted in the dog gaining precognition abilities.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169679-EFPubVtZFYom.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 169679
+      }
+    },
+    {
+      "id": "bondman",
+      "name": "Bondman",
+      "alt_names": [
+        "ボンドマーン"
+      ],
+      "role": "minor",
+      "description": "The protagonist of Spy Wars and the number one spy in the show. He frequently has to take down enemies from the League of Evil in order to save Princess Honey.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274081-OQdVAPCoTuBI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 274081
+      }
+    },
+    {
+      "id": "honey-hime",
+      "name": "Honey-hime",
+      "alt_names": [
+        "ハニー姫",
+        "Hanī-hime",
+        "Princess Honey"
+      ],
+      "role": "minor",
+      "description": "Princess of the kingdom where Spy Wars takes place. She is frequently saved by Bondman which has caused her to develop feelings for him.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b277084-gzuXbmilBj3I.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 277084
+      }
+    },
+    {
+      "id": "bondman-no-shirei-kan",
+      "name": "Bondman no Shirei-kan",
+      "alt_names": [
+        "ボンドマンの司令官",
+        "Bondman's Commander"
+      ],
+      "role": "minor",
+      "description": "He is the headman of Bondman's organization.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b301871-jueSaqakaWFH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 301871
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:27:16.554Z"
+  "updated_at": "2025-12-23T05:19:15.186Z"
 }

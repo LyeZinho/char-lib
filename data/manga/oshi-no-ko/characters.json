@@ -1,6 +1,6 @@
 {
   "work_id": "oshi-no-ko",
-  "count": 25,
+  "count": 68,
   "characters": [
     {
       "id": "aquamarine-hoshino",
@@ -596,7 +596,1017 @@
       "external_ids": {
         "anilist": 280874
       }
+    },
+    {
+      "id": "mimi-yoshizumi",
+      "name": "Mimi Yoshizumi",
+      "alt_names": [
+        "吉住ミミ",
+        "Komimi Suzune (鈴音コミミ)"
+      ],
+      "role": "supporting",
+      "description": "Cosplayer and VTuber under the name Komimi Suzune. [Shun](https://anilist.co/character/280874/Shun-Yoshizumi)'s sister.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282748-KwAOWGdq3DOC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282748
+      }
+    },
+    {
+      "id": "kengo-morimoto",
+      "name": "Kengo Morimoto",
+      "alt_names": [
+        "森本ケンゴ"
+      ],
+      "role": "supporting",
+      "description": "Third-year high schooler and professional musician signed with a record label. He writes all of the music and lyrics for his band and occasionally for others. He was a cast member of the reality dating show \"LoveNow.\"",
+      "metadata": {
+        "gender": "male",
+        "age": "17-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282773-gsQoxIAsLuf2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282773
+      }
+    },
+    {
+      "id": "anemone-monemone",
+      "name": "Anemone Monemone",
+      "alt_names": [
+        "アネモネモネモネ"
+      ],
+      "role": "supporting",
+      "description": "A Video Creator/Instagrammer. Her company \"Video D\" is located in Takachiho, Miyazaki, which is where ~![Goro](https://anilist.co/character/183885/) and [Sarina](https://anilist.co/character/183884/) lived.!~ She is friends with [Memcho](https://anilist.co/character/205434/) and helps her out by shooting & editing the new B-Komachi's first two music videos.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282774-DPG4qTAoct1N.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282774
+      }
+    },
+    {
+      "id": "masanori-shima",
+      "name": "Masanori Shima",
+      "alt_names": [
+        "島政則",
+        "Shima D",
+        "Director Shima"
+      ],
+      "role": "supporting",
+      "description": "A popular film director, currently the most influential in Japan. He has an honest desire to take care of the actors in his productions, but is also known as a playboy and target of tabloid reporters looking for industry scandal.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b295838-Kgopin5Csp6c.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 295838
+      }
+    },
+    {
+      "id": "himura",
+      "name": "Himura",
+      "alt_names": [
+        "日村"
+      ],
+      "role": "supporting",
+      "description": "Composer who has written over 1000 songs. 10 years ago he was one of Japan's top artists, and wrote almost all of his songs himself. [Miyako](https://anilist.co/character/223870) commissions him to write the new B-Komachi's new hit song, as he wrote many of the original B-Komachi's most popular songs.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b295842-XVysMjLAQedC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 295842
+      }
+    },
+    {
+      "id": "meiya",
+      "name": "Meiya",
+      "alt_names": [
+        "メイヤ"
+      ],
+      "role": "supporting",
+      "description": "Cosplayer who uses the stage name Meiya. She was invited by Ruby for a cosplay segment on _Dig Deep! One Chance!_.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b295843-FXpkXM1TQDGw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 295843
+      }
+    },
+    {
+      "id": "hikaru-kamiki",
+      "name": "Hikaru Kamiki",
+      "alt_names": [
+        "神木ひかる",
+        "カミキヒカル"
+      ],
+      "role": "supporting",
+      "description": "~!He is the father of Aqua and Ruby.!~\n\n~!He is later revealed to also be Taiki Himekawa's biological father, having been molested by Airi Himekawa when he was a child before allegedly having her murdered as well by telling her husband about the affair.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b299249-r7PPoRmqqN1b.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 299249
+      }
+    },
+    {
+      "id": "yura-katayose",
+      "name": "Yura Katayose",
+      "alt_names": [
+        "片寄ゆら"
+      ],
+      "role": "supporting",
+      "description": "Top actress in Japan. Represented by SA Entertainment.",
+      "metadata": {
+        "gender": "female",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b299253-0SqPZngSpsY6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 299253
+      }
+    },
+    {
+      "id": "ryousuke-sugano",
+      "name": "Ryousuke Sugano",
+      "alt_names": [
+        "菅野良介",
+        "リョースケ"
+      ],
+      "role": "supporting",
+      "description": "A shut-in, Ryosuke is a mentally unstable person who turns towards idols to feel loved in his life. He is an obsessive fan of [Ai Hoshino](https://anilist.co/character/172759). ~!Ryousuke became enraged after learning of Ai's pregnancy and murdered Gorou Amemiya when the doctor interfered in his first attempt to kill Ai. Years later Ryousuke murdered Ai, fatally stabbing her at her home. Shortly afterwards Ryousuke commited suicide.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302241-a4CnwukQCyQP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302241
+      }
+    },
+    {
+      "id": "manager",
+      "name": "Manager",
+      "alt_names": [
+        "マネージャー",
+        "Akane Kurokawa's Manager"
+      ],
+      "role": "supporting",
+      "description": "The manager of Akane Kurokawa. He tries his best to protect her.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305780-gAyhDxcqa3hF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305780
+      }
+    },
+    {
+      "id": "marina-tendouji",
+      "name": "Marina Tendouji",
+      "alt_names": [
+        "天童寺まりな"
+      ],
+      "role": "supporting",
+      "description": "Works at an advertising agency helping to promote the *15 Year Lie* film about Ai Hoshino's life. She is the mother of Sarina Tendouji.",
+      "metadata": {
+        "gender": "female",
+        "age": "54",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306366-lSRkNYKkpJaW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306366
+      }
+    },
+    {
+      "id": "karasu-shoujo",
+      "name": "Karasu Shoujo",
+      "alt_names": [
+        "カラス少女",
+        "Crow Girl",
+        "Pest"
+      ],
+      "role": "supporting",
+      "description": "She is a seemingly supernatural being apparently aware of everything that transpires within the story.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308806-Pfx0DfT8LKS5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308806
+      }
+    },
+    {
+      "id": "fuyuko-niino",
+      "name": "Fuyuko Niino",
+      "alt_names": [
+        "新野冬子",
+        "Nino (ニノ)"
+      ],
+      "role": "supporting",
+      "description": "A member and founder of the original incarnation of B-Komachi, she can be identified by the panda hairpin.\n~!She was later revealed to have orchestrated the murder of Ai Hoshino with [Hikaru Kamiki](https://anilist.co/character/299249/Hikaru-Kamiki).!~\n~!She tried to stab Ruby on the day of her appearance in the Tokyo Dome, but Ruby was actually Akane in disguise.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b316320-mqmjOBe9oovY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 316320
+      }
+    },
+    {
+      "id": "akane-no-chichi",
+      "name": "Akane no Chichi",
+      "alt_names": [
+        "あかねの父",
+        "Akane's Father"
+      ],
+      "role": "supporting",
+      "description": "Father of [Akane Kurokawa](https://anilist.co/character/203384).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b342710-LLzJYwW0xYaB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 342710
+      }
+    },
+    {
+      "id": "airi-himekawa",
+      "name": "Airi Himekawa",
+      "alt_names": [
+        "姫川愛梨"
+      ],
+      "role": "supporting",
+      "description": "Mother of [Taiki Himekawa](https://anilist.co/character/245510/) and wife of [Seijuurou Uehara](https://anilist.co/character/344775/). She was a successful actress in her day.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b344774-CvUSHhO6HMqz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 344774
+      }
+    },
+    {
+      "id": "seijuurou-uehara",
+      "name": "Seijuurou Uehara",
+      "alt_names": [
+        "上原清十郎"
+      ],
+      "role": "supporting",
+      "description": "Former actor and agency owner. Husband of Airi Himekawa and the legal father of Taiki Himekawa.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b344775-qNYGIDmvo3AP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 344775
+      }
+    },
+    {
+      "id": "taishi-no-haha",
+      "name": "Taishi no Haha",
+      "alt_names": [
+        "泰志の母",
+        "Taishi's Mother",
+        "Gotanda's Mother"
+      ],
+      "role": "minor",
+      "description": "Mother of [Taishi Gotanda](https://anilist.co/character/245519).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302910-t4m7YfozWfmv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302910
+      }
+    },
+    {
+      "id": "lala",
+      "name": "Lala",
+      "alt_names": [
+        "らら"
+      ],
+      "role": "minor",
+      "description": "An idol from a company that wants to scout [Ruby Hoshino](https://anilist.co/character/183884/Ruby-Hoshino) to become its idol.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302911-Zb2uFApm3VY5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302911
+      }
+    },
+    {
+      "id": "joseito",
+      "name": "Joseito",
+      "alt_names": [
+        "女生徒",
+        "Female Student"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302913-VsEUzvFVFF8A.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302913
+      }
+    },
+    {
+      "id": "hikaru-kanzaki",
+      "name": "Hikaru Kanzaki",
+      "alt_names": [
+        "神崎光"
+      ],
+      "role": "minor",
+      "description": "Employee at Ichigo Productions.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302923-okLZlTZmCHHc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302923
+      }
+    },
+    {
+      "id": "drama-kantoku",
+      "name": "Drama Kantoku",
+      "alt_names": [
+        "ドラマ監督",
+        "Drama Director"
+      ],
+      "role": "minor",
+      "description": "The director of the drama series I'll Go With Sweet Today.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b303884-aJMWtTfE7Ur7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 303884
+      }
+    },
+    {
+      "id": "enshutsu-joshu-a",
+      "name": "Enshutsu Joshu A",
+      "alt_names": [
+        "演出助手",
+        "Production Assistant"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b303885-RpNK6SuplcBU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 303885
+      }
+    },
+    {
+      "id": "enshutsu-joshu-b",
+      "name": "Enshutsu Joshu B",
+      "alt_names": [
+        "演出助手",
+        "Production Assistant"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304470-B3dDf9CeuK7L.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304470
+      }
+    },
+    {
+      "id": "director",
+      "name": "Director",
+      "alt_names": [
+        "ディレクター"
+      ],
+      "role": "minor",
+      "description": "Director of the reality dating show \"My Love with a Star Begins Now\" (also known as \"LoveNow\")",
+      "metadata": {
+        "gender": "male",
+        "age": "35",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305347-tE5KOEu1GsTm.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305347
+      }
+    },
+    {
+      "id": "akane-no-haha",
+      "name": "Akane no Haha",
+      "alt_names": [
+        "あかねの母",
+        "Akane's Mother"
+      ],
+      "role": "minor",
+      "description": "Mother of [Akane Kurokawa](https://anilist.co/character/203384).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305779-2P2ufnxvGW4j.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305779
+      }
+    },
+    {
+      "id": "jimusho-shachou",
+      "name": "Jimusho Shachou",
+      "alt_names": [
+        "事務所社長"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305782-6VBc3Zi4aVyk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305782
+      }
+    },
+    {
+      "id": "mem-cho-no-haha",
+      "name": "MEM-cho no Haha",
+      "alt_names": [
+        "MEMちょの母",
+        "Mem's Mother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b307846-oOUK2fTQ8qWS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 307846
+      }
+    },
+    {
+      "id": "kana-no-haha",
+      "name": "Kana no Haha",
+      "alt_names": [
+        "かなの母"
+      ],
+      "role": "minor",
+      "description": "Mother of Arima Kana.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308270-OtA4zv2pszVo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308270
+      }
+    },
+    {
+      "id": "koyaku-jimusho-manager",
+      "name": "Koyaku Jimusho Manager",
+      "alt_names": [
+        "子役事務所マネージャー",
+        "Child Agency Manager"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308271-qbK8IPzmTnlm.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308271
+      }
+    },
+    {
+      "id": "ongaku-producer",
+      "name": "Ongaku Producer",
+      "alt_names": [
+        "音楽プロデューサー",
+        "Music Producer"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308273-mDMGQlw8lmUe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308273
+      }
+    },
+    {
+      "id": "mimoji-kote",
+      "name": "Mimoji Kote",
+      "alt_names": [
+        "小手ミモジ"
+      ],
+      "role": "minor",
+      "description": "Chief director for the web variety show Dig Deep! One Chance.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308807-R1I45gRvw5lE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308807
+      }
+    },
+    {
+      "id": "itano",
+      "name": "Itano",
+      "alt_names": [
+        "板野"
+      ],
+      "role": "minor",
+      "description": "A weekly entertainment true story writer, a rather shameless person who has no problem with writing up scandalous stories about young actors provided that they are legal adults.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308808-l2hkEWjpdc81.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308808
+      }
+    },
+    {
+      "id": "otaku-fan",
+      "name": "Otaku Fan",
+      "alt_names": [],
+      "role": "minor",
+      "description": "A fan of various idol groups, including both the original and current incarnation of B-Komachi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308809-JfQyBZqmCwQ8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308809
+      }
+    },
+    {
+      "id": "mio-honda",
+      "name": "Mio Honda",
+      "alt_names": [
+        "本田澪"
+      ],
+      "role": "minor",
+      "description": "Manager of SA Entertainment.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308810-ihQ5HYmrSFDQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308810
+      }
+    },
+    {
+      "id": "luna",
+      "name": "Luna",
+      "alt_names": [
+        "ルナ",
+        "Runa"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308811-YmSR75wnr18c.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308811
+      }
+    },
+    {
+      "id": "tetsu-urushibara",
+      "name": "Tetsu Urushibara",
+      "alt_names": [
+        "漆原鉄"
+      ],
+      "role": "minor",
+      "description": "The director for the web variety show Dig Deep! One Chance.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308812-eosV3TGRTGFQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308812
+      }
+    },
+    {
+      "id": "norio-mita",
+      "name": "Norio Mita",
+      "alt_names": [
+        "みた のりお"
+      ],
+      "role": "minor",
+      "description": "A stage actor in the Lala Lai Theatrical Company, who acted in the Tokyo Blade stage play adaptation.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308813-pl6i5a3GJYsy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308813
+      }
+    },
+    {
+      "id": "ryouma-funato",
+      "name": "Ryouma Funato",
+      "alt_names": [
+        "船戸亮真"
+      ],
+      "role": "minor",
+      "description": "A stage actor in the Lala Lai Theatrical Company, who acted in the Tokyo Blade stage play adaptation.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308814-qRvc19n8ui4b.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308814
+      }
+    },
+    {
+      "id": "kiiro-hayashibara",
+      "name": "Kiiro Hayashibara",
+      "alt_names": [
+        "林原キイロ"
+      ],
+      "role": "minor",
+      "description": "A stage actor in the Lala Lai Theatrical Company, who acted in the Tokyo Blade stage play adaptation.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308816-F7ZqJK2uSZy0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308816
+      }
+    },
+    {
+      "id": "yamanaka",
+      "name": "Yamanaka",
+      "alt_names": [
+        "山中",
+        "Blade Daiyaku (ブレイド代役)"
+      ],
+      "role": "minor",
+      "description": "A stage actor who took part in the rehearsal of the stage play \"Tokyo Blade\" as the stand-in for Taiki Himekawa.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308817-ZJaPitW3EjuE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308817
+      }
+    },
+    {
+      "id": "koyuki-yoshidomi",
+      "name": "Koyuki Yoshidomi",
+      "alt_names": [
+        "吉富こゆき"
+      ],
+      "role": "minor",
+      "description": "A stage actress in the Lala Lai Theatrical Company, who acted in the Tokyo Blade stage play adaptation.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308818-Kl3vRzP7eAPO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308818
+      }
+    },
+    {
+      "id": "mei-adashino",
+      "name": "Mei Adashino",
+      "alt_names": [
+        "化野めい"
+      ],
+      "role": "minor",
+      "description": "A stage actress in the Lala Lai Theatrical Company, who acted in the Tokyo Blade stage play adaptation.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308820-aoL9ORqETZo6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308820
+      }
+    },
+    {
+      "id": "meimei",
+      "name": "Meimei",
+      "alt_names": [
+        "めいめい"
+      ],
+      "role": "minor",
+      "description": "A member of the original incarnation of B-Komachi, she can be identified by the cat hairpin.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b316321-WCv3qJVpkPC9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 316321
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:31:31.887Z"
+  "updated_at": "2025-12-23T09:14:49.818Z"
 }

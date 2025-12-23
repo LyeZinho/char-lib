@@ -1,6 +1,6 @@
 {
   "work_id": "frieren-beyond-journeys-end",
-  "count": 25,
+  "count": 77,
   "characters": [
     {
       "id": "frieren",
@@ -591,7 +591,1246 @@
       "external_ids": {
         "anilist": 319598
       }
+    },
+    {
+      "id": "tsurugi-no-sato-no-satoosa",
+      "name": "Tsurugi no Sato no Satoosa",
+      "alt_names": [
+        "剣の里の里長",
+        "Chief of Sword Village"
+      ],
+      "role": "supporting",
+      "description": "The current chief of the Village of the Sword. Her position was inherited. She is young for the position and postures to try to make up for her lack of height, but when faced with danger or matters regarding the Hero's Blade, she is collected and calm.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b319599-mCoQepXMeCi6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 319599
+      }
+    },
+    {
+      "id": "wirbel",
+      "name": "Wirbel",
+      "alt_names": [
+        "ヴィアベル"
+      ],
+      "role": "supporting",
+      "description": "Second-class mage and the leader of the eighth party during the first stage of the First Class Mage Exam. He is the captain of the Northern Magic Corps and is thus a very experienced mage. Specializes in magic that restrains the opponent when their body is in full-view.",
+      "metadata": {
+        "gender": "male",
+        "age": "33-34",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321716-ORxrJOHaI4H4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321716
+      }
+    },
+    {
+      "id": "richter",
+      "name": "Richter",
+      "alt_names": [
+        "リヒター"
+      ],
+      "role": "supporting",
+      "description": "Second-class mage who participates in the First Class Mage Exam at the same time as Frieren and Fern. He owns a magical store in Äußerst where he specializes in repairing broken staves.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321717-hDlFSdvTeZpq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321717
+      }
+    },
+    {
+      "id": "ehre",
+      "name": "Ehre",
+      "alt_names": [
+        "エーレ"
+      ],
+      "role": "supporting",
+      "description": "Second-class mage in the Eighth Party, alongside Wirbel and Scharf, in the First Class Mage Exam. Fern feels that she is the strongest within both the Fourth and Eighth parties.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321718-MV9ZCxtNdOpJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321718
+      }
+    },
+    {
+      "id": "land",
+      "name": "Land",
+      "alt_names": [
+        "ラント"
+      ],
+      "role": "supporting",
+      "description": "Second-class mage in the Fourth Party of the First Class Mage Examination. He specializes in illusion magic.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321719-GUHhBOb81K9H.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321719
+      }
+    },
+    {
+      "id": "sense",
+      "name": "Sense",
+      "alt_names": [
+        "ゼンゼ"
+      ],
+      "role": "supporting",
+      "description": "First-class mage that is proctoring the Second Exam of the First Class Mage Examination. She is a solemn person who rarely speaks.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321720-LRfYAvhD5I7l.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321720
+      }
+    },
+    {
+      "id": "solitar",
+      "name": "Solitär",
+      "alt_names": [
+        "ソリテール",
+        "Nameless Great Demon",
+        "Solitar",
+        "Solitaer"
+      ],
+      "role": "supporting",
+      "description": "Solitär is a demon who conducts research on living creatures, including humans, and an acquaintance of Macht, sharing an interest in humankind. Beneath her nonchalant attitude, however, lies an extremely dangerous demon, comparable to the members of the Seven Sages of Destruction.\n\n\"If you ever encounter a nameless Great Demon, flee without hesitation. Every single Great Demon that possesses vast mana, without exception, has lived for eons. However, if there is still no such record of them amongst mankind, there is a strong possibility that everyone who encountered them was massacred.\" -Frieren",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321976-G5ClUxZpATHC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321976
+      }
+    },
+    {
+      "id": "blei",
+      "name": "Blei",
+      "alt_names": [
+        "ブレイ"
+      ],
+      "role": "supporting",
+      "description": "Participant in the examination for the title of mage first class.\n~!Sacrificed himself to help Dunst deliver important information to his comrades in the lower level of the dungeon.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325587-P0uMjKW28Lue.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325587
+      }
+    },
+    {
+      "id": "falsch",
+      "name": "Falsch",
+      "alt_names": [
+        "ファルシュ"
+      ],
+      "role": "supporting",
+      "description": "First class mage. Acts as an observer in magical exams.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325588-sjv4RqiBH9Ar.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325588
+      }
+    },
+    {
+      "id": "lange",
+      "name": "Länge",
+      "alt_names": [
+        "レンゲ",
+        "Lange"
+      ],
+      "role": "supporting",
+      "description": "Participant in the examination for the title of mage first class. Slightly distracted girl. Likes to read books and learn new spells.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325589-EcLdKYGE9gCz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325589
+      }
+    },
+    {
+      "id": "gluck",
+      "name": "Glück",
+      "alt_names": [
+        "グリュック"
+      ],
+      "role": "supporting",
+      "description": "Glück is the feudal lord of the Fortified City of Weise.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326676-SBgnPslAe6x5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326676
+      }
+    },
+    {
+      "id": "orden",
+      "name": "Orden",
+      "alt_names": [
+        "オルデン",
+        "Lord Orden"
+      ],
+      "role": "supporting",
+      "description": "Nobleman presiding over the Vorig Fortified City and the current head of the Orden family, one of the Three Great Knightly Houses of the Northern Lands.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326825-NKZMl8ythv6u.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326825
+      }
+    },
+    {
+      "id": "gabel",
+      "name": "Gabel",
+      "alt_names": [
+        "ガーベル"
+      ],
+      "role": "supporting",
+      "description": "Servant of [Lord Orden](https://anilist.co/character/326825).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326826-KhpnVx4CE6Oc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326826
+      }
+    },
+    {
+      "id": "voll-jii",
+      "name": "Voll Jii",
+      "alt_names": [
+        "フォル爺",
+        "Old Man Voll"
+      ],
+      "role": "supporting",
+      "description": "Elderly Dwarf warrior and a long-time friend of Frieren. He resides in a village in the Klar Region.",
+      "metadata": {
+        "gender": "male",
+        "age": "400+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326830-aTNNxR4FaVfV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326830
+      }
+    },
+    {
+      "id": "gankobaa-san",
+      "name": "Gankobaa-san",
+      "alt_names": [
+        "頑固婆さん",
+        "Stubborn Old Lady"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326833-kn1X1mSLWtTC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326833
+      }
+    },
+    {
+      "id": "lernen",
+      "name": "Lernen",
+      "alt_names": [
+        "レルネン"
+      ],
+      "role": "supporting",
+      "description": "An old friend of Denken. First Class Mage and Serie's apprentice. Rarely acts directly, preferring stealth.\n~!Helped in the extraction and transfer of information necessary for the liberation of Denken's hometown.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327299-NgvxpyNecgoZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327299
+      }
+    },
+    {
+      "id": "scharf",
+      "name": "Scharf",
+      "alt_names": [
+        "シャルフ"
+      ],
+      "role": "supporting",
+      "description": "Scharf is a third-class mage and member of the eighth party along with Wirbel and Ehre for the First Class Mage Examination.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327305-DsvizGfxKnE8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327305
+      }
+    },
+    {
+      "id": "dunste",
+      "name": "Dünste",
+      "alt_names": [
+        "ドゥンスト",
+        "Dunste"
+      ],
+      "role": "supporting",
+      "description": "Participant in the First Class Mage Exam.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327560-WvAkF0ZoXLSD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327560
+      }
+    },
+    {
+      "id": "schlacht",
+      "name": "Schlacht",
+      "alt_names": [
+        "シュラハト",
+        "Omniscient Schlacht",
+        "Zenchi no Schlacht (全知のシュラハト)"
+      ],
+      "role": "supporting",
+      "description": "Schlacht, also known as the Omniscient Schlacht, is a demon who was said to be the Demon King's confidant.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331265-V6xCje9U7OeT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331265
+      }
+    },
+    {
+      "id": "neu",
+      "name": "Neu",
+      "alt_names": [
+        "ノイ"
+      ],
+      "role": "supporting",
+      "description": "Neu is a member of the Empire's Special Forces of Magic.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331266-Zd613e1DneTU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331266
+      }
+    },
+    {
+      "id": "minami-no-yuusha",
+      "name": "Minami no Yuusha",
+      "alt_names": [
+        "南の勇者",
+        "Hero of the South",
+        "Mankind's Strongest"
+      ],
+      "role": "supporting",
+      "description": "The Hero of the South is a Hero who fought on the front lines against the demons for mankind before Himmel met Frieren. He was said to be mankind's strongest.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331267-rm56sJOEqgIN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331267
+      }
+    },
+    {
+      "id": "revolte",
+      "name": "Revolte",
+      "alt_names": [
+        "レヴォルテ",
+        "Divine Revolte",
+        "Kamiwaza no Revolte (神技のレヴォルテ)"
+      ],
+      "role": "supporting",
+      "description": "Revolte, also known as Divine Revolte, is a demon general. Revolte wields four swords made of magic.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331269-PSE8DO36qCoW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331269
+      }
+    },
+    {
+      "id": "kanoune",
+      "name": "Kanoune",
+      "alt_names": [
+        "カノーネ",
+        "Kanone"
+      ],
+      "role": "supporting",
+      "description": "Kanoune is a member of the Empire's Special Forces of Magic.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331270-jduBQKFXLvdc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331270
+      }
+    },
+    {
+      "id": "rivale",
+      "name": "Rivale",
+      "alt_names": [
+        "リヴァーレ",
+        "Bloody God of War",
+        "Chinura Reshi Gunshin (血塗られし軍神)"
+      ],
+      "role": "supporting",
+      "description": "Rivale, also known as the Bloody God of War, is a Greater Demon. ~!He is recruited by Solitär to fight the Hero Party when the Demon King senses that Frieren has interfered with space-time.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331271-UYOVw40YLjwE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331271
+      }
+    },
+    {
+      "id": "tot",
+      "name": "Tot",
+      "alt_names": [
+        "トート",
+        "Saint of the End",
+        "Shuukyoku no Seijo (終極の聖女)"
+      ],
+      "role": "supporting",
+      "description": "Tot, also known as the Saint of the End, is a Greater Demon. ~!She is developing a curse that will envelop the entire planet.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331272-eqAD4Cz6IjPP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331272
+      }
+    },
+    {
+      "id": "grausam",
+      "name": "Grausam",
+      "alt_names": [
+        "グラオザーム",
+        "Grausam the Miraculous",
+        "Kiseki no Grausam (奇跡のグラオザーム)"
+      ],
+      "role": "supporting",
+      "description": "Grausam, also known as the Grausam the Miraculous, was one of the Seven Sages of Destruction that served the Demon King.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331273-hV3gfkSJA0Iw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331273
+      }
+    },
+    {
+      "id": "maou",
+      "name": "Maou",
+      "alt_names": [
+        "魔王",
+        "Demon King"
+      ],
+      "role": "minor",
+      "description": "The Demon King was the leader of the Demon King Army and the primary objective of the Hero Party's ten year quest.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315937-KCesrp8gDRtM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315937
+      }
+    },
+    {
+      "id": "bose",
+      "name": "Böse",
+      "alt_names": [
+        "ボーズ",
+        "Immortal Böse"
+      ],
+      "role": "minor",
+      "description": "Böse, also known as the Immortal Böse, was one of the Seven Sages of Destruction.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315938-GOkQKOqUAQo9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315938
+      }
+    },
+    {
+      "id": "mut",
+      "name": "Mut",
+      "alt_names": [
+        "ムート"
+      ],
+      "role": "minor",
+      "description": "Lord Orden's youngest son and the next heir of the Orden family.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326827-wtHrYsdSocOK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326827
+      }
+    },
+    {
+      "id": "wirt",
+      "name": "Wirt",
+      "alt_names": [
+        "ヴィルト"
+      ],
+      "role": "minor",
+      "description": "Lord Orden's oldest son. Wirt passed away in a melee against demon forces but managed to kill the enemy general.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326828-cujHlvsd6xLc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326828
+      }
+    },
+    {
+      "id": "toun",
+      "name": "Toun",
+      "alt_names": [
+        "トーン",
+        "Ton"
+      ],
+      "role": "minor",
+      "description": "Participant in the examination for the title of mage first class. Distrustful and self-confident mage.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327306-YqyWmCb95C6F.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327306
+      }
+    },
+    {
+      "id": "lecker",
+      "name": "Lecker",
+      "alt_names": [
+        "レッカー"
+      ],
+      "role": "minor",
+      "description": "The head chef for the restaurant Bell in Äußerst.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327522-LQCVZCDyr6kl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327522
+      }
+    },
+    {
+      "id": "tenchi-souzou-no-megami",
+      "name": "Tenchi Souzou no Megami",
+      "alt_names": [
+        "天地創造の女神",
+        "Goddess of Creation"
+      ],
+      "role": "minor",
+      "description": "The Goddess of Creation is a figure that was seen in mythical times. Though she has not been seen since, many people in the present day worship her. She is believed to be omniscient and omnipotent and to have created the world itself.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331268-wbq51oxL1jZT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331268
+      }
+    },
+    {
+      "id": "ewig",
+      "name": "Ewig",
+      "alt_names": [
+        "イウィッグ"
+      ],
+      "role": "minor",
+      "description": "A Sage from the Mythical Era whose grimoires supposedly contained secrets about immortality and resurrection.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331421
+      }
+    },
+    {
+      "id": "basalt",
+      "name": "Basalt",
+      "alt_names": [
+        "バザルト",
+        "Basalt the Throne",
+        "Gyokuza no Basalt (玉座のバザルト)"
+      ],
+      "role": "minor",
+      "description": "He was a general of the Demon King's Army.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331422-lzB8vUoQX9k3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331422
+      }
+    },
+    {
+      "id": "dach-hakushaku",
+      "name": "Dach Hakushaku",
+      "alt_names": [
+        "ダッハ伯爵",
+        "Graf Dach"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331423-D1WkXFsj0Rdk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331423
+      }
+    },
+    {
+      "id": "gehen",
+      "name": "Gehen",
+      "alt_names": [
+        "ゲーエン"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331424-kn1wRDukHtfY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331424
+      }
+    },
+    {
+      "id": "milliarde",
+      "name": "Milliarde",
+      "alt_names": [
+        "ミリアルデ"
+      ],
+      "role": "minor",
+      "description": "An Elf acquaintance of Frieren and the creator of the inscription that names Boshaft as the finest spirit in the world.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331425-0rzl6Sacxlob.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331425
+      }
+    },
+    {
+      "id": "lekture",
+      "name": "Lektüre",
+      "alt_names": [
+        "レクテュール",
+        "Lekture"
+      ],
+      "role": "minor",
+      "description": "A daughter of the Glück Family and the late wife of Denken.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331426-X8n3zgnNl3xT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331426
+      }
+    },
+    {
+      "id": "armee-hakushaku",
+      "name": "Armée Hakushaku",
+      "alt_names": [
+        "あるめ伯爵",
+        "Graf Armée",
+        "Count Armée"
+      ],
+      "role": "minor",
+      "description": "Graf Armée is a former noble of the eponymous noble house who reigned over the Titan Fortress.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331427-68axJJNv4Plv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331427
+      }
+    },
+    {
+      "id": "armee",
+      "name": "Armée",
+      "alt_names": [
+        "あるめ",
+        "Armee"
+      ],
+      "role": "minor",
+      "description": "Armée is a mercenary and a former noble of the eponymous noble house who reigned over the Titan Fortress until its fall during his grandfather's generation.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331428-kGw2prWGRqnY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331428
+      }
+    },
+    {
+      "id": "schrag",
+      "name": "Schräg",
+      "alt_names": [
+        "シュレーク",
+        "Schrag",
+        "Schräg the Lightning Flash",
+        "Densen no Schrag (電閃のシュレーク)"
+      ],
+      "role": "minor",
+      "description": "One of the Demon King's Generals.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331429-NWxYtxHIeZVy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331429
+      }
+    },
+    {
+      "id": "burg",
+      "name": "Burg",
+      "alt_names": [
+        "ブルグ"
+      ],
+      "role": "minor",
+      "description": "A first-class mage with blonde hair and a deep voice who specialized in defensive magic. He had never once been injured since becoming a first-class mage.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331430-PlofiCFq1VLe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331430
+      }
+    },
+    {
+      "id": "norm-kyou",
+      "name": "Norm Kyou",
+      "alt_names": [
+        "ノルム卿",
+        "Lord Norm"
+      ],
+      "role": "minor",
+      "description": "Norm's great-predecessor.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331431-rOyjm3fCUMJP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331431
+      }
+    },
+    {
+      "id": "kiesel",
+      "name": "Kiesel",
+      "alt_names": [
+        "キーゼル"
+      ],
+      "role": "minor",
+      "description": "A dwarf that lives in a newly settled village around the Kino Mountain Pass after his previous village was destroyed by monsters.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331432-49mZueRiI0Uo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331432
+      }
+    },
+    {
+      "id": "zart",
+      "name": "Zart",
+      "alt_names": [
+        "ツァルト",
+        "Zart the Remnant",
+        "Zanei no Zart (残影のツァルト)"
+      ],
+      "role": "minor",
+      "description": "A subordinate of Grausam the Miraculous.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331433-rtCm0plCPvPs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331433
+      }
+    },
+    {
+      "id": "fruh",
+      "name": "Früh",
+      "alt_names": [
+        "フリュー",
+        "Fruh"
+      ],
+      "role": "minor",
+      "description": "A second-class mage who was part of the advance party sent to scout the Golden Land.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331434-02iBt7tq0LaW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331434
+      }
+    },
+    {
+      "id": "norm",
+      "name": "Norm",
+      "alt_names": [
+        "ノルム"
+      ],
+      "role": "minor",
+      "description": "The president of the Norm Company in the Northern Plateau.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331435-KtkRdUqphwVk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331435
+      }
+    },
+    {
+      "id": "tau",
+      "name": "Tau",
+      "alt_names": [
+        "タオ"
+      ],
+      "role": "minor",
+      "description": "A first-class mage who led the advance party sent to scout the Golden Land.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331436-An4tA93zq5bA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331436
+      }
+    },
+    {
+      "id": "wahrheit",
+      "name": "Wahrheit",
+      "alt_names": [
+        "ヴァールハイト"
+      ],
+      "role": "minor",
+      "description": "A member of one of the Three Great Knightly Houses of the Northern Lands.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331437-L2PlGpVI8moL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331437
+      }
+    },
+    {
+      "id": "nagel",
+      "name": "Nagel",
+      "alt_names": [
+        "ナーゲル",
+        "Nagel the Blacksmith",
+        "Kajiya no Nagel (鍛冶屋のナーゲル)"
+      ],
+      "role": "minor",
+      "description": "A blacksmith in the town that the stubborn woman lives in.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331438-ySDcVBYrzz5z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331438
+      }
+    },
+    {
+      "id": "fass",
+      "name": "Fass",
+      "alt_names": [
+        "ファス"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b331439-meDK5YbPGLuQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 331439
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:37:07.748Z"
+  "updated_at": "2025-12-23T07:24:52.723Z"
 }

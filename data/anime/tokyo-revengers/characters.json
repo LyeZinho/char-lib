@@ -1,6 +1,6 @@
 {
   "work_id": "tokyo-revengers",
-  "count": 25,
+  "count": 42,
   "characters": [
     {
       "id": "takemichi-hanagaki",
@@ -633,7 +633,404 @@
       "external_ids": {
         "anilist": 170479
       }
+    },
+    {
+      "id": "hajime-kokonoi",
+      "name": "Hajime Kokonoi",
+      "alt_names": [
+        "九井一",
+        "ココ",
+        "Koko",
+        "The Black Dragon's Wallet"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 174 cm\n\nKoko sees the world as a series of calculations. He acts solely in his own interests; every move of his is to benefit himself. He cozies up to those more powerful than he, but will turn his back on them the moment they lose their instrumentality.\n\n~!Former tenth generation Black Dragons commander!~\n\n~!His goal was to collect 40 million yen to save his loved one, Akane but unfortunately, he was too late.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "16-28",
+        "dateOfBirth": "1989-04-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170480-5b9VNCGfLzTK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170480
+      }
+    },
+    {
+      "id": "ran-haitani",
+      "name": "Ran Haitani",
+      "alt_names": [
+        "灰谷蘭"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 183 cm\n\nA Tenjiku executive. Rindou's elder brother.\n\n~!He is a member of the S62 generation. He was one of Tenjiku’s 4 Heavenly Kings, and is a Bonten executive in the future.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": "1987-05-26"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203562-qhT4f8Bdj9JF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 203562
+      }
+    },
+    {
+      "id": "rindou-haitani",
+      "name": "Rindou Haitani",
+      "alt_names": [
+        "灰谷竜胆"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 172 cm\n\nA Tenjiku executive. Ran's younger brother.\n\n~!He's a Bonten executive in the future.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": "1988-10-20"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203563-KrzJuwhHZDpB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 203563
+      }
+    },
+    {
+      "id": "shinichirou-sano",
+      "name": "Shinichirou Sano",
+      "alt_names": [
+        "佐野真一郎"
+      ],
+      "role": "supporting",
+      "description": "Older brother of [Mikey](https://anilist.co/character/145341/Manjirou-Sano).",
+      "metadata": {
+        "gender": "male",
+        "age": "23",
+        "dateOfBirth": "1980-08-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b221297-FgeGP9aN60Re.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 221297
+      }
+    },
+    {
+      "id": "jin-akaishi",
+      "name": "Jin Akaishi",
+      "alt_names": [
+        "赤石ジン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b231804-Apn27RotRmXW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 231804
+      }
+    },
+    {
+      "id": "ryouko-tachibana",
+      "name": "Ryouko Tachibana",
+      "alt_names": [
+        "立花亮子"
+      ],
+      "role": "supporting",
+      "description": "Mother of Hinata and Naoto.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b233328-Z26XQKetvtl6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 233328
+      }
+    },
+    {
+      "id": "chonbo",
+      "name": "Chonbo",
+      "alt_names": [
+        "チョンボ"
+      ],
+      "role": "supporting",
+      "description": "~!Chonbo is one of the Valhalla captains and expert fighters. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b233805-gK1P1kFP8L5c.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 233805
+      }
+    },
+    {
+      "id": "chome",
+      "name": "Chome",
+      "alt_names": [
+        "チョーム",
+        "チョメ"
+      ],
+      "role": "supporting",
+      "description": "~!Chome is one of the Valhalla captains and also one of its expert fighters. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b233815-LH0VB3nfpAYj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 233815
+      }
+    },
+    {
+      "id": "hansen",
+      "name": "Hansen",
+      "alt_names": [
+        "阪泉"
+      ],
+      "role": "supporting",
+      "description": "Hansen is a character affiliated with the Ikebukuro Criminal Black Members.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b243572-dsKMewNZaXns.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 243572
+      }
+    },
+    {
+      "id": "gariman",
+      "name": "Gariman",
+      "alt_names": [
+        "ガリ男",
+        "Leanman"
+      ],
+      "role": "supporting",
+      "description": "Gariman is the leader of Night Dust, a top gang in tokyo, which governs the Ueno territory.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b243575-K4dGGogvZzub.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 243575
+      }
+    },
+    {
+      "id": "remi",
+      "name": "Remi",
+      "alt_names": [
+        "レミ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264908-NeMltr8m8735.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 264908
+      }
+    },
+    {
+      "id": "choji-ahane",
+      "name": "Choji Ahane",
+      "alt_names": [
+        "亜波根チョウジ"
+      ],
+      "role": "supporting",
+      "description": "Choji is one of Valhalla's Captains and Kisaki's cronies.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264909-v6gJeUHkt9q7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 264909
+      }
+    },
+    {
+      "id": "masaru",
+      "name": "Masaru",
+      "alt_names": [
+        "マサル"
+      ],
+      "role": "supporting",
+      "description": "[Takemichi](https://anilist.co/character/145342/)'s cousin and a third year student in Shibuya Middle School. He claimed to be the leader of the delinquents at his school, only to be exposed as the servant of [Kiyomasa](https://anilist.co/character/171921) and his friends.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b296193-StXZbyztLqlK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 296193
+      }
+    },
+    {
+      "id": "kojima",
+      "name": "Kojima",
+      "alt_names": [
+        "小島"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b296197-KWxI42IyXi7M.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 296197
+      }
+    },
+    {
+      "id": "haruchiyo-sanzu",
+      "name": "Haruchiyo Sanzu",
+      "alt_names": [
+        "三途春千代"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 172 cm\n\nVice captain of the 5th division in the Tokyo Manji Gang.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": "1990-07-03"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b227242-DWMsJH6r6rbm.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 227242
+      }
+    },
+    {
+      "id": "eki-kounai-announcer",
+      "name": "Eki Kounai Announcer",
+      "alt_names": [
+        "駅構内アナウンス",
+        "Station Announcer"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 296194
+      }
+    },
+    {
+      "id": "tv-newscaster",
+      "name": "TV Newscaster",
+      "alt_names": [
+        "TVニュース"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b296195-O4R5yEet7TJS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 296195
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:35:52.393Z"
+  "updated_at": "2025-12-23T06:02:08.813Z"
 }

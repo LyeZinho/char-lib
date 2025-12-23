@@ -1,6 +1,6 @@
 {
   "work_id": "the-promised-neverland-season-2",
-  "count": 25,
+  "count": 28,
   "characters": [
     {
       "id": "ray",
@@ -607,7 +607,76 @@
       "external_ids": {
         "anilist": 199118
       }
+    },
+    {
+      "id": "vylk",
+      "name": "Vylk",
+      "alt_names": [
+        "ヴィルク"
+      ],
+      "role": "supporting",
+      "description": "A blind demon.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208450-QS7iG01kAHjk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208450
+      }
+    },
+    {
+      "id": "phil",
+      "name": "Phil",
+      "alt_names": [
+        "フィル"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 100 cm\n__Farm Identifier:__ 34394 (Grace Field House)\n__D.O.B:__ 2041\n\nPhil is very active and can always be seen running around. \n~!He is also shown to be very mature and intelligent for his age, even suspecting something was wrong when Emma and the other older orphans were trying to find out ways to escape.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "4",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126475-EqxsU9P6ajKE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126475
+      }
+    },
+    {
+      "id": "james-ratri",
+      "name": "James Ratri",
+      "alt_names": [
+        "ジェイムズ・ラートリー",
+        "William Minerva (ウィリアム・ミネルヴァ)"
+      ],
+      "role": "minor",
+      "description": "James Latley is the 35th descendant of the Latley Clan who sealed the promise between humans and demons 1000 years ago. After seeing the horrors that humans has been through, he decided to give them a chance to live.\n\nHe put several codes inside his books so the kids could escape the plantations.\n\n~!The elevator inside Golden Pond is not working anymore, so he said that others can be used, including the one in the Grace Field house. He was betrayed by a person, and so, the Village is not a safe place anymore. The last recording that Emma and Lucas found said that it was the 20th of March, 2031. He is presumed dead.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126494-WL5id6tHPrJZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126494
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:20:28.775Z"
+  "updated_at": "2025-12-23T05:45:52.264Z"
 }

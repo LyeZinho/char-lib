@@ -5,6 +5,12 @@ import Navbar from "@/components/Navbar";
 export const metadata: Metadata = {
   title: "CharLib - Database de Personagens",
   description: "Database local de personagens de anime, manga e games",
+  icons: {
+    icon: "/favicon.ico",
+  },
+  metadataBase: new URL("https://charlib.vercel.app"),
+  keywords: "charlib, personagens, anime, manga, games, database, biblioteca de personagens, wiki, charlib database, charlib personagens",
+  authors: [{ name: "Pedro Jesus" }],
 };
 
 export default function RootLayout({

@@ -8,6 +8,7 @@ import inquirer from 'inquirer';
 import { createImportJob } from './jobs/importWork.js';
 import { createAutoCrawlJob } from './jobs/autoCrawl.js';
 import { createUpdateJob } from './jobs/updateWork.js';
+import { createSmartQueueJob } from './jobs/smartQueue.js';
 import { createWriter } from './writers/jsonWriter.js';
 import { createValidator } from './utils/validator.js';
 import { logger } from './utils/logger.js';
@@ -565,6 +566,273 @@ program
         logger.error(`Erro no AutoCraw: ${error.message}`);
         process.exit(1);
       }
+    }
+  });
+
+/**
+ * Comando: smart-queue
+ * Smart Queue - Alternância inteligente entre tipos para crawling contínuo
+ */
+program
+  .command('smart-queue')
+  .description('Smart Queue - Alternância inteligente entre tipos (anime/manga) para crawling contínuo em background')
+  .option('--max-cycles <number>', 'Máximo de ciclos (0 = infinito)', parseInt, 0)
+  .option('--supported-types <types>', 'Tipos suportados separados por vírgula', 'anime,manga')
+  .option('--max-works-cycle <number>', 'Máximo de obras por ciclo', parseInt, 2)
+  .option('--character-limit <number>', 'Limite de personagens por obra', parseInt, 15)
+  .option('--delay-types <number>', 'Delay entre tipos (ms)', parseInt, 300000)
+  .option('--delay-cycles <number>', 'Delay entre ciclos completos (ms)', parseInt, 600000)
+  .option('--enrich', 'Habilitar enrichment como fallback', true)
+  .option('--base-dir <dir>', 'Diretório base dos dados', './data')
+  .option('--auto-deploy', 'Habilitar auto-deploy automático')
+  .option('--deploy-threshold <number>', 'Executar deploy a cada X obras processadas', parseInt, 10)
+  .action(async (options) => {
+    try {
+      const supportedTypes = options.supportedTypes.split(',').map(t => t.trim());
+
+      const smartQueueJob = createSmartQueueJob({
+        baseDir: options.baseDir,
+        supportedTypes: supportedTypes,
+        maxWorksPerCycle: options.maxWorksCycle,
+        characterLimit: options.characterLimit,
+        delayBetweenTypes: options.delayTypes,
+        delayBetweenCycles: options.delayCycles,
+        enrich: options.enrich,
+        autoDeployEnabled: options.autoDeploy || false,
+        autoDeployThreshold: options.deployThreshold || 10
+      });
+
+      logger.info('🧠 Iniciando Smart Queue...');
+      logger.info(`📊 Configuração: ${supportedTypes.join(', ')} | ${options.maxWorksCycle} obras/ciclo | ${options.characterLimit} chars/limite`);
+
+      await smartQueueJob.run({
+        maxCycles: options.maxCycles
+      });
+
+    } catch (error) {
+      logger.error(`Erro na Smart Queue: ${error.message}`);
+      process.exit(1);
+    }
+  });
+
+/**
+ * Comando: smart-queue-status
+ * Mostra status da Smart Queue
+ */
+program
+  .command('smart-queue-status')
+  .description('Mostra status atual da Smart Queue')
+  .option('--base-dir <dir>', 'Diretório base dos dados', './data')
+  .action(async (options) => {
+    try {
+      const smartQueueJob = createSmartQueueJob({
+        baseDir: options.baseDir
+      });
+
+      await smartQueueJob.showStatus();
+
+    } catch (error) {
+      logger.error(`Erro ao mostrar status: ${error.message}`);
+      process.exit(1);
+    }
+  });
+
+/**
+ * Comando: smart-queue-reset
+ * Reseta o estado da Smart Queue
+ */
+program
+  .command('smart-queue-reset')
+  .description('Reseta o estado da Smart Queue')
+  .option('--base-dir <dir>', 'Diretório base dos dados', './data')
+  .action(async (options) => {
+    try {
+      const smartQueueJob = createSmartQueueJob({
+        baseDir: options.baseDir
+      });
+
+      await smartQueueJob.reset();
+
+    } catch (error) {
+      logger.error(`Erro ao resetar: ${error.message}`);
+      process.exit(1);
+    }
+  });
+
+/**
+ * Comando: smart-queue-install
+ * Instala o Smart Queue como serviço systemd
+ */
+program
+  .command('smart-queue-install')
+  .description('Instala o Smart Queue como serviço systemd')
+  .action(async () => {
+    try {
+      const { execSync } = await import('child_process');
+
+      logger.info('🚀 Instalando Smart Queue como serviço...');
+
+      // Executar script de instalação
+      execSync('sudo bash scripts/install-smart-queue-service.sh', {
+        stdio: 'inherit',
+        cwd: process.cwd()
+      });
+
+      logger.success('✅ Smart Queue instalado como serviço');
+
+    } catch (error) {
+      logger.error(`❌ Erro na instalação: ${error.message}`);
+      process.exit(1);
+    }
+  });
+
+/**
+ * Comando: smart-queue-start
+ * Inicia o daemon do Smart Queue
+ */
+program
+  .command('smart-queue-start')
+  .description('Inicia o daemon do Smart Queue')
+  .action(async () => {
+    try {
+      const { execSync } = await import('child_process');
+
+      logger.info('🚀 Iniciando Smart Queue daemon...');
+
+      execSync('sudo bash scripts/manage-smart-queue.sh start', {
+        stdio: 'inherit',
+        cwd: process.cwd()
+      });
+
+    } catch (error) {
+      logger.error(`❌ Erro ao iniciar: ${error.message}`);
+      process.exit(1);
+    }
+  });
+
+/**
+ * Comando: smart-queue-stop
+ * Para o daemon do Smart Queue
+ */
+program
+  .command('smart-queue-stop')
+  .description('Para o daemon do Smart Queue')
+  .action(async () => {
+    try {
+      const { execSync } = await import('child_process');
+
+      logger.info('🛑 Parando Smart Queue daemon...');
+
+      execSync('sudo bash scripts/manage-smart-queue.sh stop', {
+        stdio: 'inherit',
+        cwd: process.cwd()
+      });
+
+    } catch (error) {
+      logger.error(`❌ Erro ao parar: ${error.message}`);
+      process.exit(1);
+    }
+  });
+
+/**
+ * Comando: smart-queue-restart
+ * Reinicia o daemon do Smart Queue
+ */
+program
+  .command('smart-queue-restart')
+  .description('Reinicia o daemon do Smart Queue')
+  .action(async () => {
+    try {
+      const { execSync } = await import('child_process');
+
+      logger.info('🔄 Reiniciando Smart Queue daemon...');
+
+      execSync('sudo bash scripts/manage-smart-queue.sh restart', {
+        stdio: 'inherit',
+        cwd: process.cwd()
+      });
+
+    } catch (error) {
+      logger.error(`❌ Erro ao reiniciar: ${error.message}`);
+      process.exit(1);
+    }
+  });
+
+/**
+ * Comando: smart-queue-service-status
+ * Mostra status detalhado do serviço
+ */
+program
+  .command('smart-queue-service-status')
+  .description('Mostra status detalhado do serviço Smart Queue')
+  .action(async () => {
+    try {
+      const { execSync } = await import('child_process');
+
+      execSync('sudo bash scripts/manage-smart-queue.sh status', {
+        stdio: 'inherit',
+        cwd: process.cwd()
+      });
+
+    } catch (error) {
+      logger.error(`❌ Erro ao verificar status: ${error.message}`);
+      process.exit(1);
+    }
+  });
+
+/**
+ * Comando: smart-queue-logs
+ * Mostra logs do daemon
+ */
+program
+  .command('smart-queue-logs')
+  .description('Mostra logs do daemon Smart Queue')
+  .option('--lines <number>', 'Número de linhas a mostrar', parseInt, 50)
+  .option('--follow', 'Seguir logs em tempo real')
+  .action(async (options) => {
+    try {
+      const { execSync } = await import('child_process');
+
+      if (options.follow) {
+        logger.info('📝 Seguindo logs em tempo real (Ctrl+C para sair)...');
+        execSync('sudo bash scripts/manage-smart-queue.sh follow', {
+          stdio: 'inherit',
+          cwd: process.cwd()
+        });
+      } else {
+        execSync(`sudo bash scripts/manage-smart-queue.sh logs ${options.lines}`, {
+          stdio: 'inherit',
+          cwd: process.cwd()
+        });
+      }
+
+    } catch (error) {
+      logger.error(`❌ Erro ao mostrar logs: ${error.message}`);
+      process.exit(1);
+    }
+  });
+
+/**
+ * Comando: smart-queue-service-reset
+ * Reseta estado e logs do serviço
+ */
+program
+  .command('smart-queue-service-reset')
+  .description('Reseta estado e logs do serviço Smart Queue')
+  .action(async () => {
+    try {
+      const { execSync } = await import('child_process');
+
+      logger.warn('⚠️ Isso irá resetar estado e logs do serviço!');
+
+      execSync('sudo bash scripts/manage-smart-queue.sh reset', {
+        stdio: 'inherit',
+        cwd: process.cwd()
+      });
+
+    } catch (error) {
+      logger.error(`❌ Erro ao resetar: ${error.message}`);
+      process.exit(1);
     }
   });
 

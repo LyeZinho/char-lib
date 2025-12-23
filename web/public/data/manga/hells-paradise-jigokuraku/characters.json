@@ -1,6 +1,6 @@
 {
   "work_id": "hells-paradise-jigokuraku",
-  "count": 25,
+  "count": 67,
   "characters": [
     {
       "id": "gabimaru",
@@ -647,7 +647,1022 @@
       "external_ids": {
         "anilist": 151778
       }
+    },
+    {
+      "id": "shija",
+      "name": "Shija",
+      "alt_names": [
+        "シジャ",
+        "Gabimaru (画眉丸)"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human\n__Tao Attribute:__ Unknown\n__Occupation:__ Shinobi\n__Affiliation:__ Iwagakure\n\nShija is an elite shinobi assassin from Iwagakure. After the shogun came to Iwagakure for assistance in retrieving the Elixir of Life from Kotaku, having become impatient with the first group, Shija, and a squad of Iwa ninja, was assigned to the second team to complete the mission and supposedly provide support to the first team.\n\n~! In actuality, the Iwa ninjas' true mission is to kill [Gabimaru](https://anilist.co/character/137260/Gabimaru) and take back the alias of __Gabimaru the Hollow__. Shija is also the next chosen Iwagakure shinobi to potentially succeed the current holder of the alias. !~\n\nWhile working on missions, Shija has the complete mindset of a shinobi and only speaks when it is necessary. As a shinobi, Shija views themselves as a pawn for their master and only prioritizes on the orders they have been given on a mission no matter what the situation was. To this extent, they also hold no sense of concern for their ninja allies since they too follow the same belief.\n\n~! Shija has a long history with Gabimaru and has respect and a deep infatuation towards him, admiring his skills in ruthlessly killing his targets. Whenever they met or even have a mere thought about Gabimaru would cause Shija to break out in an excited love-struck behavior. Despite them respecting Gabimaru a lot, their love for him can be seen as being a twisted, borderline obsession. They think of themselves as Gabimaru's supporter and was driven to commit horrendously violent acts from the shadows for his sake in the past. In terms of loyalty between Iwagakure and Gabimaru, Shija has been pointed out by the latter to be an unpredictable individual that can either chose to give in to their feelings and become his ally or put the village's orders first and serve as his enemy. !~\n\nWhen they were young, Shija and their brothers underwent intense ninja training, along with many other children. While they managed to endure the gruesome training, Shija was left as the only surviving sibling and one of the few children to survive the screening.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170487-I4NQfboRrqtV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170487
+      }
+    },
+    {
+      "id": "gui-fa",
+      "name": "Gui Fa",
+      "alt_names": [
+        "桂花",
+        "Monju Koukou (文殊公々)",
+        "Decorous Monju Koukou",
+        "Gonggong Manjusri"
+      ],
+      "role": "supporting",
+      "description": "A member of Lord Tensen and a partial ruler of Kotaku. Gui Fa maintains a complete deadpan demeanor and is known to be extremely shy around others, as they prefer to cover their face with a book at all times to avoid making eye contact.",
+      "metadata": {
+        "gender": "male/female",
+        "age": "1000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170488-3YyeY3FGm7Sn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170488
+      }
+    },
+    {
+      "id": "osa",
+      "name": "Osa",
+      "alt_names": [
+        "長",
+        "Sato no Naga (里の長)",
+        "Village Chief"
+      ],
+      "role": "supporting",
+      "description": "Chief of Iwagakure and father of [Yui](https://anilist.co/character/151771).",
+      "metadata": {
+        "gender": "male",
+        "age": "Unknown",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b301607-ERwRfX9Ddda3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 301607
+      }
+    },
+    {
+      "id": "genji",
+      "name": "Genji",
+      "alt_names": [
+        "源嗣",
+        "Yamada Asaemon Genji (山田浅ェ門源嗣)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 205 cm",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302049-go8XyPxymI0S.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302049
+      }
+    },
+    {
+      "id": "aoki",
+      "name": "Aoki",
+      "alt_names": [
+        "青木"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 175 cm\n\nOne of the shogun's retainers.",
+      "metadata": {
+        "gender": "male",
+        "age": "30",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302050-IX99PePUve0D.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302050
+      }
+    },
+    {
+      "id": "rokurouta",
+      "name": "Rokurouta",
+      "alt_names": [
+        "陸郎太",
+        "Bizen no Daidarabotchi  (備前の大巨人)",
+        "The Giant of Bizen"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 321 cm\n\nOne of the criminals sent to acquire the Elixir of Life for the shogun. ~!Despite his size, he is an 8-year old child suffering from an abnormal case of gigantism.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302052-avZhbeKO5Phy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302052
+      }
+    },
+    {
+      "id": "adachi-matagorou",
+      "name": "Adachi Matagorou",
+      "alt_names": [
+        "安達又五郎"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302053-ZIkqWdlkdeja.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302053
+      }
+    },
+    {
+      "id": "keiun",
+      "name": "Keiun",
+      "alt_names": [
+        "慶雲",
+        "Igami no Kyooun (いがみの慶雲)",
+        "Warped Keiun",
+        "Hyappongari (百本狩り)",
+        "Hunter of the Hundred",
+        "Twisted Keiun"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 210 cm\n\nDeath row convict who is recruited to find the Elixir of Life. While undergoing training as a souhei (warrior monk), Keiun developed an obsession for weapons and armor and decided to take his training to the next level by slaughtering martials artists and stealing their weapons.",
+      "metadata": {
+        "gender": "male",
+        "age": "35",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302522-D9kb6Ho4EIw9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302522
+      }
+    },
+    {
+      "id": "akaginu",
+      "name": "Akaginu",
+      "alt_names": [
+        "あか絹",
+        "Hito Kui Oiran  (人喰い花魁)",
+        "Cannibal Courtesan"
+      ],
+      "role": "supporting",
+      "description": "Death row convict recruited to find the Elixir of Life. She is a cannibal with a taste for male flesh, especially after first making them succumb to her sexual temptations.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302523-gLqxyQKvyVWC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302523
+      }
+    },
+    {
+      "id": "hourubou",
+      "name": "Hourubou",
+      "alt_names": [
+        "法流坊",
+        "Koroshi Nenbutsu (殺し念仏)",
+        "Killing Buddha",
+        "The Killing Prayer"
+      ],
+      "role": "supporting",
+      "description": "Death row convict recruited to find the Elixir of Life. Due to how his body is constructed, he has the unique ability to stretch or contort his limbs to restrain and constrict his opponents.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302525-iKmveUnK7Z6Z.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302525
+      }
+    },
+    {
+      "id": "moro-makiya",
+      "name": "Moro Makiya",
+      "alt_names": [
+        "茂籠牧耶",
+        "Korobi Bateren (ころび伴天連)",
+        "The Apostate"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 191 cm\n\nDeath row convict recruited to find the Elixir of Life. Makiya had an ambition to overthrow the shogun and went about it by forming a cult that was based off of multiple religions.",
+      "metadata": {
+        "gender": "male",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302526-wT5r7s2l5O9O.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302526
+      }
+    },
+    {
+      "id": "kichiji",
+      "name": "Kichiji",
+      "alt_names": [
+        "吉次",
+        "Yamada Asaemon Kichiji (山田浅工門吉次)",
+        "Sagiri no Chichi (佐切の父)"
+      ],
+      "role": "supporting",
+      "description": "Head of the Yamada clan. He is the father of [Sagiri](https://anilist.co/character/137263).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302527-tigkE4fAyNLW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302527
+      }
+    },
+    {
+      "id": "houko",
+      "name": "Houko",
+      "alt_names": [
+        "木人",
+        "Mu Ren"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Houko\n__Tao Attribute:__ Metal",
+      "metadata": {
+        "gender": "male",
+        "age": "500+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305440-nNgZoPz0B2NE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305440
+      }
+    },
+    {
+      "id": "aki",
+      "name": "Aki",
+      "alt_names": [
+        "アキ"
+      ],
+      "role": "supporting",
+      "description": "Aki is a girl who came across [Gabimaru](https://anilist.co/character/137260/Gabimaru) outside her village.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306730-rdbjUIARWusr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306730
+      }
+    },
+    {
+      "id": "kumokiri",
+      "name": "Kumokiri",
+      "alt_names": [
+        "雲霧"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 180 cm\n\nKumokiri is a jounin-class shinobi of Iwagakure.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306843-tk8Z4a3qTCXi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306843
+      }
+    },
+    {
+      "id": "gagaimo",
+      "name": "Gagaimo",
+      "alt_names": [
+        "蘿麾",
+        "Yamada Asaemon Gagaimo (山田浅ェ門 蘿麾)",
+        "Jet-Black Shinigami",
+        "Shikkoku no Shinigami (漆黒の死神)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 172 cm\n\nGagaimo is the 6th rank Asaemon of the Yamada clan.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306846-fT2PbsrrztME.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306846
+      }
+    },
+    {
+      "id": "tesshin",
+      "name": "Tesshin",
+      "alt_names": [
+        "鉄心",
+        "Yamada Asaemon Tesshin (山田浅ェ門 鉄心)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 173 cm\n\nTesshin was a former Asaemon of the Yamada clan and the first apprentice of [Shion](https://anilist.co/character/137267/Shion).",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306847-pTOq1RighbhL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306847
+      }
+    },
+    {
+      "id": "tsumutsumu",
+      "name": "Tsumutsumu",
+      "alt_names": [
+        "努々",
+        "Yamada Asaemon Tsumutsumu (山田浅ェ門 努々)",
+        "Guardian Deity of the Kitchen",
+        "Kuriya no Chinjugami (漆黒の死神)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 181 cm\n\nTsumutsumu is the 7th rank Asaemon of the Yamada clan.",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306848-NlTQ3JVKzBhy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306848
+      }
+    },
+    {
+      "id": "kiou",
+      "name": "Kiou",
+      "alt_names": [
+        "鬼鷗"
+      ],
+      "role": "supporting",
+      "description": "Kiou was a shinobi of service to Tashiro Sukezaemon who falsely claimed to have held from Iwagakure as their strongest shinobi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306849-NE2XwZb0hmjz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306849
+      }
+    },
+    {
+      "id": "jofuku",
+      "name": "Jofuku",
+      "alt_names": [
+        "徐福",
+        "Xú Fú"
+      ],
+      "role": "supporting",
+      "description": "Jofuku was a well-known explorer that was formerly in service to the ruler of the Qin Dynasty to seek out the Elixir of Life. His voyage soon came to an end after making landfall on an island and deciding to invest his time in unlocking the secrets to immortality by following the principles of Taoism.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306854-OcXMwFZUWNbk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306854
+      }
+    },
+    {
+      "id": "shokushu-doushi",
+      "name": "Shokushu Doushi",
+      "alt_names": [
+        "道士",
+        "Tentacle Doushi"
+      ],
+      "role": "supporting",
+      "description": "A subordinate of Lord Tensen who was ordered to check to see if Aza Chōbei and Tōma were still in the pit becoming Tan.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b307701-vmr1ov2ZJNaq.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 307701
+      }
+    },
+    {
+      "id": "tokugawa-nariyoshi",
+      "name": "Tokugawa Nariyoshi",
+      "alt_names": [
+        "徳川斉慶"
+      ],
+      "role": "minor",
+      "description": "11th Shogun of Japan.",
+      "metadata": {
+        "gender": "male",
+        "age": "48",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b301606-08sCkI5L3d11.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 301606
+      }
+    },
+    {
+      "id": "garan-no-gabimaru",
+      "name": "Garan no Gabimaru",
+      "alt_names": [
+        "がらんの画眉丸",
+        "Gabimaru the Hollow",
+        "Gabimaru's Predecessor"
+      ],
+      "role": "minor",
+      "description": "Gabimaru was a Iwagakure shinobi and the 57th Gabimaru the Hollow. He is also Tsuki's predecessor.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306728-mCZjEKEcRUPq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306728
+      }
+    },
+    {
+      "id": "chou-doushi",
+      "name": "Chou Doushi",
+      "alt_names": [
+        "Butterfly Doushi"
+      ],
+      "role": "minor",
+      "description": "This Doushi is a subordinate of Lord Tensen and was one of the few that were ordered to observe the humans that made landfall on Kotaku.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306729-YW5YzEiDq3Cy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306729
+      }
+    },
+    {
+      "id": "nikimaru",
+      "name": "Nikimaru",
+      "alt_names": [
+        "二木丸",
+        "Serial Firebug",
+        "Renzoku Houka Ma"
+      ],
+      "role": "minor",
+      "description": "\"Serial Firebug\" Nikimaru was a criminal put on death row and a candidate to partake in the expedition to Shinsenkyou.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306731-ZAXAtJdrzhYr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306731
+      }
+    },
+    {
+      "id": "mukade-doushi",
+      "name": "Mukade Doushi",
+      "alt_names": [
+        "Centipede Doushi"
+      ],
+      "role": "minor",
+      "description": "This Doushi is a subordinate of Lord Tensen and was one of the few that were ordered to observe the humans that made landfall on Kotaku.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306732-fJpadCcHf0Hl.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306732
+      }
+    },
+    {
+      "id": "amurowa",
+      "name": "Amurowa",
+      "alt_names": [
+        "アムロワ"
+      ],
+      "role": "minor",
+      "description": "Amurowa is a demon dog that eats demon meat and is Ura's canine companion that protects her.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306734-UtXJISaxUQXa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306734
+      }
+    },
+    {
+      "id": "saya",
+      "name": "Saya",
+      "alt_names": [
+        "小夜"
+      ],
+      "role": "minor",
+      "description": "Saya was the late younger sister of [Yuzuriha](https://anilist.co/character/137270/Yuzuriha).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306735-z9jqyKEcD2w2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306735
+      }
+    },
+    {
+      "id": "tanio-seikichi",
+      "name": "Tanio Seikichi",
+      "alt_names": [
+        "谷尾清吉"
+      ],
+      "role": "minor",
+      "description": "Tanio Seikichi was a criminal put on death row and a candidate to partake in the expedition to Shinsenkyou.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306736-slekxDYLpoPo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306736
+      }
+    },
+    {
+      "id": "nobusuma",
+      "name": "Nobusuma",
+      "alt_names": [
+        "野衾"
+      ],
+      "role": "minor",
+      "description": "Nobusuma is an Iwagakure shinobi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306737-j0Tfm6eFb6jE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306737
+      }
+    },
+    {
+      "id": "aogyoubu",
+      "name": "Aogyoubu",
+      "alt_names": [
+        "青刑部"
+      ],
+      "role": "minor",
+      "description": "Aogyoubu was an Iwagakure shinobi that was a candidate to become the next \"Gabimaru the Hollow\" after Tsuki but was ultimately killed by Shija for the position.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306738-ZIKMYOUwCcx8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306738
+      }
+    },
+    {
+      "id": "gantetsusai-no-kyoushi",
+      "name": "Gantetsusai no Kyoushi",
+      "alt_names": [
+        "Gantetsusai's Master"
+      ],
+      "role": "minor",
+      "description": "He is [Tamiya Gantetsusai](https://anilist.co/character/137264/Gantetsusai-Tamiya)'s former master.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306844-JPZcmBIw8waW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306844
+      }
+    },
+    {
+      "id": "gabimaru-no-chichi",
+      "name": "Gabimaru no Chichi",
+      "alt_names": [
+        "Gabimaru's Father"
+      ],
+      "role": "minor",
+      "description": "He was a former jounin-class shinobi of Iwagakure and [Gabimaru](https://anilist.co/character/137260/Gabimaru)'s father.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306845-cNQMCF4ubjrm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306845
+      }
+    },
+    {
+      "id": "karasutengu",
+      "name": "Karasutengu",
+      "alt_names": [
+        "烏天狗"
+      ],
+      "role": "minor",
+      "description": "Karasutengu was an Iwagakure shinobi that was a candidate to become the next \"Gabimaru the Hollow\" after Tsuki but was ultimately killed by Shija for the position.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306850-kN0wwSyPkLOd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306850
+      }
+    },
+    {
+      "id": "ura",
+      "name": "Ura",
+      "alt_names": [
+        "ウラ"
+      ],
+      "role": "minor",
+      "description": "Ura is a demon girl who lives a life of survival with her companion Amurowa.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306851-yCIXQuEl79Av.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306851
+      }
+    },
+    {
+      "id": "kisegawa",
+      "name": "Kisegawa",
+      "alt_names": [
+        "喜類川"
+      ],
+      "role": "minor",
+      "description": "Kisegawa is a well-known oiran of the Matsubaya House in Yoshiwara.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306852-p1VhYdQDwTAl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306852
+      }
+    },
+    {
+      "id": "ginkakubou",
+      "name": "Ginkakubou",
+      "alt_names": [
+        "銀閣坊"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 168 cm\n\nGinkakubou is a jounin-class shinobi of Iwagakure.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306853-wNxg60xJ08VX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306853
+      }
+    },
+    {
+      "id": "kinkakubou",
+      "name": "Kinkakubou",
+      "alt_names": [
+        "金閣坊"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 214 cm\n\nKinkakubou is a jounin-class shinobi of Iwagakure.",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306855-fG61hBdkOF2S.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306855
+      }
+    },
+    {
+      "id": "retasu-doushi",
+      "name": "Retasu Doushi",
+      "alt_names": [
+        "Lettuce Doushi"
+      ],
+      "role": "minor",
+      "description": "This Doushi is a subordinate of Lord Tensen and attempted to capture the additional landing party after they made landfall on Kotaku.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306856-d9F0GM2Mofy9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306856
+      }
+    },
+    {
+      "id": "hagetaka",
+      "name": "Hagetaka",
+      "alt_names": [
+        "禿鷹"
+      ],
+      "role": "minor",
+      "description": "Hagetaka is an Iwagakure shinobi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306857-SGkdo1DN8Ldg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306857
+      }
+    },
+    {
+      "id": "shuukan-kido",
+      "name": "Shuukan Kido",
+      "alt_names": [
+        "木戸周監"
+      ],
+      "role": "minor",
+      "description": "Kido Shuukan was a well known vicious criminal.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306858-Tm5TYFOQwl4a.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306858
+      }
+    },
+    {
+      "id": "gabimaru-no-haha",
+      "name": "Gabimaru no Haha",
+      "alt_names": [
+        "Gabimaru's Mother"
+      ],
+      "role": "minor",
+      "description": "She was a former jougnin-class kunoichi of Iwagakure and [Gabimaru](https://anilist.co/character/137260/Gabimaru)'s mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306859-HnYYj7W4cpfL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306859
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:34:51.052Z"
+  "updated_at": "2025-12-23T07:48:57.503Z"
 }

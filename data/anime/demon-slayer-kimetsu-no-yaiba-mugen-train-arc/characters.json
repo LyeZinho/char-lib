@@ -1,6 +1,6 @@
 {
   "work_id": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc",
-  "count": 25,
+  "count": 38,
   "characters": [
     {
       "id": "tanjirou-kamado",
@@ -636,7 +636,312 @@
       "external_ids": {
         "anilist": 196853
       }
+    },
+    {
+      "id": "tanjurou-kamado",
+      "name": "Tanjurou Kamado",
+      "alt_names": [
+        "竈門炭十郎"
+      ],
+      "role": "supporting",
+      "description": "Tanjuro Kamadou was the husband of Kie Kamado and the late father of Tanjiro, Nezuko, Takeo, Hanako, Shigeru, and Rokuta.\n\nTanjuro was a quiet, calculating, forgiving, charismatic and loving person. He had a peaceful relationship with his family and regularly lectured Tanjiro about life.\n\nWhile he appeared calm on the outside, he showed a decent, noble aura with a quiet perception to his surroundings. According to his son, he did not like standing out or displaying his true abilities to others. However, if his family is in danger, he would not hesitate to protect them and shows no mercy towards the enemy.\n\n~!Despite not being a Demon Slayer and having a tragic disease that makes his body incredibly frail, Tanjuro was shown to be a phenomenally strong individual. He was born with a demon slayer mark on his forehead, had the ability to access the transparent world, and was constantly using the selfless state.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206330-dDKOKM4O2pVg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 206330
+      }
+    },
+    {
+      "id": "rokuta-kamado",
+      "name": "Rokuta Kamado",
+      "alt_names": [
+        "竈門六太"
+      ],
+      "role": "supporting",
+      "description": "Tanjiro's youngest sibling.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207857-sn24LyeKSrPr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207857
+      }
+    },
+    {
+      "id": "fuku",
+      "name": "Fuku",
+      "alt_names": [
+        "ふく"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b251681-UPIbcoLHI8zX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 251681
+      }
+    },
+    {
+      "id": "kirisaki",
+      "name": "Kirisaki",
+      "alt_names": [
+        "切り裂き",
+        "Slasher"
+      ],
+      "role": "supporting",
+      "description": "Kirisaki was the nickname given to a demon that appeared during the investigation of the Mugen Train and was responsible for a number of human attacks. ~!He was defeated by Kyoujurou Rengoku.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b252147-gRa8umJxLWGs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 252147
+      }
+    },
+    {
+      "id": "tomi",
+      "name": "Tomi",
+      "alt_names": [
+        "トミ"
+      ],
+      "role": "supporting",
+      "description": "A bento vendor. ~!She and her daughter were previously saved from a demon 20 years earlier by [Kyoujurou Rengoku's](https://anilist.co/character/129133) father, [Shinjurou](https://anilist.co/character/193379).!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b257801-tw7AIdZIo0Ay.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 257801
+      }
+    },
+    {
+      "id": "genya-shinazugawa",
+      "name": "Genya Shinazugawa",
+      "alt_names": [
+        "不死川玄弥"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 180 cm (5'11\")\n\nGenya Is a Demon Hunter of the Demon Killing Corps. He is also the younger brother of the Wind Pillar [Sanemi Shinazugawa](https://anilist.co/character/137774).\n\n~! Due to his lack of breath forms he is dependent on using his shotgun and demon form. His shotgun pelts are made from sun steel to be effective against demons. His demon form is active when he digests anything from a demon to gain demon like strength and abilities. He is the only demon hunter to have this ability given that it is drastically rare !~",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137776-E0QuFD7y19OQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137776
+      }
+    },
+    {
+      "id": "kanao-tsuyuri",
+      "name": "Kanao Tsuyuri",
+      "alt_names": [
+        "栗花落カナヲ"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 156 cm (5'1½\")\n\nKanao Tsuyuri is a Demon Hunter and the Tsuguko, who is personally looked after by the Demon Killing Corps' Pillars.\n\n~!When Kanao is first introduced, she is an indecisive and quiet girl due to the abuse she endured in her past before meeting the Kocho sisters. She became unable to make decisions by herself and repressed her emotions as a defense mechanism. In order to help rectify this, Kanae gave her a coin to flip to decide which path to follow when she didn't know what to do.\n\nLater on, Tanjiro helps Kanao overcome her indecisiveness and Kanao soon becomes more confident in making decisions with or without her coin.\n\nKanao and Tanjiro would eventually marry and start a family, having two great-great-grandchildren by the names of [Kanata Kamado](https://anilist.co/character/171144/Kanata-Kamado) and [Sumihiko Kamado](https://anilist.co/character/171145/Sumihiko-Kamado) between them.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139038-OcOoDUyLEsRn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139038
+      }
+    },
+    {
+      "id": "hinaki-ubuyashiki",
+      "name": "Hinaki Ubuyashiki",
+      "alt_names": [
+        "産屋敷 ひなき"
+      ],
+      "role": "minor",
+      "description": "Hinaki Ubuyashiki is one of the older daughters of Kagaya Ubuyashiki.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b167549-1fG4eh5KkmZg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 167549
+      }
+    },
+    {
+      "id": "amane-ubuyashiki",
+      "name": "Amane Ubuyashiki",
+      "alt_names": [
+        "産屋敷あまね",
+        "Amane Himorogi"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 167cm (5'6\")\n\nShe is the wife and caretaker of [Kagaya Ubuyashiki](https://anilist.co/character/137808/Kagaya-Ubuyashiki) and the mother of Hinaki Ubuyashiki, Nichika Ubuyashiki, Kiriya Ubuyashiki, Kanata Ubuyashiki and Kuina Ubuyashiki. Her maiden name is Amane Himorogi.",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b221375-cMlefDNTlcD6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 221375
+      }
+    },
+    {
+      "id": "onisatsu-taishi",
+      "name": "Onisatsu Taishi",
+      "alt_names": [
+        "鬼殺隊士",
+        "Demon Slayer"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 285838
+      }
+    },
+    {
+      "id": "shoujo",
+      "name": "Shoujo",
+      "alt_names": [
+        "少女",
+        "Girl"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 285840
+      }
+    },
+    {
+      "id": "seinen",
+      "name": "Seinen",
+      "alt_names": [
+        "青年",
+        "Young man"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 285842
+      }
+    },
+    {
+      "id": "sobaya",
+      "name": "Sobaya",
+      "alt_names": [
+        "蕎麦屋",
+        "Soba Shop Owner"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 285843
+      }
     }
   ],
-  "updated_at": "2025-12-22T21:18:22.176Z"
+  "updated_at": "2025-12-23T01:15:45.949Z"
 }

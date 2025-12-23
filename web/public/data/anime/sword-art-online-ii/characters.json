@@ -1,6 +1,6 @@
 {
   "work_id": "sword-art-online-ii",
-  "count": 25,
+  "count": 45,
   "characters": [
     {
       "id": "kazuto-kirigaya",
@@ -601,7 +601,461 @@
       "external_ids": {
         "anilist": 212207
       }
+    },
+    {
+      "id": "freyja",
+      "name": "Freyja",
+      "alt_names": [
+        "フレイヤ"
+      ],
+      "role": "supporting",
+      "description": "An Npc that appears in the scalibur sword plot, being locked up and being Klein who falls in love with her and frees her",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212614-YqDMMY8R5lJh.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212614
+      }
+    },
+    {
+      "id": "thrym",
+      "name": "Thrym",
+      "alt_names": [
+        "スリュム"
+      ],
+      "role": "supporting",
+      "description": "is an NPC that appears in ALfheim Online. He is the king of the Frost Giants and the main antagonist of the Caliber Arc.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212616-5ED8q3KKmy9L.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212616
+      }
+    },
+    {
+      "id": "siune",
+      "name": "Siune",
+      "alt_names": [
+        "シウネ",
+        "An Si-eun"
+      ],
+      "role": "supporting",
+      "description": "She was the second sub-leader of the Sleeping Knights, a guild of terminally ill patients who met in Serene Garden and played various virtual reality games as a form of palliative care. An Si-eun had played a variety of virtual reality games, including Insect Site, until the guild eventually arrived to ALfheim Online, where An Si-eun chose to be an Undine.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212618-mOeHTkAfnksH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212618
+      }
+    },
+    {
+      "id": "tecchi",
+      "name": "Tecchi",
+      "alt_names": [
+        "テッチ"
+      ],
+      "role": "supporting",
+      "description": "He is a close-range, tank-build member of the Sleeping Knights, a guild of terminally ill patients who met in Serene Garden and played various virtual reality games as a form of palliative care. Tecchi had played a variety of virtual reality games, until the guild eventually arrived to ALfheim Online, where Tecchi chose to be a Gnome.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212619-cKHBwja5exTi.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212619
+      }
+    },
+    {
+      "id": "talken",
+      "name": "Talken",
+      "alt_names": [
+        "タルケン"
+      ],
+      "role": "supporting",
+      "description": "He is a medium-range, damage-dealer member of the Sleeping Knights, a guild of terminally ill patients who met in Serene Garden and played various virtual reality games as a form of palliative care. Talken had played a variety of virtual reality games, until the guild eventually arrived to ALfheim Online, where Talken chose to be a Leprechaun.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212620-2VtxFaIZjaNP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212620
+      }
+    },
+    {
+      "id": "jun",
+      "name": "Jun",
+      "alt_names": [
+        "ジュン"
+      ],
+      "role": "supporting",
+      "description": "He is a close-range tank-build swordsman member of the Sleeping Knights, a guild of terminally ill patients who met in Serene Garden and played various virtual reality games as a form of palliative care. Jun had played a variety of virtual reality games, until the guild eventually arrived to ALfheim Online, where Jun chose to be a Salamander.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212621-oaBRcdKJrh2c.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212621
+      }
+    },
+    {
+      "id": "yamikaze",
+      "name": "Yamikaze",
+      "alt_names": [
+        "闇風",
+        "Dark wind"
+      ],
+      "role": "supporting",
+      "description": "Is an AGI-type player in Gun Gale Online and a participant in the 2nd and 3rd Bullet of Bullets.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212622-i4cVdiTHhXuI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212622
+      }
+    },
+    {
+      "id": "verdandi",
+      "name": "Verdandi",
+      "alt_names": [
+        "ベルザンディ"
+      ],
+      "role": "supporting",
+      "description": "NPC that are part of the Excalibur mission.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212646-RFhVrxp9nUIm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212646
+      }
+    },
+    {
+      "id": "skuld",
+      "name": "Skuld",
+      "alt_names": [
+        "スクルド"
+      ],
+      "role": "supporting",
+      "description": "She is one of the NPCs that are part of the Excalibur mission.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212679-1M4lXCvCsDy6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212679
+      }
+    },
+    {
+      "id": "urd",
+      "name": "Urd",
+      "alt_names": [
+        "ウルズ",
+        "Lake Queen"
+      ],
+      "role": "supporting",
+      "description": "It is an NPC that appears in one of the missions of ALfheim Online which consists of rescuing the Holy Sword Excalibur from Þrymheimr. She is friends with the Evil-type animal creatures that inhabit Jötunheimr.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212691-Gq4vtNYKRQqZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212691
+      }
+    },
+    {
+      "id": "pina",
+      "name": "Pina",
+      "alt_names": [
+        "ピナ"
+      ],
+      "role": "supporting",
+      "description": "is Silica's Feathered Little Dragon and the first known monster to be tamed in Sword Art Online. It understands Silica's commands and will protect her in any way it can, as it is her «Tamed Monster». It is also present in ALfheim Online as her Cait Sith familiar.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212810-jHVw3QgmELu9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212810
+      }
+    },
+    {
+      "id": "kurahashi",
+      "name": "Kurahashi",
+      "alt_names": [
+        "倉橋"
+      ],
+      "role": "supporting",
+      "description": "He is in charge of the long-term care department at the Yokohama Kōhoku General Hospital and was Konno Yuuki's doctor since she was little. He had been helping her overcome her human immunodeficiency virus (HIV) and was the one who persuaded her to use the Medicuboid",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212915-EKf3VoX2uTcN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212915
+      }
+    },
+    {
+      "id": "endou",
+      "name": "Endou",
+      "alt_names": [
+        "遠藤"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213209-21cGOSK1Q2No.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 213209
+      }
+    },
+    {
+      "id": "ginrou",
+      "name": "Ginrou",
+      "alt_names": [
+        "ギンロウ"
+      ],
+      "role": "supporting",
+      "description": "He is a member of Dyne's PvP (anti-personnel) squad that targets weaker, low-risk opponents. Ginrou's evasion skills in face-to-face combat is known to be above average",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213210-rvGjswsvQqay.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 213210
+      }
+    },
+    {
+      "id": "avatar-buyer",
+      "name": "Avatar Buyer",
+      "alt_names": [
+        "アバターバイヤー"
+      ],
+      "role": "supporting",
+      "description": "A GGO player dedicated to purchasing skins from new players",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213211-rLh5QKpPgBqV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 213211
+      }
+    },
+    {
+      "id": "tamotsu-shigemura",
+      "name": "Tamotsu Shigemura",
+      "alt_names": [
+        "茂村保",
+        "XeXeeD",
+        "Zexceed",
+        "ゼクシード"
+      ],
+      "role": "minor",
+      "description": "He is a Gun Gale Online player who ranked first in the second Bullet of Bullets tournament.",
+      "metadata": {
+        "gender": "male",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212626-TnTFuf2g69JM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212626
+      }
+    },
+    {
+      "id": "aiko-konno",
+      "name": "Aiko Konno",
+      "alt_names": [
+        "紺野藍子"
+      ],
+      "role": "minor",
+      "description": "She is the older sister of [Yuuki Konno](https://anilist.co/character/64523). She is the founder of the Sleeping Knights Guild, a group of terminally ill patients who play VRMMOs.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212627-ElSNIBAESczE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212627
+      }
+    },
+    {
+      "id": "juushi-x",
+      "name": "Juushi X",
+      "alt_names": [
+        "銃士X",
+        "Musketeer X"
+      ],
+      "role": "minor",
+      "description": "A player in the VRMMO game, Gun Gale Online, and a participant in the 3rd Bullet of Bullets. She is one of the four players in the finals of the tournament who had not participated in the finals of the previous two tournaments.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b247629-IybGY7DguHeW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 247629
+      }
+    },
+    {
+      "id": "akiyo-sada",
+      "name": "Akiyo Sada",
+      "alt_names": [
+        "佐田明代"
+      ],
+      "role": "minor",
+      "description": "Housekeeper working for the Yuuki family",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b247631-KFWd0IryHM4s.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 247631
+      }
+    },
+    {
+      "id": "shishi-ou-richie",
+      "name": "Shishi Ou Richie",
+      "alt_names": [
+        "獅子王リッチー",
+        "Lion King Richie",
+        "TatekomoRichie (立てこもリッチー)"
+      ],
+      "role": "minor",
+      "description": "Richie participated in the 2nd Bullet of Bullets tournament, during which he occupied the highest point in the area and used his machine gun to keep other players away. However, Richie had to withdraw after running out of ammunition.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b247633-lkbknbXz6455.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 247633
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:35:04.314Z"
+  "updated_at": "2025-12-23T05:30:06.199Z"
 }

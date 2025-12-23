@@ -1,6 +1,6 @@
 {
   "work_id": "death-note",
-  "count": 25,
+  "count": 54,
   "characters": [
     {
       "id": "l-lawliet",
@@ -620,7 +620,696 @@
       "external_ids": {
         "anilist": 3883
       }
+    },
+    {
+      "id": "naomi-misora",
+      "name": "Naomi Misora",
+      "alt_names": [
+        "南空ナオミ",
+        "Maki Shoko",
+        "Naomi Massacre"
+      ],
+      "role": "supporting",
+      "description": "Naomi is a former \"first rate\" FBI agent who is engaged to [Raye Penber](https://anilist.co/character/7044). She is very intelligent, however she often lets her feelings get in the way of her investigative abilities.\n\nNaomi is notable for having worked alongside [L Lawlet](https://anilist.co/character/71) in the past to solve the Los Angeles BB Serial Murder case, which was what initally helped launch Naomi's reputation within the FBI. Misora later left the FBI and became the fianc&eacute;e of Penber. Misora and Penber plan to marry, move to the United States, and raise a family.  \n\n~!After Raye's abrupt death, she decides to search for his killer. She suspects that Kira was the last suspect Raye had followed and believes that Kira can kill people with methods other than heart attacks.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4959-DKXw1VYrvael.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4959
+      }
+    },
+    {
+      "id": "shingo-midou",
+      "name": "Shingo Midou",
+      "alt_names": [
+        "三堂芯吾"
+      ],
+      "role": "supporting",
+      "description": "Shingo Midou is one of the eight members of the Yotsuba Group.",
+      "metadata": {
+        "gender": "male",
+        "age": "32",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n5174-cYFDgXOjy3Ms.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5174
+      }
+    },
+    {
+      "id": "raye-penber",
+      "name": "Raye Penber",
+      "alt_names": [
+        "レイ・ペンバー"
+      ],
+      "role": "supporting",
+      "description": "Raye Penber is an American Investigator from the FBI, who was sent to Japan along with 11 other FBI agents to track down Kira. Raye was assigned to investigate the Yagami family for any suspicious behavior; specifically focusing on [Light Yagami](https://anilist.co/character/80/Light-Yagami). Raye is engaged to a former FBI agent, [Naomi Misora](https://anilist.co/character/4959/Naomi-Misora).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n7044-DjU28vbo11bb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7044
+      }
+    },
+    {
+      "id": "sayu-yagami",
+      "name": "Sayu Yagami",
+      "alt_names": [
+        "夜神幸子"
+      ],
+      "role": "supporting",
+      "description": "Light's younger sister.",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n8135-UgvqHuoMyZy5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8135
+      }
+    },
+    {
+      "id": "sachiko-yagami",
+      "name": "Sachiko Yagami",
+      "alt_names": [
+        "夜神幸子"
+      ],
+      "role": "supporting",
+      "description": "Mother of Light and Sayu.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n14735-FfrdE7p4Kfxd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 14735
+      }
+    },
+    {
+      "id": "hirokazu-ukita",
+      "name": "Hirokazu Ukita",
+      "alt_names": [
+        "宇生田広数"
+      ],
+      "role": "supporting",
+      "description": "Hirokazu Ukita is the most emotional of the Kira investigation team that is lead by L.",
+      "metadata": {
+        "gender": "male",
+        "age": "26",
+        "dateOfBirth": "1980-04-18"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n17555-bRedmqb33U5T.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17555
+      }
+    },
+    {
+      "id": "hideki-ide",
+      "name": "Hideki Ide",
+      "alt_names": [
+        "伊出英基"
+      ],
+      "role": "supporting",
+      "description": "Hideki Ide is one of the few police officers who remains with [Souichirou Yagami](https://anilist.co/character/1927/Souichirou-Yagami) during the Kira Investigation. However, he swiftly leaves when begins to disagree with L&#039;s methods of investigation.",
+      "metadata": {
+        "gender": "male",
+        "age": "34",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n20002-hWGxmi8Cipt4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 20002
+      }
+    },
+    {
+      "id": "anthony-carter",
+      "name": "Anthony Carter",
+      "alt_names": [
+        "アンソニー・カーター",
+        "Anthony Lester",
+        "Anthony Rester"
+      ],
+      "role": "supporting",
+      "description": "Anthony Lester is the Captain of a special force squad, and is now the SPK&#039;s number 2 and its operation leader. \n\nHe can be seen as [Near's](https://anilist.co/character/464/Nate-River) guardian and personal assistant, similarly to what [Watari](https://anilist.co/character/2179/Quillsh-Wammy) was to [L](https://anilist.co/character/71/L-Lawliet). He is an extremely honest person who has Near's complete trust, to the point he's comfortable with revealing some of his thought and plans to Lester. Lester also helps Near with actions he is not used to doing, such as booking a flight on a plane. He is often called \"Commander Lester\", and he is unable to match Near in intelligence and analytic skill despite being very intelligent himself. Nevertheless, being trustworthy, athletic, and a quiet person make him very useful to assist Near.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n23514-xhkKhgd0S5RJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 23514
+      }
+    },
+    {
+      "id": "hitoshi-demegawa",
+      "name": "Hitoshi Demegawa",
+      "alt_names": [
+        "出目川仁"
+      ],
+      "role": "supporting",
+      "description": "Hitoshi Demegawa is a publicity hound and the director of Sakura TV.",
+      "metadata": {
+        "gender": "male",
+        "age": "38",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n30939-jGDDNVx9KUAY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 30939
+      }
+    },
+    {
+      "id": "lind-l-tailor",
+      "name": "Lind L. Tailor",
+      "alt_names": [
+        "リンド・L・テイラ"
+      ],
+      "role": "supporting",
+      "description": "Lind L. Tailor is a convicted criminal sentenced to die. [L](https://anilist.co/character/71/L-Lawliet) places Tailor as a decoy on television in order to lure out Kira. \n[Light](https://anilist.co/character/80/Light-Yagami), in a foolish rage, ends up killing Tailor with a heart attack, believing him to be \"L\" even though he is not. This gives L his first real lead in the Kira case, and is the first interaction L and Kira share together.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n30944-YXxjESqhsg84.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 30944
+      }
+    },
+    {
+      "id": "dwhite-gordon",
+      "name": "Dwhite Gordon",
+      "alt_names": [
+        "ドワイト・ゴードン",
+        "Rod Ross"
+      ],
+      "role": "supporting",
+      "description": "He s the leader of the Mafia organization that Mello joins after leaving Wammy's House.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n37996-BJqJlAXww2qD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 37996
+      }
+    },
+    {
+      "id": "takuo-shibuimaru",
+      "name": "Takuo Shibuimaru",
+      "alt_names": [
+        "渋井丸拓男",
+        "Shibutaku",
+        "Cool Taku"
+      ],
+      "role": "supporting",
+      "description": "Takuo Shibuimaru is the second person that Light kills using his Death Note. Shibuimaru rides a motorcycle and travels with a group of bikers, and starts annoying a woman in the street. After Light hears his name and sees him chasing this woman, Light writes his name down in all variations possibles to write his name, and uses a condition, a death by traffic accident. A truck slams into Shibuimaru's motorcycle, killing him. In the manga, Shibuimaru and his group harass the woman, while in the anime him and his group try to sexually assault her. In the manga Light feels some guilt since Shibuimaru is not a criminal.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n46237-vSB4bDQ7uajY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 46237
+      }
+    },
+    {
+      "id": "yuri",
+      "name": "Yuri",
+      "alt_names": [
+        "百合"
+      ],
+      "role": "supporting",
+      "description": "Yuri is a young girl that has a crush on [Light Yagami](https://anilist.co/character/80/Light-Yagami). \n\nLight decides to invite her on a date to Space Land. He asks her out as part of his plan to help find out [Raye Penber's](https://anilist.co/character/7044) name, so that he can write it in the Death Note. Light asks her out so that he won't arouse suspicion, since he is well aware of being followed by Penber.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n53663-kcAGTU7RCaUG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 53663
+      }
+    },
+    {
+      "id": "guuk",
+      "name": "Guuk",
+      "alt_names": [
+        "グック",
+        "Gook",
+        "Guku"
+      ],
+      "role": "supporting",
+      "description": "Guuk is one of the thirteen shinigami, he has what looks to be a rams skull for is head and fair patches around his body. His shingami rank is seven and he is often seen gambling with other shingami in the shingami realm.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/79469.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79469
+      }
+    },
+    {
+      "id": "suguru-shimura",
+      "name": "Suguru Shimura",
+      "alt_names": [
+        "卓志村"
+      ],
+      "role": "supporting",
+      "description": "He is the Head of Personnel in the Yotsuba Corporation. He is a very paranoid person, and always keeps a close eye on others. Shimura's ability to pay attention to small details allowed him to join the Yotsuba Group meetings. He does not like his predicament whatsoever.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84503.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84503
+      }
+    },
+    {
+      "id": "eiichi-takahashi",
+      "name": "Eiichi Takahashi",
+      "alt_names": [
+        "鷹橋鋭"
+      ],
+      "role": "supporting",
+      "description": "He is the Vice President of Yotsuba Material Planning Division and Yotsuba Homes. He's never had what it takes to be a true leader and was selected to attend the meetings to make [Higuchi](https://anilist.co/character/1928) look good. Other members view Takahashi as \"foolish\" because he does not \"seem to put much thought into his comments.\" Takahashi was formally married with children and is a graduate of Keiyo Business School. He is the son of Karazo Takahashi, the president of Japan Financial Times, and maintained a hobby in surfing.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84505.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84505
+      }
+    },
+    {
+      "id": "takeshi-ooi",
+      "name": "Takeshi Ooi",
+      "alt_names": [
+        "尾々井剛"
+      ],
+      "role": "supporting",
+      "description": "He is the Yotsuba Vice President of VT Enterprises. He works with the Yotsuba Group as the eldest and \"most influential\" member and he appears to control the conferences. He individually contacts the members of the committee. Ooi is seemingly a tough guy who doesn't sweat the details. Ooi is a graduate of Wasegi University Law department, who was a weapon enthusiast with a father works in the Ministry of Defense.",
+      "metadata": {
+        "gender": "male",
+        "age": "43",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84507.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84507
+      }
+    },
+    {
+      "id": "david-hoope",
+      "name": "David Hoope",
+      "alt_names": [
+        "デイビットホープ",
+        "Mr President"
+      ],
+      "role": "supporting",
+      "description": "He is the President of the United States. He gives permission to form the SPK after having a discussion with Near. He is threatened by Mello with the Death Note, forced into giving him all the information he has on the SPK, and to keep him updated on what they are doing. He works unsuccessfully with L (Light) to infiltrate Mello's hideout. He's a strong leader, but powerless against the decree of the Death Note.   Hoope ends up committing suicide, and it is believed that Kira disposed of him after the special forces' attack failed.  In the anime, he does not commit suicide, as the character was merged with that of George Sairas (who is his vice-president).  Although he is president of the U.S.A in the manga, in the anime, the president is George Sairas.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n84509-qynA7w9VvVIC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84509
+      }
+    },
+    {
+      "id": "george-cyrus",
+      "name": "George Cyrus",
+      "alt_names": [
+        "ジョージ・サイラス"
+      ],
+      "role": "supporting",
+      "description": "He is the Vice President of the United States in the manga. When David Hoope dies, Sairas becomes the President in his place. He capitulates to Kira and officially announces his support for him. In addition, Sairas leaks secret information about the SPK. How to Read 13 describes Sairas as \"weak-willed\" and \"clearly lacking as a leader.\"  In the anime, Sairas is President at the start.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84511.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84511
+      }
+    },
+    {
+      "id": "kiichiro-osoreda",
+      "name": "Kiichiro Osoreda",
+      "alt_names": [
+        "恐田奇一郎"
+      ],
+      "role": "supporting",
+      "description": "He is a drug addict and a criminal used by Light to trick Raye Penber into revealing his FBI badge to Light so he can kill him.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84513.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84513
+      }
+    },
+    {
+      "id": "carl-darlingbin",
+      "name": "Carl Darlingbin",
+      "alt_names": [
+        "Shawn Dunleavy",
+        "Sean Danrevey",
+        "III Ratt",
+        "Y320"
+      ],
+      "role": "supporting",
+      "description": "After the founding of the SPK, Ratt walked outside their HQ and asked a citizen to borrow his phone so that he could inform Mello with information on the Death Note that he had found.  Ratt was briefly seen being ordered by Steve Mason to get John McEnroe to pick up Soichiro Yagami and his daughter Sayu, who was kidnapped by Mello and the Mafia as a trade for the Death Note. After Mello obtained the notebook, he used it to kill Ratt, along with half of the other SPK members, by making him commit suicide by shooting himself in the head with a gun.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84515.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84515
+      }
+    },
+    {
+      "id": "larry-conners",
+      "name": "Larry Conners",
+      "alt_names": [
+        "ラリー・コナーズ",
+        "John McEnroe"
+      ],
+      "role": "supporting",
+      "description": "McEnroe is an SPK member and FBI officer.  He is sent to the Japanese National Police Agency HQ in order to request that the Death Note that they have is handed over to the United States government, and thus the SPK.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84517.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84517
+      }
+    },
+    {
+      "id": "koreyoshi-kitamura",
+      "name": "Koreyoshi Kitamura",
+      "alt_names": [
+        "北村 是良"
+      ],
+      "role": "supporting",
+      "description": "He is the Deputy Director of the National Police Agency and Soichiro Yagami's superior.  He and his family, as well as Yagami's, were investigated by FBI agent Raye Penber over the leaking of information to Kira. Following Penber's death by Kira, L ordered similar investigations on both families: Kitamura's daughter was even approached by Mogi, posing as L, implying that she was under suspicion of being Kira — while L himself approached the actual suspect, Light Yagami. Kitamura confronted Soichiro Yagami over the issue of his daughter's treatment and was frustrated by Soichiro's insistence that secrecy prevented him from revealing details of the investigation, though Soichiro did admit that it was his own son who was the real suspect.  Kitamura later helped Soichiro out of the Sakura TV studio after he had seized the Kira tapes which the station was broadcasting and which had led to several deaths by Kira. Kitamura sent a riot squad with police buses, shields and face-covering helmets in order to get Soichiro safely out of the building.  However, he was later forced to call off the Kira investigation when politicians were threatened by Kira and bribed by the Yotsuba Group for whom Kira was then working for. He told Soichiro that he had tried to oppose the move but had little choice but to comply while telling the public that the investigation was still ongoing. He did offer Soichiro the right to continue the hunt for Kira, while performing other non-connected police duties, provided that he cut off all ties with L. Soichiro and other members of the Kira Investigation Team decided instead to quit the police force and continue to work with L, eventually exposing Yotsuba and its connection to Kira.  Death Note: How to Read 13 describes Kitamura as not being a \"bad guy\" in spite of his failings. By the start of the Near-Mello story arc, Soichiro Yagami is the Deputy Director of the NPA but it is not clear if this is along with, or in the place of, Kitamura, whose own fate is unmentioned.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84519.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84519
+      }
+    },
+    {
+      "id": "yamamoto",
+      "name": "Yamamoto",
+      "alt_names": [
+        "山本"
+      ],
+      "role": "supporting",
+      "description": "He is Light Yagami's high school friend    ~!and a new member of the Japanese Task Force who joined within the year after Light died. !~  He also makes an appearance in the One-Shot chapter. As revealed in chapter 108, he and Matsuda share a close friendship. According to Matsuda, they've gone drinking together on some occasions.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84521.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84521
+      }
+    },
+    {
+      "id": "kanichi-takimura",
+      "name": "Kanichi Takimura",
+      "alt_names": [
+        "多貴村=管一"
+      ],
+      "role": "supporting",
+      "description": "He is the head of the Japanese National Police Agency.    ~!He was kidnapped by the Mafia led by Mello in order to serve as a hostage in exchange for the Death Note the Japanese police had in its possession. Takimura was later found dead, strangled by his own tie. Mello therefore organised the kidnapping of Sayu Yagami, the daughter of Takimura's deputy Soichiro Yagami, and held her in exchange for the Death Note.  Death Note: How to Read 13 confirms that he was killed by Kira (Light Yagami), though in the manga Light himself does not openly confirm this in his thoughts or in conversation. Near and Mello themselves speculate that it could have been either Kira's doing or actual suicide. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84523.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84523
+      }
+    },
+    {
+      "id": "steve-mason",
+      "name": "Steve Mason",
+      "alt_names": [
+        "スティーブ·メイソン",
+        "Director Mason"
+      ],
+      "role": "supporting",
+      "description": "He is the FBI director and a member of the SPK.  He helped L in the Kira's investigation sending FBI agents to Japan but gave up after all the agents were killed by Kira. He was too a leading Near's employees who helped to convince the U.S. President to form the SPK.   ~!Later, along with other members of the SPK, he was killed by Mafia who used the Death Note (by Jack Neylon from Mello's orders) to show that Mello was better than Near. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84525.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84525
+      }
+    },
+    {
+      "id": "yumi-aizawa",
+      "name": "Yumi Aizawa",
+      "alt_names": [
+        "相澤由美"
+      ],
+      "role": "supporting",
+      "description": "She is the daughter of [Shuichi Aizawa](https://anilist.co/character/3767) and [Eriko Aizawa](https://anilist.co/character/84531/Eriko-Aizawa).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84527.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84527
+      }
+    },
+    {
+      "id": "nori",
+      "name": "Nori",
+      "alt_names": [
+        "ノリ"
+      ],
+      "role": "supporting",
+      "description": "She is a friend of Misa Amane. She features in chapter 48 \"Give-and-Take\".  During the Yotsuba investigation, Misa is not allowed to go anywhere without being escorted by Mogi. Misa discreetly contacts Nori and arranges a meeting.  Misa is appearing in a major film. The next day, after a location shoot, she asks to be allowed to use the ladies' room in a local hospital. Waiting in a cubicle is Nori who is dressed as a nurse. The two girls quickly swap clothes and wigs. Misa has told Nori that she wants to go out on a date but cannot get much privacy due to her celebrity status.  Nori is thrilled to be wearing Misa's clothes — indicating that she is a fan of Misa, a well-known model and actress.  Dressed in the nurse outfit and wearing a black wig, Misa then leaves, slipping past Mogi and going out for a drive with Higuchi, intending to expose him as the Yotsuba Kira.  Nori meanwhile approaches Mogi who, realizing that he has been tricked, quickly raises the alarm with the rest of the Kira Task Force, who have to wait until Misa returns in the evening — with evidence that Higushi is Kira.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84529.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84529
+      }
+    },
+    {
+      "id": "eriko-aizawa",
+      "name": "Eriko Aizawa",
+      "alt_names": [
+        "絵里子相沢"
+      ],
+      "role": "supporting",
+      "description": "She is the wife of [Shuichi Aizawa](https://anilist.co/character/3767/Shuuichi-Aizawa) and mother of [Yumi Aizawa](https://anilist.co/character/84527) and a baby son. She and her children are usually sad because Aizawa is overworked and unable to spend time with them.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84531.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84531
+      }
     }
   ],
-  "updated_at": "2025-12-22T19:34:32.918Z"
+  "updated_at": "2025-12-23T07:05:03.277Z"
 }

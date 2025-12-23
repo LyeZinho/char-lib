@@ -1,6 +1,6 @@
 {
   "work_id": "one-piece-movie-01",
-  "count": 5,
+  "count": 14,
   "characters": [
     {
       "id": "one-piece-movie-01_el-drago",
@@ -65,8 +65,8 @@
           }
         }
       ],
-      "updated_at": "2025-12-22T12:16:33.117Z",
-      "created_at": "2025-12-22T12:16:33.117Z"
+      "updated_at": "2025-12-23T04:33:49.221Z",
+      "created_at": "2025-12-23T04:33:49.221Z"
     },
     {
       "id": "one-piece-movie-01_ganzo",
@@ -155,8 +155,8 @@
           }
         }
       ],
-      "updated_at": "2025-12-22T12:16:33.117Z",
-      "created_at": "2025-12-22T12:16:33.117Z"
+      "updated_at": "2025-12-23T04:33:49.221Z",
+      "created_at": "2025-12-23T04:33:49.221Z"
     },
     {
       "id": "one-piece-movie-01_monkey-d-luffy",
@@ -221,8 +221,8 @@
           }
         }
       ],
-      "updated_at": "2025-12-22T12:16:33.117Z",
-      "created_at": "2025-12-22T12:16:33.117Z"
+      "updated_at": "2025-12-23T04:33:49.221Z",
+      "created_at": "2025-12-23T04:33:49.221Z"
     },
     {
       "id": "one-piece-movie-01_nami",
@@ -295,8 +295,8 @@
           }
         }
       ],
-      "updated_at": "2025-12-22T12:16:33.117Z",
-      "created_at": "2025-12-22T12:16:33.117Z"
+      "updated_at": "2025-12-23T04:33:49.221Z",
+      "created_at": "2025-12-23T04:33:49.221Z"
     },
     {
       "id": "one-piece-movie-01_roronoa-zoro",
@@ -361,9 +361,562 @@
           }
         }
       ],
-      "updated_at": "2025-12-22T12:16:33.117Z",
-      "created_at": "2025-12-22T12:16:33.117Z"
+      "updated_at": "2025-12-23T04:33:49.221Z",
+      "created_at": "2025-12-23T04:33:49.221Z"
+    },
+    {
+      "id": "one-piece-movie-01_tobio",
+      "name": "Tobio",
+      "alt_names": [],
+      "role": "protagonist",
+      "description": "Descrição não disponível via MyAnimeList API. Para descrições completas, importe usando --source anilist.",
+      "metadata": {
+        "age": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.myanimelist.net/images/characters/8/384808.jpg?s=46684e3a0906a9eeec416e7de3cbcf15",
+          "type": "portrait",
+          "source": "MyAnimeList"
+        }
+      ],
+      "external_ids": {
+        "mal": 53001
+      },
+      "tags": [],
+      "relations": [],
+      "voice_actors": [
+        {
+          "id": 374,
+          "name": "Imai, Yuka",
+          "language": "Japanese",
+          "external_ids": {
+            "mal": 374
+          }
+        },
+        {
+          "id": 7303,
+          "name": "Solis, Adrien",
+          "language": "French",
+          "external_ids": {
+            "mal": 7303
+          }
+        },
+        {
+          "id": 46025,
+          "name": "Romero, Nina",
+          "language": "Spanish",
+          "external_ids": {
+            "mal": 46025
+          }
+        },
+        {
+          "id": 1160,
+          "name": "Garbolino, Davide",
+          "language": "Italian",
+          "external_ids": {
+            "mal": 1160
+          }
+        },
+        {
+          "id": 42697,
+          "name": "Hilbert, Tabea",
+          "language": "German",
+          "external_ids": {
+            "mal": 42697
+          }
+        },
+        {
+          "id": 89971,
+          "name": "Hsu, Maggie",
+          "language": "Mandarin",
+          "external_ids": {
+            "mal": 89971
+          }
+        }
+      ],
+      "updated_at": "2025-12-23T04:33:49.221Z",
+      "created_at": "2025-12-23T04:33:49.221Z"
+    },
+    {
+      "id": "one-piece-movie-01_usopp",
+      "name": "Usopp",
+      "alt_names": [],
+      "role": "protagonist",
+      "description": "Descrição não disponível via MyAnimeList API. Para descrições completas, importe usando --source anilist.",
+      "metadata": {
+        "age": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.myanimelist.net/images/characters/16/188076.jpg?s=f24eccad7d76e7747895a9a945d8a3ed",
+          "type": "portrait",
+          "source": "MyAnimeList"
+        }
+      ],
+      "external_ids": {
+        "mal": 724
+      },
+      "tags": [],
+      "relations": [],
+      "voice_actors": [
+        {
+          "id": 67,
+          "name": "Yamaguchi, Kappei",
+          "language": "Japanese",
+          "external_ids": {
+            "mal": 67
+          }
+        },
+        {
+          "id": 9926,
+          "name": "Meyer, Dirk",
+          "language": "German",
+          "external_ids": {
+            "mal": 9926
+          }
+        },
+        {
+          "id": 21713,
+          "name": "Denuit, Jean-Pierre",
+          "language": "French",
+          "external_ids": {
+            "mal": 21713
+          }
+        },
+        {
+          "id": 13965,
+          "name": "Carabias, José",
+          "language": "Spanish",
+          "external_ids": {
+            "mal": 13965
+          }
+        },
+        {
+          "id": 11920,
+          "name": "Bottale, Luca",
+          "language": "Italian",
+          "external_ids": {
+            "mal": 11920
+          }
+        }
+      ],
+      "updated_at": "2025-12-23T04:33:49.221Z",
+      "created_at": "2025-12-23T04:33:49.221Z"
+    },
+    {
+      "id": "one-piece-movie-01_bastar-gill",
+      "name": "Bastar, Gill",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Descrição não disponível via MyAnimeList API. Para descrições completas, importe usando --source anilist.",
+      "metadata": {
+        "age": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.myanimelist.net/images/characters/13/598208.jpg?s=4dc23f3f4b22f7f223e6dbf5bbdbb45a",
+          "type": "portrait",
+          "source": "MyAnimeList"
+        }
+      ],
+      "external_ids": {
+        "mal": 181539
+      },
+      "tags": [],
+      "relations": [],
+      "voice_actors": [],
+      "updated_at": "2025-12-23T04:33:49.221Z",
+      "created_at": "2025-12-23T04:33:49.221Z"
+    },
+    {
+      "id": "one-piece-movie-01_danny",
+      "name": "Danny",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Descrição não disponível via MyAnimeList API. Para descrições completas, importe usando --source anilist.",
+      "metadata": {
+        "age": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.myanimelist.net/images/characters/14/384810.jpg?s=a1f4d523fc354899163daeb5e207b60d",
+          "type": "portrait",
+          "source": "MyAnimeList"
+        }
+      ],
+      "external_ids": {
+        "mal": 52669
+      },
+      "tags": [],
+      "relations": [],
+      "voice_actors": [
+        {
+          "id": 15083,
+          "name": "Kasai, Shinsuke",
+          "language": "Japanese",
+          "external_ids": {
+            "mal": 15083
+          }
+        },
+        {
+          "id": 21419,
+          "name": "Sedlmeir, Paul",
+          "language": "German",
+          "external_ids": {
+            "mal": 21419
+          }
+        },
+        {
+          "id": 31625,
+          "name": "Boulad, Luc",
+          "language": "French",
+          "external_ids": {
+            "mal": 31625
+          }
+        },
+        {
+          "id": 1240,
+          "name": "Scarabelli, Mario",
+          "language": "Italian",
+          "external_ids": {
+            "mal": 1240
+          }
+        }
+      ],
+      "updated_at": "2025-12-23T04:33:49.221Z",
+      "created_at": "2025-12-23T04:33:49.221Z"
+    },
+    {
+      "id": "one-piece-movie-01_denny",
+      "name": "Denny",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Descrição não disponível via MyAnimeList API. Para descrições completas, importe usando --source anilist.",
+      "metadata": {
+        "age": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.myanimelist.net/images/characters/8/384811.jpg?s=2e383ccdbd236e099ae15337444b49fa",
+          "type": "portrait",
+          "source": "MyAnimeList"
+        }
+      ],
+      "external_ids": {
+        "mal": 52671
+      },
+      "tags": [],
+      "relations": [],
+      "voice_actors": [
+        {
+          "id": 15085,
+          "name": "Ito, Toshihiro",
+          "language": "Japanese",
+          "external_ids": {
+            "mal": 15085
+          }
+        },
+        {
+          "id": 24233,
+          "name": "Marot, Tony",
+          "language": "French",
+          "external_ids": {
+            "mal": 24233
+          }
+        },
+        {
+          "id": 45087,
+          "name": "Meyer, Gerd",
+          "language": "German",
+          "external_ids": {
+            "mal": 45087
+          }
+        },
+        {
+          "id": 45979,
+          "name": "Ordóñez Arrieta, Rafael",
+          "language": "Spanish",
+          "external_ids": {
+            "mal": 45979
+          }
+        },
+        {
+          "id": 1092,
+          "name": "Ridolfo, Claudio",
+          "language": "Italian",
+          "external_ids": {
+            "mal": 1092
+          }
+        }
+      ],
+      "updated_at": "2025-12-23T04:33:49.221Z",
+      "created_at": "2025-12-23T04:33:49.221Z"
+    },
+    {
+      "id": "one-piece-movie-01_donny",
+      "name": "Donny",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Descrição não disponível via MyAnimeList API. Para descrições completas, importe usando --source anilist.",
+      "metadata": {
+        "age": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.myanimelist.net/images/characters/5/385523.jpg?s=7a20c3eac2d438ee99215fee4ac575da",
+          "type": "portrait",
+          "source": "MyAnimeList"
+        }
+      ],
+      "external_ids": {
+        "mal": 52673
+      },
+      "tags": [],
+      "relations": [],
+      "voice_actors": [
+        {
+          "id": 9256,
+          "name": "Roullier, Philippe",
+          "language": "French",
+          "external_ids": {
+            "mal": 9256
+          }
+        },
+        {
+          "id": 15087,
+          "name": "Sakai, Tsurumaru",
+          "language": "Japanese",
+          "external_ids": {
+            "mal": 15087
+          }
+        },
+        {
+          "id": 45112,
+          "name": "Macoulis, Niko",
+          "language": "German",
+          "external_ids": {
+            "mal": 45112
+          }
+        },
+        {
+          "id": 48870,
+          "name": "Teruel, Carles",
+          "language": "Spanish",
+          "external_ids": {
+            "mal": 48870
+          }
+        },
+        {
+          "id": 42935,
+          "name": "Beccari, Claudio",
+          "language": "Italian",
+          "external_ids": {
+            "mal": 42935
+          }
+        }
+      ],
+      "updated_at": "2025-12-23T04:33:49.221Z",
+      "created_at": "2025-12-23T04:33:49.221Z"
+    },
+    {
+      "id": "one-piece-movie-01_golass",
+      "name": "Golass",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Descrição não disponível via MyAnimeList API. Para descrições completas, importe usando --source anilist.",
+      "metadata": {
+        "age": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.myanimelist.net/images/characters/14/384814.jpg?s=cc83f7cab690804caf2de2ab398c50e4",
+          "type": "portrait",
+          "source": "MyAnimeList"
+        }
+      ],
+      "external_ids": {
+        "mal": 87899
+      },
+      "tags": [],
+      "relations": [],
+      "voice_actors": [
+        {
+          "id": 11922,
+          "name": "Olivero, Alberto",
+          "language": "Italian",
+          "external_ids": {
+            "mal": 11922
+          }
+        },
+        {
+          "id": 45048,
+          "name": "Albus, Thomas",
+          "language": "German",
+          "external_ids": {
+            "mal": 45048
+          }
+        },
+        {
+          "id": 45979,
+          "name": "Ordóñez Arrieta, Rafael",
+          "language": "Spanish",
+          "external_ids": {
+            "mal": 45979
+          }
+        }
+      ],
+      "updated_at": "2025-12-23T04:33:49.221Z",
+      "created_at": "2025-12-23T04:33:49.221Z"
+    },
+    {
+      "id": "one-piece-movie-01_narrator",
+      "name": "Narrator",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Descrição não disponível via MyAnimeList API. Para descrições completas, importe usando --source anilist.",
+      "metadata": {
+        "age": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+          "type": "portrait",
+          "source": "MyAnimeList"
+        }
+      ],
+      "external_ids": {
+        "mal": 5222
+      },
+      "tags": [],
+      "relations": [],
+      "voice_actors": [
+        {
+          "id": 1179,
+          "name": "Tomé, Antoine",
+          "language": "French",
+          "external_ids": {
+            "mal": 1179
+          }
+        },
+        {
+          "id": 29203,
+          "name": "Gustems, Joan Carles",
+          "language": "Spanish",
+          "external_ids": {
+            "mal": 29203
+          }
+        },
+        {
+          "id": 5438,
+          "name": "Ohba, Mahito",
+          "language": "Japanese",
+          "external_ids": {
+            "mal": 5438
+          }
+        },
+        {
+          "id": 1240,
+          "name": "Scarabelli, Mario",
+          "language": "Italian",
+          "external_ids": {
+            "mal": 1240
+          }
+        }
+      ],
+      "updated_at": "2025-12-23T04:33:49.221Z",
+      "created_at": "2025-12-23T04:33:49.221Z"
+    },
+    {
+      "id": "one-piece-movie-01_woonan",
+      "name": "Woonan",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Descrição não disponível via MyAnimeList API. Para descrições completas, importe usando --source anilist.",
+      "metadata": {
+        "age": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.myanimelist.net/images/characters/4/384813.jpg?s=a3fca86d75439b5abb5236145655db28",
+          "type": "portrait",
+          "source": "MyAnimeList"
+        }
+      ],
+      "external_ids": {
+        "mal": 31662
+      },
+      "tags": [],
+      "relations": [],
+      "voice_actors": [
+        {
+          "id": 134,
+          "name": "Kusao, Takeshi",
+          "language": "Japanese",
+          "external_ids": {
+            "mal": 134
+          }
+        },
+        {
+          "id": 364,
+          "name": "Nozawa, Nachi",
+          "language": "Japanese",
+          "external_ids": {
+            "mal": 364
+          }
+        },
+        {
+          "id": 29585,
+          "name": "Baudrier, Patrice",
+          "language": "French",
+          "external_ids": {
+            "mal": 29585
+          }
+        },
+        {
+          "id": 42603,
+          "name": "Klie, Matthias",
+          "language": "German",
+          "external_ids": {
+            "mal": 42603
+          }
+        },
+        {
+          "id": 23645,
+          "name": "Manuel, Julian",
+          "language": "German",
+          "external_ids": {
+            "mal": 23645
+          }
+        },
+        {
+          "id": 43428,
+          "name": "Romanò, Sergio",
+          "language": "Italian",
+          "external_ids": {
+            "mal": 43428
+          }
+        },
+        {
+          "id": 46031,
+          "name": "Oliva, José Manuel",
+          "language": "Spanish",
+          "external_ids": {
+            "mal": 46031
+          }
+        },
+        {
+          "id": 45967,
+          "name": "Felis, Rubén",
+          "language": "Spanish",
+          "external_ids": {
+            "mal": 45967
+          }
+        }
+      ],
+      "updated_at": "2025-12-23T04:33:49.221Z",
+      "created_at": "2025-12-23T04:33:49.221Z"
     }
   ],
-  "updated_at": "2025-12-22T12:16:33.118Z"
+  "updated_at": "2025-12-23T04:33:49.222Z"
 }

@@ -1,6 +1,6 @@
 {
   "work_id": "parasyte-the-maxim",
-  "count": 25,
+  "count": 48,
   "characters": [
     {
       "id": "shinichi-izumi",
@@ -556,7 +556,516 @@
       "external_ids": {
         "anilist": 166304
       }
+    },
+    {
+      "id": "takizawa",
+      "name": "Takizawa",
+      "alt_names": [
+        "滝沢"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166305-dnUFKoziLta6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166305
+      }
+    },
+    {
+      "id": "yui",
+      "name": "Yui",
+      "alt_names": [
+        "由井"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166306-RXNNeyjqoSgW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166306
+      }
+    },
+    {
+      "id": "yamagishi",
+      "name": "Yamagishi",
+      "alt_names": [
+        "山岸"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166307-OF3YBe8nw5iT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166307
+      }
+    },
+    {
+      "id": "kazuki-nagai",
+      "name": "Kazuki Nagai",
+      "alt_names": [
+        "長井和輝"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166309-pQv85l3uKXb9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166309
+      }
+    },
+    {
+      "id": "uda-no-parasite",
+      "name": "Uda no Parasite",
+      "alt_names": [
+        "宇田のパラサイト",
+        "Jaw"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166310-XyLGh2HLPv5r.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166310
+      }
+    },
+    {
+      "id": "katsumata",
+      "name": "Katsumata",
+      "alt_names": [
+        "勝股"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166312-SMDC5tpbWaVf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166312
+      }
+    },
+    {
+      "id": "mita",
+      "name": "Mita",
+      "alt_names": [
+        "三田"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166313-4Wiiu3enZakU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166313
+      }
+    },
+    {
+      "id": "katou",
+      "name": "Katou",
+      "alt_names": [
+        "加藤"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166314-DTsVgbljTZJ8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166314
+      }
+    },
+    {
+      "id": "hikawa",
+      "name": "Hikawa",
+      "alt_names": [
+        "氷川"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166315-kOonEelLxvTa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166315
+      }
+    },
+    {
+      "id": "maesawa",
+      "name": "Maesawa",
+      "alt_names": [
+        "前澤"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166316-snPah9JAnqaG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166316
+      }
+    },
+    {
+      "id": "misaki-no-haha",
+      "name": "Misaki no Haha",
+      "alt_names": [
+        "みさきの母",
+        "Misaki's Mother"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166317-9zmwwRig08Yw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166317
+      }
+    },
+    {
+      "id": "misaki",
+      "name": "Misaki",
+      "alt_names": [
+        "みさき"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166318-9H2FubG9zTrG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166318
+      }
+    },
+    {
+      "id": "miyake",
+      "name": "Miyake",
+      "alt_names": [
+        "三宅"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166319-qMSu0PPX61ND.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166319
+      }
+    },
+    {
+      "id": "fukami",
+      "name": "Fukami",
+      "alt_names": [
+        "深見"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166320-63psV1Zu0KLV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166320
+      }
+    },
+    {
+      "id": "itou",
+      "name": "Itou",
+      "alt_names": [
+        "伊藤"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166321-V9RXheB7pxgz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166321
+      }
+    },
+    {
+      "id": "nakano",
+      "name": "Nakano",
+      "alt_names": [
+        "中野"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166322-tHM6KeUPSUyg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166322
+      }
+    },
+    {
+      "id": "vice-principal",
+      "name": "Vice Principal",
+      "alt_names": [
+        "教頭"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166323-p1EU8pUIa4GW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166323
+      }
+    },
+    {
+      "id": "naitou",
+      "name": "Naitou",
+      "alt_names": [
+        "内藤"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166324-9PLxtuPrcay6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166324
+      }
+    },
+    {
+      "id": "taoka",
+      "name": "Taoka",
+      "alt_names": [
+        "田岡"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166325-FntfPq0tEKhJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166325
+      }
+    },
+    {
+      "id": "sasaki",
+      "name": "Sasaki",
+      "alt_names": [
+        "佐々木先生"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166326-ne2qc38CsvlW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166326
+      }
+    },
+    {
+      "id": "shirou-kuramori",
+      "name": "Shirou Kuramori",
+      "alt_names": [
+        "倉森志郎"
+      ],
+      "role": "supporting",
+      "description": "Shirou Kuramori is a Private Detective who is hired by [Reiko Tamura](https://anilist.co/character/16586/) to spy on [Shinichi Izumi](https://anilist.co/character/12323/).\n\n~!After becoming a liability, he is targeted and his family killed by parasites.!~\n\n(Source: Kiseijuu Fandom)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192962-zN4L8HZLEt0P.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192962
+      }
+    },
+    {
+      "id": "miki",
+      "name": "Miki",
+      "alt_names": [
+        "三木"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192963-MGSoPh73OBSA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192963
+      }
+    },
+    {
+      "id": "parasite-dog",
+      "name": "Parasite Dog",
+      "alt_names": [
+        "パラサイト犬"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166308-qDrG3aawS4Mt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 166308
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:31:31.249Z"
+  "updated_at": "2025-12-23T04:47:12.388Z"
 }

@@ -1,0 +1,19 @@
+{
+  "baseDir": "/home/pedro/projetos/char-lib/data",
+  "supportedTypes": ["anime", "manga"],
+  "maxWorksPerCycle": 2,
+  "characterLimit": 15,
+  "delayBetweenTypes": 300000,
+  "delayBetweenCycles": 600000,
+  "enrich": true,
+  "autoDeployEnabled": true,
+  "autoDeployThreshold": 10,
+  "autoDeployScripts": [
+    "npm run generate-indexes",
+    "npm run validate",
+    "npm run deploy"
+  ],
+  "logLevel": "info",
+  "autoRestart": true,
+  "maxRetries": 3
+}

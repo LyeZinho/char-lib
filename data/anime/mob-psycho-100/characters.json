@@ -1,6 +1,6 @@
 {
   "work_id": "mob-psycho-100",
-  "count": 25,
+  "count": 62,
   "characters": [
     {
       "id": "shigeo-kageyama",
@@ -585,7 +585,865 @@
       "external_ids": {
         "anilist": 133202
       }
+    },
+    {
+      "id": "mukai",
+      "name": "Mukai",
+      "alt_names": [
+        "無飼"
+      ],
+      "role": "supporting",
+      "description": "Mukai is an esper and a former member of Claw. She was the youngest member of the upper echelon called \"Scar\".",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133203-3HFMYp5gKL0H.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133203
+      }
+    },
+    {
+      "id": "toichirou-suzuki",
+      "name": "Toichirou Suzuki",
+      "alt_names": [
+        "鈴木統一郎",
+        "Boss"
+      ],
+      "role": "supporting",
+      "description": "Toichiro is an extremely powerful esper and the founder and leader of Claw.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133204-KKsIZxLqX7vF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133204
+      }
+    },
+    {
+      "id": "kaito-shiratori",
+      "name": "Kaito Shiratori",
+      "alt_names": [
+        "白鳥海斗"
+      ],
+      "role": "supporting",
+      "description": "Kaito is an esper, the twin brother of Daichi Shiratori, and one of the children who was invited to the Awakening Lab.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133205-pQBycuj1HaTb.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133205
+      }
+    },
+    {
+      "id": "daichi-shiratori",
+      "name": "Daichi Shiratori",
+      "alt_names": [
+        "白鳥大地"
+      ],
+      "role": "supporting",
+      "description": "Daichi is an esper, the twin brother of Kaito Shiratori, and one of the children who was invited to the Awakening Lab.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133206-tFIjRO4fkPwF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133206
+      }
+    },
+    {
+      "id": "souchou",
+      "name": "Souchou",
+      "alt_names": [
+        "総長"
+      ],
+      "role": "supporting",
+      "description": "Shouchou was a spirit who appeared early on in the anime adaptation.\nHe was the leader of a biker gang. They all died while riding through Honeido Tunnel when the rider at the front slipped on a banana peel and caused an explosive pile-up",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133207-An2buFutsKXN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133207
+      }
+    },
+    {
+      "id": "terada",
+      "name": "Terada",
+      "alt_names": [
+        "寺蛇"
+      ],
+      "role": "supporting",
+      "description": "Terada is an esper and a former member of Claw. He was part of the upper echelon called \"Scar\".",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133208-EvsNSbyX958v.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133208
+      }
+    },
+    {
+      "id": "mob-no-haha",
+      "name": "Mob no Haha",
+      "alt_names": [
+        "モブの母",
+        "Mob's mother"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133209-X4HAdCajIGsr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133209
+      }
+    },
+    {
+      "id": "mob-no-chichi",
+      "name": "Mob no Chichi",
+      "alt_names": [
+        "モブの父",
+        "Mob's father"
+      ],
+      "role": "supporting",
+      "description": "Mob's Father.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133210-Q5R7HEABrcYO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133210
+      }
+    },
+    {
+      "id": "kenji-mitsuura",
+      "name": "Kenji  Mitsuura",
+      "alt_names": [
+        "密裏賢治"
+      ],
+      "role": "supporting",
+      "description": "He is the founder of the Awakening Lab.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133380-2Ua2VK6awOSX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133380
+      }
+    },
+    {
+      "id": "shinji-kamuro",
+      "name": "Shinji Kamuro",
+      "alt_names": [
+        "神室真司"
+      ],
+      "role": "supporting",
+      "description": "He is the president of the student council at Salt Middle School.",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133381-RV0pRdJ00pfM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133381
+      }
+    },
+    {
+      "id": "hikaru-tokugawa",
+      "name": "Hikaru Tokugawa",
+      "alt_names": [
+        "徳川光"
+      ],
+      "role": "supporting",
+      "description": "He is the vice-president of the school council of Salt Mid.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133382-zCaMx9Zzcotv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133382
+      }
+    },
+    {
+      "id": "tenjouyaburi",
+      "name": "Tenjouyaburi",
+      "alt_names": [
+        "天井破り",
+        "Ceiling Crasher"
+      ],
+      "role": "supporting",
+      "description": "He was a spirit who appeared early on in the series. He was the first ghost to appear and be exorcized.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133383-xNIrhjb7orKD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133383
+      }
+    },
+    {
+      "id": "hiroshi-kumagawa",
+      "name": "Hiroshi Kumagawa",
+      "alt_names": [
+        "隈川弘"
+      ],
+      "role": "supporting",
+      "description": "He is part of the Body Improvement Club and a student of Salt Middle School.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133384-X8IqIvRj4kZB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133384
+      }
+    },
+    {
+      "id": "hideki-yamamura",
+      "name": "Hideki  Yamamura",
+      "alt_names": [
+        "山村秀樹"
+      ],
+      "role": "supporting",
+      "description": "He is a student of Salt Middle School and a member of the Body Improvement Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133385-XLzFPShjaw9g.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133385
+      }
+    },
+    {
+      "id": "jun-sagawa",
+      "name": "Jun Sagawa",
+      "alt_names": [
+        "佐川純"
+      ],
+      "role": "supporting",
+      "description": "He is a student of Salt Middle School and the president of the Body Improvement Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133389-a1LgX0kK4HmI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133389
+      }
+    },
+    {
+      "id": "hanako",
+      "name": "Hanako",
+      "alt_names": [
+        "花子"
+      ],
+      "role": "supporting",
+      "description": "She is Reigen's first client to appear in the series. \n\n~!Hanako had engaged in a sort of test of courage before coming to see Reigen; consequently, a ghost has been haunting her in her dreams. She had asked many psychics to help her and get rid of the ghost and eventually, accompanied by her boyfriend Taro, she asks for help from Arataka Reigen. She guides Reigen and Taro to the building with the ghost in question, after much scepticism about Reigen coming from her boyfriend. She recounts a tale of a man who struck his head on the ceiling of the building after seeing a cockroach, frightening Reigen. The ghost, Ceiling Crasher, haunting her appears, leading Reigen to attempt to exorcise it (unsuccessfully). Reigen calls in Mob, who exorcizes​ the ghost in front of her.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133390-94iJ0oyz1kqi.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133390
+      }
+    },
+    {
+      "id": "tarou",
+      "name": "Tarou",
+      "alt_names": [
+        "太郎",
+        "Taro"
+      ],
+      "role": "supporting",
+      "description": "Tarou is Hanako's lover and a character that appears early on in the series. He is an aggressive skeptic of the supernatural and of psychics. He seems protective or relatively concerned about his lover.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133391-D18of2V5pfzY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133391
+      }
+    },
+    {
+      "id": "nioikagi",
+      "name": "Nioikagi",
+      "alt_names": [
+        "匂い嗅ぎ",
+        "Scent-Ghoul"
+      ],
+      "role": "supporting",
+      "description": "He was a spirit who appeared and made his home terrorizing the students at a private girls' high school.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133392-IIslFIHFvWAX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133392
+      }
+    },
+    {
+      "id": "haruto-kijibayashi",
+      "name": "Haruto  Kijibayashi",
+      "alt_names": [
+        "稚子林春人"
+      ],
+      "role": "supporting",
+      "description": "He is a third-year middle school student and a member of the Telepathy Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133395-lPVdisYhxMnp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133395
+      }
+    },
+    {
+      "id": "mariko",
+      "name": "Mariko",
+      "alt_names": [
+        "マリコ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133396-kgjGGvd4xWbl.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133396
+      }
+    },
+    {
+      "id": "shirihiko-saruta",
+      "name": "Shirihiko Saruta",
+      "alt_names": [
+        "猿田尻彦"
+      ],
+      "role": "supporting",
+      "description": "He is a first-year middle school student and a member of the Telepathy Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133398-mEXR6X175mm2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133398
+      }
+    },
+    {
+      "id": "kamen-no-onna",
+      "name": "Kamen no on'na",
+      "alt_names": [
+        "仮面の女",
+        "Masked Woman"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133871-f8MmheCFvW3W.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133871
+      }
+    },
+    {
+      "id": "yamazaki",
+      "name": "Yamazaki",
+      "alt_names": [
+        "山崎"
+      ],
+      "role": "supporting",
+      "description": "Yamazaki is a student of the Salt Middle School and a member of Tenga Onigawara's gang.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133872-cj6XIQ3FTR2V.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133872
+      }
+    },
+    {
+      "id": "mameta-inukawa",
+      "name": "Mameta  Inukawa",
+      "alt_names": [
+        "犬川豆太"
+      ],
+      "role": "supporting",
+      "description": "He is a second-year middle school student and a member of the Telepathy Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n134013-fL3rFeCOOIRJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134013
+      }
+    },
+    {
+      "id": "ryohei-shimura",
+      "name": "Ryohei Shimura",
+      "alt_names": [
+        "志村遼平"
+      ],
+      "role": "supporting",
+      "description": "He is a student of Salt Middle School and a member of the Body Improvement Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135297-uveHB0flYv9B.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135297
+      }
+    },
+    {
+      "id": "mari",
+      "name": "Mari",
+      "alt_names": [
+        "まり"
+      ],
+      "role": "supporting",
+      "description": "She is a student of the Highso Private Girls' Academy and was a client of Arataka Reigen.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137017-lZgZCWErdgG2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137017
+      }
+    },
+    {
+      "id": "hitoshi",
+      "name": "Hitoshi",
+      "alt_names": [
+        "人氏"
+      ],
+      "role": "supporting",
+      "description": "He was a client of Arataka Reigen, he wanted to speak with his deceased father about a password to a safe.\n\n~!He attempted to stab Reigen to get the combo but was knocked out by Reigen.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137026-Cz00CDYc8BSN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137026
+      }
+    },
+    {
+      "id": "akagi",
+      "name": "Akagi",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Akagi is the gang leader of the Pasta Soup Middle School.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215411-I36P8JKz0uRx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215411
+      }
+    },
+    {
+      "id": "fuji",
+      "name": "Fuji",
+      "alt_names": [
+        "富士"
+      ],
+      "role": "supporting",
+      "description": "Fuji is the gang leader of the Miso Middle School.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216563-OlOEDIXs8JpK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216563
+      }
+    },
+    {
+      "id": "gen",
+      "name": "Gen",
+      "alt_names": [
+        "ゲン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216565-BFGxWNrE2bhZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216565
+      }
+    },
+    {
+      "id": "gozu",
+      "name": "Gozu",
+      "alt_names": [
+        "五頭"
+      ],
+      "role": "supporting",
+      "description": "Gozu is the gang leader of the Mayo Middle School.\nHe attempts to fight Koyama, but is defeated.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216566-IroemEwc3mRJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216566
+      }
+    },
+    {
+      "id": "bandai",
+      "name": "Bandai",
+      "alt_names": [
+        "磐梯"
+      ],
+      "role": "supporting",
+      "description": "Bandai is the gang leader of the Soy Sauce Middle School.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216567-eez39YobM4Sn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216567
+      }
+    },
+    {
+      "id": "joutenin",
+      "name": "Joutenin",
+      "alt_names": [
+        "女店員",
+        "Female con-artist"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216573-42gMgNvGNXf5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216573
+      }
+    },
+    {
+      "id": "otoko-tenin",
+      "name": "Otoko Tenin",
+      "alt_names": [
+        "男店員",
+        "Male con-artist"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216574-M7JuMZQTDipx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216574
+      }
+    },
+    {
+      "id": "momozou-takenaka",
+      "name": "Momozou  Takenaka",
+      "alt_names": [
+        "竹中桃蔵"
+      ],
+      "role": "minor",
+      "description": "Takenaka is originally introduced as an image-conscientious character pushed into the Telepathy Club similarly to Mob. However, once it is revealed that he is a Telepath, he is shown to be standoffish despite his humor and tendency to tease others. He feels lonely given his telepathy and is overwhelmed by the consciousness of society.\n\n~!Takenaka had previously filled a gap in the Telepathy Club to maintain the minimum number of members needed for the club. He had no interest in the club or in telepathy. He worried about how people looked at him because of his club membership, so he decided to leave the club. As a result of him leaving the club, Tome Kurata had to find a new member to keep the club open. He is later revealed to have joined the tennis club.\n\nIn chapter 98 he is revealed to be a telepath. He returned to their former club room investigate the telepathic ringing generated by Mob and Shiratori brothers. He is subsequently recruited to help contact extraterrestrial life, although he only joins out of obligation.\n\nLater, he is revealed to have actually memorized the summoning formation and incantation despite knowing it to be a hoax, as he didn't want to ruin their memory. He proceeds to spend his New Years' with the others after successfully coming into contact with alien lifeforms.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133388-bLMvH7JlJNl0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133388
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "minor",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
+    },
+    {
+      "id": "puri-puri-prisoner",
+      "name": "Puri-Puri Prisoner",
+      "alt_names": [
+        "ぷりぷりプリズナー",
+        "Pretty Pretty Prisoner",
+        "Puri-Puri Purisoner"
+      ],
+      "role": "minor",
+      "description": "__Occupation:__ Superhero \n__Level:__ S-Class; Rank 17\n\nPuri-Puri Prisoner is a flamboyant, openly homosexual superhero. He takes an interest in other, up-and-coming heroes and criminals; an interest which led to his titular jail sentence, as he kept attacking them. Criminals that he apprehends are then added to his harem.",
+      "metadata": {
+        "gender": "male",
+        "age": "33",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n86029-iomUtQtGfJOU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 86029
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:17:31.663Z"
+  "updated_at": "2025-12-23T03:15:17.135Z"
 }

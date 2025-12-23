@@ -1,6 +1,6 @@
 {
   "work_id": "vinland-saga",
-  "count": 25,
+  "count": 38,
   "characters": [
     {
       "id": "thorfinn-karlsefni",
@@ -596,7 +596,329 @@
       "external_ids": {
         "anilist": 156507
       }
+    },
+    {
+      "id": "aki",
+      "name": "Áki",
+      "alt_names": [
+        "アーク",
+        "Ake",
+        "Åge"
+      ],
+      "role": "supporting",
+      "description": "A member of Askeladd's band.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156508-r7u8QLyKbr7B.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156508
+      }
+    },
+    {
+      "id": "jabbathe",
+      "name": "Jabbathe",
+      "alt_names": [
+        "ジャバザ"
+      ],
+      "role": "supporting",
+      "description": "is a frank nobleman, who with the help of Askeladd was able to overtake a strong frank fortress.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156509-84FKSZxg1JBA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156509
+      }
+    },
+    {
+      "id": "magni",
+      "name": "Magni",
+      "alt_names": [
+        "マグニ"
+      ],
+      "role": "supporting",
+      "description": "is a young man from Thorfinn's village.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156510-kHwEAWMbHLq1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156510
+      }
+    },
+    {
+      "id": "grim",
+      "name": "Grim",
+      "alt_names": [
+        "グリム",
+        "Grimm"
+      ],
+      "role": "supporting",
+      "description": "A young man from Thorfinn's village.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156511-EZjKX7oNkaPv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156511
+      }
+    },
+    {
+      "id": "haldor",
+      "name": "Haldor",
+      "alt_names": [
+        "ハッルドール"
+      ],
+      "role": "supporting",
+      "description": "Haldor is a warrior living in England.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156513-YP3UOu21XAbZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156513
+      }
+    },
+    {
+      "id": "tore",
+      "name": "Tore",
+      "alt_names": [
+        "トーレ"
+      ],
+      "role": "supporting",
+      "description": "is a member of Askeladd's band.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156514-Bz6bnIhPCOft.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156514
+      }
+    },
+    {
+      "id": "gratianus",
+      "name": "Gratianus",
+      "alt_names": [
+        "グラティアヌス"
+      ],
+      "role": "supporting",
+      "description": "Gratianus is a Welsh warrior serving as a captain of Morgannwg's military.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156515-2CuUwCXo0XVG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156515
+      }
+    },
+    {
+      "id": "gunnar",
+      "name": "Gunnar",
+      "alt_names": [
+        "グンナル"
+      ],
+      "role": "supporting",
+      "description": "He is Ragnar's Brother.\n~!now he is a politician who currently serves as an adviser to King Canute.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156517-cafNAxFz1QAx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156517
+      }
+    },
+    {
+      "id": "mord",
+      "name": "Mord",
+      "alt_names": [
+        "モード"
+      ],
+      "role": "supporting",
+      "description": "Mord is a young man from Thorfinn's village.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232482-ess292WyFgcz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 232482
+      }
+    },
+    {
+      "id": "hakon",
+      "name": "Hakon",
+      "alt_names": [
+        "ハーコン",
+        "Harkon"
+      ],
+      "role": "supporting",
+      "description": "A young man from Thorfinn's village.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232483-mGQrRKJtPaJh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 232483
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "minor",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
+    },
+    {
+      "id": "hordaland",
+      "name": "Hordaland ",
+      "alt_names": [
+        "ホルザランド"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b147777-ZPAMF8oz9Rmv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 147777
+      }
+    },
+    {
+      "id": "anne",
+      "name": "Anne",
+      "alt_names": [
+        "アン"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b149584-FxdawVQg19at.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 149584
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:30:44.363Z"
+  "updated_at": "2025-12-23T06:10:17.021Z"
 }

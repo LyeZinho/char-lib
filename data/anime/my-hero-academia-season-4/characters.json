@@ -1,6 +1,6 @@
 {
   "work_id": "my-hero-academia-season-4",
-  "count": 25,
+  "count": 111,
   "characters": [
     {
       "id": "izuku-midoriya",
@@ -650,7 +650,2113 @@
       "external_ids": {
         "anilist": 89899
       }
+    },
+    {
+      "id": "tooru-hagakure",
+      "name": "Tooru Hagakure",
+      "alt_names": [
+        "葉隠透",
+        "Toru",
+        "Stealth Hero: Invisible Girl (ステルスヒーロー インビジブルガール)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 152 cm (5'0\")\n__Quirk:__ Invisibility \n\nStudent in Class 1-A at U.A. High School.\n\nTooru is a bubbly, cheery, and easygoing girl who does most things with an upbeat attitude. She is very socially eager and likes shopping, and her room suggests that she likes plushies and other cute things.\n\nTooru's Quirk is that her body is completely invisible. In addition to the stealth capabilities granted to her by her invisible body, Tooru can refract light that passes through her, allowing her to intensify the light into a blinding flash. She has further refined this application of her Quirk, achieving the ability to manipulate and redirect light-based attacks, such as Yuuga Aoyama''s Navel Laser.\n\n(Source: My Hero Academia Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89900-QOH8tvJgtFVj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89900
+      }
+    },
+    {
+      "id": "kouji-kouda",
+      "name": "Kouji Kouda",
+      "alt_names": [
+        "口田甲司",
+        "Koji Koda",
+        "Petting Hero: Anima",
+        "Fureai Hero: Anima (ふれあいヒーロー アニマ)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 186 cm (6'1\")\n__Quirk:__ Anivoice\n\nStudent in Class 1-A at U.A. High School.\n\nContrary to his strong and powerful appearance, Kouji is very timid and quiet. He rarely speaks and prefers using sign language to communicate with his classmates. He hates violence due to his kind-hearted nature. Kouji appears to greatly enjoy the company of animals, as his Quirk allows him to interact with animals in ways others cannot. He owns a small rabbit as a pet.\n\nKouji's Quirk \"Anivoice (生き物ボイス, Ikimono Voice)\" gives him the ability to command any creature in the animal kingdom by speaking to them. Whatever command he gives, the animal will carry it out. However, he cannot exert control if they cannot hear his command. The target must also be a real animal and not merely animal-like. Kouji can also exchange information with the animals to find the locations of various people and potential enemies faster. Kouji has been shown to use the Quirk effectively with flocks of birds to create a smokescreen of animals and to attack an opponent, along with his use of insects to distract and attack his opponents. He has now also overcome his fear of bugs, so he often uses bugs to swarm opponents with numbers.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89901-XCnkga69pLN9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89901
+      }
+    },
+    {
+      "id": "rikidou-satou",
+      "name": "Rikidou Satou",
+      "alt_names": [
+        "砂藤力道",
+        "Rikido Sato",
+        "Sweets Hero: Sugarman (甘味ヒーローシュガーマン)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 185 cm (6'1\")\n__Quirk:__ Sugar Rush\n\nStudent in Class 1-A at U.A. High School.\n\nRikidou is interested in sweets and baking, a valuable skill due to his Quirk. He is surprisingly talented at making sweets.\n\nRikidou's Quirk Sugar Rush allows him to increase his strength five-fold for three minutes. To activate his Quirk, he needs to consume 10 grams of sugar. When converting sugar into strength, his cognitive functions gradually drop, making him sleepy afterward. For every additional 10 grams of sugar he ingests, he extends the time of increased strength by another three minutes.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89902-LXStXzlmI70R.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89902
+      }
+    },
+    {
+      "id": "yuu-takeyama",
+      "name": "Yuu Takeyama",
+      "alt_names": [
+        "岳山優",
+        "Mt. Lady (Mt.レディ)",
+        "Lady",
+        "Mineyama Hero: Mt. Lady"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 162 cm (5'4\") (Normal form); 2062cm (67'8\") (Transformed)\n__Quirk:__ Gigantification\n__Occupation:__ Pro Hero\n\nPro Hero. Her Quirk allows her to grow to a gigantic size. She cannot variate between her base-height and the gigantified height achieved via her Quirk, making her only able to be either her normal height of 162cm (5 feet 4 inches) or her enlarged height of 2,062cm (67 feet 8 inches) tall.",
+      "metadata": {
+        "gender": "female",
+        "age": "22-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121529-uVxKmxh0QvQi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121529
+      }
+    },
+    {
+      "id": "neito-monoma",
+      "name": "Neito Monoma",
+      "alt_names": [
+        "物間寧人",
+        "Phantom Thief (ファントムシーフ)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170cm\n__Quirk:__ Copy\n\nStudent in Class 1-B at U.A. High School.\n\nNeito has a rather complex personality since it differs depending on who he is addressing; he is particularly mocking, loud, and sarcastic with Class 1-A, but outside of these interactions, he is a calm, kind, and intelligent person. He envies Class 1-A with a passion over how they became the center of attention among U.A.'s first years because of the U.S.J. Incident. Truthfully, he only wants his class to stand out as they do, and he vents this feeling by throwing countless taunts towards his rivals, gloating over Class 1-B's successes and disparaging 1-A for their failures. \n\nNeito's Quirk is Copy, which allows him to duplicate and use another person's Quirk after coming into physical contact with the user. He can hold four Quirks simultaneously and maintain copied powers for ten minutes. After the time limit runs out, he loses the copied Quirk until he once again touches the original user.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125450-3zpOZwFtlYPp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125450
+      }
+    },
+    {
+      "id": "himiko-toga",
+      "name": "Himiko Toga",
+      "alt_names": [
+        "渡我被身子"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 157 cm\n__Quirk:__ Transform\n\nHimiko Toga is a villain affiliated with the League of Villains and part of its Vanguard Action Squad. She originally joined the group as a means to get closer to Stain.\n\nHimiko is a very cheerful girl, to the point of smiling even after having presumably killed someone, displaying apparent sadistic tendencies. She has a very twisted perception of love and friendship\n\nHimiko's Quirk Transform grants her the ability to transform into a physical lookalike of another individual, as well as copy their voice. She can only transform into people whose blood she has ingested. The more blood she drinks, the longer she has access to that person's form. For example, 1 cup of blood allows her to transform for a total of 18 hours. She can even switch between the appearances of multiple people if she drinks the blood of more than one person. \n\n(Source: My Hero Academia Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "16-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125619-iQxQoGHJvjRJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125619
+      }
+    },
+    {
+      "id": "tamaki-amajiki",
+      "name": "Tamaki Amajiki",
+      "alt_names": [
+        "天喰環",
+        "Suneater (サンイーター)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 177cm (5'10\")\n__Quirk:__ Manifest \n\nThird-year student in Class 3-A at U.A. High School and part of The Big 3 (the strongest three hero students in all of Japan). \n\nTamaki is extremely shy, aloof, depressed, \"intimidating\", and introverted, especially around big audiences. He gets nervous very easily when talking to other people. If his anxiety gets the best of him, Tamaki will often face away and lean into a wall to hide his face from others. While his physical abilities and Quirk are outstanding, Tamaki is socially awkward and lacks confidence in his powers. Despite his timid heart, Tamaki can show flashes of bravery. Even though he's always been a shy and reserved boy, Tamaki was able to hone his skills and climb the ranks into one of U.A.'s Big 3. Mirio Togata is a big inspiration for Tamaki.\n\nTamaki's Quirk Manifest grants him the ability to manifest the physical characteristics of anything he's eaten; for example, if he eats takoyaki, he can transform his fingers into octopus tentacles. Additionally, anything Tamaki manifests is significantly stronger than normal. The more of a substance Tamaki eats, the stronger his manifestation will be. He can only manifest the traits of substances still in his system and loses access to those traits once the substance is fully digested. He must resupply his Quirk daily and decide what foods to eat beforehand.\n\n(Source: My Hero Academia Wiki)",
+      "metadata": {
+        "gender": "male",
+        "age": "17-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125934-luh5LqQ6NnJF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125934
+      }
+    },
+    {
+      "id": "all-for-one",
+      "name": "All For One",
+      "alt_names": [
+        "オール・フォー・ワン",
+        "Aku no Shouchou (悪の象徴)",
+        "Symbol of Evil"
+      ],
+      "role": "supporting",
+      "description": "__Quirk:__ All For One\n__Occupation:__ Villain\n__Fighting Style:__ Close Range and Long Range\n\nAll For One is the true leader and benefactor of the League of Villains. Once Japan's most powerful villain and All Might's arch-nemesis, his true motives are unclear and his true identity unknown. His current goal is to raise Shigaraki to become his eventual successor.\n\n(Source: Boku no Hero Academia Wikia)",
+      "metadata": {
+        "gender": "male",
+        "age": "100+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125956-jzhb8Z4peLb8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125956
+      }
+    },
+    {
+      "id": "shuuichi-iguchi",
+      "name": "Shuuichi Iguchi",
+      "alt_names": [
+        "伊口秀一",
+        "Spinner (スピナー)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 174 cm\n__Occupation:__ Villain\n__Affiliation:__ League of Villains (formerly), Paranormal Liberation Front (Lieutenant of Brown Regiment)\n__Quirk:__ Gecko\n\nShuuichi is a villain affiliated with the League of Villains and part of its Vanguard Action Squad. He is completely obsessed with the ways of [Stain](https://anilist.co/character/126067) to the point where he copies his clothing and weaponry style, aiming to follow the same ideals as him and make his dreams come true.\n\n(Source: Boku no Hero Academia Wikia)",
+      "metadata": {
+        "gender": "male",
+        "age": "20-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126005-4MLIKsaBXnhu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126005
+      }
+    },
+    {
+      "id": "itsuka-kendou",
+      "name": "Itsuka Kendou",
+      "alt_names": [
+        "拳藤一佳",
+        "Kendo",
+        "Battle Fist (バトルフィスト)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 166 cm (5'5\")\n__Quirk:__ Big Fist\n\nClass representative of Class 1-B at U.A. High School,\n\nItsuka is a spirited girl who is thoughtful of others. She does not hesitate to criticize even her classmates if she feels what they are doing is not correct. Due to Itsuka's cheerful personality, she can bring all of Class 1-B together, thus making her the \"big sister\" of Class 1-B. \n\nItsuka's Quirk Big Fist grants her the ability to enlarge both of her hands to a gigantic size. With the increased size comes enhanced striking power and gripping capabilities.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126064-xJCuJjtODlU2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126064
+      }
+    },
+    {
+      "id": "enji-todoroki",
+      "name": "Enji Todoroki",
+      "alt_names": [
+        "轟炎司",
+        "Endeavor (エンデヴァー)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 195 cm (6' 4¾\")\n__Occupation:__ Pro Hero\n__Quirk:__ Hellflame\n\nEndeavor is a tall man with a muscular physique. He has short and spiky, red hair with bright blue eyes. His beard and mustache appear to be made of fire, but when he turns off his flames on his face voluntarily, his stubble shows.\n\n~!His desire to surpass the number one hero has driven him in family matters. Enji put Shouto through ruthless \"training\" which caused Shouto a severe degree of physical and emotional pain. Shouto, harboring a bitter hatred towards his father on account of this, refuses to use his fire powers in battles until Izuku Midoriya reminded him of his mother's encouragement. Later, Enji understood his mistakes and told his son he would try to be a better hero and father. He hopes for Shouto and the rest his family to forgive him in the future. !~\n\n~!He's the former No.2 Hero, but later becomes the new No.1 Hero after All Might loses his Quirk!~",
+      "metadata": {
+        "gender": "male",
+        "age": "45",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126158-Wix9rh7unTDQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126158
+      }
+    },
+    {
+      "id": "dabi",
+      "name": "Dabi",
+      "alt_names": [
+        "荼毘"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 176 cm (5'9¼\")\n__Quirk:__ Blueflame\n\nDabi is a villain affiliated with the League of Villains and a member of the organization's Vanguard Action Squad. \n\nDabi is a stoic, aloof, confident, and focused individual who rarely shows emotion. While rather crude and violent, he's also shown to be quite cautious. Overall, Dabi is a highly enigmatic individual who trusts no one, preferring to do things alone and in his way. He also gives off the impression of knowing more about certain people than he lets on.\n\nDabi's Quirk grants him the ability to generate and control highly destructive blue flames from his body. He has very well-developed control of his flames and can project them far from himself and in large amounts. However, Dabi's body has a low tolerance for his flame, and he will get burned if he uses them for prolonged periods. \n\n~!It is later revealed that Dabi is Touya Todoroki (轟燈矢), the eldest son of the Pro Hero Endeavor and his wife Rei, and the older brother to Shouto Todoroki. For a significant period of time, his whereabouts were unknown.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "24-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126378-RFSljq5koy5U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126378
+      }
+    },
+    {
+      "id": "camie-utsushimi",
+      "name": "Camie Utsushimi",
+      "alt_names": [
+        "現見ケミィ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 161 cm (5'3\")\n__Affiliation:__ Shiketsu High School (Second-Year Student)\n__Quirk:__ Glamour\n\nCamie seems to be very talkative, especially when learning more about people who pique her interest. She was thrilled upon seeing Shoto Todoroki for the first time, delighted at the fact that she would both meet a handsome man as well as undergo training. According to Inasa Yoarashi, she has impressive \"interaction techniques\" because she asked for Todoroki's contact info. She also tends to speak in a unique way and incorporates a strange type of slang in it, which tends to confuse those around her. According to herself she also loves children. Camie's Quirk allows her to create both visual and auditory illusions for a short period of time.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126734-UzWlE0sz46uH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126734
+      }
+    },
+    {
+      "id": "nejire-hadou",
+      "name": "Nejire Hadou",
+      "alt_names": [
+        "波動ねじれ",
+        "Nejire Hado"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 164 cm (5'4\")\n__Occupation:__ Student\n__Quirk:__ Wave Motion (ability to convert body's vitality into energy that can discharge as blast waves)\n\nShe is third-year student at U.A. High School and is part of The Big 3 _(the strongest three hero students in all of Japan)_. \n\nNejire is very enthusiastic, affable and cheery, and is always seen moving. She shows great interest in people's unique physical features and is easily distracted by them. She seems to like knowing more than others, but not in a proud way, as she just enjoys explaining things to people and sharing her knowledge.\n\nDespite her happy-go-lucky personality, Nejire is fierce in battle. When the situation calls for it, Nejire can be very calm and focused. Her curiosity never seems to extend to the enemy and she always maintains her focus on taking them down.",
+      "metadata": {
+        "gender": "female",
+        "age": "17-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126843-Er6fBr1zk5vo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126843
+      }
+    },
+    {
+      "id": "inasa-yoarashi",
+      "name": "Inasa Yoarashi",
+      "alt_names": [
+        "夜嵐イナサ",
+        "Gale Force",
+        "Baldy"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 190 cm (6'3\")\n**Affiliation:** Shiketsu High School (First-Year Student)\n**Quirk:** Whirlwind\n\nInasa is an energetic and enthusiastic young man who expresses himself with vigor. He's very loud, oddly polite, and values passion over anything else. Inasa believes that all heroes have \"hot spirits\" that enable them to motivate and help others. He disapproves of heroes who do not embody the spirit of passion, which is why he has negative feelings about Endeavor and his son.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126855-TzRPLSix0CEb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126855
+      }
+    },
+    {
+      "id": "yuuga-aoyama",
+      "name": "Yuuga Aoyama",
+      "alt_names": [
+        "青山優雅",
+        "Yuga Aoyama",
+        "Shining Hero: Can't Stop Twinkling",
+        "Kagayaki Hero: Can't Stop Twinkling (輝きヒーロー)"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 168 cm (5'6\")\n**Quirk:** Navel Lazer\n\nStudent in Class 1-A at U.A. High School.\n\nYuuga appears to be vain and prideful, thinking of himself as superior to the rest of his classmates, especially regarding his Quirk. He exhibits flamboyant mannerisms, is fond of posing, and likes to grab the attention of those around him despite frequently getting ignored by his peers. He also plays up his French heritage, occasionally implementing French words into his sentences.\n\nYuuga's Quirk allows him to shoot a powerful sparkling laser cannon from his navel. It is so powerful, it can blast through two meters of solid concrete. If he fires the laser for more than 1 second at a time, he will suffer intestinal distress.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127042-a6dlcC3ZYSDx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127042
+      }
+    },
+    {
+      "id": "tetsutetsu-tetsutetsu",
+      "name": "Tetsutetsu Tetsutetsu",
+      "alt_names": [
+        "鉄哲徹鐵",
+        "Real Steel (リアルスティール)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 174cm (5'9\")\n__Quirk:__ Steel\n\nStudent in Class 1-B at U.A. High School.\n\nTetsutetsu is defined by his very hotheaded and outspoken personality.  He is confident, stubborn, and straightforward in his motivations and actions. He tends to be very vocal about his intentions and has a one-track mind, often looking for the simplest solution to problems to solve them most directly. Tetsutetsu's direct personality shows through his tenacious and upfront fighting style during battles.\n\nTetsutetsu's Quirk allows him to turn his body into steel. This power grants Tetsutetsu both augmented defensive abilities to withstand attacks and the increased strength of his unarmed physical attacks.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127043-zbvDStalaHnZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127043
+      }
+    },
+    {
+      "id": "hizashi-yamada",
+      "name": "Hizashi Yamada",
+      "alt_names": [
+        "山田ひざし",
+        "Voice Hero: Present Mic (プレゼント・マイク)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 185cm (6'1\")\n__Quirk:__ Voice\n\nPro Hero. He also works as an English teacher at U.A. High School and as a radio talk show host.\n\nYamada maintains the eccentric persona of a radio host. He often poses when he talks and maintains a certain level of excitement or volume, regardless of the situation. Though he tends to be a jovial individual, Hizashi is capable of great rage when it comes to his friends and colleagues.\n\nYamada's Quirk \"Voice\" allows him to increase the volume of his voice, giving him an ability that is similar to a sonic scream. The sound from his Quirk is strong enough to cause people's ears to bleed from far away. The only known weakness of this Quirk is that the loud sounds do not travel well underground, making this Quirk ineffective against anything that is underground or separated from him by layers of earth.",
+      "metadata": {
+        "gender": "male",
+        "age": "30-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127425-POL7I9NC4emH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127425
+      }
+    },
+    {
+      "id": "nemuri-kayama",
+      "name": "Nemuri Kayama",
+      "alt_names": [
+        "香山睡",
+        "R-Rated Hero: Midnight",
+        "Juu-hachi Kin Hero: Midnight (18禁ヒーロー ミッドナイト_"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 175 cm (5'9\")\n__Quirk:__ Somnambulist\n\nPro Hero. She also works as a Modern Hero Art History teacher at U.A. High School.\n\nNemuri is a very playful and flirtatious person with an unpredictably serious and temperamental side to her. She gets angry whenever someone interrupts her or insults her. She is especially sensitive about her age. Despite her flirtatious personality, Nemuri was intelligent, perceptive, and articulate. While she comes off as a hero who enjoys her fame derived from her beauty and sex appeal, Nemuri has demonstrated true heroism and bravery, willing to fight on the front lines and put her life at risk for others.\n\nNemuri's Quirk \"Somnambulist\" allows her to put nearby people to sleep by exuding a sleep-inducing aroma from her body. Her Quirk works better on males than females.",
+      "metadata": {
+        "gender": "female",
+        "age": "31-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127427-urv42J2E7TZ2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127427
+      }
+    },
+    {
+      "id": "sorahiko-torino",
+      "name": "Sorahiko Torino",
+      "alt_names": [
+        "酉野空彦",
+        "Gran Torino (グラントリノ)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 128 cm (4'2\")\n__Affiliation:__ Yuuei (Retired)\n__Quirk:__ Jet\n\nA retired hero who is one of All Might's colleagues and his former homeroom teacher. He was the one who taught All Might to control One For All during the his early days, and his training was so intense that All Might fears him to the point he subconsciously tried to forget about him until Grantorino sent his recommendation for Izuku to help him improve One For All, becoming his work place mentor. His Quirk is \"Jet,\" allowing him to take in air through the sole of his foot to allow him to jump higher.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127428-CRQhdmFk9I8a.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127428
+      }
+    },
+    {
+      "id": "keigo-takami",
+      "name": "Keigo Takami",
+      "alt_names": [
+        "鷹見啓悟",
+        "Hawks (ホークス)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 172 cm (5' 7¾\")\n__Occupation:__ Pro Hero (No.3 - former, No.2 - current)\n__Quirk:__ Fierce Wings\n__Affiliation:__ Hero Public Safety Commission, ~! Paranormal Liberation Front (as a spy) !~\n\nHawks is carefree, jovial, and dislikes formalities, often acting in a spontaneous and unpredictable way while being cocky and taunting. He believes that popular approval is the most important metric a Pro Hero should be judged for, and does not appear to take the official rankings seriously, showing a preference for the lower ranks as it would allow him to act more freely and avoid the burdens of being a top hero. He states his wish to patrol in a leisurely fashion and \"take it easy\".\n\nIt is hinted that Hawks was a fan of Endeavor from an early age, as depicted by the drawing of him as a child holding an Endeavor figurine.\n\n(Source: Boku no Hero Academia Wiki)",
+      "metadata": {
+        "gender": "male",
+        "age": "22 (first appearance), 23 (current)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128299-eMEsWazNXE56.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128299
+      }
+    },
+    {
+      "id": "taishirou-toyomitsu",
+      "name": "Taishirou Toyomitsu",
+      "alt_names": [
+        "豊満太志郎",
+        "BMI Hero",
+        "Fat Gum (ファットガム)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 250 cm (8'2\") (Fat form)\n__Quirk:__ Fat Absorption\n\nIn his fat form, Taishiro is a big round man, easily towering over other adults. In this form, his mouth is big, and his nose is smaller, which alongside his odd body proportions, give him an odd look. After burning through his fat, however, it is revealed that he is quite muscular, and his body adapts conventional proportions.\n\nHis hero costume consists of black pants and an orange zippered hood, which has the initials of his alias on the front of Fat Gum. Alongside them, he also wears gloves, metallic boots, and a mask that covers his eyes and his forehead.",
+      "metadata": {
+        "gender": "male",
+        "age": "29",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129755-SWhEgTR2pwXv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129755
+      }
+    },
+    {
+      "id": "manami-aiba",
+      "name": "Manami Aiba",
+      "alt_names": [
+        "相場愛美",
+        "La Brava (ラブラバ)",
+        "Honey"
+      ],
+      "role": "supporting",
+      "description": "__Quirk:__ Love\n\nManami is a short woman who wears an elaborate outfit with several heart motifs, such as heart-shaped earrings, belt buckles, and a bowtie. She also wears a buttoned shirt with frilly cuffs, gloves, small high-heeled boots and, similar to Danjuro Tobita, a pair of poofy pinstriped pants, though hers boast a unique heart design near her inner thighs.\n\nManami's hair is arranged in pigtails with one large side-swept bang in the middle, and her eyes are big with ringed pupils. She appears to have dark circles around them.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129756-PfqvhMnYR9o5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129756
+      }
+    },
+    {
+      "id": "shinji-nishiya",
+      "name": "Shinji Nishiya",
+      "alt_names": [
+        "西屋森児",
+        "Kamui Woods",
+        "Shinrin Kamui (シンリンカムイ)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 168 cm (5'6\")\n__Quirk:__ Arbor\n\nPro Hero. \n\nUnderneath his helmet, he has puffy red leaf-like hair, though his face has remained unseen since he has only been shown while wearing his mask. Shinji is a very serious and focused person when it comes to being a hero in his hero duties; however, he easily feels down when someone takes his glory or credit. \n\nShinji's Quirk \"Arbor\" (樹木, Jumoku) allows him to enlarge and control his wooden body parts into strong tree branches. These branches are excellent for binding.",
+      "metadata": {
+        "gender": "male",
+        "age": "27-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129758-Za9Rd3Jw2rWU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129758
+      }
+    },
+    {
+      "id": "natsuo-todoroki",
+      "name": "Natsuo Todoroki",
+      "alt_names": [
+        "轟夏雄"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 181cm\n\nNatsuo Todoroki is a college student. He is the son of Enji and Rei Todoroki, the younger brother of Toya and Fuyumi, and the older brother of Shoto.\n\nNatsuo is a young man of average height, sporting white spiky hair with two small pieces of hair hanging down by his forehead. He greatly resembles his father at his age.\n\nNatsuo seems to be a care-free individual, as seen in his interactions with him and his family. However, he can be serious, and cares deeply for his family, except his father who he resents for his abusive treatment to his family. He does not feel forgiving to his father, blaming him for his mother Rei's hospitalization and Shoto's suffering.\n\n(Source: MHA Wiki)",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129759-NKEqNgefypJF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129759
+      }
+    },
+    {
+      "id": "danjuurou-tobita",
+      "name": "Danjuurou Tobita",
+      "alt_names": [
+        "飛田弾柔郎",
+        "Gentle Criminal (ジェントル・クリミナル)",
+        "Gentle"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 181cm (5'11\")\n__Quirk:__ Elasticity\n\nDanjuro is a man with a refined appearance. He has a slicked back hairdo with a curl at the front. He sports a handlebar mustache along with a well-kept, medium-sized beard.\n\nDanjuro's clothes are also quite extravagant, featuring a jacket with enlarged collars and coattails, a pair of loose pinstriped pants and two belts. He also wears a pair of cuffs and a woolly scarf, and he uses a cane to walk.",
+      "metadata": {
+        "gender": "male",
+        "age": "32",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129760-rIgYYYwWUvWm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129760
+      }
+    },
+    {
+      "id": "naomasa-tsukauchi",
+      "name": "Naomasa Tsukauchi",
+      "alt_names": [
+        "塚内直正"
+      ],
+      "role": "supporting",
+      "description": "Naomasa Tsukauchi is a police detective in the Police Force.\n\nNaomasa is a tall man with short black hair and black eyes. As a member of the police force, he is normally seen in his uniform. He wears a signature tan overcoat and a matching hat. He also sports a black suit underneath with matching slacks and dress shoes. \n\nDetective Tsukauchi is an earnest, hardworking individual who has earned the right to be a close friend of All Might. Enough so, that he was even entrusted with the truth about One For All and the latter's true form.\n\nHe appears to have a close relationship with All Might, as he even leaked sensitive information to the hero just because he felt it was the right thing to do.",
+      "metadata": {
+        "gender": "male",
+        "age": "36+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129762-hZiUf1j7AypG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129762
+      }
+    },
+    {
+      "id": "seiji-shishikura",
+      "name": "Seiji Shishikura",
+      "alt_names": [
+        "肉倉精児",
+        "Meat (ニク)"
+      ],
+      "role": "supporting",
+      "description": "A second year student at Shiketsu High. His Quirk, \"Meatball,\" allows him to roll all living flesh up into meatballs, as well as manipulate his own flesh to his liking. He can remotely control his own flesh after detaching it.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131155-LWzwOM3EDEfP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131155
+      }
+    },
+    {
+      "id": "kouta-izumi",
+      "name": "Kouta Izumi",
+      "alt_names": [
+        "出水洸汰",
+        "Kota Izumi"
+      ],
+      "role": "supporting",
+      "description": "Birthday: December 12(First Appearance), 6 (Current)Height: 107cm (3'5\")\nHair Color: Black\nEye Color: Black\n\nKota Izumi is the nephew of Shino Sosaki and the son of the hero team Water Hose.",
+      "metadata": {
+        "gender": "male",
+        "age": "5",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133659-hr6H5zPW72yM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133659
+      }
+    },
+    {
+      "id": "kurogiri",
+      "name": "Kurogiri",
+      "alt_names": [
+        "黒霧"
+      ],
+      "role": "supporting",
+      "description": "__Affiliation:__ League of Villains\n__Quirk:__ Warp Gate\n\nKurogiri has a level-headed personality, which often serves to ground Tomura Shigaraki's immaturity. He is intensely loyal to both All For One and Tomura. He is very polite and well-spoken, even to enemies.\n\n~! Kurogiri is actually an intelligent Nomu made from the corpse of Eraserhead and President Mics high school friend Oboro Shirakumo made to serve Tomura Shigaraki. Although he remains unaware of his previous identity after Eraserheads efforts to talk to him it’s shown that a small part of Oboro is still in Kurogiri!~",
+      "metadata": {
+        "gender": "male",
+        "age": "Unknown",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137506-EzqPO6yHvjcK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137506
+      }
+    },
+    {
+      "id": "kenji-hikiishi",
+      "name": "Kenji Hikiishi",
+      "alt_names": [
+        "引石健磁",
+        "Ken",
+        "Kennie",
+        "Magne"
+      ],
+      "role": "supporting",
+      "description": "Hikiishi Kenji, also known as Magne  was a villain affiliated with the League of Villains and part of its Vanguard Action Squad. She and the rest of her team serve as the main antagonists of the Forest Training Camp Arc. Magne preferred to go by female pronouns despite her masculine presentation.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141747-DyrrfEePO1nG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141747
+      }
+    },
+    {
+      "id": "atsuhiro-sako",
+      "name": "Atsuhiro  Sako",
+      "alt_names": [
+        "コンプレス",
+        "Mr. Compress",
+        "Mister"
+      ],
+      "role": "supporting",
+      "description": "Mr. Compress's Quirk allows him to \"compress\" anything in a spherical area into a small marble without actually damaging it. The weight of the target is reduced alongside them, making them very easy to carry. If used on a person, it effectively entraps them, terminating the fight instantly and allowing Mr. Compress to abduct them without difficulty. The Quirk can also be used on select body parts, maiming the target.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141748-ZlmszNufZ2me.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141748
+      }
+    },
+    {
+      "id": "giran",
+      "name": "Giran",
+      "alt_names": [
+        "義爛"
+      ],
+      "role": "supporting",
+      "description": "Giran is a B-rank villain and broker in affiliation with the League of Villains, working to scout new recruits for their organization",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141749-s68dMtAc4u7l.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141749
+      }
+    },
+    {
+      "id": "kaoruko-awata",
+      "name": "Kaoruko Awata",
+      "alt_names": [
+        "泡田薫子",
+        "Bubble Girl (バブルガール)",
+        "Bubble (バブル)"
+      ],
+      "role": "supporting",
+      "description": "Quirk: Bubble (バブル Baburu) \n\nWith this Quirk, Kaoruko can make bubbles filled with an aroma that she had smelled at least once before. She can make both sweet-smelling bubbles and foul-smelling ones. When she’s too nervous, she produces very unpleasant-smelling bubbles that are self-destructing \n\nShe is a dedicated hero as well as Sir Nighteyes sidekick",
+      "metadata": {
+        "gender": "female",
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141893-e29UnLY9LLsz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141893
+      }
+    },
+    {
+      "id": "shinya-kamihara",
+      "name": "Shinya Kamihara",
+      "alt_names": [
+        "紙原伸也",
+        "Edgeshot",
+        "Ninja Hero"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170 cm (5'7\")\n__Quirk:__ Foldabody: Shinya's Quirk allows him to make his body and limbs extremely thin and long, effectively allowing him to transform himself into a razor sharp string. He is able to transform faster than the speed of sound.\n\nShinya is a calm and focused individual, who is able to maintain a level head even when in a crisis situation, and encourages his teammates when they begin to panic. He is proven to be quite intelligent and is good at analyzing situations and strategy. He is the former Number 5 Pro-Hero, and is currently Number 4.",
+      "metadata": {
+        "gender": "male",
+        "age": "33-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143275-wu7zyF4tUtMC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 143275
+      }
+    },
+    {
+      "id": "tomoko-shiretoko",
+      "name": "Tomoko Shiretoko",
+      "alt_names": [
+        "知床知子",
+        "Ragdoll"
+      ],
+      "role": "supporting",
+      "description": "Her Quirk allowed her to observe and monitor up to 100 people at a time, including their location and weak points.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143535-OsKq4GW05QWC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 143535
+      }
+    },
+    {
+      "id": "shino-sousaki",
+      "name": "Shino Sousaki",
+      "alt_names": [
+        "送崎信乃",
+        "Shino Sosaki",
+        "Mandalay"
+      ],
+      "role": "supporting",
+      "description": "Telepath: This Quirk allows Shino to utilize a mental transmission and send telepathic messages directly into people's minds. Shino, has displayed the ability to send a message to tens of people at a time. She can send messages, but she can't receive them",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143537-6REKYeLiEyjC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 143537
+      }
+    },
+    {
+      "id": "yawara-chatora",
+      "name": "Yawara Chatora",
+      "alt_names": [
+        "茶虎柔",
+        "Tiger"
+      ],
+      "role": "supporting",
+      "description": "Pliabody: Yawara's Quirk allows him to stretch, flatten, and bend his body in ways that would normally be impossible",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143538-XcXRlaxVIRUS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 143538
+      }
+    },
+    {
+      "id": "nezu",
+      "name": "Nezu",
+      "alt_names": [
+        "根津",
+        "Mr. Principal",
+        "Nezu Kouchou (根津校長)",
+        "Principal Nezu"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 85 cm\n__Quirk:__ High Spec\n\nNezu, also known as Mr. Principal is a Pro Hero and the principal of U.A. High School. He is an extremely rare case of an animal who manifested a Quirk.\n\nHe can be very long-winded at times when explaining or educating.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143539-WD70GZlS9rOt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 143539
+      }
+    },
+    {
+      "id": "gigantomachia",
+      "name": "Gigantomachia",
+      "alt_names": [
+        "ギガントマキア"
+      ],
+      "role": "supporting",
+      "description": "Gigantomachia is a villain associated with the League of Villains.[1] He is one of All For One's faithful servants and his former bodyguard, cultivated to be of use to Tomura Shigaraki if anything were to happen to him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143540-mdiBYSmeGovk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 143540
+      }
+    },
+    {
+      "id": "ryuuko-tsuchikawa",
+      "name": "Ryuuko Tsuchikawa",
+      "alt_names": [
+        "土川流子",
+        "Ryuko Tsuchikawa",
+        "Pixie-Bob"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 167cm (5'6\")\n__Quirk:__ Earth Flow\n\nRyuko Tsuchikawa also known as Pixie-Bob, is a Pro Hero and a member of the Wild, Wild Pussycats. She is a very hyperactive and loud person with little regard for how she may come off to other people and also is very self-conscious about her age.\n\nRyuko's Quirk allows her to freely manipulate the earth for a variety of effects.",
+      "metadata": {
+        "gender": "female",
+        "age": "31",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143541-9eTCioD2DHii.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 143541
+      }
+    },
+    {
+      "id": "thirteen",
+      "name": "Thirteen",
+      "alt_names": [
+        "スペースヒーロ・13号 ",
+        "Space Hero",
+        "Anan Kurose (黒瀬亜南)"
+      ],
+      "role": "supporting",
+      "description": "Thirteen is a wise, well-mannered person. As a rescue hero, Thirteen has displayed how passionate they are about saving people through their teachings. They even developed their own training facility - the Unforeseen Simulation Joint - to train future heroes in search and rescue tactics. They are very passionate about Quirks, specifically on the topic of using Quirks for creation and assistance rather than for destruction and battle. \nThirteen has also been shown to be very brave. Despite not being a combat type, they do not hesitate to use their Quirk to fight against villains in the name of protecting others",
+      "metadata": {
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143542-nZhQB2X6w1Cl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 143542
+      }
+    },
+    {
+      "id": "shin-nemoto",
+      "name": "Shin Nemoto",
+      "alt_names": [
+        "音本真"
+      ],
+      "role": "supporting",
+      "description": "Shin Nemoto is one of the Eight Expendables who works for Shie Hassaikai. Shin's Quirk, Confession, allows him to force people to answer his questions with their true feeling.\n\nShin appears to be a very cynic man as a result of the fact that he could never find anyone worthy of his trust and friendship thanks to his Quirk. He states that emotions are unnecessary to carry out objectives, but it is unknown if he actually believes this or if it was just a way to demoralize Mirio Togata as he fought Overhaul. As Overhaul is the only truly sincere person he’s ever met, Shin is extremely devoted to him. Since he is granted knowledge about his boss's plans, Shin holds himself in high-esteem among the Eight Expendables, viewing himself as special and the only one of the group worthy of walking alongside Overhaul. Shin's loyalty to Overhaul is enough to make him follow his boss even after getting completely overwhelmed in battle.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144519-NqOMsza0Xg8n.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144519
+      }
+    },
+    {
+      "id": "hari-kurono",
+      "name": "Hari Kurono",
+      "alt_names": [
+        "玄野針",
+        "Chronostasis (クロノスタシス)",
+        "Chrono"
+      ],
+      "role": "supporting",
+      "description": "__Age:__ Unknown\n__Status:__ ~!Imprisoned!~\n__Quirk:__ Chronostasis: Kurono's Quirk allows him to slow down the movements of anything he hits with his clock hand-like hair. The minute hands slows a targets movements for one minute and the hour hand slows a targets movements for one hour. Kurono can extend his hair, but only if he is not moving.\n\nHari Kurono, also known as Chronostasis, is a yakuza member afflicted with the Shie Hassaikai, and the assistant/right hand man to Overhaul. He is one of the main antagonists of the Shie Hassaikai Arc.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144520-zlKANb0t8awS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144520
+      }
+    },
+    {
+      "id": "deidoro-sakaki",
+      "name": "Deidoro Sakaki",
+      "alt_names": [
+        "酒木泥泥 "
+      ],
+      "role": "supporting",
+      "description": "__Age:__ Unknown\n__Status:__ ~!Imprisoned!~\n__Quirk:__ Sloshed: Deidoro's Quirk allows him to subject nearby people to severe dizziness and inhibit their sense of balance, putting them in a state similar to being drunk. He is often seen drinking shortly before using his Quirk, meaning the strength of Sloshed could directly correlate with how much alcohol Deidoro consumes.  This may have contributed to his alcoholic nature, or could be a completely independent variable.\n\nDeidoro Sakaki is one of the Eight Expendables who works for the Shie Hassaikai.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144521-my4pbprMkL1q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144521
+      }
+    },
+    {
+      "id": "yuu-houjou",
+      "name": "Yuu Houjou",
+      "alt_names": [
+        "宝生結",
+        "Yu Hojo"
+      ],
+      "role": "supporting",
+      "description": "Yu Hojo is one of the Eight Expendables who works for Shie Hassaikai. \n\nQuirk Crystallization: Yu's Quirk grants him the ability to produce crystals on his body. This is effective for both close-ranged offense and defense. He can also grow his crystals to form a sword around his arm",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144522-4b6KKArAIVfI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144522
+      }
+    },
+    {
+      "id": "kendou-rappa",
+      "name": "Kendou Rappa",
+      "alt_names": [
+        "乱波肩動",
+        "Kendo Rappa",
+        "The Rapper  (ザ ラッパー)"
+      ],
+      "role": "supporting",
+      "description": "__Quirk:__ Strongarm\n\nOne of the Eight Bullets who serves Overhaul and the Shie Hassaikai.\n\nKendou is a very hot-blooded man who thrives on violence and bloodshed. He has a warrior-like mentality, and he only cares about seeking a battle that can satisfy him. Kendou believes it's unbecoming for a fighter to use weapons and that everyone should fight with the power of their bodies. Unlike most of the Eight Bullets, Kendou only serves Overhaul because he hopes to one day defeat him.\n\nKendo's Quirk allows him to rotate his shoulders at extreme speeds, allowing him to attack his targets with a near-endless barrage of bullet punches.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144523-QD6iYIblAW5U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144523
+      }
+    },
+    {
+      "id": "rikiya-katsukame",
+      "name": "Rikiya Katsukame",
+      "alt_names": [
+        "活瓶力也"
+      ],
+      "role": "supporting",
+      "description": "Rikiya Katsukame is one of the Eight Expendables who works under Overhaul for Shie Hassaikai.\n\nQuirk Enhanced Strength: Even without activating his Quirk, Rikiya exhibits superhuman brawn, befitting his massive build. On two separate occasions, he effortlessly burst through a wall and a locked gate, knocking several policemen into the air while doing so, and casually damaged the jamb while readying his next punch.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144524-bzJKotKJzgXy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144524
+      }
+    },
+    {
+      "id": "soramitsu-tabe",
+      "name": "Soramitsu Tabe",
+      "alt_names": [
+        "多部空満"
+      ],
+      "role": "supporting",
+      "description": "Soramitsu Tabe is one of the Eight Expendables who works for Shie Hassaikai.\n\nQuirk Food: Soramitsu's Quirk allows his teeth and jaws to easily chew and consume anything. His stomach is also able to digest what he has eaten with no trouble.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144558-IR4g654kqLlM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144558
+      }
+    },
+    {
+      "id": "hekiji-tengai",
+      "name": "Hekiji Tengai",
+      "alt_names": [
+        "天蓋壁慈"
+      ],
+      "role": "supporting",
+      "description": "Hekiji Tengai is one of the Eight Expendables who works for Shie Hassaikai under Overhaul.\n\nQuirk Barrier Hekiji's Quirk allows him to create telekinetic barriers in the shape of a dome around him, for defensive purposes",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144559-kB0w3oq9lti0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144559
+      }
+    },
+    {
+      "id": "joui-irinaka",
+      "name": "Joui Irinaka",
+      "alt_names": [
+        "入中常衣",
+        "Joi Irinaka",
+        "Mimic"
+      ],
+      "role": "supporting",
+      "description": "Joi Irinaka  also known as Mimic ミミック  is a Yakuza and the general manager of Shie Hassaikai.\n\nQuirk Mimicry: Joi's Quirk allows him to transfer his body and mind into an object, allowing him full control over it. This Quirk, however, only works on objects that are about the size of a refrigerator or smaller",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144560-MtgNTPiyRyvD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144560
+      }
+    },
+    {
+      "id": "touya-setsuno",
+      "name": "Touya Setsuno",
+      "alt_names": [
+        "窃野トウヤ",
+        "Toya Setsuno"
+      ],
+      "role": "supporting",
+      "description": "Toya Setsuno is one of the Eight Expendables who works for Shie Hassaikai. \n\nQuirk Larceny: Toya is capable of instantly moving objects in the possession of someone directly into his hands, in a manner similar to teleportation. However, the limits to his Quirk depend on the size of what he can steal,which must also be within his sight",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144561-OCHXnIed6zpH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144561
+      }
+    },
+    {
+      "id": "juuzou-moashi",
+      "name": "Juuzou Moashi",
+      "alt_names": [
+        "百足従造",
+        "Juzo Moashi",
+        "Centipeder "
+      ],
+      "role": "supporting",
+      "description": "__Quirk:__ Centipede: Juuzou's Quirk grants him long, centipede-like limbs, which he can use to attack or restrain enemies from afar.\n\nMoashi is a sidekick affiliated with Sir Nighteye's Hero Office. Juuzou is a gentleman and a very well mannered person",
+      "metadata": {
+        "gender": "male",
+        "age": "35",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145290-f8YmIdnxCW3i.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145290
+      }
+    },
+    {
+      "id": "ryuuko-tatsuma",
+      "name": "Ryuuko Tatsuma",
+      "alt_names": [
+        "竜間龍子",
+        "Ryuko Tatsuma",
+        "Dragoon Hero: Ryuukyuu",
+        "Ryuukyu (リューキュ)"
+      ],
+      "role": "supporting",
+      "description": "When she activates her Quirk, her body transforms into that of a large, winged dragon with pale gray scales, although she still has the same skin tone, hair and eyes, and her hero costume remains visible bar her boots.",
+      "metadata": {
+        "gender": "female",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145291-KOA58Q8fz0Xm.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145291
+      }
+    },
+    {
+      "id": "ken-takagi",
+      "name": "Ken Takagi",
+      "alt_names": [
+        "高木鍵",
+        "Rock Lock"
+      ],
+      "role": "supporting",
+      "description": "Quirk: Lock Down:/Ken can immobilize anything not living, locking it into a particular place. However, it can be overwhelmed by force and cannot apply to large areas.\n\nKen is a man of average height, with a darker complexion and dark, curly hair. He has pierced ears with padlocks in them. Notably, his fingertips have protrusions that resemble key teeth.\nPart of his hero costume is a small white mask that covers his eyes. He wears a necklace around his neck with five keys dangling from it. Rock Lock wears a two-colored, short-sleeved shirt with a black section and a white print on it, resembling a keyhole. He wears two light-colored shoulder pads with a dark keyhole shape on both of them.",
+      "metadata": {
+        "gender": "male",
+        "age": "32",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145292-O537lBEdSXu7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145292
+      }
+    },
+    {
+      "id": "rumi-usagiyama",
+      "name": "Rumi Usagiyama",
+      "alt_names": [
+        "兎山ルミ",
+        "Mirko",
+        "Miruko"
+      ],
+      "role": "supporting",
+      "description": "Rumi is the No. 5 Pro Hero. She has an athletic build with muscular arms and legs. She has dark skin, red eyes which are tilted slightly inwards, and straight white hair reaching down past her waist. On her head, she has a pair of long white rabbit ears pointing upwards with a slight crook. Along with these, she also has a round white tail, which gives her overall design a definite resemblance to an albino rabbit.\n\nHer hero costume consists of a sleeveless white leotard with dark purple trim around her shoulders and waist, a wide, yellow crescent moon design over her chest, and two thick metal plates on her midriff. She wears purple thigh-high boots to compliment her leotard, with more plating around the heel and toe areas, making her feet look like those of a rabbit. She also has white gloves on her hands, with long cuffs, sporting small triangular protrusions around the edges.\n\n(Source: My Hero Academia Wikia)",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b148985-7TtdK4VTzPEe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 148985
+      }
+    },
+    {
+      "id": "ryou-inui",
+      "name": "Ryou Inui",
+      "alt_names": [
+        "犬井猟",
+        "Hound Dog"
+      ],
+      "role": "supporting",
+      "description": "Ryo Inui is a Pro Hero and serves as the Lifestyle Guidance Counselor at U.A. High School.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b149178-SBDSbVrFPwC4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 149178
+      }
+    },
+    {
+      "id": "kuugo-sakamata",
+      "name": "Kuugo Sakamata",
+      "alt_names": [
+        "逆俣空悟",
+        "Gang Orca (ギャングオルカ)",
+        "Whale"
+      ],
+      "role": "supporting",
+      "description": "Gang Orca is the current No. 11 Pro Hero, dropping from his previous No. 10 place. He took part in the assault on All For One and the League of Villains at Kamino Ward, and later served as a makeshift villain during the Provisional Hero License Exam.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b149186-fvBDbvij65aI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 149186
+      }
+    },
+    {
+      "id": "desutegoro",
+      "name": "Desutegoro",
+      "alt_names": [
+        "デステゴロ",
+        "Death Arms"
+      ],
+      "role": "supporting",
+      "description": "Death Arms is a Pro Hero. He took part in the fight against the Sludge Villain, and later witnessed the U.A. Sports Festival from outside the arena, along with Mt. Lady and Kamui Woods.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b149187-KovqtsbG8ffN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 149187
+      }
+    },
+    {
+      "id": "ken-ishiyama",
+      "name": "Ken Ishiyama",
+      "alt_names": [
+        "石山堅",
+        "Cementoss (セメントス)"
+      ],
+      "role": "supporting",
+      "description": "Cementoss is a Pro Hero as well as a teacher at U.A. High School. During the U.A. Sports Festival, he acted as the proctor for the 1-on-1 fights in case things got out of hand. He also faced off against Eijiro Kirishima and Rikido Sato in their Final Exam.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b149188-BfUrODKF0KMC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 149188
+      }
+    },
+    {
+      "id": "rei-todoroki",
+      "name": "Rei Todoroki",
+      "alt_names": [
+        "轟冷"
+      ],
+      "role": "supporting",
+      "description": "The damaged mother of the Todoroki family. Rei has an ice related quirk, which is believed to be powerful, as Eiji would not have had kids with her otherwise.\n\nIn the past, Rei was very supportive towards Shouto and his dreams to become like All Might. She used to always say that his blood does not define him for him and for herself.\n\nRei, who was once a kind and caring woman, is now in a mental ward.  After all the abuse she faced from Eiji, she began to become mentally unstable. Over time, she had slowly began to snap, until she finally poured boiling water onto Shouto's left side after seeing it. Immediately after burning Shouto, Rei began to apologize and attempt to comfort him when she realized what she had done. Due to her snapping, she was placed into a mental ward for her own safety.\n\nEven though Rei is in a mental ward, she has since returned to her former self. When Shouto visited, she was immensely happy and apologized for what she had done to him. Fuyumi and Natsuo also visit her as well, though she has yet to meet Eiji face to face again out of fear.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150628-7hRvgWALAVyO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 150628
+      }
+    },
+    {
+      "id": "ectoplasm",
+      "name": "Ectoplasm",
+      "alt_names": [
+        "エクトプラズム"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 180 cm (5' 11\")\n__Affiliation:__ Yuuei\n__Quirk:__ Clones\n\nEctoplasm has the ability to produce ectoplasm from his mouth and transform it into clones of himself. He can create up to thirty clones at once, and push his limit to thirty-six if he's feeling good. He can also produce a giant clone of himself, although this sacrifices his ability to produce normal-sized ones for the time being. His clones can be defeated with a strong blow, but otherwise, only Ectoplasm can dispel them.",
+      "metadata": {
+        "gender": "male",
+        "age": "41-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150853-M4TpbJKGrVpJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 150853
+      }
+    },
+    {
+      "id": "taneo-tokuda",
+      "name": "Taneo Tokuda ",
+      "alt_names": [
+        "特田種男 ",
+        "Tane"
+      ],
+      "role": "supporting",
+      "description": "Taneo Tokuda is a freelance journalist working for Juzo News, a magazine publisher. He is an anime-exclusive character",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150854-QCXCHTqvZcUe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 150854
+      }
+    },
+    {
+      "id": "hassaikai-kumichou",
+      "name": "Hassaikai Kumichou",
+      "alt_names": [
+        "八斎會組長",
+        "Hassaikai Boss"
+      ],
+      "role": "supporting",
+      "description": "Without revealing his name a man known as “The Boss originally ran the organization known as The Shie Hassaikai. \nThe Boss always believed his gang should follow a set or code and morals,\nThe Boss would be known for raising Kai Chisaki with Chisaki turning on him later to run the organization to follow his own views with him putting the boss into a comatose state.\nThe Boss would be the one to introduce Kai Chisaki to his grand daughter Eri.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157246-X8uVFkfq1TN4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157246
+      }
+    },
+    {
+      "id": "chiyo-shuuzenji",
+      "name": "Chiyo  Shuuzenji",
+      "alt_names": [
+        "修善寺治与",
+        "Recovery Girl",
+        "リカバリーガール"
+      ],
+      "role": "supporting",
+      "description": "__Quirk:__ Heal\n__Occupation:__ Pro Hero, Nurse\n\nChiyo has a very kind and compassionate personality, where she treats everyone kindly, though she does have a strict and reproaching attitude towards those that have done something foolish. She's mostly like this with All Might for not teaching Izuku how to use his Quirk properly or with Izuku for using his Quirk recklessly.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157655-OOLn8kPUegMw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157655
+      }
+    },
+    {
+      "id": "yokumiru-mera",
+      "name": "Yokumiru Mera",
+      "alt_names": [
+        "目良善見"
+      ],
+      "role": "supporting",
+      "description": "Yokumiru Mera is a worker for the Hero Public Safety Commission. He suffers from sleep deprivation due to overwork, something that he complains about frequently.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158615-GSpB7m5Dgas7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158615
+      }
+    },
+    {
+      "id": "sajin-higawara",
+      "name": "Sajin Higawara",
+      "alt_names": [
+        "日河原砂塵",
+        "Snatch"
+      ],
+      "role": "supporting",
+      "description": "Sajin Higawara also known as Sand Hero: Snatch was a Pro Hero and a bodyguard for the Police Force.\n\nQuirk:SandStorm",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158616-HfRQpRl3Yobl.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158616
+      }
+    },
+    {
+      "id": "high-end",
+      "name": "High End",
+      "alt_names": [
+        "ハイエンド",
+        "Hood",
+        "Nomu"
+      ],
+      "role": "supporting",
+      "description": "__Affiliation:__ League of Villains\n\nHigh End Nomu was an intelligent Nomu created and is shown to be obedient to its master. They were one of the main antagonists in the Pro Hero Arc.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b165314-NOqlwdHM1JV4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 165314
+      }
+    },
+    {
+      "id": "snipe",
+      "name": "Snipe",
+      "alt_names": [
+        "スナイプ"
+      ],
+      "role": "supporting",
+      "description": "__Quirk:__ Homing\n\nSnipe is a Pro Hero and a member of the teaching staff at U.A. High School. Snipe has the appearance of a stereotypical western cowboy\n\nSnipe's Quirk allows him to lock on to any target he can see within six hundred meters and make any projectile he releases chase after said target",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191596-DnTHoaO7huTU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191596
+      }
+    },
+    {
+      "id": "bibimi-kenranzaki",
+      "name": "Bibimi Kenranzaki",
+      "alt_names": [
+        "絢爛崎美々美"
+      ],
+      "role": "supporting",
+      "description": "Bibimi Kenranzaki is a student of U.A. High School's Department of Support from Class 3-G and is the two time winner of the U.A. School Festival's Miss Con.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b198586-jxEMbCIo5VnK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 198586
+      }
+    },
+    {
+      "id": "wash",
+      "name": "Wash",
+      "alt_names": [
+        "ウォッシュ",
+        "No.8 Pro Hero",
+        "Laundry Hero",
+        "洗濯ヒーロー ウォッシュ",
+        "Sentaku Hero Wash"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208144-BwZoSlJ8pY7R.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208144
+      }
+    },
+    {
+      "id": "yosetsu-awase",
+      "name": "Yosetsu Awase",
+      "alt_names": [
+        "泡瀬洋雪",
+        "Welder"
+      ],
+      "role": "supporting",
+      "description": "Although he is not as social as some others, Yosetsu is foul-mouthed and tense, except for serious or life-or-death situations, in which he becomes very easily startled and much more talkative, although he retains his harsh way of speech.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208147-FyOhOQmU1bNs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208147
+      }
+    },
+    {
+      "id": "reiko-yanagi",
+      "name": "Reiko Yanagi",
+      "alt_names": [
+        "柳レイ子",
+        "Emily"
+      ],
+      "role": "supporting",
+      "description": "Reiko is a quiet and emotionless teenager who often shows an odd body posture.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208149-QVPxOrT9CjDR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208149
+      }
+    },
+    {
+      "id": "kenji-tsuragamae",
+      "name": "Kenji Tsuragamae",
+      "alt_names": [
+        "面構犬嗣"
+      ],
+      "role": "supporting",
+      "description": "Kenji is the Chief of the Police Force.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b239975-0CzqybxRR25T.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 239975
+      }
+    },
+    {
+      "id": "kyoutoku-jirou",
+      "name": "Kyoutoku Jirou",
+      "alt_names": [
+        "耳郎響徳"
+      ],
+      "role": "supporting",
+      "description": "Kyotoku Jiro is Kyoka Jiro's father.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b239977-XSROyVpw0lt3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 239977
+      }
+    },
+    {
+      "id": "hiroshi-tameda",
+      "name": "Hiroshi Tameda",
+      "alt_names": [
+        "為田浩",
+        "Miroya-kun (見ろや君)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170cm\n\nHiroshi Tameda also known as \"Can't You See?\" kid, is a loyal fan of Endeavor.",
+      "metadata": {
+        "gender": "male",
+        "age": "18-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b242855-HmFpxubk0msD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 242855
+      }
+    },
+    {
+      "id": "crust",
+      "name": "Crust",
+      "alt_names": [
+        "クラスト",
+        "Shield Hero Crust (シールドヒーロー クラスト)",
+        "Kurasuto"
+      ],
+      "role": "supporting",
+      "description": "__Quirk:__ Shield\n__Occupation:__ Pro Hero (No.6)\n__Fighting Style:__ Close-ranged combat",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289314-BBr8wZSw4nQI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289314
+      }
+    },
+    {
+      "id": "yoroi-musha",
+      "name": "Yoroi Musha",
+      "alt_names": [
+        "ヨロイムシャ",
+        "Equipped Hero"
+      ],
+      "role": "supporting",
+      "description": "__Quirk:__ Unknown\n__Occupation:__ Pro Hero ~!(Retired)!~\n\nNo. 9 Pro Hero. ~!He retired due to the high backlash against Heroes following the Paranormal Liberation War.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b297175-yhO2BUnCF6wX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 297175
+      }
+    },
+    {
+      "id": "yuuyu-haya",
+      "name": "Yuuyu Haya",
+      "alt_names": [
+        "甲矢有弓"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 160 cm\n\nThird-year student in U.A. High School's Hero Course. She has an unnamed Electric Arrow quirk.",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b340706-P2UHkU32Waaz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 340706
+      }
+    },
+    {
+      "id": "komari-ikoma",
+      "name": "Komari Ikoma",
+      "alt_names": [
+        "生駒小麿里"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 157cm\n\nSchool teacher at Masegaki Primary School. Komari is often exasperated by her students' near-constant rude antics, and describes them as being \"problem children\". She is very distressed, nearly to the point of crying, when they constantly ignore her instructions. However, after seeing her students behaving differently at the Provisional Hero License Course, she was inspired to not give up.",
+      "metadata": {
+        "gender": "female",
+        "age": "23-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b343424-KUqIkVmV82hX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 343424
+      }
+    },
+    {
+      "id": "tamashiro",
+      "name": "Tamashiro",
+      "alt_names": [
+        "玉城",
+        "たましろ"
+      ],
+      "role": "supporting",
+      "description": "Student from Masegaki Primary School.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b343425-HhLYFR8CU96V.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 343425
+      }
+    },
+    {
+      "id": "leader-danshi-jidou",
+      "name": "Leader Danshi Jidou",
+      "alt_names": [
+        "リーダー男子児童"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b343427-pt1FqA71edNa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 343427
+      }
+    },
+    {
+      "id": "josei-kisha",
+      "name": "Josei Kisha",
+      "alt_names": [
+        "女性記者",
+        "Female Reporter"
+      ],
+      "role": "supporting",
+      "description": "Television news reporter.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b345848-ypooTJN8XdfQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 345848
+      }
+    },
+    {
+      "id": "hitoshi-shinsou",
+      "name": "Hitoshi Shinsou",
+      "alt_names": [
+        "心操人使",
+        "Hitoshi Shinso"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 177 cm (5'9½\")\n__Quirk:__ Brainwashing\n\nStudent at U.A. High School, attending Class 1-C of the Department of General Education.\n\nHitoshi is a stoic and straightforward person with an innate ability to spark conversation with anyone despite holding a reserved and quiet attitude most of the time. He is shown to be rather clever, knowing just the right words to manipulate others into replying to his comments, allowing him to activate his Quirk. He does not mind doing something underhanded to claim victory in a fight. Due to having his Brainwashing Quirk perceived as evil throughout his life, Hitoshi has been somewhat feared by those aware of his power and has been discriminated against solely because of the Quirk he was born with. This persecution led him to become resentful of those who had Quirks more associated with hero work. Regardless of his drawbacks, however, Hitoshi desires to become a Pro Hero more than anything.\n\nHitoshi's Quirk Brainwashing allows him to put someone in a state where they are forced to obey whatever he commands. He can only activate this power when his target verbally responds to something he says. Brainwashing must be intentionally activated and will not take effect if Hitoshi doesn't want it to. Using a megaphone or anything that makes his voice artificial will not allow his Quirk to activate, as the said devices would transform his voice into an electronic signal.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89242-0m30Li19ZxXR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89242
+      }
+    },
+    {
+      "id": "tsunagu-hakamada",
+      "name": "Tsunagu Hakamada",
+      "alt_names": [
+        "袴田維",
+        "Fiber Hero: Best Jeanist (ファイバーヒーロー ベストジー二スト)"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 190cm (6'3\")\n__Quirk:__ Fiber Master\n\nPro Hero, ranked in the top 4. He is the recipient of the \"Best Jeanist\" award for eight consecutive years.\n\nTsunagu is an elegant man with flamboyant tendencies. He believes very strongly that people with influence must maintain a positive appearance both physically and socially. Tsunagu often uses metaphors referencing jeans, denim, and various other sewing and fabric-based phrases, often inspiring his recruits with speeches, telling them to keep their life straight like their jeans. Tsunagu takes the role of being a hero very seriously. He is selfless, brave, and charismatic, and he aims to spread a sense of a peace to all people, no matter how dire the situation.\n\nTsunagu's Quirk \"Fiber Master (ファイバーマスター)\" allows him to freely manipulate the threads in any nearby piece of fabric. He has power over all types of cloth, but his Quirk works best with denim and is less effective on sweats. Fiber Master also works on other types of fiber not related to fabric, such as carbon fibers. He primarily uses this power to restrain his targets, either by using their own clothing against them, or simply unravels portions of his own clothing into strings.",
+      "metadata": {
+        "gender": "male",
+        "age": "35-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143536-x5jMYB9HbATo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 143536
+      }
+    },
+    {
+      "id": "fuyumi-todoroki",
+      "name": "Fuyumi Todoroki",
+      "alt_names": [
+        "轟冬美"
+      ],
+      "role": "minor",
+      "description": "The only daughter of Eiji and Rei. Fuyumi is the younger sister of Touya and the older sister of Natsuo and Shouto. \n\nFuyumi is a hard working girl, often making meals for the family and works as a teacher at an unnamed school. Unlike her family members, she doesn't resent her father and just wishes they could all be a happy family, though she realizes such a thing is unlikely. Upon hearing Shouto gains friends, however, Fuyumi gets quite excited over it and is happy for him.\n\nIn the past, Fuyumi took care of Shouto after their mother went to a hospital and never came back. To this day, her wish that she could have done something for Shouto still lingers within her.",
+      "metadata": {
+        "gender": "female",
+        "age": "22-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150627-DGnzAiwTGb8q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 150627
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:30:20.843Z"
+  "updated_at": "2025-12-23T03:43:04.689Z"
 }

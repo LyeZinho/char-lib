@@ -1,6 +1,6 @@
 {
   "work_id": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
-  "count": 25,
+  "count": 29,
   "characters": [
     {
       "id": "tanjirou-kamado",
@@ -632,7 +632,103 @@
       "external_ids": {
         "anilist": 137808
       }
+    },
+    {
+      "id": "matsuemon-tennouji",
+      "name": "Matsuemon Tennouji",
+      "alt_names": [
+        "天王寺松右衛門",
+        "Kasugai Garasu (鎹鴉)",
+        "Tanjirou's Kasugai Crow"
+      ],
+      "role": "minor",
+      "description": "Kasugai Crow assigned to Tanjirou Kamado. Very intelligent and seems to have a large ego.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137810-x5JEOQTuxd86.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137810
+      }
+    },
+    {
+      "id": "kanao-tsuyuri",
+      "name": "Kanao Tsuyuri",
+      "alt_names": [
+        "栗花落カナヲ"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 156 cm (5'1½\")\n\nKanao Tsuyuri is a Demon Hunter and the Tsuguko, who is personally looked after by the Demon Killing Corps' Pillars.\n\n~!When Kanao is first introduced, she is an indecisive and quiet girl due to the abuse she endured in her past before meeting the Kocho sisters. She became unable to make decisions by herself and repressed her emotions as a defense mechanism. In order to help rectify this, Kanae gave her a coin to flip to decide which path to follow when she didn't know what to do.\n\nLater on, Tanjiro helps Kanao overcome her indecisiveness and Kanao soon becomes more confident in making decisions with or without her coin.\n\nKanao and Tanjiro would eventually marry and start a family, having two great-great-grandchildren by the names of [Kanata Kamado](https://anilist.co/character/171144/Kanata-Kamado) and [Sumihiko Kamado](https://anilist.co/character/171145/Sumihiko-Kamado) between them.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139038-OcOoDUyLEsRn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139038
+      }
+    },
+    {
+      "id": "ruka-rengoku",
+      "name": "Ruka Rengoku",
+      "alt_names": [
+        "煉獄瑠火"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193378-dSruD7x4KzQA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 193378
+      }
+    },
+    {
+      "id": "amane-ubuyashiki",
+      "name": "Amane Ubuyashiki",
+      "alt_names": [
+        "産屋敷あまね",
+        "Amane Himorogi"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 167cm (5'6\")\n\nShe is the wife and caretaker of [Kagaya Ubuyashiki](https://anilist.co/character/137808/Kagaya-Ubuyashiki) and the mother of Hinaki Ubuyashiki, Nichika Ubuyashiki, Kiriya Ubuyashiki, Kanata Ubuyashiki and Kuina Ubuyashiki. Her maiden name is Amane Himorogi.",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b221375-cMlefDNTlcD6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 221375
+      }
     }
   ],
-  "updated_at": "2025-12-22T13:31:19.435Z"
+  "updated_at": "2025-12-23T01:21:41.778Z"
 }
