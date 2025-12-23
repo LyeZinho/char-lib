@@ -113,10 +113,10 @@ export default function CharacterPage() {
               <span className="text-accent-success font-medium">Online</span>
             </div>
             <div className="flex items-center gap-2">
-              <span className="text-accent-primary">🕒</span>
-              <span className="text-gray-400">Última atualização:</span>
-              <span className="text-gray-300">N/A</span>
-            </div>
+                <span className="text-accent-primary">🕒</span>
+                <span className="text-gray-400">Última atualização:</span>
+                <span className="text-gray-300">{work.updated_at ? new Date(work.updated_at).toLocaleDateString('pt-BR') : 'N/A'}</span>
+              </div>
           </div>
           <div className="text-gray-500">
             ID: {character.id}
