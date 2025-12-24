@@ -1,0 +1,342 @@
+{
+  "work_id": "the-horizon",
+  "count": 14,
+  "characters": [
+    {
+      "id": "geu-sonyeon",
+      "name": "Geu Sonyeon",
+      "alt_names": [
+        "그 소년",
+        "The Boy"
+      ],
+      "role": "protagonist",
+      "description": "The boy who lost their parents live with one hope: that he can walk with the [girl](https://anilist.co/character/197692/Geu-Sonyeo) forever...until they come across adults who are trying to take that hope away.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184330-Iz1UIX3ytdZL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184330
+      }
+    },
+    {
+      "id": "geu-sonyeo",
+      "name": "Geu Sonyeo",
+      "alt_names": [
+        "그 소녀",
+        "The Girl"
+      ],
+      "role": "protagonist",
+      "description": "The girl who lost her father due to an infectious disease, contracted from someone on the bus who they ventured with.\nMeets the boy unexpectedly on the bus, and together they walk on the path for as long as they can.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b197692-b5zbkzc4Hkt3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 197692
+      }
+    },
+    {
+      "id": "unjeonsa",
+      "name": "Unjeonsa",
+      "alt_names": [
+        "운전사",
+        "Driver"
+      ],
+      "role": "supporting",
+      "description": "He drives the bus used by a group of people who managed to escape the war. A former soldier who saw his friends die in battle, he is a pragmatic but compassionate man of few words. He looks after the girl after her father leaves the bus.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312080-lrixDaAaojZr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312080
+      }
+    },
+    {
+      "id": "isanghan-namja",
+      "name": "Isanghan Namja",
+      "alt_names": [
+        "이상한 남자",
+        "Strange Man"
+      ],
+      "role": "supporting",
+      "description": "A man whom the boy and the girl meet on their journey. The girl takes pity and lets him follow them, while the boy feels uneasy about his presence and suggests they try to shake him off. He behaves in a manner resembling a chimpanzee (only makes high-pitched noises, snatches the children's supplies, eats raw meat, and doesn't seem to understand or respond in human language). ~!His only spoken words are cries of pain as he lay dying after accidentally stepping on a hidden landmine while chasing after the children.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312087-7h5zI8VFE05u.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312087
+      }
+    },
+    {
+      "id": "supsogui-sonyeo",
+      "name": "Supsogui Sonyeo",
+      "alt_names": [
+        "숲속의 소녀",
+        "Girl in Forest"
+      ],
+      "role": "supporting",
+      "description": "She travels with a boy who seems to be around her age; both speak the same language, which the Boy and Girl don't understand.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312088-C628gNPXxqhW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312088
+      }
+    },
+    {
+      "id": "jeongjangeul-ibeun-namja",
+      "name": "Jeongjangeul Ibeun Namja",
+      "alt_names": [
+        "정장을 입은 남자",
+        "Man in a Suit"
+      ],
+      "role": "supporting",
+      "description": "He used to be a doctor. He has excellent marksmanship skills and knowledge of weaponry, picking off one by one the soldiers who kidnap the children, and setting explosive traps within the city. He provides the children with shelter and food and treats their wounds, asking for help with finding and exterminating trespassers in exchange. He believes that every person carrying a gun does so with the intent to kill, and must be eliminated.\n~!The meat he and the children eat comes from the bodies of those he has killed.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312089-hKpqUEFSSWEN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312089
+      }
+    },
+    {
+      "id": "supsogui-sonyeon",
+      "name": "Supsogui Sonyeon",
+      "alt_names": [
+        "숲속의 소년",
+        "Boy in Forest"
+      ],
+      "role": "supporting",
+      "description": "He travels with a girl who seems to be around his age; speak the same language, which the Boy and Girl don't understand. ~!When the two pairs meet for the first time, the boys hold each other at gunpoint, unsure of the others' intentions, but the girls defuse the situation.!~\n~!However, when a missile explodes in the vicinity, the boys are startled into firing their weapons. He is killed and his partner immediately commits suicide after witnessing his death.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312090-AExMNCYEOO5M.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312090
+      }
+    },
+    {
+      "id": "haebyeonga-yeoja",
+      "name": "Haebyeonga Yeoja",
+      "alt_names": [
+        "해변가여자",
+        "Seaside Woman"
+      ],
+      "role": "supporting",
+      "description": "A woman who lives along the seaside with her partner.\n~!The Boy meets the couple as an old man and is reminded of the two children he met in the forest long ago. Though initially reluctant, he eventually becomes friends with this couple and their child.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312091-1xpytbn9V9qE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312091
+      }
+    },
+    {
+      "id": "angyeongeul-sseun-yeoja",
+      "name": "Angyeongeul Sseun Yeoja",
+      "alt_names": [
+        "안경을 쓴 여자",
+        "Woman with Glasses"
+      ],
+      "role": "supporting",
+      "description": "She is among the few who managed to escape the war, using a bus to travel from place to place in search of safety. She usually sits by herself in silence. ~!When the novelist discovers that he is infected with the same disease that had taken another passenger's life, and voluntarily leaves the bus, she falls into a deep depression and refuses to eat. She ends up committing suicide shortly after.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312092-UPeWJ9w6ZjSi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312092
+      }
+    },
+    {
+      "id": "eolini",
+      "name": "Eolini",
+      "alt_names": [
+        "어린이",
+        "Child"
+      ],
+      "role": "supporting",
+      "description": "The child of the seaside couple.\n~!She considers The Boy (now an old man) to be her grandfather.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312093-dvGCZUbanrkw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312093
+      }
+    },
+    {
+      "id": "sonyeoui-abeoji",
+      "name": "Sonyeoui Abeoji",
+      "alt_names": [
+        "소녀의 아버지",
+        "Girl's Father"
+      ],
+      "role": "supporting",
+      "description": "After the war, him and his daughter are the only surviving members of their family. They manage to get on a bus with several other people, traveling from place to place in search of safety. He is a kind man who tries to take his daughter's mind off the gloom of their new lives. ~!He also succumbs to the infectious disease contracted from one of the passengers.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312094-scqBjrCWJEyw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312094
+      }
+    },
+    {
+      "id": "noin",
+      "name": "Noin",
+      "alt_names": [
+        "노인",
+        "Old Man"
+      ],
+      "role": "supporting",
+      "description": "He is among the few who managed to escape the war, using a bus to travel from place to place in search of safety. ~!He suffers from an unnamed infectious disease which proves to be terminal and highly contagious, first manifesting through a persistent cough and eventually through necrotic tissue. He is the first to leave the bus once the second stage manifests, though by that point it's already too late for the others.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312095-T4tVvQFcWjZI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312095
+      }
+    },
+    {
+      "id": "soseolga",
+      "name": "Soseolga",
+      "alt_names": [
+        "소설가",
+        "Novelist"
+      ],
+      "role": "supporting",
+      "description": "He is among the few who managed to escape the war, using a bus to travel from place to place in search of safety. He correctly diagnoses an old man as suffering from an incurable infectious disease, and succumbs to it himself shortly after the old man. In a wedding photo, his parents are shown to be of Indian descent.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312096-DjpPfsmOh7nB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312096
+      }
+    },
+    {
+      "id": "haebyeonga-namja",
+      "name": "Haebyeonga Namja",
+      "alt_names": [
+        "해변가 남자",
+        "Seaside Man"
+      ],
+      "role": "supporting",
+      "description": "A man who lives along the seaside with his partner.\n~!The Boy meets the couple as an old man and is reminded of the two children he met in the forest long ago. Though initially reluctant, he eventually becomes friends with this couple and their child.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b312097-1BOK1QyTQvq9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 312097
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T12:46:28.496Z"
+}

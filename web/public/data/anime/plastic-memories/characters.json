@@ -1,0 +1,345 @@
+{
+  "work_id": "plastic-memories",
+  "count": 15,
+  "characters": [
+    {
+      "id": "isla",
+      "name": "Isla",
+      "alt_names": [
+        "アイラ",
+        "Aira"
+      ],
+      "role": "protagonist",
+      "description": "Isla is a Giftia who has a childish appearance, is extremely clumsy, and doesn't show much emotion. She's also a veteran Giftia who is said to be the #1 in retrievals in the terminal service, and she is seen having a diary that records down what she has done with her retrieval targets. \nShe is currently working on the same team as [Tsukasa Mizugaki](https://anilist.co/character/88754/Tsukasa-Mizugaki) and has previously worked with [Kazuki Kuwanomi](https://anilist.co/character/88757/Kazuki-Kuwanomi) years ago.",
+      "metadata": {
+        "gender": "female",
+        "age": "9",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88753-RO3lBZgzwdJF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88753
+      }
+    },
+    {
+      "id": "tsukasa-mizugaki",
+      "name": "Tsukasa Mizugaki",
+      "alt_names": [
+        "水柿ツカサ"
+      ],
+      "role": "protagonist",
+      "description": "After failing his college entrance exams due to medical problems, he eventually gets a job through his father on Terminal Service No. 1, although he initially does not know what they do. He is assigned as [Isla](https://anilist.co/character/88753)'s spotter and soon becomes attached to her.",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88754-1r7wmZfbyqKW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88754
+      }
+    },
+    {
+      "id": "michiru-kinushima",
+      "name": "Michiru Kinushima",
+      "alt_names": [
+        "絹島ミチル"
+      ],
+      "role": "supporting",
+      "description": "Michiru Kinushima is a Spotter at Terminal Service #1, and is partnered with Zack. She is Tsukasa Mizugaki's senior and mentor at Terminal Service.\n\n(Source: Plastic Memories Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88755-7vL4TsT01cGG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88755
+      }
+    },
+    {
+      "id": "zack",
+      "name": "Zack",
+      "alt_names": [
+        "ザック"
+      ],
+      "role": "supporting",
+      "description": "Zack is a Giftia and a Marksman that is partnered with Michiru Kinushima, and works for the SAI Terminal Service Program. His personality is shown to be a quick-witted character, but also shows many degrees of compassion. Zack is also often portrayed playing quietly on his handheld video games, leading to his appearance of an antisocial character. He is also often portrayed teasing Michiru Kinushima's dialogues.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88756-tgiwL2i5eWVg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88756
+      }
+    },
+    {
+      "id": "kazuki-kuwanomi",
+      "name": "Kazuki Kuwanomi",
+      "alt_names": [
+        "桑乃実カヅキ"
+      ],
+      "role": "supporting",
+      "description": "Kazuki Kuwanomi is the director of field work, a Spotter at Terminal Service #1 and the second in power only to the manager of the department, Takao Yamanobe. She was previously Constance's partner, but recently became Isla's partner again.\n\n(Source: Plastic Memories Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88757-4pR2fmJRYFHp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88757
+      }
+    },
+    {
+      "id": "constance",
+      "name": "Constance",
+      "alt_names": [
+        "コンスタンス"
+      ],
+      "role": "supporting",
+      "description": "Constance is a male giftia. He is now Kazuki's partner, ever since Isla and Kazuki disbanded. He is as tall as Tsukasa and though he is a giftia, he looks like he is in his late teens/early 20s. Constance and Tsukasa get along very well, but do not talk much.\n\n(Source: Plastic Memories Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88758-haQcQ8Rv3dwp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88758
+      }
+    },
+    {
+      "id": "yasutaka-hanada",
+      "name": "Yasutaka Hanada",
+      "alt_names": [
+        "縹ヤスタカ"
+      ],
+      "role": "supporting",
+      "description": "Yasutaka Hanada is a veteran employee and spotter at SAI Terminal Service #1. He has been working for over ten years at Terminal Service. He is partnered with Sherry.\n\n(Source: Plastic Memories Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88759-rwHufqkA2vZG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88759
+      }
+    },
+    {
+      "id": "sherry",
+      "name": "Sherry",
+      "alt_names": [
+        "シェリー"
+      ],
+      "role": "supporting",
+      "description": "Sherry is a Giftia who works at Terminal Service #1 and is Yasutaka Hanada's marksman.\n\n(Source: Plastic Memories Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88760-EUTJFbs5SAaA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88760
+      }
+    },
+    {
+      "id": "eru-miru",
+      "name": "Eru Miru",
+      "alt_names": [
+        "海松エル"
+      ],
+      "role": "supporting",
+      "description": "Eru Miru is an engineer in the Giftia maintenance team at Terminal Service #1, who has been on the job for two years.\n\n(Source: Plastic Memories Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88761-UlsqaEhcczQp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88761
+      }
+    },
+    {
+      "id": "takao-yamanobe",
+      "name": "Takao Yamanobe",
+      "alt_names": [
+        "山野辺 タカオ"
+      ],
+      "role": "supporting",
+      "description": "Takao Yamanobe is the Section chief for the terminal service 1. Although he is in charge of the small office located behind the SAI tower, he leaves all duties and works to Kazuki Kuwanomi.\n\n(Source: Plastic Memories Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88762-RlGXWvMB1IGV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88762
+      }
+    },
+    {
+      "id": "andy",
+      "name": "Andy",
+      "alt_names": [
+        "アンディ",
+        "Olivia"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214299-qbiy5PsA6gRw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214299
+      }
+    },
+    {
+      "id": "nina",
+      "name": "Nina",
+      "alt_names": [
+        "ニーナ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214300-7fKUuWnCnFfQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214300
+      }
+    },
+    {
+      "id": "chizu-shirohana",
+      "name": "Chizu Shirohana",
+      "alt_names": [
+        "白花チヅ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214301-ZsKiVgLllYFT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214301
+      }
+    },
+    {
+      "id": "marsha",
+      "name": "Marsha",
+      "alt_names": [
+        "マーシャ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214302-REsUda9bl5cs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214302
+      }
+    },
+    {
+      "id": "souta-wakanae",
+      "name": "Souta Wakanae",
+      "alt_names": [
+        "若苗ソウタ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214303-4dSgq2YZ4XIk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214303
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T06:27:57.878Z"
+}

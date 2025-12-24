@@ -1,0 +1,364 @@
+{
+  "work_id": "call-of-the-night",
+  "count": 15,
+  "characters": [
+    {
+      "id": "nazuna-nanakusa",
+      "name": "Nazuna Nanakusa",
+      "alt_names": [
+        "七草ナズナ",
+        "ナナクサナズナ"
+      ],
+      "role": "protagonist",
+      "description": "~!__Family:__ Haru Nanakusa (Mother), Kabura Honda (Adoptive Mother)!~\n\nNazuna is a female vampire who likes the night itself more than the daylight. A certain day she meets with a fourteen-year-old boy called [Kou Yamori](https://anilist.co/character/168866/). Kou is a guy who can't sleep very well every night, so to satisfy Kou's will, Nazuna shows him how to sleep very well at night. On the same night, Kou discovers that Nazuna is a vampire, and that makes Kou feel the will of becoming a vampire too, but the problem began here, because neither Nazuna nor Kou knows what is love, and it is required that Kou falls in love with Nazuna in order for him to become a vampire.",
+      "metadata": {
+        "gender": "female",
+        "age": "40+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168774-zoB9InjmXYq2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168774
+      }
+    },
+    {
+      "id": "kou-yamori",
+      "name": "Kou Yamori",
+      "alt_names": [
+        "夜守コウ"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 157 cm (5'1\")\n\nA second-year junior high school boy, who slowly finds himself restless because of his boring life. To reinvigorate himself, he slips out at night to walk the streets. He wants to become a vampire.",
+      "metadata": {
+        "gender": "male",
+        "age": "14",
+        "dateOfBirth": "2002-08-28"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168866-zf5bb7rmZpxX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168866
+      }
+    },
+    {
+      "id": "akira-asai",
+      "name": "Akira Asai",
+      "alt_names": [
+        "朝井アキラ"
+      ],
+      "role": "supporting",
+      "description": "Akira Asai is the childhood friend of [Kou](https://anilist.co/character/168866/ ) and [Mahiru Seki](https://anilist.co/character/269129/Mahiru-Seki), and also lives in the same apartment complex as Kou. Akira is a disciplined student who obediently follows her school duties. She is friendly and maintains a close relationship with Kou and Mahiru. Her suspicion of vampires is strong and so she doesn't really want to have much to do with them. She is seemingly very attached to Kou and often lets him get her into trouble.",
+      "metadata": {
+        "gender": "female",
+        "age": "~14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175663-JGx6M5mT9OiT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175663
+      }
+    },
+    {
+      "id": "kiyosumi-shirakawa",
+      "name": "Kiyosumi Shirakawa",
+      "alt_names": [
+        "白河清澄"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175656-R8RvecOSWBXE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175656
+      }
+    },
+    {
+      "id": "mahiru-seki",
+      "name": "Mahiru Seki",
+      "alt_names": [
+        "夕真昼"
+      ],
+      "role": "supporting",
+      "description": "Mahiru Seki is a former middle school student and a childhood friend of [Kou Yamori](https://anilist.co/character/168866/Kou-Yamori) and [Akira Asai](https://anilist.co/character/175663/Akira-Asai).\n\n~!Died with [Kiku Hoshimi](https://anilist.co/character/269128/Kiku-Hoshimi) at the sunrise after she turned him into a vampire!~",
+      "metadata": {
+        "gender": "male",
+        "age": "~14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b269129-nHJXFp7HDZBg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 269129
+      }
+    },
+    {
+      "id": "seri-kikyou",
+      "name": "Seri Kikyou",
+      "alt_names": [
+        "桔梗セリ"
+      ],
+      "role": "supporting",
+      "description": "Seri Kikyou is a vampire and a gyaru that seeks enjoyment in life and finds it increasingly challenging to have fun.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175658-orkKzYl8kMtW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175658
+      }
+    },
+    {
+      "id": "niko-hirata",
+      "name": "Niko Hirata",
+      "alt_names": [
+        "平田ニコ"
+      ],
+      "role": "supporting",
+      "description": "Niko Hirata is a vampire and a teacher who teaches night classes.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175657-ZtPcifxlep0G.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175657
+      }
+    },
+    {
+      "id": "anko-uguisu",
+      "name": "Anko Uguisu",
+      "alt_names": [
+        "鶯餡子"
+      ],
+      "role": "supporting",
+      "description": "A private detective with an odd personality. Likes to smoke when she is not solving cases.\n~!Ten years ago, she went by her real name Kyouko Mejiro and was a member of a literature club at the school Nico Hirata taught the night class of. She became Nazuna Nanakusa's first friend until her father was turned into a vampire, causing both parents to die and Kyouko to quit school and disappear.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "27-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175659-1W8HJJzAZ1dI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175659
+      }
+    },
+    {
+      "id": "akihito-akiyama",
+      "name": "Akihito Akiyama",
+      "alt_names": [
+        "秋山昭人",
+        "Akkun",
+        "Menhera"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175660-JnKkxnC7o9fq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175660
+      }
+    },
+    {
+      "id": "kabura-honda",
+      "name": "Kabura Honda",
+      "alt_names": [
+        "本田カブラ"
+      ],
+      "role": "supporting",
+      "description": "She is a vampire and a friend in [Nico Hirata's](https://anilist.co/character/175657/Niko-Hirata) clique.\n\n~!Before becoming a vampire, Kabura was a very sick, but kind person, who couldn't go out with her friends much, and stayed in the hospital with Haru Nanakusa, as anything her friends want her to do were too much energy for her. Later, she wanted a way out of the hatred and neglect from both family and friends, so she agreed on the request of being turned into a vampire by Haru.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175661-9zWxX4qdSTmv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175661
+      }
+    },
+    {
+      "id": "midori-kohakobe",
+      "name": "Midori Kohakobe",
+      "alt_names": [
+        "小繁縷ミドリ"
+      ],
+      "role": "supporting",
+      "description": "Midori Kohakobe is a vampire and the number 1 maid at the maid cafe Vamps.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175662-ML3VkEueW38I.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 175662
+      }
+    },
+    {
+      "id": "hatsuka-suzushiro",
+      "name": "Hatsuka Suzushiro",
+      "alt_names": [
+        "蘿蔔ハツカ",
+        "Haka"
+      ],
+      "role": "supporting",
+      "description": "Hatsuka is a man of small stature with an androgynous physique, having a rather masculine, but very thin, upper body and feminine hips, his head adorned with shoulder-length black hair, and a narrow face. He prefers to dress femininely, which he says is apparently because it suits him better. The clothes he mainly wears are dresses and coats, his footwear consisting of dark calf length boots, smaller shoes and slippers when he is at home.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b233097-uUtnZo9oSwvp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 233097
+      }
+    },
+    {
+      "id": "arisa",
+      "name": "Arisa",
+      "alt_names": [
+        "アリサ",
+        "Alisa"
+      ],
+      "role": "supporting",
+      "description": "Arisa is the #2 maid at the maid cafe Midori Kohakobe works at. She is a big fan of maids and maid cafes and visits hers even on her days off, with Midori being her favorite maid.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287132-c7EArFj5ZcgA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 287132
+      }
+    },
+    {
+      "id": "chuugakkou-kyoushi",
+      "name": "Chuugakkou Kyoushi",
+      "alt_names": [
+        "中学校教師",
+        "Middle School Teacher"
+      ],
+      "role": "supporting",
+      "description": "A teacher who is rumored to appear in the Classroom late at night since 10 years ago.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b343822-8XZ9OVKiN9Yz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 343822
+      }
+    },
+    {
+      "id": "kai",
+      "name": "Kai",
+      "alt_names": [
+        "カイ"
+      ],
+      "role": "minor",
+      "description": "A man who is often out drinking at night with Tonio and Matsuda.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284207-cRVARyWC2s3h.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284207
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T07:43:02.398Z"
+}

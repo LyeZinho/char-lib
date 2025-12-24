@@ -1,0 +1,357 @@
+{
+  "work_id": "samurai-champloo",
+  "count": 15,
+  "characters": [
+    {
+      "id": "mugen",
+      "name": "Mugen",
+      "alt_names": [
+        "無限"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 180 cm (5'11\")\n__Eye Color:__ brown  \n__Hair:__ black  \n__Weapons:__ Double-Edged Tsurugi (often mistaken for a Katana) and Tanto (concealed in the hilt of the scabbard)  \n__Sword Style:__ \"Champloo Kendo\"   \n\nMugen is rude, vulgar, and often thinks highly himself. Much of his past is a mystery. He was born on the Ryukyu Islands, never knew his parents, and was a former pirate. After an incident forced him to fake his death, he became a vagabond. But things changed after he met Jin and Fuu. Though very rough around the edges, he has a mutual understanding with Jin and cares for Fuu more than he lets out, considering he usually ends up going after her whenever she gets kidnapped.   His fighting style is described as a \"champloo\", which means \"mix\". It combines all sorts of martial arts, unorthodox swordplay and break dancing. He relies on instinct and reflex to surprise his enemies.   His style of clothing represents the future, whereas Jin's represents the past. His black hair is usually untidy, and is similar in shape to an afro.",
+      "metadata": {
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b390-30DZg8NvIrVk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 390
+      }
+    },
+    {
+      "id": "jin",
+      "name": "Jin",
+      "alt_names": [
+        "仁"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 5'10\" - 5'11\"  \n__Weapons:__ Katana, Wakizashi  \n__Sword Style:__ Mujushin Kenjutsu, Jujutsu   \n\nJin is a mild-mannered vagrant ronin who carries himself in the conventionally stoic manner of a samurai of the Tokugawa era. Using his waist-strung daishou, he fights in the traditional kenjutsu style of a samurai trained in a prominent, sanctioned dojo.   Jin wears glasses, an available but uncommon accessory in Edo era Japan. Jin seldom talks and Fuu seems to prefer him to Mugen. He is reputed to have killed his dojo master and his history is shrouded in mystery.  \n\n(Sources: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b391-f9fHDJEEFzn1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 391
+      }
+    },
+    {
+      "id": "fuu-kasumi",
+      "name": "Fuu Kasumi",
+      "alt_names": [
+        "フウ"
+      ],
+      "role": "protagonist",
+      "description": "The girl that brought Mugen and Jin together. Her mother dead, and her father missing for years, we first see her as a teahouse waitress. When the teahouse gets burned down, she takes it as a sign to begin her quest to find the sunflower samurai.   Hidden somewhere in her clothes is Momo-san, her pet flying squirrel, to sometimes help her out of a jam. Fuu is brave, determined, and when she has to improvise (mostly when they're hungry), she uses her wits to reach the goal.",
+      "metadata": {
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n392-SwahUSSJ6uiP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 392
+      }
+    },
+    {
+      "id": "matsunosuke-shibui",
+      "name": "Matsunosuke Shibui",
+      "alt_names": [
+        "渋井松之介"
+      ],
+      "role": "supporting",
+      "description": "Debut: Episode 1 \"Tempestuous Temperaments\"  The local magistrate first seen ordering Jin and Mugen's execution. In flashback we see him extorting taxes from the local populace, having his Yagyuu guards defeated by Jin, and arresting and torturing Jin and Mugen for a crime they did not commit.    ~!He is killed by Jin after attempted execution. !~ (Source: Neko-san's Guide to the Characters of Samurai Champloo)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b393-aBMM7QSr2uEz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 393
+      }
+    },
+    {
+      "id": "tomonoshin-shibui",
+      "name": "Tomonoshin Shibui",
+      "alt_names": [
+        "渋井友之進"
+      ],
+      "role": "supporting",
+      "description": "Debut: Episode 1 \"Tempestuous Temperaments\"  The magistrate's spoiled-rotten son, first seen in the teashop. His bleached hair is distinctive, and anachronistic.    ~!Fuu nearly gets killed for spilling tea on him. He gets his fingers and flunkies broken by Mugen, and then dies in the fire caused by Ryujiro. !~ (Source: Neko-san's Guide to the Characters of Samurai Champloo)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b394-Hq6Bjr5NQ3tU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 394
+      }
+    },
+    {
+      "id": "ryujirou-sasaki",
+      "name": "Ryujirou Sasaki",
+      "alt_names": [
+        "佐々木竜二郎",
+        "Ryujiro Sasaki"
+      ],
+      "role": "supporting",
+      "description": "Ryujiro was part of Tomonoshin Shibui's gang and were patrons in the teahouse in episode one.    ~!Impatient with Fuu's clumsiness, Tomonoshin ordered Ryujiro to use his new sword to cut off part of Fuu as a \"lesson\". Mugen interferes when Fuu offers Mugen 100 free dumplings for helping her. Ryujiro picks a fight with Mugen and ends up getting half of his right forearm severed by Mugen. Enraged, he burns down the teahouse, killing Tomonoshin.   Ryujiro returns in episode two to seek revenge on Mugen, Jin, and Fuu, whom he blames for him losing his arm, and to satisfy his desire to see people suffer. He frees Oniwakamaru from jail for use as a bodyguard, kidnaps Fuu to use as a hostage, uses Hotaru to seduce and poison Mugen, and hires a very skilled assassin to kill Jin. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b395-Jhok5avYsO49.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 395
+      }
+    },
+    {
+      "id": "seizou-kasumi",
+      "name": "Seizou Kasumi",
+      "alt_names": [
+        "霞清蔵",
+        "Seizo Kasumi",
+        "Sunflower Samurai"
+      ],
+      "role": "supporting",
+      "description": "The samurai who smells of sunflowers.    ~!The Sunflower Samurai is Kasumi Seizō, a Christian samurai who played a leading role in the Shimabara rebellion. His death is sought by the Shogunate as a result of this betrayal.   The objective of the trio's quest, he is revealed later on in the series to actually be Fuu's father. He left Fuu and her mother to save them from anti-Christian persecution (he was a major proponent of Christianity, considered heretical at the time). Fuu, however, thinks that his abandoning the family was unforgivable. Her only memory of him is a departing figure shifting through a field of sunflowers.   He was relentlessly pursued by the Shogunate, but succeeded in evading them. When Fuu began to search for him, the Shogunate had her followed. She led them right to him, sick and dying in a hut on Ikitsuki Island. Kariya Kagetoki arrives just after Fuu's tearful reconciliation with her father and kills him right in front of her. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b396-x4knMODyfW1U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 396
+      }
+    },
+    {
+      "id": "oniwakamaru",
+      "name": "Oniwakamaru",
+      "alt_names": [
+        "鬼若丸"
+      ],
+      "role": "supporting",
+      "description": "Oniwakamaru is a large man with a misshapen face that frightenes most people. Oniwakamaru is haunted by memories of being chased out of a village by a torch wielding mob, and is what motivates is defensive violence. He wields a large double bladed weapon and is strong enough to knock a defending fighter off their feet.    In episode 2, Ryujiro frees Oniwakamaru from jail and manipulates him into becoming his bodyguard while Ryujiro exacts his vengance upon Mugen, Jin, and Fuu. Ryujiro &quot;controls&quot; Oniwakamaru&#039;s action by bringing up his past, for instance saying that the prefectural police who are after Ryujiro are actually going to hurt Oniwakamaru like the villagers did, causing Oniwakamaru to kill both officers in a blind rage.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b397-hldR7D4ycxMF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 397
+      }
+    },
+    {
+      "id": "hotaru",
+      "name": "Hotaru",
+      "alt_names": [
+        "ほたる"
+      ],
+      "role": "supporting",
+      "description": "A Russet-haired beauty who the trio encounters while traversing a forest in Episode 2. She has full lips and burgundy lipstick. Mugen fixes her broken sandal strap and she entices him to a nearby shack. They make out, but before going further Mugen pulls away, realizing he has been poisoned. Hotaru informs him that his drink and her lipstick both contain a toxin called \"one Night's Mushroom\" (a mushroom known as Hitoyo-take, C. curtus; related to C. atramentaria), which is normally benign, but which, since it was consumed with alcohol, would kill him by morning. She reveals that she is working for Ryujiro and he has the antidote. With time running short, Mugen spares her life and rushes off. This is the last we see of her.   (Source: samurai-champloo.com)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b398-CGrqCuPvK83U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 398
+      }
+    },
+    {
+      "id": "rikiei-nagatomi",
+      "name": "Rikiei Nagatomi",
+      "alt_names": [
+        "力鋭"
+      ],
+      "role": "supporting",
+      "description": "Leader of the \"Nagatomi gang\" and operator of a gambling den. He swindles gamblers out of their money and belongings. He hires Mugen to become one of his bodygaurds.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b399-fLwLMCgNEXCM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 399
+      }
+    },
+    {
+      "id": "daigorou",
+      "name": "Daigorou",
+      "alt_names": [
+        "大吾郎"
+      ],
+      "role": "supporting",
+      "description": "The catalyst for the events that unfurl in Episodes 3 and 4. After a dramatic loss at one of Rikiei's gambling establishments, he is pressured to give up either the deed to his business or his daughter, Osuzu, in order to cover his debt.    ~!He pleads with Kawara Heitarou for help, suggesting that Rikiei's establishments practice dishonesty. Kawara refuses, citing a lack of evidence. Daigoro has no choice but to give up his store, but Ishimatsu takes Osuzu as well after Sosuke tries to intervene. !~ (Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b400-UT8iwGThZMZz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 400
+      }
+    },
+    {
+      "id": "osuzu",
+      "name": "Osuzu",
+      "alt_names": [
+        "お鈴"
+      ],
+      "role": "supporting",
+      "description": "Daigorou's demure daughter; she is quite something to look at. Before she is forcibly procured by Ishimatsu, as an excuse to make up for Sousuke's insolence, she was the latter's tutor.    ~!She is put to work with in one of Rikiei's brothels, where she meets Fuu (who is also being forced into prostitution because of bad fortune) and they become friends. Both are emancipated after Rikiei's demise. !~ (Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b401-E2iJMPMyovRO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 401
+      }
+    },
+    {
+      "id": "sousuke-kawara",
+      "name": "Sousuke Kawara",
+      "alt_names": [
+        "宗介"
+      ],
+      "role": "supporting",
+      "description": "The 12-year-old son of Heitarou. First appears being tutored by Osuzu, then turns up in fight trying to get the deed to Osuzu's father's store back. Jin saves him from a beating and becomes his bodyguard.\n\n~!Takes matters into his own hand after his father refuses to get Osuzu out of the brothel, and he and Jin infiltrate dressed as an old man and a woman, respectively. They fail to free Osuzu, and the next day Susuke kills a Nagatomi who tries to molest her, precipitating a showdown between the clans. Susuke becomes the Nagatomis' hostage-wager, and is freed after Heitarou commits seppuku to atone for the murder, leaving his son as the head of the Kawara clan. !~\n\n(Source: Neko-san's Guide to the Characters of Samurai Champloo)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b402-4qu9wqpYG8pJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 402
+      }
+    },
+    {
+      "id": "heitarou-kawara",
+      "name": "Heitarou Kawara",
+      "alt_names": [
+        "平太郎",
+        "The Merciful"
+      ],
+      "role": "supporting",
+      "description": "Debut: Episode 3 \"Hellhounds for Hire\" (part 1)  Elderly clan head, known as \"The Merciful\" despite being a yakuza. First appears listening to Daigorou and Osuzu make their plea. Refuses to hire Jin, saying that it will only lead to more bloodshed. Tries several times to prevent escalation, having seen too much bloodshed in the past.    ~!After Susuke is taken hostage, he agrees to settle by wager. He loses the wager and commits seppuku. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b403-Zn4ljeeYh70q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 403
+      }
+    },
+    {
+      "id": "ishimatsu",
+      "name": "Ishimatsu",
+      "alt_names": [
+        "石松"
+      ],
+      "role": "supporting",
+      "description": "A yojimbo to an influential yakuza boss, Rikiei. His considerable height, dark skin and a string of large Buddhist beads he wears around his neck are distinctive features.    ~!Rikiei offers Mugen a partnership after Mugen impresses him with his fighting skills. This does not sit well with Ishimatsu, and he and Mugen do not get along; barely past introductions they are attacking each other. Their duel is cut short by Rikiei, who wants to get down to business. Eventually, disillusioned by Kawara Heitarou's sacrifice, Ishimatsu cuts down Rikiei, and finishes his duel with Mugen. He suffers an honorable defeat. His manriki can be seen as a wild card, in the same light as Mugen's tantou. !~ (Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b404-za6oTYKoPgUe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 404
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T00:57:29.708Z"
+}

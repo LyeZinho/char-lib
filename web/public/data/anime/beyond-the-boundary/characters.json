@@ -1,0 +1,318 @@
+{
+  "work_id": "beyond-the-boundary",
+  "count": 13,
+  "characters": [
+    {
+      "id": "mirai-kuriyama",
+      "name": "Mirai Kuriyama",
+      "alt_names": [
+        "栗山未来",
+        "くりやまみらい"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 152 cm\n\nMirai Kuriyama is the deuteragonist of the Kyoukai no Kanata series. She is a first-year student and a member of the school's Literary Club. She comes from a bloodline of Spirit World Warriors who possess blood-manipulation abilities. However, because these abilities are considered heretical among the Spirit World Warrior clans, she is shunned. After meeting Kambara Akihito she started opening up to people and relating to them again.",
+      "metadata": {
+        "gender": "female",
+        "age": "14-15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b81751-nUEIrhRFlkKc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81751
+      }
+    },
+    {
+      "id": "mitsuki-nase",
+      "name": "Mitsuki Nase",
+      "alt_names": [
+        "名瀬美月"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 165 cm (5'5\")\n\nNase Mitsuki is the sadistic second daughter of the famous underworlder Nase household. She is with Akihito in order to observe him, but she is in fact very worried about him. She is good enough friends with Akihito to be able to speak frankly with him, and is the president of the school's literature club as a second-year student.\n\n(Source: Anime News Network)",
+      "metadata": {
+        "gender": "female",
+        "age": "16-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b81753-lsPYVQvvD1TZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81753
+      }
+    },
+    {
+      "id": "akihito-kanbara",
+      "name": "Akihito Kanbara",
+      "alt_names": [
+        "神原秋人",
+        "Akkey",
+        "Akkun"
+      ],
+      "role": "protagonist",
+      "description": "__Race:__ Half-Youmu\n__Height:__ 171 cm (5'7'')\n\nAkihito is one of the main characters of the Kyoukai no Kanata series. He is an alone living second year student and a member of his school's Literary Club. He is a half-youmu and has the ability to instantly heal from his wounds. He is mostly unfamiliar with spirit world warriors and Youmu, something rare for someone like him.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b81757-qrft6an7FZ4F.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81757
+      }
+    },
+    {
+      "id": "hiroomi-nase",
+      "name": "Hiroomi Nase",
+      "alt_names": [
+        "名瀬博臣",
+        "なせ ひろおみ"
+      ],
+      "role": "protagonist",
+      "description": "**Race:** Spirit World Warrior\n__Height:__ 178 cm (5'10\")\n\nNase Hiroomi is the eldest son of the famous underworlder Nase family and Mitsuki's elder brother. It appears that Hirooumi and Akihito had something happen between them in the past, but now they are on such good terms that they can joke around with each other. He has a little sister complex. Due to his barrier powers as an underworlder, he is extremely sensitive to cold, and is almost always seen wearing a muffler or scarf. Hiroomi is a third-year student in high school.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b81763-inhly5z6unnV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81763
+      }
+    },
+    {
+      "id": "miroku-fujima",
+      "name": "Miroku Fujima",
+      "alt_names": [
+        "藤真弥勒"
+      ],
+      "role": "supporting",
+      "description": "**Race:** Spirit World Warrior\n__Height:__ 180 cm (5'11\")\n\nHe is an antagonist and secondary character in the Kyoukai no Kanata series. He is an Interrogation Officer in the Spirit World Warriors Society.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87624-znHH4g6yLxFp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87624
+      }
+    },
+    {
+      "id": "sakura-inami",
+      "name": "Sakura Inami",
+      "alt_names": [
+        "伊波桜"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 159 cm (5'3\")\n\nShe is the second daughter of a family to whom Mirai is indebted. She came to Nagatsuki City in pursuit of Mirai, who killed her older sister, Yui.\n\n(Source: Kyoukai no Kanata Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "16-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87625-nzrSmKvS0uC9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87625
+      }
+    },
+    {
+      "id": "izumi-nase",
+      "name": "Izumi Nase",
+      "alt_names": [
+        "名瀬泉"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170 cm\n\nThe eldest daughter of the Nase clan. She usually has a calm demeanor despite having a malicious undertone. She has the viewpoint that youmu are no different from crops or farm animals and exist solely to provide her clan with a livelihood. (Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87626-nGSW5LVpisZh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87626
+      }
+    },
+    {
+      "id": "ai-shindou",
+      "name": "Ai Shindou",
+      "alt_names": [
+        "新堂愛"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 146 cm\n\nAyaka's sister who manages the appraising shop when Ayaka is unavailable. She is a cat-like youmu, with the ability to shape-shift into human form. When transformed, she appears as a two tailed cat.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87627-S3ZtpKf7OGWS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87627
+      }
+    },
+    {
+      "id": "ayaka-shindou",
+      "name": "Ayaka Shindou",
+      "alt_names": [
+        "新堂彩華"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165 cm\n\nShe is a fox Youmu, but works as a Spirit World Warrior.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87628-D79R5lqdjyG3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87628
+      }
+    },
+    {
+      "id": "shizuku-ninomiya",
+      "name": "Shizuku Ninomiya",
+      "alt_names": [
+        "二ノ宮雫",
+        "Nino"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 168 cm\n\nShe’s a beautiful, lighthearted person, who has quite a few lamentable qualities for which men often reject her.",
+      "metadata": {
+        "gender": "female",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87629-dW2MuHcSWLIl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87629
+      }
+    },
+    {
+      "id": "yui-inami",
+      "name": "Yui Inami",
+      "alt_names": [
+        "伊波唯"
+      ],
+      "role": "supporting",
+      "description": "Mirai and Yuuto's mentor figure.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87630.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87630
+      }
+    },
+    {
+      "id": "yayoi-kanbara",
+      "name": "Yayoi Kanbara",
+      "alt_names": [
+        "神原弥生"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 160 cm\n\nKanbara Yayoi is [Akihito](https://anilist.co/character/81757)'s mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87631-LAvyBujg4UO5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87631
+      }
+    },
+    {
+      "id": "yakiimo",
+      "name": "Yakiimo",
+      "alt_names": [
+        "ヤキイモ"
+      ],
+      "role": "minor",
+      "description": "Yakiimo is a youmu that Mitsuki is keeping as a pet. The name means sweet potato and it's based on its appearance.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180179-7VzXuIS7WROz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180179
+      }
+    }
+  ],
+  "updated_at": "2025-12-23T22:13:04.797Z"
+}

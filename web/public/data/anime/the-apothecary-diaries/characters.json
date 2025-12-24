@@ -1,0 +1,381 @@
+{
+  "work_id": "the-apothecary-diaries",
+  "count": 15,
+  "characters": [
+    {
+      "id": "maomao",
+      "name": "Maomao",
+      "alt_names": [
+        "猫猫",
+        "Shaomao",
+        "Xiaomao",
+        "小猫",
+        "Miêu Miêu"
+      ],
+      "role": "protagonist",
+      "description": "Maomao works as an apothecary in the red light district, helping her mentor and father Luomen in caring for its residents, with special attention given to the Verdigris Hall brothel, where she was born and was initially raised.\n\nOne day, while gathering herbs, she gets kidnapped and sold to be a common servant in the inner court of the imperial palace, where only the Emperor's consorts and their servants reside. Not allowed to leave, her curious personality and skills begin to rope her into mysterious problems that can affect the whole country.\n~! It was later revealed that Loumen was actually her adoptive father. Her biological father is Lakan, the tactician in the Li military. Loumen is actually Maomao's biological great-uncle. Her biological mother is Fengxian, who was a high ranking courtesan at the Verdigris House. !~",
+      "metadata": {
+        "gender": "female",
+        "age": "17-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126824-MqsCncTO1qpv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126824
+      }
+    },
+    {
+      "id": "jinshi",
+      "name": "Jinshi",
+      "alt_names": [
+        "壬氏",
+        "Renshi"
+      ],
+      "role": "protagonist",
+      "description": "Jinshi is the eunuch in charge of the affairs of the inner palace. He is described as having a face capable even of outshining the consorts in beauty, amazing women and men alike. He is constantly accompanied by his attendant Gaoshun and has taken an interest to Maomao's intelligence and active demeanor.",
+      "metadata": {
+        "gender": "male",
+        "age": "18-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127278-0qCQciTkPOMS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127278
+      }
+    },
+    {
+      "id": "gyokuyou",
+      "name": "Gyokuyou",
+      "alt_names": [
+        "玉葉妃",
+        "Noble Consort",
+        "Precious Consort"
+      ],
+      "role": "supporting",
+      "description": "The Noble consort, residing in the Jade Palace within the inner court. Her red hair and green eyes distinguish her from the other consorts, that being part of the reasons she became the Emperor's favoured consort, having already given birth to a girl of his. Despite these circumstances, she is very careful of whom she keeps around so she has the smallest retinue of all the high consorts.\n\n~! Later on, she gives birth to a boy, the new heir to the crown, thus becoming the Empress. !~",
+      "metadata": {
+        "gender": "female",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156767-6ncEJKdsEQ3O.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156767
+      }
+    },
+    {
+      "id": "rifa",
+      "name": "Rifa",
+      "alt_names": [
+        "梨花妃",
+        "Able Consort",
+        "Lihua",
+        "Die Weise"
+      ],
+      "role": "supporting",
+      "description": "The Able consort, residing in the Crystal Palace within the inner court. The second most favoured consort of the Emperor, said to be so in big part due to her voluptuous chest. She gave birth to a boy who succumbed for unknown reasons and she herself is in grave health condition at the start of the story.",
+      "metadata": {
+        "gender": "female",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156766-3DxfskkEqNvc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156766
+      }
+    },
+    {
+      "id": "riishu",
+      "name": "Riishu",
+      "alt_names": [
+        "里樹妃",
+        "Virtuous Consort",
+        "Lishu"
+      ],
+      "role": "supporting",
+      "description": "The Virtuous consort, residing in the Diamond Palace within the inner court. She was sent to be a high consort on the inner court as a young child because her prominent family was aware of the previous Emperor's pedophilic tendencies. When he died, she was allowed to leave as she was never visited by him, but her family arranged for her to return to her high consort position. Due to how young she is, she doesn't get any interest from the current Emperor, commands no respect, nor does she have any influence. She's very naive and gets bullied even by her own attendants.",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156764-aEbQtGaJ9PzZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156764
+      }
+    },
+    {
+      "id": "aaduo",
+      "name": "Aaduo",
+      "alt_names": [
+        "阿多",
+        "Pure Consort",
+        "Ah Duo"
+      ],
+      "role": "supporting",
+      "description": "The Pure consort, residing in the Garner Palace within the inner court. She was the current Emperor's milk sibling and childhood crush, being just a year older than him. She became the previous Emperor's consort and gave birth to his child at 18, who was stillborn. The ordeal made her infertile, but circumstances between her and the royal family allowed her to keep her position as a High Consort.\n\nShe is very spartan on the outside yet has a motherly side to her.\n\n~!She is Jinshi's real mother!~",
+      "metadata": {
+        "gender": "female",
+        "age": "36",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156765-HPRJaEN81jSa.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156765
+      }
+    },
+    {
+      "id": "gaoshun",
+      "name": "Gaoshun",
+      "alt_names": [
+        "高順"
+      ],
+      "role": "supporting",
+      "description": "Gaoshun is Jinshi's attendant. He's shown to be extremely dependable. A stern believer in deference to authority and proper etiquette, his disapproval is often splattered in his transparent facial expressions, even if he says nothing.",
+      "metadata": {
+        "gender": "male",
+        "age": "37",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244317-zm6LeJmLN9kZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244317
+      }
+    },
+    {
+      "id": "hongniang",
+      "name": "Hongniang",
+      "alt_names": [
+        "紅娘",
+        "Honnyan"
+      ],
+      "role": "supporting",
+      "description": "Lady Gyokuyou's head lady-in-waiting.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244318-YcVnmMdicoKs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244318
+      }
+    },
+    {
+      "id": "meimei",
+      "name": "Meimei",
+      "alt_names": [
+        "梅梅"
+      ],
+      "role": "supporting",
+      "description": "Meimei is one of the Three Princesses of Verdigris Hall. She started as Fenshen's apprentice and, being somewhat cunning herself, inherited Fenshen's taste for strategy board games. She is the most attached to the brothel and the people within.",
+      "metadata": {
+        "gender": "female",
+        "age": "30",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244319-UtvzNJwwo7bD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244319
+      }
+    },
+    {
+      "id": "pairin",
+      "name": "Pairin",
+      "alt_names": [
+        "白鈴"
+      ],
+      "role": "supporting",
+      "description": "Pairin is the oldest of the Three Princesses of Verdigris Hall. She loves men's bodies and dreams of being taken away by a muscular prince.",
+      "metadata": {
+        "gender": "female",
+        "age": "30s",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274189-HUP7GDBJMzXs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 274189
+      }
+    },
+    {
+      "id": "joka",
+      "name": "Joka",
+      "alt_names": [
+        "女華",
+        "Jyoka"
+      ],
+      "role": "supporting",
+      "description": "Joka is the youngest of the Three Princesses of Verdigris Hall and one of Maomao's adopted sisters.",
+      "metadata": {
+        "gender": "female",
+        "age": "20s",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274193-0YeumFVEUR4j.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 274193
+      }
+    },
+    {
+      "id": "fuyou",
+      "name": "Fuyou",
+      "alt_names": [
+        "芙蓉",
+        "Furong"
+      ],
+      "role": "supporting",
+      "description": "A mid-rank consort, princess of a distant land. She became the Emperor's middle consort against her will.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244321-wQJC4Kvdqq5o.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244321
+      }
+    },
+    {
+      "id": "ruomen",
+      "name": "Ruomen",
+      "alt_names": [
+        "羅門",
+        "Luomen"
+      ],
+      "role": "supporting",
+      "description": "Ruomen is a physician of the Inner Court, a physician in the red-light district, and Maomao's father.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b261968-dz3PwsJ9Csl9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 261968
+      }
+    },
+    {
+      "id": "yarite-baba",
+      "name": "Yarite Baba",
+      "alt_names": [
+        "やり手婆",
+        "Madam"
+      ],
+      "role": "supporting",
+      "description": "Once a high ranking courtesan herself, the Madam is now the runner of the Vergidris Hall.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274187-WSsVDyNUT6SM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 274187
+      }
+    },
+    {
+      "id": "xiaolan",
+      "name": "Xiaolan",
+      "alt_names": [
+        "小蘭",
+        "Shaoran"
+      ],
+      "role": "supporting",
+      "description": "Xiaolan is a servant in the inner court of the palace. Carefree and easy to please, she looks at her sale to the inner palace as a good thing, since at least she now has proper bedding and meals. She loves gossiping and constantly serves as a source of possibilities for Maomao to brainstorm over.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274186-lzElg0bbpo1O.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 274186
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T02:06:31.635Z"
+}

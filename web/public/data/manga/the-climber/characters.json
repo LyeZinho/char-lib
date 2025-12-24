@@ -1,0 +1,358 @@
+{
+  "work_id": "the-climber",
+  "count": 15,
+  "characters": [
+    {
+      "id": "buntarou-mori",
+      "name": "Buntarou Mori",
+      "alt_names": [
+        "森文太郎",
+        "The Immortal Solo Climber"
+      ],
+      "role": "protagonist",
+      "description": "A transfer student, who after being talked into climbing the school building, discovered a sense of fulfillment upon reaching the top. After which he became interested in rock-climbing. He is a loner who says he doesn&#039;t need friends, and seems to have gone through something in the past. He would rather climb a mountain alone than with a partner.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35510-qMAnMK0udakL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 35510
+      }
+    },
+    {
+      "id": "yumi-shirai",
+      "name": "Yumi Shirai",
+      "alt_names": [
+        "白井夕実"
+      ],
+      "role": "supporting",
+      "description": "She is [Mori's](https://anilist.co/character/35510/Buntarou-Mori) classmate in his new high school.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36838-lQQ4H44eVGnz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36838
+      }
+    },
+    {
+      "id": "masao-oonishi",
+      "name": "Masao Oonishi",
+      "alt_names": [
+        "大西政雄"
+      ],
+      "role": "supporting",
+      "description": "[Mori's](https://anilist.co/character/35510/Buntarou-Mori) teacher at school.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36840-Vq3OxOWQVggI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36840
+      }
+    },
+    {
+      "id": "hajime-miyamoto",
+      "name": "Hajime Miyamoto",
+      "alt_names": [
+        "宮本一"
+      ],
+      "role": "supporting",
+      "description": "A classmate of [Mori](https://anilist.co/character/35510/Buntarou-Mori) who also is fond of climbing mountains.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36841-Lah6GMoXagNM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36841
+      }
+    },
+    {
+      "id": "ayumu-takemura",
+      "name": "Ayumu Takemura",
+      "alt_names": [
+        "竹村歩"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67535-WpEhgYqNjSJP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67535
+      }
+    },
+    {
+      "id": "isao-adachi",
+      "name": "Isao Adachi",
+      "alt_names": [
+        "足立勲"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67537-NNrG1LRZiiov.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67537
+      }
+    },
+    {
+      "id": "hana-katou",
+      "name": "Hana Katou",
+      "alt_names": [
+        "加藤花"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67539-HD3euz81nOu4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67539
+      }
+    },
+    {
+      "id": "tatsuji-komatsu",
+      "name": "Tatsuji Komatsu",
+      "alt_names": [
+        "小松辰治"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "52",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/67541.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67541
+      }
+    },
+    {
+      "id": "akihiko-kase",
+      "name": "Akihiko Kase",
+      "alt_names": [
+        "加瀬晃彦"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "36",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67543-HkGoTgR6IHr3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67543
+      }
+    },
+    {
+      "id": "taku-niimi",
+      "name": "Taku Niimi",
+      "alt_names": [
+        "新美拓"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67545-xWG7Pq8fJPsB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67545
+      }
+    },
+    {
+      "id": "yasufumi-murata",
+      "name": "Yasufumi Murata",
+      "alt_names": [
+        "村田康文"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "32",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67547-nNNdzzMk0VuA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67547
+      }
+    },
+    {
+      "id": "yuusuke-ninomiya",
+      "name": "Yuusuke Ninomiya",
+      "alt_names": [
+        "二宮祐介"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/67549.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67549
+      }
+    },
+    {
+      "id": "aoi-maezono",
+      "name": "Aoi Maezono",
+      "alt_names": [
+        "前園蒼"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382278-4hdK70ibFO4A.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382278
+      }
+    },
+    {
+      "id": "ishida",
+      "name": "Ishida",
+      "alt_names": [
+        "石田",
+        "Ishida Sensei (石田先生)"
+      ],
+      "role": "supporting",
+      "description": "[Mori's](https://anilist.co/character/35510/) homeroom teacher.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b383325-vfb537PRKbms.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 383325
+      }
+    },
+    {
+      "id": "keito-hara",
+      "name": "Keito Hara",
+      "alt_names": [
+        "原渓人"
+      ],
+      "role": "supporting",
+      "description": "Keito Hara is a solitary climber. ~!After dying from hypothermia on K2, his body was later found on the mountain by [Buntarou Mori](https://anilist.co/character/35510/Buntarou-Mori).!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b383326-b1dkwANgPRk8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 383326
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T10:22:30.872Z"
+}

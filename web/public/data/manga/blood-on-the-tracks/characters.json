@@ -1,0 +1,146 @@
+{
+  "work_id": "blood-on-the-tracks",
+  "count": 6,
+  "characters": [
+    {
+      "id": "seiichi-osabe",
+      "name": "Seiichi Osabe",
+      "alt_names": [
+        "長部静一"
+      ],
+      "role": "protagonist",
+      "description": "He is a shy and insecure school student.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": "1981-03-19"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135220-EcBIh1DXFxSs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135220
+      }
+    },
+    {
+      "id": "seiko-osabe",
+      "name": "Seiko Osabe",
+      "alt_names": [
+        "長部静子"
+      ],
+      "role": "protagonist",
+      "description": "She is Seiichi's mother. She is very overprotective with her son and will do anything for him. She is very manipulative.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135222-5F2iZFBoWmHo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135222
+      }
+    },
+    {
+      "id": "yuko-fukiishi",
+      "name": "Yuko Fukiishi",
+      "alt_names": [
+        "吹石由衣子"
+      ],
+      "role": "supporting",
+      "description": "She is Seiichi's classmate and the girl he likes.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135221-zqIyE04E8kDM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135221
+      }
+    },
+    {
+      "id": "shigeru-no-haha",
+      "name": "Shigeru no Haha",
+      "alt_names": [
+        "シゲルの母",
+        "Shigeru's Mom"
+      ],
+      "role": "supporting",
+      "description": "She visited the Osabe family with Shigeru almost every week. Like her son Shigeru, she has a sociable personality, but she thinks that Seiko was too overprotective of Seiichi.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199806-c5vibOOUnI9U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199806
+      }
+    },
+    {
+      "id": "ichiro-osabe",
+      "name": "Ichiro Osabe",
+      "alt_names": [
+        "長部 一郎"
+      ],
+      "role": "supporting",
+      "description": "Father of Seiichi and Husband of Seiko. Has little time for them due to his work.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199807-IVm3MaoTWqn8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199807
+      }
+    },
+    {
+      "id": "shigeru",
+      "name": "Shigeru",
+      "alt_names": [
+        "シゲル"
+      ],
+      "role": "supporting",
+      "description": "Seiichi's cousin, a boy of the same age. Compared to Seiichi, he is more active and clearly says what he thinks. He visits the Osabe family with his mother almost every week and plays Videogames against Seiichi and beats him everytime.\n\n~!Shigeru passes away when Seiichi pushes him off a cliff.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199808-SZA8fPbFCSmN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199808
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T12:50:40.809Z"
+}
