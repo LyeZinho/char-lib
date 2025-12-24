@@ -1,0 +1,355 @@
+{
+  "work_id": "nichijou-my-ordinary-life",
+  "count": 15,
+  "characters": [
+    {
+      "id": "yuuko-aioi",
+      "name": "Yuuko Aioi",
+      "alt_names": [
+        "相生祐子",
+        "Yukko"
+      ],
+      "role": "protagonist",
+      "description": "An energetic high school girl with short brown hair. One of her negative sides is that she is often too lazy to do her own homework and always copies from either Mio or Mai.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b10418-nDUxYpR4dpmA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 10418
+      }
+    },
+    {
+      "id": "mai-minakami",
+      "name": "Mai Minakami",
+      "alt_names": [
+        "水上麻衣"
+      ],
+      "role": "protagonist",
+      "description": "A rather quiet girl who is very intelligent and often is seen with a book. She is seen to be multi-talented, excelling at using projectiles, arm wrestling, and especially pulling pranks, usually at the expense of Yuuko. She also frequently enjoys carving Buddha and Drawing in her spare time.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b10421-gPMhyPdWOxiu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 10421
+      }
+    },
+    {
+      "id": "nano-shinonome",
+      "name": "Nano Shinonome",
+      "alt_names": [
+        "東雲なの"
+      ],
+      "role": "protagonist",
+      "description": "A robotic schoolgirl that was built by a Professor. She often worries about keeping her identity as a robot from others, despite the fact that everyone already knows about it due to the noticeable wind-up key exposed on her back. Luckily most don&#039;t make a big fuss about it. Her limbs will sometimes fall apart, revealing dubious items that Professor has installed without her noticing, ranging from bean-firing-weapons to Swiss rolls. She is also the Professor&#039;s caretaker.\n\nShe wishes to live life as a normal girl and therefore really wants the wind-up key on her back removed.     ~!In the last episode, after her school friends come over for a surprise birthday party, Nano decides that although the key has been annoying, she prefers things the way they are. The Professor installs a new key on her back that looks the same but spins when Nano is happy.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b10422-sNVCjkRg7lOd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 10422
+      }
+    },
+    {
+      "id": "mio-naganohara",
+      "name": "Mio Naganohara",
+      "alt_names": [
+        "長野原みお",
+        "Daisuke Naganohara (長野原大介)"
+      ],
+      "role": "protagonist",
+      "description": "A bright and cheerful girl sporting light blue hair and pigtails held by two small wooden cubes. She has a crush on Kojiro. She's usually a calm and collected person who can support her friends whenever they're in a pinch. But she's a lot more sensitive than she lets on, and more often than not needs that support back in return.   \n\n~!She is a fujoshi mangaka, going under the name Daisuke Naganohara.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40081-dGRecovyuQMo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 40081
+      }
+    },
+    {
+      "id": "hakase-shinonome",
+      "name": "Hakase Shinonome",
+      "alt_names": [
+        "東雲はかせ",
+        "Professor"
+      ],
+      "role": "protagonist",
+      "description": "She is a young scientist, who despite her outstanding intelligence, still reflects her age.\n\nShe loves sharks and snacks, and constantly modifies Nano Shinonome, whom she created, to add strange and unusual functions such as a machine gun right hand and a swiss roll dispensing arm. Nano, most of the time, is unaware of these modifications until they are first used. However, Hakase always refuses to remove the obvious wind-up key from Nano's back cause she thinks that it’s cute, despite Nano's requests to do so.",
+      "metadata": {
+        "age": "8",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b41055-RZH1b5am1LvO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 41055
+      }
+    },
+    {
+      "id": "sakamoto",
+      "name": "Sakamoto",
+      "alt_names": [
+        "阪本",
+        "Taisho"
+      ],
+      "role": "protagonist",
+      "description": "A black cat who wears a scarf created by the Professor, which allows him to speak. Being technically older than both Nano and the Professor, he speaks in a condescending tone towards them, though he occasionally succumbs to his catlike habits.   ~!In the last episode, it is revealed that Sakamoto used to be Nakamura's cat and was called \"Taisho\". Sakamoto does not want to return to Nakamura because she did not take good care of him, even though she had good intentions.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b41069-x6vyw7EIn1ET.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 41069
+      }
+    },
+    {
+      "id": "kousuke-oura",
+      "name": "Kousuke Oura",
+      "alt_names": [
+        "邑楽耕介",
+        "Kyoutou-sensei; Vice Principal"
+      ],
+      "role": "supporting",
+      "description": "He is a Vice Principal of Tokisadame HIgh School.",
+      "metadata": {
+        "gender": "male",
+        "age": "59",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n41613-hfYztciMfzK7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 41613
+      }
+    },
+    {
+      "id": "tomioka",
+      "name": "Tomioka",
+      "alt_names": [
+        "富岡"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n41614-2NqROVSXMmZZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 41614
+      }
+    },
+    {
+      "id": "misato-tachibana",
+      "name": "Misato Tachibana",
+      "alt_names": [
+        "立花みさと"
+      ],
+      "role": "supporting",
+      "description": "A peach haired high school girl who generally acts as a tsukkomi towards Koujirou. Whenever he does anything to annoy her, she uses various guns and heavy weaponry that come out of nowhere on him, which he miraculously survives despite being injured.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b41615-Mt6rmssvtl1h.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 41615
+      }
+    },
+    {
+      "id": "koujirou-sasahara",
+      "name": "Koujirou Sasahara",
+      "alt_names": [
+        "笹原幸治郎"
+      ],
+      "role": "supporting",
+      "description": "A rich flamboyant high school boy who likes to think he is an aristocrat when in reality his family are just farmers. He likes to ride his goat to school and is often seen with his butler.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n41616-KciExWbYstNW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 41616
+      }
+    },
+    {
+      "id": "izumi-sakurai",
+      "name": "Izumi Sakurai",
+      "alt_names": [
+        "桜井泉"
+      ],
+      "role": "supporting",
+      "description": "A young, shy, and easily frightened teacher. She tries to enforce the school rules to the students albeit unsuccessfully.",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n41617-NNjjcFqlirev.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 41617
+      }
+    },
+    {
+      "id": "kouchou-sensei",
+      "name": "Kouchou-sensei",
+      "alt_names": [
+        "校長先生",
+        "Principal Shinonome"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "62",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n41618-vaMw6l0UeMkD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 41618
+      }
+    },
+    {
+      "id": "yoshino-naganohara",
+      "name": "Yoshino Naganohara",
+      "alt_names": [
+        "長野原よしの"
+      ],
+      "role": "supporting",
+      "description": "Mio&#039;s older sister who likes to wear costumes and play pranks on her.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b41898-hmAjvTvJcgr9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 41898
+      }
+    },
+    {
+      "id": "haruna-annaka",
+      "name": "Haruna Annaka",
+      "alt_names": [
+        "安中榛名",
+        "Eh-chan"
+      ],
+      "role": "supporting",
+      "description": "Yuuko and Mio's classmate. She always wears a big red ribbon. Her common reaction to something that surprises/shocks her consists in expressing herself by making the sound \"ehhhhh\"",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b41899-6pY3S7qVMLkI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 41899
+      }
+    },
+    {
+      "id": "yuria-sekiguchi",
+      "name": "Yuria Sekiguchi",
+      "alt_names": [
+        "関口ユリア"
+      ],
+      "role": "supporting",
+      "description": "A quiet first-year girl who is a member of the go-soccer club and is often seen reading a book called &quot;Helvetica Standard&quot;.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b42494-wpFKIeBzxMWz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 42494
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T16:14:22.051Z"
+}

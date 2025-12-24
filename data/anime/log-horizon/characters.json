@@ -1,0 +1,352 @@
+{
+  "work_id": "log-horizon",
+  "count": 15,
+  "characters": [
+    {
+      "id": "shiroe",
+      "name": "Shiroe",
+      "alt_names": [
+        "シロエ",
+        "The Villain in Glasses",
+        "腹黒メガネ",
+        "Dark Shiroe",
+        "Scrivener of the East",
+        "Arch Mage"
+      ],
+      "role": "protagonist",
+      "description": "__Race:__ Half-Alv\n__Class:__ Enchanter\n__Height:__ 177 cm (5'10\")\n\nShiroe, the main protagonist of the series, was an engineering grad student before the Apocalypse. He's one of the most experienced and skillful adventurers in the game, due to having started playing Elder Tale when he was in middle school. He's also infamous for being a brilliant tactician. He is renowned as the strategist of the Debauchery Tea Party, an informal group that managed to tackle some of the game's most difficult raids. He knows Naotsugu from the time both of them spent with the Debauchery Tea Party.\n\nAs an introvert with asocial tendencies, he would rather not have anything to do with guilds. Which is also because he doesn't want people to use him for his knowledge and skills. However, he doesn't actually hate other people, and he tends sympathize with beginners, especially if they happen to be children.",
+      "metadata": {
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b81367-nE2CB4jLVPeu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81367
+      }
+    },
+    {
+      "id": "akatsuki",
+      "name": "Akatsuki",
+      "alt_names": [
+        "アカツキ"
+      ],
+      "role": "protagonist",
+      "description": "__Race__: Human\n__Class__: Assassin\n__Subclass__: Tracker\n\nA highly skilled level 90 adventurer who met Shiroe and Naotsugu shortly after the Apocalypse. Shiroe gave her the appearance changing potion (which allowed her character to look more like her real self); before that, she had been playing as a male character. She's very loyal to Shiroe for his generosity, and addresses him as \"Master\".\n\nAkatsuki is rather insecure about her height, and hates it when people mistake her for a child (despite the fact that she is about Shiroe's age). She has a habit of kneeing Naotsugu in the face when he says anything perverted.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n81369-0vKZMoOH3NZT.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81369
+      }
+    },
+    {
+      "id": "naotsugu",
+      "name": "Naotsugu",
+      "alt_names": [
+        "直継"
+      ],
+      "role": "protagonist",
+      "description": "__Race:__ Human\n__Class:__ Guardian\n__Subclass:__ Border Patrol\n\nNaotsugu is a friend of Shiroe. He believes that every man is a pervert, either openly or secretly. Thus, he prides himself for being an \"open pervert\", freely sharing his perverted thoughts about women with everyone.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/81371-03gxHpwaBbVL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81371
+      }
+    },
+    {
+      "id": "nyanta",
+      "name": "Nyanta",
+      "alt_names": [
+        "にゃん太"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Werecat\n__Class:__ Swashbuckler\n__Subclass:__ Chef\n\nNyanta is an old friend of Shiroe, as he also used to be a member of the Debauchery Tea Party. He's the one who protected Serara while she was trapped in the city of Susukino. He considers himself a \"gentleman\"; his weapon of choice is the rapier which he can double-wield. He can cook meals that have actual taste due to his subclass.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/81373-oG4Bngt03jKk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81373
+      }
+    },
+    {
+      "id": "marielle",
+      "name": "Marielle",
+      "alt_names": [
+        "マリエール"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Elf\n__Class:__ Cleric\n__Subclass:__ Woodcrafter\n__Guild:__ Crescent Moon Alliance\n\nGuild master of Crescent Moon Alliance. She's overly-friendly with everyone she meets, especially Naotsugu.",
+      "metadata": {
+        "gender": "female",
+        "age": "28\r\r",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88376-OlBiSAYIY27B.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88376
+      }
+    },
+    {
+      "id": "henrietta",
+      "name": "Henrietta",
+      "alt_names": [
+        "ヘンリエッタ"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human\n__Class:__ Bard\n__Subclass:__ Accountant\n__Guild:__ Crescent Moon Alliance\n\nShe works directly under Marielle and loves everything that's cute.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88377.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88377
+      }
+    },
+    {
+      "id": "serara",
+      "name": "Serara",
+      "alt_names": [
+        "セララ"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human\n__Class:__ Druid\n__Subclass:__ Maid\n__Guild:__ Crescent Moon Alliance\n\nShe is saved by Nyanta in her time of need, and calls her guild for help. However, her guild would take to long to get to her location, so Shiroe and his group go in their stead. She falls into the habit of cleaning to take things off her mind, which uselessly raises her maid level. Her class is one of the healing classes in Elder Tale, but her level isn't high enough to heal as quickly as high level players.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88378.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88378
+      }
+    },
+    {
+      "id": "shouryuu",
+      "name": "Shouryuu",
+      "alt_names": [
+        "小竜"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Wolf Fang\n__Class:__ Swashbuckler\n__Guild:__ Crescent Moon Alliance\n\nHe has strong feelings for Marielle and will assist her in any way he can.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88379.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88379
+      }
+    },
+    {
+      "id": "hien",
+      "name": "Hien",
+      "alt_names": [
+        "飛燕"
+      ],
+      "role": "supporting",
+      "description": "Race: Fox Tail\r\nClass: Assassin\r\nGuild: Crescent Moon Alliance\r\n\r\nOften argues with Shouryuu over trivial matters.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88380.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88380
+      }
+    },
+    {
+      "id": "liliana",
+      "name": "Liliana",
+      "alt_names": [
+        "リリアナ"
+      ],
+      "role": "supporting",
+      "description": "Race: Elf\r\nGuild: Crescent Moon Alliance",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88381.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88381
+      }
+    },
+    {
+      "id": "ashlynn",
+      "name": "Ashlynn",
+      "alt_names": [
+        "アシュリン"
+      ],
+      "role": "supporting",
+      "description": "Race: Fox Tail\r\nGuild: Crescent Moon Alliance",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88382.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88382
+      }
+    },
+    {
+      "id": "eisel",
+      "name": "Eisel",
+      "alt_names": [
+        "アイゼル"
+      ],
+      "role": "supporting",
+      "description": "Race: Half-Alv\r\nClass: Sorcerer\r\nGuild: Crescent Moon Alliance",
+      "metadata": {
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88383.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88383
+      }
+    },
+    {
+      "id": "asuka",
+      "name": "Asuka",
+      "alt_names": [
+        "明日架"
+      ],
+      "role": "supporting",
+      "description": "Race: Human\r\nClass: Kannagi\r\nGuild: Crescent Moon Alliance",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88384.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88384
+      }
+    },
+    {
+      "id": "krusty",
+      "name": "Krusty",
+      "alt_names": [
+        "クラスティ"
+      ],
+      "role": "supporting",
+      "description": "Race: Human\r\nClass: Guardian\r\nSubclass: Berserker\r\nGuild: D.D.D.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88385.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88385
+      }
+    },
+    {
+      "id": "isaac",
+      "name": "Isaac",
+      "alt_names": [
+        "アイザック"
+      ],
+      "role": "supporting",
+      "description": "Race: Human\r\nClass: Guardian\r\nSubclass: Gladiator\r\nGuild: Black Sword Knights\r\n\r\nIsaac, also known as Black Sword Isaac, is the guild master of Black Sword Knights. He is a Guardian and a member of the Round Table Alliance.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88386.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88386
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T19:19:25.611Z"
+}

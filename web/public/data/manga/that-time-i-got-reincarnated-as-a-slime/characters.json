@@ -1,0 +1,382 @@
+{
+  "work_id": "that-time-i-got-reincarnated-as-a-slime",
+  "count": 15,
+  "characters": [
+    {
+      "id": "rimuru-tempest",
+      "name": "Rimuru Tempest",
+      "alt_names": [
+        "リムル・テンペスト",
+        "Satoru Mikami (三上悟)",
+        "Slime-san",
+        "Sensei",
+        "Milord",
+        "Ruler of Monsters",
+        "King of Tempest",
+        "Rising Star",
+        "Rimu-chi",
+        "Great Phantom Thief Satoru"
+      ],
+      "role": "protagonist",
+      "description": "__Species:__  Human (past life) → Slime\n__Kind:__  Reincarnated, Otherworlder\n\nRimuru Tempest, formerly known as Satoru Mikami, is the main protagonist of Tensei Shitara Slime Datta Ken. They are the founder and King of the monster country Tempest, situated in the Great Jura Forest, and the partner and sworn friend of Storm Dragon, [Veldora Tempest](https://anilist.co/character/128034/Veldora-Tempest).",
+      "metadata": {
+        "gender": "male (past life) → agender",
+        "age": "37 (past life) → 3",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123962-eL9yGV0NLMF7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123962
+      }
+    },
+    {
+      "id": "shion",
+      "name": "Shion",
+      "alt_names": [
+        "シオン（紫苑）",
+        "Samurai",
+        "Tyrant",
+        "Immortal",
+        "Legendary Ogre Goddess At Digging Up Sweet Potatoes"
+      ],
+      "role": "supporting",
+      "description": "\"War Lord\" Shion is Rimuru’s first servant to be in charge of his care as his personal secretary. She is also the leader of the Yomigaeri and also one of Rimuru's strongest fighters and is coveted by many of the Demon Lords who have met her.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128033-fLbTgW4M2yj3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128033
+      }
+    },
+    {
+      "id": "veldora-tempest",
+      "name": "Veldora Tempest",
+      "alt_names": [
+        "ヴェルドラ＝テンペスト",
+        "Storm Dragon"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 210 cm (human form), 100 m (dragon form)\n__Species:__ True Dragon\n__Blessing / Divine Protection:__ Storm Dragon's Grace, Demon Lord's Ally\n__Disaster Rank:__ Catastrophe\n\nVeldora Tempest is the youngest of the four strongest dragons (True Dragons). He is connected with Rimuru by an agreement and was known to rampage here and there. He was the one to name Rimuru and Rimuru gave him his last name, since they share the same last name, Rimuru could technically be classified as Veldora's adoptive brother.",
+      "metadata": {
+        "gender": "male",
+        "age": "2000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128034-Gg5MrpTFNSv8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128034
+      }
+    },
+    {
+      "id": "ranga",
+      "name": "Ranga",
+      "alt_names": [
+        "ランガ（嵐牙)",
+        "Wolven King"
+      ],
+      "role": "supporting",
+      "description": "\"Star Lord\" Ranga is a Wind Spirit Wolf and a loyal follower of Rimuru. The leader of the Star Wolf Clan, and the son of the previous boss of the Direwolves. He is also one of Rimuru's Twelve Patrons who has been given the title of a \"Lord\".",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128035-7r8BX1tt8BKg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128035
+      }
+    },
+    {
+      "id": "milim-nava",
+      "name": "Milim Nava",
+      "alt_names": [
+        "ミリム・ナーヴァ",
+        "Mirimu Naava",
+        "Destroyer",
+        "Demon Lord of Absurdity",
+        "Greatest Among the Ten Great Demon Lords At Digging Up Sweet Potatoes"
+      ],
+      "role": "supporting",
+      "description": "__Kind:__ Inhabitant\n\n\"Destroyer\" Milim Nava is one of the oldest and strongest Demon Lords. She is a Dragonoid. Her nickname, Destroyer, is not just for show. She is a demon lord one should never fight against.",
+      "metadata": {
+        "gender": "female",
+        "age": "2000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128036-lW0dxNwerqw4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128036
+      }
+    },
+    {
+      "id": "shizu",
+      "name": "Shizu",
+      "alt_names": [
+        "シズ",
+        "Shizue Izawa (井沢静江)",
+        "Conqueror of Flames",
+        "Explosive Monarch"
+      ],
+      "role": "supporting",
+      "description": "Shizu was the companion of the previous Hero and a Japanese Summoned One. She is also known as the \"Explosive Monarch\", an A ranked Adventurer of the Freedom Association's Headquarters, and the formal homeroom teacher of the Freedom Academy's S Class students.\n\nShe was also the mentor of several excellent pupils whom became important figures of society.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128037-kJ3HzX4s4iDl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128037
+      }
+    },
+    {
+      "id": "benimaru",
+      "name": "Benimaru",
+      "alt_names": [
+        "ベニマル（紅丸）",
+        "Samurai General",
+        "Oni King",
+        "Young Master",
+        "Heavenly King"
+      ],
+      "role": "supporting",
+      "description": "Benimaru is one of the third group of subordinate Monsters to be named by Rimuru Tempest. Originally an Ogre, he was uncertain of his servitude and intended for it to be temporary, but after being named, he evolved into a Kijin, immediately becoming Rimuru's most powerful subordinate for a time, and decided to serve him permanently. He lives in the Capital city of the Jura Tempest Federation: Rimuru City. Soon after, and became Commander-in-Chief, giving him direct command over Tempest's military forces. Upon Rimuru's ascension to a True Demon Lord, Benimaru evolved into a Fair Oni and reached the strength of a Disaster-Class Monster.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128038-VgVcqf6NDGJ5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128038
+      }
+    },
+    {
+      "id": "souei",
+      "name": "Souei",
+      "alt_names": [
+        "ソウエイ（蒼影）",
+        "Blue Shadow"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 180 cm (Kijin), 190 cm (Ogre)\n\nSouei is an Ogre that was among the third group of subordinates to be named by Rimuru Tempest. He is Rimuru's faithful shadow and the leader of the Shadow Squad of the Jura Tempest Federation.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128039-cce4njbCcb2M.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128039
+      }
+    },
+    {
+      "id": "shuna",
+      "name": "Shuna",
+      "alt_names": [
+        "シュナ（朱菜）",
+        "Oni Princess",
+        "Shrine Maiden"
+      ],
+      "role": "supporting",
+      "description": "Shuna is one of the third group of subordinate Monsters to be named by Rimuru, evolving her from an Ogre to a Kijin. She was originally the princess of the Ogre tribe and even though she had the talent for using Magic, she was a sheltered girl, but quickly got along with the Goblinas\n\nShuna is the daughter of the late ogre chieftain and she is also Benimaru's younger sister, which is why she's nicknamed \"Oni Princess\" by Rimuru. Very skilled and knowledgeable in domestic matters, she essentially becomes Rimuru's chief economic advisor together with Rigurd.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128040-QOhtFHgfOT5O.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128040
+      }
+    },
+    {
+      "id": "daikenja",
+      "name": "Daikenja",
+      "alt_names": [
+        "大賢者",
+        "Great Sage"
+      ],
+      "role": "supporting",
+      "description": "Unique Skill Great Sage is one of the first two Unique Skills (the other being Predator) that [Rimuru Tempest](https://anilist.co/character/123962/Rimuru-Tempest) had upon being born into his new world. It had evolved from Unique Skill Sage during his death, as he thought since he was approaching his forties as a virgin, he must be something much greater than a mere wizard. \n\n~!During Rimuru's evolution into Demon Lord this Unique Skill evolved into the Ultimate Skill: Wisdom King Raphael.!~\n\n~!Rimuru gave her a name and she evolved into a manas with the name Ciel!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129347-m1xftx27rHwl.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129347
+      }
+    },
+    {
+      "id": "rigurd",
+      "name": "Rigurd",
+      "alt_names": [
+        "リグルド"
+      ],
+      "role": "supporting",
+      "description": "Formerly the chief of the goblin village Rimuru comes across. He's now the acting prime minister of the Jura Tempest Federation. He evolved into a hobgoblin when Rimuru named him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129348-uWQXM503laJT.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129348
+      }
+    },
+    {
+      "id": "rigur",
+      "name": "Rigur",
+      "alt_names": [
+        "リグル",
+        "Rigor",
+        "Riguru"
+      ],
+      "role": "supporting",
+      "description": "Rigur was named after his late elder brother.\n\nRigur, after making Gobuta the garrison squad leader, has been supporting his father Rigurdo.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129349-lneC6Glj2bps.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129349
+      }
+    },
+    {
+      "id": "gobta",
+      "name": "Gobta",
+      "alt_names": [
+        "ゴブタ",
+        "Gobuta"
+      ],
+      "role": "supporting",
+      "description": "Gobta is a hobgoblin and is one of Rimuru Tempest's followers. Though he seems to be air-headed he tends to be a hard-worker and dependable when the time calls for it.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129350-qF2RlaSXb8Ro.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129350
+      }
+    },
+    {
+      "id": "myrd",
+      "name": "Myrd",
+      "alt_names": [
+        "ミルド"
+      ],
+      "role": "supporting",
+      "description": "Myrd is younger brother of Garm and Dord. Though he was a dwarf of few words, he was an expert at what he does. Having knowledge in construction, and well-versed in the arts, he is a one of a kind genius. Myrd was appointed as the captain of the construction team.\n\n(Source: Tensei Shitara Slime Datta Ken Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129914-30U7I3xGmL3q.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129914
+      }
+    },
+    {
+      "id": "kaijin",
+      "name": "Kaijin",
+      "alt_names": [
+        "カイジン"
+      ],
+      "role": "supporting",
+      "description": "Kaijin was a blacksmith of the Dwarven Kingdom, and the brother of Kaidou. After he was exiled from his own country, he became Rimuru Tempest's subordinate, and helped build the Monster City \"Tempest\", he acted as a builder, blacksmith, and craftsmen. He also was the former commander of the Dwargon Engineering Corps.\n\n(Source: Tensei Shitara Slime Datta Ken Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129915-09RUrdTUgymf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129915
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T15:12:46.603Z"
+}

@@ -1,0 +1,373 @@
+{
+  "work_id": "relife",
+  "count": 15,
+  "characters": [
+    {
+      "id": "arata-kaizaki",
+      "name": "Arata Kaizaki",
+      "alt_names": [
+        "海崎新太",
+        "Test Subject No. 002"
+      ],
+      "role": "protagonist",
+      "description": "A 27-year old man who seems to fail at every job interview he partakes in. He accepts an offer to be part of the ReLIFE experiment in order to receive a recommendation to a company.\n\n~!In Chapter 221, he learns that Chizuru was a subject of ReLIFE and was shocked to discover she is older than him. After she briefly becomes sad at his possible disappointment, he assures her that he is happy with the revelation and hugs her which surprises but delights her. He then confesses his feelings for her that he is truly in love with her and wishes to be with her forever, and asks her to go out on a date with him. She is very touched by this declaration and states if he is okay with her she'll go out with him on a date, as they smile at each other and share their first kiss.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89425-vLPRybM1gNa7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89425
+      }
+    },
+    {
+      "id": "chizuru-hishiro",
+      "name": "Chizuru Hishiro",
+      "alt_names": [
+        "日代千鶴",
+        "Hishiron"
+      ],
+      "role": "protagonist",
+      "description": "A prodigy who has the best grades among the girls in her class. She's extremely bad at communication. She has a habit of immediately looking up anything she doesn't understand on the internet.\n\n~!Hishiro was in fact Test Subject No. 001 of the Kantou Branch of ReLIFE Laboratory. Her inter-personal issues had made her not able to keep any job for long, and the list of short-term employments on her resume eventually made her unemployable. Her first year of ReLIFE experiment was a failure, but she was given a second chance, and she made the effort to make friends the second year. With the help of Kazaki and her friends, she was able to overcome her past issues and restore her feelings that were damaged in the past.\n\nAfter her ReLIFE experiment ended, she joined the ReLIFE Laboratory in the Research and Development Division.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89426-9VS3dWDKDs4v.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89426
+      }
+    },
+    {
+      "id": "ryou-yoake",
+      "name": "Ryou Yoake",
+      "alt_names": [
+        "夜明了"
+      ],
+      "role": "protagonist",
+      "description": "A member of the ReLife research team, and the person in charge of Arata's experiment. He's always cheerful, but has a cunning personality. He takes the form of a high schooler and supports Arata as a classmate.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89427-1maEZa0szSC9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89427
+      }
+    },
+    {
+      "id": "an-onoya",
+      "name": "An Onoya",
+      "alt_names": [
+        "小野屋杏",
+        "Braided-Glasses Girl"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 153 cm (5'0\")\n\nA third year in Arata's class. She may be positive about everything she thinks about, but then she may not be thinking about anything.\n~!However, she is in fact an employee of the ReLIFE Support Division and Ryō Yoake's junior supervisor in the ReLIFE experiment. She was actually going to be the support of Kaizaki, though this was changed. Her real age is 26-27!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89428-8UUfkFTy5jGR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89428
+      }
+    },
+    {
+      "id": "rena-kariu",
+      "name": "Rena Kariu",
+      "alt_names": [
+        "狩生玲奈"
+      ],
+      "role": "protagonist",
+      "description": "A stoic tsundere who has good grades, sports prowess, and a competitive personality. However, she's never satisfied and is always aiming higher.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89632-vwI8zFb4zB9m.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89632
+      }
+    },
+    {
+      "id": "kazuomi-ooga",
+      "name": "Kazuomi Ooga",
+      "alt_names": [
+        "大神和臣",
+        "Oga",
+        "Kazu"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 171 cm (5'7\")\n\nKazuomi Ooga looks like a flashy student, but he has the best grades among the boys in his class. He has a pure side and is not interested in romance. He is not athletic.\n\n~!Kazuomi greatly respects his older brother, who had previously shouldered the responsibilities of providing for the family. Even after Takaomi became a NEET, Kazuomi simply felt it is now his old turn to be responsible and let his brother time to rest. The piercing Kazuomi got from his brother was one of his greatest treasures, as a remembrance for when Takaomi was cheerfully working hard.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "17-18",
+        "dateOfBirth": "1995-06-04"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89633-3HzqMb9xJe8V.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89633
+      }
+    },
+    {
+      "id": "honoka-tamarai",
+      "name": "Honoka Tamarai",
+      "alt_names": [
+        "玉来ほのか",
+        "Tama"
+      ],
+      "role": "supporting",
+      "description": "Honoka Tamarai is the captain of the volleyball team. She has a spacey personality and is easy-going, but is extremely skilled at sports and has monster strength. She's the childhood friend of Inukai and Asaji, and they call her \"Tama (-chan).\"",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89838-HwwE8BHT69Mb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89838
+      }
+    },
+    {
+      "id": "akira-inukai",
+      "name": "Akira Inukai",
+      "alt_names": [
+        "犬飼暁",
+        "Aki"
+      ],
+      "role": "supporting",
+      "description": "A young man with an unfriendly, blunt, but also honest personality. He's the kind of person to act before speaking. Tamarai and Asaji call him \"Aki (-chan).\"",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89839-ZptT0LZzebaN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89839
+      }
+    },
+    {
+      "id": "nobunaga-asaji",
+      "name": "Nobunaga Asaji",
+      "alt_names": [
+        "朝地信長",
+        "Nobu"
+      ],
+      "role": "supporting",
+      "description": "A kind and friendly young man. He is very skilled in athletics. Tamarai and Inukai call him \"Nobu (-chan).\"",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89840-0FdYSJRVQahH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89840
+      }
+    },
+    {
+      "id": "kokoro-amatsu",
+      "name": "Kokoro Amatsu",
+      "alt_names": [
+        "天津心",
+        "あまつこころ"
+      ],
+      "role": "supporting",
+      "description": "The teacher of Year 3 Class 3. She specializes in physical education. She is also in charge of the girls' volleyball club.",
+      "metadata": {
+        "gender": "female",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143179-6vUsqhm1via8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 143179
+      }
+    },
+    {
+      "id": "saiki-michiru",
+      "name": "Saiki Michiru",
+      "alt_names": [
+        "満ちるせいき",
+        "Senpai"
+      ],
+      "role": "supporting",
+      "description": "Michiru was Arata Kaizaki's superior from his former company.\n\n~!She commits suicide after getting severely rebuked by her coworkers.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192604-nCLfRMfEHh7c.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192604
+      }
+    },
+    {
+      "id": "sumire-inukai",
+      "name": "Sumire Inukai",
+      "alt_names": [
+        "犬飼すみれ"
+      ],
+      "role": "supporting",
+      "description": "She's Aoba High School's nurse.",
+      "metadata": {
+        "gender": "female",
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215256-BPv8MkNowIix.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215256
+      }
+    },
+    {
+      "id": "koushi-usa",
+      "name": "Koushi Usa",
+      "alt_names": [
+        "宇佐浩史"
+      ],
+      "role": "supporting",
+      "description": "He is a teacher at Aoba High School. He's in charge of 3rd year, class 4. He's also the supervisor of the boys volleyball club.",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215257-OzH301HjigP2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215257
+      }
+    },
+    {
+      "id": "hana-nishiyashiki",
+      "name": "Hana Nishiyashiki",
+      "alt_names": [
+        "西屋敷華"
+      ],
+      "role": "supporting",
+      "description": "She's a student of Class 3-3 often seen together with Rinko Yanagigaura.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215894-LwOQ7f1JBTPh.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215894
+      }
+    },
+    {
+      "id": "rumi-naomi",
+      "name": "Rumi Naomi",
+      "alt_names": [
+        "ナオミ留美"
+      ],
+      "role": "minor",
+      "description": "An employee who joined Arata's company after he was fired.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157963-YNZ6JcPNLIzP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157963
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T18:20:52.364Z"
+}

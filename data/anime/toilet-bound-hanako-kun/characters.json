@@ -1,0 +1,376 @@
+{
+  "work_id": "toilet-bound-hanako-kun",
+  "count": 15,
+  "characters": [
+    {
+      "id": "hanako",
+      "name": "Hanako",
+      "alt_names": [
+        "花子",
+        "Number 7 (七番)",
+        "Crazy Knife (クレイジーナイフ)",
+        "Gon (ゴン)"
+      ],
+      "role": "protagonist",
+      "description": "__Age of Death:__ 13\n\nHanako is a ghost haunting the old building of Kamome Academy. He resides on the third floor female bathroom, in the toilet of the third stall. He governs over the Seven Mysteries as School Mystery Number 7.\n\n~!Hanako's real name is Yugi Amane. He attended Kamome Academy as a student and his goal was to become an astronaut and go to the moon someday. He was to become a science teacher at Kamome Academy as an adult, but his future changed for unknown reasons. He ended up with the fate of killing his own twin brother, of dying as a kid, and of then becoming one of the Seven Mysteries to protect the students and to fulfill their wishes in order to atone for his sins.!~ \n\n~!It is hinted multiple times that Hanako has romantic feelings for Yashiro, and that he is madly in love with her.!~\n\n~!He confesses his love to Nene Yashiro and gives her a kiss.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "58+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128651-GaZImkP2Of1R.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128651
+      }
+    },
+    {
+      "id": "nene-yashiro",
+      "name": "Nene Yashiro",
+      "alt_names": [
+        "八尋寧々",
+        "Daikon"
+      ],
+      "role": "protagonist",
+      "description": "Yashiro Nene is a normal student, and one day she listens to a rumor about ''Hanako-san'' who makes wishes for anyone, but the wishes come with a price. She visits him in the hope of getting her crush to fall in love with her. She becomes friends with Hanako-san soon after meeting him then. She is in the gardening club.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128652-2LLhX7bBtwyC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128652
+      }
+    },
+    {
+      "id": "kou-minamoto",
+      "name": "Kou Minamoto",
+      "alt_names": [
+        "源光"
+      ],
+      "role": "protagonist",
+      "description": "Minamoto Kou is a student at Kamome Academy's Middle School Division, and a member of a renowned family of exorcists, the Minamoto Clan.",
+      "metadata": {
+        "gender": "male",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137222-ojZAO84oI2Hp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137222
+      }
+    },
+    {
+      "id": "tsukasa-yugi",
+      "name": "Tsukasa Yugi ",
+      "alt_names": [
+        "柚木つかさ",
+        "Runt (チビ)"
+      ],
+      "role": "supporting",
+      "description": "Yugi Tsukasa is a ghost haunting Kamome Academy. He currently resides at the school's broadcasting club room, with its members Sakura and Natsuhiko.\n~!He is the younger twin brother of Amane Yugi. He is said to be the polar opposite of Hanako. Where Hanako grants the wish of a living person, Tsukasa grants the wish of a dead person's lingering spirit!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137221-zZaoaXVcr8nj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137221
+      }
+    },
+    {
+      "id": "sakura-nanamine",
+      "name": "Sakura Nanamine ",
+      "alt_names": [
+        "七峰桜"
+      ],
+      "role": "supporting",
+      "description": "Nanamine Sakura is a 3rd-year student at Kamome Academy's High School division. She made a contract with Tsukasa and is now bound to him. She is a member of the school's broadcasting club.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137223-W1NKXmHbS4fU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137223
+      }
+    },
+    {
+      "id": "teru-minamoto",
+      "name": "Teru Minamoto",
+      "alt_names": [
+        "源輝",
+        "School Prince (学園の王子)",
+        "Teru-nii (輝兄)"
+      ],
+      "role": "supporting",
+      "description": "Minamoto Teru is a 2nd year student at Kamome Academy's High School Division and the school's Student Council President. He is also a member of a renowned family of exorcists, the Minamoto Clan.\nTeru is Kou's older brother.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137224-c0Ce7xTJWyl0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137224
+      }
+    },
+    {
+      "id": "sousuke-mitsuba",
+      "name": "Sousuke Mitsuba",
+      "alt_names": [
+        "三葉惣助",
+        "Bent-Neck Boy",
+        "ミツバ"
+      ],
+      "role": "supporting",
+      "description": "Mitsuba, real name Mitsuba Sousuke is a ghost haunting Kamome Academy Middle School's lockers. He was a student at Kamome Academy's Middle School division and a member of the photography club before his death.\n\n~!After being recreated by Tsukasa, he consumed the at-the-time School Mystery No.3's heart and is now the current representative of the 3rd School Mystery!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141671-ukMBUI4c2p53.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141671
+      }
+    },
+    {
+      "id": "akane-aoi",
+      "name": "Akane Aoi",
+      "alt_names": [
+        "蒼井茜",
+        "Glasses"
+      ],
+      "role": "supporting",
+      "description": "Akane Aoi is a first year student at Kamome Academy's High School division as one of Nene's classmates, and the student council's vice president.\n~!He is secretly a supernatural who controls the present, as one of the three Clock Keepers along with Kako and Mirai.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150855-Fv4qOy84I0ZE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 150855
+      }
+    },
+    {
+      "id": "lemon-yamabuki",
+      "name": "Lemon Yamabuki",
+      "alt_names": [
+        "山吹檸檬"
+      ],
+      "role": "supporting",
+      "description": "Yamabuki Lemon is a first year student at Kamome Academy's High School divison and Nene, Aoi and Akane's classmate.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150856-YUwc6Cm9Fznu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 150856
+      }
+    },
+    {
+      "id": "mokke",
+      "name": "Mokke",
+      "alt_names": [
+        "もっけ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b151054-lMQBXXq40ALX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 151054
+      }
+    },
+    {
+      "id": "tsuchigomori",
+      "name": "Tsuchigomori",
+      "alt_names": [
+        "土籠",
+        "Tsuchigomori-sensei",
+        "School Mystery Number 5/Number 5",
+        "Tsuchigomori of the 4PM Bookstacks",
+        "Spider-face",
+        "Gloomy Spider"
+      ],
+      "role": "supporting",
+      "description": "Age: ~!70+!~\nHeight: 6' 0\"+\nOccupation: Teacher (disguise), 5th Mystery Representative\nStatus: ~!Disconnected (as a supernatural)!~\n\nTsuchigomori is a science teacher at Kamome Academy. He is secretly a supernatural, representing and curating the academy's 5th School Wonder, the 4PM Bookstacks. He is also Kou's current homeroom teacher.\n\nWhile Tsuchigomori seems like a normal, caring and somewhat meek teacher in his human disguise, he is actually sarcastic, mischievous and quite short-tempered. He's also shown to be quite sadistic, having fun with threatening and scaring Nene and Kou ― although he quickly stops after a light warning from Hanako. Although he is a teacher, he is shown to dislike children because of their noisy attitudes. Tsuchigomori also has an odd sense of humor and likes to joke around, such as saying that he likes to eat human children, only to be met with terrified looks in response.\n\nDespite him claiming that he only pretends to care about his students, he has been shown to actually genuinely care about them on various occasions. When asked why he makes his teacher persona so different than his actual personality as a supernatural, he answers that it's simply because he feels like it. \n\n~!As the curator of the 4PM Bookstacks, he has access to the entire body of knowledge surrounding the school, along with the present, past, and future. He seems to know everything about every student that has ever attended the school. Even after his yorishiro and boundary were broken, his powers still allow him ways to retrieve the books in the library. He mentions that because of his position, it's possible for him to alter the future, but he does not plan to do so because any curator who does will be erased from existence.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b152004-h2AbqFq0zZOZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 152004
+      }
+    },
+    {
+      "id": "yako",
+      "name": "Yako",
+      "alt_names": [
+        "ヤコ",
+        "Number 2",
+        "Echinococcus",
+        "Misaki"
+      ],
+      "role": "supporting",
+      "description": "The fox statue spirit that holds the title of Number Two of The Seven Wonders (二番目の七不思議. Romaji: _Ni-ban me no Nanafushigi_) as the Misaki's Stair ghost. She took on the form of a beautiful lady inside her territory while outside, she took the form of a kitsune spirit.\n\n~!She spirited humans into her realm in hopes of them making an appropriate vessel for her deceased human teacher, Misaki.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b152005-nKgzKaM4aAsa.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 152005
+      }
+    },
+    {
+      "id": "aoi-akane",
+      "name": "Aoi Akane",
+      "alt_names": [
+        "赤根葵"
+      ],
+      "role": "supporting",
+      "description": "Akane Aoi is a first year student at Kamome Academy's High School Division and Nene's friend.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b152422-wtY5QcIanj5B.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 152422
+      }
+    },
+    {
+      "id": "natsuhiko-hyuuga",
+      "name": "Natsuhiko Hyuuga",
+      "alt_names": [
+        "日向夏彦"
+      ],
+      "role": "supporting",
+      "description": "Natsuhiko Hyuuga is a 2nd year student at Kamome Academy's High School division. He is a member of the school's broadcasting club.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156186-BOWXpWPAw8Mc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156186
+      }
+    },
+    {
+      "id": "tannin-no-sensei",
+      "name": "Tannin no Sensei",
+      "alt_names": [
+        "担任の先生",
+        "Homeroom teacher"
+      ],
+      "role": "supporting",
+      "description": "The homeroom teacher of Nene's class.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158444-piPQ8bFMveUk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158444
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T16:58:31.419Z"
+}

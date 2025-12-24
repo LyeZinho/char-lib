@@ -1,0 +1,364 @@
+{
+  "work_id": "chivalry-of-a-failed-knight",
+  "count": 15,
+  "characters": [
+    {
+      "id": "stella-vermillion",
+      "name": "Stella  Vermillion",
+      "alt_names": [
+        "ステラ・ヴァーミリオン",
+        "Crimson Princess"
+      ],
+      "role": "protagonist",
+      "description": "Stella Vermillion is an A-rank Apprentice Knight and princess of the Vermillion Kingdom.\n\nStella initially appears to be feisty, hot-blooded, and quick to anger possibly due to her sheltered upbringing. However, later she is shown to be anything but bitter, and is even willing to admit her mistakes and be friendly with others. Despite this, she exhibits frequent bouts of jealousy especially when it comes to Ikki.\n\nStella gets agitated whenever anyone says that she is strong because she is an \"A Rank\" and do not see all her hard work, but Ikki Kurogane was the only one to see Stella's hard work which was one of the reasons Stella started developing feelings for him.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88264-v9VFbSWtQq2C.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88264
+      }
+    },
+    {
+      "id": "ikki-kurogane",
+      "name": "Ikki Kurogane",
+      "alt_names": [
+        "黒鉄一輝",
+        "Worst One. Failure Knight",
+        "Another One",
+        "Uncrowned Sword King",
+        "Kuro-bou",
+        "Seven Stars Sword King",
+        "The Heir of Ryouma",
+        "Sword God"
+      ],
+      "role": "protagonist",
+      "description": "Ikki Kurogane is an F-rank Apprentice Knight who strives to become a real Mage Knight. He is a young man of average height with dark brown hair and brown eyes.\n\nA noble young man with a caring personality. Ikki can be very cruel under certain circumstances. When it comes dealing women of his age and the whole academy in general Ikki is really clumsy because he has no prior experience with them outside of respect towards a superior or as a knight. This really shows when he confronts Stella on that subject.\n\n~!At the end of volume 19 Ikki and Stella get married in the Vermillion Kingdom!~",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88265-2MlVZH85EPpR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88265
+      }
+    },
+    {
+      "id": "shizuku-kurogane",
+      "name": "Shizuku Kurogane",
+      "alt_names": [
+        "黒鉄珠雫",
+        "Lorelei"
+      ],
+      "role": "protagonist",
+      "description": "**Ranking:** A-Rank\n\nIkki Kurogane's younger sister. Unlike her older brother, she was well-respected as a child and was even forgiven due to her talent as a Blazer and was the only person in their family who didn't despise or look down on Ikki for being an F-Rank Blazer and was saddened after he left.",
+      "metadata": {
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89340-EtOtef39IHr7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89340
+      }
+    },
+    {
+      "id": "nagi-arisuin",
+      "name": "Nagi Arisuin",
+      "alt_names": [
+        "有栖院凪",
+        "Alice"
+      ],
+      "role": "protagonist",
+      "description": "Kurogane Shizuku's close friend and roomate. Alice likes to give Ikki advice from time to time, and is very interested in how he is developing over time. Alice identifies as a woman, and prefers the name Alice to \"Nagi\". Her friends call her Alice as well. \n\nAlice's Device is Darkness Hermit and her Noble Art is Shadow Bind. Her device allows Alice to create shadow portals that enable her to travel from one place to another. It also immobilizes opponents by pinning them down by their shadow.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126840-pmsaPfps6tK7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126840
+      }
+    },
+    {
+      "id": "touka-toudou",
+      "name": "Touka Toudou",
+      "alt_names": [
+        "東堂刀華"
+      ],
+      "role": "protagonist",
+      "description": "Touka Toudou is the current student council president of Hagun Academy and is considered to be the strongest student in the school.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143398-ktoGOYxyGim6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 143398
+      }
+    },
+    {
+      "id": "ayase-ayatsuji",
+      "name": "Ayase Ayatsuji",
+      "alt_names": [
+        "綾辻絢瀬"
+      ],
+      "role": "supporting",
+      "description": "Ayase Ayatsuji is a third year student from Hagun Academy. She is a D-Rank Blazer who uses the katana-style Device Hizume.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89650-NJENPU6U0Izf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89650
+      }
+    },
+    {
+      "id": "nene-saikyou",
+      "name": "Nene Saikyou",
+      "alt_names": [
+        "西京寧音",
+        "Yaksha Princess"
+      ],
+      "role": "supporting",
+      "description": "**Ranking:** A-Rank \n\nNene Saikyo is a teacher of Hagun Academy having been hired by her former rival, the current director Kurono Shinguuji.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b183648-olenpffv48Rd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 183648
+      }
+    },
+    {
+      "id": "shizuya-kirihara",
+      "name": "Shizuya Kirihara",
+      "alt_names": [
+        "桐原静矢"
+      ],
+      "role": "supporting",
+      "description": "He is a second year student from Hagun Academy and a former representative in the Seven Stars Sword Art Festival. Kirihara was considered the strongest Knight out of Ikki's generation.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b296792-0trgNuGAz1or.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 296792
+      }
+    },
+    {
+      "id": "kuraudo-kurashiki",
+      "name": "Kuraudo Kurashiki",
+      "alt_names": [
+        "倉敷蔵人"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b329180-td7xFrF8nwuv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 329180
+      }
+    },
+    {
+      "id": "utakata-misogi",
+      "name": "Utakata Misogi",
+      "alt_names": [
+        "御祓泡沫"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b329181-2GDg3MUV6fzS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 329181
+      }
+    },
+    {
+      "id": "kagami-kusakabe",
+      "name": "Kagami Kusakabe",
+      "alt_names": [
+        "日下部加々美"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b329182-yDMBN8kIArSz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 329182
+      }
+    },
+    {
+      "id": "yuuri-oreki",
+      "name": "Yuuri Oreki",
+      "alt_names": [
+        "折木有里"
+      ],
+      "role": "supporting",
+      "description": "The homeroom teacher of Ikki and Stella, who demands to be called \"Yuri-chan\" by her students. She suffers from an unknown illness that causes her to vomit a liter of blood a day. Oreki-sensei was part of the reason Ikki was able to enter Hagun Academy.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b329183-xlmadmGuJrKM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 329183
+      }
+    },
+    {
+      "id": "renren-tomaru",
+      "name": "Renren Tomaru",
+      "alt_names": [
+        "兎丸恋々"
+      ],
+      "role": "supporting",
+      "description": "Renren Tomaru is the current General Affairs Manager of the Student Council and a second-year student also known as the Runner's High.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b329184-U1jLCLd4hMqH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 329184
+      }
+    },
+    {
+      "id": "kanata-totokubara",
+      "name": "Kanata Totokubara",
+      "alt_names": [
+        "貴徳原カナタ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b329185-3iOeyjLrsogY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 329185
+      }
+    },
+    {
+      "id": "kurono-shinguuji",
+      "name": "Kurono Shinguuji",
+      "alt_names": [
+        "新宮寺黒乃"
+      ],
+      "role": "supporting",
+      "description": "Current director of Hagun Academy.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b329186-o9aInPximYu8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 329186
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T19:23:38.032Z"
+}

@@ -1,0 +1,366 @@
+{
+  "work_id": "konosuba-gods-blessing-on-this-wonderful-world-legend-of-crimson",
+  "count": 15,
+  "characters": [
+    {
+      "id": "megumin",
+      "name": "Megumin",
+      "alt_names": [
+        "めぐみん",
+        "Crazy Explosion Girl",
+        "Psycho Girl"
+      ],
+      "role": "protagonist",
+      "description": "Megumin is an archmage and the self-proclaimed top genius of the Crimson Demons, an order of magicians who are born with high intelligence and magical powers.\n\nDespite being an archwizard, she can only use the high level skill 'Explosion', the strongest of all offensive magic, and only once a day as it consumes tremendous magical power. Due to this she is more often a liability than an asset.\n\nMegumin speaks and dresses as a Chuunibyou and her only desire is to unleash explosion magic in the face of her enemies.",
+      "metadata": {
+        "gender": "female",
+        "age": "13-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89361
+      }
+    },
+    {
+      "id": "aqua",
+      "name": "Aqua",
+      "alt_names": [
+        "アクア"
+      ],
+      "role": "protagonist",
+      "description": "Aqua is a goddess of water. She guides humans who die young to the afterlife.\n\nDue to her cocky attitude towards [Kazuma](https://anilist.co/character/89364), she ends up being dragged to another world with him to defeat the Demon King.\n\nAqua chose the advanced job of archpriest, as being a goddess she's naturally a strong wielder of healing magic. However, she spends most of her skillpoints on party trick skills.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89362
+      }
+    },
+    {
+      "id": "darkness",
+      "name": "Darkness",
+      "alt_names": [
+        "ダクネス"
+      ],
+      "role": "protagonist",
+      "description": "A crusader and a masochist.\n\nDespite being an advanced knight, she is extremely clumsy and none of her attacks ever hit their mark. However, she has great endurance and stamina and acts as the frontline of the party. She often throws herself in front of enemies to \"shield\" her party, but in reality it's just her masochism.",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89363
+      }
+    },
+    {
+      "id": "kazuma-satou",
+      "name": "Kazuma Satou",
+      "alt_names": [
+        "佐藤和真",
+        "Kazutrash",
+        "Crapuma"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 162 cm (5'4\")\n\nA hikikomori (shut-in), otaku and NEET, Kazuma arrives in the afterlife after a traffic accident and decides to go to another world to defeat the Demon King, taking [Aqua](https://anilist.co/character/89362) with him.\n\nHe has the weakest job of 'Adventurer', but has decent intelligence and extraordinarily high luck. This is demonstrated whenever he uses his 'steal' skill.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89364
+      }
+    },
+    {
+      "id": "yunyun",
+      "name": "Yunyun",
+      "alt_names": [
+        "ゆんゆん",
+        "Frog Slayer"
+      ],
+      "role": "supporting",
+      "description": "Yunyun is a member of the Crimson Magic Clan, and she and [Megumin](https://anilist.co/character/89361) are friends as well as rivals.",
+      "metadata": {
+        "gender": "female",
+        "age": "13",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120652
+      }
+    },
+    {
+      "id": "komekko",
+      "name": "Komekko",
+      "alt_names": [
+        "こめっこ"
+      ],
+      "role": "supporting",
+      "description": "Komekko is [Megumin](https://anilist.co/character/89361)'s adorable younger sister. She is a young Crimson Demon and the only Crimson Magic kid around her age.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120653-q4uPVQC2iSg8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120653
+      }
+    },
+    {
+      "id": "wiz",
+      "name": "Wiz",
+      "alt_names": [
+        "ウィズ",
+        "Kouri no Majo (氷の魔女",
+        "Ice Witch)"
+      ],
+      "role": "supporting",
+      "description": "Wiz is the owner of a famous Magic Item Shop in Axel that has many unsalable items with quirky defects. She used to be a renowned Arch Wizard, but has since retired. At night, she has a secret identity as a kind-hearted lich who helps lingering spirits pass on. She is also the only harmless Demon King's General and prefers to live as a human.",
+      "metadata": {
+        "gender": "female",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120655-LfUD7Mb1Mncg.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120655
+      }
+    },
+    {
+      "id": "luna",
+      "name": "Luna",
+      "alt_names": [
+        "ルナ",
+        "Uketsukejou (受付嬢)"
+      ],
+      "role": "supporting",
+      "description": "Part of the Guild Staff, she is the go-to woman for adventurers visiting the guild. Luna is a very kind, caring and cheerful young woman who has a rather ''Onee-chan'' (big sister) aura about her. She has common sense which is a rarity in the Fantasy World. Luna is also a calm person, taking everything in stride.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120657-xT7lUbz4uk0k.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120657
+      }
+    },
+    {
+      "id": "arakuremono",
+      "name": "Arakuremono",
+      "alt_names": [
+        "荒くれ者",
+        "Ruffian"
+      ],
+      "role": "supporting",
+      "description": "An anime-exclusive character. The first person [Kazuma](https://anilist.co/character/89364) speaks with in Axel's guildhall.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126854-AVwxFTMoGFMe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126854
+      }
+    },
+    {
+      "id": "vanir",
+      "name": "Vanir",
+      "alt_names": [
+        "バニル"
+      ],
+      "role": "supporting",
+      "description": "Demon King's army ex-general.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130106-SmSbkyTcmmTl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130106
+      }
+    },
+    {
+      "id": "sylvia",
+      "name": "Sylvia",
+      "alt_names": [
+        "シルビア"
+      ],
+      "role": "supporting",
+      "description": "Sylvia was a chimera and one of the eight generals of the Demon King, serving as the director of the Monster Enhancement Division. They serve as the primary antagonist of the Konosuba Movie.\n\nAt first glance, Sylvia appeared as a towering, voluptuous and beautiful woman. They were so attractive that Kazuma seriously considered defecting to the Demon King's Army to be with them. ~!As a chimera, Sylvia possessed traits typically unique to both males and females, having big breasts and the figure of a woman, but also male genitalia.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144536-rHkQQUpzzjOq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 144536
+      }
+    },
+    {
+      "id": "hyoizaburoo",
+      "name": "Hyoizaburoo",
+      "alt_names": [
+        "ひょいざぶろー"
+      ],
+      "role": "supporting",
+      "description": "Hyoizaburoo is [Megumin](https://anilist.co/character/89361)'s father and a magic item craftsman.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150136-PdYovKh4u6Ef.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 150136
+      }
+    },
+    {
+      "id": "yuiyui",
+      "name": "Yuiyui",
+      "alt_names": [
+        "ゆいゆい"
+      ],
+      "role": "supporting",
+      "description": "Yuiyui is the mother of [Megumin](https://anilist.co/character/89361) and [Komekko](https://anilist.co/character/120653).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150138-BHxeClQoMTiE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 150138
+      }
+    },
+    {
+      "id": "hakase",
+      "name": "Hakase",
+      "alt_names": [
+        "博士",
+        "Doctor",
+        "Head Researcher"
+      ],
+      "role": "supporting",
+      "description": "\"Head Researcher\" is an unnamed person who lived and died centuries before the main story begins. He is sometimes also referred to as \"Idiot Inventor,\" \"Stupid Chief Engineer,\" \"The Scientist,\" or some other names along those lines. He was born in modern Japan and sent to the distant-past Fantasy World as a Reincarnator to fight the Demon King of that time. While we never get to meet him when he was alive, we do see glimpses of his life from his research diaries.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203544-VRqWI2UWx1SF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 203544
+      }
+    },
+    {
+      "id": "soketto",
+      "name": "Soketto",
+      "alt_names": [
+        "ソケツト",
+        "そけっと"
+      ],
+      "role": "supporting",
+      "description": "Soketto is a member of the Crimson Magic Clan and a fortune teller in the Crimson Magic Village.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b261791-zTUrpMZlS78L.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 261791
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T18:11:34.851Z"
+}

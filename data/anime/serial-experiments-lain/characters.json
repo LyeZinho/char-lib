@@ -1,0 +1,332 @@
+{
+  "work_id": "serial-experiments-lain",
+  "count": 14,
+  "characters": [
+    {
+      "id": "lain-iwakura",
+      "name": "Lain Iwakura",
+      "alt_names": [
+        "岩倉玲音",
+        "レイン",
+        "れいん"
+      ],
+      "role": "protagonist",
+      "description": "Lain, the main character of Serial Experiments Lain, is a 14 year old girl who uncovers her true nature through the series. She is first depicted as a shy junior high school student with few friends or interests. ~!She later grows multiple, bolder personalities, both in the physical and Wired worlds.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2219-K3wzEOVwdUhL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2219
+      }
+    },
+    {
+      "id": "masami-eiri",
+      "name": "Masami Eiri",
+      "alt_names": [
+        "英利政美",
+        "God"
+      ],
+      "role": "supporting",
+      "description": "~!The key designer of Protocol 7. While working for Tachibana Labs, he illicitly included code enabling him to control the whole protocol at will and &quot;embedded&quot; his own consciousness in the protocol. Consequently, he was fired by Tachibana Labs and was soon found dead on a railway. He believes the only way for humans to evolve further is to absolve themselves from their physical limitations and live as digital entities.  He also refers at himself as &quot;god&quot;.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/7609.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7609
+      }
+    },
+    {
+      "id": "arisu-mizuki",
+      "name": "Arisu Mizuki",
+      "alt_names": [
+        "瑞城ありす",
+        "Alice"
+      ],
+      "role": "supporting",
+      "description": "Lain&#039;s classmate and her only true friend throughout the series, Alice is a devoted confident and has a simple, sincere personality. She is the first to attempt to help Lain socialize by taking her to a nightclub, and from this point always tries to protect and take care of her. Alice is introduced as the shyest part of a junior high school trio, but her character development shows a fearless dedication to her friends.\n\nAlice's name, along with her friends Juri and Reika, were taken by [Chiaki Konaka](https://anilist.co/staff/101160/) from his previous work, [*Alice in Cyberland*](https://anilist.co/anime/5330/). Both characters also share the same voice actress by request.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7610-vpsZ4tS74eDf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7610
+      }
+    },
+    {
+      "id": "mika-iwakura",
+      "name": "Mika Iwakura",
+      "alt_names": [
+        "岩倉美香"
+      ],
+      "role": "supporting",
+      "description": "Lain's older sister, an apathetic 16-year-old student who casually picks on her little sister's habits and behavior. Mika is considered to be the only normal member of Lain's family; she sees her boyfriend in love hotels, is on a diet, and shops in Shibuya.\n\n~!At a certain point in the series, her consciousness is seriously damaged by violent hallucinations. While Lain begins freely delving into the Wired, Mika is taken there by her proximity to Lain and gets stuck between the physical world and the Wired.!~\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7611-BQZc2e247eNV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7611
+      }
+    },
+    {
+      "id": "yasuo-iwakura",
+      "name": "Yasuo Iwakura",
+      "alt_names": [
+        "岩倉康男"
+      ],
+      "role": "supporting",
+      "description": "Passionate about computers and electronic communication, he is shown as working with Eiri Masami at Tachibana Labs. He subtly pushes Lain, his daughter, toward the Wired and monitors her development until she becomes aware of her condition.\n\n~!He leaves her telling her that he did not enjoy playing a family, but did love her. He seems eager to lure her into the Wired, but warns her not to get overly involved in it.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7612-InAJM2Tco34f.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7612
+      }
+    },
+    {
+      "id": "tarou",
+      "name": "Tarou",
+      "alt_names": [
+        "タロウ"
+      ],
+      "role": "supporting",
+      "description": "An 11-year-old boy of about Lain's age, who occasionally works for the Knights to bring forth \"the one truth.\" He has not yet been made a member, and is unaware of their full intentions. Taro loves virtual reality video games and hangs out all day at the Cyberia night-club with his friends, Myu-Myu and Masayuki. He has been described as a \"techno punk teenager\" by Michael Tribett, and uses special technology, such as custom HandiNavis and video goggles. Taro takes pride in his internet anonymity, and asks Lain for a date with her Wired self in exchange for information.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b11096-SL3JPHW630U3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 11096
+      }
+    },
+    {
+      "id": "lin-sui-xi",
+      "name": "Lin Sui-Xi",
+      "alt_names": [
+        "Man in Black"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b20524-hIjZ1RIQTU5p.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 20524
+      }
+    },
+    {
+      "id": "karl",
+      "name": "Karl",
+      "alt_names": [
+        "カール・ハウスホーファー",
+        "Man in Black"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/36251.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36251
+      }
+    },
+    {
+      "id": "miho-iwakura",
+      "name": "Miho Iwakura",
+      "alt_names": [
+        "岩倉美穂"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/86011.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 86011
+      }
+    },
+    {
+      "id": "jj",
+      "name": "J.J",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "The DJ, who was a member of the Knights.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b134538-brmZIkb1ieKP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134538
+      }
+    },
+    {
+      "id": "chisa-yomoda",
+      "name": "Chisa Yomoda",
+      "alt_names": [
+        "四方田千砂"
+      ],
+      "role": "supporting",
+      "description": "Chisa Yomoda is Lain's classmate. She's the one that initially gets Lain involved with the Wired.\n\n~!She commits suicide at the beginning of the story and later contacts Lain from within the Wired saying \"There was no reason for me to stay in the real world any longer. In the real world, it didn't matter if I was there or not. When I realized that, I was no longer afraid of losing my body.\"!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b134539-rmkSB7GDdUyn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134539
+      }
+    },
+    {
+      "id": "reika-yamamoto",
+      "name": "Reika Yamamoto",
+      "alt_names": [
+        "山本麗華"
+      ],
+      "role": "supporting",
+      "description": "Part of Lain's group of friends.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b134540-mb3sZW5h5lkD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134540
+      }
+    },
+    {
+      "id": "juri-katou",
+      "name": "Juri Katou",
+      "alt_names": [
+        "加藤樹莉"
+      ],
+      "role": "supporting",
+      "description": "Part of Lain's group of friends.",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b262643-EZXtuzkNOFNE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 262643
+      }
+    },
+    {
+      "id": "myu-myu",
+      "name": "Myu-Myu",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Young girl who hangs out with Tarou and Masayuki at Cyberia.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b338262-Wo93kP24uwDL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 338262
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T14:49:00.931Z"
+}

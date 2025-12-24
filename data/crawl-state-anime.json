@@ -276,169 +276,49 @@
     "54692",
     "111233",
     "99578",
-    "20829"
+    "20829",
+    "100568",
+    "98397",
+    "98436",
+    "20807",
+    "30149",
+    "136807",
+    "130003",
+    "20596",
+    "128067",
+    "79865",
+    "100876",
+    "10793",
+    "54294",
+    "55515",
+    "339",
+    "15583",
+    "114960",
+    "86399",
+    "101474",
+    "21679",
+    "169355",
+    "116186",
+    "101167",
+    "10165",
+    "30598",
+    "86551",
+    "166240",
+    "108463",
+    "61499",
+    "74485",
+    "6045",
+    "145545",
+    "30336",
+    "30028",
+    "111321",
+    "102976",
+    "85849",
+    "33031",
+    "124153",
+    "116267"
   ],
   "queue": [
-    {
-      "id": 98436,
-      "title": "Mahoutsukai no Yome",
-      "popularity": 221990,
-      "score": 78,
-      "episodes": 24,
-      "status": "FINISHED"
-    },
-    {
-      "id": 20807,
-      "title": "Prison School",
-      "popularity": 221270,
-      "score": 73,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 130003,
-      "title": "Bocchi the Rock!",
-      "popularity": 221262,
-      "score": 87,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 20596,
-      "title": "Ao Haru Ride",
-      "popularity": 221041,
-      "score": 75,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 100876,
-      "title": "Kakegurui ××",
-      "popularity": 220985,
-      "score": 70,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 10793,
-      "title": "Guilty Crown",
-      "popularity": 220731,
-      "score": 69,
-      "episodes": 22,
-      "status": "FINISHED"
-    },
-    {
-      "id": 339,
-      "title": "serial experiments lain",
-      "popularity": 220663,
-      "score": 80,
-      "episodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "id": 15583,
-      "title": "Date A Live",
-      "popularity": 220200,
-      "score": 68,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 101474,
-      "title": "Overlord III",
-      "popularity": 219993,
-      "score": 77,
-      "episodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "id": 21679,
-      "title": "Bungou Stray Dogs 2nd Season",
-      "popularity": 219640,
-      "score": 81,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 101167,
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
-      "popularity": 219176,
-      "score": 71,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 10165,
-      "title": "Nichijou",
-      "popularity": 219073,
-      "score": 83,
-      "episodes": 26,
-      "status": "FINISHED"
-    },
-    {
-      "id": 166240,
-      "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
-      "popularity": 218906,
-      "score": 80,
-      "episodes": 8,
-      "status": "FINISHED"
-    },
-    {
-      "id": 108463,
-      "title": "Jibaku Shounen Hanako-kun",
-      "popularity": 218134,
-      "score": 77,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 6045,
-      "title": "Kimi ni Todoke",
-      "popularity": 218062,
-      "score": 79,
-      "episodes": 25,
-      "status": "FINISHED"
-    },
-    {
-      "id": 145545,
-      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
-      "popularity": 217157,
-      "score": 79,
-      "episodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "id": 111321,
-      "title": "Tate no Yuusha no Nariagari Season 2",
-      "popularity": 217015,
-      "score": 65,
-      "episodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "id": 102976,
-      "title": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
-      "popularity": 216506,
-      "score": 82,
-      "episodes": 1,
-      "status": "FINISHED"
-    },
-    {
-      "id": 124153,
-      "title": "SK∞",
-      "popularity": 216380,
-      "score": 79,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 116267,
-      "title": "Tonikaku Kawaii",
-      "popularity": 216076,
-      "score": 77,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
     {
       "id": 17265,
       "title": "Log Horizon",
@@ -518,59 +398,11 @@
       "score": 81,
       "episodes": 13,
       "status": "FINISHED"
-    },
-    {
-      "id": 99578,
-      "title": "Wotaku ni Koi wa Muzukashii",
-      "popularity": 294301,
-      "score": 78,
-      "episodes": 11,
-      "status": "FINISHED"
-    },
-    {
-      "id": 20829,
-      "title": "Owari no Seraph",
-      "popularity": 294270,
-      "score": 73,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 99578,
-      "title": "Wotaku ni Koi wa Muzukashii",
-      "popularity": 294301,
-      "score": 78,
-      "episodes": 11,
-      "status": "FINISHED"
-    },
-    {
-      "id": 20829,
-      "title": "Owari no Seraph",
-      "popularity": 294270,
-      "score": 73,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 99578,
-      "title": "Wotaku ni Koi wa Muzukashii",
-      "popularity": 294301,
-      "score": 78,
-      "episodes": 11,
-      "status": "FINISHED"
-    },
-    {
-      "id": 20829,
-      "title": "Owari no Seraph",
-      "popularity": 294270,
-      "score": 73,
-      "episodes": 12,
-      "status": "FINISHED"
     }
   ],
   "stats": {
-    "totalProcessed": 108,
-    "totalCharacters": 2251,
-    "lastRun": "2025-12-24T12:41:11.053Z"
+    "totalProcessed": 128,
+    "totalCharacters": 2544,
+    "lastRun": "2025-12-24T18:51:36.445Z"
   }
 }

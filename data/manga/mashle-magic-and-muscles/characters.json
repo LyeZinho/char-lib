@@ -1,0 +1,368 @@
+{
+  "work_id": "mashle-magic-and-muscles",
+  "count": 15,
+  "characters": [
+    {
+      "id": "mash-burnedead",
+      "name": "Mash Burnedead",
+      "alt_names": [
+        "マッシュ・バーンデッド",
+        "Mushroom Head",
+        "Mash Vandead"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 171 cm\n\nThe main protagonist of the series. Mash is a first-year student at Easton Magic Academy and member of Adler dorm. He has the peculiarity of not possessing any magic but also has inhuman strength which makes him a standout in the academy.\n\nMash is generally quiet and kind. However, if he sees someone hurting his family or friends, he gets incredibly angry. He is also extremely innocent and obedient, making people abuse those qualities, but thanks to his strength he can twist almost every situation. He also loves cream puffs a lot.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158734-k8FAVIyXKdW1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158734
+      }
+    },
+    {
+      "id": "lance-crown",
+      "name": "Lance Crown",
+      "alt_names": [
+        "ランス・クラウン"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 178 cm\n__Affiliation:__ Easton Magic Academy\n__Occupation:__ Student\n\nLance Crown is a student at Easton Magic Academy known for being ranked the first in the entrance exams and having two marks.\n\nWhen Lance was younger he is shown to be a very caring person who was willing to protect people who were being mistreated by other people even if the repercussions are him getting into fights. Lance is very protective of his sister where he vows to become a Divine Visionary so he can save his sister from being taken by the Bureau of Magic.\n\n~! After a fight with Mash, he later approaches Mash and Finn to reconcile. Now he acts as the brains of their group of misfits. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b172075-aOsZuM7D0bcW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 172075
+      }
+    },
+    {
+      "id": "finn-ames",
+      "name": "Finn Ames",
+      "alt_names": [
+        "フィン・エイムズ"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 170 cm\n\nFinn Ames is a first-year student at Easton Magic Academy and member of Adler dorm. He is the younger brother of [Rayne Ames](https://anilist.co/character/202422). Finn is Mash's roommate and his first and best friend.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174368-tYxOTsrCDEk9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174368
+      }
+    },
+    {
+      "id": "dot-barrett",
+      "name": "Dot Barrett",
+      "alt_names": [
+        "ドット・バレット",
+        "Daut Barret"
+      ],
+      "role": "protagonist",
+      "description": "__Affiliation:__ Easton Magic Academy\n__Occupation:__ Student\n\nDot Barrett is a first-year student at Easton Magic Academy and one of the main characters of the Mashle series.\n\nDot is hot-blooded and obnoxious, however, deep down, he's a nice guy and will apologize if he's wrong about something. He also is shown to fall in love easily.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174369-VjKvYJbXLO5I.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174369
+      }
+    },
+    {
+      "id": "lemon-irvine",
+      "name": "Lemon  Irvine",
+      "alt_names": [
+        "レモン・アーヴィン"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 162 cm\n__Affiliation:__ Easton Magic Academy\n__Occupation:__ Student\n\nLemon Irvine is a first-year student at Easton Magic Academy. She has short, blonde hair with an orange ribbon. Her mark is under her right eye, straight with a half-moon curve. Usually wears the Easton Magic School uniform.\n\nLemon is a little kooky, but she's honest to goodness person and seems incapable of betraying others. She also gets scared very easily and tends to exaggerate in the conversations she has with other people.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b167819-2pddKcJiApjD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 167819
+      }
+    },
+    {
+      "id": "regro-burnedead",
+      "name": "Regro Burnedead",
+      "alt_names": [
+        "レグロ・バーンデッド",
+        "Pops"
+      ],
+      "role": "supporting",
+      "description": "He is Mash's father.",
+      "metadata": {
+        "gender": "male",
+        "age": "75",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b202421-LCfDWRhioGnY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 202421
+      }
+    },
+    {
+      "id": "rain-ames",
+      "name": "Rain Ames",
+      "alt_names": [
+        "レイン・エイムズ",
+        "Rayne Ames"
+      ],
+      "role": "supporting",
+      "description": "Rayne Ames is a second-year student at Easton Magic Academy, the current Sword Cane of the Divine Visionaries, the prefect of the Adler dorm and the older brother of Finn Ames.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b202422-DNcyHSn8ICHp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 202422
+      }
+    },
+    {
+      "id": "wahlberg-baigan",
+      "name": "Wahlberg Baigan",
+      "alt_names": [
+        "ウォールバーグ・バイガン"
+      ],
+      "role": "supporting",
+      "description": "Wahlberg is the Headmaster of Easton Magic Academy.",
+      "metadata": {
+        "gender": "male",
+        "age": "118",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b202423-qQKbIoKxqWTI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 202423
+      }
+    },
+    {
+      "id": "abel-walker",
+      "name": "Abel Walker",
+      "alt_names": [
+        "アベル・ウォーカー",
+        "Lord Abel"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 176 cm\n\nAbel Walker is a third-year student at Easton Magic Academy. He is the leader of the Magia Lupus and the prefect for Lang dorm.",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207410-BXfkA9UGsM34.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207410
+      }
+    },
+    {
+      "id": "wirth-madl",
+      "name": "Wirth Mádl",
+      "alt_names": [
+        "ワース・マドル"
+      ],
+      "role": "supporting",
+      "description": "The Third Fang of the Magia Lupus. Younger brother of [Orter Mádl](https://anilist.co/character/264316).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207867-Gjk55cQeYDNm.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207867
+      }
+    },
+    {
+      "id": "margarette-macaron",
+      "name": "Margarette Macaron",
+      "alt_names": [
+        "マーガレット・マカロン"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 198 cm\n\nThird-year student at Eason Magic Academy and the prefect for Orca Dorm. Margarette is eccentric, yet a firm believer in \"Might makes Right\". They have a strange obsession with Tartar Sauce.",
+      "metadata": {
+        "gender": "non-binary",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215258-A0t3nigiFfsF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215258
+      }
+    },
+    {
+      "id": "carpaccio-luo-yang",
+      "name": "Carpaccio Luo-Yang",
+      "alt_names": [
+        "カルパッチョ・ローヤン"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 174 cm\n\nFirst-year student at Easton Magic Academy and a member of Orca dorm. He managed to earn four gold coins, and therefore was allowed to participate in the Divine Visionary Selection Exam.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215259-ZpVchb8qQeT3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215259
+      }
+    },
+    {
+      "id": "cell-war",
+      "name": "Cell War",
+      "alt_names": [
+        "セル・ウォー"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 171 cm\n\nCell War is a core member of Innocent Zero.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215260-IzG0M5dNhDhp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215260
+      }
+    },
+    {
+      "id": "kaldo-gehenna",
+      "name": "Kaldo Gehenna",
+      "alt_names": [
+        "カルド・ゲヘナ",
+        "The Flame Cane"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 175cm\n\nKaldo Gehenna is a Divine Visionary and Head of the Magic Talent Administration, a subdivision of the Bureau of Magic.",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216157-BV5gcRKCoJ3k.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216157
+      }
+    },
+    {
+      "id": "sophina-biblia",
+      "name": "Sophina Biblia",
+      "alt_names": [
+        "ソフィナ・ブリビア",
+        "The Knowledge Cane"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 168 cm\n\nSophina Biblia is a Divine Visionary and a member of the Forbidden Magical Texts Administration, a subdivision of the Bureau of Magic.",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b262133-yfzN1X3yo1RJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 262133
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T15:04:31.713Z"
+}

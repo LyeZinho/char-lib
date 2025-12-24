@@ -278,169 +278,49 @@
     "99578",
     "20829",
     "100568",
-    "98397"
+    "98397",
+    "98436",
+    "20807",
+    "30149",
+    "136807",
+    "130003",
+    "20596",
+    "128067",
+    "79865",
+    "100876",
+    "10793",
+    "54294",
+    "55515",
+    "339",
+    "15583",
+    "114960",
+    "86399",
+    "101474",
+    "21679",
+    "169355",
+    "116186",
+    "101167",
+    "10165",
+    "30598",
+    "86551",
+    "166240",
+    "108463",
+    "61499",
+    "74485",
+    "6045",
+    "145545",
+    "30336",
+    "30028",
+    "111321",
+    "102976",
+    "85849",
+    "33031",
+    "124153",
+    "116267",
+    "144946",
+    "69883"
   ],
   "queue": [
-    {
-      "id": 30149,
-      "title": "BLAME!",
-      "popularity": 57710,
-      "score": 81,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 136807,
-      "title": "Look Back",
-      "popularity": 57179,
-      "score": 83,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 128067,
-      "title": "SSS-geup Jugeoya Saneun Hunter",
-      "popularity": 57118,
-      "score": 83,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 79865,
-      "title": "Ajin",
-      "popularity": 56712,
-      "score": 80,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 54294,
-      "title": "Ao Haru Ride",
-      "popularity": 56673,
-      "score": 78,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 55515,
-      "title": "JoJo no Kimyou na Bouken: JoJolion",
-      "popularity": 56150,
-      "score": 84,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 114960,
-      "title": "MASHLE",
-      "popularity": 55580,
-      "score": 75,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 86399,
-      "title": "Tensei Shitara Slime Datta Ken",
-      "popularity": 55063,
-      "score": 82,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 169355,
-      "title": "Kagurabachi",
-      "popularity": 53975,
-      "score": 78,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 116186,
-      "title": "Shounen no Abyss",
-      "popularity": 53557,
-      "score": 68,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30598,
-      "title": "FAIRY TAIL",
-      "popularity": 53546,
-      "score": 70,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 86551,
-      "title": "Made in Abyss",
-      "popularity": 53477,
-      "score": 85,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 61499,
-      "title": "Nisekoi",
-      "popularity": 53125,
-      "score": 74,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 74485,
-      "title": "Nanatsu no Taizai",
-      "popularity": 52278,
-      "score": 69,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30336,
-      "title": "GTO",
-      "popularity": 51924,
-      "score": 86,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30028,
-      "title": "NANA",
-      "popularity": 51763,
-      "score": 88,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 85849,
-      "title": "ReLife",
-      "popularity": 51716,
-      "score": 85,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 33031,
-      "title": "Pandora Hearts",
-      "popularity": 51716,
-      "score": 84,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 144946,
-      "title": "Gachiakuta",
-      "popularity": 51561,
-      "score": 80,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 69883,
-      "title": "Ansatsu Kyoushitsu",
-      "popularity": 51278,
-      "score": 81,
-      "episodes": null,
-      "status": "FINISHED"
-    },
     {
       "id": 100954,
       "title": "Sweet Home",
@@ -1667,8 +1547,8 @@
     }
   ],
   "stats": {
-    "totalProcessed": 77,
-    "totalCharacters": 4792,
-    "lastRun": "2025-12-24T12:54:40.888Z"
+    "totalProcessed": 97,
+    "totalCharacters": 5073,
+    "lastRun": "2025-12-24T19:08:07.834Z"
   }
 }

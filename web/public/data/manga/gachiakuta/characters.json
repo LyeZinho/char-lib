@@ -1,0 +1,368 @@
+{
+  "work_id": "gachiakuta",
+  "count": 15,
+  "characters": [
+    {
+      "id": "rudo",
+      "name": "Rudo",
+      "alt_names": [
+        "ルド",
+        "Trash Vandal"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 163 cm\n__Jinki:__ \"3R\"\n\nRudo is the main character of Gachiakuta and the foster son of Regto. He is originally from the slums but was sentenced to the Abyss, due to being falsely accused of murder.\n\nDue to being physically abused and abandoned by his parents, Rudo is emotionally closed off and introverted.",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b266433-R4VXtmhxwDVG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 266433
+      }
+    },
+    {
+      "id": "engine",
+      "name": "Engine",
+      "alt_names": [
+        "エンジン",
+        "Enjin"
+      ],
+      "role": "protagonist",
+      "description": "__Affiliation:__ Cleaners\n__Jinki:__ \"Umbreaker\"\n\nEngine is from the Abyss and the man that saved Rudo when he fell out of the sky. He has a very bright and fun personality, but very little energy and seemingly is chill and laid-back. Despite his incredible abilities, he refers to himself as \"your average janitor.\"",
+      "metadata": {
+        "gender": "male",
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b266438-3Veykti1lXgg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 266438
+      }
+    },
+    {
+      "id": "zanka-nijiku",
+      "name": "Zanka Nijiku",
+      "alt_names": [
+        "ザンカ・ニジク"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 178 cm \n__Jinki:__ \"Lovely Assistaff\"\n\nHe’s a former Hell Guard trainee and is currently a member of the Akuta faction of the Cleaners.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268742-PSWLnWDJH7HJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268742
+      }
+    },
+    {
+      "id": "riyou",
+      "name": "Riyou",
+      "alt_names": [
+        "リヨウ・リーパー"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 155 cm\n__Jinki:__ \"The Ripper\"\n\nShe’s a former hitman and currently a member of the Akuta faction of the Cleaners. She has an unusual fighting style where she wields her large scissors with her feet. Normally cheerful and playful, she becomes strikingly pragmatic in battle.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b275749-fglzDjaLZh1H.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 275749
+      }
+    },
+    {
+      "id": "chiwa",
+      "name": "Chiwa",
+      "alt_names": [
+        "チワ"
+      ],
+      "role": "supporting",
+      "description": "A girl who lives in the slums in the Sphere. [Rudo](https://anilist.co/character/266433/Rudo) likes her because of the way she seems to care and worry about him.\n\n(Source: Official Site)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b266434-Wkjo1jlTgDCm.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 266434
+      }
+    },
+    {
+      "id": "regto",
+      "name": "Regto",
+      "alt_names": [
+        "レグト"
+      ],
+      "role": "supporting",
+      "description": "The man who raised [Rudo](https://anilist.co/character/266433/Rudo) after he lost his parents. He gave Rudo a pair of gloves.\n\n(Source: Official Site)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b266437-sUIpywq7P310.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 266437
+      }
+    },
+    {
+      "id": "tamsy-caines",
+      "name": "Tamsy Caines",
+      "alt_names": [
+        "タムジー・ケインズ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 180 cm\n__Jinki:__ \"Tokushin\"\n\nHe is a member of the Cleaners' Team Eager. His vital instrument is a distaff and he has a calm demeanor and sharp observing eye.",
+      "metadata": {
+        "gender": "male",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b291689-qUluOFlz7ZiD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 291689
+      }
+    },
+    {
+      "id": "amo-empool",
+      "name": "Amo Empool",
+      "alt_names": [
+        "アモ・エンプール",
+        "The Lady of Penta"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 158 cm (5'2\")\n\nAmo is a teenage girl who lives in the Forbidden Zone Penta. She is able to breath in the Abyss and has seen someone who can go up to Heaven. Whilst appearing sweet and almost childlike, she is easily made emotional and will lash out at others if provoked.\n\nAmo's vital instrument is a pair of watchmen series boots, which when worn together, can produce a 'smell'. Using her jinki, she's able to manipulate the smell and give all who breath it in hallucinations of people they treasure and thus turning them on their allies.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b298929-tIibEBpixCaK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 298929
+      }
+    },
+    {
+      "id": "semiu-grier",
+      "name": "Semiu Grier",
+      "alt_names": [
+        "セミュ・グライア"
+      ],
+      "role": "supporting",
+      "description": "__Affiliation:__ Cleaners\n__Height:__ 175 cm + 8 cm Heels\n__Jinki:__ \"Eyes\"\n\nSemiu is very confident and professional, preferring to get on with things as quickly as possible. She is dedicated to her job, being at the janitors desk and picking up calls as soon as dawn strikes. She says to Rudo that his stability using a jinki is high, so he needs to train it.\n\nSemiu's jinki is unique in the sense it is not used as a weapon to take down Aberrant Beasts, but rather as a tool to assess a Givers potential. Semiu is able to see the unseen, and how far one can go, which sometimes leads to shocking discoveries.",
+      "metadata": {
+        "gender": "female",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b298949-JuGJkPVGfyaS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 298949
+      }
+    },
+    {
+      "id": "tomme-mima",
+      "name": "Tomme Mima",
+      "alt_names": [
+        "トウム・ミマ"
+      ],
+      "role": "supporting",
+      "description": "__Affiliation:__ Cleaners\n__Height:__ 167 cm\n\nTomme is a young woman. She is in the support Cleaners group due to her lacking a jinki of his own. She is a compassionate woman, immedietly showing concern for members of the mission trapped in the basement upon Engines arrival. She is shown visibly emotional when Engine calms her nerves about them. Later when they find out Rudo was deeply upset due to mistaking Griss for being dead, she comforts him.\n\nBeing a supporter, Tomme is tought to have a good amount of strength used to fight Aberrant Beasts.",
+      "metadata": {
+        "gender": "female",
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b298950-mRn2Qs3KAJ5a.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 298950
+      }
+    },
+    {
+      "id": "abyss-workers-leader",
+      "name": "Abyss Workers Leader",
+      "alt_names": [
+        "アビスワーカーズリーダー",
+        "Chuuwake no Otoko (中分けの男)",
+        "Middle-Part Guy"
+      ],
+      "role": "supporting",
+      "description": "__Affiliation:__ SARAW\n\nHe is seemingly the leader of the abyss workers/human traffickers. He is overjoyed at the sight of Rudo and at first seemingly welcoming, studying Rudo as if he were a foreign species, but in mere minutes has Rudo chained up. He explains the bodies of sky people sell very well in the Abyss, because they all hate them.\n\n~!When Rudo defeats them all, only he remains, and Rudo attempts to finish the job only to be stopped by Engine, leaving the leader passed out in shock. Some time later, he awakens to be questioned by Jabber Wongar on details of Rudo, and is promptly killed by him.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b298951-Me9hTdzkyHZ3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 298951
+      }
+    },
+    {
+      "id": "jabber-wonger",
+      "name": "Jabber Wonger",
+      "alt_names": [
+        "ジャバー・ウォンガー",
+        "Mr. Dread Head"
+      ],
+      "role": "supporting",
+      "description": "__Affiliation:__ Vandals\n__Height:__ 183 cm\n__Jinki:__ Mankira\n\nJabber is a Giver and is a member of the Vandals, a criminal group of givers. He is known to be an unhinged psychopath and has a violent obsession with battle; always being eager to enter a fight with a wide grin and only acknowledging those that are strong enough to compete with him. He is also a masochist, being labeled as a \"super masochist\" by Rudo, and finds excitement and ecstasy through pain.",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b298953-2HajxxsIx9wd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 298953
+      }
+    },
+    {
+      "id": "follo-tunito",
+      "name": "Follo Tunito",
+      "alt_names": [
+        "フォロ・ツニート"
+      ],
+      "role": "supporting",
+      "description": "__Affiliation:__ Cleaners\n__Height:__ 175 cm\n\nFollo is a young man. He is in the support Cleaners group due to him lacking a jinki of his own, but is cultivating a 'treasured item' of his own to become a giver. \n\nFollo owns an hammer which he uses for combat in battle, and is potentially the jinki he's cultivating.",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b298954-ciXAKksdyGJv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 298954
+      }
+    },
+    {
+      "id": "cthoni-andor",
+      "name": "Cthoni Andor",
+      "alt_names": [
+        "クトーニ・アンドール"
+      ],
+      "role": "supporting",
+      "description": "__Affiliation:__ Vandals\n__Height:__ 152 cm\n__Jinki:__ \"Manhole\"\n\nCthoni is a rather short, androgynous girl. She is constantly emotionless, often showing little to no expression. She is very quiet and doesn't speak up, which gives her the effect of being unnoticed and being able to sneak up on people. She is realistic in battles, as while Jabber yearns to continue an unbeatable fight, she knowns it's right to retreat. Cthoni is incredibly strong, being able to pick up Jabber who is many times her size with ease.\n\nUsing her jinki, which is a sewer manhole, Cthoni is able to teleport from one place to another quickly and quietly without notice. The manhole is able to fit one person at a time and can vanish when covered again.",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b298955-Ck2LPSBKjaQ3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 298955
+      }
+    },
+    {
+      "id": "gob",
+      "name": "Gob",
+      "alt_names": [
+        "ゴブ"
+      ],
+      "role": "supporting",
+      "description": "__Affiliation:__ Canvas Town\n\nGob is a generational Giver who could create protection charms using his marker Jinki. At some point in his life, he would inherit the generational marker jinki. Using this, he would begin to create charms using it's abilities. He created a charm around Canvas Town which prevented those with bad intentions from entering.\n\n~!He died from contamination in the Abyss. His corpse was found, and taken to a morgue. The doctors discovered the cause to be contamination exposure. The mayor and the janitors would mourn his lose, as his jinki and legacy was passed onto the next jinki bearer.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b298956-02k1tGCJwDeL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 298956
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T18:57:54.378Z"
+}

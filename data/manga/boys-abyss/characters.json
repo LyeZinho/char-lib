@@ -1,0 +1,244 @@
+{
+  "work_id": "boys-abyss",
+  "count": 10,
+  "characters": [
+    {
+      "id": "reiji-kurose",
+      "name": "Reiji Kurose",
+      "alt_names": [
+        "黒瀬令児",
+        "Rei"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 172 cm\n\nDue to his family situation and feeling tied down to his hometown by his responsibilities to support them, he gradually spiraled into depression. Occasionally, contemplating suicide.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170177-ugj58NYPZIji.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170177
+      }
+    },
+    {
+      "id": "nagi-aoe",
+      "name": "Nagi Aoe",
+      "alt_names": [
+        "青江ナギ"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 163 cm\n\nNagi Aoe is an idol that recently moved into Kurose's town, where she worked as a convenience store clerk. She has recently stepped down from her work as an idol. \n~!Married to Nozoe Esemori.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170178-kIFSaV4nQH2X.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170178
+      }
+    },
+    {
+      "id": "sakuko-akiyama",
+      "name": "Sakuko Akiyama",
+      "alt_names": [
+        "秋山朔子",
+        "Chako (チャコ)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 149 cm\n\nReiji's childhood friend.\n\n~!She later falls in love with Reiji.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170179-wSlkCYDrWp8t.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170179
+      }
+    },
+    {
+      "id": "gen-minegishi",
+      "name": "Gen Minegishi ",
+      "alt_names": [
+        "峰岸玄",
+        "Minegishi-kun"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 185 cm \n\nReiji's childhood friend.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170180-btJw0PFwCp2Y.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170180
+      }
+    },
+    {
+      "id": "yuri-shibasawa",
+      "name": "Yuri Shibasawa",
+      "alt_names": [
+        "柴沢由里",
+        "Shiba-sensei"
+      ],
+      "role": "supporting",
+      "description": "Reiji’s homeroom teacher.\n\nYuri is seen as nice and outgoing usually wanting her students to succeed and do their best. ~!This changes once Reiji tells her he was going to commit suicide, she later becomes overprotective such as waiting for Reiji once he got home and wanting to buy Reiji from his mom.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170181-N9R37aXkBXtF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170181
+      }
+    },
+    {
+      "id": "yuko-kurose",
+      "name": "Yuko Kurose",
+      "alt_names": [
+        "黒瀬タ子"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 161 cm \n\nReiji's mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215474-QD2Z0wPn41th.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215474
+      }
+    },
+    {
+      "id": "kousaku-esemori",
+      "name": "Kousaku Esemori",
+      "alt_names": [
+        "似非森浩作",
+        "Akira Nozoe (野添旭)"
+      ],
+      "role": "supporting",
+      "description": "The mysterious writer of Spring's Coffin. He is Nagi's husband and seems to know Reiji's mother from their school days.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215475-berNB0HaTWZs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215475
+      }
+    },
+    {
+      "id": "kazumasa-fukami",
+      "name": "Kazumasa Fukami",
+      "alt_names": [
+        "深見一正"
+      ],
+      "role": "supporting",
+      "description": "Reiji's stepbrother.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b324869-q6zYJv6bcTpo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 324869
+      }
+    },
+    {
+      "id": "saki-shinooka",
+      "name": "Saki Shinooka",
+      "alt_names": [
+        "篠岡早希"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b324870-9YBd5W1Qm7GL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 324870
+      }
+    },
+    {
+      "id": "kouji-uryuu",
+      "name": "Kouji Uryuu",
+      "alt_names": [
+        "雨電浩史"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b324871-zMQCsUQsXZl0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 324871
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T15:50:49.344Z"
+}

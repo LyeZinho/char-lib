@@ -1,0 +1,369 @@
+{
+  "work_id": "bocchi-the-rock",
+  "count": 15,
+  "characters": [
+    {
+      "id": "hitori-gotou",
+      "name": "Hitori Gotou",
+      "alt_names": [
+        "後藤ひとり",
+        "Bocchi-chan",
+        "Hitori Gotoh",
+        "guitarhero"
+      ],
+      "role": "protagonist",
+      "description": "Gotou Hitori is a shy, gloomy high-schooler who started learning guitar after seeing rock bands on TV, in the hope that she too could become as popular as them. However, after 2 years she has yet to make a single friend or join a band. She instead sits in her closet at home, recording guitar covers and posting them to her YouTube channel, \"guitarhero\", on which she has amassed a reasonable following.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b257562-Ru35NYPfsqhY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 257562
+      }
+    },
+    {
+      "id": "nijika-ijichi",
+      "name": "Nijika Ijichi",
+      "alt_names": [
+        "伊地知虹夏",
+        "Archangel of Shimokitazawa",
+        "下北沢の大天使"
+      ],
+      "role": "protagonist",
+      "description": "An energetic and cheerful second-year high school student. She is the drummer of Kessoku Band and the organizer who takes care of Hitori. She has an older sister, Seika, who is the manager of the live house \"STARRY\" and has a special feeling for the live house.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b261674-a8tJYvtzqWgC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 261674
+      }
+    },
+    {
+      "id": "ryou-yamada",
+      "name": "Ryou Yamada",
+      "alt_names": [
+        "山田リョウ"
+      ],
+      "role": "protagonist",
+      "description": "A cool and solitary second year of high school. She is in charge of the bass of Kessoku Band. She's the best friend of Nijika. Her hobbies are out of the ordinary, and she rejoices when called a weirdo. She lives with a wealthy family, but she spends much of her money on instruments and always runs out of money. She occasionally eats weeds to get rid of her hunger.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264529-BvEusZnJLD2Y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 264529
+      }
+    },
+    {
+      "id": "ikuyo-kita",
+      "name": "Ikuyo Kita",
+      "alt_names": [
+        "喜多郁代"
+      ],
+      "role": "protagonist",
+      "description": "A bright and popular first year of high school. She is in charge of the guitar and vocals of Kessoku Band. She is a cheerful character who likes to interact with people and can talk to her with a smile without hesitation, even when she meets her for the first time. She longs for Ryo, and her feelings can go too far. She often takes photos and uploads to Isosta.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b266041-1HKgjJGP2MmM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 266041
+      }
+    },
+    {
+      "id": "seika-ijichi",
+      "name": "Seika Ijichi",
+      "alt_names": [
+        "伊地知星歌"
+      ],
+      "role": "supporting",
+      "description": "Nijika's older sister and manager of the live house \"STARRY\".",
+      "metadata": {
+        "gender": "female",
+        "age": "29-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289054-UnScwd5RkqBk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289054
+      }
+    },
+    {
+      "id": "kikuri-hiroi",
+      "name": "Kikuri Hiroi",
+      "alt_names": [
+        "廣井きくり"
+      ],
+      "role": "supporting",
+      "description": "Bassist and vocalist of the band \"SICK HACK\".\n\nAlways drunk to forget about life's downsides.",
+      "metadata": {
+        "gender": "female",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b291639-VYrixXvuwLqx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 291639
+      }
+    },
+    {
+      "id": "pa-san",
+      "name": "PA-san",
+      "alt_names": [
+        "PAさん",
+        "Otogi Alto (音戯アルト)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 162cm\n\nMysterious looking female PA engineer with a mouth piercing. In her private life, she is active as a virtual Youtuber under the name \"Otogi Alto\" producing gameplay videos.",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289055-khOP70WdXl2V.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289055
+      }
+    },
+    {
+      "id": "futari-gotou",
+      "name": "Futari Gotou",
+      "alt_names": [
+        "後藤ふたり"
+      ],
+      "role": "supporting",
+      "description": "Hitori's younger sister.",
+      "metadata": {
+        "gender": "female",
+        "age": "5",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289059-AbMjfO2YoThz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289059
+      }
+    },
+    {
+      "id": "naoki-gotou",
+      "name": "Naoki Gotou",
+      "alt_names": [
+        "後藤直樹"
+      ],
+      "role": "supporting",
+      "description": "Hitori and Futari's father.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289057-kxpKjfUu0KDi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289057
+      }
+    },
+    {
+      "id": "michiyo-gotou",
+      "name": "Michiyo Gotou",
+      "alt_names": [
+        "後藤美智代"
+      ],
+      "role": "supporting",
+      "description": "Hitori and Futari's mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289058-5RE0lhteKG3P.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289058
+      }
+    },
+    {
+      "id": "jimihen",
+      "name": "Jimihen",
+      "alt_names": [
+        "ジミへン"
+      ],
+      "role": "supporting",
+      "description": "The Gotou family dog.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289056-Eob1bSBYL1ry.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289056
+      }
+    },
+    {
+      "id": "shima-iwashita",
+      "name": "Shima Iwashita",
+      "alt_names": [
+        "岩下志麻"
+      ],
+      "role": "supporting",
+      "description": "Drummer of the band \"SICK HACK\".",
+      "metadata": {
+        "gender": "female",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293861-9JlcvpPnUblL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293861
+      }
+    },
+    {
+      "id": "eliza-shimizu",
+      "name": "Eliza Shimizu",
+      "alt_names": [
+        "清水イライザ"
+      ],
+      "role": "supporting",
+      "description": "Guitarist of the band \"SICK HACK\". She originally came from England, and moved to Japan 3 years ago so she could attend Comiket (\"Comima\" in the Japanese release of the manga) and be in an anison cover band. On top of her band activities, she also makes doujinshi.",
+      "metadata": {
+        "gender": "female",
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293862-sMo65ZZ69lC5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293862
+      }
+    },
+    {
+      "id": "ginjirou-yoshida",
+      "name": "Ginjirou Yoshida",
+      "alt_names": [
+        "吉田銀次郎"
+      ],
+      "role": "supporting",
+      "description": "The manager of the live house \"FOLT\".",
+      "metadata": {
+        "gender": "male",
+        "age": "37",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293863-Q8ct4HoAcnGm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293863
+      }
+    },
+    {
+      "id": "hitori-no-fan-1-gou",
+      "name": "Hitori no Fan 1-gou",
+      "alt_names": [
+        "ひとりのファン1号",
+        "Hitori's Fan No. 1"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b291640-Xr48HmvalScG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 291640
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T13:42:00.446Z"
+}

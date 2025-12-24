@@ -1,0 +1,194 @@
+{
+  "work_id": "look-back",
+  "count": 8,
+  "characters": [
+    {
+      "id": "ayumu-fujino",
+      "name": "Ayumu Fujino",
+      "alt_names": [
+        "藤野歩"
+      ],
+      "role": "protagonist",
+      "description": "Fujino is a fourth grader who draws 4-panel manga strips for the elementary school's newspaper. Her talent as well as her funny stories are praised by her classmates. But one day, she is challenged by the skilled drawings of a truant student from next-door class, and becomes determined to improve her art.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b286677-AXLCzHTcBGYr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 286677
+      }
+    },
+    {
+      "id": "kyomoto",
+      "name": "Kyomoto",
+      "alt_names": [
+        "京本"
+      ],
+      "role": "protagonist",
+      "description": "Kyomoto is a truant student in fourth grade. Because she doesn't show up to school, she practices drawing at home relentlessly. One day, her art gets published alongside Fujino's in the elementary school's newspaper, which began a one-sided rivalry.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b286932-6Syfi8YMh3KE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 286932
+      }
+    },
+    {
+      "id": "otoko",
+      "name": "Otoko",
+      "alt_names": [
+        "男",
+        "Man"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b349101-ufhPykHrRkH9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 349101
+      }
+    },
+    {
+      "id": "tannin",
+      "name": "Tannin",
+      "alt_names": [
+        "担任",
+        "Homeroom Teacher"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b349099-Zw5DFLKTK5di.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 349099
+      }
+    },
+    {
+      "id": "tomodachi-no-haha",
+      "name": "Tomodachi no Haha",
+      "alt_names": [
+        "友達の母",
+        "Friend's Mother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b349127-o2dDIvc19tuZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 349127
+      }
+    },
+    {
+      "id": "obaa-chan",
+      "name": "Obaa-chan",
+      "alt_names": [
+        "おばあちゃん"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b349129-JnqHprLV7uKu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 349129
+      }
+    },
+    {
+      "id": "4-koma-no-dansei",
+      "name": "4-Koma no Dansei",
+      "alt_names": [
+        "4コマの男性"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b349132-LRCDri91MyR9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 349132
+      }
+    },
+    {
+      "id": "4-koma-no-josei",
+      "name": "4-Koma no Josei",
+      "alt_names": [
+        "4コマの女性"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b349133-D5xjCBTAu9VB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 349133
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T13:24:41.477Z"
+}

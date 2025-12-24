@@ -1,0 +1,371 @@
+{
+  "work_id": "pandora-hearts",
+  "count": 15,
+  "characters": [
+    {
+      "id": "oz-vessalius",
+      "name": "Oz Vessalius",
+      "alt_names": [
+        "オズ・ベザリウス"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 164 cm (5'4\")\n~! __Age:__ 25 (Legal Age) !~\n\nThe main character of the story. A 15-year-old boy with blond hair and green eyes from the prestigious Vessalius family, whose father is the reigning lord. His mother was killed by the Nightray family, but despite this, he retains a bright, optimistic, and energetic personality. The story of Pandora Hearts starts when Oz turns fifteen. During the ceremony to celebrate this reaching of adulthood, he was dragged into the Abyss for the sin of 'existing'. There he meets the chain named Alice and makes a contract with her.",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13835-1H8HQb47woJH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 13835
+      }
+    },
+    {
+      "id": "alice",
+      "name": "Alice",
+      "alt_names": [
+        "アリス",
+        "Blood-stained Black Rabbit",
+        "B-Rabbit",
+        "Baka Usagi"
+      ],
+      "role": "protagonist",
+      "description": "__Name:__ Alice/ B-Rabbit  \n__Height:__ 150 cm  \n__Affiliation:__ Pandora's Member  \n__Base of Operations:__ Vessalius Mansion, Rainsworth Mansion, Pandora Headquarters  \n__Occupation:__ Chain  \n__Contractor:__ Oz Vessalius   \n\nThe heroine of the story with the height of 150cm. Alice first appears as a chain that persuades Oz to form a contract with her in the Abyss. In fact, she is actually the infamous B-Rabbit (Bloodstained Black Rabbit), the strongest chain in the Abyss. Alice's goal is to find her lost memories, which play a major role in the story. In human form, Alice has long dark brown hair with 2 side plaits. She has a huge appetite and loves meat especially. She is hotheaded, loud spoken and says what she thinks without regard to the consequence. Despite this, she has a soft side, especially when Oz is involved. She hates when Oz leaves her alone, but to hide it she usually says, \"I'm in a contract with you. You are my manservant, and as a manservant, what were you thinking, leaving me behind!?\" or she just hits Oz and says, \"Shut up\".",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13836-a7CzqtzhMLSS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 13836
+      }
+    },
+    {
+      "id": "xerxes-break",
+      "name": "Xerxes Break",
+      "alt_names": [
+        "ザークシーズ・ブレイク",
+        "Mad Hatter",
+        "Clown"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 177.5 cm (5'10\")  \n\nCommonly known as Break, he is a member of Pandora and a servant of the Rainsworth household. Break's appearance does not change from the ten year gap between Oz entering and leaving the Abyss. He has a legal contract with the Mad Hatter. Break is often seen with a doll on his shoulder, which he calls Emily. He adores sweets and cakes. From the outside, Break seems like a carefree character, never serious and always smiling. When needs be, however, Break shows his dangerous and evil side. Reim tells Oz that Break has not always been the way he is now. Before, after losing his eye, he was a bitter and angry person, never smiling. However, through the kindness of Shelly, Sharon's mother, he began to open up. He has sworn absolute loyalty to Shelly.",
+      "metadata": {
+        "gender": "male",
+        "age": "39",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b14020-r0qXmjKEWv7L.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 14020
+      }
+    },
+    {
+      "id": "sharon-rainsworth",
+      "name": "Sharon Rainsworth",
+      "alt_names": [
+        "シャロン・レインズワース"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 157 cm (5'2\")\n\nThe Lady of the Rainsworth household. Sharon is a member of Pandora and looks like a thirteen year old girl, although she is chronologically 23 years old. Her appearance does not change from her first meeting with Oz to after he came out of the Abyss because she has a legal contract with a chain, the black unicorn Eques.   Sharon and Break have a close relationship. It is she who discovers Break after he was found in front of the Rainsworth household's gate to the abyss. When she was young, she used to call Break 'Brother Xerx', as he was like a big brother to her. She wants desperately to be of use to him, though believes she lacks the power to do so.",
+      "metadata": {
+        "gender": "female",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n14021-JVeMfEbulePe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 14021
+      }
+    },
+    {
+      "id": "gilbert-nightray",
+      "name": "Gilbert Nightray",
+      "alt_names": [
+        "ギルバート・ナイトレイ",
+        "Gil",
+        "Raven",
+        "Seaweed Head"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 182 cm\n\nOz's best friend and loyal servant. To him, Oz is his most precious person, and he is willing to sacrifice anything for him. He was taken into the Vessalius family after being discovered in an injured state 15 years ago. He was invited by Oz to attend the coming of age ceremony as his friend. During the ceremony, he was controlled by a chain in the Baskerville's possession and forced to attack Oz. After regaining consciousness, Gilbert manages to see the face of one of the hooded people and for some reason jumps in the way of Oz's attack to protect him.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n16211-6c8Kyg9QWfGb.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 16211
+      }
+    },
+    {
+      "id": "vincent-nightray",
+      "name": "Vincent Nightray",
+      "alt_names": [
+        "ヴィンセント・ナイトレイ"
+      ],
+      "role": "supporting",
+      "description": "Vincent is Gilbert's younger brother by one year. As the Vessalius family found Gilbert, the Nightray family similarly adopted Vincent. His left eye is golden like Gilbert's, but his right eye is wine-red and his long hair is golden in color. He loves his brother Gilbert to the point of slight obsession. He has an easy-going personality on the outside and is often seen smiling. However, it is shown that Vincent also has a dark, unstable side.",
+      "metadata": {
+        "gender": "male",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17888-QdKtNNZ1B5HU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17888
+      }
+    },
+    {
+      "id": "charlotte-baskerville",
+      "name": "Charlotte Baskerville",
+      "alt_names": [
+        "シャルロット・バスカヴィル",
+        "Lotti (ロッティ)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 164 cm (5'5\")\n\nA bubbly girl with pink hair that kidnaps Oz at Latowidge. She was a participant in the Tragedy of Sabrié and killed many under orders. She served the Baskerville house and had feelings for Glen 100 years ago.   \n~!Her real name is Charlotte, but Jack gave her the nickname Lotti after they met. Lotti can't forgive Jack for killing his supposedly best friend and object of her affection and thus is targeting Oz to talk to Jack. Her main objective was to find their master Glen, and to find out what actually happened on the night of the Tragedy of Sabrié. Although she was one of the participants, she acted upon orders, and knew nothing behind the scenes. Hence why they approached Jack for the answers. She controls a chain called \"Leon\".!~   (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19110-JIHxjRVijV1S.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19110
+      }
+    },
+    {
+      "id": "jack-vessalius",
+      "name": "Jack Vessalius",
+      "alt_names": [
+        "ジャック・ベザリウス"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 180 cm (5'11\")\n~! __Age:__ 140 (Chronological Age) !~\n\nThe hero of 100 years ago and the one who 'defeated' Glen Baskerville. He is revealed to have some sort of connection with Alice's memories and Raven's past. Jack looks uncannily like a grown-up Oz with a long plait. His personality is also quite similar; he does things at his own pace and is loud and cheerful. Oz and Gilbert meet him when they are taken to the Cheshire Cat's dimension.    ~!He is currently residing in Oz's body and can 'possess' Oz and speak through him. When in control, Jack also has full control of Alice's chain power. Jack was the third son of the Vessalius family who was, before the Tragedy of Sabrie, a third rate noble family. Thus, with no expectations from his family, he acted quite freely: always smiling, joking and flirting with girls. !~ \n\n~!Jack was also a self-proclaimed music box maker. His best friend at that time was Glen Baskerville. Jack crafted a pocket watch for him and Glen wrote the melody, titled \"Lacie\". The pocket watch's melody was said to be a song that Lacie always sang to herself. Later, Jack killed Glen because he started the Tragedy of Sabrie and tried to kill Jack. Although hailed as a hero for this act, Jack did not want to kill his best friend. In a later entry in Jack Vessalius's diary, he wrote: \"I have killed my best friend. Please... Please do not call me a hero.\" He also shows true anger when Lotti suggested that he killed Glen to gain fame and glory. Jack reveals, through his speech when he first possesses Oz, that Glen is still living. Despite this, he says to the Baskervilles that if they wish to repeat the past, then he will once again turn his body into a blade that will destroy the Death Gods. !~  \n\n~!Recent chapters showed that Jack was Gilbert and Vincent's master. He had picked the brothers from the streets and allowed them to become his servants. Later, when Jack confronted Glenn, it shown that Gil had stepped in and saved Jack from mortal danger, which resulted with Gil's death. This event made Jack guilt-stricken, and he deemed himself a failure in protecting Gilbert. He hopes that Gil will stick with his current master (Oz), but he still thanks Gilbert for calling him \"Master\" despite of what he had done. Some flashbacks have shown him trying to introduce Gilbert and Vincent with Alice, hoping that they would be her new friends since she has always been alone and the closeness of their age. His efforts failed when Alice taunts Vincent's red eye and Gilbert pulled her hair in counter. Apparently, he was also aware of Glen's intentions but didn't asked further for the sake of their friendship, a decision he later regrets. (Source: Wikipedia)!~ \n\n~!It's been revealed that Jack actually caused the tragedy of Sablie by exploiting Vincent's role as the child of misfortune. Jack, with the help of Miranda Barma, tricked Vincent into opening a path to the abyss so that he could have the world be swallowed into its depths. His plan was to bring the outside world to Lacie and keep her from being lonely, but it failed due to intervention by Glen (Oswald) Baskerville and Alice.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19370-hn6m8CnxPhnA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19370
+      }
+    },
+    {
+      "id": "oscar-vessalius",
+      "name": "Oscar Vessalius",
+      "alt_names": [
+        "オスカー・ベザリウス"
+      ],
+      "role": "supporting",
+      "description": "Oz's uncle. He is easy-going and very caring. Oscar was the one who found Gilbert and brought him to the Vessalius household. Both Oz and Raven treat him as a father figure. He gets along well with Break. \n\n~!When he received a letter from Ada (in which she stated that she had found someone who she likes), he took Oz, Gilbert and Alice to Latowidge. They dressed as students, and snuck into the school.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19573-kDNWw3W59Hok.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19573
+      }
+    },
+    {
+      "id": "emily",
+      "name": "Emily",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Emily is Break&#039;s little doll who usually sits on him. She sounds like &quot;click click click&quot;, which with addition to her freaky smile makes her really scary for Oz.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19583-cN35Hm4chdkl.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19583
+      }
+    },
+    {
+      "id": "cheshire-cat",
+      "name": "Cheshire Cat",
+      "alt_names": [
+        "チェシャ猫"
+      ],
+      "role": "supporting",
+      "description": "A chain that lives in a dimension created from Alice&#039;s memories. He resembles a human form of the Cheshire Cat from Alice in Wonderland. Cheshire was actually Alice&#039;s pet cat from 100 years ago. The bell around his neck is the &#039;truth&#039; from 100 years ago, later taken by Break. The Cheshire cat is a unique chain in that he doesn&#039;t need a contractor in order to leave the Abyss (since his residence isn&#039;t in the Abyss in the first place). Originally believed to be a fervent servant of the Intention of the Abyss, it later turns out that he is trying to protect Alice&#039;s memories that she abandoned, in order to prevent her from suffering pain when she recalls them     ~! Break mentions that Cheshire&#039;s eye was his. It is revealed in Break&#039;s memory of meeting the Will of the Abyss that Vincent had removed Cheshire&#039;s eyes 100 years ago. [Cheshire can also be connected to &quot;Through the Looking Glass&quot; as Alice&#039;s cat &#039;Kitty&#039;. Kitty is also black and has a ribbon tied around his neck.]!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b20609-bbfFHBTTqZAS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 20609
+      }
+    },
+    {
+      "id": "echo",
+      "name": "Echo",
+      "alt_names": [
+        "エコー",
+        "Zwei",
+        "Noise",
+        "Duldum",
+        "Eko"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 164 cm (5'5\")\n\nVincent's personal servant. She is somewhat emotionless, like a puppet, and treats Vincent's word as law. She fights with blades that come out of her long sleeves. It may seem that Vincent treasures her, but he actually does not care that much.\n\n~!In Chapter 23, he goes as far as to poison her to prove that the antidote for the poison that he poisoned Shalon with works. Echo is shown to have her own mind when she saves the bottle of antidote that Vincent almost drops off the veranda, because she remember what Oz said the first time they meet. In Chapter 33 she admits that she finds Vincent annoying. She seems to developed feelings for Oz after both of them go to the festival together and Oz shows her what it is like to have fun, he also gives her a hair ornament which he was suppose to give to the girl he like, although he didn't know that.!~\n\n~!In recent chapters she's known to have another personality called Noise, who is actually Zwei. Noise loves Vincent deeply and, according to herself, is the original personality inside Echo's body. She (Zwei) controls a chain called Duldum that can control other people or immobilize them using strings. Zwei used her chain to immobilize Gilbert, and also used it within Echo to capture Shalon. !~\n\n~!With Zwei in possession of the body, she rejoins the Baskerville group and goes to Sabrie along with Lotti, where she meets Elliot and Reo. She immobilizes Reo using her chain, Duldum, but is only able to control his body, not his mind. Meanwhile Lotti stops Elliot.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b20843-YmX9cDUlJjXL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 20843
+      }
+    },
+    {
+      "id": "elliot-nightray",
+      "name": "Elliot Nightray",
+      "alt_names": [
+        "エリオット・ナイトレイ"
+      ],
+      "role": "supporting",
+      "description": "Elliot is the step-brother​ of Gilbert Nightray and Vincent Nightray. Elliot is the only remaining son of the Nightray couples and is the heir to the Nightray family.  Elliot is hotheaded, outspoken and always forces his opinions on everybody else. Ada, however, thinks he is a nice and dependable person deep down. He first meets Oz in the Latowidge library where they get into a fight over a character in the novel series \"Holy Knight\" (Elliot spoils the ending for Oz's favorite character, Edgar). He hated the Vessalius family. He also doesn't like Ada calling his name and despises how the Vessalius seem to get away with anything just because they were heroes 100 years ago. He seems to be greatly annoyed by Gilbert, but in reality cares about him.  In recent chapters, however, Elliot's hatred towards Oz has dissipated, and the two of them have become good friends.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21105-EwOpuz9cnqj2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21105
+      }
+    },
+    {
+      "id": "ada-vessalius",
+      "name": "Ada Vessalius",
+      "alt_names": [
+        "エイダ・ベザリウス"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170 cm (5'7\")\n\nOz's little sister who adores him very much.\n\nAfter 10 years, she attends Latowidge, a prestigious school for nobles, of which she is a prefect. She keeps in contact with Oscar via letter and causes Oz and co. to sneak into Latowidge as she wrote that she has found a person she likes.\n\n~!It is revealed that she was the one who gave Raven his hat. It is hinted that she likes Raven or maybe Eliot because she tells Oz that even though he seems to hate her, he really is a gentle and dependable guy, then she said to Oz that let her be the one to return Eliot's bag and she's happy but when Oz said that he will return Eliot's bag by himself and Ada got slight of disappointed, but in the later chapters she is seen on a date with Vincent. She has a cat named Dinah and later two cats (a black and a white one). The white one was named Snowdrop.!~\n\n~! After Oz disappeared, she researched the Abyss in many books. These books were about voodo magic and some simmilar things. Sadly, she never found any information on the Abyss. But when she realized,she grew to harbor an immense excitement  For occult and things off the mainstream like magic, ghosts, and torture… This became her hobby.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21111-QOx0IYJedEVY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21111
+      }
+    },
+    {
+      "id": "leo",
+      "name": "Leo",
+      "alt_names": [
+        "リーオ",
+        "Reo"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 164 cm (5'5\")\n\nHe is a student at Latowidge and serves Elliot. He has a calm and collected demeanor and is hardly rattled by anything. Leo is very observant and discovered Oz's identity as an intruder. Despite being Elliot's servant, he doesn't always take his side and will make him apologize if needs be. He is seen with Elliot at Sabrie. Leo carries a gun and is apparently hopeless with it and swords, according to Elliot.   ~!In chapter 50, Leo's past and true temperament is shed light on. For starters, he seems to have an even shorter temper than Elliot, and the two often get into verbal sparring matches, Elliot being the one who usually loses. Despite this, Reo says that Elliot calms him down most of the time. However, he does have unusual quirks, such as never wanting to cut his hair, nearly killing a person for daring to do so. He also makes a point to never show his face fully, and it seems only Elliot knows what his eyes look like.  It's revealed that Reo grew up at the orphanage near Sabrie. There the other children feared him, as he would never talk to anyone, simply wanting to spend time with his books and never showing his face. Eventually, he meets Elliot, a patron and visitor of the orphanage, and the two become friends through their mutual interest of music. Elliot asks Leo to become his servant, and initially Leo refuses point blank, but later accepts.  Leo exhibits strange behavior at the end of chapter 50, showing a somewhat unstable mentality to Oz in private. He states that he is very protective and respectful of Elliot, willing to go so far as kill anyone who gets in Elliot's way, including himself. He asks Oz to kill himself (Leo) if he should ever interfere with Elliot's plans.  He suspects Isla Yura of being the one behind the deaths of the six children at his home orphanage.  Leo was born as the newest vessel for Glen Baskerville's soul, and as such, Leo is now the reigning Glen Baskerville.  !~",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21415-UhAJ6EBq14jm.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21415
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T18:26:05.203Z"
+}

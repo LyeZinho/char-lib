@@ -1,0 +1,372 @@
+{
+  "work_id": "kagurabachi",
+  "count": 15,
+  "characters": [
+    {
+      "id": "chihiro-rokuhira",
+      "name": "Chihiro Rokuhira",
+      "alt_names": [
+        "六平千鉱",
+        "チヒロ",
+        "Samurai",
+        "Knight of Darkness"
+      ],
+      "role": "protagonist",
+      "description": "Son and apprentice of the master swordsmith [Kunishige Rokuhira](https://anilist.co/character/314803).\n\nWielder of the Enchanted Blade Enten, and a user of the Iai White Purity Style.\n\n~!He possesses the \"Rokuhira Eyes\" which are able to see through extremely fast \"invisible swordsmanship\" and the eyes allow him to learn sword techniques by just seeing them once.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "18 (Timeskip), 14 (Pre-timeskip)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314801-MvuHiyPe5Dxu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314801
+      }
+    },
+    {
+      "id": "hakuri-sazanami",
+      "name": "Hakuri Sazanami",
+      "alt_names": [
+        "漣伯理"
+      ],
+      "role": "protagonist",
+      "description": "Hakuri is a young man that was disowned from the Sazanami clan due to being perceived as weak. He witnessed Chihiro and Sojo's battle in the streets of Tokyo from a nearby restaurant and was touched by the sight of Chihiro's bravery, regarding him as a samurai. \n\n~!He possesses the extremely rare distinction of having 2 sorceries, Shockwave Manipulation and The Storehouse.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326181-WSlgO36TiAjA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326181
+      }
+    },
+    {
+      "id": "togo-shiba",
+      "name": "Togo Shiba",
+      "alt_names": [
+        "柴登吾"
+      ],
+      "role": "supporting",
+      "description": "Old friend of [Kunishige Rokuhira](https://anilist.co/character/314803), a former member of the Kamunabi, and a Seitei War veteran.",
+      "metadata": {
+        "gender": "male",
+        "age": "39",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314802-MSshYoi5yuJB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314802
+      }
+    },
+    {
+      "id": "kunishige-rokuhira",
+      "name": "Kunishige Rokuhira",
+      "alt_names": [
+        "六平国重"
+      ],
+      "role": "supporting",
+      "description": "Master swordsmith who forges katana with a special technique known to no one else. Father of [Chihiro](https://anilist.co/character/314801).",
+      "metadata": {
+        "gender": "male",
+        "age": "37",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314803-rHxwPh9ehNl9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314803
+      }
+    },
+    {
+      "id": "hinao",
+      "name": "Hinao",
+      "alt_names": [
+        "ヒナオ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315655-rw7lrHHsN6oq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315655
+      }
+    },
+    {
+      "id": "char-kyounagi",
+      "name": "Char Kyounagi",
+      "alt_names": [
+        "鏡凪シャル",
+        "Char Kyonagi"
+      ],
+      "role": "supporting",
+      "description": "She is a young orphan girl living on the streets who has reportedly witnessed an enchanted blade.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b316062-rWB4eSCJIgrE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 316062
+      }
+    },
+    {
+      "id": "genichi-soujou",
+      "name": "Genichi Soujou",
+      "alt_names": [
+        "宗城厳一",
+        "Genichi Sojo"
+      ],
+      "role": "supporting",
+      "description": "He is a prominent weapons dealer who controls Japan. A big fish of the underworld.\n\n~!He is the leader of the group pursuing Char, which includes the one that has already been captured by Chihiro and Shiba. He is also the current owner of one of the enchanted blades, the Cloud Gouger, crafted by Kunishige.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "30",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b317244-f0XOgt4liSF7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 317244
+      }
+    },
+    {
+      "id": "soushirou-azami",
+      "name": "Soushirou Azami",
+      "alt_names": [
+        "薊奏士郎",
+        "アザミ"
+      ],
+      "role": "supporting",
+      "description": "A member of the Kamunabi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b318348-Lq61zKW8P0zw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 318348
+      }
+    },
+    {
+      "id": "norisaku-madoka",
+      "name": "Norisaku Madoka",
+      "alt_names": [
+        "円法炸",
+        "Daruma the Sorcerer",
+        "Youjutsu-shi Daruma (妖術師ダルマ)",
+        "まどか のりさく",
+        "Daruma User"
+      ],
+      "role": "supporting",
+      "description": "Appears to be in pursuit of Char, and has the ability to produce daruma dolls that can violently explode at the command 'Invincible.'",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b318366-MBkkakPzxjZW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 318366
+      }
+    },
+    {
+      "id": "hishaku-youjutsu-shi",
+      "name": "Hishaku Youjutsu-shi",
+      "alt_names": [
+        "ヒシャク妖術師",
+        "Hishaku Sorcerer"
+      ],
+      "role": "supporting",
+      "description": "The unnamed sorcerer, described as a man wearing a cap, possessed a distinctive tattoo that may indicate his affiliation with the sorcerer group known as Hishaku, which Chihiro is searching for.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b318368-Bo6IPZZATX8Q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 318368
+      }
+    },
+    {
+      "id": "kiyohiko-uzuki",
+      "name": "Kiyohiko Uzuki",
+      "alt_names": [
+        "卯月",
+        "Kamunabi A (神奈備A)"
+      ],
+      "role": "supporting",
+      "description": "A member of the Anti-Cloud Gouger Special Forces, serving under Ikuto.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320441-upuDgaZbouEB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320441
+      }
+    },
+    {
+      "id": "shiyumi-harima",
+      "name": "Shiyumi Harima",
+      "alt_names": [
+        "播磨しゆみ",
+        "Kamunabi D (神奈備D)"
+      ],
+      "role": "supporting",
+      "description": "A member of the Anti-Cloud Gouger Special Forces, serving under Ikuto.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320442-LhYjb6N3a2Zw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320442
+      }
+    },
+    {
+      "id": "makoto-kasahara",
+      "name": "Makoto Kasahara",
+      "alt_names": [
+        "笠原マコト",
+        "Kamunabi B (神奈備B)"
+      ],
+      "role": "supporting",
+      "description": "A member of the Anti-Cloud Gouger Special Forces, serving under Ikuto.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320444-SUvaDYUqu6Ap.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320444
+      }
+    },
+    {
+      "id": "ikuto-hagiwara",
+      "name": "Ikuto Hagiwara",
+      "alt_names": [
+        "萩原幾兎"
+      ],
+      "role": "supporting",
+      "description": "Ikuto Hagiwara is one of the Kamunabi elite members. He uses magnetic powers to repel and attract. He leads the Anti-Cloud Gouger Special Forces, a group comprising of six individuals, including himself, which are collectively recognized as 'elite' by Sojo.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320445-3Mz7YyVaOrhP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320445
+      }
+    },
+    {
+      "id": "hajime-kugara",
+      "name": "Hajime Kugara",
+      "alt_names": [
+        "具柄ハジメ",
+        "Kamunabi C (神奈備C)"
+      ],
+      "role": "supporting",
+      "description": "A member of the Anti-Cloud Gouger Special Forces, serving under Ikuto.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320446-xZeGJju3kXq7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320446
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T15:46:37.016Z"
+}
