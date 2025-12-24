@@ -1,0 +1,309 @@
+{
+  "work_id": "teenage-mercenary",
+  "count": 13,
+  "characters": [
+    {
+      "id": "i-jin-yu",
+      "name": "I-Jin Yu",
+      "alt_names": [
+        "유이진",
+        "Jin",
+        "001"
+      ],
+      "role": "protagonist",
+      "description": "As the only survivor of a plane crash, Ijin became a mercenary in order to survive. 10 years later, he returned to his home country where his family was. As a former mercenary, he attends school and is currently a senior.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196891-MvIgbsIz8gEj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196891
+      }
+    },
+    {
+      "id": "da-yeon-yu",
+      "name": "Da-Yeon Yu",
+      "alt_names": [
+        "유다연",
+        "Da-Yun Yu"
+      ],
+      "role": "supporting",
+      "description": "I-Jin Yu's sister. She often gets bullied in school but is protected by her brother.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196890-ZMnsOVxzy2dJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196890
+      }
+    },
+    {
+      "id": "yeon-a-shin",
+      "name": "Yeon-A Shin",
+      "alt_names": [
+        "신연아",
+        "Yu-Na Shin"
+      ],
+      "role": "supporting",
+      "description": "Shin Yeon-A is Da-Yeon's friend. She transfers back to Da-Yeon & I-Jin's class after studying abroad for 2 years.\n\n~!When she left the school 2 years before the story begins to study in America, Da-Yeon started being bullied.!~\n\nShin Yeon-A is the granddaughter of the owner of SW, the biggest corporation in South Korea. She is almost always accompanied by her secretary and bodyguard Go Seok-Ju whom she grew up with.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208591-KIKr6OiIWd2r.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208591
+      }
+    },
+    {
+      "id": "seok-ju-go",
+      "name": "Seok-Ju Go",
+      "alt_names": [
+        "고석주",
+        "Suk-Joo Goh"
+      ],
+      "role": "supporting",
+      "description": "Seok-Ju Go is Yu-Na Shin's secretary and bodyguard.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208593-E6r69Pywrbim.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208593
+      }
+    },
+    {
+      "id": "seo-ha-cha",
+      "name": "Seo-Ha Cha",
+      "alt_names": [
+        "차서하"
+      ],
+      "role": "supporting",
+      "description": "Cha Seoha is Yu Ijin's friend. She is also a celebrity.",
+      "metadata": {
+        "gender": "female",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276382-OQxeVaxUDbeq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276382
+      }
+    },
+    {
+      "id": "gi-su-kim",
+      "name": "Gi-Su Kim",
+      "alt_names": [
+        "김기수"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289596-meSHNaSsluLo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289596
+      }
+    },
+    {
+      "id": "hui-jin-kim",
+      "name": "Hui-Jin Kim",
+      "alt_names": [
+        "김희진"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289597-xY5Xy3DUS8Gw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289597
+      }
+    },
+    {
+      "id": "yeong-chan-park",
+      "name": "Yeong-Chan Park",
+      "alt_names": [
+        "박영찬"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289598-wfK8ZXYxrqu5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289598
+      }
+    },
+    {
+      "id": "ji-ye-sin",
+      "name": "Ji-Ye Sin",
+      "alt_names": [
+        "신지예"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289599-m4A945O9FGuJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289599
+      }
+    },
+    {
+      "id": "ham-chan-kang",
+      "name": "Ham-Chan Kang",
+      "alt_names": [
+        "강함찬"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289600-onfsTNPZHURA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289600
+      }
+    },
+    {
+      "id": "jae-hyeong-lee",
+      "name": "Jae-Hyeong Lee",
+      "alt_names": [
+        "이재형"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289601-5GqLD292XNNk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289601
+      }
+    },
+    {
+      "id": "hyeok-jin-ju",
+      "name": "Hyeok-Jin Ju",
+      "alt_names": [
+        "주혁진"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289602-B5osOeZTR2lm.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289602
+      }
+    },
+    {
+      "id": "du-sik-cha",
+      "name": "Du-Sik Cha",
+      "alt_names": [
+        "차두식"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289603-Rt0HMGdNm6Aa.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289603
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T20:07:56.343Z"
+}

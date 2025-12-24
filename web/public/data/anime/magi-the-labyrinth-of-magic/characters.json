@@ -1,0 +1,382 @@
+{
+  "work_id": "magi-the-labyrinth-of-magic",
+  "count": 15,
+  "characters": [
+    {
+      "id": "aladdin",
+      "name": "Aladdin",
+      "alt_names": [
+        "アラジン",
+        "Magi"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 130 cm (Initial) - 167 cm\n\nA mysterious young boy with a huge djinn within his flute. His name is based on 'Aladdin and the Magic Lamp'. He travels in search of metal vessels that contain other djinns. He has a pure and innocent, yet wise personality that dislikes fighting. Although he looks like a child, he has manly interests.\n\nHe is known as a 'magi', through mediating with his staff, he can gather the magoi of rukhs for attacks. He also has the ability to materialize the djinn Ugo that lies within his flute. In addition, he can also make the magical turban that is wrapped around his head fly. Because he was concealed in the 'Sacred Temple' (the place Aladdin calls 'a sturdy room'), he does not know much about his identity and the world.",
+      "metadata": {
+        "gender": "male",
+        "age": "10-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b41949-LaoaHJ2tJxBw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 41949
+      }
+    },
+    {
+      "id": "alibaba-saluja",
+      "name": "Alibaba Saluja",
+      "alt_names": [
+        "アリババ・サルージャ"
+      ],
+      "role": "protagonist",
+      "description": "~!(near 18 during the Sindria Arc) (18 during World Exploration Arc) (22 during the Final Arc)!~\n__Height:__ 168 cm\n__Birth place:__ Balbadd\n__Special skill:__ Royal Fencing\n__Djinn:__ Amon\n\nAlibaba Saluja is the deuteragonist of Magi. Initially, after an incident, he fled his home country of Balbadd, and resided in Qishan where he worked as a cart driver. He dreams of getting rich enough to buy a country. Alibaba was a 17-year-old teenager when Aladdin randomly met him on his journey. Alibaba seems to be greedy at first and only thinks of money and good payment, though he values human life more and will save those in need. After being helped by Aladdin, he decides to team up with him and do dungeon diving. It was Alibaba's dream for a long time, but since almost nobody returned alive, he was too afraid to start a journey by himself. He considers Sinbad his hero because Sinbad was the only person who managed to return alive from the first dungeon.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b42501-BKURFIipvE1C.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 42501
+      }
+    },
+    {
+      "id": "morgiana",
+      "name": "Morgiana",
+      "alt_names": [
+        "モルジアナ",
+        "Mori",
+        "Morg"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 162-164 cm\n**Birthplace:** Dark Continent (Katarg)\n**Special Skill:** Kick\n**Household Vessel:** Amol Selseria\n\nDescendant of the hunting tribe, Fanalis. Her name is based on the slave girl who served Alibaba in \"Alibaba and the forty thieves\".\n\nMorgiana was Jamil’s slave before. She was emotionless and unfriendly at first, but as time passed after she was liberated, she became more emotional little by little.\n\nAlthough she looks like a normal girl, she can get closer with an enemy far away in an instant. In addition to her strong leg strength which can even enable her to vertically run up walls, she has a keen sense of smell on par with that of a dog’s, can also smell the stench of death emanating from the bottom of the pit and the smell of someone hiding in unseen places. Although weaker than her leg strength, her arm strength is strong enough to send a human like Alibaba flying.\n\nAfter Alibaba’s departure from Qishan, she put the words of her defector, Goltas, on her chest, and started a journey to her hometown, Katarg. In the middle of her journey towards Balbadd, she helped Leila and Sahsa’s caravan to eliminate the thieves at the rock quarry. She reunites with Aladdin after that, and then joins Alibaba again in Balbadd.\n\n~!She views Alibaba as her savior for freeing her and the other slaves from slavery with the wealth his obtained from Amon's dungeon and greatly values her relationship with both Alibaba and Aladdin, saying they are the most important people to her.!~\n\n~!She later becomes a Household Member under Alibaba's Amon which grants her power through her Household Vessel. Her Household Vessel took forms in her Slave shackles since its something she had many feelings for as she wore them for many years, Alibaba later gives her a necklace as a parting gift before he goes to train in Laem, this becomes her second Household Vessel so she can further use Alibabas power even when they are apart.!~\n\n~!She is proposed to by Hakuryuu but rejects him.!~\n\nThe name Morgiana (مرجانة) means coral in Arabic.\n\n~!In chapter 314, she accepts Alibaba's marriage proposal.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "14-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b43121-o2KuUeEfh6AS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 43121
+      }
+    },
+    {
+      "id": "judar",
+      "name": "Judar",
+      "alt_names": [
+        "ジュダル",
+        "Judal",
+        "Black Magi",
+        "Shinkan",
+        "Black Sun"
+      ],
+      "role": "supporting",
+      "description": "(first appearance), 23 (now)\n__Height:__ 173 cm (5'8\")\n__Occupation:__ Magi, Magician, Oracle\n__Affiliation:__ Al-Thamen (former), Kou Empire (now)\n\nJudar is one of the four Magi in the current era and a Magician who specializes in Ice Magic. He is the former Oracle of Al-Thamen and the Kou Empire after siding with Hakuryuu to aid him in taking over Kou Empire. According to Hakuryuu Ren, the name \"Judar\" was given by Al-Thamen, and his real name is unknown. He is the one of the main antagonist of the series. \"Judar\" in arabic means argument, debate, controversy.  \n\n(Source: Magi Wikia)",
+      "metadata": {
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b42502-suDfjEugIuVT.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 42502
+      }
+    },
+    {
+      "id": "sinbad",
+      "name": "Sinbad",
+      "alt_names": [
+        "シンドバッド",
+        "Sin",
+        "High King of Seven Seas",
+        "Stupid King",
+        "Legendary Dungeon Capturer",
+        "The Sailor",
+        "The Conqueror"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 183cm \n__Weakness:__ loves to drink  \n\nHe is the king of Sindria and the leader of the Alliance of the Seven Seas. He was 14 years old when he first captured a dungeon, the first dungeon \"Bael\". Since then, he had sailed the seven seas and captured seven dungeons. He is known as the \"Legendary Dungeon Capturer\" being the master of seven djinn. He is also commonly known as \"High King of Seven Seas\". His nickname is Sin. His name is based on \"Sinbad the Sailor\".  He met Aladdin and his friends when he was in Balbadd, trying to reopen trade.",
+      "metadata": {
+        "gender": "male",
+        "age": "29",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b42528-WS92Fmtwx7x0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 42528
+      }
+    },
+    {
+      "id": "jafar",
+      "name": "Ja'far",
+      "alt_names": [
+        "ジャーファル",
+        "Jafar",
+        "Thug"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 172 cm  \n__Likes:__ Working  \n__Weakness:__ Easily angered \n__Birthplace:__ Unknown \n__Special skill__: Assassination   \n\nOne of the eight generals, he uses the weapon household's vessel \"Balalark Sei.\" His loyalty towards Sinbad is so high that he'll approach anyone who insults him with murderous intent. When Sinbad does things as he pleases, Ja'far worries endlessly and sometimes even feels faint.   Ja'far usually only wears official clothing as he only has one set of normal clothing he received from Sinbad when he was 14 years old.  His name is based on the \"Harun al-Rashid's\" Persian vizier \"Ja'far ibn Yahya\" also known as \"Ja'far al-Barmaki\" which is one of the real people (not a fictional character) in \"One Thousand and One Nights\" stories. He appears in many stories in the \"One Thousand and One Nights\" series.",
+      "metadata": {
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b42529-7FMW51RoDetA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 42529
+      }
+    },
+    {
+      "id": "yamuraiha",
+      "name": "Yamuraiha",
+      "alt_names": [
+        "ヤムライハ",
+        "Yam",
+        "Yamu"
+      ],
+      "role": "supporting",
+      "description": "Height: 158cm  Likes: collecting magical items   One of the eight generals, she is a sorcerer that specialize in magic affiliated with water. She is called \"Miss Yamuraiha\" by Aladdin. Because of her fondness and pride for magic, she often gets into fights with Sharrkan, who is a swordsman. Because she will become so nervous that she will only talk about topics regarding magic with the person she is interested in, Pisti suggested her to \"just date a guy who can use magic.\"   (Source: Wikipedia)",
+      "metadata": {
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/46500.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 46500
+      }
+    },
+    {
+      "id": "sharrkan",
+      "name": "Sharrkan",
+      "alt_names": [
+        "シャルルカン",
+        "Shar"
+      ],
+      "role": "supporting",
+      "description": "Height: 180cm  \nLikes: feasts   \nOne of the eight generals, he has terrific skills in fencing. He is a poseur. He has a personality to not do anymore work after off-duty. He also goes drinking often. His optimistic personality changes into a violent personality during sword practice. Because of his extreme fondness for fencing, he often gets into fights with Yamuraiha. Because he thought it was cool, it became a habit of his to bring a girl he likes to the sword forgery.   (Source: Wikipedia)",
+      "metadata": {
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/46502.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 46502
+      }
+    },
+    {
+      "id": "kougyoku-ren",
+      "name": "Kougyoku Ren",
+      "alt_names": [
+        "練紅玉"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 163cm\n__Birth place:__ Kou Empire\n\nKougyoku Ren is the Kou Empire's eighth Princess. Kougyoku is a Dungeon Capturer and owner of the Djinn, Vinea.    \n\n~!Judal has stated because the plans in Balbadd fell through she has lost her standing as a princess. She has temporarily allied herself with Sindria. !~ \n\nKougyoku is a very willful person. She tends to act childish, but she can become serious if the situation calls for it. Even though she puts up such a willful front, she is actually a very lonely person and wants friends. She doesn't want to do everything ordered by the Kou Empire but is scared to disobey the orders.    \n\n~!She appears to have fallen in love with Sinbad at first sight. She becomes very nervous and embarrassed around him. Others have commented on the fact that she would do anything he says, a fact that he himself has not seemed to notice.  Later she becomes a good friend of Alibaba.!~ Her name means \"red jewel\". (Source: Magi Wikia)",
+      "metadata": {
+        "gender": "female",
+        "age": "17, 18 (currently)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46819-FwSnX1ldNhnM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 46819
+      }
+    },
+    {
+      "id": "cassim",
+      "name": "Cassim",
+      "alt_names": [
+        "カシム",
+        "Kashim",
+        "Qasim",
+        "Kashimu"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 172 cm (5'7\")\n\nCassim was an old friend and the adoptive brother of Alibaba Saluja. When Cassim was younger, he lived in the slums of Balbadd with his sister and father. One day, his father was beating him and his sister until they were saved by Alibaba Saluja's mother, Anise Saluja. After saving them, Anise took them in as a member of her family. One day, Anise suffered from an illness and died. At that point, Cassim took on the role of taking care of them. Although he is the cadre of the \"Fog Troupe,\" he is the real leader of the \"Fog Troupe.\" He uses the magical weapon \"Sword of the Black Binding Fog.\" He had lived with Alibaba in the slums like brothers when he was younger. His name is based on the brother of Alibaba in \"Alibaba and the Forty Thieves.\"\n\n(Source: Magi Wiki)",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46821-ITItsfBDM4xS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 46821
+      }
+    },
+    {
+      "id": "hakuryuu-ren",
+      "name": "Hakuryuu Ren",
+      "alt_names": [
+        "練白龍"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165 cm \n__Birth place:__ Kou Empire   \n\nHakuei's younger brother, he is currently the fourth prince in the Kou Empire. As he was taught to be able to do everything on his own by his sister, he is good at cooking. Because of Hakuei taking over his mother's position, he treasures her a lot as she is his one and only last kin.   He has a serious personality and worries over little things.   ~!Hakuryuu is the owner of the Djinn, Zagan. He is a Dungeon Capturer, capturing one Dungeon, and a King Candidate.!~   ~!Hakuryuu has a very troubled past. When Hakuryuu was younger, he was in a large fire during a revolt where his father and two brothers was killed. To save his life, his older brother, Hakuyuu Ren, splashed his blood all over Hakuryuu's body after telling to him that the culprit of the fire was their mother, Gyokuen Ren. The incident still caused him to receive the burn scar on the left side of his face.  After the revolt, Gyokuen told Hakuryuu and his older sister, Hakuei Ren, that the new Emperor, his uncle, Koutoku Ren, will adopt them and they will still have the title of prince and princess. Soon after, Hakuryuu, not believing what his brother had said, asks his mother about the truth. She admits it and says that she will marry the new Emperor. Later, Hakuei asks him what's wrong and he lies telling her nothing is wrong, hiding the truth about their mother, believing he had to protect her.!~   ~!Hakuryuu deeply likes Morgiana, after finding out her background and getting to know each other. He liked her enough that he proposed to her and promised to make her his empress. He said he will never give up until she loves him back, declaring he will come back to propose to her. !~",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46823-beP1dqsuJMHs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 46823
+      }
+    },
+    {
+      "id": "hakuei-ren",
+      "name": "Hakuei Ren",
+      "alt_names": [
+        "練白瑛"
+      ],
+      "role": "supporting",
+      "description": "Height: 169cm  Likes: sewing  Weakness: cooking  Birth place: Kou Empire   Kou Empire's first emperor's third daughter. She is a dungeon capturer. She is the general of the western army, but is not seen as reliable by a part of them because of her pacifist personality. She is also troubled because of her position as a general and the fact that she wants to settle things peacefully. On the other hand, as she is a dungeon capturer, she is courageous and has a high fighting strength and a strong will.   As she is an existence that takes over Hakuryuu's mother, she made sure that Hakuryuu will be able to do everything on his own.   (Source: Wikipedia)",
+      "metadata": {
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/46825.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 46825
+      }
+    },
+    {
+      "id": "jamil",
+      "name": "Jamil",
+      "alt_names": [
+        "ジャミル",
+        "Sharif"
+      ],
+      "role": "supporting",
+      "description": "Jamil was the Slave Owner of Morgiana and Goltas. Jamil was the chief of Qishan.\n\n~!Jamil was a very cruel and arrogant person. He thought of himself as a king candidate and disrespected everyone else. He also took a lot of pleasure in torturing Morgiana. He was also shown as very cowardly, when he was defeated by Alibaba in battle and starting calling Morgiana and Goltas for help.!~ (Source: Magi Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/46827.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 46827
+      }
+    },
+    {
+      "id": "masrur",
+      "name": "Masrur",
+      "alt_names": [
+        "マスルール"
+      ],
+      "role": "supporting",
+      "description": "Height: 195cm  \nLikes: naps  \nWeakness: children  \nBirth place: Dark Continent   \n\nOne of the eight generals. He uses the weapon household's vessel \"Balalark Kauza.\" He is also a \"Fanalis,\" like Morgiana. He does not speak a lot usually and is seen as emotionless and unfriendly. However, he is really kindhearted—he just doesn't show it often. His senior, Sharrkan often picks fight with him. However, he only listens to what Sinbad says.",
+      "metadata": {
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b53329-NfhoSN1tJ9Zd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 53329
+      }
+    },
+    {
+      "id": "kouen-ren",
+      "name": "Kouen Ren",
+      "alt_names": [
+        "練紅炎",
+        "Entei",
+        "En"
+      ],
+      "role": "supporting",
+      "description": "He is the first prince of Kou Empire. He's the General Commander of the Kou Empire's Western Subjugation Army together with his brothers, Koumei Ren and Kouha Ren. Kouen is a Dungeon Capturer, capturing three Dungeons, and one of Judal's King Candidates.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b54577-6tPR1lvn7580.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 54577
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T21:42:31.896Z"
+}

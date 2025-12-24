@@ -1,0 +1,369 @@
+{
+  "work_id": "yuri-on-ice",
+  "count": 15,
+  "characters": [
+    {
+      "id": "yuuri-katsuki",
+      "name": "Yuuri Katsuki",
+      "alt_names": [
+        "勝生勇利",
+        "Debu/Fatso",
+        "Katsudon/Pork Cutlet Bowl",
+        "Buta/Pig",
+        "Kobuta-chan/Piglet/Little Piggy"
+      ],
+      "role": "protagonist",
+      "description": "Yuuri is a 23-year-old (24 after episode 9) figure skater. Yuuri began skating at a very young age and aspires to become a great figure skater like his idol, Victor Nikiforov. As stated by his teacher Minako, Yuuri is not a prodigy at skating, but his skills were honed by rigorous training, which also grants him good stamina. He is Japan's top figure skater; his greatest skating assets being his peculiar sense of rhythm and unique step. However, Yuuri succumbs to pressure easily following the death of his pet dog Victor, causing him to mess up at crucial moments. After failing his first appearance at the Grand Prix Final, his self-confidence was greatly affected, succumbing to extreme anxiety due to his shortcomings and performances in following competitions, thus leaving a black mark on his career, and resulting in his returning home after being away for 5 years.\n\nYuuri is kind, sensitive, and mild-mannered; he is also introverted and has a hard time opening himself up to others, preferring to be alone and practice ballet or ice skating than socializing with his peers. Despite having a lot of support from his family and friends, he greatly lacks self-esteem and is easily discouraged, causing bouts of anxiety. Contrary to how Yuuri sees himself due to his past failures, he is still considered Japan's best skater, having the loyal support of his fans and the juniors skaters that look up to him, much to his bewilderment. Under Victor's tutelage, Yuuri slowly becomes more self-assured and confident, aiming to reinvent himself and putting more input into his programs as he strives to win the 2016-2017 Grand Prix series.",
+      "metadata": {
+        "gender": "male",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b90223-N2yiCBMBHxZu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 90223
+      }
+    },
+    {
+      "id": "yuuri-plisetsky",
+      "name": "Yuuri Plisetsky",
+      "alt_names": [
+        "ユーリ・プリセツキー",
+        "Юрий Плисецкий",
+        "Yurio",
+        "The Fairy of Russia"
+      ],
+      "role": "protagonist",
+      "description": "A 15-year-old next-generation Russian figure skater who has won three consecutive junior world championships. Because of his looks, he is called the \"Russian Fairy,\" but as soon as he steps off the ice he becomes vulgar and acts more like a delinquent. He is an ambitious person who believes without a doubt he will become the best in the world.\n\n(Source: Yuri on Ice - Wikipedia's List of Characters)",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b90224-sSpYZe1avAKW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 90224
+      }
+    },
+    {
+      "id": "victor-nikiforov",
+      "name": "Victor Nikiforov",
+      "alt_names": [
+        "ヴィクトル・ニキフォロフ",
+        "Виктор Никифоров"
+      ],
+      "role": "protagonist",
+      "description": "A 27-year-old \"living legend\" who has garnered the attention of the world. He is a skater who has won five consecutive world championships. He is popular with men and women of all ages, and he has a rock star-like charisma. Yuuri has been chasing after him since he was a child. Victor begins to take an interest in Yuuri for a strange reason.",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b90225-5NweNvd4YiDr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 90225
+      }
+    },
+    {
+      "id": "makkachin",
+      "name": "Makkachin",
+      "alt_names": [
+        "マッカチン"
+      ],
+      "role": "supporting",
+      "description": "Makkachin is Victor Nikiforov's pet poodle and constant companion.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/121616-9oB9MkE6vmMK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121616
+      }
+    },
+    {
+      "id": "otabek-altin",
+      "name": "Otabek Altin",
+      "alt_names": [
+        "オタベック・アルティン",
+        "Отабек Алтын",
+        "The Hero of Kazakhstan",
+        "Otabek Altyn"
+      ],
+      "role": "supporting",
+      "description": "Otabek is a 18-year-old Kazakh figure skater. He is generally stoic and tends to be introverted, preferring to spend time alone rather than with other skaters. While he himself is shy and quiet, his skating is very eloquent and expressive.\n\nHe is hugely popular in Kazakhstan and is considered a national hero.\n\n(Source: Yuri!!! On Ice Wikia)",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121765-xjvcgZIq1e1b.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121765
+      }
+    },
+    {
+      "id": "jean-jacques-leroy",
+      "name": "Jean-Jacques Leroy",
+      "alt_names": [
+        "ジャン・ジャック・ルロワ",
+        "JJ",
+        "Jean Jack Leroy"
+      ],
+      "role": "supporting",
+      "description": "Jean-Jacques is a 19-year-old Canadian figure skater. He is commonly referred to by most people as JJ, his initials.\n\nHe tends to run his mouth quite often, but is otherwise a very trustworthy person who consistently carries out any promises he makes. He is also very confident, almost to the point of arrogance. During his short program, he thinks about how he is the only person who can pull off a collaboration with a world-famous band, and how he is the king.\n\n(Source: Yuri!!! On Ice Wikia)",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/121766-rlhQWsmfH6D7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121766
+      }
+    },
+    {
+      "id": "christophe-giacometti",
+      "name": "Christophe Giacometti",
+      "alt_names": [
+        "クリストフ・ジャコメッティ",
+        "Chris"
+      ],
+      "role": "supporting",
+      "description": "Chris is a 25-year-old Swiss figure skater.\n\nChris has a deep love for figure skating. He is also a very sexual person, which is reflected in both his personal relationships and in his figure skating. He greets Yuuri at the Cup of China by stroking Yuuri's rear. He also has more sensual music choices for his programs. He tends to become very immersed in his performances.\n\nChris is self-confident enough to not care much about what people think of him, being brave enough to dance semi-nude at the previous year's GPF banquet.\n\n(Source: Yuri!!! On Ice Wikia)",
+      "metadata": {
+        "gender": "male",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121767-Y9lmX1O1PPUs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121767
+      }
+    },
+    {
+      "id": "phichit-chulanont",
+      "name": "Phichit Chulanont",
+      "alt_names": [
+        "ピチット・チュラノン",
+        "พิชิต จุลานนท์"
+      ],
+      "role": "supporting",
+      "description": "Phichit is a Thai figure skater. He is a kind and cheerful young man, and a natural optimist. He was supposed to contrast with Yuuri, therefore he is always full of cheerfulness. Phichit enjoys taking selfies of himself and teammates, as shown when Yuuri looks through his social media page, though his love of posting to social media can sometimes cause him to get carried away and take embarrassing photos of people. Phichit is also very proud of his country, always wanting to showcase Thai media to his audience, and hopes to popularize figure skating back in Thailand.\n\n(Source: Yuri!!! On Ice Wikia)",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121768-p0QzN6CW8blh.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121768
+      }
+    },
+    {
+      "id": "kenjirou-minami",
+      "name": "Kenjirou Minami",
+      "alt_names": [
+        "南健次郎"
+      ],
+      "role": "supporting",
+      "description": "Kenjirou has a bright and innocent (if not naïve at times) personality. He is very supportive of Yuuri and his opponents during their FS program performances and is shown to be wanting to try new things, such as wanting to try performing a quad even though he has never landed one before. He is also very energetic and can get nervous in stressful circumstances, as seen when he is about to perform his FS program.\n\nKenjirou treats Yuuri as his idol and strives to be just like him, taking every gesture from Yuuri to heart. He has a habit of letting his emotions get the best of him, especially when he is happy or in the presence of someone he looks up to.\n\n(Source: Yuri!!! On Ice Wikia)",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135073-a8YsxxyptL4n.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135073
+      }
+    },
+    {
+      "id": "celestino-cialdini",
+      "name": "Celestino Cialdini",
+      "alt_names": [
+        "チェレステーノ・チャルディーニ",
+        "Ciao Ciao"
+      ],
+      "role": "supporting",
+      "description": "The former coach of Yuuri Katsuki and Jean-Jacques Leroy and the current coach of Phichit Chulanont. Celestino is usually quite cheerful, both on and off the ice. He tends to be a bit rigid in making decisions for his skaters' programs, rather than bending towards their opinions.\n\n(Source: Yuri!!! On Ice Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137508-ixme7M00CKgt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137508
+      }
+    },
+    {
+      "id": "minako-okukawa",
+      "name": "Minako Okukawa",
+      "alt_names": [
+        "奥川ミナコ"
+      ],
+      "role": "supporting",
+      "description": "Minako Okukawa is a former ballerina who currently teaches ballet at her studio in Hasetsu and the ballet teacher of Yuuri Katsuki.\n\nMinako is an energetic and outgoing person, often striking ballet poses whenever she gets enthusiastic about something. She insists on manners, discipline, and body management, though she also enjoys alcohol, which contradicts her emphasis on manners and causes her to be quite brash and loud. She tries to keep Yuuri Katsuki motivated as a skater because the number of youth in Hasetsu is declining, putting her job as a ballet teacher in peril.\n\nShe is a big fan of figure skating and constantly expresses her attraction towards the male skaters while drunk, especially to Victor. She is also a big fan of Christophe Giacometti's, cheering for him when he performs and becoming flustered when noticed by him.\n\n(Source: Yuri!!! On Ice Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169094-O4gK7S7a9NiD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 169094
+      }
+    },
+    {
+      "id": "lutz-nishigori",
+      "name": "Lutz Nishigori",
+      "alt_names": [
+        "西郡流譜"
+      ],
+      "role": "supporting",
+      "description": "Lutz is one of the triplet daughters of Yuuko and Takeshi Nishigori.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169095-2jjGdqpvx5UW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 169095
+      }
+    },
+    {
+      "id": "hiroko-katsuki",
+      "name": "Hiroko Katsuki",
+      "alt_names": [
+        "勝生寛子"
+      ],
+      "role": "supporting",
+      "description": "Hiroko Katsuki is the wife of Toshiya Katsuki and the mother of Mari Katsuki and Yuuri Katsuki. Together with her husband, Hiroko runs Yu-topia Katsuki, the last remaining hot springs resort in Hasetsu.\n\nHiroko is a warm and friendly person who rarely ever seems troubled about anything. She is very supportive of Yuuri, greeting him enthusiastically when he comes home for the first time in five years.\n\n(Source: Yuri!!! On Ice Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169096-Mwl5QeDiEfIW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 169096
+      }
+    },
+    {
+      "id": "takeshi-nishigori",
+      "name": "Takeshi Nishigori",
+      "alt_names": [
+        "西郡豪"
+      ],
+      "role": "supporting",
+      "description": "Takeshi Nishigori is a childhood friend and ex-rink mate of Yuuri Katsuki. He is married to Yuuko.\n\nAs a child, Takeshi used to tease Yuuri for being overweight, though Yuuko was quick to defend Yuuri from his teasing. He did not share the same interest in Victor Nikiforov that Yuuri and Yuuko did.\n\nAs an adult, he has a laid-back and benign personality, and often gives Yuuri blunt but practical advice. Though he still sometimes teases Yuuri like he did when they were children, he does so in a more friendly and joking way. He no longer skates seriously, but is still a fan of the sport along with his wife and daughters.\n\n(Source: Yuri!!! On Ice Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169097-4tB32Z5qSwxH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 169097
+      }
+    },
+    {
+      "id": "nobunari-oda",
+      "name": "Nobunari Oda",
+      "alt_names": [
+        "織田信成"
+      ],
+      "role": "supporting",
+      "description": "Nobunari Oda is a commentator featured in the Grand Prix Final short program in Episode 11.\n\nOda is the fictional representation of a real life Japanese figure skater. The real-life Oda had personally requested to participate in the anime, and voiced his own character. In the English dub, he is replaced by an uncredited voice actor.\n\n(Source: Yuri!!! On Ice Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169098-fp1HUf5Ui5rl.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 169098
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T20:32:39.531Z"
+}

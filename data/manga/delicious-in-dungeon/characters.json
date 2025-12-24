@@ -1,0 +1,394 @@
+{
+  "work_id": "delicious-in-dungeon",
+  "count": 15,
+  "characters": [
+    {
+      "id": "laios-thorden",
+      "name": "Laios Thorden",
+      "alt_names": [
+        "ライオス・トーデン",
+        "Laius",
+        "Laios Touden"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 185 cm (6'1\")\n\nLaios is the leader of his party and Falin's older brother. He is a tall-man from the Northern Continent.\n\nLaios is a monster fanatic and a strong fighter. His deep knowledge and passion for monsters helps him to excel in combat and dungeon exploration. However, social skills are where he often falters; he struggles to pick up social cues, resulting in a lack of awareness and tact. This has caused him a lot of trouble throughout his life, a shortcoming that he is painfully aware of and insecure about. Despite this, Laios is extremely kindhearted, accepting, and friendly.",
+      "metadata": {
+        "gender": "male",
+        "age": "26",
+        "dateOfBirth": "488-11-26"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126818-vWeIwxSERSHd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126818
+      }
+    },
+    {
+      "id": "marcille-donato",
+      "name": "Marcille Donato",
+      "alt_names": [
+        "マルシル・ドナトー",
+        "Marushiru"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 160 cm (5'3\")\n\nMarcille is mage who is part of Laios' party. She is an elf from the Northern Continent.\n\n~!She is actually half-elf and half tall-man. Her mother is an elf, and father was a tall-man who passed away when Marcille was young.!~\n\nMarcille is kind, intelligent, principled, and loyal to her friends. However, she can also be very high-strung and has a difficult time dealing with things far outside her comfort zone (such as eating monsters). She has a lot of confidence in her magic ability due to her background, and can feel lonely when she's unable to help the party. She was one of the best students at the Magic Academy, where she joined the research program specializing in dungeon-making; this is where she met Falin, and is still her closest friend to this day. Marcille can also be a bit naive at times, believing that friendships alone can keep a party together.",
+      "metadata": {
+        "gender": "female",
+        "age": "50",
+        "dateOfBirth": "464-04-19"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127292-MAWgxbS0Cbrs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127292
+      }
+    },
+    {
+      "id": "senshi",
+      "name": "Senshi",
+      "alt_names": [
+        "センシ",
+        "Sen"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 140 cm (4'7\")\n\nSenshi is a member of Laios' party. He is a dwarf from the Eastern Continent.\n\nHaving spent 10 years studying monster cuisine and living a self-sufficient life inside the dungeon, Senshi loves cooking and is more than happy to share his knowledge and skills. He is dependable and strong, but can also be rather stubborn and set in his ways. He helps maintain the natural environment and ecology of the dungeon, and considers  himself part of it. He dislikes magic and treats it with a great deal of gravity and caution.",
+      "metadata": {
+        "gender": "male",
+        "age": "112",
+        "dateOfBirth": "402-10-02"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127689-SC65fBVrUx8v.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127689
+      }
+    },
+    {
+      "id": "izutsumi",
+      "name": "Izutsumi",
+      "alt_names": [
+        "イヅツミ",
+        "Asebi (アセビ)"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 150 cm (4'11\")\n\nIzutsumi is a former member of Shuro's party and currently a part of Laios' party. She is a tall-man (beast-man) from the Eastern Archipelago.\n\nIzutsumi is rather stand-offish, but is not a distant person; she's fairly self-centered, but is in the process of learning the value of working with others. She is primarily fueled by a determination to find someone to lift her curse. She has terrible table manners and is a picky eater.\n\n~!Izutsumi was born to humans, but the nature of her first curse, the curse placed over her which fused her body with that of an animal's is unknown. In her youth, Izutsumi was paraded as a circus freak. Eventually, Izutsumi was bought by Shuro's father to be raised as a retainer. After being bought, a second curse was placed over Izutsumi by one of the other retainers, which involved a knife-wielding spirit attacking Izutsumi unless the brand of the curse was regularly touched by the person who set the curse on the victim.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": "497-04-21"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130507-iB88aMlQPuMz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130507
+      }
+    },
+    {
+      "id": "chilchuck-tims",
+      "name": "Chilchuck Tims",
+      "alt_names": [
+        "チルチャック・ティムズ",
+        "Chiruchyakku",
+        "Nulchuck",
+        "Chilchack"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 110 cm (3'7\")\n\nChilchuck is a member of Laios' party. He is a half-foot from the Eastern Continent.\n\nChilchuck is shrewd, practical, and sharp-tongued. He refuses to take jobs unless he is paid in advance. His specialties are lockpicking and identifying and disarming traps. He's more open to eating monsters than Marcille is, but like her, draws a hard line at humanoids. He generally goes along with whatever the party does, but will speak frankly when they do something that can get them killed. His job as the party rogue puts him on edge, as failure to undo or avoid traps can lead his companions to immediate mortal danger. When his party members ignore his warnings, he quickly becomes agitated. He prefers to keep his private life separate from his work, so he doesn't tell his party a lot about himself.\n\n~!He has a wife and 3 daughters, but hasn't seen them in years.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "29",
+        "dateOfBirth": "485-05-18"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130509-NFZ7xFt1kLqd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130509
+      }
+    },
+    {
+      "id": "toshirou-nakamoto",
+      "name": "Toshirou Nakamoto",
+      "alt_names": [
+        "半本俊朗",
+        "Shuro (シュロー)",
+        "Shurou"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 180 cm (5'11\")\n\nShuro is a former member of the Thorden siblings' party. His real name is Toshiro Nakamoto.\n\nHe is an Eastern man with long black hair tied back in a ponytail, fair skin, and black eyes. He is shorter than Laios but taller than Marcille. When he appears again in the story, he appears more gaunt with sunken eyes and an unshaven face.\n\nOrdinarily, Shuro is a reserved man who doesn't often make demands of others. He has trouble expressing his true opinions to other people, instead relying on subtle social cues to imply what he feels. If the other party doesn't understand it, he tends to go along with what they say instead of push the issue. He seems to be impulsive under pressure, making snap decisions such as rescuing Falin by himself.\n\n~!His family is apparently of some noble lineage, as he has five retainers at his call. One of them, Maizuru, looked after him since he was a child. She noted that he was always reserved and never ate much, but ate plenty of whatever she made for him. Shuro arrived to The Island in order to train as a warrior. He was largely uninterested in monetary rewards or danger because of this.\n\nSometime after joining the Thorden siblings' party, Shuro fell in love with Falin when he woke one night and saw her enthralled instead of disgusted by a caterpillar on her finger, after which he proposed to her. She told him she needed time to think about it however, and unfortunately was eaten by the dragon before she could give an answer. Once they returned to the surface, Shuro left the party so he could rescue Falin with his retainers. He spent almost no time eating or resting during their descent through the dungeon.!~\n\n(Source: Dungeon Meshi Wiki)",
+      "metadata": {
+        "gender": "male",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130506-S5gp6sZyi8q9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130506
+      }
+    },
+    {
+      "id": "falin-thorden",
+      "name": "Falin Thorden",
+      "alt_names": [
+        "ファリン・トーデン",
+        "Farin",
+        "Falyn",
+        "Farlyn",
+        "Falin Touden"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170 cm (5'7\")\n\nFalin is Laios's younger sister and a mage specializing in support spells. She is a tall-man from the Northern Continent.\n\nFalin is a very kind, caring, and considerate person who doesn't want to hurt others. She extends this kindness even to the restless dead, who she has been attuned to since childhood. She can also be self-sacrificing and reckless; if the lives of her loved ones are in danger, she would not hesitate to take the blow in their stead. Like her brother, Falin has also had a fanatic interest in biology from a young age.",
+      "metadata": {
+        "gender": "female",
+        "age": "23",
+        "dateOfBirth": "491-12-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130508-ZaP30snJccry.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130508
+      }
+    },
+    {
+      "id": "kabru",
+      "name": "Kabru",
+      "alt_names": [
+        "カブルー"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 170 cm (5'7\")\n\nKabru is the leader of his party, exploring the dungeon together with Rinsha, Mickbell, Kuro, Daia, and Holm. He is a tall-man from Utaya, part of the Western Continent.\n\nKabru typically appears rather laid-back, but he is an extremely socially intelligent, analytical, and calculating man with a strong sense of justice. His hobby is observing and analyzing people and their relationships; he remembers every tiny detail about everyone that he comes across. He can be ruthless when he needs to be. Kabru's main goal is to prevent the dungeon from expanding and destroying the nearest villages, which happened to his home village of Utaya and led to his mother's death when he was a child.",
+      "metadata": {
+        "gender": "male",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135286-htqjXWhhjWSm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135286
+      }
+    },
+    {
+      "id": "thistle",
+      "name": "Thistle",
+      "alt_names": [
+        "シスル",
+        "狂乱の魔術師",
+        "Mad Sorcerer",
+        "Lunatic Magician",
+        "Sissel"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 130 cm\n\nThistle is the mage responsible for the creation of the dungeon on The Island and a jester who served in the court of King Delgal during the Golden Age. His actions make him the primary antagonist of the manga Delicious in Dungeon.\n\nAs the lord of the dungeon, the Lunatic Magician has a great amount of power over both the structure of the dungeon and the monsters that inhabit it. His lifespan has also been extended by the dungeon's power. He is incredibly loyal and protective of the king, and is willing to destroy anything he perceives as a threat to his throne or kingdom. The elf was present in the king's life since his birth and for major events such as his wedding and coronation.\n~!During King Delgal's reign, he suggested that Thistle study magic, which is where the elf flourished. However, among the elven and dwarven relics that Thistle studied was something of the dark arts. Thistle became obsessed with power and began his descent into madness, culminating in the elf casting a curse of immortality over the country and creating the dungeon.!~ ~!The Lunatic Magician also imprisoned the guardian of the Golden Country, the Winged Lion, in the depths of the dungeon.!~ (Source: Dungeon Meshi Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135288-OxeQrxUVKLzJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135288
+      }
+    },
+    {
+      "id": "rinsha",
+      "name": "Rinsha",
+      "alt_names": [
+        "リンシャ",
+        "Lynn",
+        "Lynnsha",
+        "Rin"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165 cm\n\nShe's a young wizard from the Eastern countries and a member of Kabru's party. It is hinted that she might have romantic feelings towards Kabru as she seems extremely jealous over him. \n\nNot much is known about her, except the fact that she's most likely from a country other than Shuro's homeland and she can use lightning with her magic. She's rather wary of people she doesn't know, and most of the time she looks like she's annoyed.",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135289-TaaQ8a4lHjEx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135289
+      }
+    },
+    {
+      "id": "namari",
+      "name": "Namari",
+      "alt_names": [
+        "ナマリ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 130 cm (4'3\")\n\nNamari is a former member of Laios' party and a current member of Tansu's party. She is a dwarf from the Eastern Continent.\n\nNamari is very knowledgeable about weapons and blacksmithing. Even though she has a strict personality when it comes to work and isn't on the best terms with her former party, she still worries about them and treats them like friends. It is rumored that she often argues with her employers over payment, and that her father is a well-known weapon dealer who scammed the government and later disappeared.",
+      "metadata": {
+        "gender": "female",
+        "age": "61",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135290-Xkr8Y1zxGniX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135290
+      }
+    },
+    {
+      "id": "mithrun",
+      "name": "Mithrun",
+      "alt_names": [
+        "ミスルン",
+        "Captain Mithrun (ミスルン隊長)",
+        "Misurn"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 155 cm\n\nMithrun is the captain of the Canaries, an Elf group sent to investigate the dungeon. He was born to a noble family, the House of Kerensil, and has one older brother.\n\nHe is a male elf who is the head of the group. He has pale hair cut in a short bob. The tips of both his ears have been cut off. Only one of his eyes works. He typically wears a long-sleeved shirt with stripes along the arm, a sleeveless top, a skirt, trousers and knee high boots. Like a number of the other Canaries, he wears a high neck collar. He uses teleportation magic, most often using it to replace the space occupied by foes to restrict their ability to attack.\n\nMithrun has a very poor sense of direction. ~!He is calm and collected at all times, but is also unaware of his own needs because the demon he made a pact with during his time as a Dungeon Lord devoured all of his desires, except for his desire for revenge.!~ He is very blunt when speaking.\n\n(Source: Delicious in Dungeon Wiki)",
+      "metadata": {
+        "gender": "male",
+        "age": "185",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b149833-nZ7ZMv8bHQon.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 149833
+      }
+    },
+    {
+      "id": "inutade",
+      "name": "Inutade",
+      "alt_names": [
+        "イヌタデ",
+        "Tade (タデ)",
+        "Hijouhi (ヒジョウヒ)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 195 cm (6'5\")\n\nInutade is a member of Shuro's party, serving him as one of his retainers. She is an ogre from the Eastern Archipelago.\n\nCompared to her comrades in Shuro's group, Tade is carefree, friendly, rather simple-minded, and gets hungry easily. Her real name is Hijouhi (ヒジョウヒ). She seems to have been close with Izutsumi.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b149834-rZdkLULlqVoI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 149834
+      }
+    },
+    {
+      "id": "maizuru",
+      "name": "Maizuru ",
+      "alt_names": [
+        "マイヅル",
+        "Iyo (イヨ)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165 cm (5'5\")\n\nMaizuru is a member of Shuro's party, serving him as one of his retainers. She is a tall-man from the Eastern Archipelago. Her real name is Iyo (イヨ).\n\nHaving known him his whole life, Maizuru is a brilliant yet overprotective teacher to Shuro. She is also a powerful mage who is able to perform a wide range of spells. Her magic seems to revolve around paper.",
+      "metadata": {
+        "gender": "female",
+        "age": "41",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b149835-awjvSuODLhQe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 149835
+      }
+    },
+    {
+      "id": "pattadol",
+      "name": "Pattadol",
+      "alt_names": [
+        "パッタドル",
+        "Pattdohl",
+        "Pattadol of the House of Vari"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 160 cm\n__Likes:__ Tomato\n__Dislikes:__ Liver\n\nMember of the Canaries, an Elf group sent to investigate the dungeon. She is the second child of a noble family, the House of Vari, and was appointed by her parents to join the Canaries.\n\nShe appears to have a long-haired faerie as a familiar who acts primarily as a communicator between her and the other elves. She can transform her familiar into a magic staff to cast spells, including one that generates a physical barrier. While she seems to panic fairly easily, she seems to be the most proper of the team, stopping the other elves from laughing at Mithrun's mistake and reminding Sishys to keep her mind on the battle. She is also quite observant, noting Shuro and Namari's response when the chimerized Falin appears on the first floor.\n\n(Source: Delicious in Dungeon Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "82",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b149836-27TcUGqXcsVU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 149836
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T22:00:15.855Z"
+}

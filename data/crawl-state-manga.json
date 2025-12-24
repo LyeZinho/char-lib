@@ -318,89 +318,29 @@
     "124153",
     "116267",
     "144946",
-    "69883"
+    "69883",
+    "17265",
+    "21092",
+    "100954",
+    "85141",
+    "437",
+    "21647",
+    "126297",
+    "140407",
+    "21857",
+    "21709",
+    "51525",
+    "33731",
+    "16592",
+    "102351",
+    "30042",
+    "30745",
+    "14513",
+    "146065",
+    "33986",
+    "86082"
   ],
   "queue": [
-    {
-      "id": 100954,
-      "title": "Sweet Home",
-      "popularity": 50841,
-      "score": 81,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 85141,
-      "title": "God of High School",
-      "popularity": 50605,
-      "score": 76,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 126297,
-      "title": "Iphagyongbyeong",
-      "popularity": 50540,
-      "score": 80,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 140407,
-      "title": "Yeokdaegeum Yeongji Seolgyesa",
-      "popularity": 49744,
-      "score": 89,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 51525,
-      "title": "Akatsuki no Yona",
-      "popularity": 49565,
-      "score": 87,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 33731,
-      "title": "Solanin",
-      "popularity": 49290,
-      "score": 80,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30042,
-      "title": "Dragon Ball",
-      "popularity": 48921,
-      "score": 83,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30745,
-      "title": "PLUTO",
-      "popularity": 48732,
-      "score": 85,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 33986,
-      "title": "Deadman Wonderland",
-      "popularity": 48713,
-      "score": 74,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 86082,
-      "title": "Dungeon Meshi",
-      "popularity": 48471,
-      "score": 88,
-      "episodes": null,
-      "status": "FINISHED"
-    },
     {
       "id": 132182,
       "title": "Ao no Hako",
@@ -1547,8 +1487,8 @@
     }
   ],
   "stats": {
-    "totalProcessed": 97,
-    "totalCharacters": 5073,
-    "lastRun": "2025-12-24T19:08:07.834Z"
+    "totalProcessed": 107,
+    "totalCharacters": 5210,
+    "lastRun": "2025-12-24T22:04:15.945Z"
   }
 }

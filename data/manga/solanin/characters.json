@@ -1,0 +1,120 @@
+{
+  "work_id": "solanin",
+  "count": 5,
+  "characters": [
+    {
+      "id": "meiko-inoue",
+      "name": "Meiko Inoue",
+      "alt_names": [
+        "井上芽衣子"
+      ],
+      "role": "protagonist",
+      "description": "Meiko graduated from university two years ago and lives in an apartment in Tokyo with her boyfriend Taneda. She has no real goals or direction in life and stepped into society as a rather clueless person. She worked as an office lady, but soon grew unhappy and decided to quit her job. Having broken her routine, Meiko enjoys a sense of freedom, but her uncertainty soon returns and she, along with her boyfriend, must learn to embrace their unpredictable future.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b18350-sPkUTf5b4wER.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18350
+      }
+    },
+    {
+      "id": "naruo-taneda",
+      "name": "Naruo Taneda",
+      "alt_names": [
+        "種田成男"
+      ],
+      "role": "protagonist",
+      "description": "Taneda is Meiko&#039;s boyfriend and lives in an apartment with her in Tokyo. They support themselves through their jobs (Taneda is an illustrator in a press company), but both up and quit when they realise they just aren&#039;t happy. Taneda has a great passion for music and is a guitarist and vocalist in a band with his friends. After quitting his job he decides to try and make it in the music industry by going pro.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b18351-LxBiKvBLs8qa.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18351
+      }
+    },
+    {
+      "id": "ai-kotani",
+      "name": "Ai Kotani",
+      "alt_names": [
+        "小谷 アイ"
+      ],
+      "role": "supporting",
+      "description": "Kotani is Katou's girlfriend. She works as a sales clerk in a clothing store.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/18352.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18352
+      }
+    },
+    {
+      "id": "katou-kenichi",
+      "name": "Katou Kenichi",
+      "alt_names": [
+        "加藤 賢一"
+      ],
+      "role": "supporting",
+      "description": "Katou is Ai's boyfriend. He is still a college student because he had to repeat a year. He is the bassist of Taneda's band.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/18353.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18353
+      }
+    },
+    {
+      "id": "jirou-yamada",
+      "name": "Jirou Yamada",
+      "alt_names": [
+        "山田 二郎",
+        "Rip",
+        "Billy"
+      ],
+      "role": "supporting",
+      "description": "Yamada is the drummer of Taneda's band. He works as a clerk in a drugstore.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b18354-LKpvzC5YILQu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18354
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T20:48:10.224Z"
+}

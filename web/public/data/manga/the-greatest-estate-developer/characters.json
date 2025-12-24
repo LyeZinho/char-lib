@@ -1,0 +1,344 @@
+{
+  "work_id": "the-greatest-estate-developer",
+  "count": 15,
+  "characters": [
+    {
+      "id": "lloyd-frontera",
+      "name": "Lloyd Frontera",
+      "alt_names": [
+        "로이드 프론테라",
+        "Kim Su-Ho (김수호)"
+      ],
+      "role": "protagonist",
+      "description": "A drunkard whose family is in a mountain of debt. Su-Ho Kim, a civil engineer, is transmigrated into his body.",
+      "metadata": {
+        "gender": "male",
+        "age": "25-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b269308-WM4Rwciwu2Ef.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 269308
+      }
+    },
+    {
+      "id": "javier-asrahan",
+      "name": "Javier Asrahan",
+      "alt_names": [
+        "하비엘아스라한"
+      ],
+      "role": "protagonist",
+      "description": "The protagonist of the fantasy novel Iron Blooded Knight, who rises to the level of a sword grandmaster after several years of adventure. Javier Asrahan is a loyal knight of the Frontera family. He currently acts as the personal guard of Lloyd Frontera and accompanies him on nearly every occasion.",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b269320-PFqJEFezwtzT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 269320
+      }
+    },
+    {
+      "id": "alicia-magentano",
+      "name": "Alicia Magentano",
+      "alt_names": [
+        "알리시아테르미나마젠타노"
+      ],
+      "role": "protagonist",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b269322-Fz8DI68JIXWw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 269322
+      }
+    },
+    {
+      "id": "marbella-frontera",
+      "name": "Marbella Frontera",
+      "alt_names": [
+        "마르베야프론테라"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b269323-e3FjC1IObQaS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 269323
+      }
+    },
+    {
+      "id": "meatloaf",
+      "name": "Meatloaf",
+      "alt_names": [
+        "미트로프"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b269324-oVIFKcEpiuep.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 269324
+      }
+    },
+    {
+      "id": "arcos-frontera",
+      "name": "Arcos Frontera",
+      "alt_names": [
+        "아르코스프론테라"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b269325-OfgGfX0X16Zs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 269325
+      }
+    },
+    {
+      "id": "julian-frontera",
+      "name": "Julian Frontera",
+      "alt_names": [
+        "줄리안프론테라"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b269326-7YRAOYmS02J4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 269326
+      }
+    },
+    {
+      "id": "berkis",
+      "name": "Berkis",
+      "alt_names": [
+        "베르키스",
+        "Verkis"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "1500 (dragon), 21 (human)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306499-r07Yz3kBUuCg.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306499
+      }
+    },
+    {
+      "id": "allop",
+      "name": "Allop",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Allop is a farmer that lives at the Barony of Frontera.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b317061-5hbNoVOcYz4y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 317061
+      }
+    },
+    {
+      "id": "akush",
+      "name": "Akush",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Akush is the chief of the Sand and Steel Tribe and the father of Arosh.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b317066-5u83TZ5bBZMX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 317066
+      }
+    },
+    {
+      "id": "samarkan-al-ahinsad",
+      "name": "Samarkan Al Ahinsad",
+      "alt_names": [
+        "사마르칸알아힌샤드"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b317067-mq6yOUtszQZb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 317067
+      }
+    },
+    {
+      "id": "bangul",
+      "name": "Bangul",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Bangul is a fantastical snake capable of growing to gigantic proportions and processing dirt into either steel or volcanic ash.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b317068-AMdV0GEVkmG9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 317068
+      }
+    },
+    {
+      "id": "wels-corgidus",
+      "name": "Wels Corgidus",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Wels Corgidus is a royal craftsman residing in the capital of Magentano. He is also responsible for teaching Solitas how to craft jewels.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b317069-IvwEIz5bzZ9D.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 317069
+      }
+    },
+    {
+      "id": "mellica",
+      "name": "Mellica",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Mellica is the strongest elf warrior of the Everglow Forest.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b317070-QRk2F2Wrsv2d.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 317070
+      }
+    },
+    {
+      "id": "moira",
+      "name": "Moira",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Moira is the chief of the Everglow Forest elves.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b317071-uvfD1PHltFSB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 317071
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T20:13:09.119Z"
+}

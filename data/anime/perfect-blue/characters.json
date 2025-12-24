@@ -1,0 +1,331 @@
+{
+  "work_id": "perfect-blue",
+  "count": 14,
+  "characters": [
+    {
+      "id": "mima-kirigoe",
+      "name": "Mima Kirigoe",
+      "alt_names": [
+        "霧越未麻",
+        "Mima-rin"
+      ],
+      "role": "protagonist",
+      "description": "Mima started her career in the pop idol band CHAM which she quit to embrace a career as a drama actress.  Mima-rin is the nickname she is often called by her fans.",
+      "metadata": {
+        "gender": "female",
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n4866-FcZMrcHzq5t7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4866
+      }
+    },
+    {
+      "id": "rumi-hidaka",
+      "name": "Rumi Hidaka",
+      "alt_names": [
+        "ルミ"
+      ],
+      "role": "supporting",
+      "description": "Rumi is Mima's manager. She is opposed to Mima's crossover into acting.   ~!She was a former idol singer. It turns out she is the \"real\" Mima who was sending the emails to Me-Mania. She then thinks of herself as Mima Kirigoe.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6111-hnTxQS826dXe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6111
+      }
+    },
+    {
+      "id": "uchida",
+      "name": "Uchida",
+      "alt_names": [
+        "内田",
+        "Me-Mania"
+      ],
+      "role": "supporting",
+      "description": "Me-Mania is one of Mima's biggest fans, to the point where he is totally obsessed with her.  When Mima starts to do things that go against his expectations of her, he becomes a stalker believing himself to be led by a \"true\" Mima.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b14123-R6aMiSsfhkMw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 14123
+      }
+    },
+    {
+      "id": "rei",
+      "name": "Rei",
+      "alt_names": [
+        "レイ"
+      ],
+      "role": "supporting",
+      "description": "Rei is a singer in the pop music group CHAM! After Mima left, Rei and Yukiko become more popular, which results of them getting into the best singing group charts. She does seem to care about Mima, even when she changed careers. In one scene in the film, Rei and Yukiko are on their radio talk show and when they bid goodbye to the audience, Mima's apparition appears. Although Rei is happy to see Mima, but is shocked when Mima suddenly leaves and goes after the apparition.   (Source: Satoshi Kon Wikia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/40478.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 40478
+      }
+    },
+    {
+      "id": "murano",
+      "name": "Murano",
+      "alt_names": [
+        "村野"
+      ],
+      "role": "supporting",
+      "description": "Although Murano is a well known photographer, it isn't easy to work with him. His specialty is photo shoots for women who are stripping, and he may end up seeing attractive woman naked, which causes him joy. During the shoot, he can't resist a cheerful grin.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72181.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72181
+      }
+    },
+    {
+      "id": "tejima",
+      "name": "Tejima",
+      "alt_names": [
+        "手嶋"
+      ],
+      "role": "supporting",
+      "description": "In the film industry, Tejima is a very famous and influential man. He decides which actors, for example, get better roles.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72183.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72183
+      }
+    },
+    {
+      "id": "sakuragi",
+      "name": "Sakuragi",
+      "alt_names": [
+        "桜木"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72185.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72185
+      }
+    },
+    {
+      "id": "takashi-doi",
+      "name": "Takashi Doi",
+      "alt_names": [
+        "土居正"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72187.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72187
+      }
+    },
+    {
+      "id": "tadokoro",
+      "name": "Tadokoro",
+      "alt_names": [
+        "田所"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72189.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72189
+      }
+    },
+    {
+      "id": "takao-shibuya",
+      "name": "Takao Shibuya",
+      "alt_names": [
+        "渋谷貴雄"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72191.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72191
+      }
+    },
+    {
+      "id": "yukiko",
+      "name": "Yukiko",
+      "alt_names": [
+        "雪子"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72193.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 221163
+      }
+    },
+    {
+      "id": "kantoku",
+      "name": "Kantoku",
+      "alt_names": [
+        "監督",
+        "Director"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 221162
+      }
+    },
+    {
+      "id": "yatazaki",
+      "name": "Yatazaki",
+      "alt_names": [
+        "矢田"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 221164
+      }
+    },
+    {
+      "id": "eri",
+      "name": "Eri",
+      "alt_names": [
+        "恵理"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b221165-YSdYdzbyOL9Q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 221165
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T19:54:26.651Z"
+}

@@ -1,0 +1,326 @@
+{
+  "work_id": "sweet-home",
+  "count": 14,
+  "characters": [
+    {
+      "id": "hyun-su-cha",
+      "name": "Hyun-Su Cha",
+      "alt_names": [
+        "차현수",
+        "Hyeon-Su Cha"
+      ],
+      "role": "protagonist",
+      "description": "The main character of the story. An isolated, lonely teenager who is forced to move when his family dies in a traffic accident. He is eighteen years old and stopped going to high school due to unknown reasons. He spends his time trolling and tricking on internet, as well as playing various RPGs. He sold his old house and moved into Green Home apartments (room 1410) because the money left by his deceased family was insufficient for him to survive as an isolated person. He then proceeds to chose October 25th as a date to commit suicide.\n\n~!Hyun is a human infected with the monsterization, but fights back against both his impending mutation and the monsters that have overtaken the world.!~ His weapon of choice is a handmade electric spear, powered by a large battery that he carries in his backpack.\n\nIt was revealed in chapters 81 and 82 that ~!Hyun had a rather happy childhood. Up until his high school years, he was the pride of his family. However, in high school he was targeted by a rich bully who made sure that Hyun was socially excluded. Eventually, even his own sister started excluding him by claiming that he wasn't her brother. His parents took little action, due to the fact that the bully's father was owner of the company Hyun's dad worked at. They did however talk to the school, and the bully stopped picking on him after that incident. However, Hyun was traumatized from the experience, and came out a different person. Eventually, he fell into suicidal thoughts and developed a history of self harm.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127415-iNPETf5ihn9j.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127415
+      }
+    },
+    {
+      "id": "eun-hyuk-lee",
+      "name": "Eun-Hyuk Lee",
+      "alt_names": [
+        "이은혁",
+        "crewcrew"
+      ],
+      "role": "protagonist",
+      "description": "Eighteen year old Hyuk Lee is the leader of the Green Roof Apartments Survivors and Eun Lee's older brother. He is also one of the deuteragonists of the series with the others being some of the Green Roof Apartment survivors.\n\nHyuk is an intelligent and level-headed young man with an affinity for leadership. He often plans the many missions the survivors need to undertake. He is unafraid to take risks and is pragmatic, such as accepting an infected human into their ranks, if it helps boost their success rates. He also was prepared to take underhanded measures to tip the odds in his favor. However, as other survivors have learned, Hyuk is extremely blunt in speech and often says things rudely or in a way that would draw their ire. Hyuk is aware of this trait and either uses it to energize people or to provoke people for his own enjoyment. Due to his video game playing habits, he occasionally offers explanations using video game terminology. Because of this and his bluntness, it often embarrasses his sister Eun. Despite this, Hyuk deeply cares about Eun. He notices her actions and is able to deduce that Eun has a crush on Hyun. Hyuk also possesses empathetic traits but masks it greatly for both survival and so that no biases are made when it came to decision making as a leader. However, if there is no harm to the survivors, Hyuk would let emotions and morality guide his decisions.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136499-ruiCOoX3M5EW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136499
+      }
+    },
+    {
+      "id": "ji-su-yun",
+      "name": "Ji-Su Yun",
+      "alt_names": [
+        "윤지수"
+      ],
+      "role": "protagonist",
+      "description": "A girl who recently moved into Green Home apartments (room 1510) the same day as Hyun.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136502-lWlnT9BCrJMg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136502
+      }
+    },
+    {
+      "id": "sang-uk-pyeon",
+      "name": "Sang-Uk Pyeon",
+      "alt_names": [
+        "편상욱",
+        "Wook Pyeon",
+        "Mr. Mobster"
+      ],
+      "role": "protagonist",
+      "description": "Thirty two year old Wook Pyeon, also called Mr. Mobster by some of the other residents, is a former police detective and a resident of Green Roof Apartments. He is fierce-looking and he appears to have a gangster manner. However, he calls himself a \"good fella\". He got fired for putting the son of an important person in hospital. \n\nDue to his background, he is more aggressive than others. He still uses physical force to keep others in line, such as Hyun Cha. Despite this, he means well and will selflessly put his life on the line to save others. He appears confident in his ability to live and does not see his acts as a sacrifice, believing he will be able to come back alive. This confidence is borderline reckless: initially, he preferred to fight monsters barehanded, despite their superior strength and unpredictable abilities. He has a strong sense of justice and keeps count of the monsters he killed.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136503-cwqXHyTJBcJ3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136503
+      }
+    },
+    {
+      "id": "kim-ssi",
+      "name": "Kim-ssi",
+      "alt_names": [
+        "김씨",
+        "Mr. Kim",
+        "Security Guard"
+      ],
+      "role": "supporting",
+      "description": "The security guard of the apartment complex Hyun Cha lives in.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136500-tVaDmbwWlF9p.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136500
+      }
+    },
+    {
+      "id": "du-sik-han",
+      "name": "Du-Sik Han",
+      "alt_names": [
+        "한두식"
+      ],
+      "role": "supporting",
+      "description": "An intimidating man who looks to be in his 30s or 40s. He is slightly overweight but still muscular​ and sits in a wheelchair due to his missing left leg.\nDu-Sik is quite skilled with engineering and mechanics, building many weapons/contraptions.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136501-kbf0M9CGJuNa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136501
+      }
+    },
+    {
+      "id": "eun-yu-lee",
+      "name": "Eun-Yu Lee",
+      "alt_names": [
+        "이은유"
+      ],
+      "role": "supporting",
+      "description": "A young girl, who is Hyuk's little sister. She is quite childlike and even a liar. She is part of the Helping Squad. She has a crush on Hyun.\n\nShortly after being born, Eun and Hyuk's mother died. Only a few years later, their father's company goes bankrupt and the two are left at an orphanage, and their stay becomes permanent when their father dies in an accident. At the time, Eun was still very young; however, she did not appear to take the events well as she started an underage smoking habit. She and Hyuk eventually move to Green Home.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136504-N1hemuIakLwr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136504
+      }
+    },
+    {
+      "id": "jay-hun-jeong",
+      "name": "Jay-Hun Jeong",
+      "alt_names": [
+        "정재헌",
+        "Jae-Heon Jeong"
+      ],
+      "role": "supporting",
+      "description": "Jay-Hun is a survivor of the Green Roof Apartments. Jayhun is usually seen with Ji-Su. Jay-Hun was a devout Christian, which other apartment residents found odd. However, despite what he believed in, Jay-Hun was very tolerant of other beliefs. Through Jay-Hun's faith, he was able to work up the courage to do things that would otherwise terrify him. He was also very kindhearted towards others, even towards Hyun Cha who is infected. Jay-Hun used a sword as his weapon.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184438-olDQtLJhc6lJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184438
+      }
+    },
+    {
+      "id": "joon-seop-shin",
+      "name": "Joon-Seop Shin",
+      "alt_names": [
+        "신중섭",
+        "Jung-Seop Sin"
+      ],
+      "role": "supporting",
+      "description": "Joon Shin, a very manipulative, amoral, and cruel man, is the leader of a gang of prison escapees and the final antagonist in Sweet Home.\n\nHe is a former drug dealer who was arrested by Wook Pyeon and sentenced to jail. During the Monster Apocalypse, he led a group of prisoners through a jail-break and stole a prison bus. \n\nHe is clever enough to leverage the fake promise of essential resources to coerce the survivors into cooperation. He uses draconian methods to exert dominance over his gang and the survivors, such as threats of killing people who oppose him. He is, however, careful not to kill someone who may prove useful, such as those able to control their own monster. He is usually cold and calculating, but loses his temper when people disobey his commands. He also appears to hold a grudge against Pyeon as he was visibly enraged when challenged by Wook. Ultimately, Joon is selfish and isn't above abandoning his own gang if things go awry and is willing to turn into a monster in order to live.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209162-qgXzOr6RDnm3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209162
+      }
+    },
+    {
+      "id": "hyun-shik-lim",
+      "name": "Hyun-Shik Lim",
+      "alt_names": [
+        "임현식",
+        "Hyeon-Sik Im"
+      ],
+      "role": "supporting",
+      "description": "Hyun-Shik Lim is part of Joon Shin's criminal gang. He was arrested as a con artist. \n\nHyun-Shik is a good actor and has working knowledge of psychology. He uses this to tell believable stories to manipulate other people into cooperating with the criminals, and presumably it is how he succeeded as a con artist before getting arrested. He is very proud of this ability and maniacally laughs about it when successful. He also appears to be the only one who genuinely cares for the other members of his gang,",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209163-LqobmN4k0FKA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209163
+      }
+    },
+    {
+      "id": "i-hyun-jo",
+      "name": "I-Hyun Jo",
+      "alt_names": [
+        "조이현",
+        "I-Hyeon Jo"
+      ],
+      "role": "supporting",
+      "description": "I-Hyun Jo is in the band of criminals who attempt to take over the apartment building. He is one of few half-monsters. \n\n~!He is able to control his monsterization very precisely, as he has dissociative identity disorder and only his alter is actually affected by the monsterization. I-Hyun Jo is shown to be very kind, offering one of his asthma inhalers to Yu-Ri Park, and explaining his wrongdoings. He is very empathetic to others, even monsters. He seems to respect Joon Shin and will do as he asks. His alter ego, however, has given in to the monster. The alter ego displays sociopathic tendencies. It wants to be seen as an \"anti-hero,\" and is frequently maniacal and violent in its attacks. However, both sides of Ihyun appear loyal to Joon Shin.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209164-toiygsXN2cE7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209164
+      }
+    },
+    {
+      "id": "gap-su-seo",
+      "name": "Gap-Su Seo",
+      "alt_names": [
+        "서갑수"
+      ],
+      "role": "supporting",
+      "description": "Gap-Su Seo is a member of Joon Shin's criminal gang. Out of all the members of Joon Shin's gang, Gap-Su is the most immoral and impulsive to the point of disobeying Joon's orders. He is willing to do many immoral things to others to satisfy his needs. He is also petty and vengeful. His impulsiveness and unreliability keeps him relatively low in the gang's pecking order, as he was the only gang member not given any important task to fulfill.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209165-65ZBF9v6mm9Z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209165
+      }
+    },
+    {
+      "id": "ho-yeon-baek",
+      "name": "Ho-Yeon Baek",
+      "alt_names": [
+        "백호연"
+      ],
+      "role": "supporting",
+      "description": "Ho-Yeon Baek is one of Joon Shin's gang members. Ho-Yeon Baek is a prideful individual. He frequently carries a gun and uses it to intimidate other people. Additionally, he can't help but take on challenges to his pride, even if it means risking failure of an assignment. Despite being involved in criminal activity, he does seem to have some moral code, as he is regretful that his boss had to use a woman as a hostage.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209166-7ZsmVIYTShjG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209166
+      }
+    },
+    {
+      "id": "yu-ri-park",
+      "name": "Yu-Ri Park",
+      "alt_names": [
+        "박유리"
+      ],
+      "role": "supporting",
+      "description": "Yu-Ri Park is a survivor in the Green Roof Apartments. Twenty eight year old Yu-Ri is a pragmatist at heart. She is willing to do normally amoral things, such as loot bodies, to stay alive. She is also fine with casually mentioning her mortality in normal conversation. She tends to be sassy when questioned about her actions. She is very level headed in otherwise extremely stressful situations. Despite her willingness to loot bodies, she does have a moral code, noting that Gap-Su was more like a monster even when he was human. \n\nYu-Ri has some training as a medical care professional and was working as a senior caretaker before the apocalypse. Yu-Ri has asthma and needs to use an inhaler.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209167-a08NxUSXHiYb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209167
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T19:32:55.572Z"
+}

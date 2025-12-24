@@ -1,0 +1,361 @@
+{
+  "work_id": "pluto",
+  "count": 15,
+  "characters": [
+    {
+      "id": "gesicht",
+      "name": "Gesicht",
+      "alt_names": [
+        "ゲジヒト"
+      ],
+      "role": "protagonist",
+      "description": "He attempts to capture a powerful killer in Germany who is attacking both humans and robots with no apparent motives.\n\nIn the original manga, Gesicht's name was Gerhart, and in the 1980's anime his name was Zeron. In Pluto, he along with his wife and the other robots in the story are given a human appearance - contradictory to his prior robot appearances in both the manga and 1980 series.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b9791-XcumTmi2IfRe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 9791
+      }
+    },
+    {
+      "id": "atom",
+      "name": "Atom",
+      "alt_names": [
+        "アトム"
+      ],
+      "role": "protagonist",
+      "description": "Loosely based off of Osamu Tezuka&#039;s classic character, &quot;Astro Boy,&quot; Atom of the &quot;Pluto&quot; series is a highly developed robot. He is constantly classified as one of the worlds top seven robotic technological advances in science, to the point that even Gesicht&#039;s sensors have trouble distinguishing him as a robot or human.  He works with Gesicht in order to help discover the truth behind the recent chain of murders. He has a sister, Uran.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b18913-0CmKJTMJeNZ3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18913
+      }
+    },
+    {
+      "id": "epsilon",
+      "name": "Epsilon",
+      "alt_names": [
+        "エプシロン"
+      ],
+      "role": "supporting",
+      "description": "Photon-powered advanced robot who dislikes fighting and cares for homeless children. Created for war along with the other advanced ones, but refused to go there because of his pacifistic beliefs.  Arguably the strongest out of the war series, Epsilon uses the Sun itself as his power source, capable of launching various heat and light based attacks, as well as creating photon-shields and manipulating photons. Epsilon is also capable of willingly detaching his own hands and controlling them remotely.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b14343-OPQO2909RH9a.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 14343
+      }
+    },
+    {
+      "id": "uran",
+      "name": "Uran",
+      "alt_names": [
+        "ウラン",
+        "Zoran",
+        "Astro Girl",
+        "Sarah"
+      ],
+      "role": "supporting",
+      "description": "Astro's cybernetic sister in the manga and anime series Astro Boy, as well as its many adaptions. She is a superhuman android with a naive, tomboyish personality.\n\nShe is the third robot addition to Astro's family, the first two being his parents. Uran is an extremely mischievous little girl who constantly lands her older brother in trouble. While lacking Astro's weaponry and propulsion systems, she is extremely powerful.\n\nLike Astro, she is fully capable of experiencing human emotions (although she is somewhat immature), by being naughty or disobedient, even annoying.   \n\n__2003 Series:__\n\nUran reappears in the 2003 series with the name Zoran, with a slightly altered look, including a more appropiate dress in order to appeal to more western audiences. She still retains her tomboyish personality and cheekiness, however is shown to be more adventurous (which instead often puts her in trouble). She is given the ability to communicate with animals and befriends a bird which she names Houdini, however is often jealous of her brother's powers (such as the ability to fly, as well as his popularity).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16536-DnLVxozCWmkU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 16536
+      }
+    },
+    {
+      "id": "brau-1589",
+      "name": "Brau-1589",
+      "alt_names": [
+        "ブラウ1589"
+      ],
+      "role": "supporting",
+      "description": "Brau-1589 is the first robot to ever kill a human, taking place 8 years before the events of Pluto.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b22226-QHgeQdIxEyLW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22226
+      }
+    },
+    {
+      "id": "umatarou-tenma",
+      "name": "Umatarou Tenma",
+      "alt_names": [
+        "天馬午太郎",
+        "Tenma Hakase (天馬博士)",
+        "Dr. Tenma"
+      ],
+      "role": "supporting",
+      "description": "Dr. Tenma (which means \"Pegasus\" or literally \"Heaven-horse\" in Japanese) was a renowned roboticist and the Japanese Minister of Science. When his nine-year-old son Tobio died in a car accident, he decided to recreate him as the invincible robot \"Atom\".",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b22925-4O1KJzegVTKU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22925
+      }
+    },
+    {
+      "id": "dr-roosevelt",
+      "name": "Dr. Roosevelt",
+      "alt_names": [
+        "Dr. ルーズベルト"
+      ],
+      "role": "supporting",
+      "description": "A.I created to aid the president of the United States of Thracia.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b23362-5EWPXeqKMDEM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 23362
+      }
+    },
+    {
+      "id": "ochanomizu-hakase",
+      "name": "Ochanomizu Hakase",
+      "alt_names": [
+        "お茶の水博士",
+        "Dr. Packerdermus J. Elefun",
+        "Dr. Ochanomizu"
+      ],
+      "role": "supporting",
+      "description": "Dr. Ochanomizu, a recurring character in many of Osamu Tezuka's manga, including Astro Boy, can be seen \"lecturing\" at Narita International Airport, outside of Tokyo, on HIV and safe sex.  Dr. Ochanomizu was most famously seen as the mentor to Astro Boy and the creator of Astro's sister and parents.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b24144-cTQPHq64vzGC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 24144
+      }
+    },
+    {
+      "id": "tawashi",
+      "name": "Tawashi",
+      "alt_names": [
+        "田鷲",
+        "Gumshoe",
+        "Inspector Tawashi",
+        "田鷲警部",
+        "Tawashi Keibu"
+      ],
+      "role": "supporting",
+      "description": "Police Inspector Tawashi (a.k.a. Inspector Gumshoe) is a law enforcer and recurring character in the Tetsuwan Atom mythos. Known for his surly demeanor, Inspector Tawashi is a dedicated officer. And he hates robots.\n\nHe is similar to Inspector Geta in that both always appear as police investigators, and both are known for their dedication to their job. However, while Geta is known for his honesty and uprightness, Tawashi is most known for his suspicion of people. He is suspicious not only of Tezuka villains such as Ham Egg and Lamp, or of ambiguous characters such as Rock Holmes, but is even critical and untrusting of such figures as Astro Boy. The series which contains most of his appearances is Astro Boy, but he also has notable appearances in such series as The Amazing Three, Black Jack, Lion Books, Unico, and Rainbow Parakeet.\n\nPolice Inspector Tawashi is named for his most distinguishing facial feature: the fact that his mustache looks like a scrub brush, or “tawashi” in Japanese.\n\n(Source: Tezuka In English)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31049-jKuH7dS94ARl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31049
+      }
+    },
+    {
+      "id": "mont-blanc",
+      "name": "Mont Blanc",
+      "alt_names": [
+        "モンブラン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b44467-huKexUMtEDSq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 44467
+      }
+    },
+    {
+      "id": "brando",
+      "name": "Brando",
+      "alt_names": [
+        "ブランド"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b44469-iMciGrFYNIaz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 44469
+      }
+    },
+    {
+      "id": "abullah",
+      "name": "Abullah",
+      "alt_names": [
+        "アブラー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b44471-qdwLVdZqqEmD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 44471
+      }
+    },
+    {
+      "id": "heracles",
+      "name": "Heracles",
+      "alt_names": [
+        "ヘラクレス",
+        "Hercules"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b44473-ZRHOqgSlIGc9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 44473
+      }
+    },
+    {
+      "id": "pluto",
+      "name": "Pluto",
+      "alt_names": [
+        "プルートゥ"
+      ],
+      "role": "supporting",
+      "description": "~!Pluto is actually Sahad, a peaceful, quaint, robot with a strong affinity towards nature and who wished to fill his desolated country of Persia full of flowers. He was created by the Persian Minister of Science, Dr. Abullah.\n\n(Source: Astro Boy Wiki)!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b44475-VqsHKS0Yy5Ut.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 44475
+      }
+    },
+    {
+      "id": "north-2-gou",
+      "name": "North 2-gou",
+      "alt_names": [
+        "ノース2号",
+        "North MK II",
+        "Norse",
+        "Monar",
+        "North #2"
+      ],
+      "role": "supporting",
+      "description": "A Scottish robot with six mechanical armed arms, formerly one of the most powerful fighting robots during the 39th Central Asian War. He prefers not to fight, choosing instead to work as the butler of a blind renowned composer.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141755-aY2i8GqSToyK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141755
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T21:26:13.506Z"
+}
