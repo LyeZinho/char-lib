@@ -338,25 +338,11 @@
     "14513",
     "146065",
     "33986",
-    "86082"
+    "86082",
+    "99255",
+    "21875"
   ],
   "queue": [
-    {
-      "id": 99255,
-      "title": "Shokugeki no Souma: San no Sara",
-      "popularity": 210742,
-      "score": 78,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 21875,
-      "title": "No Game No Life Zero",
-      "popularity": 210573,
-      "score": 79,
-      "episodes": 1,
-      "status": "FINISHED"
-    },
     {
       "id": 110349,
       "title": "GREAT PRETENDER",
@@ -583,8 +569,8 @@
     }
   ],
   "stats": {
-    "totalProcessed": 138,
-    "totalCharacters": 2686,
-    "lastRun": "2025-12-24T22:16:10.427Z"
+    "totalProcessed": 140,
+    "totalCharacters": 2716,
+    "lastRun": "2025-12-24T22:26:36.055Z"
   }
 }

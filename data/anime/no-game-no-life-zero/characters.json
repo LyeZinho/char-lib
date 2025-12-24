@@ -1,0 +1,362 @@
+{
+  "work_id": "no-game-no-life-zero",
+  "count": 15,
+  "characters": [
+    {
+      "id": "schwi-dola",
+      "name": "Schwi Dola",
+      "alt_names": [
+        "シュヴィ・ドーラ",
+        "Shuvi",
+        "Üc207Pr4f57t9"
+      ],
+      "role": "protagonist",
+      "description": "Schwi was the first Ex-machina to be introduced in Tet's story. In the story she seeks to understand the human heart and was found by Riku. She looks like a young human but with several differences, being two tails coming out from her back and other machine like features protruding from around her body. She bears many similarities with Shiro.\n\nHer behavior is similar to that of a stereotypical artificial intelligence. She can absorb and process data and intelligence very quickly and act in the appropriate manner, a unique characteristic of her race. However, she seems to have difficulty in comprehending emotions and desires, otherwise characterized by her as the heart.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123690-dqDSiX7eEypZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123690
+      }
+    },
+    {
+      "id": "riku-dola",
+      "name": "Riku Dola",
+      "alt_names": [
+        "リク・ドーラ"
+      ],
+      "role": "protagonist",
+      "description": "Riku was an 18 years old Imanity who lived during the Great War on Disboard. He was one of the main protagonists in Tet's story. He encountered Shuvi while going on an expedition and brought her to his colony after having lost in a game against her (albeit willingly).\n\nHe bears many similarities with Sora, being his black hair, slender body, black eyes and his face. Riku is a master strategist and manipulator, much like Sora. He is capable of duping even the matriarch of the Nilvalen family (known as the strongest and smartest Elf at the time) into giving out valuable information, albeit at the cost of his health.",
+      "metadata": {
+        "gender": "male",
+        "age": "18-20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123691-veqBVhK2NhGn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123691
+      }
+    },
+    {
+      "id": "couronna-dola",
+      "name": "Couronna Dola",
+      "alt_names": [
+        "コローネ・ドーラ",
+        "Couron"
+      ],
+      "role": "protagonist",
+      "description": "One of the colonists in Tet's story and the supposed older sister of Riku. She was also the founder of Elchea after the Great War and is Stephanie Dola's direct ancestor.\n\nCouronna has a very similar appearance to Stephanie Dola; however, her hair is slightly longer and darker. She cares about Riku, going as far as calling herself his sister after he had lost his family. Though she is a mere Imanity, she seems to be sensitive to things, as she was able to figure out that Shuvi was not an Imanity right away.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123692-3SbwcDXLetz6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123692
+      }
+    },
+    {
+      "id": "sora",
+      "name": "Sora",
+      "alt_names": [
+        "空"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human\n\nAbandoned by his parents, Sora is a brilliant NEET (Not in Education, Employment, or Training) hikikomori (shut-in) gamer along with his stepsister, Shiro. He does not take life very seriously and is pretty much a good-for-nothing gamer. One day, he and his sister are called into an alternate world and they have to become Saviors of Humanity! \n\nDespite being a NEET and a shut-in, Sora is extremely outgoing and confident, and is not afraid to play games with people face to face, even when they're cheating. He is also extremely manipulative - which he refers to as using negotiating skills. This fits in with his play style as while Shiro is excellent at logic and computing, Sora can read people and predict what their next move is, using this knowledge to beat them. \n\nHowever, if he is separated from Shiro by so much as a closed door he becomes a spineless, cowardly wreck, and only returns to his former self if he is able to see her. He views his sister as his equal and partner, but is also protective of her, shown by actions such as putting his body between her and the ground when he thought they were going to hit hard when first arriving on Disboard.\n\nSora is extroverted and has no problems dealing with people. While not as intelligent as Shiro, he is shown to have a brilliant IQ. Rather than computing numbers like Shiro, Sora can rapidly compute what his opponents are going to do based on observing their behavior and motivations.\n\nSora is also slightly perverted and desires a girlfriend for himself. His lust lead to a linguistic mistake that causes Stephanie to fall in love with him and causes him to receive a scolding from Shiro.\n\n(Source: No Game No Life Wikia)",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82523
+      }
+    },
+    {
+      "id": "shiro",
+      "name": "Shiro",
+      "alt_names": [
+        "白"
+      ],
+      "role": "supporting",
+      "description": "Shiro is the main female protagonist. She's a genius NEET (Not in Education, Employment, or Training) hikikomori (shut-in) gamer along with her step-brother, Sora and together they formed 『　　』. Between both siblings she is the calm and collective half which makes her the brain of the group.",
+      "metadata": {
+        "gender": "female",
+        "age": "11",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82525
+      }
+    },
+    {
+      "id": "stephanie-dola",
+      "name": "Stephanie Dola",
+      "alt_names": [
+        "ステファニー・ドーラ",
+        "Steph"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Imanity\n\nStephanie is expressive and emotional, to the point where she cannot hide her emotions during a poker game. She loved her grandfather dearly and is angered when people call her grandfather a fool. She fell in love with Sora due to the pledges forcing her to, and she often has violent outbursts to try to break free of it. She loves her kingdom and the world and believes in the potential of Imanity.",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82527
+      }
+    },
+    {
+      "id": "jibril",
+      "name": "Jibril",
+      "alt_names": [
+        "ジブリール"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Flügel\n\nJibril is the youngest and strongest of the Flügel race. Her love toward knowledge starts even before the declaration of the Ten Oaths. She is against the book sharing law, and left her homeland to win the main library of the human world from the previous king in a game.\n ~!Unlike Steph, Jibril is happy to become the siblings underling, and is shown growing feelings toward Sora.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "6407",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 87887
+      }
+    },
+    {
+      "id": "izuna-hatsuse",
+      "name": "Izuna Hatsuse",
+      "alt_names": [
+        "初瀬いづな"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Werebeast\n\nIzuna Hatsuse is a Werebeast girl and the former ambassador of the Werebeast race to Immanity. After Sora and Shiro forced the werebeasts to join the Commonwealth of Elkia, Izuna was directed by Miko to follow and learn from them. Steph has noted that she actually shares similarities to Sora and Shiro, such as lacking common sense, being arrogant towards others, and being extremely smart and competent at gaming. She mostly exhibits an innocent personality pertaining to her age yet is very competent at playing games to the point of representing the Werebeasts in national games against other races. She possesses all the incredible physical abilities found in all Werebeasts as well as the rare Blood Break found in a select few Werebeast individuals.",
+      "metadata": {
+        "gender": "female",
+        "age": "8",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88003
+      }
+    },
+    {
+      "id": "tet",
+      "name": "Tet",
+      "alt_names": [
+        "テト"
+      ],
+      "role": "supporting",
+      "description": "__Race__: None (Formerly: Old Deus)\n\nTet is the One True God of Disboard.\nTet does not belong to any of the 16 races, although the closest affiliation to him would be Immanity.\nTo challenge Tet for the title of the One True God, one must collect all pieces of different chess from 16 races. This means that, under the tenth rule of the Ten Covenants, one must defeat or unite all 16 races before being able to play against him.\n\n~!He was born from [Riku](https://anilist.co/character/123691/Riku-Dola)'s wish and the overwhelming presence of incredible magic energy. Claiming the Suniaster and becoming the One True God, Tet immediately used his absolute power to repair the damage done to the planet and set forth the Ten Covenants, thus ending the Great War.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "6000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88004-lA45OjvaT5He.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88004
+      }
+    },
+    {
+      "id": "nonna-zell",
+      "name": "Nonna Zell",
+      "alt_names": [
+        "ノンナ・ツェル"
+      ],
+      "role": "supporting",
+      "description": "Nonna Zell was an Imanity that lived during the Great War. She is Chlammy Zell's ancestor.\n\nNonna bears many similarities with Chlammy. She is quite short and fair-skinned, and has short, black hair and navy blue irises with pink pupils.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123693-8tpfha94CbZ8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123693
+      }
+    },
+    {
+      "id": "think-nirvalen",
+      "name": "Think Nirvalen",
+      "alt_names": [
+        "シンク・ニルヴァレン"
+      ],
+      "role": "supporting",
+      "description": "Think Nirvalen was an Elf that lived during the Great War. She is Fiel Nirvalen's ancestor. She encountered Riku Dola after her invention of Void Zero Protection and its sister model, Eternal Fourth Protection.\n\nThink bears many similarities with Fiel. She has long, wavy blonde hair and her eyes have purple irises with pink pupils. She has a small pink ribbon that keeps a small portion of her hair in a plait and a very large bust. Her clothes consisted of a white, rather revealing dress that showed her midriff and barely covered her chest and legs and golden armbands with a long strip of white fabric that acted as her sleeves. She wore brown sandals with a ballet-like wrap that went just past her ankles and simple, blue bracelets.\n\nShe also had a headpiece that was made of four different-coloured jewels - two blue, two pink - and hair accessories that were shaped like white flowers.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123694-RJSrPAZrq4KB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123694
+      }
+    },
+    {
+      "id": "azriel",
+      "name": "Azriel",
+      "alt_names": [
+        "アズリール"
+      ],
+      "role": "supporting",
+      "description": "The first Flügel created by Artosh and Representative of the Council of Eighteen Wings. As such, her title allows her to have first say in emergencies. She calls Jibril her \"little sister\".\n\nDuring the war, she conveyed Artosh's will among other Flügel. After the war, she passed the law in which Flügel shared books among each other.\n\nAzriel has a somewhat split personality, being peppy and bubbly to a cold, relentless state. Prior to Jibril's creation, Azriel was merciless and considered other Flügel expendable; afterwards, however, she turned into a sister figure when Jibril came to be. Even so, she continues to have a condescending attitude towards lower exceed races. She is extremely powerful as the first Flügel to be created, being able to pull off many feats. This is further enhanced by her mental connection with Avant Heim, while also being its representative. Even with her strength, Jibril considers Azriel to be rather stupid compared to other Flügel. Despite this, Azriel is clever when it comes to mind games and deception. What she lacks is an understanding of learning, trying, and failing; preventing her from learning from her mistakes.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126084-Xjyb5LtpdCzT.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126084
+      }
+    },
+    {
+      "id": "ivan-zell",
+      "name": "Ivan Zell",
+      "alt_names": [
+        "イワン・ツェル"
+      ],
+      "role": "supporting",
+      "description": "Nonna's father. He was a member of the surviving humanity during the great war. During an exploration, the team encountered an unknown being. The leader of the group, Riku, ordered him to sacrifice himself to save the others.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130376-XDMARGWd41Xo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130376
+      }
+    },
+    {
+      "id": "einzig",
+      "name": "Einzig",
+      "alt_names": [
+        "アインツィヒ",
+        "Einzeig",
+        "Aintsihi",
+        "Einithi"
+      ],
+      "role": "supporting",
+      "description": "**Race:** Ex-Machina\n\nEinzig is the call sign of the current administrator unit of Ex-Machina, therefore making him the Representative of the cybernetic race. Much like [Riku](https://anilist.co/character/123691/Riku-Dola), Einzig acts like a cold, emotionless figure to accept the self-sacrifices of his brethren. He buried his grief deep in his heart in order to stop the war but actually cared about his clusters and could even name individual units. It was revealed to [Sora](https://anilist.co/character/82523/Sora) that due to reflecting [Schwi](https://anilist.co/character/123690/Schwi-Dola)'s feelings toward Riku, Einzig developed an attraction to the Immanity king due to his striking resemblance to Riku. He frequently called Sora affectionate pet names and was even able to find his entire hentai collection.",
+      "metadata": {
+        "gender": "male",
+        "age": "6000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137443-7wKT81Oe9Mod.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137443
+      }
+    },
+    {
+      "id": "artosh",
+      "name": "Artosh",
+      "alt_names": [
+        "戦神",
+        "God of War"
+      ],
+      "role": "supporting",
+      "description": "The God of War and creator of the Flügel. Artosh was considered to be the strongest and mightiest member of the Old Deus. \n\nHe is described as being a hulk of a man, being over double the height of a regular man. He sports bulging muscles all around his body, a strong black beard, and bright golden eyes. He has 18 pairs of wings on his back that, when not in use, completely drape over his back like a feathered cape.\n\nArtosh was extremely prideful, considering himself the, \"strongest being alive.\" However, he secretly wished for someone who could face him head-on. ~!Artosh was able to use a much more potent version of Heaven Strike, called, \"God Strike.\" His God Strike was extremely powerful, being almost impossible to stop. After using God Strike, he would be very weak and fatigued. He was killed at the end of the great war due to that drawback. Because of that, he held high respect for Riku; who, despite being an Imanity, was able to kill him through a risky plan.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139370-qa45HMoH5U23.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139370
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T22:22:35.948Z"
+}

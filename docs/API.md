@@ -48,3 +48,34 @@ curl -s "http://localhost:3000/api/search?q=2B&type=characters" | jq
 Observações:
 - As rotas leem diretamente de `public/data`. Antes de consultar, rode o processo de importação/crawling para popular os arquivos JSON.
 - Os endpoints são simples e destinados a servir uma SPA estática sem necessidade de um backend dinâmico.
+
+---
+
+Otimizando a seleção de ferramentas...
+
+Implemented character loading and updated tasks
+Vou primeiro atualizar a lista de tarefas para marcar o endpoint random como em progresso.
+
+Concluído: Add API endpoints (1/4)
+
+Agora vou criar o arquivo do endpoint Next.js em web/app/api/characters/random/route.ts.
+
+Vou aplicar o patch do arquivo do endpoint novamente.
+
+Vou criar o arquivo do endpoint em web/app/api/characters/random/route.ts no repositório.
+
+Editado
+route.ts+117-1
+Iniciando: Run quick manual checks (3/4)
+
+Pronto — endpoint criado em route.ts.
+
+O que fiz: implementei GET /api/characters/random com suporte a:
+
+- Filtro por tipo: ?type=game|anime|manga
+- Filtro por obra: ?workType=game|anime|manga&work=<slug|id|title>
+- Sem filtro: retorna personagens de todas as obras
+- ?n=<num> para obter até 50 personagens aleatórios (padrão 1)
+
+Próximo passo: quer que eu execute checagens rápidas localmente (curl) e mostre exemplos de respostas?
+
