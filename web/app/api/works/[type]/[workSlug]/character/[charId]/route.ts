@@ -5,9 +5,12 @@ import path from 'path';
 const DATA_DIR = path.join(process.cwd(), 'public', 'data');
 
 // GET /api/works/:type/:workSlug/character/:charId
-export async function GET(request: Request, { params }: { params: { type: string; workSlug: string; charId: string } }) {
+export async function GET(
+  request: Request,
+  { params }: { params: Promise<{ type: string; workSlug: string; charId: string }> }
+) {
   try {
-    const { type, workSlug, charId } = params;
+    const { type, workSlug, charId } = await params;
     if (!type || !workSlug || !charId) {
       return NextResponse.json({ error: 'Missing parameters' }, { status: 400 });
     }
