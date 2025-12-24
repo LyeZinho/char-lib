@@ -1,0 +1,349 @@
+{
+  "work_id": "the-ancient-magus-bride",
+  "count": 15,
+  "characters": [
+    {
+      "id": "chise-hatori",
+      "name": "Chise Hatori",
+      "alt_names": [
+        "羽鳥智世",
+        "Daughter of Thorn"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 155cm\n\nChise Hatori is a Sleigh Beggy and one of the main protagonists of the series. She is the apprentice and wife of Elias Ainsworth.\nDevoid of love from a young age, Chise has a mysterious connection to magic, which causes her to attract fairies. She learns more about her magical abilities as she finds herself in the care and tutelage of Elias, a powerful mage.\n\n(Source: Ancient Magus Bride Wiki & Crunchyroll)",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88344-zn7wbe8rKgqT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88344
+      }
+    },
+    {
+      "id": "elias-ainsworth",
+      "name": "Elias Ainsworth",
+      "alt_names": [
+        "エリアス・エインズワーズ",
+        "Ains",
+        "Thorn",
+        "Pilum Murialis",
+        "Pilum Muralis"
+      ],
+      "role": "protagonist",
+      "description": "He is an ancient magician with both human and fae characteristics. Despite his appearance, he is gentle and polite with humans and shows a great interest in them. He understands why humans feel the emotions they do, but has never experienced them himself. \n\nOne day, he buys [Hatori Chise](https://anilist.co/character/88344/Chise-Hatori) from the black market and makes her his Mage Apprentice.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121430-n1k9M5RdkXyI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121430
+      }
+    },
+    {
+      "id": "cartaphilus",
+      "name": "Cartaphilus",
+      "alt_names": [
+        "カルタフィルス",
+        " Wandering Jew"
+      ],
+      "role": "protagonist",
+      "description": "Cartaphilus is a sorcerer that serves as a recurring antagonist of the series. ~!Later is found out that Cartaphilus is actually an unknown being that has lived for over 2000 years, that was found by and later fused with a man called Joseph.!~\n\n(Source: The Ancient Magus Bride Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129385-jdRVhN7MJUTb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129385
+      }
+    },
+    {
+      "id": "titania",
+      "name": "Titania",
+      "alt_names": [
+        "ティターニア"
+      ],
+      "role": "supporting",
+      "description": "Titania is the queen of the fairies and wife to Oberon. She looks like a beautiful woman riding a donkey. She is an acquaintance of Elias Ainsworth and appears to know something about his origin. She does not discriminate against Elias for being a part fairy and part something else.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124153-40mppXmtFzLz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124153
+      }
+    },
+    {
+      "id": "oberon",
+      "name": "Oberon",
+      "alt_names": [
+        "オベロン"
+      ],
+      "role": "supporting",
+      "description": "The faerie king and husband of Titania. He resembles a satyr, with hooves and deer antlers.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124155-iDJCsdqXTR4P.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124155
+      }
+    },
+    {
+      "id": "silky",
+      "name": "Silky",
+      "alt_names": [
+        "シルキー"
+      ],
+      "role": "supporting",
+      "description": "House keeper of Elias and Chise's residence.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125915-cDwNFGfAGy4s.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125915
+      }
+    },
+    {
+      "id": "ruth",
+      "name": "Ruth",
+      "alt_names": [
+        "ルツ"
+      ],
+      "role": "supporting",
+      "description": "Chise's familiar and a Church Grim. He shares a mental link with Chise and considers her a sister.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125916-FmtQGDFTX0Rr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125916
+      }
+    },
+    {
+      "id": "simon-callum",
+      "name": "Simon Callum",
+      "alt_names": [
+        "サイモン・カラム"
+      ],
+      "role": "supporting",
+      "description": "The priest who lives in the village near Elias' house and is an acquaintance of his.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126974-Yg3ed9YyB5X9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126974
+      }
+    },
+    {
+      "id": "lindel",
+      "name": "Lindel",
+      "alt_names": [
+        "リンデル",
+        "Echoes",
+        "Song of Flowes 白花の歌"
+      ],
+      "role": "supporting",
+      "description": "Elias' magician master, commonly referred to as Lindel, who lives in the Land of Dragons. His title is Echoes, Song of Flowers.\n\n(Source: MAL)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129384-zSLY3QNgirXd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129384
+      }
+    },
+    {
+      "id": "ethan-barklem",
+      "name": "Ethan Barklem",
+      "alt_names": [
+        "イーサン・バークレム"
+      ],
+      "role": "supporting",
+      "description": "An ordinary human and the younger brother of Stella.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161251-yzndK0MYpMlr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161251
+      }
+    },
+    {
+      "id": "chika-hatori",
+      "name": "Chika Hatori",
+      "alt_names": [
+        "羽鳥智花"
+      ],
+      "role": "supporting",
+      "description": "The wife of Yuuki Hatori and the mother of Chise and Fumiki Hatori.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161252-fLwqMv8LMMin.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161252
+      }
+    },
+    {
+      "id": "yuuki-hatori",
+      "name": "Yuuki Hatori",
+      "alt_names": [
+        "羽鳥夕輝"
+      ],
+      "role": "supporting",
+      "description": "The husband of Chika Hatori and the father of Chise and Fumiki Hatori.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161253-2E06gpCSMRsG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161253
+      }
+    },
+    {
+      "id": "joel-garland",
+      "name": "Joel Garland",
+      "alt_names": [
+        "ジョエル・ガーランド"
+      ],
+      "role": "supporting",
+      "description": "A widowed old man who took care of a rose garden. A vampire resided with him, and while he didn't have the ability to see her, he was somewhat sensitive to her presence on a subconscious level.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161254-7UoFgcZiXdQy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161254
+      }
+    },
+    {
+      "id": "seth-noel",
+      "name": "Seth Noel",
+      "alt_names": [
+        "セス・ノエル"
+      ],
+      "role": "supporting",
+      "description": "An auctioneer working at the Black Market.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161256-FPJUkW3Uhnz4.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161256
+      }
+    },
+    {
+      "id": "redcurrant",
+      "name": "Redcurrant",
+      "alt_names": [
+        "レッドカラント"
+      ],
+      "role": "supporting",
+      "description": "A Leánnan sídhe that watches over Garland's Household. Her name was given to her by Chise Hatori.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161257-ubeA0uwkmFmG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161257
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T13:06:59.247Z"
+}
