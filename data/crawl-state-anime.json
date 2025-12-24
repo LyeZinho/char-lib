@@ -316,25 +316,13 @@
     "85849",
     "33031",
     "124153",
-    "116267"
+    "116267",
+    "144946",
+    "69883",
+    "17265",
+    "21092"
   ],
   "queue": [
-    {
-      "id": 17265,
-      "title": "Log Horizon",
-      "popularity": 216023,
-      "score": 76,
-      "episodes": 25,
-      "status": "FINISHED"
-    },
-    {
-      "id": 21092,
-      "title": "Rakudai Kishi no Cavalry",
-      "popularity": 215295,
-      "score": 71,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
     {
       "id": 437,
       "title": "PERFECT BLUE",
@@ -401,8 +389,8 @@
     }
   ],
   "stats": {
-    "totalProcessed": 128,
-    "totalCharacters": 2544,
-    "lastRun": "2025-12-24T18:51:36.445Z"
+    "totalProcessed": 130,
+    "totalCharacters": 2574,
+    "lastRun": "2025-12-24T19:27:38.141Z"
   }
 }
