@@ -134,6 +134,42 @@ export default function DocsPage() {
         </p>
       </div>
 
+      {/* Changelog / Notas rápidas */}
+      <section className="mb-12">
+        <h2 className="text-2xl font-bold mb-6">🛠️ Changelog</h2>
+        <div className="bg-dark-card border border-dark-border rounded-lg p-6">
+          <pre className="text-sm overflow-x-auto">
+            <code className="text-gray-300">{`Otimizando a seleção de ferramentas...
+
+Implemented character loading and updated tasks
+Vou primeiro atualizar a lista de tarefas para marcar o endpoint random como em progresso.
+
+Concluído: Add API endpoints (1/4)
+
+Agora vou criar o arquivo do endpoint Next.js em web/app/api/characters/random/route.ts.
+
+Vou aplicar o patch do arquivo do endpoint novamente.
+
+Vou criar o arquivo do endpoint em web/app/api/characters/random/route.ts no repositório.
+
+Editado
+route.ts+117-1
+Iniciando: Run quick manual checks (3/4)
+
+Pronto — endpoint criado em route.ts.
+
+O que fiz: implementei GET /api/characters/random com suporte a:
+
+- Filtro por tipo: ?type=game|anime|manga
+- Filtro por obra: ?workType=game|anime|manga&work=<slug|id|title>
+- Sem filtro: retorna personagens de todas as obras
+- ?n=<num> para obter até 50 personagens aleatórios (padrão 1)
+
+Próximo passo: quer que eu execute checagens rápidas localmente (curl) e mostre exemplos de respostas?`}</code>
+          </pre>
+        </div>
+      </section>
+
       {/* Database Metadata */}
       <section className="mb-12">
         <h2 className="text-2xl font-bold mb-6 flex items-center gap-2">
