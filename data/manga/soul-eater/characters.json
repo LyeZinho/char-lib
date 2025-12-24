@@ -1,0 +1,372 @@
+{
+  "work_id": "soul-eater",
+  "count": 15,
+  "characters": [
+    {
+      "id": "maka-albarn",
+      "name": "Maka Albarn",
+      "alt_names": [
+        "マカ アルバーン"
+      ],
+      "role": "protagonist",
+      "description": "[Soul](https://anilist.co/character/8456/Soul-Eater-Evans)'s partner and the female protagonist of the series.\n\nKnown to be cheerful, direct, confident, smart and hardworking, in stark contrast to Soul who is much more laid-back in comparison. Despite this, Maka has been noted by her partner to be stubborn and sometimes prone to making decisions without regarding others' feelings if she feels justified enough. Due to their differences, Maka often bickers with him and they tend to argue with one another, but despite all this they remain loyal partners and close friends.",
+      "metadata": {
+        "gender": "female",
+        "age": "13",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8439
+      }
+    },
+    {
+      "id": "death-the-kid",
+      "name": "Death the Kid",
+      "alt_names": [
+        "デス・ザ・キッド"
+      ],
+      "role": "protagonist",
+      "description": "The son of [Death](https://anilist.co/character/8457/Shinigami) himself and the Meister of the Demon Twin Guns, [Liz Thompson](https://anilist.co/character/8445/Elizabeth-Thompson) and [Patty Thompson](https://anilist.co/character/8444/Patricia-Thompson). Created from a piece of Death's soul, Death the Kid is known to be one of the top 3 students in the DWMA, albeit with a confounding obsession when it comes to symmetry.",
+      "metadata": {
+        "gender": "male",
+        "age": "13-15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8455
+      }
+    },
+    {
+      "id": "soul-eater-evans",
+      "name": "Soul Eater Evans",
+      "alt_names": [
+        "ソウル・イーター・エヴァンス"
+      ],
+      "role": "protagonist",
+      "description": "[Maka](https://anilist.co/character/8439/Maka-Albarn)'s partner and the male protagonist of the series. Soul is a demon weapon who was born into a family of famous musicians. After discovering his weapon abilities as a Demon Weapon Soul joined the DWMA, where he partnered up with Maka. They often bicker and don't always see eye-to-eye, but in the end they remain partners and close friends.",
+      "metadata": {
+        "gender": "male",
+        "age": "13-15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8456-GtNbISpXhkvd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8456
+      }
+    },
+    {
+      "id": "blackstar",
+      "name": "Black☆Star",
+      "alt_names": [
+        "ブラック☆スター"
+      ],
+      "role": "protagonist",
+      "description": "A shadow weapon meister and the last survivor of the infamous Star Clan, taken into the DWMA and raised by [Sid Barrett](https://anilist.co/character/16582/Sid-Barrett). His weapon partner is [Tsubaki Nakatsukasa](https://anilist.co/character/8443/Tsubaki-Nakatsukasa). He is known as one of the toughest students in the academy, being quite self-centered with a desire to always be in the spotlight.",
+      "metadata": {
+        "gender": "male",
+        "age": "13",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8464-oKu98OyJ3eZt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8464
+      }
+    },
+    {
+      "id": "tsubaki-nakatsukasa",
+      "name": "Tsubaki Nakatsukasa",
+      "alt_names": [
+        "中務椿"
+      ],
+      "role": "supporting",
+      "description": "A demon weapon partnered with [Black Star](https://anilist.co/character/8464/BlackStar) hailing from the Nakatsukasa Clan, a special weapons clan who are direct descendants of demon weapons created by the mother of magic weapons, Arachne Gorgon. Having inherited the unique Multi-Form Ability of her clan, she joined the DWMA to stop her brother from becoming a kishin, becoming fast friends with [Black Star](https://anilist.co/character/8464/BlackStar) in the process.\n\nTsubaki is known to be very patient and forgiving, with a polite and gentle personality that often leads to her helping or comforting her friends when they are in need.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8443-WtvTWl6zufoc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8443
+      }
+    },
+    {
+      "id": "patricia-thompson",
+      "name": "Patricia Thompson",
+      "alt_names": [
+        "パトリシア・トンプソン",
+        "Patty"
+      ],
+      "role": "supporting",
+      "description": "A Demon Weapon and the younger sister of [Elizabeth Thompson](https://anilist.co/character/8445/Elizabeth-Thompson).\n\nKnown as one of the \"Demon Twin Guns\", both her and her sister were known as the \"Brooklyn Devils\" and were petty thugs until being found by their current Meister, Death the Kid. Overtime, she reformed from her thieving and ruffian ways along with Liz and became Kid's weapon, later becoming DWMA students within the E.A.T Class.",
+      "metadata": {
+        "gender": "female",
+        "age": "13-15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8444-AbC3BxZA7gUY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8444
+      }
+    },
+    {
+      "id": "elizabeth-thompson",
+      "name": "Elizabeth Thompson",
+      "alt_names": [
+        "エリザベス・トンプソン",
+        "Liz"
+      ],
+      "role": "supporting",
+      "description": "A demon weapon and the older sister of [Patricia Thompson](https://anilist.co/character/8444/Patricia-Thompson). Formerly a thuggish ruffian alongside her sister raised in the streets of New York, both her own and sister's life turn for the better when they encountered their future meister, Death the Kid. Eventually becoming Kid's weapon partner alongside her sister, she became a student of Death Weapon Meister Academy enrolled in the E.A.T Class.",
+      "metadata": {
+        "gender": "female",
+        "age": "16-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8445-7BIqYhg3OKMn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8445
+      }
+    },
+    {
+      "id": "franken-stein",
+      "name": "Franken Stein",
+      "alt_names": [
+        "フランケン シュタイン",
+        "Steiny",
+        "DWMA's Strongest Meister"
+      ],
+      "role": "supporting",
+      "description": "The eccentric yet incredibly talented doctor and meister who is hailed as the DWMA's strongest graduate in history. He later joins the academy as an instructor. While he is intimidating due to the greater-than-typical amount of madness within him, he is highly relied upon by [Death](https://anilist.co/character/8457/Shinigami) and is well-liked by his students. Formerly partnered with [Spirit Albarn](https://anilist.co/character/8462/Spirit-Albarn), he is now partnered with [Marie Mjolnir](https://anilist.co/character/15769/Marie-Mjolnir).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8446-uTTlVv5DRQnr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8446
+      }
+    },
+    {
+      "id": "shinigami",
+      "name": "Shinigami",
+      "alt_names": [
+        "死神様",
+        "Lord Death"
+      ],
+      "role": "supporting",
+      "description": "The grim reaper himself. He is by far the most powerful character in the series. He is a bit of a joker but when the time comes, he's all business. His number is 42-42-564 (shini-shini-koroshi), which literally means die-die-kill in Japanese. He has a special move called a “Direct Noggin Shinigami Chop” (which is normally shown when the Shinigami shows his hand, which is a large, flat, four-fingered hand appearing from his robe). This is both a joke and a real move. He constantly has to put up with Death Scythe’s antics when it comes to Maka or her progress. He seems to take on a more playful attitude when talking with his son, Death the Kid (he says he likes his son's three white stripes). Shinigami's soul wavelength is so large that it entirely covers Death city.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8457.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8457
+      }
+    },
+    {
+      "id": "blair",
+      "name": "Blair",
+      "alt_names": [
+        "ブレア",
+        "猫魔女·ブレア",
+        "魔女·ブレア",
+        "Bu-tan"
+      ],
+      "role": "supporting",
+      "description": "A playful cat with powerful magic that Soul and Maka initially confused for a regular witch. Her life seems to largely revolve around doing whatever she deems fun at any given time, ranging from working as a hostess at Chupa♡Cabra's to aiding the DWMA's plans - however, she's also very sensitive to others' feelings, often comforting those in need out of kindness. \nShe's also shown to enjoy long baths and exhibitionism, being very proud of her human form's body and often looking for opportunities to make others feel embarrassed. \n\nHer magic abilities are themed around pumpkins, and she also keeps a hat monster named Zwan (ズワン) as her familiar. Due to being a cat, she has nine lives, which is how she managed to survive her initial defeat at the hands of Soul and Maka. Additionally, her charms seem to transcend gender-altering magic, with her male form being able to seduce a succubus within the Book of Eibon.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8458-dnVRYCwLLHRn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8458
+      }
+    },
+    {
+      "id": "spirit-albarn",
+      "name": "Spirit Albarn",
+      "alt_names": [
+        "スピリット=アルバーン",
+        "Death Scythe",
+        "Papa"
+      ],
+      "role": "supporting",
+      "description": "He is the Shinigami’s current weapon and Maka’s father. He is very protective of Maka and is ready to jump to her aid any time she’s in trouble (he is always stopped by the Shinigami). His wife is Maka’s mother but they are divorced now due to his constant flirting with other women. Even though he visits clubs, he is still insanely loyal to his ex-wife and daughter. He usually runs yelling about much he loves Maka and her mother (he calls Maka’s mother Mama). He is extremely sad that his daughter hates him but he still tries to be a good father by looking out for her in his own silly way. He used to be Dr. Franken’s partner before partnering up with \"Mama\" who later became his wife (which obviously lead to the divorce); he still suffers nightmares about Dr. Franken trying to dissect him and still has memories from college when he and Stein were roommates. His old name was Spirit.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8462.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8462
+      }
+    },
+    {
+      "id": "crona",
+      "name": "Crona",
+      "alt_names": [
+        "クロナ",
+        "Chrona",
+        "Demon Sword"
+      ],
+      "role": "supporting",
+      "description": "The demon sword [Ragnarok](https://anilist.co/character/11921/Ragnark)'s meister and the biological child of the witch [Medusa Gorgon](https://anilist.co/character/11924/Medusa-Gorgon). They're driven by their [mother](https://anilist.co/character/11924/Medusa-Gorgon)'s aim to turn them into a Kishin.",
+      "metadata": {
+        "gender": "unknown",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 11919
+      }
+    },
+    {
+      "id": "ragnarok",
+      "name": "Ragnarök",
+      "alt_names": [
+        "ラグナロク",
+        "Demon Sword (魔剣)"
+      ],
+      "role": "supporting",
+      "description": "Ragnarok, also known as the Demon Sword, is the weapon partner of Crona. Born a normal demon weapon, it was melted by Medusa in a vat of Black Blood while in its weapon form and mixed into Crona's blood.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/11921.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 11921
+      }
+    },
+    {
+      "id": "medusa-gorgon",
+      "name": "Medusa Gorgon",
+      "alt_names": [
+        "メデューサ・ゴーゴン"
+      ],
+      "role": "supporting",
+      "description": "One of the major antagonists of the series, Medusa is a powerful witch and the middle sibling among the three Gorgon Sisters.\n\nShe is the mother of Crona, who is also the crown jewel in her master plan: the destruction of the current world order to get the planet back on track. Lacking empathy for others, along with possessing a twisted sense of love for those who are like her in personality, Medusa views everyone as a potential specimen to experiment on or as a tool to suit her purpose.",
+      "metadata": {
+        "gender": "female",
+        "age": "800+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b11924-wDxD5PjqMmpf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 11924
+      }
+    },
+    {
+      "id": "mifune",
+      "name": "Mifune",
+      "alt_names": [
+        "ミフネ"
+      ],
+      "role": "supporting",
+      "description": "Mifune, known by the epithet \"God of the Sword\", is an infamous samurai and bodyguard who acts as a guardian to the little witch, Angela Leon. He is later blackmailed into the service of Arachnophobia by its head, Arachne Gorgon. He becomes involved in a somewhat one-sided rivalry with Black Star after the latter encounters him on a mission.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12982-oqu0ldRYGmCZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 12982
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T09:47:29.622Z"
+}

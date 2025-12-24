@@ -1,0 +1,362 @@
+{
+  "work_id": "saga-of-tanya-the-evil",
+  "count": 15,
+  "characters": [
+    {
+      "id": "tanya-degurechaff",
+      "name": "Tanya Degurechaff",
+      "alt_names": [
+        "ターニャ・デグレチャフ",
+        "The Devil of the Rhine",
+        "White Silver",
+        "Tanya von Degurechaff",
+        "Rusted Silver",
+        "Mad Dog"
+      ],
+      "role": "protagonist",
+      "description": "Tanya Degurechaff is a cute, adorable and pretty-good-looking little girl. But deep inside, she is highly power-hungry, amoral, ruthless, sadistic, and hot-tempered. Especially when she is in battle against her enemies, she shows utter ruthlessness and bloodlust just to accomplish her missions. Tanya also strongly disapproves of failure and disobedience from her subordinates. She is loyal to her own job and always wants to finish it as soon as possible. Tanya will never let anyone discriminate against her appearance because of how fast she goes through the ranks in the military.\n\n~!Originally a salaryman who died in an accident in 2013, he was reborn as a girl living in an alternate universe version of Europe during World War I. At just nine years of age, Tanya enters the Empire's Mages Division and is promoted to Second Lieutenant. Her talents, efficiency, and ruthlessness makes her an asset for the Empire and a threat on the battlefield.\n\nNot much is known about the protagonist in his original life, including his name. He was a Japanese salaryman who gained a reputation for having a ruthlessly utilitarian and career-minded personality. He died in a subway after being pushed in front of a train by a man he fired, after which he meets God. As an atheist, he denies God's existence and rather dubs him [Being X](https://anilist.co/character/135044). The two get into an argument about faith and modern humans which ends up with God punishing the protagonist by having him reborn in a world that was in dire straits, had less technological development and overall was less grounded in science. The opposite of these three points were used by the protagonist's argument to explain why modern men no longer need God.\n\nThe protagonist is reborn in an alternate reality of 1913 as an orphan girl named Tanya. Spending the first years of her life in a nunnery, her outlook for a good life initially looked slim. Worse, she's living in the Empire (the equivalent of Imperial Germany), one of the nations that is fighting in World War I (or their alternate equivalent of it). Luckily to her, Tanya has exceptional magic potential, a rare talent sought after in the Empire. After she's discovered to have magical abilities, people quickly expected her to be conscripted into the Empire's military once she reaches an appropriate age.\n\nTanya however thinks ahead of this, and she volunteers to join the military at the age of 8. Her reasoning was that the Army was the only institution of the Empire where women are treated equally to men. She intends to rise in ranks and then live a comfortable life in the back lines away from danger, both for her sake and in order to spite \"Being X.\" Yet even though Tanya is successful at impressing the leadership it backfires as her talents make her a necessary asset on the front lines. She's heartless, selfish, amoral, and terrifyingly ruthless. Yet at the time of the bloodiest war of this world, she might be described as the \"ideal soldier.\" On the outset, Tanya is viewed by her squad mates as either a patriotic hero or a bloodthirsty monster.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "9-13",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121052-bQZT3nIvaryX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121052
+      }
+    },
+    {
+      "id": "hans-von-zettour",
+      "name": "Hans von Zettour",
+      "alt_names": [
+        "ハンス・フォン・ゼートゥーア"
+      ],
+      "role": "supporting",
+      "description": "Imperial Army General, Chief of Staff. A rationalist boasting enormous knowledge. Cooperates with [Rudersdorf](https://anilist.co/character/121059), Chief of Operations, to plan and implement strategies.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121056-1f489EpsESd3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121056
+      }
+    },
+    {
+      "id": "viktoriya-serebryakov",
+      "name": "Viktoriya Serebryakov",
+      "alt_names": [
+        "ヴィクトーリヤ・イヴァーノヴナ・セレブリャコーフ",
+        "Visha"
+      ],
+      "role": "supporting",
+      "description": "Viktoriya Ivanovna Serebryakov is a mage and a conscript in the Empire's army, and in the past were a member of Platoon 3 under [Tanya](https://anilist.co/character/121052)'s leadership. After that, she joined the new Wing Battalion named \"V601\" to serve as Tanya's adjutant.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121057-xoaUSV1sO1CM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121057
+      }
+    },
+    {
+      "id": "erich-von-lergen",
+      "name": "Erich von Lergen",
+      "alt_names": [
+        "エーリッヒ・フォン・レルゲン",
+        "Erich von Rerugen"
+      ],
+      "role": "supporting",
+      "description": "A high-ranking officer in the Empire's Military Command, belonging to Strategic Headquarter. He is part of the General Staff's strategic advisory member that deals with the Empire's war tactics. A thoughtful and keen man, he quickly deduces the true nature of Tanya Degurechaff, calling her a demon. Even so, he trusts her ruthless efficiency to carry out tasks perfectly.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121058-K1CDSG3os7Yb.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121058
+      }
+    },
+    {
+      "id": "kurt-von-rudersdorf",
+      "name": "Kurt von Rudersdorf",
+      "alt_names": [
+        "クルト・フォン・ルーデルドルフ"
+      ],
+      "role": "supporting",
+      "description": "Imperial Army General, Chief of Operations. A wonderful and involved soldier, able to plan out large scale strategies as well as finely tune precise operations towards success. Friend of [Zettour](https://anilist.co/character/121056), Chief of Staff.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121059-FSKjrAcZ4R7S.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121059
+      }
+    },
+    {
+      "id": "severin-bientot",
+      "name": "Séverin  Bientôt",
+      "alt_names": [
+        "セヴラン・ビアント"
+      ],
+      "role": "supporting",
+      "description": "Séverin Bientôt is Captain of the 2nd Mage Squadron of the Francois Republic. His Mage Squadron is famous as the elite Special Forces.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135038-DrBRjpwyv4WJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135038
+      }
+    },
+    {
+      "id": "augustin-hosman",
+      "name": "Augustin  Hosman",
+      "alt_names": [
+        "オーギュスタン・ホスマン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135039-JPR4BRNXN6rB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135039
+      }
+    },
+    {
+      "id": "isaac-dustin-drake",
+      "name": "Isaac Dustin Drake",
+      "alt_names": [
+        "サー・アイザック・ダスティン・ドレイク"
+      ],
+      "role": "supporting",
+      "description": "Sir Isaac Dustin Drake is a Captain of a Marine Mage Wing",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135040-uNO3G4ER75Vy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135040
+      }
+    },
+    {
+      "id": "warren-grantz",
+      "name": "Warren Grantz",
+      "alt_names": [
+        "ヴォーレン・グランツ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135041-h12RTaL7PRTM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135041
+      }
+    },
+    {
+      "id": "pierre-michel-de-lugo",
+      "name": "Pierre-Michel  De Lugo",
+      "alt_names": [
+        "ピエール・ミシェル＝ド・ルーゴ"
+      ],
+      "role": "supporting",
+      "description": "Pierre-Michel de Lugo is the Vice Minister of Defense and Armies of the Francois Republic.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135042-N2vRPJ6qICiw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135042
+      }
+    },
+    {
+      "id": "olvajoule-kazole",
+      "name": "Olvajoule  Kazole",
+      "alt_names": [
+        "オルバジュール . カゾール"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135043-OYoLjIKYjfAH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135043
+      }
+    },
+    {
+      "id": "sonzai-x",
+      "name": "Sonzai X",
+      "alt_names": [
+        "存在 X",
+        "God",
+        "Being X",
+        "Existence X",
+        "Sonsai X"
+      ],
+      "role": "supporting",
+      "description": "Being X is the main antagonist of the Youjo Senki series. It is, in its own words, \"God\", but [Tanya](https://anilist.co/character/121052) in her first meeting with it labeled it as the devil. Being X is a mysterious being. It claims to be a God, the God of the Bible, the one that gave the 10 commandments to Moses. \n\nHowever, there are a number of Gods and Archangels overseeing the world(s), which goes against what is postulated in the First Commandment. Its goal appears to be the increase of the number of faithful people in the world.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135044-uoi8pqlghYgJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135044
+      }
+    },
+    {
+      "id": "cunningham",
+      "name": "Cunningham",
+      "alt_names": [
+        "カニンガム"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135045-c6qIM5AxIl6u.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135045
+      }
+    },
+    {
+      "id": "wilibald-koenig",
+      "name": "Wilibald  Koenig",
+      "alt_names": [
+        "ヴィリバルト・ケーニッヒ",
+        "Wili"
+      ],
+      "role": "supporting",
+      "description": "Wilibald Koenig is the 3rd Company commander of V601 under the command of [Tanya Degurechaff](https://anilist.co/character/121052).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135046-JJkWsPJAIJto.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135046
+      }
+    },
+    {
+      "id": "adelheid-von-schugel",
+      "name": "Adelheid  Von Schugel",
+      "alt_names": [
+        "アーデルハイト・フォン・シューゲル"
+      ],
+      "role": "supporting",
+      "description": "He is a talented mad engineer, inventing many useful weapons during the war.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135047-M6VcEM54azDv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135047
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T05:15:54.589Z"
+}

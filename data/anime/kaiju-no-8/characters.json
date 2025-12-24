@@ -1,0 +1,371 @@
+{
+  "work_id": "kaiju-no-8",
+  "count": 15,
+  "characters": [
+    {
+      "id": "kafka-hibino",
+      "name": "Kafka Hibino",
+      "alt_names": [
+        "日比野カフカ",
+        "Monster #8",
+        "Kaiju #8"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 181 cm\n\nKafka Hibino, also known as Monster #8, is a Defense Force member and a former worker for the Professional Kaiju Cleaning Company \"Monster Sweeper Inc.\". Kafka's personality is a bit childish and funny, as well as a very determined and dedicated person who loves his comrades dearly.\n\nAfter a kaijuu managed to enter his body, he obtained the ability to turn himself into a humanoid kaijuu.",
+      "metadata": {
+        "gender": "male",
+        "age": "32",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180692-rPGXuxhcKw5N.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180692
+      }
+    },
+    {
+      "id": "reno-ichikawa",
+      "name": "Reno Ichikawa",
+      "alt_names": [
+        "市川レノ",
+        "Leno"
+      ],
+      "role": "protagonist",
+      "description": "He briefly worked at Monster Sweeper Inc, where he met and befriended Kafka Hibino. After witnessing Kafka's transformation, Reno helped him enter the Defense Force and joined with him. ~!He was a member of the Third Division and after destruction of Tachikawa Base he was transferred to the Fourth Division.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180694-Q0Ocr4aqBu4k.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180694
+      }
+    },
+    {
+      "id": "kikoru-shinomiya",
+      "name": "Kikoru Shinomiya",
+      "alt_names": [
+        "四ノ宮キコル"
+      ],
+      "role": "protagonist",
+      "description": "__Height__: 157cm\n\nShe is the young daughter of Defense Force Director General Isao Shinomiya and a member of the Third Division. After Tachikawa Base was destroyed, Kikoru was transferred to the First Division.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b183889-2Ar6AHPx2mre.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 183889
+      }
+    },
+    {
+      "id": "mina-ashiro",
+      "name": "Mina Ashiro",
+      "alt_names": [
+        "亜白ミナ",
+        "Ashiro Taichou (亜白隊長)",
+        "Commander Ashiro"
+      ],
+      "role": "supporting",
+      "description": "Mina is a very talented member of the Defense Force and an extremely talented marksman. She is the captain of the Defense Force's Third Division. When she was a child, she and [Kafka](https://anilist.co/character/180692/Kafka-Hibino) met each other after a Kaiju attack, swearing that they will both join the Defense Force and fight Kaiju alongside each other.",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180693-i9RZuHTDwXov.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180693
+      }
+    },
+    {
+      "id": "soushirou-hoshina",
+      "name": "Soushirou Hoshina",
+      "alt_names": [
+        "保科宗四郎",
+        "Vice-Commander Hoshina (保科副隊長)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 171 cm\n\nSoushirou is a Vice-Commander of the Defense Force's Third Division. Despite his laid back nature, he is shown to be very powerful, specializing with bladed weapons.\n\nSoushirou comes from a family of Kaijuu slayers dating back to the Muromachi Period.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205579-FRvVyrOIG8Yz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205579
+      }
+    },
+    {
+      "id": "iharu-furuhashi",
+      "name": "Iharu Furuhashi",
+      "alt_names": [
+        "古橋伊春"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 177 cm\n\nIharu Furuhashi is a young officer of the Third Division of the Defense Force.\n\n~!After the destruction of Tachikawa Base, he was transferred to the Fourth Division.!~\n\n~!Back when Iharu was still in middle school, he was saved from a kaiju by [Mina Ashiro](https://anilist.co/character/180693/Mina-Ashiro). This event would later inspire him to become a Defense Force member.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308020-IeQN9Kr4qV2j.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308020
+      }
+    },
+    {
+      "id": "gen-narumi",
+      "name": "Gen Narumi",
+      "alt_names": [
+        "鳴海弦",
+        "Japan's Strongest Anti-Kaiju Combatant"
+      ],
+      "role": "supporting",
+      "description": "Gen Narumi is the Captain of the First Division of the Defense Force. He is known to be Japan's strongest anti-kaiju combatant, hence his position.\n\nGen has a rather lazy and child-like personality, obsessing over followers on social media and video games as well as his action figures. He appears informal and rude when confronting other people. Despite this, he is serious about his work, valuing skills above all else, and demanding results from all those serving in his division.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b241577-Sx4ZUByR8tE2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 241577
+      }
+    },
+    {
+      "id": "isao-shinomiya",
+      "name": "Isao Shinomiya",
+      "alt_names": [
+        "四ノ宮功",
+        "Director General Shinomiya"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 190 cm\n\nIsao Shinomiya is the Director General of the Defense Force and Kikoru Shinomiya's father.\n\nIsao is a very authoritative and serious man, being also very demanding towards both his subordinates and his daughter. As the Director General of the Defense Force and serving many years in its ranks, Isao is a far-sighted man who gives his orders firmly in sight of future threats. Isao is not above using living kaiju as weapons to empower the Defense Force.\n\nDespite is apparent cold and serious behavior, Isao shows a more human side when he remembered Kikoru's words about Kafka Hibino and when he personally informed the latter about his decision towards him, going against his high-ranked colleagues to give Kafka a chance to prove himself to them.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b257340-jUgXEvKOSVfW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 257340
+      }
+    },
+    {
+      "id": "kaijuu-kyuu-gou",
+      "name": "Kaijuu Kyuu-gou",
+      "alt_names": [
+        "怪獣9号",
+        "Monster #9",
+        "Kaiju #9"
+      ],
+      "role": "supporting",
+      "description": "The main antagonist in the manga Kaiju No. 8. Kaiju No. 9 is a humanoid numbered Daikaiju who goes around reviving the kaiju killed by the Defense Force. He previously infiltrated Professional Kaiju Cleaning Company Monster Sweeper.\n\n~! In his fused form with an Ant-type kaiju, No. 9 has the lower part of his body replaced by an Ant kaiju which he controls and uses to move around. In this form, No. 9 lacks forearms and hands. !~ ~! After fusing with Kaiju No. 2, No. 9 is now much larger than before, keeping his darker skin tone, with a long tail, three sets of eyes, and only protuberance on his head instead of two. !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b259598-UBuXfyAD1M2I.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 259598
+      }
+    },
+    {
+      "id": "aoi-kaguragi",
+      "name": "Aoi Kaguragi",
+      "alt_names": [
+        "神楽木葵"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 183 cm\n\nAoi Kaguragi is a young member of the Third Division of the Defense Force.\n\n~!After the destruction of Tachikawa Base, he was transferred to the Second Division.!~\n\n~!Aoi was a rising star on Japan Ground Self-Defense Force, but turned down his future in the JGSDF to apply to the Defense Force.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308014-KPQRHExrChy5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308014
+      }
+    },
+    {
+      "id": "haruichi-izumo",
+      "name": "Haruichi Izumo",
+      "alt_names": [
+        "出雲ハルイチ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 178 cm\n\nHaruichi Izumo is a wealthy young man and a prominent member of the Third Division of the Defense Force. Haruichi is also the scion of Izumo Tech.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308023-QGhxAVn5vlXY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308023
+      }
+    },
+    {
+      "id": "konomi-okonogi",
+      "name": "Konomi Okonogi",
+      "alt_names": [
+        "小此木このみ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 149 cm\n__Occupation:__ Third Division Operations Leader\n\nKonomi is a determined and professional person. She doesn't seem to approve of [Soushirou Hoshina](https://anilist.co/character/205579/Soushirou-Hoshina)'s unprofessional remarks and blurts of laughter, caring deeply for him and for everyone else when they are in danger. In return, she's held in high regard by Soushirou.\n\nWhile working, Konomi displays a professional and serious behavior, quickly getting a grasp of the current situation to offer support to her comrades. She also displayed remarkable levels of intuition and analytical skills.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308027-CxQbW0wlmzLo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308027
+      }
+    },
+    {
+      "id": "soratobu-kaijuu",
+      "name": "Soratobu Kaijuu",
+      "alt_names": [
+        "空飛ぶ怪獣",
+        "Flying Kaiju",
+        "Flying Monster",
+        "Nazo no Youjuu (謎の幼獣)",
+        "Kogata no Kaiju (小型の怪獣)"
+      ],
+      "role": "supporting",
+      "description": "This unnamed kaiju is the one responsible for infecting [Kafka Hibino](https://anilist.co/character/180692) and turning him into Kaiju 8-gou.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b311251-22t28SMIQ7ot.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 311251
+      }
+    },
+    {
+      "id": "bakko",
+      "name": "Bakko",
+      "alt_names": [
+        "伐虎"
+      ],
+      "role": "supporting",
+      "description": "Bakko is a tiger owned by [Mina Ashiro](https://anilist.co/character/180693/Mina-Ashiro)\n\nBakko seems to be rather calm and totally obedient to his owner Mina.\n\nAlways present at Mina's side, even in battle, Bakko is inferred to be strong enough to take on and possibly eliminate kaiju.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305768-3JzmAKRPnsaq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305768
+      }
+    },
+    {
+      "id": "sebas",
+      "name": "Sebas",
+      "alt_names": [
+        "瀬羽須",
+        "Sebasu",
+        "Subasu"
+      ],
+      "role": "supporting",
+      "description": "__Occupation:__ Butler\n\nSebas is the butler of the Shinomiya Family and serves [Kikoru Shinomiya](https://anilist.co/character/183889/Kikoru-Shinomiya).\n\nSebas appears as a calm man in a subservient relationship with Kikoru. ~!He is also very protective towards her since he hit [Kafka Hibino](https://anilist.co/character/180692/Kafka-Hibino) just for touching Kikoru.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308017-654bU7aQfcfg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308017
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T09:30:58.209Z"
+}

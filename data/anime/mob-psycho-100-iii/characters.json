@@ -1,0 +1,392 @@
+{
+  "work_id": "mob-psycho-100-iii",
+  "count": 15,
+  "characters": [
+    {
+      "id": "shigeo-kageyama",
+      "name": "Shigeo Kageyama",
+      "alt_names": [
+        "影山茂夫",
+        "Mob (モブ)",
+        "White T Poison",
+        "Shige",
+        "Shadow Leader"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 157 cm\n\nHe is the assistant and disciple of Arataka Reigen. He is also the newest member of the Body Improvement Club.\nShigeo is a quiet and polite individual who tries to live a normal life despite having strong telepathic power, he wants to be seen as a good human among the people in his social life. This often makes him naive and gullible when those with malicious intent want to use him for a laugh or to cause trouble but Shigeo has very strong beliefs to never use his powers to hurt another person because of an altercation he faced once as a child.",
+      "metadata": {
+        "gender": "male",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89616-dXmdOc7L6SDi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89616
+      }
+    },
+    {
+      "id": "arataka-reigen",
+      "name": "Arataka Reigen",
+      "alt_names": [
+        "霊幻新隆",
+        "The Century's Greatest Psychic",
+        "Master"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 179 cm (5'10.5\")\n\nMob's mentor and boss in the Mob Psycho 100 series. He owns a business exorcising ghosts and is a self-proclaimed psychic. \n\nHe is Mob's moral compass. He was the first person to ever consider Mob as normal and his teachings have never failed Mob.",
+      "metadata": {
+        "gender": "male",
+        "age": "28-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89334-OPj1hCzvrt7X.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89334
+      }
+    },
+    {
+      "id": "ekubo",
+      "name": "Ekubo",
+      "alt_names": [
+        "エクボ",
+        "Dimple",
+        "Covinhas",
+        "Fossette"
+      ],
+      "role": "protagonist",
+      "description": "Ekubo is a self-proclaimed upper-class evil spirit who has aligned himself with Mob after being defeated by him.\n\nEkubo wants to be a god. Specifically, he wants to be worshipped by all humanity. \n~!Despite having that kind of ego, he didn't hesitate to put himself at Mob's mercy in the hopes of using the boy to his advantage. At first, he wanted to steal Mob's body and use it to become a god, but he eventually decided to try to make Mob a god instead.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89617-HHZ1kziYxc0q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89617
+      }
+    },
+    {
+      "id": "ritsu-kageyama",
+      "name": "Ritsu Kageyama",
+      "alt_names": [
+        "影山律"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 159.4 cm\n\nRitsu is very clever and apparently serious, he also serves on the student council and excels in academics and everything else he tries. None of that matters to him as much as psychic power, however, his brother is more important to him than anyone or anything else.\n\n~!Before he awoke his own psychic powers, he longed for the esper abilities his brother has always had and was frustrated by his own inability to do things like bend spoons. He may have a habit of carrying spoons around with him, for bending purposes. He is a perfectionist with a not-so-hidden dark side. Unlike Mob, he finds it okay to use psychic violence against people when necessary.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "13",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89618-iSTUyCdu1yZ8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89618
+      }
+    },
+    {
+      "id": "teruki-hanazawa",
+      "name": "Teruki Hanazawa",
+      "alt_names": [
+        "花沢輝気",
+        "Teru"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 161.4 cm\n\nHanazawa Teruki is an esper who was first introduced as an antagonist, but later became Mob's friend after being defeated by him. He was the shadow leader (urabanchou) of Black Vinegar Middle School, using his psychic powers to rule over the delinquents at his own school, as well as to defeat those from other schools.\n\nTeruki is a talented, quick-thinking, and hardworking esper. In terms of raw power, he is nowhere near Mob's level, but he compensates for this by putting in effort and training diligently. He is able to analyze other espers' techniques and their weaknesses in a short amount of time, and often incorporates said techniques in his own fights. He is constantly training to improve himself, and is remarked by various espers as possessing a keen and powerful set of skills.",
+      "metadata": {
+        "gender": "male",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89621-3uLnmhFOGYFv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89621
+      }
+    },
+    {
+      "id": "katsuya-serizawa",
+      "name": "Katsuya Serizawa",
+      "alt_names": [
+        "芹沢克也"
+      ],
+      "role": "supporting",
+      "description": "He is an extremely powerful Esper who was formerly a part of the Super 5 of Claw. He now works at the agency alongside Reigen and Mob.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133399-saG7XStPZy71.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133399
+      }
+    },
+    {
+      "id": "tome-kurata",
+      "name": "Tome Kurata",
+      "alt_names": [
+        "暗田トメ"
+      ],
+      "role": "supporting",
+      "description": "__School:__ Salt Middle School\n__School club: __Telepathy Club (President)\n\nTome seems to be a slacker but is passionate about the possibility of using telepathy to contact extraterrestrials. However, when the Telepathy Club's research into the matter bears no results, she quickly gives up. When she learns that Mob is an Esper, her passion is revitalized.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89620-C1z1mMLIlO17.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89620
+      }
+    },
+    {
+      "id": "ichi-mezato",
+      "name": "Ichi Mezato",
+      "alt_names": [
+        "米里イチ"
+      ],
+      "role": "supporting",
+      "description": "Ichi Mezato is a  school girl who goes to Salt Middle School and is part of the News Club.  She is in class 2-1.",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89622-2sQwqZ1Qkhmx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89622
+      }
+    },
+    {
+      "id": "takane-tsubomi",
+      "name": "Takane Tsubomi",
+      "alt_names": [
+        "ツボミ"
+      ],
+      "role": "supporting",
+      "description": "She is a middle schooler at Salt Middle School. Mob harbors a large crush on her.\n\n~!Most of what we know about Tsubomi's personality in the manga is from what Mob and other characters say about her. However, in the anime adaptation, there are extra scenes of Tsubomi that add to her character and personality and make her a more compassionate individual.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89623-9JhzOrRvzaII.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89623
+      }
+    },
+    {
+      "id": "tenga-onigawara",
+      "name": "Tenga Onigawara",
+      "alt_names": [
+        "鬼瓦天牙"
+      ],
+      "role": "supporting",
+      "description": "Tenga Onigawara is the leader of Salt Middle School and an unofficial member of the Body Improvement Club.",
+      "metadata": {
+        "gender": "male",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89619-gX9t6L2puNte.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89619
+      }
+    },
+    {
+      "id": "musashi-gouda",
+      "name": "Musashi Gouda",
+      "alt_names": [
+        "ムサシ"
+      ],
+      "role": "supporting",
+      "description": "Musashi Goda is a student of Salt Middle School and the Body Improvement Club's President. Musashi has a strong sense of justice but strongly disagrees with senseless violence",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132972-OMoDKqJSfLjs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132972
+      }
+    },
+    {
+      "id": "haruto-kijibayashi",
+      "name": "Haruto  Kijibayashi",
+      "alt_names": [
+        "稚子林春人"
+      ],
+      "role": "supporting",
+      "description": "He is a third-year middle school student and a member of the Telepathy Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133395-lPVdisYhxMnp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133395
+      }
+    },
+    {
+      "id": "shirihiko-saruta",
+      "name": "Shirihiko Saruta",
+      "alt_names": [
+        "猿田尻彦"
+      ],
+      "role": "supporting",
+      "description": "He is a first-year middle school student and a member of the Telepathy Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133398-mEXR6X175mm2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133398
+      }
+    },
+    {
+      "id": "mameta-inukawa",
+      "name": "Mameta  Inukawa",
+      "alt_names": [
+        "犬川豆太"
+      ],
+      "role": "supporting",
+      "description": "He is a second-year middle school student and a member of the Telepathy Club.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n134013-fL3rFeCOOIRJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134013
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "supporting",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T09:36:11.047Z"
+}

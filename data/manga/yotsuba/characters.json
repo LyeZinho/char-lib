@@ -1,0 +1,363 @@
+{
+  "work_id": "yotsuba",
+  "count": 15,
+  "characters": [
+    {
+      "id": "yotsuba-koiwai",
+      "name": "Yotsuba Koiwai",
+      "alt_names": [
+        "小岩井四葉",
+        "こいわいよつば"
+      ],
+      "role": "protagonist",
+      "description": "__Height__: 107 cm\n\nShe has a carefree and energetic personality, taking delight in simple matters even as she learns about all manner of things in her daily life. In Japanese, Yotsuba's dialogue is written without kanji, making it seem simpler and more child-like, and in a typeface that gives the impression of speaking with high intensity. Her energy is noted by other characters, especially members of the neighboring Ayase family. Her father says of her carefree nature, \"She can find happiness in anything. Nothing in this world can get her down.\" However, when deeply frightened or upset, she does cry, and she has an unexplained fear of anything resembling a bullseye.\n\nAt the start of the series, Yotsuba is shown as having very little knowledge of the world around her, even for a young child. Things such as swings, doorbells, cicadas, and air conditioners all fascinate and confuse her, although she is not perturbed by her ignorance. She occasionally mispronounces new words and creates neologisms, such as \"Yotsubox\" as a portmanteau of \"Yotsuba's Box\", and often repeats, in incongruous ways, phrases spoken by adult characters around her.\nYotsuba is frequently shown drawing, though she is not as good an artist as she thinks she is, and she is an excellent swimmer.\n\nThe series provides few details about her life before its start. She is an adopted child, with her birthplace unknown to the reader, although she claims she's from an island \"to the left.\" Koiwai, Yotsuba's adopted father, says he met her as an orphan in a foreign country and before he knew it he was raising her as his own; she is sometimes taken for a foreigner by strangers. When asked about her mother, she doesn't understand the question, and she gets confused by the concept of having two sets of grandparents. Before moving to her current home, Yotsuba lived in the country with Koiwai and his mother. She initially claims to Fuka Ayase she is six years old, but her father later corrects this, saying she is in fact five years old. Yotsuba has never attended school, and as of the first chapter does not know what a grade is. In chapter 35, she fails to understand repeated explanations of homework.",
+      "metadata": {
+        "gender": "female",
+        "age": "5",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b3568-5mfNplO06SPY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 3568
+      }
+    },
+    {
+      "id": "yousuke-koiwai",
+      "name": "Yousuke Koiwai",
+      "alt_names": [
+        "小岩井葉介",
+        "Daddy"
+      ],
+      "role": "protagonist",
+      "description": "Koiwai is Yotsuba's adoptive father. The circumstances of her adoption are obscure; he tells Fuuka that without intending to, he found himself taking care of her while somewhere overseas, but gives no other details. Though he acknowledges Yotsuba is a bit odd, he can be offbeat himself. He is depicted as something of a slacker; he habitually wears an undershirt and boxer shorts when working at home during the summer, and apologizes more than once for being irresponsible. He works from home as a translator, though what languages and materials he translates is unknown. Regardless of his skills as a parent, Koiwai tries to be a good father to Yotsuba.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b3577-gvuDyWJRv5mS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 3577
+      }
+    },
+    {
+      "id": "takashi-takeda",
+      "name": "Takashi Takeda",
+      "alt_names": [
+        "竹田 隆",
+        "ジャンボ",
+        "Jumbo"
+      ],
+      "role": "protagonist",
+      "description": "A friend of Koiwai and Yotsuba, having known Koiwai since they were childhood classmates. Standing 2m10 (6 ft 11 in) tall, he dwarfs the other characters, especially Yotsuba.\nHe is always called by the nickname &quot;Jumbo,&quot; and when Fuka learns his real name she calls it &quot;common.&quot; He works at his father&#039;s flower shop, as Yotsuba discovers when she meets him there. He helps the Koiwais move in and frequently visits their house, where he is more or less treated as a member of the family by Yotsuba.\n\n__Personality__: Jumbo has a dry sense of humor and is prone to deadpan quips, which sometimes confuse members of the Ayase family. At the same time, he is impulsive, and sometimes spontaneously organizes activities for the younger children, such as fishing and star-gazing.\nAs he does this, he enters a bizarre one-sided rivalry with Miura, including spending a single day in Hawai&#039;i after he learns that she will be going abroad. He develops a deep infatuation with Asagi when he first meets her, but is too nervous around women to directly act on it. Instead, he tries to use Yotsuba&#039;s friendship with Asagi as a way of getting close to her, though his plans usually backfire.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n3578-y4R4s1t21D7G.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 3578
+      }
+    },
+    {
+      "id": "fuuka-ayase",
+      "name": "Fuuka Ayase",
+      "alt_names": [
+        "綾瀬風香"
+      ],
+      "role": "protagonist",
+      "description": "The middle Ayase sister, Fuuka is in her second year at a local high school. She is the most responsible of the sisters, and during Yotsuba&#039;s first visit to her school, one student calls her &quot;vice-president.&quot; She finds herself frequently helping the Koiwais, even though she does not intend to and is more flustered by their eccentricities than anyone else. Fuuka is often teased by the other characters, especially about her fashion sense and sense of humor. She is fond of making bad puns, which irritates Asagi, and wearing shirts with odd or interesting graphics (such as Chiyo&#039;s &quot;father&quot; from Azumanga Daioh, who also appears as a plushie in her room).",
+      "metadata": {
+        "gender": "female",
+        "age": "16-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n7742-qA8eLhbKWjRt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7742
+      }
+    },
+    {
+      "id": "ena-ayase",
+      "name": "Ena Ayase",
+      "alt_names": [
+        "綾瀬恵那"
+      ],
+      "role": "protagonist",
+      "description": "The youngest Ayase sister, Ena is a few years older than Yotsuba and her most frequent playmate. She is sensible for her age and tries to be responsible by recycling and limiting her use of air conditioning. Her attempts to spare Yotsuba&#039;s feelings sometimes lead her to make little white lies, such as praising Yotsuba&#039;s childish sketches or letting her believe that Miura&#039;s cardboard costume is a real robot named Cardbo (in ADV&#039;s translation) or Danbo (in Yen&#039;s translation) (ダンボー, Danbō), with consequences that rebound on herself and Miura. Ena likes drawing, something at which she is quite skilled, and playing with her teddy bears, either by herself or with Yotsuba. Ena is unsqueamish and even enthusiastic about such things as handling large frogs and gutting live fish.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7757-51LGUgtARUrN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7757
+      }
+    },
+    {
+      "id": "asagi-ayase",
+      "name": "Asagi Ayase",
+      "alt_names": [
+        "綾瀬あさぎ"
+      ],
+      "role": "protagonist",
+      "description": "The eldest of the three Ayase sisters, Asagi lives at home while attending a nearby university. She is depicted as an attractive young woman who enjoys teasing people, especially her parents; her friend Torako describes her as a horrible person for teasing Ena. She is the best of her family at managing Yotsuba, and her mother claims she was much like Yotsuba when she was young. Asagi&#039;s irreverence may have come from her mother&#039;s teasing when she was a child&mdash;for example, when Asagi found a four-leaf clover, Mrs. Ayase asked for a five-leaf clover instead, which Asagi could not find.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n9164-13YvBT8Y5DLM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 9164
+      }
+    },
+    {
+      "id": "yasuda",
+      "name": "Yasuda",
+      "alt_names": [
+        "ヤンダ; 安田",
+        "Yanda"
+      ],
+      "role": "supporting",
+      "description": "Yanda, given name Yasuda, is a friend of Koiwai and Jumbo. Though mentioned in the first and fourth chapters, when Jumbo calls Yanda &quot;no good&quot; for making lame excuses for not helping the Koiwais move, he does not appear until chapter 30. He is somewhat childish, as shown by the tit-for-tat pranks he plays on Yotsuba, including bribing her with candy then taking it back when it does not work, eating her ice cream, and prank-calling  her, and is shown enjoying teasing Yotsuba and acting as her &quot;nemesis&quot;. Koiwai refers to Yanda as his kōhai, but in what context he is Koiwai&#039;s junior is unknown. He is living from paycheck to paycheck, telling Koiwai that he eats instant ramen because he does not get paid until the end of the month, and only eating frozen meals the rest of the time.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/3609.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 3609
+      }
+    },
+    {
+      "id": "danbo",
+      "name": "Danbo",
+      "alt_names": [
+        "Cardbo"
+      ],
+      "role": "supporting",
+      "description": "Cardbo is a &quot;robot&quot; that Ena and Miura make out of cardboard boxes in the fifth volume of the manga &quot;Yotsuba&amp;!&quot;. Hilarity ensues as Miura proceeds to fool Yotsuba into thinking that Cardbo is a real robot.    (source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/13407.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 13407
+      }
+    },
+    {
+      "id": "miura-hayasaka",
+      "name": "Miura Hayasaka",
+      "alt_names": [
+        "早坂みうら"
+      ],
+      "role": "supporting",
+      "description": "A friend and classmate of Ena. She is boyish and brusque, in both her appearance and speech (this is very noticeable in the Japanese version; see gender differences in spoken Japanese). Sometimes, she can be too straightforward and insensitive, and she counters aggressively in a tsukkomi-like manner if she feels mistaken or made fun of. Because of this, Miura appears less kind and thoughtful than Ena, but she is aware of others&#039; feelings. For example, she immediately notices Jumbo&#039;s infatuation with Asagi and uses it to her advantage. She is also extremely squeamish: when Jumbo takes the younger children fishing, Miura refuses to handle live bait, using salmon roe instead, and hides while Jumbo and Ena clean their catches; she is also terrified by a large frog Yotsuba catches. Miura often wears sports-related clothing (such as jerseys of the Los Angeles Lakers and Los Angeles Dodgers) and rides a unicycle. Jumbo once teases her by calling her Lamborghini Miura.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b14246-yroQyslJcMfJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 14246
+      }
+    },
+    {
+      "id": "hiwatari",
+      "name": "Hiwatari",
+      "alt_names": [
+        "日渡",
+        "Shimauu",
+        "Miss Take"
+      ],
+      "role": "supporting",
+      "description": "A friend of Fuuka&#039;s, given name unknown, who is in the same homeroom. Her first official appearance is in chapter 45, when she visits Fuuka&#039;s home and recognizes Yotsuba from her trip to their high school in chapter 40. Hiwatari has a somewhat eccentric personality. She is normally called by her nickname Miss Stake (しまうー, Shimaū)  due to a &quot;mistake&quot; she made when she first introduced herself to her class (in Japanese, shimau used as an auxiliary verb can mean to do something by accident, hence the pun).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/14279.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 14279
+      }
+    },
+    {
+      "id": "torako",
+      "name": "Torako",
+      "alt_names": [
+        "虎子",
+        "Tora"
+      ],
+      "role": "supporting",
+      "description": "A friend of Asagi&#039;s, surname unknown, who attends the same university. She smokes constantly and appears obsessed with being cool. Because of this, she sometimes gets annoyed with Yotsuba&#039;s antics, though she also admits to Koiwai she&#039;s not used to being around small children. Her name means &quot;tiger&quot; (虎, tora)  &quot;girl&quot; (子, ko)  and Yotsuba frequently calls her just Tora (&quot;tiger&quot;). She is the only member of the younger cast with a car.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/14280.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 14280
+      }
+    },
+    {
+      "id": "mrs-ayase",
+      "name": "Mrs. Ayase",
+      "alt_names": [
+        "綾瀬家の母",
+        "Mom"
+      ],
+      "role": "supporting",
+      "description": "The mother of the Ayase sisters, who frequently has Yotsuba over as a visitor. Unlike her daughters, she seems unfazed by Yotsuba&#039;s habit of calling her &quot;Mom.&quot; She is often irritated with Asagi, possibly because, as her husband observes, they have similar personalities. Mrs. Ayase has something of a sweet tooth, with cravings for ice cream, cake, and other desserts.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/14281.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 14281
+      }
+    },
+    {
+      "id": "mr-ayase",
+      "name": "Mr. Ayase",
+      "alt_names": [
+        "綾瀬家の父",
+        "Dad"
+      ],
+      "role": "supporting",
+      "description": "The father of the Ayase sisters is almost never at home, at least during the workweek. While his profession is not revealed, it appears consistent with the life of a salaryman. Asagi frequently teases him about his constant absence, even sometimes mentioning him in past tense as if he were dead, but he otherwise has good relationships with the rest of the family. He has a very laid-back and sentimental personality.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/14283.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 14283
+      }
+    },
+    {
+      "id": "hiro",
+      "name": "Hiro",
+      "alt_names": [
+        "Hiro-kun"
+      ],
+      "role": "supporting",
+      "description": "He plays a Taiko Drum on a float and Yotsuba asks if she can play. He says no because only High Schoolers can play, but Fuuka convinces him to let her play.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/30921.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 30921
+      }
+    },
+    {
+      "id": "scruffy",
+      "name": "Scruffy",
+      "alt_names": [
+        "ひげもじゃ"
+      ],
+      "role": "supporting",
+      "description": "He is a bike seller. Yotsuba calls him &quot;Scruffy&quot; because of his scruffy beard.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/30922.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 30922
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T11:39:49.848Z"
+}

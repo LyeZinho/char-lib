@@ -1,0 +1,351 @@
+{
+  "work_id": "bloom-into-you",
+  "count": 15,
+  "characters": [
+    {
+      "id": "yuu-koito",
+      "name": "Yuu Koito",
+      "alt_names": [
+        "小糸侑"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 153 cm (5'0\")\n\nA first year high school student who has never experienced romantic feelings. She joins the student council, where she meets Touko Nanami. She lives above the family bookstore, where she occasionally works.\n~! She later falls in love with Touko. !~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123528-q3SR8wyDPTCe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123528
+      }
+    },
+    {
+      "id": "touko-nanami",
+      "name": "Touko Nanami",
+      "alt_names": [
+        "七海燈子"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 163 cm (5’4”)\n\nA second year high school student, and the busiest member of the student council. She consistently ranks number one with her test scores and grades, and excels in sports as well. Due to this, and her beauty, admirers frequently confess to her - only to be turned down, as the confessions never make her feel anything.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123529-XSxpzTGWAq2a.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123529
+      }
+    },
+    {
+      "id": "sayaka-saeki",
+      "name": "Sayaka Saeki",
+      "alt_names": [
+        "佐伯沙弥香"
+      ],
+      "role": "supporting",
+      "description": "Sayaka is Touko Nanami's best friend from her first year of high school. She is a second-year high school girl and the student council vice president.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123530-i2u0KClGP7IM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123530
+      }
+    },
+    {
+      "id": "koyomi-kanou",
+      "name": "Koyomi Kanou",
+      "alt_names": [
+        "叶こよみ"
+      ],
+      "role": "supporting",
+      "description": "Yuu's classmate and friend from middle school. She wants to become a writer.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127273-Z8nDMPDBAA89.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127273
+      }
+    },
+    {
+      "id": "seiji-maki",
+      "name": "Seiji Maki",
+      "alt_names": [
+        "槙聖司"
+      ],
+      "role": "supporting",
+      "description": "Maki is a first-year high school boy and a member of the student council. He grew up surrounded by two older sisters and a younger sister, so he finds it easy to talk with girls.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128067-8Etz536mz22x.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128067
+      }
+    },
+    {
+      "id": "akari-hyuuga",
+      "name": "Akari Hyuuga",
+      "alt_names": [
+        "日向朱里"
+      ],
+      "role": "supporting",
+      "description": "Akari is Yuu's classmate and friend from middle school. She is a member of the basketball club.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128103-QcKJvyKPKMFS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128103
+      }
+    },
+    {
+      "id": "miyako-kodama",
+      "name": "Miyako Kodama",
+      "alt_names": [
+        "児玉都"
+      ],
+      "role": "supporting",
+      "description": "Owner of a small café. Riko's girlfriend.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128561-TWh3PyMtgBYu.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128561
+      }
+    },
+    {
+      "id": "riko-hakozaki",
+      "name": "Riko Hakozaki",
+      "alt_names": [
+        "箱崎理子"
+      ],
+      "role": "supporting",
+      "description": "A literature teacher and the student council's staff advisor. Miyako's girlfriend.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128562-s9PzHbFkkSEt.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128562
+      }
+    },
+    {
+      "id": "suguru-doujima",
+      "name": "Suguru Doujima",
+      "alt_names": [
+        "堂島卓"
+      ],
+      "role": "supporting",
+      "description": "Doujima is a first-year high school boy and a member of the student council.",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128563-pgBXP0w8X5L4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128563
+      }
+    },
+    {
+      "id": "rei-koito",
+      "name": "Rei Koito",
+      "alt_names": [
+        "小糸怜"
+      ],
+      "role": "supporting",
+      "description": "Yuu's older sister. Hiro's girlfriend.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128564-7uH6UpqE8k8g.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128564
+      }
+    },
+    {
+      "id": "serizawa",
+      "name": "Serizawa",
+      "alt_names": [
+        "芹澤"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142096-lo7rEhItw7jQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142096
+      }
+    },
+    {
+      "id": "touko-no-chichi",
+      "name": "Touko no Chichi",
+      "alt_names": [
+        "燈子の父",
+        "Touko's Dad"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b154093-Qkkak5ayOTCf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 154093
+      }
+    },
+    {
+      "id": "touko-no-haha",
+      "name": "Touko no Haha",
+      "alt_names": [
+        "燈子の母",
+        "Touko's Mom"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b154095-DcxmqatqPOLQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 154095
+      }
+    },
+    {
+      "id": "natsuki-sonomura",
+      "name": "Natsuki  Sonomura ",
+      "alt_names": [
+        "園村菜月"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b154096-pxZXiNN7ruiF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 154096
+      }
+    },
+    {
+      "id": "manaka-yoshida",
+      "name": "Manaka  Yoshida ",
+      "alt_names": [
+        "吉田愛果"
+      ],
+      "role": "supporting",
+      "description": "Manaka Yoshida is a friend and classmate of Touko Nanami and Sayaka Saeki. She is usually seen with Midori Igarashi.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b154097-QvtFi3XkWEw4.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 154097
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T10:26:43.306Z"
+}

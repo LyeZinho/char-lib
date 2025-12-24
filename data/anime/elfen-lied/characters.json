@@ -1,0 +1,356 @@
+{
+  "work_id": "elfen-lied",
+  "count": 15,
+  "characters": [
+    {
+      "id": "kouta",
+      "name": "Kouta",
+      "alt_names": [
+        "コウタ",
+        "耕太"
+      ],
+      "role": "protagonist",
+      "description": "Kouta is one of the main characters of the series and is first introduced in Volume 1 when he arrives in Kanagawa Prefecture to attend college, having previously arranged to stay with his cousin Yuka while at school.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b737-QIsH9Bs4RWpz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 737
+      }
+    },
+    {
+      "id": "lucy",
+      "name": "Lucy",
+      "alt_names": [
+        "ルーシー",
+        "Nyuu"
+      ],
+      "role": "protagonist",
+      "description": "Lucy is a Diclonius girl around eighteen years old. She has developed strong emotions of hatred and vengeance towards regular humans mainly because of how she was treated by the majority of them as a child, making fun of her horns and giving her insulting nicknames such as freak.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b738-z0w63Laqb6hW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 738
+      }
+    },
+    {
+      "id": "nana",
+      "name": "Nana",
+      "alt_names": [
+        "ナナ",
+        "Number 7"
+      ],
+      "role": "protagonist",
+      "description": "Also known as Number 7, she is a young Silpelit girl who has the physical appearance of being 12-14 years old (though because Silpelits age rapidly, she is actually only about 6 years old). Her name, 'Nana', is Japanese for the number seven, the number by which she was called at the research facility (\"Nana\" is also a fairly common female name in Japan). Most diclonius babies are euthanized at birth in sweeps of hospital maternity wards, but Nana was one of a handful kept alive for use as a test subjects; as a result she has spent her entire life in the diclonius research facility. Kurama sees her as his daughter and cares very much for her. In an attempt to recapture Lucy, Kurama sent out Nana to find her (diclonii can telepathically sense each other), then retreat until Kurama could arrive with soldiers, but Nana wanted to impress Kurama so she tried to capture Lucy herself. Lucy and Nana engaged in a brutal telekinetic battle that ended with Lucy tearing all of Nana's limbs off. Kurama personally came to stop Lucy and save Nana, then also disregarded Director General Kakuzawa's order to kill her by giving her new prosthetic limbs and setting her free with a lot of money. Unlike many other Diclonius, because Kurama treated her with kindness, she is not homicidal or sadistic. She has the ability to temporarily disable other Diclonius' vectors by having her vectors go through their pineal gland. Although her vector power is slightly superior to Lucy's in terms of range (3 meters to Lucy's 2)and certain abilities, she lacks Lucy's sheer strength (Lucy can lift and throw many more heavy objects than Nana can), and violent nature: Nana's empathy for others does not allow her to fight as vigorously, and she loses her arms and legs when she is viciously dismembered by Lucy. With her vector arms, she is later able to manipulate prosthetic appendages and even throw them like a rocket punch.  Nana can be seen as the exact opposite of Lucy. While Lucy's default personality is serious and cold, Nana's is friendly and kind; Lucy's split personality \"Nyu\" is similar to Nana's default while Nana sometimes goes into trances and acts cold like Lucy's default personality. Nana is in the middle of the spectrum of Lucy's split personalities: she's not as mature as Lucy, but more mature than Nyu.  \n\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b740-ODhefJgbwzMK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 740
+      }
+    },
+    {
+      "id": "yuka",
+      "name": "Yuka",
+      "alt_names": [
+        "ユカ"
+      ],
+      "role": "protagonist",
+      "description": "Yuka is Kouta's cousin. She is planning to attend the same university as Kouta. She moves in with him at the inn after having not seen him in many years. Having had a crush on Kouta since childhood, she is in love with him, and is therefore jealous of Kouta's attention to Nyū, to the point of being very irrational. \n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b741-nnkqb190RyHT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 741
+      }
+    },
+    {
+      "id": "mayu",
+      "name": "Mayu",
+      "alt_names": [
+        "マユ"
+      ],
+      "role": "protagonist",
+      "description": "She is a young girl, abandoned by her mother and a victim of sexual abuse by her stepfather. She has run away from home and is homeless at the start of the series, subsisting on bread crusts she is given at a local bakery under the pretence that they are for the small puppy that accompanies her. She found and named the puppy \"Wanta.\" She ends up living with Kohta and Yuka as her legal guardians. Mayu befriends Nana and tries to take her under her wing.   \n\n(Source: Wikipedia)",
+      "metadata": {
+        "age": "13-14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b743-FHE6AMrmY31A.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 743
+      }
+    },
+    {
+      "id": "mariko-kurama",
+      "name": "Mariko Kurama",
+      "alt_names": [
+        "蔵間マリコ",
+        "35番 (Number 35)"
+      ],
+      "role": "supporting",
+      "description": "Also known as Number 35, she is a young girl described as the only surviving &quot;third generation&quot; Silpelit (a Silpelit born from one infected by another Silpelit, as opposed to one born from one infected by a Diclonius), and the daughter of Kurama at five years old. During an escape attempt by Number Three (who was actually Nana&#039;s sister), Kurama was infected by her vectors and thus turned into a carrier of the diclonius virus, and his daughter was born a silpelit. In the anime she possesses 33 vectors , each with an approximate range of 11 meters (the number and range is much higher in the manga). Mariko was imprisoned as an infant and raised inside a steel container with human contact consisting of nothing more than a scientist acting as a sort of foster mother through speakers and monitors. Her physical impairment is seen in her atrophied limbs as she moves around in a wheelchair.   Despite the environment she was raised in, she is relatively well developed psychologically. She is extremely homicidal and sadistic, and enjoys torturing and dismembering her victims. However, her personality is not blatantly evil. She is only having fun, and the pleasure she gets from it is equivalent to a child playing with toys.      ~!In order to keep Mariko under control, the research institute implanted at least two bombs (probably more) in her body during infancy; one is used to remove her right arm after she attacks scientists at the institute. Kurama later orders the other bomb(s) to be detonated as he walks away embracing his daughter, killing not only Mariko, but himself as well.!~   \n\n(Source: ​Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b742-8G39uzDirQNg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 742
+      }
+    },
+    {
+      "id": "kurama",
+      "name": "Kurama",
+      "alt_names": [
+        "蔵間"
+      ],
+      "role": "supporting",
+      "description": "He is the chief of research, aged in his mid-30's, of the diclonius children in the research containment facility. He is also the surrogate father of Nana and biological father of Mariko. ~!His wife, Hiromi Kurama, died from Caesarean section complications shortly after she gave birth to Mariko. Although he had previously been tasked with killing all diclonius births, he falters when he must kill his own daughter. Lucy carries a deep hatred toward Kurama, stemming from his failure to save Aikon Takada (seen in the Elfen Lied OVA); however, she states that she will not kill him but will kill everything that loves him. It is revealed late in the series that the General Director of the diclonius research program kept his daughter alive, increasing Kurama's perceived debt to him. Kurama dies at the end of the anime after the explosives inside Mariko (whom he is cradling in his arms while walking away) are detonated at his command. It should be noted that right before the explosion, Kurama has a series of images flash in his mind. In them, his wife is still alive and Mariko is a normal baby, and together the images make up Kurama's idea of how life presumably would have played out if Mariko had been born normal (Mariko as a toddler, Mariko on her first day of school, etc.).  Kurama does not die in the manga; Mariko (worried about the safety of her father) confronts Lucy and clings to her as the bomb inside her detonates; this results in Lucy's horns being destroyed and turning back into Nyu, as well as Mariko's death. Kurama, depressed by his pathetic ability as a father, attempts to commit suicide with a nearby MP5, but is saved by Band. Kurama now lives in a small shed on the beach and is partially insane. He clings to a dead body of what he thinks is his daughter, Mariko, and won't let anyone come near him. Later, Nana finds him but he shuns her away, still clinging to the clone Mariko. Another clone Mariko shows up and Kurama tries to embrace her too. She, however,​ attacks him and fights with Nana. When she is about to finish Nana off, Kurama shoots her in the head and regains his sanity. He survives throughout the rest of the series.!~\n\n(Source:Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2324-IVcol9EkkEI8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2324
+      }
+    },
+    {
+      "id": "bando",
+      "name": "Bando",
+      "alt_names": [
+        "坂東"
+      ],
+      "role": "supporting",
+      "description": "He is an operative in his mid-30's for the National Police Agency's Special Assault Team (SAT). Though he is fully human, he is as homicidal and apathetic to other people as the worst diclonius are. He is a hardy and effective soldier. After being maimed by Lucy and repaired with bionic, cybernetic and prosthetic implants, he escapes on a quest for revenge against her. He gets two or more Desert Eagle hand guns. In the manga he gets other weapons such as a RPG. The guns fire .50 caliber rounds which are so powerful the rounds can not be blocked with vectors. But the bullets can be pushed off course at long range though; however at close range not even Lucy can stop them.  ~!He gets sidetracked several times in this quest, and ultimately receives aid from Kurama to \"kill a diclonius that was coming.\" Bando is driven by the will to fight and to prove his superior ability in combat. At the end of the anime he is crippled again by Lucy while in the manga he is ripped in half, saving Mayu's life when Lucy tries to kill her. He is shown to have survived at the end, reuniting with Mayu.!~  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2325-CvaBIkIeqXIN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2325
+      }
+    },
+    {
+      "id": "kanae",
+      "name": "Kanae",
+      "alt_names": [
+        "カナエ"
+      ],
+      "role": "supporting",
+      "description": "She was [Kouta](https://anilist.co/character/737)'s younger sister and was about 7-9 years old. She was protective of her brother and was jealous of other girls' attentions to him. ~! Kouta repressed much of his memory of her after Lucy murdered her on a train along with Kouta's father. Kouta's repression of the events leads him to believe she died of a sickness of some kind !~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2326-RPMO0CCaweQ8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2326
+      }
+    },
+    {
+      "id": "arakawa",
+      "name": "Arakawa",
+      "alt_names": [
+        "荒川"
+      ],
+      "role": "supporting",
+      "description": "She is a young researcher in her mid-20&#039;s who is also Professor Kakuzawa&#039;s partner who works alongside him to create a vaccine in order to counter the threat of the Diclonius virus. She along with Kohta inadvertently discovered Professor Kakuzawa&#039;s severed head and warned the boy not to disclose anything of what he saw or heard with anybody else. Afterwards, she reported her finding to Director Kakuzawa at his compound facility, but he wouldn&#039;t let her go scot-free after seeing his son&#039;s horns. She was threatened by Chief Kakuzawa to take charge of his deceased son&#039;s research or else be killed.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2327-QnRkSrFsSUyK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2327
+      }
+    },
+    {
+      "id": "3-ban",
+      "name": "3-Ban",
+      "alt_names": [
+        "3番",
+        "Number 3"
+      ],
+      "role": "supporting",
+      "description": "She was a Silpelit child of around 3-4 years old whose name is her designation number given by the human scientists at the research facility, as she does not possess a personal name of her own. She appears only in episode 10 of the anime when Kurama experiences a series of flashbacks back when he became director at Chief Kakuzawa's island facility.  Kurama's flashbacks give insight on the activities the scientists were performing on Diclonius to measure the range and power of their vectors. Everyday, Number 03 was chained up on a wall, and on a far end a machine shot small iron balls at her from different angles. The purpose of that test was to evaluate the maximum range at which each Diclonius's vectors could reach and deflect the balls.  When the experience became too traumatic for Number 03, Kurama voiced out his protest for witnessing such inhuman activities. Afterwards, the locks on Number 03's bounds were mysteriously opened up, and she went on a killing spree until she found Kurama. Number 03 had concealed the true length of her growing vectors from the research team, aiding in her escape. She immediately placed her vector on his head and thanked him in a haunting manner, before being shot dead at the head by Professor Kakuzawa with an armor piercing bullet. Several months later, Kurama's wife gave birth to a Diclonius baby (Mariko) much to Kurama's fear and astonishment. But, it made Kurama to quickly recall his near-death experience with Number 03 and finally realized that the virus is passed on through the vectors.  The official Elfen Lied website confirms that Number 03 is Nana's older sister",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2328-qwgUjA3bqnjD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2328
+      }
+    },
+    {
+      "id": "kakuzawa-choukan",
+      "name": "Kakuzawa Choukan",
+      "alt_names": [
+        "角沢長官",
+        "Chief Kakuzawa"
+      ],
+      "role": "supporting",
+      "description": "He is the head of the research center at 70+ years old performing experiments on diclonius. He is from a long line of diclonius ancestry that has been watered down by inter-breeding with humans (much of this is, however, only revealed in the manga). As a result of this he has no vectors and much smaller horns on his head. The aim of him and his son is, in part, to replenish their bloodline with the diclonius they are experimenting on (of which Lucy is the first to be able to reproduce) and thus gain power as \"kings\" of the new race.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2329-gOMTLLp6daJL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2329
+      }
+    },
+    {
+      "id": "kakuzawa-kyouju",
+      "name": "Kakuzawa Kyouju",
+      "alt_names": [
+        "角沢教授"
+      ],
+      "role": "supporting",
+      "description": "He is the son of Chief Kakuzawa and also a watered-down diclonius with smaller horns and no vectors in his mid-30's. When he and Kurama were younger, they both went to university together and it was Kakuzawa that originally got Kurama involved in the research on Diclonius. He ends up, coincidentally, being the lecturer for a course at the university in which Kouta and Yuka are enrolled.  \n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2330-H8nowbN7sODb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2330
+      }
+    },
+    {
+      "id": "tomoo",
+      "name": "Tomoo",
+      "alt_names": [
+        "トモオ"
+      ],
+      "role": "supporting",
+      "description": "Tomoo was a young boy about 10–11 years of age and the ringleader of the group of bullies in the orphanage, which was also home to Kaede.\n\nHe is a key figure in her descent into madness, murder, and misanthropy. Due to the bullying he and his group inflicted upon her, Kaede developed a deep hatred of the human race.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2331-Ta0qEkmiVsot.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2331
+      }
+    },
+    {
+      "id": "kisaragi",
+      "name": "Kisaragi",
+      "alt_names": [
+        "如月"
+      ],
+      "role": "supporting",
+      "description": "Kurama&#039;s personal secretary who seems to space out at work often and is often quite clumsy. She is killed by Lucy at the start of the story when she, completely oblivious of what is going on, trips in front of the rampaging Lucy, who tears off her head and uses the body to shield herself from the security team&#039;s gunfire.    In the manga, Kisaragi came across Lucy while walking down the hall. Noticing that she was covered in blood, Kisaragi approached her. Lucy used this opportunity to take her hostage. Since Kurama&#039;s men were unable to get a clear shot of Lucy, Kurama told Kisaragi they had to sacrifice her. Kisaragi did not seem upset after hearing this, instead saying she was happy to give her life if it meant she was helping. Kurama assured her that her death would not be meaningless, but before Kurama could tell his men to shoot, Lucy tore off Kisaragi&#039;s head. After using Kisaragi&#039;s decapitated body as a shield and killing the men, Lucy told Kurama that Kisaragi&#039;s death was meaningless, and left laughing.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16831-QmvC312RpwTY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 16831
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T01:01:42.108Z"
+}

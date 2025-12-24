@@ -1,0 +1,360 @@
+{
+  "work_id": "the-irregular-at-magic-high-school",
+  "count": 15,
+  "characters": [
+    {
+      "id": "miyuki-shiba",
+      "name": "Miyuki Shiba",
+      "alt_names": [
+        "司波深雪",
+        "Snow Queen"
+      ],
+      "role": "protagonist",
+      "description": "__Height__: 160 cm\n__Classification__: A-rank Magician\n\nMiyuki is a first year student in Course 1 of First High School. She is the younger sister of Shiba Tatsuya. She is a bloom, which is considered the upper class. She was appointed as the freshmen representative, and is well known throughout the school.  Described as very beautiful, she draws attention everywhere she goes. Yet, she is still modest and kind. \n\nShe has a warm and loving nature, and defends her brother readily. She feels bad about being labelled as a \"genius\"; she feels that her brother is the real genius. Miyuki feels sad that their father only cares about her, and ignores Tatsuya completely.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-20",
+        "dateOfBirth": "2080-03-25"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55741-FX0mwEYDYZmw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55741
+      }
+    },
+    {
+      "id": "tatsuya-shiba",
+      "name": "Tatsuya Shiba",
+      "alt_names": [
+        "司波達也",
+        "Onii-sama",
+        "Ooguro Ryuuya"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 182 cm\n\nShiba Tatsuya is a First Year Student in Course 2 of the First High School. He is the eldest son of Four Leaves Technology (FLT) company's president. His only sibling is Shiba Miyuki. Since he was born in April and Miyuki born in March, they are studying in the same year according to Japanese school system. He is known as a Weed, which is the considered the lower class.   He has a rather cold personality and he doesn't show his feelings, but he seems to love his sister and cares for her. He calms her down, when she's about to lose control over her magic and doesn't seem to mind that she is one of the most talented students at the school, while he's only a reserve.  He is not easily intimidated by his opponents.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-21",
+        "dateOfBirth": "2079-04-24"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55743-g5JD7Dj6iP7R.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55743
+      }
+    },
+    {
+      "id": "erika-chiba",
+      "name": "Erika Chiba",
+      "alt_names": [
+        "千葉エリカ"
+      ],
+      "role": "supporting",
+      "description": "A First year 2nd course student in E class with Tatsuya, Mikihiko, Leo and Mizuki  A beauty in her own right she is someone who garners attention from those around her.  She has an outgoing personality that allows her to befriend people easily but is someone who is not easily committed and goes off on a whim, (She doesnt get along with Leo though).  A member of one of the 'Hundreds Families' the Chiba family, a family famous for training people in swordsmanship. She herself is proficient in the sword, enough for her to be recognised and allowed to carry the Chiba family name.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72311-dfnWHh76AnU9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72311
+      }
+    },
+    {
+      "id": "azusa-nakajou",
+      "name": "Azusa Nakajou",
+      "alt_names": [
+        "中条あずさ"
+      ],
+      "role": "supporting",
+      "description": "A Second Year Student. The student council secretary of the First High School.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72563-E0zvek4ZgDGC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72563
+      }
+    },
+    {
+      "id": "haruka-ono",
+      "name": "Haruka Ono",
+      "alt_names": [
+        "小野遥"
+      ],
+      "role": "supporting",
+      "description": "Haruka is the general counselor at First High for 1st year A and E classes.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72569-HA0ZIHUdrlCn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72569
+      }
+    },
+    {
+      "id": "harunobu-kazama",
+      "name": "Harunobu Kazama",
+      "alt_names": [
+        "風間玄信"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b73187-rHGDN4FCLdjS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73187
+      }
+    },
+    {
+      "id": "katsuto-juumonji",
+      "name": "Katsuto Juumonji",
+      "alt_names": [
+        "十文字克人"
+      ],
+      "role": "supporting",
+      "description": "Katsuto is the Club Activities Group Leader of the First High School.  \n\nHe is the eldest child and heir of the Juumonji family, one of the 'Ten Number Clans'.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b73471-o0yGvY0Zeigz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73471
+      }
+    },
+    {
+      "id": "yakumo-kokonoe",
+      "name": "Yakumo Kokonoe",
+      "alt_names": [
+        "九重八雲"
+      ],
+      "role": "supporting",
+      "description": "Yakumo is an ancient magic \"Ninjutsu\" user. He is Tatsuya's martial arts master.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78043-kpcs8PV9g5Wq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 78043
+      }
+    },
+    {
+      "id": "kanon-chiyoda",
+      "name": "Kanon Chiyoda",
+      "alt_names": [
+        "千代田花音"
+      ],
+      "role": "supporting",
+      "description": "Kanon is a 2nd year course 1 student at First High.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78045-eVbwqk36ceSC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 78045
+      }
+    },
+    {
+      "id": "sayuri-shiba",
+      "name": "Sayuri Shiba",
+      "alt_names": [
+        "司波小百合"
+      ],
+      "role": "supporting",
+      "description": "Sayuri is the stepmother of [Tatsuya](https://anilist.co/character/55743/Tatsuya-Shiba) and [Miyuki](https://anilist.co/character/55741/Miyuki-Shiba).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b79163-zyAnhKuRis0E.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79163
+      }
+    },
+    {
+      "id": "hanzou-hattori",
+      "name": "Hanzou Hattori",
+      "alt_names": [
+        "服部範蔵",
+        "Hattori Gyoubushoujou Hanzou (服部刑部少丞範蔵)"
+      ],
+      "role": "supporting",
+      "description": "Hanzou is a Second Year Student. The student council vice president of the First High School.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88182-u4Ulc1H7dwi8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88182
+      }
+    },
+    {
+      "id": "suzune-ichihara",
+      "name": "Suzune Ichihara",
+      "alt_names": [
+        "市原鈴音"
+      ],
+      "role": "supporting",
+      "description": "Suzune is a third year student. She is the student council accountant of the First High School.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88183-3fkbbuQDq3Cf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88183
+      }
+    },
+    {
+      "id": "masaki-ichijou",
+      "name": "Masaki Ichijou",
+      "alt_names": [
+        "一条将輝",
+        "Crimson Prince"
+      ],
+      "role": "supporting",
+      "description": "Masaki is a first year attending Third High.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88184-cwGSKwJocrVf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88184
+      }
+    },
+    {
+      "id": "shinkurou-kichijouji",
+      "name": "Shinkurou Kichijouji",
+      "alt_names": [
+        "吉祥寺真紅郎",
+        "Cardinal George"
+      ],
+      "role": "supporting",
+      "description": "Shinkurou is a first year attending Third High.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88186-8Wc5JyhcJrfj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88186
+      }
+    },
+    {
+      "id": "takeaki-kirihara",
+      "name": "Takeaki Kirihara",
+      "alt_names": [
+        "桐原武明"
+      ],
+      "role": "supporting",
+      "description": "Takeaki is a second year student in course 1 of the First High School. He is in the Kenjustu Club.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88187-lcxzbEsLqXp0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88187
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T06:23:45.470Z"
+}

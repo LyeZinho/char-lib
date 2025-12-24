@@ -1,0 +1,414 @@
+{
+  "work_id": "fatestay-night-unlimited-blade-works",
+  "count": 15,
+  "characters": [
+    {
+      "id": "shirou-emiya",
+      "name": "Shirou Emiya",
+      "alt_names": [
+        "衛宮士郎",
+        "Emiyan",
+        "Sherou"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 167 cm \n\nShirou is the main character of Fate/stay night. He is a serious yet helpful, hardworking, and honest teenager. His hobbies include fixing a variety of broken things, from VCRs to stoves, as well as cooking and cleaning. He is initially confused about the Holy Grail War and attempts to irrationally shield others from danger, including his own Servant, Saber.",
+      "metadata": {
+        "gender": "male",
+        "age": "16-19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b496-GI0waavDjyk3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 496
+      }
+    },
+    {
+      "id": "rin-tohsaka",
+      "name": "Rin Tohsaka",
+      "alt_names": [
+        "遠坂凛",
+        "Rin Tousaka",
+        "Poppins of July",
+        "Red Devil",
+        "The Consultant",
+        "Red Evil",
+        "Kischur's Nightmare"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 124 cm (Fate/Zero), 159 cm (Fate/stay night)\n\nRin is a model student and idol of Shirou's school. She barely talks to other students in her school and exhibits a desire to be left alone, as exemplified by her tendency to stay on the school's rooftop, away from the rest of the students. She is also secretly a Magus and a Master in the Fifth Holy Grail War. In the beginning of the anime, she summons Archer for her Servant, although she originally wanted to summon Saber. Rin is reared as the successor to her family's magecraft, instructed by her father, Tokiomi Tohsaka, to prioritize sorcery over her own interests. After her father is killed, Rin continues to perfect her sorcery, with some guidance from her guardian, Kirei Kotomine. She strives to earn the admiration of her peers to avoid drawing attention to her private life, even though she is secretly stingy, tomboyish, and a perfectionist. She is perceptive, resourceful and avidly competitive.\n\n~!Rin is Sakura's older sister, but the two were forced to live apart by their father, Tokiomi. Rin once had a good relationship with Sakura before their separation, evident by a ribbon Sakura always kept. Rin later convinced herself that Sakura was living a happier life with the Matou family than she was living as the Tohsaka family heir, and this delusion blinded her to the knowledge that Sakura was only barely keeping her own sanity in check while constantly suffering. Rin went as far as to try to preserve Shirou's life for what she thought was entirely Sakura's sake. Rin had also decided that she would kill Sakura in the events of the Holy Grail War if it came down to it. However, ultimately, she could not bring herself to do it and took the blow without harming her.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17-19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b498-lwawtSpLyATL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 498
+      }
+    },
+    {
+      "id": "archer",
+      "name": "Archer",
+      "alt_names": [
+        "アーチャー",
+        "Wrought Iron Hero (錬鉄の英霊)",
+        "Faker (フェイカー)"
+      ],
+      "role": "protagonist",
+      "description": "__Height__: 187cm (6'1)\n\n__In Fate/stay night UBW:__  \n~!He is the Servant of one of the series' main heroines, Rin Tousaka. Due to an incomplete summon, he apparently has no memory of his previous life or identity. Archer is sarcastic and cynical but under his hardened exterior lies a complex and dark personality that unfolds throughout the story. Though skilled with ranged weapons, he can hold his own in melee combat. Archer considers Shirou Emiya's idealism to be weak and delusional, recognizing the mentality of \"wanting to save everyone\" as naive and impossible.\n\nArcher is actually a future version of Emiya Shirou, who became a hero through Emiya's wish to save innocent lives. After his death he became a Counter Guardian, a Spirit deployed to maintain balance and prevent humanity's extinction, but without the ability to act on his own he was forced to kill and face the fact that his ideals were not realizable time and time again. \n\nTo escape this cycle the only hope for EMIYA was to be summoned as a Heroic Spirit and kill his past self before he became a Counter Guardian, which would cause a time paradox and release him from the cycle.!~\n\n__In Fate/Grand Order - First Order:__ \n~!EMIYA was Blackened, a process by which a being is tainted by an outside force, causing their personality to be reversed toward the orientation of evil!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2087-l5WP4W4vmfJJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2087
+      }
+    },
+    {
+      "id": "artoria-pendragon",
+      "name": "Artoria Pendragon",
+      "alt_names": [
+        "アルトリア・ペンドラゴン",
+        "Saber (セイバー)",
+        "Altria Pendragon",
+        "King Arthur",
+        "King of Knights",
+        "Blue Saber",
+        "Arturia Pendragon",
+        "Goddess Rhongomyniad",
+        "Lion King",
+        "Elise Watoson",
+        "Once and Future King",
+        "Proud Knight-King",
+        "Arthur Pendragon"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 154 cm (5'1)\n\nArtoria Pendragon, better known as Arthur Pendragon and King Arthur, is regarded as a male in history but is actually female. She is the \"Once and Future King\" and a legendary hero of Britain known as the King of Knights. She used to wield the sword from the stone, Caliburn, but it was eventually destroyed and the Lady of the Lake gifted her with Excalibur and Avalon.\n\n__In Fate/Prototype:__ ~!He is presented as male instead, conserving his original name of Arthur Pendragon. Also called Prototype Saber, he is the Saber-class Servant under the control of [Ayaka Sajyou](https://anilist.co/character/54223).!~\n\n__In Fate/stay night:__ ~!Saber is summoned in the Fifth Holy Grail War as the Servant of [Shirou Emiya](https://anilist.co/character/496). Shirou had been having dreams of Excalibur in the days leading up to the start of the Holy Grail War after receiving his Command Spells and, while stumbling in his shed during his escape from [Lancer](https://anilist.co/character/499), Avalon, hidden inside him, reacts to the traces of a magic circle and summons Artoria as his Servant.!~\n\n__In Fate/stay night: Heaven's Feel:__ ~! Corrupted by [Angra Mainyu](https://anilist.co/character/120855), Artoria is vastly different from her normal self. She is also called Saber Alter/Black Saber. The results of her alteration is not only within Artoria's interior but also extends to her outward appearance. The color of her skin becomes pale, and the pupil of her eyes that were at first concealed behind a black visor during the moment of her summoning becomes golden from her original green eye color as well. Because the armor she wears was dyed jet black and grew in weight due to changing into a heavier armor, its power has increased more than normal.!~\n\n __In Fate/Zero:__ ~!Saber is summoned by [Kiritsugu Emiya](https://anilist.co/character/10010) to participate in the Fourth Holy Grail War on behalf of [Jubstacheit von Einzbern](https://anilist.co/character/16027) and the Einzbern family. Kiritsugu partners Saber with [Irisviel von Einzbern](https://anilist.co/character/15164), to act as Saber's Master in the open while he acts from behind to win with his own methods.!~ \n\n__In Fate/Grand Order - First Order:__  ~! She remains the corrupted version, known as Saber Alter.!~\n\n__In Fate/Grand Order Camelot:__ ~!The being called Goddess Rhongomyniad came into existence in the world that [Bedivere](https://anilist.co/character/8941), due to the wish of wanting his King to not perish after the battle of Camlainn, refused to throw Excalibur back into the Lake even after the third time.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "35 (chronologically), 15 (physically)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 497
+      }
+    },
+    {
+      "id": "cu-chulainn",
+      "name": "Cú  Chulainn",
+      "alt_names": [
+        "クー・フーリン",
+        "Lancer",
+        "光の御子",
+        "Child of Light",
+        "Blue Spearman of the Wind",
+        "クランの猛犬",
+        "Beast of Culann",
+        "Hound of Culann",
+        "Sétanta",
+        "Child of the Sun",
+        "Cú Alter",
+        "Mad King Cú Chulainn",
+        "Cú Chulainn (Alter)"
+      ],
+      "role": "supporting",
+      "description": "Born as Sètanta from a mortal woman, Deichtine, and the Sun God Lugh he's a Hero from the Ulster Cycle of Irish Mythology. He took the name Cú Chulainn after he killed the guard dog of the blacksmith Culann, said to be stronger than 10 men, when he was only a child. To make up to the old blacksmith he offered himself as a guard dog and since then was called Cú Chulainn, \"Culann's savage dog\".\n\nTrained in the Arts of the Spear and magic Runes by Scáthach, he wields the cursed Gàe Bolg, the spear that inflicts wounds that never heal. \n\n__In Fate/Stay Night:__ \n~! \nOriginally the servant of Bazett Fraga McRemitz, he becomes the Servant of Kirei Kotomine after Kirei fatally wounds Bazett and remains under his command for the duration of the War. !~\n\n__In Fate/Grand Order -First Order:__\n~! \nHe is a Caster-class servant. Unlike the other Servants, he's not blackened and aids Mash and Ritsuka in their task !~\n\n__In Fate/hollow Ataraxia:__ \n\n~!Caren Hortensia acts as his Master.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b499-gS5RAdupSKWQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 499
+      }
+    },
+    {
+      "id": "sakura-matou",
+      "name": "Sakura Matou",
+      "alt_names": [
+        "間桐桜"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 120 cm (Fate/Zero), 156 cm (Fate/stay night)\n\nA student in her first year of high school, Sakura is the sister of Shinji Mato. After Shirou's father Kiritsugu died, Sakura often visited Shirou's home to help him with his daily chores. She is outwardly shy and timid, but possesses great inner strength. Sakura has a long standing and obvious crush on Shirou Emiya.",
+      "metadata": {
+        "gender": "female",
+        "age": "16-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b500-NQrLbnBr1sDv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 500
+      }
+    },
+    {
+      "id": "shinji-matou",
+      "name": "Shinji Matou",
+      "alt_names": [
+        "間桐慎二",
+        "Seaweed"
+      ],
+      "role": "supporting",
+      "description": "Sakura Matou's older brother, and a long-time friend of Shirou. Shinji is very popular as vice-captain of the archery dojo despite being chauvinistic and a narcissist. Like Rin Tohsaka, he is of a distinguished lineage of sorcerers, though the Matou blood has thinned and no longer produces heirs naturally capable of sorcery. Shinji feels uncomfortable with his sister's daily visits to Shirou's home. He has an open crush on Rin, but she does not return his favors.  \n\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b501-yg63fxGVC6cK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 501
+      }
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "alt_names": [
+        "メドゥーサ",
+        "Rider (ライダー)",
+        "Bewitching Black Serpent",
+        "Gorgon (ゴルゴーン)"
+      ],
+      "role": "supporting",
+      "description": "~!Medusa is a Greek mythological figure described as a winged human female with living venomous snakes in place of hair. Those who gazed upon her face would turn to stone.\n \nWith her older sisters Stheno and Euryale, they made up the three Gorgon Sisters who inhabited the Shapeless Isle. She came into existence thanks to the thoughts and prayers of humans, who desired a perfect goddess, but she was cursed for her beauty and turned into a monster hated by all. She is thus not a Heroic Spirit but a monster closer to a Divine Spirit. \n\nDue to her nature, she can manifest through different aspects depending on which disposition is predominant (more or less monstrous)!~\n \nIn Fate/stay night\n~!She is the Rider-class Servant of Shinji Matou in the Fifth Holy Grail War of Fate/stay night.!~\n\nIn Fate/stay night: Heaven's Feel \n~!She only truly acts as Sakura's Servant when their connection is revealed in Heaven's Feel. !~\n\nIn Fate/Grand Order - First Order\n~! She is a Lancer-class Servant. Medusa is Blackened, a process by which a being is tainted by an outside force, causing their personality to be reversed toward the orientation of evil. !~\n\nIn Fate/Grand Order: Absolute Demonic Front Babylonia\n~!\nIn this singularity Medusa manifests as two separate beings: \n\nOne is Ana, a Lancer-class Servant without a Master. This incarnation represents the young Medusa, from a time when she wasn't known as the monster inhabiting the Shapless Ile. Though still wary of humans for casting her away, she is much closer to the perfect Goddess she was supposed to be.\n\nThe other one is Gorgon, an Avenger-class Servant. This incarnation represents Medusa as a man-eating monster. The burning hatred against the humans that exiled her and her sisters led her to become the very monster they accused her to be. Gorgon wields Tiamat's Authority which grants her the ability to generate Demonic Beasts. !~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b502-Nc5U3ghTR7Gy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 502
+      }
+    },
+    {
+      "id": "illyasviel-von-einzbern",
+      "name": "Illyasviel von Einzbern",
+      "alt_names": [
+        "イリヤスフィール・フォン・アインツベルン",
+        "Illya"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 133 cm\n**Birthday in [Fate/kaleid](https://anilist.co/manga/33526/): **Jul 20\n\nA young Teutonic aristocrat, she traveled to Japan to participate in the Holy Grail War as a Master. Illyasviel has an angelic appearance and an unsurpassed degree of magical power. She lives in a castle on the outskirts of Fuyuki City, accompanied only by her Servant and two maids. Illyasviel asks those she feels comfortable around to simply call her \"Illya\".",
+      "metadata": {
+        "gender": "female",
+        "age": "8 (Fate/Zero), 18 (Fate/stay night)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b503-SmS87yq6l2tD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 503
+      }
+    },
+    {
+      "id": "heracles",
+      "name": "Heracles",
+      "alt_names": [
+        "ヘラクレス",
+        "Berserker",
+        "バーサーカー",
+        "Hercules",
+        "Alcides",
+        "True Archer",
+        "Megalos"
+      ],
+      "role": "supporting",
+      "description": "In Fate/Stay Night\n~!The Servant of Illya, he is a swarthy giant with adamantine skin and gross brawn. He wields a colossal stone Axe-Sword, and is capable of causing massive destruction with the mere backlash of his swings. As a Berserker, he was stripped of his sanity and reason, acting feral and animalistic in combat. Berserkers are praised as members of the \"Strongest\" class, though they are difficult to control. Illya, however, appears to have little trouble managing Berserker.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b504-2k7LldrHYSAP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 504
+      }
+    },
+    {
+      "id": "taiga-fujimura",
+      "name": "Taiga Fujimura",
+      "alt_names": [
+        "藤村大河",
+        "Tiger-sensei",
+        "Fuji-nee",
+        "Disciple no. Zero",
+        "Zecchan"
+      ],
+      "role": "supporting",
+      "description": "__Height: __165 cm \n__Weight:__ 53kg \n\n She is an English teacher at Shirō's school, homeroom instructor of Shirō's class and the supervising teacher for the archery dojo. She is widely called \"Tiger\" (タイガー, Taigā), a nickname she dislikes (\"Taiga\" and \"Tiger\" sound similar in Japanese), though Shirō refers to her as \"Fuji-nee\" (older sister Fuji). After Kiritsugu died, Taiga became Shirō's guardian and has been living with him for several years. Taiga and Shirō are very close, and she regards him as a younger brother.  (Source: Wikipedia)  She's initially distrustful of Saber, believing that \"some strange woman was trying to take Shiro from her\" as she put it. She becomes exasperated whenever a new girl appears at Shiro's house, thinking he stashes girls at his house. Taiga always shows up for breakfast and dinner at Shiro's house to have some of Sakura's cooking, and always saves some scraps from breakfast for her lunch.   ~!During Rider's Blood Fort attack on Shiro's school, Taiga was the only person who could still move around somewhat. Begging Shinji Matou for help, he quickly kicks her in the head, knocking her unconscious. She recovers quickly though, even pigging-out on hospital food while recovering.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b505-QL0cNIE6Q0RI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 505
+      }
+    },
+    {
+      "id": "kirei-kotomine",
+      "name": "Kirei Kotomine",
+      "alt_names": [
+        "言峰綺礼"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 185cm (Fate/Zero), 193cm (Fate/stay night)\n\n~!Through an agreement between the Mages' Association and the Church, the Holy Grail Wars are moderated by a priest. Kirei's father was the mediator for the 4th Holy Grail War, and when he died, Kirei felt obligated to replace him. His selection as mediator is unusual, for Kirei is a member of both the Church and Mages' Association, organizations on hostile terms with one another. Since the death of Rin's father, he has also acted as an indirect caretaker for Rin.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "28 (Fate/Zero), 38 (Fate/stay night)",
+        "dateOfBirth": "1967-12-28"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b506-qeg0TqitdCMS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 506
+      }
+    },
+    {
+      "id": "gilgamesh",
+      "name": "Gilgamesh",
+      "alt_names": [
+        "ギルガメッシュ",
+        "Archer",
+        "King of Heroes",
+        "King of Kings",
+        "Golden King",
+        "King of Babylon",
+        "Oldest King",
+        "AUO",
+        "Gil-kun",
+        "Wedge of Heaven"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 182 cm\n\nGilgamesh is the King of Uruk, said to have reigned during the Sumer Dynasty in Mesopotamia 5000 years ago. He's the namesake Hero described in the Epic of Gilgamesh, making him the most ancient Hero on which all the others legends were modeled. This grants him the title of King of Heroes and, within his Gates of Babylon, the prototypes of all the Noble Phantasms of the Heroes yet to come. \n\nBorn from the human Lugalbanda, the King of Uruk, and the goddess Rimat-Ninsun, he was a being so perfect and transcendent to the point that he was two-thirds deity and one-third human. He was the chosen one that would guide humanity on the earth that was slowly abandoning the Age of Gods, but instead he grew up to be a selfish and arrogant despot.\n\nHis only friend and being he considered his equal was Enkidu.\n\n__In Fate/Zero:__\n~!\nInitially summoned as the Archer-class Servant of [Tokiomi Toosaka](https://anilist.co/character/16017/Tokiomi-Toosaka) in the 4th Holy Grail War, using the fossil of the first skin ever shed by a snake as a catalyst, he soon becomes bored with his Master and takes interest in Kirei Kotomine. Together they plot to kill Tokiomi and forge a new pact, with Gilgamesh pushing Kotomine to accept his true desires. He also takes interest in Iskandar as a worthy opponent to kill, and in Artoria, a tragic figure to take as his bride. \n\nIn the end, invested by the pollution of the Holy Grail, he is gifted a mortal body and is reincarnated in the world. !~\n\n__In Fate/strange Fake:__\n~!\nWithin the World of Fate/strange Fake, Servant Archer Gilgamesh was previously summoned in the Fourth Fuyuki Holy Grail War and participated in the Fifth Fuyuki Holy Grail War. But the Servant summoned in the False Holy Grail War is a new Servant without any memories of the Fuyuki Holy Grail Wars. \n\nHe is the first Servant summoned in the True and False Holy Grail War as the \"False\" Archer-class Servant of [Thine Chelc](https://anilist.co/character/87307/).\n!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2514
+      }
+    },
+    {
+      "id": "kojirou-sasaki",
+      "name": "Kojirou Sasaki",
+      "alt_names": [
+        "佐々木小次郎",
+        "Assassin (アサシン)"
+      ],
+      "role": "supporting",
+      "description": "He was summoned by Caster as a guardian and watchmen for the front gate of the Ryudo Temple. As an improper servant, Assassin is entirely dependent on Caster for mana and cannot move freely beyond the grounds of Ryudoji. Furthermore, he lacks most of the usual parameters and abilities granted to his class. Because of his limited status, Assassin cares little for the Holy Grail, and outside of his duties to Caster, he only seeks to enjoy a decent sword fight.   (from Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2585-rWFs7LihpIFZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2585
+      }
+    },
+    {
+      "id": "soichirou-kuzuki",
+      "name": "Soichirou Kuzuki",
+      "alt_names": [
+        "葛木宗一郎"
+      ],
+      "role": "supporting",
+      "description": "A well-built man with angular glasses, Kuzuki is the strict homeroom instructor of Rin&#039;s class. He primarily lectures on World History, though he also holds classes in Ethics. Kuzuki is well respected among staff and students, but he is widely regarded as austere and impersonal. (from Wikipedia)     ~! A serial killer, he is Caster&#039;s ally but acts more as her servant.  He is in love with Caster although he hides it completely.  He hid the fact that they had been defeated by the protagonists from Caster when she lay dying to spare her feelings; saying that victory was theirs he held her until she died, and perished himself immediately afterward.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b3439-N3HN8zxumCDP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 3439
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T02:47:45.980Z"
+}

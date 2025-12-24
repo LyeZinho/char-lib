@@ -1,0 +1,215 @@
+{
+  "work_id": "the-garden-of-words",
+  "count": 9,
+  "characters": [
+    {
+      "id": "takao-akizuki",
+      "name": "Takao Akizuki",
+      "alt_names": [
+        "秋月孝雄"
+      ],
+      "role": "protagonist",
+      "description": "A 15-year-old in his first year of high school. He hopes to become a shoemaker and practices on the side while he works his part-time job. His family circumstances have given him maturity beyond his years. He skips the first half of school on rainy days to think up new shoe designs in the garden.  (Source: official site)",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/79463.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79463
+      }
+    },
+    {
+      "id": "yukari-yukino",
+      "name": "Yukari Yukino",
+      "alt_names": [
+        "雪野百香里"
+      ],
+      "role": "protagonist",
+      "description": "The mysterious woman Takao met one rainy day in the garden. She spends her days with chocolate in one hand and a beer in the other. Their rainy morning meetings begin after she responds to Takao's greeting in classic verse.",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n79465-9RmwiUdbYlo9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79465
+      }
+    },
+    {
+      "id": "shouko-aizawa",
+      "name": "Shouko Aizawa",
+      "alt_names": [
+        "相沢硝子",
+        "Shoko Aizawa"
+      ],
+      "role": "supporting",
+      "description": "A proud girl in her third year of high school. She is never seen without company.  (Source:makotoshinkai.wikia.com/wiki/Shōko_Aizawa)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/79573.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79573
+      }
+    },
+    {
+      "id": "matsumoto",
+      "name": "Matsumoto",
+      "alt_names": [
+        "松本"
+      ],
+      "role": "supporting",
+      "description": "A classmate and close friend of Takao. He is dating a second-year girl named Satou.  (Source: official site)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/79575.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79575
+      }
+    },
+    {
+      "id": "satou",
+      "name": "Satou",
+      "alt_names": [
+        "佐藤"
+      ],
+      "role": "supporting",
+      "description": "In her second year of high school and Matsumoto's girlfriend. She has friends aplenty and is always well-informed about the latest bits of talk flying around the school.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/79579.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79579
+      }
+    },
+    {
+      "id": "reimi-akizuki",
+      "name": "Reimi Akizuki",
+      "alt_names": [
+        "秋月怜美"
+      ],
+      "role": "supporting",
+      "description": "A free-spirited divorced woman who, despite loving her family dearly, finds herself giving more attention to her romantic pursuits.\n\n(Source: Makoto Shinkai Fandom Wiki)",
+      "metadata": {
+        "age": "47",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/79583.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79583
+      }
+    },
+    {
+      "id": "shouta-akizuki",
+      "name": "Shouta Akizuki",
+      "alt_names": [
+        "秋月 翔太"
+      ],
+      "role": "supporting",
+      "description": "Like Takao, he's not sure what to make of his free-spirited mother. He has plans to leave the house and move in with his girlfriend.  (Source: official site)",
+      "metadata": {
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/79585.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79585
+      }
+    },
+    {
+      "id": "rika-teramoto",
+      "name": "Rika Teramoto",
+      "alt_names": [
+        "寺本 梨花"
+      ],
+      "role": "supporting",
+      "description": "Naturally cheerful, she is on good terms with Takao. She is from Kansai.  (Source: official site)",
+      "metadata": {
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/79587.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 79587
+      }
+    },
+    {
+      "id": "souichirou-itou",
+      "name": "Souichirou Itou",
+      "alt_names": [
+        "伊藤宗一郎",
+        "Soichiro Ito"
+      ],
+      "role": "supporting",
+      "description": "Souichirou Itou is a gym teacher at Takao's High School, He is Yukari Yukino's colleague and former boyfriend.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n134178-w0lVs07SadKx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 134178
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T10:09:01.086Z"
+}

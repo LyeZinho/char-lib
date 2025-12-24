@@ -1,0 +1,367 @@
+{
+  "work_id": "my-neighbor-totoro",
+  "count": 15,
+  "characters": [
+    {
+      "id": "satsuki-kusakabe",
+      "name": "Satsuki Kusakabe",
+      "alt_names": [
+        "草壁サツキ"
+      ],
+      "role": "protagonist",
+      "description": "Satsuki is Mei's older sister. As they wait, Mei eventually falls asleep on Satsuki's back and Totoro appears beside them, allowing Satsuki to see him for the first time. He only has a leaf on his head for protection against the rain, so Satsuki offers him the umbrella she had taken along for her father. In return he gives her a bundle of nuts and seeds.",
+      "metadata": {
+        "gender": "female",
+        "age": "10",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/267.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 267
+      }
+    },
+    {
+      "id": "mei-kusakabe",
+      "name": "Mei Kusakabe",
+      "alt_names": [
+        "草壁めい"
+      ],
+      "role": "protagonist",
+      "description": "Mei is Satsuki's younger sister; she is 4 years old. She is the first person that meets and befriends Totoro. Believing her mother's condition has worsened, she sets off on foot to the hospital and gets lost.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/268.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268
+      }
+    },
+    {
+      "id": "totoro",
+      "name": "Totoro",
+      "alt_names": [
+        "トトロ",
+        "Oo-totoro (大トトロ)",
+        "Big Totoro",
+        "Big Toto"
+      ],
+      "role": "protagonist",
+      "description": "One of three Totoro (Gods of the forest).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b269-sbPL4w1ygjSe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 269
+      }
+    },
+    {
+      "id": "kanta-oogaki",
+      "name": "Kanta Oogaki",
+      "alt_names": [
+        "大垣寛太"
+      ],
+      "role": "supporting",
+      "description": "A preteen boy of the village, with perhaps budding interest in Satsuki. This character resembles Miyazaki in his fondness for cartoons and airplanes.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/270.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270
+      }
+    },
+    {
+      "id": "nekobasu",
+      "name": "Nekobasu",
+      "alt_names": [
+        "ネコバス",
+        "Cat Bus"
+      ],
+      "role": "supporting",
+      "description": "One of the Totoro, the Cat Bus is something between a bus and a cat. It helps Satsuki to find her sister.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/271.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 271
+      }
+    },
+    {
+      "id": "tatsuo-kusakabe",
+      "name": "Tatsuo Kusakabe",
+      "alt_names": [
+        "草壁タツオ"
+      ],
+      "role": "supporting",
+      "description": "A university professor and father to Satsuki and Mei Kusakabe.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8047.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8047
+      }
+    },
+    {
+      "id": "yasuko-kusakabe",
+      "name": "Yasuko Kusakabe",
+      "alt_names": [
+        "草壁靖子"
+      ],
+      "role": "supporting",
+      "description": "Satsuki and Mei's mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8048.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8048
+      }
+    },
+    {
+      "id": "kanta-no-obaa-chan",
+      "name": "Kanta no Obaa-chan",
+      "alt_names": [
+        "カンタのおばあちゃん",
+        "Nanny",
+        "Kanta's Grandmother"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/11276.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 11276
+      }
+    },
+    {
+      "id": "makkuro-kurosuke",
+      "name": "Makkuro-Kurosuke",
+      "alt_names": [
+        "まっくろくろすけ",
+        "Susuwatari",
+        "Dust Bunnies",
+        "Soot Sprites"
+      ],
+      "role": "supporting",
+      "description": "The \"dust bunnies\" or \"soot sprites\" first featured in My Neighbor Totoro as shy, slightly frightful creatures that live in abandoned buildings such as houses. They later reappeared in Spirited Away as workers in Kamaji's boiler room. They are small, black as soot and apparently fuzzy, with spherical bodies and two inquisitive eyes. They move by hovering around, but they can extend stick-like legs and arms from their bodies to do certain tasks, and can lift objects many times heavier than their own weight. They make a squeaky murmuring sound when excited, and dissolve into powder (soot) if crushed.\n\nIn My Neighbour Totoro, the house the main characters move into is full of Susuwatari, which are rationalized as Makkuro Kurosuke (pitch-black blackie), an optical illusion caused by moving quickly from light into darkness. Later, the family drives the Susuwatari out of the house, as the home that was once abandoned is now inhabited. They would move to another abandoned area.\n\nIn Spirited Away, the protagonist Sen (Chihiro) befriends a number of them by helping them carry coal. Sen is told that if these Susuwatari aren't given a job to do, they turn back into soot. Another character, Lin, feeds the Susuwatari much like farmers feed chickens, throwing handfuls of the Japanese candy Kompeito onto the ground for them to eat.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13393-YggqgLU41aiP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 13393
+      }
+    },
+    {
+      "id": "chu-totoro",
+      "name": "Chu-totoro",
+      "alt_names": [
+        "中トトロ",
+        "Medium Totoro",
+        "Mid Toto"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b334519-fI50gaFFSkzh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 334519
+      }
+    },
+    {
+      "id": "shou-totoro",
+      "name": "Shou-totoro",
+      "alt_names": [
+        "小トトロ",
+        "Little Totoro",
+        "Mini Toto"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b334520-SIBl0iTlBni1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 334520
+      }
+    },
+    {
+      "id": "gakkou-no-sensei",
+      "name": "Gakkou no Sensei",
+      "alt_names": [
+        "学校の先生",
+        "森山玲子",
+        "Teacher"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279048-lurklnChwAJC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 279048
+      }
+    },
+    {
+      "id": "honke-no-obaa-chan",
+      "name": "Honke no Obaa-chan",
+      "alt_names": [
+        "本家のおばあちゃん",
+        "Head-house grandmother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279050-U97C3V4JZDpH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 279050
+      }
+    },
+    {
+      "id": "nousagyousha-ni-notteita-onna",
+      "name": "Nousagyousha ni Notteita Onna",
+      "alt_names": [
+        "農作業車に乗っていた女",
+        "Woman riding farm vehicle",
+        "良子ちゃん (Ryokou-chan)"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279051-JUTBrloZnNAn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 279051
+      }
+    },
+    {
+      "id": "nousagyousha-wo-unten-shiteita-otoko",
+      "name": "Nousagyousha wo Unten Shiteita Otoko",
+      "alt_names": [
+        "農作業車を運転していた男",
+        "Man driving farm vehicle"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279052-cQfXCwYWPBKU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 279052
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T00:20:27.522Z"
+}

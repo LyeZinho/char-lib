@@ -1,0 +1,379 @@
+{
+  "work_id": "solo-leveling-season-2-arise-from-the-shadow",
+  "count": 15,
+  "characters": [
+    {
+      "id": "jin-u-seong",
+      "name": "Jin-U Seong",
+      "alt_names": [
+        "성진우",
+        "Sung Jin-Woo",
+        "Shun Mizushino (水篠旬)",
+        "World's Weakest Hunter",
+        "2nd Rate Asian Hunter",
+        "The Weakest Hunter of All Mankind"
+      ],
+      "role": "protagonist",
+      "description": "__Class:__ Mage\n__Relative(s):__ [Park Kyung-Hye](https://anilist.co/character/209396/KyungHye-Park) (Mother), [Sung Jin-Ah](https://anilist.co/character/138791/JinAh-Sung) (Sister), ~![Sung Il-Hwan](https://anilist.co/character/138790/IlHwan-Sung) (Father), [Cha Hae-In](https://anilist.co/character/138789/HaeIn-Cha) (Wife), [Sung Su-Ho](https://anilist.co/character/306654/Suho-Sung) (Son), [Yoo Jin-Ho](https://anilist.co/character/136076/JinHo-Yoo) (Brother in Law)!~ \n~!__Guild:__ Ahjin Guild (Guild Master)\n__Affiliation:__ Korean Hunters Association (helper), White Tiger Guild (helper), Hunters Guild (helper), Knights Guild (helper), Ahjin Guild (Guild Master)!~\n\nSeong Jin-U is the protagonist of [Solo Leveling](https://anilist.co/manga/105398/Solo-Leveling/) and is known as an infamously weak E-Rank Hunter. He is a humble and benevolent individual who cares deeply for his family and has an ardent desire to become stronger. As a result, he shares a close relationship with his sister and his mother, and rarely wastes an opportunity to refine his skills and gain more power.\n\n~!He becomes an S-Rank hunter after being given a chance to become stronger by the System.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "23-24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129928
+      }
+    },
+    {
+      "id": "jin-ho-yu",
+      "name": "Jin-Ho Yu",
+      "alt_names": [
+        "유진호",
+        "Kenta Morobishi (諸菱賢太)",
+        "Yoo Jin-Ho"
+      ],
+      "role": "supporting",
+      "description": "__Class:__ Tanker\n__Guild:__ ~!Ahjin Guild (Vice-Guild Master)!~\n\nYoo Jin-Ho is a D rank hunter and is [Jin-U Seong](https://anilist.co/character/129928/JinWoo-Sung)'s faithful assistant and combat partner.",
+      "metadata": {
+        "gender": "male",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136076-D7eiE3pA9U8g.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136076
+      }
+    },
+    {
+      "id": "hae-in-cha",
+      "name": "Hae-In Cha",
+      "alt_names": [
+        "차해인",
+        "Shizuku Kousaka (向坂雫)",
+        "Blade Dancer"
+      ],
+      "role": "supporting",
+      "description": "__Guild:__ Hunters Guild\n__Class:__ Sword Fighter\n__Affiliations:__ Jeju Island Raid Party, [Song Chi-Yul](https://anilist.co/character/136073/ChiYul--Song)’s Dojo (Disciple)\n\nCha Hae-In is the Vice-Guild Master of the Hunters Guild. She is an S rank hunter and the 9th ranked hunter in South Korea. She possesses the unique ability of mana smell and hates the smell of hunters except for [Sung Jin-Woo](https://anilist.co/character/129928/JinWoo-Sung).",
+      "metadata": {
+        "gender": "female",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138789
+      }
+    },
+    {
+      "id": "yun-ho-baek",
+      "name": "Yun-Ho Baek",
+      "alt_names": [
+        "백윤호",
+        "Taiga Shirakawa (白川大虎)",
+        "Baek Yoon-Ho"
+      ],
+      "role": "supporting",
+      "description": "He is a S rank hunter and master of the White Tiger guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136077-IIMqRmMK5Fgs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136077
+      }
+    },
+    {
+      "id": "jong-in-choi",
+      "name": "Jong-In Choi",
+      "alt_names": [
+        "최종인",
+        "Shin Mogami (最上真)"
+      ],
+      "role": "supporting",
+      "description": "Choi Jong-In is one of the 10 S-Rank Hunters of South Korea. He is also the Guild Master of the Hunters Guild.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138794-dZNdO0pvZ659.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138794
+      }
+    },
+    {
+      "id": "jin-cheol-u",
+      "name": "Jin-Cheol U",
+      "alt_names": [
+        "우진철",
+        "Akira Inukai (犬飼晃)",
+        "Woo Jin-Chul",
+        "Wool Jinchu"
+      ],
+      "role": "supporting",
+      "description": "An A rank hunter that works for Hunter's association of Korea.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136819-okbPuuFAefYX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136819
+      }
+    },
+    {
+      "id": "jin-a-seong",
+      "name": "Jin-A Seong",
+      "alt_names": [
+        "성진아",
+        "Aoi Mizushino (水篠葵)",
+        "Sung Jin-Ah",
+        "Sung Jinah"
+      ],
+      "role": "supporting",
+      "description": "Younger sister of [Jin-U](https://anilist.co/character/129928).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138791-IngjgBQqGMWc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138791
+      }
+    },
+    {
+      "id": "geon-hui-go",
+      "name": "Geon-Hui Go",
+      "alt_names": [
+        "고건희",
+        "Kiyoomi Gotou (後藤清臣)",
+        "Go Gun-Hee"
+      ],
+      "role": "supporting",
+      "description": "Go Gun-Hee (고건희) is a South Korean S-Rank Hunter and the Chairman of the Korean Hunters Association.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138792-TXFrDA1wpbmo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138792
+      }
+    },
+    {
+      "id": "dong-su-hwang",
+      "name": "Dong-Su Hwang",
+      "alt_names": [
+        "황동수",
+        "Dongsoo Hwang",
+        "Masato Ukyou (右京将人)"
+      ],
+      "role": "supporting",
+      "description": "Hwang Dong-su is an​ S-class hunter who works for Scavenger's Guild in America.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136075-M6VRrZyHpaI5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136075
+      }
+    },
+    {
+      "id": "song-i-han",
+      "name": "Song-I Han",
+      "alt_names": [
+        "한송이",
+        "Song-Yi Han"
+      ],
+      "role": "supporting",
+      "description": "Han Song-I is an E-Rank hunter who quit school after gaining money through the Yoo Jin-Ho and Sung Jin-Woo motley group of party. She is friends with Sung Jin-Ah. She first appeared when Jin-Ah visited Jin-Woo in the hospital but she didn't know him then.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138793-eijpaPPkcipD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138793
+      }
+    },
+    {
+      "id": "baruka",
+      "name": "Baruka",
+      "alt_names": [
+        "바루카",
+        "Barca"
+      ],
+      "role": "supporting",
+      "description": "S-Rank Ice Elf and the boss of the Red Gate Dungeon.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184954-ITUjIeGETUf8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184954
+      }
+    },
+    {
+      "id": "igris",
+      "name": "Igris",
+      "alt_names": [
+        "이그리트",
+        "Ygritte"
+      ],
+      "role": "supporting",
+      "description": "Igris is one of the first Shadows that Sung Jin-Woo acquired. He was initially protecting an empty throne in an Instant Dungeon where Jin-Woo was doing his Job Quest in the Job Change Quest Dungeon.\n\nAfter two failed attempts of Shadow Extraction, Sung Jin-Woo convinced him to protect him instead of protecting an Empty throne, obtaining him as a Knight Grade Shadow.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145722-qSJ71S6vpeeM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145722
+      }
+    },
+    {
+      "id": "iron",
+      "name": "Iron",
+      "alt_names": [
+        "아이언"
+      ],
+      "role": "supporting",
+      "description": "A shadow Sung Jin-Woo gained after entering the Red Gate. ~!Before being reawakened as a Shadow he was Chul Kim (김철), an A-Rank Hunter of the White Tiger Guild.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184956-uy2dOVHacMsf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184956
+      }
+    },
+    {
+      "id": "tank",
+      "name": "Tank",
+      "alt_names": [
+        "탱크",
+        "Ice Bear"
+      ],
+      "role": "supporting",
+      "description": "Shadow of an ice bear that Jinwoo encountered during the Red Gate Incident.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184545-zoRmBPp8l7Mi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184545
+      }
+    },
+    {
+      "id": "tusk",
+      "name": "Tusk",
+      "alt_names": [
+        "어금니",
+        "Kiba (キバ)",
+        "Kargalgan (칼갈간)"
+      ],
+      "role": "supporting",
+      "description": "A shadow Sung Jin-Woo gained after entering the Hunters Guild Gate.\n\n~!Tusk is a shadow of Kargalgan, originally a High Orc Shaman defeated by Jinwoo Sung during the Hunters Guild Gate Arc. After being resurrected, Tusk becomes one of Jinwoo's most potent magic users, known for his devastating area-of-effect spells and high intelligence. Even as a Shadow, Tusk kept his powerful abilities and spells, making him just as capable and even stronger than when he was alive.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184957-b9X1TeiuteqR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184957
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T04:42:54.468Z"
+}

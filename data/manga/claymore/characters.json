@@ -1,0 +1,350 @@
+{
+  "work_id": "claymore",
+  "count": 15,
+  "characters": [
+    {
+      "id": "clare",
+      "name": "Clare",
+      "alt_names": [
+        "クレア",
+        "Claire"
+      ],
+      "role": "protagonist",
+      "description": "Clare is the series' protagonist. In the beginning of the series she is number 47 of the organization's 78th generation, making her the lowest ranked claymore. She also holds the distinction of becoming the first individual to willingly become a claymore.  Her goal is revenge against the awakened being Priscilla.  She saves Raki from a youma and takes him under her care because he reminds her of herself when she was younger.  Clare bears a striking physical resemblance to  [Ikuno](https://anilist.co/character/8568/Ikuno-Shirataki) from Angel Densetsu, Norihiro Yagi's previous manga.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2188-yjGSCtaC06Yh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2188
+      }
+    },
+    {
+      "id": "raki",
+      "name": "Raki",
+      "alt_names": [
+        "ラキ"
+      ],
+      "role": "protagonist",
+      "description": "__Race__: Human\n__Hometown__: Doga (Lautrec)  \n__Occupation__: Swordman  \n__Afiliations__: Claymore (Ally) ∕  Seven Ghost (Ally) \n__Generation__: Clare ~ Clarice \n__Know relatives__: Zaki (brother), Clare, ~!Priscilla, Isley!~\n\n Living in his peaceful village like any ordinary boy, Raki's life is changed forever when most of his family is killed by a Yoma. When the \"Claymore\" Clare arrives in Raki's town to kill the Yoma, it turns out the Yoma camouflaged itself as Raki's older brother after killing the other family members. After killing the Yoma and saving Raki, Clare leaves the town. However, the superstitious villagers throws Raki out, fearing that he might turn into a Yoma himself after being so close to one. Raki follows Clare, and is eventually allowed to accompany her as her cook.  But the true hardships has not yet begun for Clare and Raki...   ~!He begins learning swordsman ship under Isley of the north to become strong enough to help Clare, and is shown travelling with a regressed, child-like Priscilla. Raki is shown wearing Claymore-like Armour and wielding a massive broadsword. He easily defeats a Yoma pointed out to him by Priscilla and displays remarkable reflexes and speed. It is unknown how powerful he is in relation to Claymores or Awakened Beings, though he is shown wielding a sword somewhat larger than the ones wielded by the Claymores one handed and easily deflected the youma's attack using his forearm armor.  Raki's dialogue reveals that he now knows Priscilla's true nature. Raki also mentions that Priscilla's small frame is probably due to the fact that she has not eaten any human flesh for a few years, although she is probably \"at her limit\". He says that, should she submit to her hunger, he will attempt to stop her but acknowledges that he will probably fail and be eaten.  Later on he is impaled through the shoulder by an iron rod contaminated with tissue from an awakened being. Though he is the only survivor out of the entire village where it occurred, an infection has started to spread through his body, threatening to change him into a yoma. From sheer willpower, he manages to keep a slight grip on his humanity and keep the infection from spreading.The Claymore organization later takes him back to their headquarters to analyze what is happening to him.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/2208.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2208
+      }
+    },
+    {
+      "id": "miria",
+      "name": "Miria",
+      "alt_names": [
+        "ミリア",
+        "Phantom Miria"
+      ],
+      "role": "protagonist",
+      "description": "__Name:__ Miria\n__Alias:__ Phantom Miria\n__Rank Number:__ No.6 of 78th Generation\n__Type:__ Offensive\n__Special attack:__ Phantom Mirage\n\nMiria is Claymore No. 6 of the 78th generation. Her great speed leaves after-images of herself in battle, confusing the opponent, thus earning herself the nickname, &quot;Phantom Miria.&quot; She is also skilled at teamwork and tactics. Miria has long, pale blonde hair, styled in a razor-shag cut. She has silver eyes. After the Northern Campaign, she sometimes ties it in a ponytail. Miria has superior leadership qualities. But contrary to Organization aims, Miria takes personally the deaths of those under her command. She will go to great lengths to keep them alive, including disobeying the Organization&#039;s rules and orders. She can plan strategy under difficult conditions. Since Hilda&#039;s death, Miria lost all trust in the Organization and seeks its destruction.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2702-VPTwNJWL3ZXF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2702
+      }
+    },
+    {
+      "id": "deneve",
+      "name": "Deneve",
+      "alt_names": [
+        "デネヴ"
+      ],
+      "role": "protagonist",
+      "description": "Deneve is a defensive type Claymore, and thus sports powerful regenerative abilities.  She has a rather calm and empathetic personality, and is quite different from her friend Helen. She was part of the awakened-hunting squad led by Miria, along with Helen and Clare. Deneve is number 15 of the 78th generation",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2731-WrDFQ5ptu62q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2731
+      }
+    },
+    {
+      "id": "helen",
+      "name": "Helen",
+      "alt_names": [
+        "ヘレン"
+      ],
+      "role": "protagonist",
+      "description": "Number 22 in Clare&#039;s generation, Helen&#039;s specialty is attacking her enemies with her stretching arms, giving her a surprisingly long range of attack, as well as the ability to constrict the enemy. Hot tempered and aggressive, Helen mocked Clare because of her rank when she joined the hunting party, but she eventually grew to respect her later on.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2732-5VWqCclHaR11.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2732
+      }
+    },
+    {
+      "id": "rubel",
+      "name": "Rubel",
+      "alt_names": [
+        "ルヴル",
+        "Louvre"
+      ],
+      "role": "supporting",
+      "description": "One of the Organization's mysterious servants, he is Clare's contact, giving her the new missions received from the organization and collecting the reward money after each mission. Ageless and mysterious like his peers, his true nature is unknown, and some of his actions makes it look like he has his own obscure agenda.   ~! It is later revealed that he is a spy planted in the Organization by the outside continent's draconic tribe, and his main goal is to have the Organization to collapse from within itself.!~  His name can be spelled like \"Louvre\" (as in the name of the French museum).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2209-hRHRyBb8VcLG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2209
+      }
+    },
+    {
+      "id": "teresa",
+      "name": "Teresa",
+      "alt_names": [
+        "テレサ",
+        "Teresa of the Faint Smile"
+      ],
+      "role": "supporting",
+      "description": "Teresa is known for effortlessly slaying enemies with a faint smile on her face, is the strongest of her generation and considered to be the most powerful Claymore of all time. She is much faster, stronger, and more agile than those below her, but her real strength is considered to be her &quot;unparalleled ability to sense Yoma aura.&quot; She can sense it to the point where she can accurately predict her opponent&#039;s moves in battle. Despite facing an awakened former number one, Rosemary, she has never used more than ten percent of her full power, which is only enough to change her eye color. Before becoming a Claymore, she was referred to as a &quot;problem child&quot; by her handlers during her training. Teresa initially does her job without caring about who she is helping, and she takes pleasure in scaring humans. She eventually meets Clare, who decides to start following Teresa after being abandoned by her village. Teresa is initially irritated, but soon grows fond of her. \n\n~!After leaving Clare in a village in an attempt to give her a normal life, bandits raid the village. Teresa kills all of them, which causes her to be hunted by the Organization for breaking the rule of never killing humans. She doesn&#039;t kill any of the Claymores after her because of her time with Clare, but she is slain by Priscilla off guard when Priscilla begs to be slain before awakening. Clare takes her severed head and convinces a member of the Organization to use it in place of a Yoma to turn her into a Claymore.!~  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2398-6SjGbti0dhaE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2398
+      }
+    },
+    {
+      "id": "riful",
+      "name": "Riful",
+      "alt_names": [
+        "リフル",
+        "Riful of The West"
+      ],
+      "role": "supporting",
+      "description": "First Appearance: Volume 8 (Manga) Episode 15 (Anime)  Former Rank: #1  Type: unknown    Riful is the Abyssal One of the western territory. She was the number one in the first generation of female Claymores and the youngest ever to awaken. She presents herself as cheerful and polite, though she will instantly discard anyone who gets in the way of her goals. She lives with her lover, Dauf, and she constantly attempts to force strong Claymores to awaken, often through torture, in order to increase her companions. She later focuses her interest on matching Isley and Priscilla&#039;s power in order to stop them from advancing into her territory, and she finds the merged form of Rafaela and Luciela. She wishes to awaken the new being, and captures Ren&eacute;e for that reason.    Riful&#039;s awakened form retains a feminine humanoid form, but one composed of fleshy strips. Her lower body is an immense mass of such strips, which are incredibly resilient and capable of lashing out at high speeds to ensnare or impale her opponents. Her enemies often attempt to attack the humanoid portion, though it simply splits into the strips when attacked.     ~!After Rafaela/Luciela&#039;s Awakening and the chaos that ensued, Riful was attacked by the Abyssal Feeders and Alicia, and was rendered too weak to use her Awakened Form and left with one human leg remaining (forcing her to use some of her &quot;tentacles&quot; to help her stay upright). She burst into tears at the thought of dying like this and begged Dauf not to help her in fear of him dying. Before Alicia could kill her, Beth&#039;s Awakening and fight against Priscilla caused Alicia to abandon Riful and assist her sister, although she was killed in the process. This doesn&#039;t last for long, as Priscilla finds her Yoki and presumable kills Dauf and her. It turns out Duaf lived but deliberately according to Priscilla let himself be infected with the Destroyers Projectiles. After a surprise attack on Priscilla where he pounds her into the ground Duaf throws the top half of Riful&#039;s body on the ground. Deneve and Helen presume its a human woman&#039;s corpse which shows she has died as she emits no yoki and doesn&#039;t move.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/2622.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2622
+      }
+    },
+    {
+      "id": "irene",
+      "name": "Irene",
+      "alt_names": [
+        "イレーネ",
+        "Quick Sword"
+      ],
+      "role": "supporting",
+      "description": "Claymore number three (before Priscilla number two) of the 77th generation, she is known as \"Quick Sword Irene\", capable of lashing out innumerable lightning fast sword strikes by accumulating all her Youki energy in her sword arm.   ~!Even thought she was considered dead by the Organization, she merely lost an arm from the encounter with the Awakaned Priscilla. She saves Clare from Ophelia and teaches her the Quick Sword technique. Irene gives Clare her right arm, so she can control her technique better. After Clare leaves her shelter, Rafaela appears and kills Irene.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2623-OA6RnqAZY85B.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2623
+      }
+    },
+    {
+      "id": "priscilla",
+      "name": "Priscilla",
+      "alt_names": [
+        "プリシラ"
+      ],
+      "role": "supporting",
+      "description": "After losing her family to a Yoma attack, Priscilla decided to fight all she considered evil in the world. After joining the Organization, she quickly rose to rank no2, and even then she was said to still hold more powers, perhaps holding more potentional than any other Claymore before her. Like Teresa, Priscilla had the ability to fight with great power even without using her Youki, thus making her a dangerous opponent for anyone relying on reading the flow of Youki.  Priscilla was one of the four Claymores sent to execute Teresa when she strayed from the organization, but the catastrophic outcome of the battle spawned one of the most fearsome beings to ever haunt the world.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/2624.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2624
+      }
+    },
+    {
+      "id": "ermita",
+      "name": "Ermita",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "One of the Organization's members, he is the contact for Miria and Galatea.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/2770.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2770
+      }
+    },
+    {
+      "id": "galatea",
+      "name": "Galatea",
+      "alt_names": [
+        "ガラテア",
+        "God Eye"
+      ],
+      "role": "supporting",
+      "description": "Claymore number three of the seventyeight generation, Galatea acts as the organization's eye because of her superb Youki sensing ability. Galatea can sense not only the size of the Youki of her targets, but also their emotions and actions, from a long distance. Her ability can also be used offensively, as she is able to control other Youki users by channeling the energy inside them to serve her own will.    After the seven year timeskip it is revealed she hid in Rabona and cut her own eyes to avoid being noticed as a former warrior for the organization working as a nun for the orphanage. Incidentally this enhanced her yoki sensing abilities beyond what they were before.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2771-6dxfEck03vTC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2771
+      }
+    },
+    {
+      "id": "miata",
+      "name": "Miata",
+      "alt_names": [
+        "ミアータ",
+        "Blood Eyes"
+      ],
+      "role": "supporting",
+      "description": "__Name:__ Miata   __Nickname:__ The Blood Eye      __Rank:__ 4 [Clarice time]   __Type:__ Offensive     Miata is the current generations #4. She is known as Blood Eye by her peers. Her powers lie in her keen senses and brute strength.    Miata is a young girl with long hair which covers most of her face. She wears the standard Claymore uniform.     Miata is completely focused in battle and doesn&#039;t seem to get along with people she doesn&#039;t know. However she has now formed a strong, daughter-like attachment to Clarice, most likely because she is still just a child. Outside of battle she acts very much like a young child, even going as far as mimic breastfeeding from Clarice.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2836-6VD9tlhLt3an.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2836
+      }
+    },
+    {
+      "id": "ophelia",
+      "name": "Ophelia",
+      "alt_names": [
+        "オフィーリア",
+        "Rippling Ophelia",
+        "Blood-Soaked Warrior"
+      ],
+      "role": "supporting",
+      "description": "The infamous number four of the seventyeight class, Ophelia harbours an incredible bloodlust, and particularly enjoys killing awakened ones. However, as she finds killing so unbearably fun, she has no qualms about killing humans as well, and takes great care to slaughter all witnesses, thus avoiding persecution by the organization.  Ophelia is an offensive type, and her trademark ability is &quot;rippling&quot; her sword by waving it back and forth with great speed, making it very hard to block or dodge.  Her hatred for awakened beings stems from an event in her past, where a certain Awakened killed her brother.     ~!Her death on 8th volume can be a reference to literary work Hamlet (William Shakespeare) . More especific, a reference to the paint &quot;Ophelia&quot; by John Everett Millais.  (source: glossary contained in the 8th volume of Claymore - in portuguese -, made by Panini Brasil LTDA.)  !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2939-JpA9XBZWQMUH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2939
+      }
+    },
+    {
+      "id": "rafaela",
+      "name": "Rafaela",
+      "alt_names": [
+        "ラファエラ"
+      ],
+      "role": "supporting",
+      "description": "Number two of the seventysixth generation, Rafaela and her older sister were the subjects of one of the organizations experiments. The experiment ended in a horrible failure, in which Rafaela lost her eye, and she left the organization as an inactive Claymore. After a certain event, her skills were needed once more, and she became number five of the seventyeight class, acting as an assassin for the organization.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/3019.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 3019
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T11:09:49.325Z"
+}
