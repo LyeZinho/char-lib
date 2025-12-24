@@ -1,15 +1,15 @@
 {
-  "currentTypeIndex": 0,
-  "lastRun": "2025-12-24T19:18:07.941Z",
+  "currentTypeIndex": 1,
+  "lastRun": "2025-12-24T19:27:38.146Z",
   "stats": {
-    "totalCycles": 94,
-    "totalProcessed": 187,
+    "totalCycles": 95,
+    "totalProcessed": 189,
     "totalCharacters": 0,
     "byType": {
       "anime": {
-        "processed": 93,
+        "processed": 95,
         "characters": 0,
-        "cycles": 47
+        "cycles": 48
       },
       "manga": {
         "processed": 94,
