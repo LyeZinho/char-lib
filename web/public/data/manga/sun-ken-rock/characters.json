@@ -1,0 +1,340 @@
+{
+  "work_id": "sun-ken-rock",
+  "count": 15,
+  "characters": [
+    {
+      "id": "ken-kitano",
+      "name": "Ken Kitano",
+      "alt_names": [
+        "北野堅",
+        "Boss"
+      ],
+      "role": "protagonist",
+      "description": "A high-school delinquent and the primary protagonist who drops out of school and leaves Japan in pursuit of his love, Yumin. While in Korea he lives his life as a shut-in for an entire year being unable to find an actual job. After saving an old man from being killed by loan sharks, he was scouted and invited to join a local gang(gondal) to work under Tae-soo as one of his underlings.\n\nAfter fighting against Tae-soo, he was offered the position of boss instead. He initially declined since he wanted to join the police force alongside Yumin but Tae-soo eventually manipulates him into taking the position.\n\nHis strength and sense of justice earns him the loyalty of his gang and the local community. As the leader of the Sun-Ken Rock Gang, he often hides his true identity from others (ex.: he tells Yumin he works at a video game company as a cover). Ken's parents were killed during a Yakuza war when he was 13. The character design of Ken is heavily influenced from Vash of Trigun Manga.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13824-uuJRztM3RJ1n.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 13824
+      }
+    },
+    {
+      "id": "tae-soo-park",
+      "name": "Tae-Soo Park",
+      "alt_names": [
+        "朴泰秀"
+      ],
+      "role": "protagonist",
+      "description": "A Korean gangster and the true mastermind behind most of the gang's more underhanded actions. Originally the boss of the gang, he passed leadership over to Ken as he realized his potential and charisma. He serves as Ken's right-hand​ man, and has numerous underground connections and is in charge of handling the day-to-day business of the gang. He can be seen as the real evil behind the gang and is often doing dirty works for the gang, but his loyalty to Ken is unquestionable. He took over the gang after his father was killed. He was later put into a coma by Ban-Phuong's men. \n\n (Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13825-tGETDmpeDiNC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 13825
+      }
+    },
+    {
+      "id": "yumi-yoshizawa",
+      "name": "Yumi Yoshizawa",
+      "alt_names": [
+        "吉沢祐美",
+        "Yumin"
+      ],
+      "role": "protagonist",
+      "description": "Ken's love interest, a girl that left Japan to become a cop in the department in charge of organized crime. Her true name is Yumi and she is actually Japanese.    ~!She hates gangsters, later it is discovered that she is the daughter of a Japanese Yakuza Boss that killed Ken's parents. Her hatred of gangs is due to her mother and sister being killed by other Yakuza when she was young. As the daughter of a Yakuza boss, she has mastered some martial arts and is a very capable fighter. She also has feelings for Ken while not knowing he is an underworld boss. Later she was kidnapped by Kim Ban-Phuong's gang who hold her as their hostage. She is shocked when she finds that Ken is the boss. !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31889-umQXjl7DwD0F.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31889
+      }
+    },
+    {
+      "id": "kae-lyn-kim",
+      "name": "Kae-Lyn Kim",
+      "alt_names": [
+        "金恵隣"
+      ],
+      "role": "protagonist",
+      "description": "The sexy weapon instructor during the mountain training.   She is the female member of the gang and also the \"cleaner\" of the Sun-Ken Group. She is a weapons specialist, mainly knife, and is obsessed with Ken.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b37647-z2McQZHpXLoA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 37647
+      }
+    },
+    {
+      "id": "do-heun-chang",
+      "name": "Do-Heun  Chang",
+      "alt_names": [
+        "張頭弘"
+      ],
+      "role": "protagonist",
+      "description": "One of the members of the gang. He is known for his muscular physique but meek demeanor. Ken recruited Chang in a fight by using a variety of tactics to take him down. He loves his car and his hobby taking care of it.    ~!He apparently dies in Chapter 84 falling from a building under construction, but survives the fall thanks to his car. !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/37670.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 37670
+      }
+    },
+    {
+      "id": "san-ki-lee",
+      "name": "San-ki Lee",
+      "alt_names": [
+        "李爽崎",
+        "Marin"
+      ],
+      "role": "protagonist",
+      "description": "The first member of Tae-Soo's gang after the death of Tae-Soo's father long before the story begins and one of Ken's henchmen. He is loyal to both Tae-Soo and Ken. An Ex Korean soldier, he often fights dual-handed with wrenches.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/40861.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 40861
+      }
+    },
+    {
+      "id": "san-dae-yang",
+      "name": "San-dae Yang",
+      "alt_names": [
+        "梁相太",
+        "Pickaxe"
+      ],
+      "role": "protagonist",
+      "description": "One of the original members of Tae-Soo's gang and one of Ken's henchman. He dislikes Ken and often While his loyalty is sometimes questionable, he is highly competitive and does not back down from a fight. He left his village when he was 16 after he had sex with a farmer's wife. Later on San-dae finds his hometown turned into a US Army Base and realizes that he can never go back to his previous life. His nickname comes from the fact that he uses an actual pickaxe in combat.   (Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40862-rODkIBKu9XHW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 40862
+      }
+    },
+    {
+      "id": "bon-fuu-kim",
+      "name": "Bon-Fuu Kim",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Born to a Korean father and Vietnamese mother. Bon-fuu's parents met during the Vietnam war when his father was a soldier who saved his mother as a child from getting shot by Korean soldiers. Later he felt guilty and returned to Vietnam to apologize.   Bon-fuu was trained by his father and learned martial arts and when his father died, Bon-fuu went to South Korea and fell in love with the Vietnamese girl Hae-yi. Their relationship was sadly short lived as she committed suicide shortly after when a bunch of Korean men tried to rape her one day she was home alone. This caused Bon-fuu to join the Mafia. His status is currently unknown after he defeated Ken.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/32520.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 32520
+      }
+    },
+    {
+      "id": "ji-hae-yoo",
+      "name": "Ji-Hae  Yoo",
+      "alt_names": [
+        "Miss Yoo"
+      ],
+      "role": "supporting",
+      "description": "A Tea house barmaid in trouble with the local gang during the first chapters of the story.   ~! She has feelings for Ken and tried seducing him after Kim Bon-fuu defeated Ken. Before the gang goes to the mountain to train, they take her home to her village. But Ji-hae was caught and gang-raped, resulting in her parents committing suicide when they see pictures of their daughter being gang-raped posted throughout the village.  Ken finds her working in a Sex shop, due to this Ken decides to take over the pleasure district. She is put in charge of the pleasure district after Ken takes it over for her.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/37646.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 37646
+      }
+    },
+    {
+      "id": "rei-huzimi",
+      "name": "Rei Huzimi",
+      "alt_names": [
+        "Crow"
+      ],
+      "role": "supporting",
+      "description": "Rei was the bodyguard of Yumin's father who saved her from Yazuka, although Yumin confied him as her friend. He aslo bears a striking resemblance to Ken.    ~!Later, Rei develops feelings for her and is forced by her father to kill her, but he lost his hand by her after he tried to rape her.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/40137.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 40137
+      }
+    },
+    {
+      "id": "benito-armani",
+      "name": "Benito Armani",
+      "alt_names": [
+        "ベニト・アルマーニ",
+        "Italian Stallion"
+      ],
+      "role": "supporting",
+      "description": "An Italian man who is a failed pornographic actor. He is a ladies man and and is next in line to a powerful Italian Mafia. He joined Ken's gang with blessings from the mafia, with the hidden agenda to kill Ken if he grows too powerful. Although he is quite the ladies' man, he is troubled by premature ejaculation.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/43571.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 43571
+      }
+    },
+    {
+      "id": "ryu-yoshizawa",
+      "name": "Ryu Yoshizawa",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Yumin's father who is yazuka boss and is the one who killed Ken's parents.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59677-460rU3EoPrBg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59677
+      }
+    },
+    {
+      "id": "yang-bae",
+      "name": "Yang Bae",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "A Casino dealer and martial art fighter who fought Ken during the casino arc. He lost to Ken and became a member of the Sun-Ken Rock Group.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/59679.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59679
+      }
+    },
+    {
+      "id": "garugi",
+      "name": "Garugi",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "A gang leader who is responsible for Ji-hae's kidnap and rape. What Tae-soo did to him following the dissolution of his gang is unknown. Likely killed. He appears in the later chapters as now a broken homeless man living away from society.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b59681-FCeRz0BoWmWx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59681
+      }
+    },
+    {
+      "id": "han",
+      "name": "Han",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "The District attorney whom Yumin is working with.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/59683.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 59683
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T08:44:29.231Z"
+}

@@ -1,0 +1,360 @@
+{
+  "work_id": "the-legend-of-the-northern-blade",
+  "count": 15,
+  "characters": [
+    {
+      "id": "mu-won-jin",
+      "name": "Mu-Won Jin",
+      "alt_names": [
+        "진무원",
+        "Moo-Won Jin",
+        "The Northern Blade"
+      ],
+      "role": "protagonist",
+      "description": "The last descendant of the 4th generation leader of the Northern Heavenly Sect, Kwan-Ho Jin. With his supposed death 10 years ago, he reappears as the 5th generation leader of the Northern Heavenly Sect and given the title \"The Northern Blade\".",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b188800-Ak9ufC5L3rU0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 188800
+      }
+    },
+    {
+      "id": "ha-seol-eun",
+      "name": "Ha-Seol Eun",
+      "alt_names": [
+        "은하설"
+      ],
+      "role": "supporting",
+      "description": "Eun Ha-Seol is a mysterious girl who came across Jin Mu-Won after being attacked by a unknown assailant. After recuperating from her injuries, she gradually began to open to Mu-Won while rebuilding her strength and took it upon herself to defend him when the Northern Heavenly Sect was under attack before being rescued by her master, the Witch of the White Night Seo Geum-Hyang.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b255611-LQ4xajt018qz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 255611
+      }
+    },
+    {
+      "id": "soo-cheon-dam",
+      "name": "Soo-Cheon Dam",
+      "alt_names": [
+        "담수천",
+        "Lone Star of the Cerulean Sky",
+        "Heavenly Martial Emperor"
+      ],
+      "role": "supporting",
+      "description": "Dam Soo-Cheon, commonly known by his epithet Lone Star of the Cerulean Sky, is a martial master and the current family head of the Valley of No Return and a member of the Seven Lesser Heavens. He is the third son of Dam Jeok-Shim, a member of the Nine Skies. He, along with Seo-Moon Hye Ryung and Shim Won-Lee, created the Cerulean Dragon Society in order to allow young martial artists a great voice within the affairs of Murim.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320881-bV5PyqAeO70Y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320881
+      }
+    },
+    {
+      "id": "mu-sang-seo",
+      "name": "Mu-Sang Seo",
+      "alt_names": [
+        "서무상"
+      ],
+      "role": "supporting",
+      "description": "Seo Mu-Sang is introduced as a member of the Third Mercenary Group dispatched by the Central Heavenly Alliance to keep guard over Jin Mu-Won and served as its Vice Captain and Second in command. He was also the chief strategist of the group.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b257969-w3TZzbOqIE92.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 257969
+      }
+    },
+    {
+      "id": "jin-wol-ha",
+      "name": "Jin-Wol Ha",
+      "alt_names": [
+        "하진월",
+        "Three-Eyed Scholar"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b257968-RefcRaHWow2U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 257968
+      }
+    },
+    {
+      "id": "kwan-ho-jin",
+      "name": "Kwan-Ho Jin",
+      "alt_names": [
+        "진관호"
+      ],
+      "role": "supporting",
+      "description": "Known as the 4th generation leader of the Northern Heavenly Sect, Jin Kwan-Ho was unrivaled under the heavens and known by the title \"North Wall\". After decades of successfully defending the mainlands from the Silent Night, he was ultimately betrayed by his most trusted comrades and The Nine Skies. After giving up his own life with the request to spare his son, Jin Kwan-Ho unknowingly paved a horrible and treacherous path for his son.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199515-N6QeSF1TKfQS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199515
+      }
+    },
+    {
+      "id": "hwang-cheol",
+      "name": "Hwang-Cheol",
+      "alt_names": [
+        "황철"
+      ],
+      "role": "supporting",
+      "description": "Hwang-Cheol is a former warrior of the Northern Heavenly Sect. Self defense is the extent of his martial arts, and as such, he was the weakest warrior in the sect. However, he is unmatched in his devotion and loyalty towards the sect. Even after the dissolution of the sect, he remained loyal to the sect, and by extension, loyal to Jin Mu-Won. After the dissolution of the Northern Heavenly Sect, he worked as a wandering merchant and would do his best to bring supplies for Jin during Jin's adolescent years in the ruined Northern Heavenly Sect, and also helped Jin with supplies during Jin's time, training in the Jeokam mountains.. \n\n~!Post timeskip, he is seen working as a merchant and bodyguard with the White Dragon Merchant Troupe.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b255614-6g0ycYFBKuCu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 255614
+      }
+    },
+    {
+      "id": "mu-seong-yong",
+      "name": "Mu-Seong Yong",
+      "alt_names": [
+        "용무성"
+      ],
+      "role": "supporting",
+      "description": "Leader of the Iron Brigade.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b367929-D29chFBY58mI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 367929
+      }
+    },
+    {
+      "id": "hye-ryeong-seo-mun",
+      "name": "Hye-Ryeong Seo-Mun",
+      "alt_names": [
+        "서문혜령"
+      ],
+      "role": "supporting",
+      "description": "She is known for her intelligence.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b367930-0cKjrzZHnf4K.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 367930
+      }
+    },
+    {
+      "id": "yul-cheon-mo-yong",
+      "name": "Yul-Cheon Mo-Yong",
+      "alt_names": [
+        "모용율천"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b367931-d8IAyU9WCI2d.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 367931
+      }
+    },
+    {
+      "id": "yak-ran-chae",
+      "name": "Yak-Ran Chae",
+      "alt_names": [
+        "채약란",
+        "Unnatural Strength"
+      ],
+      "role": "supporting",
+      "description": "Chae Yak-Ran is the Vice-leader of the wandering mercenary group, the Iron Brigade.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320879-3XiOSGxPqDxF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320879
+      }
+    },
+    {
+      "id": "cheon-woo-jo",
+      "name": "Cheon-Woo Jo",
+      "alt_names": [
+        "조천우",
+        "Cheon-Woo"
+      ],
+      "role": "supporting",
+      "description": "Former member of the legendary Great Four Of The Northern Heavens and known as Demon Fist. After he colluded with the Nine Skies and betrayed the Northern Heavenly Sect he established the Broken Fist Sect in the Province of Unnam.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217820-sHvfAOmysliK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217820
+      }
+    },
+    {
+      "id": "dan-yeop-geum",
+      "name": "Dan-Yeop Geum",
+      "alt_names": [
+        "금단엽"
+      ],
+      "role": "supporting",
+      "description": "Geum Dan-Yeop is a member of The Silent Night who was orphaned after the destruction of his home, alongside his sister Eun Ha-Seol. His aim is to resurrect the sleeping Silent Night and awaken it to rise up against the Central Heavenly Alliance by kidnapping merchants in the province of Unnam and force Jo Cheon-Woo and his Broken Fist Sect to attack in retaliation.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b255613-NKTsOvY8nK60.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 255613
+      }
+    },
+    {
+      "id": "bul-yeong",
+      "name": "Bul-Yeong",
+      "alt_names": [
+        "불영"
+      ],
+      "role": "supporting",
+      "description": "Bul-Yeong is a member of the Shaolin Temple and is a member of the Nine Skies, a group of powerful and untouchable martial masters who ruled over the world of murim.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320876-0YaxMShL6MZn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320876
+      }
+    },
+    {
+      "id": "jeok-shim-dam",
+      "name": "Jeok-Shim Dam",
+      "alt_names": [
+        "담적심",
+        "Awakened Nirvana"
+      ],
+      "role": "supporting",
+      "description": "Dam Jeok-Shim also known by his epithet, Awakened Nirvana is a martial master and member of the Nine Skies. He has three sons with three wives. Dam Jeok-Shim is a hedonist and doesn't really care for his sons. His son and successor despises him.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320880-Sa43GJmLpF5n.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320880
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T09:55:31.931Z"
+}

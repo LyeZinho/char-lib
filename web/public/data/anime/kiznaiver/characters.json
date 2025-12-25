@@ -1,0 +1,350 @@
+{
+  "work_id": "kiznaiver",
+  "count": 15,
+  "characters": [
+    {
+      "id": "katsuhira-agata",
+      "name": "Katsuhira Agata",
+      "alt_names": [
+        "阿形勝平"
+      ],
+      "role": "protagonist",
+      "description": "The story's protagonist. His sense of pain and his own feelings are dulled. His moods barely fluctuate, and he pays little attention to other people.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89294-nY2S6PBQJ1rS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89294
+      }
+    },
+    {
+      "id": "noriko-sonozaki",
+      "name": "Noriko Sonozaki",
+      "alt_names": [
+        "園崎法子",
+        "Nori-chan"
+      ],
+      "role": "protagonist",
+      "description": "A mysterious and beautiful girl who experienced kizuna (connection) with Katsuhira and the others, and assigns them missions. She is even more emotionless than Katsuhira, and feels no human kindness.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89295-kkcSVFCgqP8L.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89295
+      }
+    },
+    {
+      "id": "chidori-takashiro",
+      "name": "Chidori Takashiro",
+      "alt_names": [
+        "高城千鳥"
+      ],
+      "role": "protagonist",
+      "description": "Chidori resembles the sin of Envy. Her updated sin is \"Goody-Two-Shoes.\" Her identification when she experiences pain is D-5. \n\nChidori was first portrayed as clumsy, emotional, and seemingly nosy at times. She seems to sincerely care about all of the other Kiznaivers, especially [Katsuhira Agata](https://anilist.co/character/89294/Katsuhira-Agata) _(Chidori's childhood friend)_ and tries to cheer them up when they're upset. She got embarrassed rather easily, and had been told by [Tsuguhito Yuta](https://anilist.co/character/89567/Tsuguhito-Yuta) that she was \"too heavy\" when it comes to her emotions. If too embarrassed or irritated, she would hit the person who caused those feelings. \n\nChidori was called \"Two-Goody Shoes\" by [Noriko Sonozaki.](https://anilist.co/character/89295/Noriko-Sonozaki) She has a tendency to take care of others, as seen when she cooks meals for Katsuhira and [Hajime Tenga,](https://anilist.co/character/89565/Hajime-Tenga) and also when she tries to solve Katushira's problems for him by talking to the teachers about his being bullied and demanding that the bullies return his money. She is very defensive of her friends, especially Katsuhira because she knows he won't defend himself out of apathy. \n\n~!Chidori fell in love with Katsuhira during their childhood and very much wished for him to return to his original kind and funny personality. She was very upset when she realized that he would not return her feelings, but also understood that she could not make him do so and that continuing to try would be selfish of her.\n\nIn the end of the anime, it looks like she might end up having feelings for Tenga in the future.!~\n\n(Source: Kiznaiver Wikia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89564-RUaACrDSgya7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89564
+      }
+    },
+    {
+      "id": "hajime-tenga",
+      "name": "Hajime Tenga",
+      "alt_names": [
+        "天河 一"
+      ],
+      "role": "protagonist",
+      "description": "Of the Seven Deadly Sins of Modern-Day Japan, Tenga's sin is that of the \"Musclehead Thug.\" However, while he is known among his peers as an unpredictable and intimidating delinquent, his true personality holds a deep-seated desire to help others.\n\nIn the proper spirit of the \"Musclehead,\" Tenga is an incredibly energetic and physically strong person who many times acts on a whim in order to push through and keep events moving along. In spite of his image, however, he in many situations can display some of the highest practical intelligence and observational skills among the seven Kiznaivers, easily able to glean the root of a problem without much effort.\n\nAlthough his nature is typically thoughtful and concerned for others, when he is faced with strong negative emotions such as jealousy, Tenga is capable of displaying liberal amounts of selfishness to the point of extreme senseless violence. Still, even in such rare cases, he eventually comes to terms deep down that his actions were misguided. \n\n(Source: Kiznaiver Wikia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89565-qabEY4S7kwYF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89565
+      }
+    },
+    {
+      "id": "nico-niiyama",
+      "name": "Nico Niiyama",
+      "alt_names": [
+        "新山仁子"
+      ],
+      "role": "protagonist",
+      "description": "Nico resembles the sin of Greed. In modern Japan, her sin is 'The Eccentric Headcase' _(Japanese: 不思議メンヘラ, Romanized: Fushigi Menhera, Official English Translation: \"Screw Loose\")._ Her identification when she experiences pain is D-6. \n\nNico appears to be bright and energetic, often being the comic relief of the series. She tends to overreact or be very dramatic when experiencing new things, and acts very feminine.\n\nHowever, Nico is shown to be rather perceptive in the series, much to her companions' surprise.\n\nSince she came from a wealthy family, it is implied that she has polite and lady-like manners. \n\n(Source: Kiznaiver Wikia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89566-Md1ESVwIiRp4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89566
+      }
+    },
+    {
+      "id": "tsuguhito-yuta",
+      "name": "Tsuguhito Yuta",
+      "alt_names": [
+        "由多次人"
+      ],
+      "role": "protagonist",
+      "description": "A bit of an opportunist and a lady's man in the classroom, he is revealed to be intensely ashamed of his immense chubbiness back in his grade school years, and goes through great lengths to conceal this fact. He places great emphasis on his own appearance and prefers the company of similarly attractive people, acknowledging these facts even, yet at the same time is shown in several instances to be able to look past people's superficial features; as a result of this, he can be surprisingly intuitive at times. Yuta speaks his mind with a candid tongue (such as when he told [Honoka Maki](https://anilist.co/character/89568/Honoka-Maki) that she had a \"terrible personality\"), and possesses a kind heart underneath the rest of his personality.\n\n~!After the incident in episode 12, he is shown eating with Honoka. She only eats one bite and offers it to him. He gladly accepts because of an \"indirect kiss\" but he questions why she would do that. Honoka says that she wants Yuta to get fat so people will stop chasing him for his good looks. Yuta's whole face turns red and Honoka starts walking away with Yuta chasing after her. !~ \n\n(Source: Kiznaiver Wikia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89567-ahrF6lNGAZHQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89567
+      }
+    },
+    {
+      "id": "honoka-maki",
+      "name": "Honoka Maki",
+      "alt_names": [
+        "牧穂乃香"
+      ],
+      "role": "protagonist",
+      "description": "Maki is first introduced along with the other main cast after [Noriko Sonozaki](https://anilist.co/character/89295/Noriko-Sonozaki) confronts [Katsuhira Agata](https://anilist.co/character/89294/Katsuhira-Agata) about the Kizna Project. Her sin is revealed to be \"Pride\". She, along with the other Kiznaivers are then abducted by the Gomorin and has her senses connected together.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89568-fDvp8O6rPHcw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89568
+      }
+    },
+    {
+      "id": "yoshiharu-hisomu",
+      "name": "Yoshiharu Hisomu",
+      "alt_names": [
+        "日染芳春"
+      ],
+      "role": "protagonist",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89569-2bz1JPmhIddY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89569
+      }
+    },
+    {
+      "id": "kazunao-yamada",
+      "name": "Kazunao Yamada",
+      "alt_names": [
+        "山田一直"
+      ],
+      "role": "supporting",
+      "description": "Kazunao Yamada takes no interest in the personal lives of his students and is very apathetic. He has no motivation to work hard and only shows interest in Bishoujo style games and cheap food. He also enjoys teasing his students.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127643-WKiPPfmiOz7O.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127643
+      }
+    },
+    {
+      "id": "mutsumi-urushibara",
+      "name": "Mutsumi  Urushibara",
+      "alt_names": [
+        "漆原睦"
+      ],
+      "role": "supporting",
+      "description": "is the counsellor of the school Katsuhira is attending. She's a mysterious woman who's almost always seen wearing a white coat.\n\nInitially, Mutsumi comes off as cold, somewhat sarcastic, and even frightening, such as when she pulls out a gun in front of two students in an arcade. In later episodes, she is shown to have caring and motherly qualities",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155614-k7cdYaH8kMdi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155614
+      }
+    },
+    {
+      "id": "shichou",
+      "name": "Shichou",
+      "alt_names": [
+        "市長",
+        "Mayor"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184069-ducu3rDZ4h9G.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184069
+      }
+    },
+    {
+      "id": "atsugi",
+      "name": "Atsugi",
+      "alt_names": [
+        "厚木"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184070-v7a1Ez9C4cYC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184070
+      }
+    },
+    {
+      "id": "kamaishi",
+      "name": "Kamaishi",
+      "alt_names": [
+        "釜石"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184071-WF6NxY8atvcd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184071
+      }
+    },
+    {
+      "id": "ruru-no-chichi",
+      "name": "Ruru no Chichi",
+      "alt_names": [
+        "瑠々の父",
+        "Ruru's Father"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184072-C04nn3n6YAUQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184072
+      }
+    },
+    {
+      "id": "ruru-no-haha",
+      "name": "Ruru no Haha",
+      "alt_names": [
+        "瑠々の母",
+        "Ruru's Mother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184073-ZpWnWpcfbI2q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184073
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T07:24:09.304Z"
+}

@@ -338,697 +338,180 @@
     "14513",
     "146065",
     "33986",
-    "86082"
+    "86082",
+    "99255",
+    "21875",
+    "132182",
+    "106064",
+    "110349",
+    "20727",
+    "97830",
+    "86559",
+    "223",
+    "146984",
+    "87178",
+    "98587",
+    "20668",
+    "47",
+    "44790",
+    "85189",
+    "97938",
+    "100922",
+    "75757",
+    "30657",
+    "4181",
+    "159831",
+    "105393",
+    "55132",
+    "100723",
+    "109261",
+    "85412",
+    "38967",
+    "21127",
+    "103139",
+    "31517",
+    "85564",
+    "99629",
+    "108759",
+    "86300",
+    "30664",
+    "113717",
+    "108489",
+    "137280",
+    "85307",
+    "100668",
+    "21366",
+    "105097",
+    "106758",
+    "158927",
+    "20770",
+    "85215",
+    "86770",
+    "108430",
+    "21175",
+    "126693",
+    "149544",
+    "129201",
+    "100977",
+    "98328",
+    "39711",
+    "227",
+    "20792",
+    "73661",
+    "109957",
+    "20910",
+    "21421",
+    "99022",
+    "85802",
+    "143270",
+    "108928",
+    "120980",
+    "43492",
+    "131646",
+    "849",
+    "38848",
+    "86848",
+    "101004",
+    "127911",
+    "86099",
+    "106929",
+    "153518",
+    "155783",
+    "119521",
+    "30912",
+    "103223",
+    "21711",
+    "94970",
+    "30024",
+    "10408",
+    "20457",
+    "44440",
+    "86136",
+    "877",
+    "578",
+    "112981",
+    "123573",
+    "20993",
+    "12355",
+    "101177",
+    "98291",
+    "15451",
+    "119174",
+    "85316",
+    "112124",
+    "11843",
+    "98334",
+    "107282",
+    "21403",
+    "103047",
+    "144957",
+    "63031",
+    "20631",
+    "21196",
+    "85911",
+    "38586",
+    "2251",
+    "21700",
+    "33008",
+    "150378",
+    "105156",
+    "1210",
+    "65573",
+    "85734",
+    "114308",
+    "457",
+    "149332",
+    "33866",
+    "11887",
+    "21595",
+    "132144",
+    "136220",
+    "20994",
+    "4654",
+    "163824",
+    "118408",
+    "11597",
+    "21685",
+    "107521",
+    "114416",
+    "177709",
+    "18507",
+    "55297",
+    "138603",
+    "20966",
+    "131518",
+    "30698",
+    "87208",
+    "129898",
+    "114232",
+    "31630",
+    "32921",
+    "356",
+    "111762",
+    "33378",
+    "118424",
+    "116674",
+    "98034",
+    "41054",
+    "85470",
+    "20626",
+    "97994",
+    "30004",
+    "30743",
+    "114963",
+    "142770",
+    "87459",
+    "117460",
+    "2890",
+    "185660",
+    "109501",
+    "85442",
+    "21701",
+    "512",
+    "33006",
+    "159441"
   ],
   "queue": [
-    {
-      "id": 132182,
-      "title": "Ao no Hako",
-      "popularity": 48223,
-      "score": 81,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 106064,
-      "title": "Mato Seihei no Slave",
-      "popularity": 48223,
-      "score": 74,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 97830,
-      "title": "Fumetsu no Anata e",
-      "popularity": 47286,
-      "score": 80,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 86559,
-      "title": "Golden Kamuy",
-      "popularity": 47102,
-      "score": 86,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 87178,
-      "title": "BORUTO: NARUTO NEXT GENERATIONS",
-      "popularity": 46509,
-      "score": 66,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 98587,
-      "title": "BEASTARS",
-      "popularity": 46036,
-      "score": 80,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 44790,
-      "title": "Magi",
-      "popularity": 45994,
-      "score": 81,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 85189,
-      "title": "Mob Psycho 100",
-      "popularity": 45921,
-      "score": 85,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 75757,
-      "title": "Shokugeki no Souma",
-      "popularity": 45649,
-      "score": 74,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30657,
-      "title": "Real",
-      "popularity": 44843,
-      "score": 89,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 105393,
-      "title": "Gwihwanjaui Mabeobeun Teukbyeolhaeya Hamnida",
-      "popularity": 44663,
-      "score": 76,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 55132,
-      "title": "Akame ga Kill!",
-      "popularity": 44604,
-      "score": 74,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 85412,
-      "title": "Shoujo Shuumatsu Ryokou",
-      "popularity": 44384,
-      "score": 86,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 38967,
-      "title": "Onani Master Kurosawa",
-      "popularity": 44105,
-      "score": 82,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 31517,
-      "title": "JoJo no Kimyou na Bouken: Phantom Blood",
-      "popularity": 44027,
-      "score": 70,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 85564,
-      "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
-      "popularity": 43989,
-      "score": 78,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 86300,
-      "title": "Tomo-chan wa Onnanoko!",
-      "popularity": 43855,
-      "score": 77,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30664,
-      "title": "AKIRA",
-      "popularity": 43410,
-      "score": 84,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 137280,
-      "title": "Na Honja Mallep Newbie",
-      "popularity": 43037,
-      "score": 77,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 85307,
-      "title": "Bungou Stray Dogs",
-      "popularity": 42968,
-      "score": 83,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 105097,
-      "title": "Mieruko-chan",
-      "popularity": 42686,
-      "score": 77,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 106758,
-      "title": "Kage no Jitsuryokusha ni Naritakute!",
-      "popularity": 42677,
-      "score": 80,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 85215,
-      "title": "All You Need Is Kill",
-      "popularity": 42558,
-      "score": 74,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 86770,
-      "title": "Totsukuni no Shoujo",
-      "popularity": 42442,
-      "score": 82,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 126693,
-      "title": "Choujin X",
-      "popularity": 42117,
-      "score": 75,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 149544,
-      "title": "Ki ni Natteru Hito ga Otoko Janakatta",
-      "popularity": 41653,
-      "score": 83,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 98328,
-      "title": "Jagaaaaaan",
-      "popularity": 41440,
-      "score": 73,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 39711,
-      "title": "Bakuman.",
-      "popularity": 41385,
-      "score": 81,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 73661,
-      "title": "Owari no Seraph",
-      "popularity": 41085,
-      "score": 75,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 109957,
-      "title": "Dubeon Saneun Ranker",
-      "popularity": 40625,
-      "score": 77,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 99022,
-      "title": "Kusuriya no Hitorigoto",
-      "popularity": 40601,
-      "score": 85,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 85802,
-      "title": "Domestic na Kanojo",
-      "popularity": 40561,
-      "score": 68,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 120980,
-      "title": "Nano Machine",
-      "popularity": 40318,
-      "score": 82,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 43492,
-      "title": "Ao no Exorcist",
-      "popularity": 40095,
-      "score": 76,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 38848,
-      "title": "Sun-Ken Rock",
-      "popularity": 39936,
-      "score": 75,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 86848,
-      "title": "Oemo Jisangjuui",
-      "popularity": 39727,
-      "score": 78,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 86099,
-      "title": "Wind Breaker",
-      "popularity": 39385,
-      "score": 85,
-      "episodes": null,
-      "status": "CANCELLED"
-    },
-    {
-      "id": 106929,
-      "title": "Eleceed",
-      "popularity": 39116,
-      "score": 85,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 119521,
-      "title": "Bukgeom Jeongi",
-      "popularity": 39096,
-      "score": 85,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30912,
-      "title": "Tomie",
-      "popularity": 39084,
-      "score": 76,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 94970,
-      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
-      "popularity": 38936,
-      "score": 86,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30024,
-      "title": "D.Gray-man",
-      "popularity": 38916,
-      "score": 81,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 44440,
-      "title": "I Am a Hero",
-      "popularity": 38853,
-      "score": 74,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 86136,
-      "title": "Happiness",
-      "popularity": 38838,
-      "score": 73,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 112981,
-      "title": "Kubo-san wa Mob wo Yurusanai",
-      "popularity": 38763,
-      "score": 78,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 123573,
-      "title": "Baekjakgaui Mangnaniga Doeeotda",
-      "popularity": 38714,
-      "score": 78,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 87347,
-      "title": "Given",
-      "popularity": 38560,
-      "score": 83,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 101177,
-      "title": "Tonikaku Kawaii",
-      "popularity": 38451,
-      "score": 80,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 119174,
-      "title": "The Boxer",
-      "popularity": 38438,
-      "score": 83,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 85316,
-      "title": "Dead Dead Demon's Dededededestruction",
-      "popularity": 38284,
-      "score": 81,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 98334,
-      "title": "Ao no Flag",
-      "popularity": 38189,
-      "score": 80,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 107282,
-      "title": "Kawaii dake ja Nai Shikimori-san",
-      "popularity": 37835,
-      "score": 74,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 144957,
-      "title": "Myeolmang Ihuui Segye",
-      "popularity": 37765,
-      "score": 77,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 63031,
-      "title": "Imawa no Kuni no Alice",
-      "popularity": 37756,
-      "score": 82,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 85911,
-      "title": "Tomodachi Game",
-      "popularity": 37361,
-      "score": 81,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 38586,
-      "title": "The Breaker",
-      "popularity": 37278,
-      "score": 80,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 33008,
-      "title": "JoJo no Kimyou na Bouken: Ougon no Kaze",
-      "popularity": 36773,
-      "score": 79,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 150378,
-      "title": "Gokurakugai",
-      "popularity": 36652,
-      "score": 76,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 65573,
-      "title": "orange",
-      "popularity": 36454,
-      "score": 79,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 85734,
-      "title": "Tamen De Gushi",
-      "popularity": 36123,
-      "score": 82,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 149332,
-      "title": "Geomsulmyeongga Mangnaeadeul",
-      "popularity": 36014,
-      "score": 79,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 33866,
-      "title": "Kuroshitsuji",
-      "popularity": 35927,
-      "score": 81,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 132144,
-      "title": "Hwasangwihwan",
-      "popularity": 35809,
-      "score": 84,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 136220,
-      "title": "Tusinjeonsaenggi",
-      "popularity": 35643,
-      "score": 79,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 163824,
-      "title": "Cheolhyeolgeomga Sanyanggaeui Hoegwi",
-      "popularity": 35578,
-      "score": 80,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 118408,
-      "title": "Agyeogui Ending Jugeumppun",
-      "popularity": 35408,
-      "score": 84,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 107521,
-      "title": "Eoneu Nal Gongjuga Doeeobeoryeotda",
-      "popularity": 35323,
-      "score": 83,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 114416,
-      "title": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
-      "popularity": 35138,
-      "score": 77,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 55297,
-      "title": "Prison School",
-      "popularity": 35070,
-      "score": 71,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 138603,
-      "title": "Hikaru ga Shinda Natsu",
-      "popularity": 35044,
-      "score": 82,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 30698,
-      "title": "Shin Seiki Evangelion",
-      "popularity": 35017,
-      "score": 84,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 87208,
-      "title": "Shimanami Tasogare",
-      "popularity": 34652,
-      "score": 84,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 31630,
-      "title": "JoJo no Kimyou na Bouken: Sentou Chouryuu",
-      "popularity": 34579,
-      "score": 78,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 32921,
-      "title": "Kaichou wa Maid-sama!",
-      "popularity": 34447,
-      "score": 81,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 33378,
-      "title": "Kimi ni Todoke",
-      "popularity": 34412,
-      "score": 82,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 118424,
-      "title": "4000 Nyeon Mane Gwihwanhan Daemadosa",
-      "popularity": 34269,
-      "score": 76,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 41054,
-      "title": "Billy Bat",
-      "popularity": 34269,
-      "score": 85,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 85470,
-      "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
-      "popularity": 34229,
-      "score": 87,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30004,
-      "title": "Yokohama Kaidashi Kikou",
-      "popularity": 34085,
-      "score": 86,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30743,
-      "title": "21 Seiki Shounen",
-      "popularity": 34016,
-      "score": 82,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 87459,
-      "title": "Sabishisugite Rezu Fuzoku ni Ikimashita Report",
-      "popularity": 33990,
-      "score": 80,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 117460,
-      "title": "Temppal",
-      "popularity": 33969,
-      "score": 77,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 109501,
-      "title": "Yamada-kun to Lv999 no Koi wo Suru",
-      "popularity": 33743,
-      "score": 81,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 85442,
-      "title": "Tate no Yuusha no Nariagari",
-      "popularity": 33743,
-      "score": 72,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 33006,
-      "title": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
-      "popularity": 33601,
-      "score": 84,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 159441,
-      "title": "Pick Me Up!",
-      "popularity": 33446,
-      "score": 83,
-      "episodes": null,
-      "status": "RELEASING"
-    },
     {
       "id": 116671,
       "title": "Juujika no Rokunin",
@@ -1487,8 +970,8 @@
     }
   ],
   "stats": {
-    "totalProcessed": 107,
-    "totalCharacters": 5210,
-    "lastRun": "2025-12-24T22:04:15.945Z"
+    "totalProcessed": 192,
+    "totalCharacters": 6317,
+    "lastRun": "2025-12-25T23:21:27.800Z"
   }
 }

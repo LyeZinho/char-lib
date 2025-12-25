@@ -1,0 +1,214 @@
+{
+  "work_id": "doom-breaker",
+  "count": 9,
+  "characters": [
+    {
+      "id": "zephyr",
+      "name": "Zephyr",
+      "alt_names": [
+        "제피르"
+      ],
+      "role": "protagonist",
+      "description": "Protagonist of the story \"Doom Breaker\".\nZephyr is the last human fighting evil in a world abandoned by the gods. When he is killed in battle by Tartarus, the god of destruction, all hope for humanity seems lost. But Zephyr’s fate is not sealed - the gods who find his battles entertaining have gifted him a second chance at life, as he is sent ten years into the past, back to when he was a slave instead of the most powerful human alive.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b235008-MAzFI9rLVYE5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 235008
+      }
+    },
+    {
+      "id": "altair-cayenne",
+      "name": "Altair Cayenne",
+      "alt_names": [
+        "알테어 유스티나 카이엔"
+      ],
+      "role": "supporting",
+      "description": "The princess of the Kingdom of Cayenne on the continent of Aslan where the story takes place. Altair was Zephyr's lover in their previous lives, and Zephyr is strongly determined to save her this time around.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b285595-qB0sGUPMnzsz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 285595
+      }
+    },
+    {
+      "id": "ned-stryer",
+      "name": "Ned Stryer",
+      "alt_names": [
+        "네드 스트라이어"
+      ],
+      "role": "supporting",
+      "description": "One of the official disciples of Jinryang of the East, the 9th-highest ranking Tartarus Worshipper. He worked under Mathias Grimmer, the 36th-highest ranking Tartarus Worshipper. Both infiltrated the Temple of Light, working as Inquisitors to hide their agenda.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250573-Dq9gmC561ygR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250573
+      }
+    },
+    {
+      "id": "mercedes",
+      "name": "Mercedes",
+      "alt_names": [
+        "메르세데스"
+      ],
+      "role": "supporting",
+      "description": "The representative that shares the words of the gods. High level angel.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b235009-LSyzyPN4IqJN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 235009
+      }
+    },
+    {
+      "id": "anna-primrose",
+      "name": "Anna Primrose",
+      "alt_names": [
+        "안나 프림로즈",
+        "Sister"
+      ],
+      "role": "supporting",
+      "description": "She is a sister of the shrine of light.\n\n~!The name of her other persona is the broker 'White Rose', who has connection with the underworld and exchanges monsters corpses, equipment and information regarding people.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250574-PZTNmiRLJXMR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250574
+      }
+    },
+    {
+      "id": "polaris-cayenne",
+      "name": "Polaris Cayenne",
+      "alt_names": [
+        "폴라리스 알베르 카이엔"
+      ],
+      "role": "supporting",
+      "description": "Polaris is the eldest prince of the Kingdom of Cayenne and Altair's eldest brother in addition to being the youngest cardinal in the Temple of Light.\n~!He is the Head of the Tartarus Worshipers.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b285596-B0uFK7CV9si2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 285596
+      }
+    },
+    {
+      "id": "silvestia",
+      "name": "Silvestia",
+      "alt_names": [
+        "실베스티아",
+        "Queen of Elves"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305417-gMAm9J5NbqXH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305417
+      }
+    },
+    {
+      "id": "eurydice",
+      "name": "Eurydice",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b318892-L8Cpm8hoWx4j.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 318892
+      }
+    },
+    {
+      "id": "lucius-giornetti",
+      "name": "Lucius Giornetti",
+      "alt_names": [
+        "루시우스 지오르네티"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b318894-oESjlsqp7TXY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 318894
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T16:53:26.296Z"
+}

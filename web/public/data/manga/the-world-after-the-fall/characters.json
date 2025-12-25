@@ -1,0 +1,105 @@
+{
+  "work_id": "the-world-after-the-fall",
+  "count": 4,
+  "characters": [
+    {
+      "id": "jae-hwan",
+      "name": "Jae-Hwan",
+      "alt_names": [
+        "재환",
+        "Jaehwan the Persistent Stabber",
+        "Tower Walker (former)"
+      ],
+      "role": "protagonist",
+      "description": "Jaehwan is a young, South Korean male who was summoned to the Tower of Nightmares, a large construct consisting of 100 floors brimming with perilous monsters. Jaehwan's sole mission is climbing the Tower and saving humanity, which suffers from \"Tower Impacts\".",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270390-mE0rETRNBede.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270390
+      }
+    },
+    {
+      "id": "mi-no-han",
+      "name": "Mi-No Han",
+      "alt_names": [
+        "한미노",
+        "Witch of Massacre"
+      ],
+      "role": "supporting",
+      "description": "__Ocupation__: Assassin\n__Place of Birth__: Arkal, known as World 7651\n~!__Place of death__: Tower of Nightmares (former), New World!~\n\nHan Mino is a young woman who cleared a Tower of Nightmares\nShe is a 3rd Stage Adapter and works as an assassin for the Dark Forest Clan.\n\n~!Died in Great Lands and entered Chaos.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270391-wnT7janj2fyR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270391
+      }
+    },
+    {
+      "id": "cheong-heo",
+      "name": "Cheong Heo",
+      "alt_names": [
+        "청허",
+        "The Doctor of Doom"
+      ],
+      "role": "supporting",
+      "description": "He is the doctor of the Gorgon Fortress. He is an awakened like Jaehwan. He is able to perform the \"Undead Slash\" which cures the spirit of those who are becoming Undead. He was part of the first Abyss expedition lead by Mulack Armelt",
+      "metadata": {
+        "gender": "male",
+        "age": "1000+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b335543-eMafnTB8NzFh.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 335543
+      }
+    },
+    {
+      "id": "sirwen-armelt",
+      "name": "Sirwen Armelt",
+      "alt_names": [
+        "시르엔 아르멜트",
+        "Siren"
+      ],
+      "role": "supporting",
+      "description": "__Place of Birth:__ Roots of the Tree of Imagery, Six Region\n\nSiren is a pink-haired Nightmare (Dream Demon) known as the most popular streamer in Chaos. She works as a tower maker and was the apprentice of Mulack Armelt",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b335544-rtUzFEqJeuN8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 335544
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T13:55:54.478Z"
+}

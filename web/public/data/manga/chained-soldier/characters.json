@@ -1,0 +1,354 @@
+{
+  "work_id": "chained-soldier",
+  "count": 15,
+  "characters": [
+    {
+      "id": "kyouka-uzen",
+      "name": "Kyouka Uzen",
+      "alt_names": [
+        "羽前京香"
+      ],
+      "role": "protagonist",
+      "description": "__Species:__ Human\n__Height:__ 167 cm (5'6\")\n__Peach Ability:__ Chains of Eternity, \"Slave\"\n__Affiliation:__ Anti-Demon Corps (7th Unit Chief)\n\nKyouka is the chief of the 7th Unit of the Anti-demon Corps, an elite group of women who have received power from the Peaches. She is Yuuki Wakura's savior and becomes his master after she decided to make him her slave. She is a fierce militaristic, calm, and serious woman befitting the 7th Unit Chief. She often fights against the Shuuki more seriously than other chiefs. She cares for the people around her to the point where she will do anything to protect them.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162524-r8daVAJ32H4j.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162524
+      }
+    },
+    {
+      "id": "yuuki-wakura",
+      "name": "Yuuki Wakura",
+      "alt_names": [
+        "和倉優希",
+        "Slave-kun"
+      ],
+      "role": "protagonist",
+      "description": "__Species:__ Human\n__Height:__ 173 cm (5'8\")\n__Occupation:__ Caretaker\n__Affiliation:__ Anti-Demon Corps (7th Unit)\n__Family:__ [Aoba Wakura](https://anilist.co/character/170333/Aoba-Wakura) (sister)\n\nCaretaker of the Anti-Demon Corps 7th Unit. He attended Kaminoge High School as a third-year student but after getting caught up in a Mato Disaster, he was rescued by Kyouka Uzen and became her Slave, granting him the power to fight alongside her.\n\nDue to being a male, he could not become an official member of the Demon Corps since men can't receive special powers after consuming Peaches and has instead became the caretaker of the 7th unit, lending his support to his comrades both in and out of combat.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170329-nLoZpvOU26Md.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170329
+      }
+    },
+    {
+      "id": "shushu-suruga",
+      "name": "Shushu Suruga",
+      "alt_names": [
+        "駿河朱々"
+      ],
+      "role": "protagonist",
+      "description": "__Species:__ Human\n__Height:__ 165 cm (5'5\")\n__Peach Ability:__ Imperial Liberation, \"Paradigm Shift\"\n__Affiliation:__ Anti-Demon Corps (7th Unit)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170330-HgLYmja2EIll.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170330
+      }
+    },
+    {
+      "id": "himari-azuma",
+      "name": "Himari Azuma",
+      "alt_names": [
+        "東日万凛"
+      ],
+      "role": "protagonist",
+      "description": "__Species:__ Human\n__Height:__ 159 cm (5'3\")\n__Peach Ability:__ Noble Aspirations, \"Learning\"\n__Affiliation:__ Anti-Demon Corps (7th Unit Vice-Chief)\n__Family:__ [Tobera Azuma](https://anilist.co/character/266761/Tobera-Azuma) (grandmother),  [Fubuki Azuma](https://anilist.co/character/192784/Fubuki-Azuma) (mother), [Yachiho Azuma](https://anilist.co/character/170337/Yachiho-Azuma) (sister), [Maia Azuma](https://anilist.co/character/266758/Maia-Azuma) (sister), [Homare Azuma](https://anilist.co/character/266760/Homare-Azuma) (sister-in-law), [Yumina Azuma](https://anilist.co/character/266763/Yumina-Azuma) (sister-in-law)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170335-THTEXHKfMQwW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170335
+      }
+    },
+    {
+      "id": "nei-ookawamura",
+      "name": "Nei Ookawamura",
+      "alt_names": [
+        "大川村寧"
+      ],
+      "role": "protagonist",
+      "description": "__Species:__ Human\n__Height:__ 145 cm (4'9\")\n__Peach Ability:__ Sure To Find, \"Promise\"\n__Occupation:__ Scout\n__Affiliation:__ Anti-Demon Corps (7th Unit)",
+      "metadata": {
+        "gender": "female",
+        "age": "11",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170336-MCONDHALGZbU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170336
+      }
+    },
+    {
+      "id": "tenka-izumo",
+      "name": "Tenka Izumo",
+      "alt_names": [
+        "出雲天花"
+      ],
+      "role": "protagonist",
+      "description": "__Species:__ Human\n__Height:__ 163 cm (5'4\")\n__Peach Ability:__ \"Ame-No-Mitori\"\n__Affiliation:__ Anti-Demon Corps (6th Unit Chief)\n\nTenka is the 6th Anti-Demon Corps Chief. She is Kyouka's friend and rival.",
+      "metadata": {
+        "gender": "female",
+        "age": "19-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162432-TYJ8eP6kKCO4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162432
+      }
+    },
+    {
+      "id": "sahara-wakasa",
+      "name": "Sahara Wakasa",
+      "alt_names": [
+        "若狭サハラ"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Height:__ 156 cm (5'1\")\n__Peach Ability:__ \"Crazy Sheep\"\n__Affiliation:__ Anti-Demon Corps (6th Unit)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170331-MFTLouTYKKdI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170331
+      }
+    },
+    {
+      "id": "ginna-bizen",
+      "name": "Ginna Bizen",
+      "alt_names": [
+        "備前銀奈"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 159 cm\n\nGinna Bizen is a member of the Anti-Demon Corps' 10th Unit.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170332-VgTktXVgRi27.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170332
+      }
+    },
+    {
+      "id": "aoba-wakura",
+      "name": "Aoba Wakura",
+      "alt_names": [
+        "和倉青羽"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Humanoid Shuuki\n__Peach Ability:__ I am the Older Sister, \"Invincible\"\n__Affiliation:__ Hidden Village\n__Family:__ [Yuuki Wakura](https://anilist.co/character/170329/Yuuki-Wakura) (brother)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170333-tX4fYxtmO7Hd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170333
+      }
+    },
+    {
+      "id": "koko-zenibako",
+      "name": "Koko Zenibako",
+      "alt_names": [
+        "銭函ココ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170334-SvGYu1JsQQ0E.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170334
+      }
+    },
+    {
+      "id": "yachiho-azuma",
+      "name": "Yachiho Azuma",
+      "alt_names": [
+        "東八千穂"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Height:__ 155 cm (5'1\")\n__Peach Ability:__ Eastern Time, \"Golden Hour\"\n__Affiliation:__ Anti-Demon Corps (6th Unit Vice-Chief)\n\nOlder sister of Himari Azuma",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170337-OiE2Qk0D8CTv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170337
+      }
+    },
+    {
+      "id": "naon-yuno",
+      "name": "Naon Yuno",
+      "alt_names": [
+        "湯野波音"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170338-VecRBdIFzHF0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170338
+      }
+    },
+    {
+      "id": "konomi-tatara",
+      "name": "Konomi Tatara",
+      "alt_names": [
+        "多々良木乃実"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Human\n__Height:__ 155 cm\n__Peach Ability:__ Golden Xing Yi Quan, \"Beast Power\"\n__Affiliation:__ Anti-Demon Corps (1st Unit Chief)\n\nKonomi Tatara is the Anti-Demon Corps' 1st Unit new Chief after the previous Chief, Riu Myouga stepped down from her position.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192778-2OVPAVYmj44F.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192778
+      }
+    },
+    {
+      "id": "varvara-pilipenko",
+      "name": "Varvara Pilipenko",
+      "alt_names": [
+        "ワルワラ・ピリペンコ",
+        "Barbara Pilipenko"
+      ],
+      "role": "supporting",
+      "description": "Varvara Pilipenko is the Anti-Demon Corps' 8th Unit Chief.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192780-oqZfEIDytKgK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192780
+      }
+    },
+    {
+      "id": "yakumo-ezo",
+      "name": "Yakumo Ezo",
+      "alt_names": [
+        "蝦夷夜雲"
+      ],
+      "role": "supporting",
+      "description": "Yakumo Ezo is the Anti-Demon Corps' 5th Unit Chief.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192781-hvQoHZiBnm7b.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192781
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T22:37:06.234Z"
+}

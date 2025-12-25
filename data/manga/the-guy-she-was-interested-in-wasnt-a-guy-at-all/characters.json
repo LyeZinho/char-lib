@@ -1,0 +1,173 @@
+{
+  "work_id": "the-guy-she-was-interested-in-wasnt-a-guy-at-all",
+  "count": 7,
+  "characters": [
+    {
+      "id": "aya-oosawa",
+      "name": "Aya Oosawa",
+      "alt_names": [
+        "大沢綾"
+      ],
+      "role": "protagonist",
+      "description": "Part of the popular crowd, her grades aren't great but she has good communication skills and has a lot of friends. Popular with the guys at school but she takes no interest in them.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": "2005-04-16"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282093-KSj41LnAwawO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282093
+      }
+    },
+    {
+      "id": "mitsuki-koga",
+      "name": "Mitsuki Koga",
+      "alt_names": [
+        "古賀美月"
+      ],
+      "role": "protagonist",
+      "description": "Has a quiet and reserved personality, her classmates mistake her for an anime otaku. She can be a little airheaded in certain circumstances.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": "2006-03-09"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282094-vAr5cHPwyCIY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282094
+      }
+    },
+    {
+      "id": "megumu-narita",
+      "name": "Megumu Narita",
+      "alt_names": [
+        "成田恵",
+        "Arita"
+      ],
+      "role": "supporting",
+      "description": "In the same class as Aya and Mitsuki. An easygoing and refreshing stud (self- proclaimed) who is popular and admired by many. He's reasonably well-liked by the ladies, so when he encounters a girl he can't easily charm, he can't get her out of his head (currently, he can't get Mitsuki and Aya out of his head, but more in the sense that he's watching over them). If someone says something mean to him, he'll smile while actually getting depressed on the inside. However, he bounces back ridiculously fast. As far as his club activities go, he's in the soccer club (but he's probably the type who gets invited to all kinds of clubs).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": "2005-12-15"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290483-EVqyEXBljmyi.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290483
+      }
+    },
+    {
+      "id": "joe",
+      "name": "Joe",
+      "alt_names": [
+        "ジョー"
+      ],
+      "role": "supporting",
+      "description": "Mitsuki's uncle. He doesn't have children of his own, so he's all-in on loving his niece. The ultimate doting uncle. He's always pursued what he loves, so he wants Mitsuki to be true to herself as well. When he was young, he worked hard to make a living from music, but now he's the owner of a run-down CD shop.",
+      "metadata": {
+        "gender": "male",
+        "age": "43",
+        "dateOfBirth": "1979-08-29"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305502-a81MGAca1Fm7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305502
+      }
+    },
+    {
+      "id": "kanna",
+      "name": "Kanna",
+      "alt_names": [
+        "カンナ"
+      ],
+      "role": "supporting",
+      "description": "Joe's ex-girlfriend. She works as a stylist in L.A. Mitsuki looks up to her because she focuses on the things she wants to do and pushes hard towards them.",
+      "metadata": {
+        "gender": "female",
+        "age": "35-",
+        "dateOfBirth": "1987-06-22"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306725-RgYxyr0AwMCf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306725
+      }
+    },
+    {
+      "id": "mao",
+      "name": "Mao",
+      "alt_names": [
+        "マオ"
+      ],
+      "role": "supporting",
+      "description": "Mao is another girl from Aya's inner circle. She always follows Chizuru wherever she goes and is secretly interested in Narita.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321136-sxvxNDFWIlAX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321136
+      }
+    },
+    {
+      "id": "chizuru",
+      "name": "Chizuru",
+      "alt_names": [
+        "千鶴"
+      ],
+      "role": "supporting",
+      "description": "Chizuru, along with Mao, used to be Aya's best friend. She doesn't like that Aya spends so much time with Mitsuki lately.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321137-fIWVsse3KRPr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321137
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T05:58:38.486Z"
+}

@@ -1,0 +1,342 @@
+{
+  "work_id": "black-bullet",
+  "count": 15,
+  "characters": [
+    {
+      "id": "rentarou-satomi",
+      "name": "Rentarou Satomi",
+      "alt_names": [
+        "里見蓮太郎"
+      ],
+      "role": "protagonist",
+      "description": "He is a second-year student at Magata High School. He is also a member of \"Tendo Civil Security Company\", headed by Kisara Tendo. Together with his partner – Initiator named Enju – he is fighting against parasites Gastrea, the creatures beyond human's imagination.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b74619-HHssePHYByLp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74619
+      }
+    },
+    {
+      "id": "enju-aihara",
+      "name": "Enju Aihara",
+      "alt_names": [
+        "藍原延珠"
+      ],
+      "role": "protagonist",
+      "description": "She is one of the \"Cursed Children\", who are carrying Gastrea virus in their bodies. She is a precocious 10 year old girl, who possesses a hidden superhuman power. Enju is emotionally attached to her partner, Rentaro Satomi, and looks at Kisara Tendo as a rival in love.  (Source: Baka-Tsuki)",
+      "metadata": {
+        "gender": "female",
+        "age": "10",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/74621-Ps47Of4nJKp9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 74621
+      }
+    },
+    {
+      "id": "kisara-tendo",
+      "name": "Kisara Tendo",
+      "alt_names": [
+        "天童木更"
+      ],
+      "role": "protagonist",
+      "description": "Once a daughter of nobleman, for some reason she ran away from home and now earns her own living. Although, being a student, she manages \"Tendo's Civil Security Company\" but is forced to live in poverty. She is deeply in love with Rentaro.\n\n(Source: Baka-Tsuki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b83523-4M96n5mmxRnm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 83523
+      }
+    },
+    {
+      "id": "kagetane-hiruko",
+      "name": "Kagetane Hiruko",
+      "alt_names": [
+        "蛭子影胤"
+      ],
+      "role": "supporting",
+      "description": "A mysterious individual. He reveals himself as being of the same roots as Rentaro.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b83505-HiDVMEa3j161.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 83505
+      }
+    },
+    {
+      "id": "sumire-muroto",
+      "name": "Sumire Muroto",
+      "alt_names": [
+        "室戸菫"
+      ],
+      "role": "supporting",
+      "description": "A Gastrea researcher who frequently advises Rentaro. The head of a legal medicine lab in Magata Public University Hospital. A Hikikomori &amp; mad scientist. She is a person of an extraordinary intellect, but she enjoys making fun of Rentaro.  (Source: Baka-Tsuki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b83521-rospSdu4TuDd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 83521
+      }
+    },
+    {
+      "id": "tina-sprout",
+      "name": "Tina Sprout",
+      "alt_names": [
+        "ティナ・スプラウト"
+      ],
+      "role": "supporting",
+      "description": "Tina is a product of Ayn Rand's mechanized soldiers and formerly her Model Owl Initiator.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88336-yxxU5kiQkQuh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88336
+      }
+    },
+    {
+      "id": "seitenshi",
+      "name": "Seitenshi",
+      "alt_names": [
+        "聖天子"
+      ],
+      "role": "supporting",
+      "description": "Because of the war with Gastrea, Japan has been divided into five Areas. She is the ruler of Tokyo Area. 16 years old. Possessing an unworldly beauty, having a kind heart and noble goals, she receives a lot of support from the people.\r\n\r\n(Source: Baka-Tsuki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88337-SGoTJp23NUzI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88337
+      }
+    },
+    {
+      "id": "midori-fuse",
+      "name": "Midori Fuse",
+      "alt_names": [
+        "布施 翠"
+      ],
+      "role": "supporting",
+      "description": "Midori Fuse is Nagisawa Shoma's partner. She is a cat type who is known to have cat ears under her witch hat which she is ashamed to show to others besides Nagisawa. This is due to her animal factors from the Gastrea virus which can strongly affect the body of the host. Nagisawa seems to have established a very strong trust to Midori.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88338.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88338
+      }
+    },
+    {
+      "id": "kohina-hiruko",
+      "name": "Kohina Hiruko",
+      "alt_names": [
+        "蛭子 小比奈"
+      ],
+      "role": "supporting",
+      "description": "Kohina Hiruko is a 10-year-old girl, who, despite her petty physique, is extremely powerful. Kohina, like her father, gives off a cruel psyche and will annihilate those that stand in her way without any remorse. She also displays a revengeful persona against those that have previously corrupted her plans or saved someone she aimed to kill. When said events happen, she loses her cool and badmouths the ones she fights, calling them weak.\r\n\r\n(Source: Black Bullet Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88339.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88339
+      }
+    },
+    {
+      "id": "yuzuki-katagiri",
+      "name": "Yuzuki Katagiri",
+      "alt_names": [
+        "片桐弓月"
+      ],
+      "role": "supporting",
+      "description": "Yuzuki Katagiri is a Model Spider Initiator, younger sister of Tamaki Katagiri, who is also her Promoter. She is a member of the Katagiri Civil Security Corporation.\n\n(Source: Black Bullet Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88340-3nsKbWvGux71.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88340
+      }
+    },
+    {
+      "id": "tamaki-katagiri",
+      "name": "Tamaki Katagiri",
+      "alt_names": [
+        "片桐玉樹"
+      ],
+      "role": "supporting",
+      "description": "Tamaki Katagiri is a Promoter, partnered with his younger sister, Yuzuki Katagiri. He is the president of the Katagiri Civil Security Corporation.\r\n\r\n(Source: Black Bullet Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88341-ha7iJCZZYubz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88341
+      }
+    },
+    {
+      "id": "takuto-yasuwaki",
+      "name": "Takuto Yasuwaki",
+      "alt_names": [
+        "保脇 卓人"
+      ],
+      "role": "supporting",
+      "description": "One of Seitenshi's bodyguards. Has a sadistic nature, taking pleasure in hurting others.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88342.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88342
+      }
+    },
+    {
+      "id": "kayo-senju",
+      "name": "Kayo Senju",
+      "alt_names": [
+        "千寿 夏世"
+      ],
+      "role": "supporting",
+      "description": "Kayo is Shougen's Model Dolphin Initiator. She has an IQ of 210 but is unsuited to front-line battles. During her mission to eliminate the Hiruko pair, she was separated from Shougen and met Rentarou.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88343.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88343
+      }
+    },
+    {
+      "id": "blind-girl",
+      "name": "Blind Girl",
+      "alt_names": [
+        "盲目の少女"
+      ],
+      "role": "supporting",
+      "description": "A blind cursed child abandoned by her mother. Because she has no sight, humans mistreat her by \"donating\" things other than coins (pull-tabs, rocks, etc.).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143653-bhgIS0CaqPTb.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 143653
+      }
+    },
+    {
+      "id": "kikunojou-tendou",
+      "name": "Kikunojou Tendou",
+      "alt_names": [
+        "天童菊之丞"
+      ],
+      "role": "supporting",
+      "description": "Kikunojou Tendou is the current head of the Tendou family, as well as Kisara Tendou's grandfather.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250097-RUuh1C1NTIpS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250097
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T10:55:16.086Z"
+}

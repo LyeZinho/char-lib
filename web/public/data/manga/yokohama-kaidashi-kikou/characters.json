@@ -1,0 +1,276 @@
+{
+  "work_id": "yokohama-kaidashi-kikou",
+  "count": 12,
+  "characters": [
+    {
+      "id": "alpha-hatsuseno",
+      "name": "Alpha Hatsuseno",
+      "alt_names": [
+        "初瀬野アルファ"
+      ],
+      "role": "protagonist",
+      "description": "Alpha is the main character of the series. As an A7-M2 model robot, one of the few production prototypes, she is one of the first of the A7 series and was named &quot;Alpha&quot;. She has an unusual affinity with machines and people. Unlike most characters with cheerful personalities, Alpha is sweet without being saccharine. Her pleasant disposition has won her several friends and loyal customers yet she is also capable of making deep insights and displays an unusual level of maturity during her more private moments. As the story progresses, she interacts more with her surroundings and the people around her, gaining more knowledge about life with her experiences.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2765-x0TlD7Lb5HLq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2765
+      }
+    },
+    {
+      "id": "kokone-takatsu",
+      "name": "Kokone Takatsu",
+      "alt_names": [
+        "鷹津ココネ"
+      ],
+      "role": "supporting",
+      "description": "A type A7M3 production robot who works as a courier out of Yokohama. She is the first other robot that Alpha met when she delivered a package (containing a camera) and a message from Alpha&#039;s owner. They quickly become friends. Kokone is sweet, shy, and somewhat intellectual, but because of her job she has more experience with people than Alpha.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2978-lVHCMf4nkYkb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2978
+      }
+    },
+    {
+      "id": "alpha-koumiishi",
+      "name": "Alpha Koumi'ishi",
+      "alt_names": [
+        "子海石アルファ",
+        "Director Alpha"
+      ],
+      "role": "supporting",
+      "description": "Director Alpha is an A7M1 model. Being the first of the A7 series, she is also named &quot;Alpha&quot;. Since the robots usually inherit the name of their respective owners, it is possible that Sensei (or one of her relatives) may have been Alpha's owner. She also possesses a pendant identical to that of Sensei. Kokone once mentions that the A7M1 is also known as &quot;the Phantom&quot; although how she had earned the alias or what it even implies is never given. Besides this, not much is known about her origins or purpose.     She is currently the director of the stratospheric aircraft called Taapon that circles the Earth, observing the world's changes from above. It is hinted that she will be its last living passenger because she does not age, unlike the rest of the crew.    Director Alpha is shown to have a strong mental connection with Alpha Hatsuseno though neither of them seem to be aware of it.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4684-FHLAwIVfdgHU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4684
+      }
+    },
+    {
+      "id": "koumiishi",
+      "name": "Koumi'ishi",
+      "alt_names": [
+        "子海石せんせい",
+        "先生",
+        "Sensei"
+      ],
+      "role": "supporting",
+      "description": "An elderly woman, Sensei is a doctor for both humans and androids. She was involved in the development of the A7 series of robots and hosted Director Alpha at her home, possibly as Director Alpha's owner. When she was younger, she rode motorcycles, raced hovercraft, and was Ojisan's senpai from school. Her surname is Koumi'ishi (子海石, Koumi'ishi , lit. &quot;child-sea-stone&quot;) but she is always addressed by just her title. Besides the pendant with her logo, both Alphas appear inherit her vision of &quot;going and seeing&quot;.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6188-pcOzZFaZRnpy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6188
+      }
+    },
+    {
+      "id": "oji-san",
+      "name": "Oji-san",
+      "alt_names": [
+        "おじさん",
+        "Uncle"
+      ],
+      "role": "supporting",
+      "description": "A middle-aged man with a perpetual grin, he is Alpha's closest neighbor and a regular customer at her caf&eacute;. He runs a gas station and sells vegetables on the side. He is a grandfather-figure to Alpha and the actual grandfather of Takahiro. Ojisan refers to himself as a bum and seems to regret not pursuing a relationship with Sensei when they were younger. His real name is never given.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6902-yTV5t1J5lW01.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6902
+      }
+    },
+    {
+      "id": "takahiro",
+      "name": "Takahiro",
+      "alt_names": [
+        "タカヒロ"
+      ],
+      "role": "supporting",
+      "description": "The grandson of Ojisan, who lives with his grandparents. He meets Alpha at age nine and she quickly takes to him as if he were a younger brother. He is the first character in the series to meet the Misago. As he grows up, Takahiro becomes fascinated with engines of all types and eventually moves away in his mid-teens to work with Nai.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6903-czfmYDCMqCKC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6903
+      }
+    },
+    {
+      "id": "matsuki",
+      "name": "Matsuki",
+      "alt_names": [
+        "真月",
+        "Makki"
+      ],
+      "role": "supporting",
+      "description": "A girl a few years younger than Takahiro. She likes Takahiro and is initially jealous of Alpha. Makki eventually becomes close to Alpha after learning that the latter would never consider having a relationship with Takahiro because mortal humans move through time in a different way compared to the immortal robots. She is skeptical of Takahiro's stories of the Misago until she meets the wild-woman herself. In her early teens, Makki works for a while at Alpha's caf&eacute; before moving away to become a courier with Kokone's company. She later settles down at Hamamatsu with Takahiro.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6904-MKUH8bgoZ97q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6904
+      }
+    },
+    {
+      "id": "misago",
+      "name": "Misago",
+      "alt_names": [
+        "ミサゴ",
+        "Osprey"
+      ],
+      "role": "supporting",
+      "description": "An ageless wild-woman who lives in the inlets and bays near Caf&eacute; Alpha. She is always naked and eats raw fish caught with her short fangs and inhuman speed. She only shows herself to young children and shies away from contact with adults. She does not age and, according to omake material, doesn't understand how children grow up. According to Ayase, she existed decades before robots were created.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/6905.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6905
+      }
+    },
+    {
+      "id": "ayase",
+      "name": "Ayase",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "A wanderer who travels endlessly, relying on his kamas (a large predatory flying fish) to live off the land. He likes to see the curiosities of the world, and is especially fascinated by the Misago. Because of Makki's affinity for the Misago and his kamas, he tries to convince her to travel with him as a sort of prot&eacute;g&eacute;.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6906-IfbcOF9FV6dD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6906
+      }
+    },
+    {
+      "id": "maruko-maruko",
+      "name": "Maruko Maruko",
+      "alt_names": [
+        "丸子マルコ"
+      ],
+      "role": "supporting",
+      "description": "A type A7M3 robot with a prickly personality. She is an artist who lives in Yokohama and works as a waitress and then shop clerk as a day job. She is unusual among robots for having changed her surname to one of her own choosing rather than adopting her owner&#039;s. Her given name is pronounced the same as her surname but spelled in katakana. She likes Kokone and is jealous of Alpha for &quot;taking&quot; her. Nai occasionally sends her sensory impressions, delivered by Kokone, which she uses in her art. Eventually, Maruko becomes good friends with Alpha and Makki.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6907-6zit1WeJpdTC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6907
+      }
+    },
+    {
+      "id": "nai",
+      "name": "Nai",
+      "alt_names": [
+        "ナイ"
+      ],
+      "role": "supporting",
+      "description": "A robot of unknown model. He is unusual in that, for unknown reasons, male robots rarely survive long. He flies a modified T-6 Texan aircraft to run a delivery service. Nai is quiet and impassive.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6908-YiPx9LRUiD5t.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6908
+      }
+    },
+    {
+      "id": "saetta",
+      "name": "Saetta",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "The young daughter of Makki and Takahiro. She is the last character to meet the Misago.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/6909.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6909
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T21:33:14.638Z"
+}

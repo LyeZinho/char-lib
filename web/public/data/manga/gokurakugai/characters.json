@@ -1,0 +1,363 @@
+{
+  "work_id": "gokurakugai",
+  "count": 15,
+  "characters": [
+    {
+      "id": "alma",
+      "name": "Alma",
+      "alt_names": [
+        "アルマ ",
+        "Al"
+      ],
+      "role": "protagonist",
+      "description": "Alma works as a Troubleshooter on Troubleshooters' Office on the surface with [Tao](https://anilist.co/character/185726/Tao), where they get paid for any work a client wants to be done, making their other work where they kill off calamities appear to be a secret job for him and [Tao](https://anilist.co/character/185726/Tao). \n~!Alma is a child born of a demon and a man, a half-calamity.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b185725-8jyMY0uvEUa9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 185725
+      }
+    },
+    {
+      "id": "tao-saotome",
+      "name": "Tao Saotome",
+      "alt_names": [
+        "早乙女道",
+        "Sister Tao",
+        "タオ"
+      ],
+      "role": "protagonist",
+      "description": "Tao is one of the main protagonists in Gokurakugai manga series. On the surface, she works as a Troubleshooter, where they are paid by clients who need any type of job done, making her and [Alma's](https://anilist.co/character/185725) other profession where they kill off calamities like a secret job.",
+      "metadata": {
+        "gender": "female",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b185726-jTZwAKJEZf1Z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 185726
+      }
+    },
+    {
+      "id": "yoki-kurogane",
+      "name": "Yoki Kurogane",
+      "alt_names": [
+        "鐵与喜"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "age": "53",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284415-aAKT4zwNyEla.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284415
+      }
+    },
+    {
+      "id": "dara-kurogane",
+      "name": "Dara Kurogane",
+      "alt_names": [
+        "鐵ダ羅"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "age": "29",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284416-5v1jpi2NFFuu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284416
+      }
+    },
+    {
+      "id": "isato-amadera",
+      "name": "Isato Amadera",
+      "alt_names": [
+        "天寺イサト"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284417-Wlz5sehdoGGZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284417
+      }
+    },
+    {
+      "id": "yaya-senda",
+      "name": "Yaya Senda",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290938-2KzYPzvLkCJW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290938
+      }
+    },
+    {
+      "id": "luka-kiyomine",
+      "name": "Luka Kiyomine",
+      "alt_names": [
+        "清峰琉鹿"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290939-OPso0USHR3LZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290939
+      }
+    },
+    {
+      "id": "yukiharu-nishi",
+      "name": "Yukiharu Nishi",
+      "alt_names": [
+        "西幸春",
+        "Yuki (雪)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "11",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290942-jrLUe5A3e4su.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290942
+      }
+    },
+    {
+      "id": "tatsuomi-ban",
+      "name": "Tatsuomi Ban",
+      "alt_names": [
+        "馬辰男",
+        "タツオミ",
+        "Money-grubber"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290950-NZvQD4SpzeDT.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290950
+      }
+    },
+    {
+      "id": "gou-senda",
+      "name": "Gou Senda",
+      "alt_names": [
+        "Auntie"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290954-9rsUJP8LEhyx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290954
+      }
+    },
+    {
+      "id": "nei-takarai",
+      "name": "Nei Takarai",
+      "alt_names": [
+        "寶井寧",
+        "ネイ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b301286-yq9t0iRxR33i.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 301286
+      }
+    },
+    {
+      "id": "yomi",
+      "name": "Yomi",
+      "alt_names": [
+        "よみ"
+      ],
+      "role": "supporting",
+      "description": "He's a potential leader of an unnamed and mysterious group.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326011-iCgzDIrWfr1k.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326011
+      }
+    },
+    {
+      "id": "ryuu-seno",
+      "name": "Ryuu Seno",
+      "alt_names": [
+        "妹尾劉"
+      ],
+      "role": "supporting",
+      "description": "Yoki introduced Ryu as Alma's instructor by offering him alcohol as a bribe.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326012-gfWU4PRUhzyL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326012
+      }
+    },
+    {
+      "id": "yoru",
+      "name": "Yoru",
+      "alt_names": [
+        "夜"
+      ],
+      "role": "supporting",
+      "description": "He's an enigmatic individual affiliated with the unnamed organization, in which Yomi is believed to hold a leadership position.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326013-fdscv3sCoZrg.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326013
+      }
+    },
+    {
+      "id": "memeko",
+      "name": "Memeko",
+      "alt_names": [
+        "愛々子"
+      ],
+      "role": "supporting",
+      "description": "Memeko is a part of the group that Yomi referred to as his family.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b326025-15oMOqhAXw6O.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 326025
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T15:10:24.001Z"
+}

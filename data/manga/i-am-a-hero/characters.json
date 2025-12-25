@@ -1,0 +1,350 @@
+{
+  "work_id": "i-am-a-hero",
+  "count": 15,
+  "characters": [
+    {
+      "id": "hideo-suzuki",
+      "name": "Hideo Suzuki",
+      "alt_names": [
+        "鈴木英雄"
+      ],
+      "role": "protagonist",
+      "description": "Hideo is a down-on-his-luck mangaka who found work as an assistant after his own series was cancelled due to poor sales. He comes across as fairly timid and insecure, but often has spurs of confidence. He suffers from delusions and is very anxious, especially when in the dark. Despite Japan's strict laws on firearms, he owns a shotgun to which he has a license. This makes him a very desirable person to hang around with following the outbreak, but Hideo is very serious when it comes to the law and won't allow anyone else to even touch his gun.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/37610.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 37610
+      }
+    },
+    {
+      "id": "hiromi-hayakari",
+      "name": "Hiromi Hayakari",
+      "alt_names": [
+        "はやかり ひろみ"
+      ],
+      "role": "protagonist",
+      "description": "Hiromi is a teenage girl from an all-girl school who meets Hideo in the 'Sea of Trees' at the base of Mount Fuji. As first, she mistakes him for someone contemplating suicide and comforts him, after which the two become close friends.\n\nShe has a boyfriend who she simply acknowledges as Shinji, though she hasn't seen him since the outbreak.\n\n~!Later, she is infected by a zombie baby but still retains most of her personality. However, at times she starts to see the world as some sort of child-like vision, viewing people as off-putting stuffed animals. After being infected, her strength increases substantially.!~\n\n~!During their refuge at the Outlet Mall, Hiromi is shot in the head by a nail gun. Afterwards, Oda is able to use her knowledge as a nurse to remove the nail and Hiromi surprisingly makes a complete recovery, from both being shot and her infection. She loses all the superficial symptoms of her infection, such as protruding black veins and bloodshot eyes, but retains much of her superhuman strength.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/78073.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 78073
+      }
+    },
+    {
+      "id": "tsugumi-oda",
+      "name": "Tsugumi Oda",
+      "alt_names": [
+        "小田つぐみ",
+        "Yabu"
+      ],
+      "role": "protagonist",
+      "description": "A girl who befriends Hideo and Hiromi during their refuge at the Outlet Mall. Before the outbreak, she was a nurse.\n\n~!After discovering she's pregnant, Oda attempts to leave Hideo and Hiromi so as to not inconvenience them. They catch up with her, but Oda is eventually infected after being bitten by a zombie baby. In her last moments of human consciousness, she jumps into the back of a garbage truck along with the baby and manages to persuade Hiromi to push the button that operates the trucks mechanism, crushing her and the baby to death.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/78075.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 78075
+      }
+    },
+    {
+      "id": "kurusu",
+      "name": "Kurusu",
+      "alt_names": [
+        "来栖"
+      ],
+      "role": "supporting",
+      "description": "His real name is unknown. Kurusu is an enigmatic, emotionally-detached and childish person who appears to receive great pleasure in killing the infected. He is first seen in a video where he claims that although he's tried to kill his mother dozens of times, she always came back to life. Many people on the internet have gone on to form a quasi-religious cult around Kurusu, proclaiming him as their prophetic leader in the new age that will emerge from the disaster; however, he doesn't seem to care about this at all and is only interested in killing.\n\nLater on, \"Kurusu\" is a term used to refer to the Japanese people who manage to fight off the infection.\n\n~!After a fight between him, the Naked Emperor and Takashi, they are all assimilated into a single entity that can switch appearances according to whichever personality is in control. When the female supply squad member in Tokyo is also assimilated, the Naked Emperor shows her Kurusu's true form, visible only when his personality is \"asleep\": an old, frail man that couldn't move nor talk since childhood, and only stayed in bed.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/78077.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 78077
+      }
+    },
+    {
+      "id": "obaa-san",
+      "name": "Obaa-san",
+      "alt_names": [
+        "Auntie"
+      ],
+      "role": "supporting",
+      "description": "She is an older woman who mostly cooks for Kowashi's group of survivors, but can hold her own in a fight.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282319-4UVAJpmu9glR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282319
+      }
+    },
+    {
+      "id": "tetsuko-kurokawa",
+      "name": "Tetsuko Kurokawa",
+      "alt_names": [
+        "黒川徹子"
+      ],
+      "role": "supporting",
+      "description": "Hideo Suzuki's girlfriend",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b344137-gCuXzN9p3F88.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 344137
+      }
+    },
+    {
+      "id": "sango",
+      "name": "Sango",
+      "alt_names": [
+        "サンゴ"
+      ],
+      "role": "supporting",
+      "description": "Former recluse and ruler of the non-infected community at the outlet mall.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b344138-ILZDFETZpXCK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 344138
+      }
+    },
+    {
+      "id": "mitani",
+      "name": "Mitani",
+      "alt_names": [
+        "三谷"
+      ],
+      "role": "supporting",
+      "description": "Hideo's co-worker. He and Hideo attempted to escape from Tokyo to survive.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b344139-IIjU7sgdmS1n.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 344139
+      }
+    },
+    {
+      "id": "sae",
+      "name": "Sae",
+      "alt_names": [
+        "紗衣"
+      ],
+      "role": "supporting",
+      "description": "A classmate of Hiromi's. Her parents are influential people and have a strong influence on the school. Although he likes Hiromi, he is actually the main bully behind her back.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b344140-ei3rt3ApBNtO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 344140
+      }
+    },
+    {
+      "id": "maa-kun",
+      "name": "Maa-kun",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "A young boy was evacuated to a high-rise community. He and his grandmother had evacuated together, and like other elderly people, they were isolated on a high-rise floor.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b344141-DvoVVoLez5sk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 344141
+      }
+    },
+    {
+      "id": "kaede",
+      "name": "Kaede",
+      "alt_names": [
+        "楓"
+      ],
+      "role": "supporting",
+      "description": "A woman who is called the chief of staff of the security force. She was in command on site as acting battalion commander when the Kurusu faction attacks.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b344142-O1FlJ08BFyfG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 344142
+      }
+    },
+    {
+      "id": "iura",
+      "name": "Iura",
+      "alt_names": [
+        "伊浦"
+      ],
+      "role": "supporting",
+      "description": "He is the behind-the-scenes ruler of the non-infected community holed up on the rooftop of an outlet mall and is highly insightful. Possessing a pistol crossbow, he has been executing rebels and those he does not like by dropping them to the ground where a large number of infected roam.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b344143-TphHauIF7o3Y.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 344143
+      }
+    },
+    {
+      "id": "takashi-ezaki",
+      "name": "Takashi Ezaki",
+      "alt_names": [
+        "江崎 崇"
+      ],
+      "role": "supporting",
+      "description": "A withdrawn young man living in Kuki City, Saitama Prefecture. After his mother was infected, he barricaded himself in his room and spent his time looking at Internet bulletin boards. In response to a post by Kurusu's faction inviting him to join them, he is rescued.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b344144-3KZaeNurAEWe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 344144
+      }
+    },
+    {
+      "id": "masakazu-murai",
+      "name": "Masakazu Murai",
+      "alt_names": [
+        "村井正和",
+        "Burai"
+      ],
+      "role": "supporting",
+      "description": "One of the members who holed up in the mall. He is a military geek and owns an air gun. He becomes a member of the food procurement team.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b344145-HzYwKj7ZKu47.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 344145
+      }
+    },
+    {
+      "id": "mejiro",
+      "name": "Mejiro",
+      "alt_names": [
+        "目白"
+      ],
+      "role": "supporting",
+      "description": "He is a martial arts fighter who teams up with Sango.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b344146-imdUPb1jdonJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 344146
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T11:05:33.937Z"
+}

@@ -1,0 +1,352 @@
+{
+  "work_id": "suzume",
+  "count": 15,
+  "characters": [
+    {
+      "id": "suzume-iwato",
+      "name": "Suzume Iwato",
+      "alt_names": [
+        "岩戸鈴芽",
+        "すずめ"
+      ],
+      "role": "protagonist",
+      "description": "A kind and polite - yet headstrong - high-school girl who lives with her aunt in Tonami, Miyazaki Prefecture, Kyushu. She has recurring dreams of her younger self wandering through a field, surrounded by ruins of a city, trying to find her mother.\n\n~!After accidentally freeing a disastrous force of nature and peering into the mysterious land of Ever-After (常世), she ends up embarking on a journey across Japan in an attempt to seal it, at the same time gradually learning more about the true nature of her strange visions.!~\n\nShe seems to have great admiration for her mother, who was a nurse, studying medicine books and holding onto a small chair she made for Suzume's fourth birthday in 2010. ~!As it turns out, she's constantly repressing memories of her mother's death on March 11th in the 2011 Great East Japan Earthquake, having even blacked out pages from her childhood sketchbook that detailed the event, burying it in a metal box near the ruins of her childhood home.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": "2006-05-24"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b259510-59wuAsKvY2wW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 259510
+      }
+    },
+    {
+      "id": "souta-munakata",
+      "name": "Souta Munakata",
+      "alt_names": [
+        "宗像草太"
+      ],
+      "role": "protagonist",
+      "description": "He is a young man who travels around Japan looking for doors that appear all over the country as a \"closers\" to close doors that bring \"disasters\".\n\nHe meets Suzume on his way to the ruins where the door is located.\n\n~!He is turned into Suzume's three-legged chair by Daijin.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284260-lXeBzrA6ZchP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284260
+      }
+    },
+    {
+      "id": "daijin",
+      "name": "Daijin",
+      "alt_names": [
+        "ダイジン"
+      ],
+      "role": "supporting",
+      "description": "A mysterious white cat that speaks human language who suddenly appears in front of Suzume.\n\n~!It appears at places where doors open and plays tricks on Suzume and her friends. In the form of a cat statue, it was the western gatestone responsible for holding back the worms from escaping open doors in abandoned places before it was unknowingly released by Suzume.!~ ~!Daijin transforms Souta into a chair and designates him as its replacement as the western gatestone.!~ ~!Daijin becomes thinner and more ragged in body structure when rejected by Suzume and gains its normal appearance back when treated with kindness.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284261-2m1iJLNCFjed.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284261
+      }
+    },
+    {
+      "id": "tamaki-iwato",
+      "name": "Tamaki Iwato",
+      "alt_names": [
+        "岩戸環"
+      ],
+      "role": "supporting",
+      "description": "Suzume's aunt and guardian.",
+      "metadata": {
+        "gender": "female",
+        "age": "40",
+        "dateOfBirth": "1983-07-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b288384-PNOiHHPWu6q6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 288384
+      }
+    },
+    {
+      "id": "minoru-okabe",
+      "name": "Minoru Okabe",
+      "alt_names": [
+        "岡部稔"
+      ],
+      "role": "supporting",
+      "description": "Tamaki's co-worker.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b288385-eU3RKqqd4lmx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 288385
+      }
+    },
+    {
+      "id": "rumi-ninomiya",
+      "name": "Rumi Ninomiya",
+      "alt_names": [
+        "二ノ宮ルミ"
+      ],
+      "role": "supporting",
+      "description": "A local bar owner from Kobe. She picks up Suzume to help her travel to Kobe. She has 2 twins, Hana and Sora, that Suzume babysits with the help of Souta.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b288386-jyefDIUWxFu0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 288386
+      }
+    },
+    {
+      "id": "chika-amabe",
+      "name": "Chika Amabe",
+      "alt_names": [
+        "海部千果"
+      ],
+      "role": "supporting",
+      "description": "A girl the same age of Suzume that she meets in Ehime. Her family runs an inn.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b288387-fggq6B6V1RIO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 288387
+      }
+    },
+    {
+      "id": "tsubame-iwato",
+      "name": "Tsubame Iwato",
+      "alt_names": [
+        "岩戸椿芽"
+      ],
+      "role": "supporting",
+      "description": "[Suzume's](https://anilist.co/character/259510) mother. ~!She died when Suzume was 4 years old, implied to be from the 2011 Touhoku earthquake.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b288389-D4znbEPwDIlX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 288389
+      }
+    },
+    {
+      "id": "hitsujirou-munakata",
+      "name": "Hitsujirou Munakata",
+      "alt_names": [
+        "宗像羊朗"
+      ],
+      "role": "supporting",
+      "description": "Souta's hospitalized grandfather. He was also a \"closer\".",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b288390-nDVYozMMJUQ2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 288390
+      }
+    },
+    {
+      "id": "tomoya-serizawa",
+      "name": "Tomoya Serizawa",
+      "alt_names": [
+        "芹澤朋也"
+      ],
+      "role": "supporting",
+      "description": "[Souta's](https://anilist.co/character/284260/Souta-Munakata) friend.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b290250-myx8ivN31LLC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 290250
+      }
+    },
+    {
+      "id": "miki",
+      "name": "Miki",
+      "alt_names": [
+        "ミキ"
+      ],
+      "role": "supporting",
+      "description": "Part-time worker at Rumi's snack bar.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302869-eqnu81Mx93VW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302869
+      }
+    },
+    {
+      "id": "hana",
+      "name": "Hana",
+      "alt_names": [
+        "花"
+      ],
+      "role": "supporting",
+      "description": "Rumi's child and twin of Sora.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302870-wIE6MYjocTNA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302870
+      }
+    },
+    {
+      "id": "sora",
+      "name": "Sora",
+      "alt_names": [
+        "空"
+      ],
+      "role": "supporting",
+      "description": "Rumi's child and twin of Hana.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302871-1a9AJDuVfA31.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302871
+      }
+    },
+    {
+      "id": "kinuyo",
+      "name": "Kinuyo",
+      "alt_names": [
+        "絹代"
+      ],
+      "role": "supporting",
+      "description": "Convenience store owner and Souta's landlord.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302872
+      }
+    },
+    {
+      "id": "sadaijin",
+      "name": "Sadaijin",
+      "alt_names": [
+        "サダイジン"
+      ],
+      "role": "supporting",
+      "description": "~!Like Daijin, Sadaijin is a god-like divine beast in the form of a cat.!~ ~!The eastern keystone responsible for holding back the worms from escaping open doors in abandoned places.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302873-NY1mcT68p1un.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302873
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T21:55:56.822Z"
+}

@@ -1,0 +1,167 @@
+{
+  "work_id": "happiness",
+  "count": 7,
+  "characters": [
+    {
+      "id": "makoto-okazaki",
+      "name": "Makoto Okazaki",
+      "alt_names": [
+        "岡崎真氏"
+      ],
+      "role": "protagonist",
+      "description": "Makoto Okazaki is your run of the mill high-schooler, a perfect bullying target and a closet pervert. One night, on his way to return a DVD to a friend, he notices a person on a nearby rooftop. The person lunges at him and bites his neck, drinking his blood. The attacker, a beautiful girl, then asks him: \"Do you want to die or become like me?\" He decides to live...",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130197-gzUv8EwZ0PFQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130197
+      }
+    },
+    {
+      "id": "yukiko-gosho",
+      "name": "Yukiko Gosho",
+      "alt_names": [
+        "五所雪子"
+      ],
+      "role": "protagonist",
+      "description": "Makoto's friend. She is antisocial and withdrawn from the rest of the group, she likes to eat lunch alone in a secluded place outside the classroom.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143737-5jWqpiCtgN4G.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 143737
+      }
+    },
+    {
+      "id": "nora",
+      "name": "Nora",
+      "alt_names": [
+        "ノラ"
+      ],
+      "role": "supporting",
+      "description": "Race: Vampire\nPhysical traits: A teenage girl, mysterious, charming, beautiful and cursed.\n~!Several centuries ago, in a rural village in Japan, Nora lived a happy and peaceful life with her family, and like many young women, she had also found love (a boy who is identical to Okazaki). Unfortunately, this idyll has a short duration. In fact, Nora is chosen by her community as a sacrificial victim to offer to the vampire kept segregated in a cave outside the village. Having become a vampire in turn, the young girl is forced to abandon her family, her lover, and with them her happiness.!~",
+      "metadata": {
+        "age": "300+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130196-DWvcqan6rbGr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130196
+      }
+    },
+    {
+      "id": "yuki-ono",
+      "name": "Yuki Ono",
+      "alt_names": [
+        "大野勇樹"
+      ],
+      "role": "supporting",
+      "description": "Shiraishi's boyfriend and Makoto's classmate.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205115-rNvwFCaEJrQX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205115
+      }
+    },
+    {
+      "id": "nao-shiraishi",
+      "name": "Nao Shiraishi",
+      "alt_names": [
+        "白石菜緒"
+      ],
+      "role": "supporting",
+      "description": "Yuki's girlfriend and Okazaki's classmate.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220773-Aoz0aznnWgOw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220773
+      }
+    },
+    {
+      "id": "masami-sakurane",
+      "name": "Masami Sakurane",
+      "alt_names": [
+        "桜根正美",
+        "Guru"
+      ],
+      "role": "supporting",
+      "description": "A cult leader, worshipper of vampires and the main antagonist of the series",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220774-F0cEKPLjv05Y.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220774
+      }
+    },
+    {
+      "id": "saku",
+      "name": "Saku",
+      "alt_names": [
+        "サク"
+      ],
+      "role": "supporting",
+      "description": "A vampire living on earth for an unknown date.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220775-f8qg31KUlBFA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220775
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T11:09:46.213Z"
+}

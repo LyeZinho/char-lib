@@ -1,0 +1,171 @@
+{
+  "work_id": "all-you-need-is-kill",
+  "count": 7,
+  "characters": [
+    {
+      "id": "keiji-kiriya",
+      "name": "Keiji Kiriya",
+      "alt_names": [
+        "キリヤ・ケイジ",
+        "Kei",
+        "Killer Cage"
+      ],
+      "role": "protagonist",
+      "description": "A new recruit in the United Defense Force. He finds himself caught in a time loop where he wakes up one day in the past after having been killed on the battlefield. Through the training and battles he experiences in these loops he comes into his own as a soldier.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84785-eUo4BueeuaCY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84785
+      }
+    },
+    {
+      "id": "rita-vrataski",
+      "name": "Rita Vrataski",
+      "alt_names": [
+        "リタ・ヴラタスキ",
+        "Full Metal Bitch"
+      ],
+      "role": "protagonist",
+      "description": "A U.S. special forces soldier. Highly decorated and peerless in battle, she is seen as a hero by the entire world.\n~! In reality, she was caught in a time loop just like Keiji. !~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84787-J4fuPAlxZO3O.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84787
+      }
+    },
+    {
+      "id": "shasta-raylle",
+      "name": "Shasta Raylle",
+      "alt_names": [
+        "シャスタ・レイル"
+      ],
+      "role": "supporting",
+      "description": "Shasta Raylle is [Rita](https://anilist.co/character/84787/Rita-Vrataski)'s mechanic.\nShe is MIT graduate that was able to skip a year, proving her genius. However, she is shy, easily frightened and taken by surprised.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84789.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84789
+      }
+    },
+    {
+      "id": "jin-yonabaru",
+      "name": "Jin Yonabaru",
+      "alt_names": [
+        "ジン・ヨナバル"
+      ],
+      "role": "supporting",
+      "description": "Jin Yonabaru is [Keiji](https://anilist.co/character/84785/Keiji-Kiriya)'s colleague. He is talkative Corporal.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84791.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84791
+      }
+    },
+    {
+      "id": "bartolome-ferrell",
+      "name": "Bartolome Ferrell",
+      "alt_names": [
+        "バルトロメ・フェレウ"
+      ],
+      "role": "supporting",
+      "description": "[Keiji](https://anilist.co/character/84785/Keiji-Kiriya)'s platoon sergeant. An overly fitness-conscious man who takes care of his subordinates.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84793.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 84793
+      }
+    },
+    {
+      "id": "rachel-kisaragi",
+      "name": "Rachel Kisaragi",
+      "alt_names": [
+        "レイチェル・キサラギ"
+      ],
+      "role": "supporting",
+      "description": "She works in the kitchen.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b317455-q8uKyCJKq6sW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 317455
+      }
+    },
+    {
+      "id": "arthur-hendricks",
+      "name": "Arthur Hendricks",
+      "alt_names": [
+        "アーサー・ヘンドリックス"
+      ],
+      "role": "supporting",
+      "description": "The platoon leader who held Special Forces together.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b317456-Ybygl6JV5LwA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 317456
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T05:13:20.142Z"
+}

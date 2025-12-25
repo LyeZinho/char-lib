@@ -1,0 +1,217 @@
+{
+  "work_id": "girls-last-tour",
+  "count": 9,
+  "characters": [
+    {
+      "id": "chito",
+      "name": "Chito",
+      "alt_names": [
+        "チト",
+        "Chi",
+        "Chii"
+      ],
+      "role": "protagonist",
+      "description": "She travels with __Yuuri__ on their Kettenkrad. She can read and write in the current language, but not in kanji or Latin alphabets, because they became old languages in this world. She loves reading and collecting books she finds during traveling.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/120889-o9uGSBNtqgJ8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120889
+      }
+    },
+    {
+      "id": "yuuri",
+      "name": "Yuuri",
+      "alt_names": [
+        "ユーリ",
+        "Yuu"
+      ],
+      "role": "protagonist",
+      "description": "Yuuri is a care-free, fun-loving girl. She is the direct foil and companion of Chito. She carries an Arisaka type 38 rifle and loves food more than anything else in the world.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120890-pu5qO3xxvvcx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120890
+      }
+    },
+    {
+      "id": "ishii",
+      "name": "Ishii",
+      "alt_names": [
+        "イシイ"
+      ],
+      "role": "supporting",
+      "description": "Woman with glasses who repaired Chito's and Yuri's vehicle and asked for help with plane construction in exchange. The last pilot in history. Like Yuuri, Ishii is also left-handed.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124302-GQwCbSnY4ILt.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124302
+      }
+    },
+    {
+      "id": "kanazawa",
+      "name": "Kanazawa",
+      "alt_names": [
+        "カナザワ"
+      ],
+      "role": "supporting",
+      "description": "A traveler Chito and Yuuri meet while trying to find a path to the upper stratum of the city. He is a cartographer who wants to map the entire city.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124303-CHDdY0qj8Ajn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124303
+      }
+    },
+    {
+      "id": "nuko",
+      "name": "Nuko",
+      "alt_names": [
+        "ヌコ",
+        "Ket"
+      ],
+      "role": "supporting",
+      "description": "A mysterious creature that Chito and Yuuri pick up on their journey. It can shape shift to activate mechanisms and communicate via radio signals.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124936-Jjy56R1xBIbc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124936
+      }
+    },
+    {
+      "id": "jiritsu-kikai",
+      "name": "Jiritsu Kikai",
+      "alt_names": [
+        "自律機械",
+        "Automaton"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124937-bXNG7t2RumEn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124937
+      }
+    },
+    {
+      "id": "ojii-san",
+      "name": "Ojii-san",
+      "alt_names": [
+        "おじいさん",
+        "Grandfather"
+      ],
+      "role": "supporting",
+      "description": "Grandfather was the caretaker of Yuuri and Chito when they were young. The two girls have no recollection of their parents, and it is presumed that the grandfather had raised them for a long time.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250110-QmjfI76Z8kOl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250110
+      }
+    },
+    {
+      "id": "eringi",
+      "name": "Eringi",
+      "alt_names": [
+        "エリンギ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b252286-sGHrrIDB2rjX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 252286
+      }
+    },
+    {
+      "id": "dai-6-kikantou-no-jinkou-chinou",
+      "name": "Dai-6 Kikantou no Jinkou Chinou",
+      "alt_names": [
+        "第6基幹塔の人工知能",
+        "The God of Failed Work"
+      ],
+      "role": "supporting",
+      "description": "An artificial intelligence that manages Main Tower No.6. Their main job is to be an intermediary between machines and humans.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214031-DXIVZL4ef9VR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214031
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T02:22:14.777Z"
+}

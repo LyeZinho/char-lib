@@ -1,0 +1,344 @@
+{
+  "work_id": "tomo-chan-is-a-girl",
+  "count": 14,
+  "characters": [
+    {
+      "id": "tomo-aizawa",
+      "name": "Tomo Aizawa",
+      "alt_names": [
+        "相沢智"
+      ],
+      "role": "protagonist",
+      "description": "**Relatives:** Akemi (Mother), Gorou (Father)\n\nTomo is a high school student with a tomboyish personality, exceptional skills in combat sports, and an earnest desire to win the heart of her childhood friend Junichiro. Despite her athletic abilities, she is self-conscious about her masculine traits and seeks to become more feminine.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89181-eo1e0troTZz2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89181
+      }
+    },
+    {
+      "id": "junichirou-kubota",
+      "name": "Junichirou Kubota",
+      "alt_names": [
+        "久保田淳一郎",
+        "Jun",
+        "Kubo-jun",
+        "Kubojun",
+        "Jun-bou",
+        "Junbou",
+        "Junbo"
+      ],
+      "role": "protagonist",
+      "description": "Junichirou Kubota is the deuteragonist of Tomo-chan wa Onnanoko!. He is Tomo's neighbor, childhood friend, fellow dojo pupil and high school classmate. He is handsome but unaware of Tomo's affections towards him. He regularly trains with Tomo's father's dojo and feels jealous when she gives attention to other guys.\n\nHe does not get along with Misuzu, having briefly dated her in middle school.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89182-BHYMfg00RGvr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89182
+      }
+    },
+    {
+      "id": "misuzu-gundou",
+      "name": "Misuzu Gundou",
+      "alt_names": [
+        "群堂みすず"
+      ],
+      "role": "protagonist",
+      "description": "**Relatives:** Misaki (Mother)\n\nMisuzu Gundou is the tritagonist of Tomo-chan wa Onnanoko!. She is Tomo and Jun's childhood friend and classmate. She is cunning and sometimes sadistic, often teasing Jun. However, she is also protective of her friend and dislikes the idea of Tomo and Jun progressing their relationship.\n\nMisuzu teases Jun and they briefly dated for 3 days, but broke up because she couldn't keep up with his wild adventures. She has stated that she hates him for breaking up with her before she could break up with him.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89183-7rdNPxR2afjA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89183
+      }
+    },
+    {
+      "id": "carol-olston",
+      "name": "Carol Olston",
+      "alt_names": [
+        "キャロル・オールストン",
+        "Mochi Girl",
+        "Blondie McTits",
+        "Caroline",
+        "Cotton Candy"
+      ],
+      "role": "protagonist",
+      "description": "**Relatives:** Ferris (Mother), Kousuke (Distant Cousin)\n\nCarol is a classmate and friend of Tomo, Jun and Misuzu. A beautiful, doll-faced student of British origin with no filter between her brain and her mouth.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n89512-Uxe3M5okQXG7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89512
+      }
+    },
+    {
+      "id": "akemi-aizawa",
+      "name": "Akemi Aizawa",
+      "alt_names": [
+        "相沢あけみ"
+      ],
+      "role": "supporting",
+      "description": "Tomo's mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89509-ibzmCdGKxCaB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89509
+      }
+    },
+    {
+      "id": "gorou-aizawa",
+      "name": "Gorou Aizawa",
+      "alt_names": [
+        "相沢五郎"
+      ],
+      "role": "supporting",
+      "description": "Tomo's father. He runs the Aizawa Dojo and he has trained both Tomo and Jun.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89510-HzDOoBYVXUlc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89510
+      }
+    },
+    {
+      "id": "kousuke-misaki",
+      "name": "Kousuke Misaki",
+      "alt_names": [
+        "御崎光助",
+        "Kou",
+        "Kounoji"
+      ],
+      "role": "supporting",
+      "description": "Second-year student and a captain of karate club. He's a cousin and childhood friend of Carol. He also has British roots. Really admires Tomo.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89511-mlonsiDWDEoM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89511
+      }
+    },
+    {
+      "id": "misaki-gundou",
+      "name": "Misaki Gundou",
+      "alt_names": [
+        "群堂みさき"
+      ],
+      "role": "supporting",
+      "description": "She is Misuzu's mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187792-fBZDC9U6nn7f.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187792
+      }
+    },
+    {
+      "id": "tatsumi-tanabe",
+      "name": "Tatsumi Tanabe",
+      "alt_names": [
+        "田辺達巳"
+      ],
+      "role": "supporting",
+      "description": "Tatsumi Tanabe is a classmate and friend of Jun. He develops a crush on Misuzu ever since she gave him a death glare after telling him to stay away from Tomo.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187793-6xbKR0mF5eDD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187793
+      }
+    },
+    {
+      "id": "ferris-olston",
+      "name": "Ferris Olston",
+      "alt_names": [
+        "フェリス・オルストン"
+      ],
+      "role": "supporting",
+      "description": "She is Carol's mother and wife of Eddie Olston. Ferris is as bubble-headed and airy like her daughter. She even got lost from the front gate of her house trying to get back to the house. She worked at her mother's café in Britain as a waitress and met Eddie when she was only thirteen.",
+      "metadata": {
+        "gender": "female",
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187795-9FDPIzcFgCRV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187795
+      }
+    },
+    {
+      "id": "akiko-tanabe",
+      "name": "Akiko Tanabe",
+      "alt_names": [
+        "田辺秋子"
+      ],
+      "role": "supporting",
+      "description": "She is the younger sister of Tanabe Tatsumi.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187796-Jc9suUkvvo5u.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187796
+      }
+    },
+    {
+      "id": "chiyomi-ogawa",
+      "name": "Chiyomi Ogawa",
+      "alt_names": [
+        "小川千代美"
+      ],
+      "role": "supporting",
+      "description": "Ogawa is a classmate of Tomo and best friend of Mifune.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187797-fekHpWdfqVoO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187797
+      }
+    },
+    {
+      "id": "naoko-mifune",
+      "name": "Naoko Mifune",
+      "alt_names": [
+        "三船直子"
+      ],
+      "role": "supporting",
+      "description": "Mifune starts off as not the nicest person along with her best friend Ogawa, she tried to pick a fight with Tomo Aizawa, which was a bad idea. But since it was a misunderstanding they have since become somewhat friends.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b187798-WAZETCQT83z4.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 187798
+      }
+    },
+    {
+      "id": "takeru-gouma",
+      "name": "Takeru Gouma",
+      "alt_names": [
+        "郷間猛"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b299059-wy2j3TcwZ3nr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 299059
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T03:30:15.824Z"
+}

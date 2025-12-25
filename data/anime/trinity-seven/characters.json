@@ -1,0 +1,355 @@
+{
+  "work_id": "trinity-seven",
+  "count": 15,
+  "characters": [
+    {
+      "id": "arata-kasuga",
+      "name": "Arata Kasuga",
+      "alt_names": [
+        "春日アラタ"
+      ],
+      "role": "protagonist",
+      "description": "Kasuga Arata used to live with his cousin and childhood friend Kasuga Hijiri, but one day something happened to the city he lives in, and an object was given to him by his cousin. When he finds out she could be alive he tries to become a magician, meeting with the Trinity Sevens in order to become a &quot;Magus&quot; and save Hijiri.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b42391-UdBonh0v1e6c.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 42391
+      }
+    },
+    {
+      "id": "lilith-asami",
+      "name": "Lilith Asami",
+      "alt_names": [
+        "浅見リリス"
+      ],
+      "role": "protagonist",
+      "description": "Lilith is a teacher at the Magic Academy, Lillith possess the ability to manipulate magical energy into her \"Thema,\" a sort of basic will that she uses to create an effect.\n\nShe is the one who introduced Arata to the magic world, she becomes one of his earliest allies and friends, watching and supporting him since meeting him.\n\n~!Her real name is Azazel Lilith, daughter of a demon king who had her memories changed traveling through two worlds.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b52883-c8iS3mq7deeb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 52883
+      }
+    },
+    {
+      "id": "levi-kazama",
+      "name": "Levi Kazama",
+      "alt_names": [
+        "風間レヴィ"
+      ],
+      "role": "protagonist",
+      "description": "Levi Kazama is a ninja and the Trinity Seven of Invidia, as well as a student at the Royal Biblia Academy. As a user of Shamanic Spells, she is considered to be one of world's top three fighters, becoming one of Arata's earliest allies.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b52885-cqZ8vUbPQkIY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 52885
+      }
+    },
+    {
+      "id": "yui-kurata",
+      "name": "Yui Kurata",
+      "alt_names": [
+        "倉田ユイ"
+      ],
+      "role": "protagonist",
+      "description": "Yui is a special mage, as she can only communicate with others through dreams. She also lives in the dungeon underneath the academy. After she was rescued by Arata and other Trinity Seven members (except for Lieselotte due to her disappearance) Yui can return to a normal life with other people and Levi as her close friend. She has a little-sister-personality and is extremely close to Arata, calling him \"Onii-chan\" and exclaims her love for him constantly. Yui is a member of Trinity Seven, too, embodying Greed.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b52887-Kjz3W8kwZvgy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 52887
+      }
+    },
+    {
+      "id": "akio-fudou",
+      "name": "Akio Fudou",
+      "alt_names": [
+        "不動アキオ"
+      ],
+      "role": "protagonist",
+      "description": "Akio Fudou is the partner of Mira in operating Grimoire Security as well as a member of the Trinity Seven. Akio won't let anyone get close to her based purely on offensive power.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b52889-leCPSOEz7jsR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 52889
+      }
+    },
+    {
+      "id": "mira-yamana",
+      "name": "Mira Yamana",
+      "alt_names": [
+        "山奈ミラ"
+      ],
+      "role": "protagonist",
+      "description": "Mira Yamana is the Head of Grimoire Security and one of the Trinity Seven.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b52891-eZKcD1U2411W.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 52891
+      }
+    },
+    {
+      "id": "arin-kannazuki",
+      "name": "Arin Kannazuki",
+      "alt_names": [
+        "神無月アリン"
+      ],
+      "role": "protagonist",
+      "description": "__Archive:__ Ira (wrath)\n__Thema:__ ruina, paratum, victoria (temporary)\n__Grimoire:__ Laguna Yggdrasil\n\nA mysterious girl who claims Arata to be her husband. She looks like Hijiri, Arata's cousin and childhood friend. Arin rarely shows emotion, and cares little what others think of her. Her first meeting with Arata occurred when she was bathing in the men's bath because she preferred the quiet (very few men attend the academy due to the fact females are usually more attuned to magic) despite being discovered by Arata she acts casual as if nothing had happened. Although she shows little emotion of her own she is quick to notice it in others. Arin has no memory before the age of 8 she remembers a void of nothingness, slowly becoming aware of the world around her she began to cry, then started wandering and eventually was discovered by the headmaster who took her to the school, she has been there ever since.\n\nArin believes herself to be the magic king/demon lord's wife although no official marriage has been arranged, thus she becomes quite jealous of anyone flirting with Arata, however she has stated that she doesn't mind the trinity seven because they are all friends. As time progresses Arin starts to show a little more emotion, such as smiling and blushing when speaking to Arata, the other trinty seven members have commented on this saying that they prefer this side of her.\n\nArin's Magic is mostly spell based. her branch is chaotic rune which is said to manifest the power of the gods, her magic is capable of overpowering the magic king/demon lord canadit's power once enhanced, and is activated by writing Norse runes in the air. Her magic is highly compatible with Yui's arc symphony.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b56701-8kwNt7u6EC0A.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 56701
+      }
+    },
+    {
+      "id": "lieselotte-sherlock",
+      "name": "Lieselotte Sherlock",
+      "alt_names": [
+        "リーゼロッテ・シャルロック"
+      ],
+      "role": "protagonist",
+      "description": "Lieselotte is a beautiful young lady, who has flowing, long blonde hair that is tied up in twin tail. She has purple eyes compared to her sister who has blue eyes. She is also very voluptuous. Her main attire consists of thigh boots, opera gloves, shorts, and a cape-like dress that leaves her midriff open that is held by two strings attached to her choker.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b68397-EGnq9dvdsDyp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 68397
+      }
+    },
+    {
+      "id": "selina-sherlock",
+      "name": "Selina Sherlock",
+      "alt_names": [
+        "セリナ＝シャルロック"
+      ],
+      "role": "supporting",
+      "description": "Selina Sherlock is the younger twin sister of Lieselotte, and a student reporter at Royal Biblia Academy. Because her elder sister is a member of Trinity Seven, Selina becomes closely affiliated with some of the other members and later Arata Kasuga as well.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b68373-0d8ngr3OGJcn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 68373
+      }
+    },
+    {
+      "id": "sora",
+      "name": "Sora",
+      "alt_names": [
+        "ソラ",
+        "Astil Manuscript"
+      ],
+      "role": "supporting",
+      "description": "The Astil Manuscript or Sora, as affectionately named by Arata, is a legendary grimoire said to contain information about another world. Originally belonging to Hijiri, Sora has since contracted with Arata, supporting and protecting him after becoming a magus.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126070-8ratU20kntOQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126070
+      }
+    },
+    {
+      "id": "biblia-gakuenchou",
+      "name": "Biblia Gakuenchou",
+      "alt_names": [
+        "ビブリア学園長",
+        "Master Biblia"
+      ],
+      "role": "supporting",
+      "description": "Master Biblia is a Paladin-Class mage and is the headmaster who presides over the Biblia Magic Academy.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135744-77gtNoN4WHUb.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135744
+      }
+    },
+    {
+      "id": "ilias-fragment",
+      "name": "Ilias Fragment",
+      "alt_names": [
+        "イーリアス断章",
+        "llia"
+      ],
+      "role": "supporting",
+      "description": "Ilias Fragment, is a grimoire that was owned by Hijiri. She took on Hijiri's memories and appearance and acted as a substitute. Whenever Hijiri was out of the house on magus duty, she would take her place and cook for Arata or do the household chores. She is a support type grimoire. She is able to transfer all her energy to her owner.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135745-q3fWYTFFB2WE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135745
+      }
+    },
+    {
+      "id": "hijiri-kasuga",
+      "name": "Hijiri Kasuga",
+      "alt_names": [
+        "春日聖"
+      ],
+      "role": "supporting",
+      "description": "Arata's cousin and childhood friend.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135746-0JM2A8cKsWAn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135746
+      }
+    },
+    {
+      "id": "lugh",
+      "name": "Lugh",
+      "alt_names": [
+        "ルーグ"
+      ],
+      "role": "supporting",
+      "description": "She is a member of Iscariot, magus of the Invidia Archive and a thief.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135747-91thIUh5yKLp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135747
+      }
+    },
+    {
+      "id": "master-liber",
+      "name": "Master Liber ",
+      "alt_names": [
+        "マスターリベル"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b159343-mZRQXlBnvxAK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 159343
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T14:14:24.294Z"
+}

@@ -1,0 +1,385 @@
+{
+  "work_id": "fairy-tail-series-2",
+  "count": 15,
+  "characters": [
+    {
+      "id": "lucy-heartfilia",
+      "name": "Lucy Heartfilia",
+      "alt_names": [
+        "ルーシィ・ハートフィリア",
+        "Luigi",
+        "Lu-chan",
+        "Blondie"
+      ],
+      "role": "protagonist",
+      "description": "A mage from the Fairy Tail guild who wields Celestial Spirit magic.\n\nLucy is cheerful, clever, and often gets swept along by her disruptive guildmates when they go overboard. Empathetic, caring, and more likely to write novels than wage battles, Lucy becomes most emboldened to challenge enemies when she needs to fight for her friends. She is said to be a noisy and somewhat fussy person, and there are times when she can be naive and too easily forgiving, greedy for validation as well as overly confident at inopportune moments. However, despite any failings and instances of self-doubt, she doesn't allow herself to feel down for too long - her optimism is boundless.\n\nIn July of Earth Land year X784, Lucy is a normal 17-year-old Fioran who wishes to join the infamous mage guild, Fairy Tail - although they have a reputation for being thoroughly destructive, she admires their strength and numbers. After a fateful meeting with two members of the guild in the town of Hargeon, Natsu Dragneel and his flying blue cat, Happy, she travels with them back to Fairy Tail, located in Magnolia, to begin the adventure of a lifetime.\n\n~!Lucy's surname is quickly revealed to be quite significant, for it distinguishes her as a member of the Heartfilia family, who head a powerful and wealthy organization called the Heartfilia Konzern. The Heartfilia's connection to Celestial Sprit Magic becomes a key point later on.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17-19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5186
+      }
+    },
+    {
+      "id": "natsu-dragneel",
+      "name": "Natsu Dragneel",
+      "alt_names": [
+        "ナツ・ドラグニル",
+        "Salamander (サラマンダー)",
+        "Dragon Slayer"
+      ],
+      "role": "protagonist",
+      "description": "A mage from the Fairy Tail Guild who wields fire dragon slayer magic.\n\nNatsu has a carefree and reckless nature and, despite his constant brawls with the other members of the guild, is a fiercely loyal and protective friend. He has a particularly close and competitive relationship with Gray Fullbuster and Erza Scarlet. With the former, he has had a constant rivalry from a young age and although they often denounce each other as not being friends, they regularly watch each others' back even when they are enraged with one another. He has had the same sort of relationship with Erza - the two both being scared of her since a young age - and they seemed to have a fairly good relationship in the past as, according to Erza, they used to shower together. He befriends people rather quickly too, considering Lucy a friend and willing to team up with her only after a few days of knowing her.\n\nIgneel, a dragon, found him in the forest and ended up taking care of him. He taught Natsu how to speak, read, and use magic. But one day Igneel disappeared without a trace. Because of this, Natsu's goal in life is to find him. \n\n~!Natsu is also among the five Dragon Slayers sent to the future from four hundred years past, having an additional purpose in the assistance of the defeat of Acnologia.!~\n\n~!He is the younger brother of Zeref Dragneel, having originally died 400 years ago, being subsequently revived as his brother's most powerful Etherious: E.N.D.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5187
+      }
+    },
+    {
+      "id": "happy",
+      "name": "Happy",
+      "alt_names": [
+        "ハッピー"
+      ],
+      "role": "protagonist",
+      "description": "Happy is a cat with some magical power, which may be the reason for his ability to speak. He can temporarily grow wings on his back and fly, and is capable of carrying only one person in this form. Happy apparently can fly at incredible speed (As it took Eligor less than a hour to reach Clover when Happy caught up with him in mere seconds with Natsu in tow) This is also the only kind of transportation that does not make Natsu sick. When asked why, Natsu got angry and exclaimed that Happy was a friend, not a means of transportation, ironically Natsu later gets sick when Gray gives him a piggyback ride when he's injured. He's very close to Natsu and becomes friends with Lucy quickly. The three form a team at the start of the manga. Happy is a full-fledged member of Fairy Tail, and has a member stamp on his back. It's also unknown if Happy even though being a mage and a member of Fairy Tail, can use his magic offensively or not.  Happy has a very cheerful nature. Even when facing danger, he maintains a smile. Along with Lucy, he is one of the saner members of Fairy Tail and often acts as the mediator between Natsu and Gray.  Happy's original name was going to be named Freyr, after a Norse god. But Hiro Mashima felt it didn't fit him, so he change the name to Happy to fit the character.   ~!Happy is actually a magical creature that comes from Edolas. These creatures are called Exceed, and are sent to Earthland to kill the Dragon Slayers. When their mission was changed to \"kidnap the Dragon Slayers\", Happy's memory got erased. Later it was revealed that this was not the case but that they were sent there to try to save their lives from a future foreseen by the queen of the Exceed. The \"mission\" was a misunderstanding by Charle who has the same ability as the queen and did not understand what her visions meant.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5188-1jTaic3aJ7Ds.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5188
+      }
+    },
+    {
+      "id": "gray-fullbuster",
+      "name": "Gray Fullbuster",
+      "alt_names": [
+        "グレイ・フルバスター"
+      ],
+      "role": "protagonist",
+      "description": "__Occupation:__ Mage \n__Affiliation:__ Fairy Tail Guild \n__Team:__ Team Natsu \n__Magic:__ Ice-Make, Ice Magic, ~!Ice Devil Slayer Magic!~\n\nGray Fullbuster is a member of the Fairy Tail guild. He is an 18 year-old ice mage, practicing ice alchemy, the art of molding ice. Due to his training history, he is most comfortable in little clothing and often forgets to wear clothes or quickly takes it off, thus often being accused of being an exhibitionist. He and Natsu have a friendly rivalry, and can often be seen fighting one another. Lucy believes the nature of his magic is the reason that he and Natsu constantly bicker. His member stamp is on the right side of his chest.   \n\n~!Gray's adeptness and strength as an ice mage is quickly shown in the story. During the Lullaby of Death arc, he teams with Natsu and Erza to defeat the demon awakened from the evil spirit from the Lullaby of Death. Members of the League praise his quickness at molding ice. Later in the story, he defeats Juvia, one of the Elemental Four of Phantom Lord. This victory may have been partly influenced by Juvia's liking to Gray. Juvia comments on Gray's skill, shocked that he was able to freeze both her boiling water and the rain. After Phantom Lord's defeat, Juvia secretly spies on Gray, bringing a packed lunch for Gray while he and the guild are rebuilding the headquarters.!~  \n\nIn certain panels, Gray's necklaces looks quite similar to the Rave Stone which is a crucial part of another one of Mashima's stories, \"Rave Master.\" Mashima has stated he doesn't remember the name. He takes off his clothes because Ul made him do it as one of her teachings and now it's a force of habit.  \n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 4839
+      }
+    },
+    {
+      "id": "erza-scarlet",
+      "name": "Erza Scarlet",
+      "alt_names": [
+        "エルザ・スカーレツト",
+        "Titania"
+      ],
+      "role": "protagonist",
+      "description": "An S-class mage from the Fairy Tail Guild who uses requip magic, which allows her to summon weapons and equip armor stored in another dimension. She is the strongest active female member.\n\nErza is a very strict, intimidating, and impatient person with a strong sense of justice. She has been a member of Fairy Tail since she was a kid, and shows great loyalty and dedication to Makarov and the guild.\n\n~!Erza used to be a nameless child slave where she was forced to help build a tower called the R-system. Over time Erza made friends with other slaves, one of them being a boy her age named Jellal, who gave her the name \"Scarlet\" because of the color of her hair. She was eventually able to break free and escape-- this was also the time when her magic awakened.\n\nAfter she escaped, she sought to find Fairy Tail, which she had heard about from a fellow slave named Rob who cared for her like a grandpa.!~\n\n~!She has an artificial eye, given to her by Porlyusica, used to replace her right eye which had become blind due to an injury.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "19-21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5189
+      }
+    },
+    {
+      "id": "wendy-marvell",
+      "name": "Wendy Marvell",
+      "alt_names": [
+        "ウェンディマベル",
+        "Sky Sorceress",
+        "Sky Goddess",
+        "Sky Dragon Slayer"
+      ],
+      "role": "protagonist",
+      "description": "Wendy is the sky dragon slayer. She has the ability to heal and manipulate air.",
+      "metadata": {
+        "gender": "female",
+        "age": "12",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b28886-unO1rEi3zdyF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 28886
+      }
+    },
+    {
+      "id": "charles",
+      "name": "Charlés",
+      "alt_names": [
+        "シャルル",
+        "Carla",
+        "Charles",
+        "Charlé"
+      ],
+      "role": "protagonist",
+      "description": "Charlés is an Exceed with the same type of magic as Happy.  Wendy found her as an egg and they have been together ever since. They are very close, and Charlés sees it as her duty to protect Wendy from danger.\n\nCharlés is strict and uptight. She disapproves of fooling around.\n\n~!Charlés, like all Exceeds, came from the parallel world Edolas. She is the Exceed's princess, daughter of Queen Shagotte. As such, she possesses the same power as her mother: precognition.!~  \n\n~!After a year of training, she learns and perfects the ability to use Transformation Magic, making her appear as a young girl around Wendy's age. In this form, Charlés's magic and precognition abilities are increased, as well as her overall hand-to-hand combat proficiency.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "6",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b22723-tAU59GCaf2H4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22723
+      }
+    },
+    {
+      "id": "juvia-lockser",
+      "name": "Juvia Lockser",
+      "alt_names": [
+        "ジュビア・ロクサー",
+        "Rain Woman",
+        "Juvia of the Great Sea",
+        "Juvia of the Deep"
+      ],
+      "role": "supporting",
+      "description": "Juvia made up 1/4th of the Phantom Lord's elite group, Element 4. She was sent by the guild master Jose, along with Sol, to go and capture Lucy and bring her back to him safely. Her magic seems to deal with water as she is able to control rain and other large bodies of water. In addition, her body seems to be formed from the rain that surrounds her, leaving her intact and able to reform herself after attacks. Her nickname is also Juvia of the Sea, which correlates with her water controlling magic. When angry she can also control hot water. Juvia also often refers to herself in the 3rd person. Juvia has developed a crush on Gray, and due to a misunderstanding, views Lucy as her rival in love. After being defeated by Gray, the rain above her finally clears up which she thought was beautiful.  After the fight, her deep infatuation with Gray continues, secretly following him wherever he goes. In the Tower of Heaven arc, she mentions to Gray that she is now an independent mage once more, but Gray notes that she has probably has her eyes set on Fairy Tail. She is quite willing to do anything for him.  She is the only member of the Element 4 to be shown after the Phantom Guild arc. The Spanish word \"lluvia\", which is pronounced like her name, means rain. (Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b9719-xh4xqTV6byNl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 9719
+      }
+    },
+    {
+      "id": "gajeel-redfox",
+      "name": "Gajeel Redfox",
+      "alt_names": [
+        "ガジル レッドフォックス",
+        "Iron Dragon",
+        "Metal Dragon Slayer",
+        "Kurogane Gajeel",
+        "Gazille"
+      ],
+      "role": "supporting",
+      "description": "Gajeel is an Iron Dragon Slayer. He's short-tempered, tenacious, and fiercely loyal and dedicated to his guild. Despite saying that he doesn't want to make friends, he tries in his own way to do so. Behind Gajeel's tough exterior is an emotional guy with a sense of humor and a love for music.\n\n~!He starts out as a member of the Phantom Lord guild, but later joins Fairy Tail.!~\n\n~!Gajeel, along with the other dragon slayers, was actually born 400 years ago, and was sent to the future as a child to help destroy Acnologia.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16893-l9HhHQ8j09H5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 16893
+      }
+    },
+    {
+      "id": "mirajane-strauss",
+      "name": "Mirajane Strauss",
+      "alt_names": [
+        "ミラジェーン・ストラウス ",
+        "The Demon",
+        "Mira",
+        "She-Devil"
+      ],
+      "role": "supporting",
+      "description": "__Title:__ The Demon\n__Occupation:__ Mage\n__Known relatives:__ Elfman Strauss; Lisanna Strauss.\n\nShe is a former S-class mage and the older sister of Elfman. When Mirajane was an S-class mage, she was known as \"The Demon.\" However, due to a past incident involving the death of her younger sister, Lisanna, Mirajane somehow lost much of her magical ability and her will to fight. Given the recent event of Elfman regaining his lost abilities and Mirajane's increased confidence, Mirajane may someday regain her abilities and move forward with her life.  Mirajane plays a motherly role within the guild, and is often seen running the bar at the guild hall. She has rarely been shown to be in a bad mood, and can tolerate all of the guild's eccentricities. However, there have been a couple events that have disturbed Mirajane, including her discovery of the stealing of an S-Class job by Natsu, Happy and Lucy, and her later disappointment with Laxus following the destruction of the guild building.",
+      "metadata": {
+        "gender": "female",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5190-Xql1rGKUv1ql.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5190
+      }
+    },
+    {
+      "id": "makarov-dreyar",
+      "name": "Makarov Dreyar",
+      "alt_names": [
+        "マカロフ・ドレアー"
+      ],
+      "role": "supporting",
+      "description": "Makarov is the \"Master\" of the Fairy Tail guild and is also one of the Ten Great Holy Mages. Makarov shows extreme dislike for the Council and all the rules they try to impose on guilds. He frequently attempts to balance reprimands from the council and the eccentricity of his guild. He encourages Fairy Tail to do what they feel is right, but he has shown some concern that Natsu, Erza, and Gray will someday level a whole town. His magical abilities include Titan magic, giving him the ability to grow his body parts gigantic and his body into a giant-sized version of himself, and can control various other forms of magic including fire, ice and wind, which give him an immense magical power. The members of his guild affectionately refer to him as Ji-san or grandpa. Makarov also sees all of his guild members as his own children and will do anything to protect them. He has a perverted side, shown when he states he wishes to be smashed by Lucy's breasts and subsequently spanks her many times as a punishment.  \n\nGiven his advanced age, he considers retirement, but considers Laxus as too uncaring, Gildartz impossible for some unknown reason, Mystogan as too reclusive, and Erza as too young and brash to succeed him as guild master. After hearing the damages made by the team Erza-Lucy-Grey-Natsu-Happy from Mirajane, he cried that it's impossible to retire by now.",
+      "metadata": {
+        "gender": "male",
+        "age": "88",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/5333.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5333
+      }
+    },
+    {
+      "id": "elfman-strauss",
+      "name": "Elfman Strauss",
+      "alt_names": [
+        "エルフマン・ストラウス",
+        "Beast Arm Elfman"
+      ],
+      "role": "supporting",
+      "description": "Elfman is an 18 year-old mage. He is one of the physically stronger Fairy Tail mages, exhibiting the ability called \"Take Over,\" which allows him to absorb the power of monsters he defeated into his right arm, earning him the nickname \"Beast Arm Elfman.\" His member stamp is on his neck.   His skill is among the top level in Fairy Tail; however, due to past events, he is no longer able to use Take Over to transform his entire body. It is revealed that in the past, an error occurred with his full-body transformation, leading him to lose control over his actions. Lisana, his younger sister and former member of Fairy Tail, sacrificed her life to break his concentration and help Elfman regain sanity. As a result, his most recent attempts at full-body Take Over induces a flashback of his sister, breaking his concentration and causing the spell to fade. This event has also caused Elfman's heart to lock shut.    ~!During the attack on Fairy Guild by Phantom Lord, Mirajane is taken hostage while pretending to be Lucy. Elfman, determined to overcome this setback and keep his vow to \"never see his sister's tears\" helped him regain the ability of full-body Take Over, helping him defeat Sol, a member of the Elemental 4. !~ It seems both he and his sister Mirajane were badly hurt in the past due to their younger sister, Lisana, dying. It's said that Elfman's heart is locked shut because of what happened to Lisana.   Elfman is an enthusiastic character, seemingly obsessed with manliness and regularly spouting (sometimes nonsensical) speeches about manhood, and what it is to be and act like a man..",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5334-jJiCoq8kJAUB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5334
+      }
+    },
+    {
+      "id": "plue",
+      "name": "Plue",
+      "alt_names": [
+        "プルー（ニコラ）",
+        "Canis Minor",
+        "Nicola",
+        "Shabutaro"
+      ],
+      "role": "supporting",
+      "description": "The strange creature that Haru discovered, Plue is the Rave Bearer, and is able to sense the presence of the other Rave Stones. Plue's nose also has the ability to destroy dark brings. Plue is quite fond of sweets - especially lollipops. Plue hates pudding. He has the ability to utilize the rave of conflict which powers him and Haru up.  Plue has since shown up in Fairy Tail as one of Lucy's stellar spirits (Nicola, Canis Minor) and quickly named Plue and has been noted to only agree to be summoned on Tuesdays, Wednesdays and Thursdays.  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/5879.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5879
+      }
+    },
+    {
+      "id": "ul",
+      "name": "Ul",
+      "alt_names": [
+        "ウル",
+        "Ur"
+      ],
+      "role": "supporting",
+      "description": "Ul is a very powerful ice mage that trained both Leon and Gray. While Ul and her first apprentice Leon were walking through a town where the evil demon Deliora had just rampaged they found one lone survivor who happened to be Gray. From that day on Ul had trained both the boys to become ice mages and even began seeing them as her own two sons.   It was later revealed that Ultear is Ul's daughter and Siegrain commented that if Ul was alive, she would most likely be one of the Ten Holy Mages.    ~!Ul sacrificed herself in a battle with Deliora that was caused by Gray. He had run away from Ul and challenged Deliora himself. In order to save Gray, Ul used Iced Shell that turns the user's body into ice and thus freezes the enemy. Even so, she didn't actually die; she was turned into an ice, and it was proven when Deliora died from being frozen in the ice for too long.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8293.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8293
+      }
+    },
+    {
+      "id": "laxus-dreyar",
+      "name": "Laxus Dreyar",
+      "alt_names": [
+        "ラクサス・ドレアー"
+      ],
+      "role": "supporting",
+      "description": "__Affiliation:__ Fairy Tail Guild  \n__Occupation:__ S-Class Mage  \n__Team:__ Thunder God Tribe, Team Fairy Tail, Team Fairy Tail B  \n__Magic type:__ Lighting  \n\nLaxus Dreyar is the 23 year old S-Class mage of Fairy Tail guild. He is the grandson of Fairy Tail's master, Makarov Dreyar, and son of Ivan Dreyar.   Laxus is a master of Lightning magic. It allows him to produce, control and manipulate lightning and electricity at his will. Through its use, Laxus can not only generate lightning from his body, but also make it appear from almost anywhere to strike his opponents, taking them by surprise. By generating electricity on different parts of his body, he’s capable of making his attacks in melee deadlier, and of propelling himself around to gain extra momentum. The bright light from his lightning can be also used to momentarily blind enemies. In addition, much like other Elemental types of Magic, Lightning Magic allows Laxus to turn his own body into lightning, in order to evade enemy attacks, move around at high speed and strike every opponent crossing his path.  His eye color is different in the manga and the anime. In the manga, it is orange/dark yellow, while the anime portrays it as greenish blue.",
+      "metadata": {
+        "gender": "male",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8294-D9AMOl70Mzvc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 8294
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T21:19:44.762Z"
+}

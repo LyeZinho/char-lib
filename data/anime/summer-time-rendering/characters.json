@@ -1,0 +1,359 @@
+{
+  "work_id": "summer-time-rendering",
+  "count": 15,
+  "characters": [
+    {
+      "id": "shinpei-ajiro",
+      "name": "Shinpei Ajiro",
+      "alt_names": [
+        "網代慎平",
+        "Shin-chan"
+      ],
+      "role": "protagonist",
+      "description": "Shinpei Ajiro is the main protagonist of the Summer Time Rendering series. He returned to his hometown of Hitogashima for the first time in two years to attend the funeral of his childhood friend, Ushio Kofune. Since he lost his parents at an early age and grew up in the Kofune family, he has been close to Ushio and Mio as if they were his family.\n~!Ever wonder why Shinpei is drawn with different colored pupils or irises? it is the eye of Haine, the original shadow. It originally belonged to Haine but after leaving it, this eye was granted as a gift from Ushio to Shinpei. Following the information cited by Shide, this right eye has the power to control time, unlike Haine's left eye which can see time. With this eye, Shinpei receives various types of sub-skills, the most common, and most used is that of observation; By observing various parallel worlds with this eye, he can choose which world he will enter, and according to Shide, there is a likelihood that there are several types of world, such as a world where Shinpei and everyone in the village die for Haine and Shide, or a world where Shinpei conquers the shadows and peace blooms again on Hitogashima Island, or a world where the people he loves so much are slowly dying, and so on. This eye in question also gives a certain level of premonition, not least because it can see parts of the future thanks to its time travel. With this eye he can also travel in time, and even take someone with him, or he can use that eye to regenerate himself from injuries or problems that he started to face in each time loop he lived.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155703-1CNh5yTk8xWO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155703
+      }
+    },
+    {
+      "id": "mio-kofune",
+      "name": "Mio Kofune",
+      "alt_names": [
+        "小舟澪"
+      ],
+      "role": "protagonist",
+      "description": "She is Ushio's younger sister and a first-year high school student. She is good at sports, belongs to the swimming club, and has tanned skin. Despite the death of her older sister, she has a healthy side, such as her cheerful attitude toward Shinpei when he returns home.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": "2002-10-20"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155706-guouOSwrSqso.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155706
+      }
+    },
+    {
+      "id": "hizuru-minakata",
+      "name": "Hizuru Minakata",
+      "alt_names": [
+        "南方ひづる"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 172 cm\n\nHizuru Minakata is an author who writes using the pseudonym ~!Ryuunosuke Nagumo.!~\n\n~!She has a double personality, the second of which is her dead twin brother, [Ryuunosuke Nagumo](https://anilist.co/character/231699/Nagumo-Ryuunosuke).!~ ~!In actuality, it is [Ryuunosuke](https://anilist.co/character/231699/Nagumo-Ryuunosuke)'s shadow that is within Hizuru. He takes control whenever they must fight, so as not to make Hizuru's hands dirty. They eventually manage to properly meet and talk to each other within their mind, which they were unable to do prior. Afterwards, they take control in tandem, where [Ryuunosuke](https://anilist.co/character/231699/Nagumo-Ryuunosuke) is in control of her body to fight, while Hizuru talks to Haine at the same time!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155711-VwaqEhjhI0FL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155711
+      }
+    },
+    {
+      "id": "ushio-kofune",
+      "name": "Ushio Kofune",
+      "alt_names": [
+        "小舟潮"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 162 cm\n\nUshio Kofune is the main female protagonist of the Summertime Rendering series. She lives in Hitogashima, she lost her life in a maritime accident while trying to save Shiori from drowning in the sea. Her death acts as the starting point of the story, with Shinpei returning home to attend her funeral.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": "2000-07-25"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155712-zMvjVpfc4WQN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155712
+      }
+    },
+    {
+      "id": "haine",
+      "name": "Haine",
+      "alt_names": [
+        "ハイネ"
+      ],
+      "role": "supporting",
+      "description": "Haine is the main antagonist of the Summertime Rendering series.\n\n~!Hiruko is known as the God of Hitogashima and the mother of all Shadows. She takes the form of Haine, the first person she copied. Prior to her current apperance and based on the history and legends of Hitogashima, she took on the form of a whale's shadow.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155704-2cdpcDFmNmXw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155704
+      }
+    },
+    {
+      "id": "tokiko-hishigata",
+      "name": "Tokiko Hishigata",
+      "alt_names": [
+        "菱形朱鷺子",
+        "Toki-chan"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 150 cm\n\nTokiko Hishigata is Sou's younger sister, a first-year high school student. She is intelligent and has the top grades in her grade, but she is physically weak and not good at sports. She and Mio have known each other since childhood and are classmates at the same high school.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155705-odov1kqX0KEr.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155705
+      }
+    },
+    {
+      "id": "shiori-kobayakawa",
+      "name": "Shiori Kobayakawa",
+      "alt_names": [
+        "小早川しおり"
+      ],
+      "role": "supporting",
+      "description": "A young girl living in Hitogashima. Her family owns the Koba Mart. She was saved from drowning by [Ushio](https://anilist.co/character/155712/Kofune-Ushio), however, ended up drowning herself in that incident.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155707-fmMAbx73fWXz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155707
+      }
+    },
+    {
+      "id": "sou-hishigata",
+      "name": "Sou Hishigata",
+      "alt_names": [
+        "菱形窓"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 178 cm\n\nSou Hishigata is Shinpei's childhood friend and best friend. He is the eldest son of Hishigata Clinic, the only hospital in Hitogashima, and is studying to become a doctor. He has a strong sense of justice and regrets that he was present at the scene of Ushio's maritime accident but was unable to prevent it. He has confessed his feelings to Mio twice in the past and was rejected.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155708-mOQnFZUSbcH3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155708
+      }
+    },
+    {
+      "id": "seidou-hishigata",
+      "name": "Seidou Hishigata",
+      "alt_names": [
+        "菱形青銅"
+      ],
+      "role": "supporting",
+      "description": "Seido Hishigata is the father of [Sou](https://anilist.co/character/155708/Sou-Hishigata) and [Tokiko](https://anilist.co/character/155705/Tokiko-Hishigata). He serves as the director of Hitogashima's only hospital, the Hishigata Clinic.\n\n~!It is revealed later in the series that Seido Hishigata used his clinic as a front to hide his affiliation with [Haine](https://anilist.co/character/155704/Haine) where he would feed the bodies of the deceased to her.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155709-S0ylh1rEm2ki.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155709
+      }
+    },
+    {
+      "id": "masahito-karikiri",
+      "name": "Masahito Karikiri",
+      "alt_names": [
+        "雁切真砂人"
+      ],
+      "role": "supporting",
+      "description": "Masahito Karikiri is the chief priest of the Nitto Shrine located in the northern part of Hitogashima.\n\n~!It is revealed later in the series that Masahito Karikiri is Shide and a human/shadow hybrid, allowing him to his armor made of shadows.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155710-ARFr8ivEt521.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155710
+      }
+    },
+    {
+      "id": "ginjirou-nezu",
+      "name": "Ginjirou Nezu",
+      "alt_names": [
+        "根津銀次郎"
+      ],
+      "role": "supporting",
+      "description": "Ginjiro Nezu is  is an elderly hunter who carries a rifle. He lives on Hitogashima Island and appears to know something about \"shadows\".",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155713-XYxYOuV740Yy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155713
+      }
+    },
+    {
+      "id": "ryuunosuke-nagumo",
+      "name": "Ryuunosuke Nagumo",
+      "alt_names": [
+        "南雲竜之介"
+      ],
+      "role": "supporting",
+      "description": "The twin brother of Hizuru Minamikata. Ryuunosuke was killed by the shadows in middle school.\n\n~!Though he was killed by Haine, he was also copied and his shadow went into Hizuru, thus forming a bond that let the two switch places in taking control of her body. He often takes control whenever shadows are around, so he dirties his own hands so his sister doesn't have to. The reason for Ryuunosuke seeing two seconds ahead is due to Haine's human-side splitting from her main self with an error of 2 seconds ahead in time, which led to him not just seeing the future but fighting in the future. He often has to hold back when fighting to not damage his sister's body.!~ ~!After Hizuru is killed, Ryuunosuke is transferred into Shinpei's mind. From there, he helps protect Shinpei and fights for him. When they enter the shadow world, he takes full control of Shinpei's body and keeps him safe from dissolving. While he talks to Shinpei, he wishes to be casual and stops hiding his accent. This makes Shinpei casual with him.!~ ~!In the end, Ryuunosuke is alive and an adult with a reincarnated version of Haine as his daughter.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b231699-Gox8gbSdM0Ml.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 231699
+      }
+    },
+    {
+      "id": "tetsu-totsumura",
+      "name": "Tetsu Totsumura",
+      "alt_names": [
+        "凸村哲"
+      ],
+      "role": "supporting",
+      "description": "A lighthearted police officer who works at Hitogashima's only police station. His personality leaves people wondering if he truly is an officer.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b265005-h34QGhRmEoGI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 265005
+      }
+    },
+    {
+      "id": "alain-kofune",
+      "name": "Alain Kofune",
+      "alt_names": [
+        "小舟アラン"
+      ],
+      "role": "supporting",
+      "description": "Alain is the father of [Ushio](https://anilist.co/character/155712/Ushio-Kofune) and [Mio](https://anilist.co/character/155706/Mio-Kofune). He is from France and runs a restaurant called \"Western Cuisine Kofune\" in Hitogashima. For [Shinpei](https://anilist.co/character/155703/Ajiro-Shinpei), he is the adoptive father who welcomed him after he lost his parents in an accident. His wife, Kotoko, died after the birth of [Mio](https://anilist.co/character/155706/Mio-Kofune).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b265006-sVUhiCn089Jy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 265006
+      }
+    },
+    {
+      "id": "chitose-hishigata",
+      "name": "Chitose Hishigata",
+      "alt_names": [
+        "菱形千登勢"
+      ],
+      "role": "supporting",
+      "description": "The wife of [Seido Hishigata](https://anilist.co/character/155709/Seidou-Hishigata) and mother of [Sou Hishigata](https://anilist.co/character/155708/Sou-Hishigata) and [Tokiko Hishigata](https://anilist.co/character/155705/Tokiko-Hishigata). She is diagnosed with an unknown illness, leaving her unable to move around without a wheelchair.\n\n~!It is revealed later in the series that the current Chitose Hishigata is a copied shadow and the orginal is deceased. This was part of deal that [Seido Hishigata](https://anilist.co/character/155709/Seidou-Hishigata) made with [Haine](https://anilist.co/character/155704/Haine) where he himself would be turned into a shadow so the couple could live on forever. !~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283899-XhsGmW6SW6Yh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283899
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T06:12:55.994Z"
+}

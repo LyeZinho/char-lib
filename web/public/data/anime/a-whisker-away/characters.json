@@ -1,0 +1,340 @@
+{
+  "work_id": "a-whisker-away",
+  "count": 15,
+  "characters": [
+    {
+      "id": "miyo-sasaki",
+      "name": "Miyo Sasaki",
+      "alt_names": [
+        "笹木美代",
+        "ムゲ",
+        "Muge"
+      ],
+      "role": "protagonist",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158754-6EOniUeZRQN4.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158754
+      }
+    },
+    {
+      "id": "kento-hinode",
+      "name": "Kento Hinode",
+      "alt_names": [
+        "日之出賢人"
+      ],
+      "role": "protagonist",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158755-ljXu07KnuLGo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158755
+      }
+    },
+    {
+      "id": "nekoten-shuyaku",
+      "name": "Nekoten Shuyaku",
+      "alt_names": [
+        "猫店主役"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162758-zY8OBVfDaZSX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162758
+      }
+    },
+    {
+      "id": "kusugi",
+      "name": "Kusugi",
+      "alt_names": [
+        "楠木"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162759-4ePTNSiWKl7d.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162759
+      }
+    },
+    {
+      "id": "masamichi-isami",
+      "name": "Masamichi Isami",
+      "alt_names": [
+        "伊佐美正道"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b165189-GSqpnMsXSYL1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 165189
+      }
+    },
+    {
+      "id": "yoriko-fukase",
+      "name": "Yoriko Fukase",
+      "alt_names": [
+        "深瀬頼子"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b165190-02hO1GxfNC1x.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 165190
+      }
+    },
+    {
+      "id": "tomoya-sakaguchi",
+      "name": "Tomoya Sakaguchi",
+      "alt_names": [
+        "坂口智也"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b165191-ifCueP77lbPC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 165191
+      }
+    },
+    {
+      "id": "youji-sasaki",
+      "name": "Youji Sasaki",
+      "alt_names": [
+        "笹木洋治"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b165192-PECIJF4ymb4Z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 165192
+      }
+    },
+    {
+      "id": "kaoru-mizutani",
+      "name": "Kaoru Mizutani",
+      "alt_names": [
+        "水谷薫"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b165193-mNpAdSzjuXtl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 165193
+      }
+    },
+    {
+      "id": "miki-saitou",
+      "name": "Miki Saitou",
+      "alt_names": [
+        "斎藤美紀"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b165194-rU0zEDfXfwsq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 165194
+      }
+    },
+    {
+      "id": "ayumu-niibori",
+      "name": "Ayumu Niibori",
+      "alt_names": [
+        "新堀歩"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186336-irUyb6yDwqPQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 186336
+      }
+    },
+    {
+      "id": "sachiko-hinode",
+      "name": "Sachiko Hinode",
+      "alt_names": [
+        "日之出幸子"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186337-CaJeItPeyz0t.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 186337
+      }
+    },
+    {
+      "id": "shouta-bannai",
+      "name": "Shouta Bannai",
+      "alt_names": [
+        "坂内翔太"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186338-TapUaHFAddPf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 186338
+      }
+    },
+    {
+      "id": "kenzou-hinode",
+      "name": "Kenzou Hinode",
+      "alt_names": [
+        "日之出賢三"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186339-qKilQ3dag1nr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 186339
+      }
+    },
+    {
+      "id": "yumi-hinode",
+      "name": "Yumi Hinode",
+      "alt_names": [
+        "日之出優美"
+      ],
+      "role": "supporting",
+      "description": "She is the elder sister of Kento Hinode, who is a high school graduate and spends her time lazily, laying down on the sofa, reading magazines, watching TV, or using her phone.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186340-cdwK389hrgxT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 186340
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T21:51:44.506Z"
+}

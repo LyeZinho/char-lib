@@ -1,0 +1,280 @@
+{
+  "work_id": "ponyo",
+  "count": 11,
+  "characters": [
+    {
+      "id": "ponyo",
+      "name": "Ponyo",
+      "alt_names": [
+        "ポニョ",
+        "Broom-hilda",
+        "Brunhilde"
+      ],
+      "role": "protagonist",
+      "description": "A goldfish princess who wants to become human after meeting the young boy Sosuke.",
+      "metadata": {
+        "gender": "female",
+        "age": "4",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b14286-So4LWwCaE5un.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 14286
+      }
+    },
+    {
+      "id": "sosuke",
+      "name": "Sosuke",
+      "alt_names": [
+        "宗介",
+        "Sousuke",
+        "Sondre"
+      ],
+      "role": "protagonist",
+      "description": "Sosuke lives by the sea with his mother, Lisa. While playing at the shore, he rescues Ponyo in her goldfish form. Their friendship begins from there.",
+      "metadata": {
+        "gender": "male",
+        "age": "5",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b15009-1FN9rnnLAinM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 15009
+      }
+    },
+    {
+      "id": "fujimoto",
+      "name": "Fujimoto",
+      "alt_names": [
+        "藤本"
+      ],
+      "role": "supporting",
+      "description": "He is a wizard, and Ponyo's father.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17230-sax8DBCSudsQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17230
+      }
+    },
+    {
+      "id": "lisa",
+      "name": "Lisa",
+      "alt_names": [
+        "リサ",
+        "Risa"
+      ],
+      "role": "supporting",
+      "description": "Sosuke's mother.\n\n~!She becomes Ponyo's adoptive mother.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17231-J6TPZzhN61m1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17231
+      }
+    },
+    {
+      "id": "gran-mamare",
+      "name": "Gran Mamare",
+      "alt_names": [
+        "グランマンマーレ",
+        "Granmammare"
+      ],
+      "role": "supporting",
+      "description": "She is a  Sea Goddess and Ponyo's mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17232-MZokfowix73Q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17232
+      }
+    },
+    {
+      "id": "kouichi",
+      "name": "Kouichi",
+      "alt_names": [
+        "こういち",
+        "Kristian"
+      ],
+      "role": "supporting",
+      "description": "Sosuke's father and the husband of Lisa.",
+      "metadata": {
+        "gender": "male",
+        "age": "30",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17233-0BYkJEPT1GKj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17233
+      }
+    },
+    {
+      "id": "yoshie",
+      "name": "Yoshie",
+      "alt_names": [
+        "ヨシエ",
+        "Inger"
+      ],
+      "role": "supporting",
+      "description": "Yoshie is one of the old women in the local Senior center in Sosuke's city.",
+      "metadata": {
+        "gender": "female",
+        "age": "68",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b29298-M0ok65sXdSJD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 29298
+      }
+    },
+    {
+      "id": "karen",
+      "name": "Karen ",
+      "alt_names": [
+        "カレン"
+      ],
+      "role": "supporting",
+      "description": "Sousuke and Kumiko are her best friends. She is a student in Himawari Nursery School.",
+      "metadata": {
+        "gender": "female",
+        "age": "5",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b189000-d527N1sog9Cb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 189000
+      }
+    },
+    {
+      "id": "kumiko",
+      "name": "Kumiko",
+      "alt_names": [
+        "クミコ",
+        "Katrine"
+      ],
+      "role": "supporting",
+      "description": "Kumiko is a supporting character and friend of Sousuke and a student at Himawari Nursery School.",
+      "metadata": {
+        "gender": "female",
+        "age": "5",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b189001-DO0oMPIp6QG8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 189001
+      }
+    },
+    {
+      "id": "toki",
+      "name": "Toki",
+      "alt_names": [
+        "トキ",
+        "Turid"
+      ],
+      "role": "supporting",
+      "description": "Toki is one of the old women in the local Senior center in Sousuke's city.",
+      "metadata": {
+        "gender": "female",
+        "age": "72",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b189002-TVDLj3op2Vx2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 189002
+      }
+    },
+    {
+      "id": "noriko",
+      "name": "Noriko",
+      "alt_names": [
+        "ノリコ",
+        "Nora"
+      ],
+      "role": "supporting",
+      "description": "Noriko is one of the old women in the local Senior center in Sousuke's city.",
+      "metadata": {
+        "gender": "female",
+        "age": "70",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b189003-SiJtLK9SeX5T.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 189003
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T22:23:44.142Z"
+}

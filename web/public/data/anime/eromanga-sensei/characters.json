@@ -1,0 +1,368 @@
+{
+  "work_id": "eromanga-sensei",
+  "count": 15,
+  "characters": [
+    {
+      "id": "sagiri-izumi",
+      "name": "Sagiri Izumi",
+      "alt_names": [
+        "和泉紗霧",
+        "Eromanga-sensei (エロマンガ先生)"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 148 cm (4'10 ft)\n\nSagiri was taught to draw by her mother at a young age, and by the time she was around the age of nine, she became Masamune's illustrator. A year before the events of the novel, Sagiri met Masamune, though she didn't realize that he was the author she was working with despite the similar names. After her mother died, she temporarily stopped drawing and going outside. After seeing a live video of someone drawing images and getting a response, Sagiri became interested in live video feeds and started drawing images on a camera disguising her face and voice so that nobody would recognize her or learn about her. She eventually started to interact with people who saw her video feed (while still disguised). At some point, Masamune was too busy to cook and she chose to go hungry rather than go outside her room to get food.",
+      "metadata": {
+        "gender": "female",
+        "age": "12",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89576-lw430mWycPAg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89576
+      }
+    },
+    {
+      "id": "masamune-izumi",
+      "name": "Masamune Izumi",
+      "alt_names": [
+        "和泉正宗",
+        "和泉マサムネ"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 176cm \n\nIzumi Masamune is the protagonist of the story. He is a novelist that goes by the pen name \"Izumi Masamune,\" his same name. He started out his novels in middle school after winning a light novel writing contest. He hopes to get closer to his younger step-sister.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121470-4ln2Uopjqssn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121470
+      }
+    },
+    {
+      "id": "megumi-jinno",
+      "name": "Megumi Jinno",
+      "alt_names": [
+        "神野めぐみ",
+        "Megumin"
+      ],
+      "role": "supporting",
+      "description": "Sagiri's classmate and the class president.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121471-PDajsyFEFXuV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121471
+      }
+    },
+    {
+      "id": "ayame-kagurazaka",
+      "name": "Ayame Kagurazaka",
+      "alt_names": [
+        "神楽坂あやめ"
+      ],
+      "role": "supporting",
+      "description": "The editor for Masamune and Yamada at a publishing company.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121472-1Z44zR83CZIs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121472
+      }
+    },
+    {
+      "id": "elf-yamada",
+      "name": "Elf Yamada",
+      "alt_names": [
+        "山田エルフ"
+      ],
+      "role": "supporting",
+      "description": "Yamada Elf is Izumi Masamune's fellow author and neighbor.\n\n~!Her actual first name is Emily, as she confesses to Masamune during a stroll through the forest that served as the model for the Elven Forest in Emily's debut novel.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121473-6PlTb6U0RLFb.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121473
+      }
+    },
+    {
+      "id": "kunimitsu-shidou",
+      "name": "Kunimitsu Shidou",
+      "alt_names": [
+        "獅童国光"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121474-1R4q7sbjIM4q.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121474
+      }
+    },
+    {
+      "id": "muramasa-senju",
+      "name": "Muramasa Senju",
+      "alt_names": [
+        "千寿ムラマサ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121475-i1shEqZnVGzl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121475
+      }
+    },
+    {
+      "id": "tomoe-takasago",
+      "name": "Tomoe Takasago",
+      "alt_names": [
+        "高砂智恵"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/121476-et5sD1ZOiufB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121476
+      }
+    },
+    {
+      "id": "chris-yamada",
+      "name": "Chris Yamada",
+      "alt_names": [
+        "山田クリス"
+      ],
+      "role": "supporting",
+      "description": "He is a Yamada Elf's big brother.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170363-yKCoSRhdYxP6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170363
+      }
+    },
+    {
+      "id": "sagiri-no-haha",
+      "name": "Sagiri no Haha",
+      "alt_names": [
+        "紗霧の母",
+        "Sagiri's Mother",
+        "初代・エロマンガ先生"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170364-ZHE3IU4TCCEO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170364
+      }
+    },
+    {
+      "id": "kotetsu-izumi",
+      "name": "Kotetsu Izumi",
+      "alt_names": [
+        "和泉虎徹"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b170365-D3r6hU8DiGNP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 170365
+      }
+    },
+    {
+      "id": "tatsuya-shiba",
+      "name": "Tatsuya Shiba",
+      "alt_names": [
+        "司波達也",
+        "Onii-sama",
+        "Ooguro Ryuuya"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 182 cm\n\nShiba Tatsuya is a First Year Student in Course 2 of the First High School. He is the eldest son of Four Leaves Technology (FLT) company's president. His only sibling is Shiba Miyuki. Since he was born in April and Miyuki born in March, they are studying in the same year according to Japanese school system. He is known as a Weed, which is the considered the lower class.   He has a rather cold personality and he doesn't show his feelings, but he seems to love his sister and cares for her. He calms her down, when she's about to lose control over her magic and doesn't seem to mind that she is one of the most talented students at the school, while he's only a reserve.  He is not easily intimidated by his opponents.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-21",
+        "dateOfBirth": "2079-04-24"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55743-g5JD7Dj6iP7R.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55743
+      }
+    },
+    {
+      "id": "holo",
+      "name": "Holo",
+      "alt_names": [
+        "ホロ",
+        "Wise Wolf of Yoitsu"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 160 cm (5'2)\n\nHolo is a wolf harvest deity originally from a land in the north known as Yoitsu. She made a promise with men from a town called Pasloe where she would ensure the town would have good wheat harvests year after year. However, as time went on, the townspeople slowly started to forsake Holo and did not rely on her as they once did. As such, Holo escapes from town in Lawrence's wagon and started traveling with him to see how much the world has changed since she has been in Pasloe. Holo has chosen the form of a girl younger than Lawrence, though she still retains her large white-tipped wolf tail, and ears. Her true form is that of a very large wolf which many people revered and feared.  \n\nShe refers to herself as the \"Wise Wolf of Yoitsu\" (ヨイツの賢狼). She is typically very haughty and self-sufficient, though due to her isolation for hundreds of years in Pasloe, she gradually feels very lonely, and sometimes shows a more fragile side of herself. She relies on Lawrence for company as she fears loneliness, which is something that Lawrence is very aware of and tries to comfort her in his own way. Holo is also very aware of the different time spans that she and Lawrence have, as a human lifespan is like a blink of an eye for her kind. Holo is quite scared of that fact, but hides it with jokes. She has a peculiar way of speaking, modeled after that of the oiran high-class courtesans. She is fond of delicious food and alcohol, but especially loves apples. She takes pride in her tail and takes special care of it, constantly combing and maintaining it.  \n\nConcerning the spelling of Holo's name, Yen Press has stated that they \"were instructed that the proper spelling of the character's name is indeed Holo\" by the Japanese licensor.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7373-1BH0gELuZmHD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 7373
+      }
+    },
+    {
+      "id": "kazuto-kirigaya",
+      "name": "Kazuto Kirigaya",
+      "alt_names": [
+        "桐ヶ谷和人",
+        "Kirito (キリト)",
+        "The Black Swordsman",
+        "Papa (パパ)",
+        "Daddy"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 172 cm\n__Weapon(s) of choice:__ Anneal Blade (1st Level), Queen's Knightblade (9th Level), Elucidator (50th level) and Dark Repulser (forged by Lisbeth)\n\nKirito is a \"solo\" player, a player who hasn't joined a guild and usually works alone. He is also one of the very few people to have had the privilege to play in the beta testing period of Sword Art Online. His game alias, Kirito, is created by taking the syllables of the first and last Kanji of his real last and first names respectively: (Kirigaya Kazuto). \n\nIn the real world, he lives with his mother and younger sister in a family of 3.  When Kayaba announced the start of the death game, he is surprised, but unlike everyone else he quickly gets over it and accepts it to an extent. He invited his friend Klein to go with him but Klein had to find his friends in the game. He was invited to join them but he declined as he couldn't take the pressure of protecting them even with his beta testing knowledge of the game.",
+      "metadata": {
+        "gender": "male",
+        "age": "14-18",
+        "dateOfBirth": "2008-10-07"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36765
+      }
+    },
+    {
+      "id": "kyousuke-kousaka",
+      "name": "Kyousuke Kousaka",
+      "alt_names": [
+        "高坂京介",
+        "Kyou-chan"
+      ],
+      "role": "minor",
+      "description": "__Height:__ 175cm\n\nKyousuke is an average highschooler, has average grades, lives in an average family (upper-middle class with a father, mother and sister), and has average physical features. Currently, he attends an average high school with Manami and he begins the story as a first-year, but he becomes a second-year during the events of the novel. As far as future plans, he intends to attend the same local university as his childhood friend, Manami. At the beginning of the series, Kyousuke and his younger sister, Kirino, have a distant relationship. Kyousuke says that they entered a \"cold war\" of sorts a few years ago, but the details of this cold war have yet to be revealed.\n \nKyousuke is a good-hearted character and is extremely loyal to his friends and Kirino. He's willing to take risks for them and help them at any cost.\n\n ~!He and Kuroneko date for a while, but she ultimately breaks up with him. After witnessing his sadness firsthand, Kirino tries to get them back together, but Kyousuke decides not to when they approach Kuroneko and he learns Kirino wants to be the number one girl in his heart. !~   \n\n~!Later, his parents force him to move out after they express their discomfort in his relationship with his sister. Whilst he is living alone, Ruri, Ayase and Kirino argue over who should take care of him as he needs someone to cook him meals. Eventually everyone agrees that Ayase should be looking after him while he studies as she hates him the most. After the two months, he moves back home and his parents reveal that they knew about it all along and simply used Kirino as an excuse to get him motivated to work. !~   \n\n~! He eventually develops into a siscon and has impulses towards her, stating that he was beyond cure. !~",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n24543-qLUZzy8FKvJY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 24543
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T17:46:57.132Z"
+}

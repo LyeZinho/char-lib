@@ -1,0 +1,356 @@
+{
+  "work_id": "tengoku-daimakyo",
+  "count": 15,
+  "characters": [
+    {
+      "id": "maru",
+      "name": "Maru",
+      "alt_names": [
+        "マル"
+      ],
+      "role": "protagonist",
+      "description": "Maru is a boy searching for a place called \"Heaven\".\n\n~!He is the alleged son of [Tokio](https://anilist.co/character/289825/Tokio) and [Kona](https://anilist.co/character/289848/Kona).!~",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289824-7LdKeeZkpEjF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289824
+      }
+    },
+    {
+      "id": "kiruko",
+      "name": "Kiruko",
+      "alt_names": [
+        "キルコ"
+      ],
+      "role": "protagonist",
+      "description": "Kiruko is Maru's bodyguard, and he is searching for a place known as \"Heaven\".",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289828-021nDZVsvAP5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289828
+      }
+    },
+    {
+      "id": "tokio",
+      "name": "Tokio",
+      "alt_names": [
+        "トキオ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289825-HuPBhMJyVI7Q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289825
+      }
+    },
+    {
+      "id": "mimihime",
+      "name": "Mimihime",
+      "alt_names": [
+        "ミミヒメ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289826-RVPbwpkNF38n.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289826
+      }
+    },
+    {
+      "id": "kuku",
+      "name": "Kuku",
+      "alt_names": [
+        "クク"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289827-QU0JNSpZ4nEt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289827
+      }
+    },
+    {
+      "id": "robin-inazaki",
+      "name": "Robin Inazaki",
+      "alt_names": [
+        "稲崎露敏",
+        "稲崎ロビン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289846-KNW2XLMmfpn0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289846
+      }
+    },
+    {
+      "id": "kona",
+      "name": "Kona",
+      "alt_names": [
+        "コナ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289848-ljZ1VbWDSAJU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289848
+      }
+    },
+    {
+      "id": "yuuko-aoshima",
+      "name": "Yuuko Aoshima",
+      "alt_names": [
+        "青島優子"
+      ],
+      "role": "supporting",
+      "description": "Yuuko Aoshima was a nurse at Takahara Academy and later became its deputy director.",
+      "metadata": {
+        "gender": "female",
+        "age": "33-",
+        "dateOfBirth": "1991-01-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289849-aCqJMQXUqcBA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289849
+      }
+    },
+    {
+      "id": "juuichi",
+      "name": "Juuichi",
+      "alt_names": [
+        "ジューイチ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289851-zAPRAyZve9em.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289851
+      }
+    },
+    {
+      "id": "tarao",
+      "name": "Tarao",
+      "alt_names": [
+        "タラオ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289852-veYGYdjmpWEV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289852
+      }
+    },
+    {
+      "id": "teruhiko-sawatari",
+      "name": "Teruhiko Sawatari",
+      "alt_names": [
+        "猿渡照彦"
+      ],
+      "role": "supporting",
+      "description": "Sawatari is a doctor working at Takahara Academy.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289853-9QGxbPCVvG2x.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289853
+      }
+    },
+    {
+      "id": "miina",
+      "name": "Miina",
+      "alt_names": [
+        "ミーナ",
+        "Mina"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289854-PF6k5N81qlf9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289854
+      }
+    },
+    {
+      "id": "shino-kaminaka",
+      "name": "Shino Kaminaka",
+      "alt_names": [
+        "上仲詩乃",
+        "Director (園長)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "age": "79",
+        "dateOfBirth": "1945-04-20"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289855-cnsvyhWaCBAG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289855
+      }
+    },
+    {
+      "id": "shiro",
+      "name": "Shiro",
+      "alt_names": [
+        "シロ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289857-utV39mMUE0Th.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289857
+      }
+    },
+    {
+      "id": "taka",
+      "name": "Taka",
+      "alt_names": [
+        "タカ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289858-BVHmkDQ2V43n.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289858
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T09:46:14.398Z"
+}

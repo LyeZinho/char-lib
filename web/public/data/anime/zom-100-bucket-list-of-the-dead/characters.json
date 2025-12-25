@@ -1,0 +1,362 @@
+{
+  "work_id": "zom-100-bucket-list-of-the-dead",
+  "count": 15,
+  "characters": [
+    {
+      "id": "akira-tendou",
+      "name": "Akira Tendou",
+      "alt_names": [
+        "天道輝"
+      ],
+      "role": "protagonist",
+      "description": "Akira Tendou is a former employee of a company that earned the nickname Black Company (exploitative employment system). This job made Akira so miserable that he was excited that there was a zombie apocalypse because he didn't have to go to work.",
+      "metadata": {
+        "gender": "male",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214584-4zsaqbOP55bf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214584
+      }
+    },
+    {
+      "id": "shizuka-mikazuki",
+      "name": "Shizuka Mikazuki",
+      "alt_names": [
+        "三日月閑"
+      ],
+      "role": "protagonist",
+      "description": "Shizuka Mikazuki is a very rational girl who prefers to act alone. Her actions are determined by the benefits and risk of said situation. This is the main reason why she didn't join up with Akira and Kenichirou at first. Her personality is because of her upbringing. Her father was a successful business man. He was very strict and wanted her to be perfect, to succeed.",
+      "metadata": {
+        "gender": "female",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214582-k5Bcd0DB59ik.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214582
+      }
+    },
+    {
+      "id": "kenichirou-ryuuzaki",
+      "name": "Kenichirou Ryuuzaki",
+      "alt_names": [
+        "竜崎憲一郎",
+        "Kencho"
+      ],
+      "role": "protagonist",
+      "description": "An old friend of Akira Tendou from college and the rugby team. He hasn't seen him in a year before the apocalypse. After he graduated from college he became a salesmen at a major real estate company because of his great communication skills. In reality he seems almost perfect but he too was miserable at his job and wanted to become a comedian.",
+      "metadata": {
+        "gender": "male",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214583-akJm3W589tEd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214583
+      }
+    },
+    {
+      "id": "beatrix-amerhauser",
+      "name": "Beatrix Amerhauser",
+      "alt_names": [
+        "ベアトリクス・アメルハウザー"
+      ],
+      "role": "protagonist",
+      "description": "She came all the way to Japan from Germany because she loves Japanese culture. She saved up money to visit but the apocalypse had already started once she arrived at the airport.",
+      "metadata": {
+        "gender": "female",
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214581-lk2deJ8pNsae.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214581
+      }
+    },
+    {
+      "id": "saori-ootori",
+      "name": "Saori Ootori",
+      "alt_names": [
+        "鳳沙織",
+        "大鳥沙織"
+      ],
+      "role": "supporting",
+      "description": "The CEO's mistress and unrequited crush of Akira.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309672-qZVW4vKc6p2m.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309672
+      }
+    },
+    {
+      "id": "sumire-kousaka",
+      "name": "Sumire Kousaka",
+      "alt_names": [
+        "香坂すみれ"
+      ],
+      "role": "supporting",
+      "description": "She is a former violin instructor that lives neighbouring Akira, along with her husband Mikio Kousaka.",
+      "metadata": {
+        "gender": "female",
+        "age": "30",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214589-JfeIFeDYuMaU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214589
+      }
+    },
+    {
+      "id": "mikio-kousaka",
+      "name": "Mikio Kousaka",
+      "alt_names": [
+        "香坂三喜男"
+      ],
+      "role": "supporting",
+      "description": "He is a former airline pilot that lives neighbouring Akira, along with his wife Sumire Kousaka.",
+      "metadata": {
+        "gender": "male",
+        "age": "32",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214588-GttxgerRTW0I.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214588
+      }
+    },
+    {
+      "id": "gonzou-kosugi",
+      "name": "Gonzou Kosugi",
+      "alt_names": [
+        "小杉権蔵"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309669-56ce1Db91kJY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309669
+      }
+    },
+    {
+      "id": "shachou",
+      "name": "Shachou",
+      "alt_names": [
+        "社長"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309671-owVHE3cF9MF2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309671
+      }
+    },
+    {
+      "id": "naoki-atenbou",
+      "name": "Naoki Atenbou",
+      "alt_names": [
+        "阿天坊直己"
+      ],
+      "role": "supporting",
+      "description": "He is a former apprentice chef that was a part of Kanta Higurashi's group.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214585-tqGRD7gHrZ4h.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214585
+      }
+    },
+    {
+      "id": "kanta-higurashi",
+      "name": "Kanta Higurashi",
+      "alt_names": [
+        "日暮莞太"
+      ],
+      "role": "supporting",
+      "description": "He is a former NEET and the leader of his group, consisting of people he found during the apocalypse's first days.",
+      "metadata": {
+        "gender": "male",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214586-UHkFPhvnrdid.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214586
+      }
+    },
+    {
+      "id": "touko-kanbayashi",
+      "name": "Touko Kanbayashi",
+      "alt_names": [
+        "寒林陶子"
+      ],
+      "role": "supporting",
+      "description": "She is a former municipal office worker that was a part of Kanta Higurashi's group.",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214587-XrfD16IF9BaD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214587
+      }
+    },
+    {
+      "id": "masaru-kumano",
+      "name": "Masaru Kumano",
+      "alt_names": [
+        "熊野勝"
+      ],
+      "role": "supporting",
+      "description": "He is a wood crafter that Akira and his friends found during their journey to Akira's hometown through a forest.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214590-Doss6BMOcO9L.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214590
+      }
+    },
+    {
+      "id": "shigenobu-kurasugi",
+      "name": "Shigenobu Kurasugi",
+      "alt_names": [
+        "蔵杉重信"
+      ],
+      "role": "supporting",
+      "description": "He is a former cellphone shop worker that was a part of Kanta Higurashi's group.",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214591-73lXnNW8v5aH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214591
+      }
+    },
+    {
+      "id": "teruo-tendou",
+      "name": "Teruo Tendou",
+      "alt_names": [
+        "天道照夫"
+      ],
+      "role": "supporting",
+      "description": "He is the husband of Akiko Tendou and the father of Akira Tendou.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b214592-LU8bDzoTNC14.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 214592
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T01:36:55.700Z"
+}

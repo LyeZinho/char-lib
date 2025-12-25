@@ -1,0 +1,55 @@
+{
+  "work_id": "the-girl-from-the-other-side-siuil-a-run",
+  "count": 2,
+  "characters": [
+    {
+      "id": "sensei",
+      "name": "Sensei",
+      "alt_names": [
+        "先生",
+        "Sense (せんせ)",
+        "Teacher"
+      ],
+      "role": "protagonist",
+      "description": "~!He is a cursed being who was a doctor in the past.\nHe found Shiva and took care of her while hiding from her that she was abandoned.\nHe has a good heart and does everything for his little protégé, not hesitating to risk his life.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123987-a6OmZkVSWfs2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123987
+      }
+    },
+    {
+      "id": "shiva",
+      "name": "Shiva",
+      "alt_names": [
+        "シーヴァ"
+      ],
+      "role": "protagonist",
+      "description": "~!She is a little girl who does not seem to be touched by the curse.\nShe was picked up by sensei, but unaware that she was abandoned, she believes that her auntie will come back one day to look for her and she looks forward to her return.\nShe is a naive child; sweet and innocent, she is not aware of the danger that surrounds her.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123988-OftE5hJJHfyL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123988
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T05:17:32.442Z"
+}

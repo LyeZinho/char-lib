@@ -1,0 +1,365 @@
+{
+  "work_id": "havent-you-heard-im-sakamoto",
+  "count": 15,
+  "characters": [
+    {
+      "id": "sakamoto",
+      "name": "Sakamoto",
+      "alt_names": [
+        "坂本"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 180 cm (5'10.9\")\n\nSakamoto is the protagonist of the series who is a model student for all in his school. He is the perfect man who can solve any problem with a kind yet calm persona. Because of this, many girls fall for him, and his male classmates resent him. Although he acts strangely sometimes (such as doing weird poses or acting sneakily), it only adds to his coolness. Sakamoto has a range of \"secret skills\" which allow him to do various things, such as catch bugs or blow bubbles.",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123574-BjW3yjFwphP0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 123574
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "supporting",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
+    },
+    {
+      "id": "yoshinobu-kubota",
+      "name": "Yoshinobu Kubota",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Kubota is a rather stocky young man with a heavy build and frizzy, wavy hair that parts in the middle. He seems on the shorter side compared to his peers and had a round nose with small, brown eyes and freckles on his cheeks. He befriends Sakamoto early on and endures many hardships through his High School career.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127462-iwkwmmmzaYiA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127462
+      }
+    },
+    {
+      "id": "fukase",
+      "name": "Fukase",
+      "alt_names": [
+        "深瀬"
+      ],
+      "role": "supporting",
+      "description": "A long-time delinquent who is in his 30's, has an IQ of 180 and had a strange past. He is popular among delinquents due to his tendency of targeting popular students while manipulating others to do his dirty work.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135859-AfUesBGI8aUN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135859
+      }
+    },
+    {
+      "id": "morita",
+      "name": "Morita",
+      "alt_names": [
+        "森田"
+      ],
+      "role": "supporting",
+      "description": "Morita is one of Sakamoto's classmates.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135861-JFl9XkcLGLXt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135861
+      }
+    },
+    {
+      "id": "mario",
+      "name": "Mario",
+      "alt_names": [
+        "まりお"
+      ],
+      "role": "supporting",
+      "description": "Mario is a member of the three-member delinquent group together with Atsushi and Kenken.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135862-JJzGCfa3AMBv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135862
+      }
+    },
+    {
+      "id": "kakuta",
+      "name": "Kakuta",
+      "alt_names": [
+        "角田",
+        "Kakuta-sensei (角田先生)"
+      ],
+      "role": "supporting",
+      "description": "Male gym teacher. In the name of student guidance, he is on the lookout every day for students who break the school rules.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135863-4MzHi2i9TINh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135863
+      }
+    },
+    {
+      "id": "shou-hayabusa",
+      "name": "Shou Hayabusa",
+      "alt_names": [
+        "8823-senpai"
+      ],
+      "role": "supporting",
+      "description": "Hayabusa is the leader of the second-year delinquent group. He seems to be more level-headed than the majority of the other delinquents, though he can still be easily angered when provoked. Due to his typically cool demeanor, a handful of underclassmen look up to him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135864-usux4l3BrBcC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135864
+      }
+    },
+    {
+      "id": "aina-kuronuma",
+      "name": "Aina Kuronuma",
+      "alt_names": [
+        "黒沼あいな"
+      ],
+      "role": "supporting",
+      "description": "Kuronuma Aina is a female student in Sakamoto's class who falls for him. She is very popular among boys but has no interest for anyone else except Sakamoto, which makes her disliked by other girls. She charms the boys to do her bidding by making them fall in love with her through 'love lessons', which turned out to be totally invalid to Sakamoto.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135865-aQmGjN4qRohR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135865
+      }
+    },
+    {
+      "id": "shigemi-kubota",
+      "name": "Shigemi Kubota",
+      "alt_names": [
+        "久保田茂美"
+      ],
+      "role": "supporting",
+      "description": "Kubota Shigemi is Yoshinobu's mother, who fell for Sakamoto ever since she met him, as he resembles Chon Choriso, her favorite Korean actor.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135866-BQ7ffb43tCNa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135866
+      }
+    },
+    {
+      "id": "yasuda",
+      "name": "Yasuda",
+      "alt_names": [
+        "安田"
+      ],
+      "role": "supporting",
+      "description": "Yasuda is one of Sakamoto's classmates.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135867-oKntA2UYupw0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135867
+      }
+    },
+    {
+      "id": "tanaka",
+      "name": "Tanaka",
+      "alt_names": [
+        "田中"
+      ],
+      "role": "supporting",
+      "description": "Tanaka is a female student who belongs to Aina's circle of friends.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135869-Nw27xpPxr2sW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135869
+      }
+    },
+    {
+      "id": "yuuya-sera",
+      "name": "Yuuya Sera",
+      "alt_names": [
+        "瀬良裕也"
+      ],
+      "role": "supporting",
+      "description": "Sera Yuuya is a male student who is in the same class as Sakamoto. He disliked him for always stealing the class' attention. Sera was a teenage model until an incident involving Sakamoto and a wasp, and now is a class clown who makes bee jokes.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135871-JJlYPgaiANPL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135871
+      }
+    },
+    {
+      "id": "megumi-fujita",
+      "name": "Megumi Fujita",
+      "alt_names": [
+        "藤田恵"
+      ],
+      "role": "supporting",
+      "description": "A weak-willed class representative. Photography is her hobby, and she always takes pictures of how her class is doing. She has a strong feelings about Sakamoto.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135872-o3VE715goXAs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135872
+      }
+    },
+    {
+      "id": "erika",
+      "name": "Erika",
+      "alt_names": [
+        "エリカ"
+      ],
+      "role": "supporting",
+      "description": "A girl that is sensitive to new trends. She seems to speak foreign accents very well, and she is found usually hanging around with Fujita Megumi's group.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135873-kbB0J3hI3vSu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135873
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T16:38:56.253Z"
+}

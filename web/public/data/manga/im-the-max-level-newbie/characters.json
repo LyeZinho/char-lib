@@ -1,0 +1,364 @@
+{
+  "work_id": "im-the-max-level-newbie",
+  "count": 15,
+  "characters": [
+    {
+      "id": "jin-hyeok-kang",
+      "name": "Jin-Hyeok Kang",
+      "alt_names": [
+        "강진혁",
+        "Unknown (언노운)",
+        "Eungapon (응가뿡뿡)"
+      ],
+      "role": "protagonist",
+      "description": "Kang Jin-Hyeok is the protagonist of [I’m the Max-Level Newbie](https://anilist.co/manga/137280/Na-Honja-Mallep-Newbie/).\n\n__Unique Ability:__\n~!Fusion!~\n\n__Skills:__\n~!\n- The Eye of Truth \n- Fire Element \n- Commune \n- Stigma of Soul \n- Shallow Breathing \n- Cold Heart \n- Monopolize \n!~",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279938-Gh0ln66EwKfC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 279938
+      }
+    },
+    {
+      "id": "alice-von-ataraxia",
+      "name": "Alice Von Ataraxia",
+      "alt_names": [
+        "엘리스 폰 아타락시아",
+        "Jinzo (진조)"
+      ],
+      "role": "supporting",
+      "description": "As the previous head of the Ataraxia family, she was one of the top ten of the tower in the past. She was betrayed by her clan's taboo and was imprisoned with her family in the Corridor of the Fallen.\n\n~!She initially resented [Kang Jin-Hyeok](https://anilist.co/character/279938/JinHyeok-Kang), who sealed her in the ring. Because of this, she followed him reluctantly, but after seeing his aspirations and achievements, she acknowledges Kang Jin-Hyeok as her contractor, and gradually develops feeling towards him, but she bursts into anger from time to time due to Kang's indifference.!~\n\n__Skills:__\n~!\n- Dimension Break\n- Blood Spears\n- Blood Explosion\n!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282566-k1qoh9xKrSr9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282566
+      }
+    },
+    {
+      "id": "teresa-du-laurentia",
+      "name": "Teresa Du Laurentia",
+      "alt_names": [
+        "테레사 드 로렌시아"
+      ],
+      "role": "supporting",
+      "description": "She is the youngest daughter of the european aristocratic family of Laurentia.\n\n__Unique Ability:__\n~!Blessing of the Stars!~\n\n__Skills:__\n~!\n- Strengthen Divine Power\n- Stealth\n- Blessed Hands,\n- Sign of the Cross\n- Illusion Barrier\n- Battle Song\n- Divine Purification\n- Sacred Reinforcement\n- Sacred Shield\n!~",
+      "metadata": {
+        "gender": "female",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282567-r4a7EdSn1XMj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282567
+      }
+    },
+    {
+      "id": "tae-min-lee",
+      "name": "Tae-Min Lee",
+      "alt_names": [
+        "이태민",
+        "Human Bee (인간대머리남)"
+      ],
+      "role": "supporting",
+      "description": "He is a close friend of Yeon-Hwa Yu.\n\n__Unique Ability:__\n~!Machine Monarch!~\n\n__Skills:__\n~!\n- Sandbox\n- Leading The Way\n- Hacking\n!~",
+      "metadata": {
+        "gender": "male",
+        "age": "23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283393-2d5OdhDHQUMx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283393
+      }
+    },
+    {
+      "id": "yeon-hwa-yu",
+      "name": "Yeon-Hwa Yu",
+      "alt_names": [
+        "유연화",
+        "Nuclear Fist (불광동핵주먹)"
+      ],
+      "role": "supporting",
+      "description": "She is a close friend of Tae-Min Lee.\n\n__Unique Ability:__\n~!Extreme Taekwondo!~\n\n__Skills:__\n~!\n-Tai Qing Hua Lang's Mind Control Method\n-Leading The Way\n-Reinforcement Of Mana\n!~",
+      "metadata": {
+        "gender": "female",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283394-txRhptes4bZI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283394
+      }
+    },
+    {
+      "id": "ha-na-park",
+      "name": "Ha-Na Park",
+      "alt_names": [
+        "박하나"
+      ],
+      "role": "supporting",
+      "description": "She was a leader of the group that wanted to cooperate with [Kang Jin-Hyeok](https://anilist.co/character/279938/JinHyeok-Kang) to clear Labyrinthos on the 1st floor.\n\n__Skills:__\n~!\n- Commune\n- Quick Step\n- Weak Healing\n!~",
+      "metadata": {
+        "gender": "female",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283395-ZXOVmdyvx2ou.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283395
+      }
+    },
+    {
+      "id": "andrea",
+      "name": "Andrea",
+      "alt_names": [
+        "안드리아"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b297143-clHQHoZiFPoS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 297143
+      }
+    },
+    {
+      "id": "melina",
+      "name": "Melina",
+      "alt_names": [
+        "멜레나"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b297144-ofbDtxcLSkuh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 297144
+      }
+    },
+    {
+      "id": "ophelia",
+      "name": "Ophelia",
+      "alt_names": [
+        "오필리아"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b297912-xl44NOdGy2J0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 297912
+      }
+    },
+    {
+      "id": "yu-ri-lee",
+      "name": "Yu-Ri Lee",
+      "alt_names": [
+        "이유리"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300054-8SOUU8vCEe0P.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300054
+      }
+    },
+    {
+      "id": "jong-su-lee",
+      "name": "Jong-Su Lee",
+      "alt_names": [
+        "이종수"
+      ],
+      "role": "supporting",
+      "description": "He is a Paprika TV partner streamer and newtuber with over 500 000 subscribers.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300055-svYr9dQoM2NZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300055
+      }
+    },
+    {
+      "id": "gwan-gu-do",
+      "name": "Gwan-Gu Do",
+      "alt_names": [
+        "도광우"
+      ],
+      "role": "supporting",
+      "description": "He was a part of Ha-Na's group that wanted to cooperate with Jin-Hyeok to clear Labyrinthos on the 1st floor.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300056-QjlJ7LOethuB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300056
+      }
+    },
+    {
+      "id": "song-chunhwa",
+      "name": "Song Chunhwa",
+      "alt_names": [
+        "송천화"
+      ],
+      "role": "supporting",
+      "description": "__Unique Ability:__\n~!Lighten Weight of Items!~\n\n__Skills:__\n~!\n- Iron Shield\n- Phalanx\n- Tenacious Will to Survive\n- Hurling\n!~",
+      "metadata": {
+        "gender": "male",
+        "age": "29",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300057-w8pfyPe1OG42.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300057
+      }
+    },
+    {
+      "id": "ki-tae-kim",
+      "name": "Ki-Tae Kim",
+      "alt_names": [
+        "김기태"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300058-c6VtIBro8Z6Y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300058
+      }
+    },
+    {
+      "id": "ha-jin-park",
+      "name": "Ha-Jin Park",
+      "alt_names": [
+        "박하진"
+      ],
+      "role": "supporting",
+      "description": "He is [Hana Park's](https://anilist.co/character/283395/Hana-Park) elder brother.\n\n__Unique Ability:__\n~!Fatal Dark Attack!~\n\n__Skills:__\n~!\n- Sprint\n- Stealth\n- Lightning Breath\n!~",
+      "metadata": {
+        "gender": "male",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300059-B1i7rpWRMMLE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300059
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T04:00:16.256Z"
+}

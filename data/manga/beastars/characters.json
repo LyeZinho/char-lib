@@ -1,0 +1,373 @@
+{
+  "work_id": "beastars",
+  "count": 15,
+  "characters": [
+    {
+      "id": "legoshi",
+      "name": "Legoshi",
+      "alt_names": [
+        "レゴシ",
+        "Legosi",
+        "Wolf boy",
+        "Eyebrows",
+        "Sad Brows",
+        "Mr. Wolf",
+        "Degoshi"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 185 cm (debut), 187 cm (currently)\n\nOur main character is the quiet and sensitive gray wolf Legoshi. Because of his fearsome appearance and odd habits he is widely mistaken to be a scary, bloodthirsty carnivore. Legoshi is wholly aware of this and does everything in his power to minimize himself and downplay his intimidating aspects. The series is largely about him coming to terms with his place in the world as a wolf.\n\nLegoshi develops some complicated feelings for the rabbit Haru.\n\n~!He is a 1/4 komodo dragon, because of his grandfather Gosha.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "17-19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125168-cOydxRHEbAYb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125168
+      }
+    },
+    {
+      "id": "haru",
+      "name": "Haru",
+      "alt_names": [
+        "ハル",
+        "Hal"
+      ],
+      "role": "protagonist",
+      "description": "__Species:__ Netherland dwarf rabbit\n\nHaru is the lone member of Cherryton School's gardening club. She is earnest and forthright which, in addition to her sexual promiscuity, has earned her a sleazy reputation. Haru is broadly confident, but a defeatist side sometimes peeks through her facade.\nIn spite of her caring nature she tends to keep people at an emotional distance.",
+      "metadata": {
+        "gender": "female",
+        "age": "18-20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125169-zxyLpg1BOnU5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125169
+      }
+    },
+    {
+      "id": "louis",
+      "name": "Louis",
+      "alt_names": [
+        "ルイ",
+        "Rouis"
+      ],
+      "role": "protagonist",
+      "description": "__Species:__ Red deer\n\nThe proud face of Cherryton's drama club. He has an enormous ego, but with acting skills like his this isn't surprising. He carries a number of personality complexes owing to his status as a deer, a species traditionally seen as carnivore fodder. While he has shown moments of genuine kindness he is also very emotionally manipulative.\n\nLouis' greatest ambition is to achieve the rank of Beastar.\n\n(Source: TV Tropes)",
+      "metadata": {
+        "gender": "male",
+        "age": "18-19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125170-TIHSOgfQbkbU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125170
+      }
+    },
+    {
+      "id": "bill",
+      "name": "Bill",
+      "alt_names": [
+        "ビル"
+      ],
+      "role": "supporting",
+      "description": "Bengal Tiger who is a student and member of the Drama Club at Cherryton Academy.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132945-G5NJQ9JMtF0X.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132945
+      }
+    },
+    {
+      "id": "juno",
+      "name": "Juno",
+      "alt_names": [
+        "ジュノ"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Gray wolf\n\nJuno is one of the five main characters of Beastars and is a member of the drama club on the actor team. A feminine, affable wolf, she wishes to become the next Beastar, competing against Louis.",
+      "metadata": {
+        "gender": "female",
+        "age": "16-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132946-H4bYx7gFT0Ki.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132946
+      }
+    },
+    {
+      "id": "pina",
+      "name": "Pina",
+      "alt_names": [
+        "ピナ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 174 cm (5'8\")\n\nPina (ピナ, Pina) is a recurring character in Beastars. He appeared as a first-year student and a new actor in the drama club at Cherryton Academy.",
+      "metadata": {
+        "gender": "male",
+        "age": "16-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132947-RYIRivJeF6vR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132947
+      }
+    },
+    {
+      "id": "gouhin",
+      "name": "Gouhin",
+      "alt_names": [
+        "ゴウヒン",
+        "Panda",
+        "パンダ"
+      ],
+      "role": "supporting",
+      "description": "A back alley psychiatrist who tries to rehabilitate carnivorous animals that crave meat. The wounds on his face were made by violent patients. \n\nDespite his gruff appearance and rough character, he's gentle and caring.",
+      "metadata": {
+        "gender": "male",
+        "age": "39-40",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132948-HzBozI7pzdte.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132948
+      }
+    },
+    {
+      "id": "gosha",
+      "name": "Gosha",
+      "alt_names": [
+        "ゴーシャ"
+      ],
+      "role": "supporting",
+      "description": "Gosha is a side character in Beastars. ~!He is Legoshi's grandfather and Leano's father, appearing in the later half of the manga.!~\n\n(Source: Beastars Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132981-RUz1yUyhNcI1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132981
+      }
+    },
+    {
+      "id": "jack",
+      "name": "Jack",
+      "alt_names": [
+        "ジャック"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Labrador Retriever\n\nBoth one of Legoshi's roommates and his best friend for many years, Jack is a rather average guy. He is often weirded out by Legoshi's behavior, especially involving Haru, but he is always there for his best friend.",
+      "metadata": {
+        "gender": "male",
+        "age": "17-19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132982-hy5W6uQCvVYW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132982
+      }
+    },
+    {
+      "id": "riz",
+      "name": "Riz",
+      "alt_names": [
+        "リズ"
+      ],
+      "role": "supporting",
+      "description": "Riz is a kindhearted and quiet Bear in the drama club who is loved and respected by his classmates. He prefers to draw little attention to himself by mostly standing in the background.\n\n~!However Riz holds a darker side by being the one who mistakenly killed Tem. He considered Tem to be one of his closest friends with it being hinted that he was somewhat romantically interested in him. However due to Bears aggressive nature and staggering size they must take medication to reduce their strength but these come with awful side affects making Riz miserable and lonely. After Tem was kind to Riz he thought could he go without taking his medication yet by doing so causing him to accidentally kill Tem. After he realized what he has done by eating Tem he developed a taste for killing causing him to slowly lose his sanity developing a twisted mentally where he believes Tem wanted to be eaten and eating Legoshi will cause them to become friends. Riz goes to the point where he’s willingly to kill anyone who’s finds about what he did.!~ ~!However during his fight with Legoshi he comes to realize his actions and that he must face the consequences for what he did so he doesn’t resist arrest.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "17-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132983-hOgSO3VJ9Bmx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132983
+      }
+    },
+    {
+      "id": "yahya",
+      "name": "Yahya",
+      "alt_names": [
+        "ヤフヤ",
+        "Yafya",
+        "Yafuya"
+      ],
+      "role": "supporting",
+      "description": "__Species:__ Horse",
+      "metadata": {
+        "gender": "male",
+        "age": "51",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132984-xuSUecq5nD6v.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132984
+      }
+    },
+    {
+      "id": "ibuki",
+      "name": "Ibuki",
+      "alt_names": [
+        "イブキ"
+      ],
+      "role": "supporting",
+      "description": "__Occupation:__ Member of the Shishigumi\n\nIbuki is a Maasai lion in his mid-thirties with an athletic build. He has light golden-yellow fur, light brown mane, and sharp, slanted eyes with small black pupils. Ibuki has tattoos on the left side of his body from his time as a child going to be used for making hyperdrugs.",
+      "metadata": {
+        "gender": "male",
+        "age": "35",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132985-hb60Fj8P43er.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132985
+      }
+    },
+    {
+      "id": "tem",
+      "name": "Tem",
+      "alt_names": [
+        "テム"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132986-zSlKOw5a8UOI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132986
+      }
+    },
+    {
+      "id": "oguma",
+      "name": "Oguma",
+      "alt_names": [
+        "オグマ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b132987-LvRP3oVqUTeU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132987
+      }
+    },
+    {
+      "id": "sagwan",
+      "name": "Sagwan",
+      "alt_names": [
+        "サグワーン"
+      ],
+      "role": "supporting",
+      "description": "A resident of the Hidden Condo.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150499-cLBTKOXCNFmq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 150499
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T23:54:13.094Z"
+}

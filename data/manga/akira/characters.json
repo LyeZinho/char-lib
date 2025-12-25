@@ -1,0 +1,355 @@
+{
+  "work_id": "akira",
+  "count": 15,
+  "characters": [
+    {
+      "id": "shoutarou-kaneda",
+      "name": "Shoutarou Kaneda",
+      "alt_names": [
+        "金田正太郎"
+      ],
+      "role": "protagonist",
+      "description": "Kaneda is a carefree gang-leader who boasts a custom-modified motorcycle. He and Tetsuo have been best friends since early childhood. He is brash and not above teasing Tetsuo despite feeling affection for him as a younger brother. Upon rescuing Kei, Kaneda becomes involved in the activities of her group of anti-government guerillas in hopes of locating Tetsuo.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": "2003-09-05"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2588-OfACKXYm2lkV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2588
+      }
+    },
+    {
+      "id": "tetsuo-shima",
+      "name": "Tetsuo Shima",
+      "alt_names": [
+        "島鉄雄",
+        "Number 41"
+      ],
+      "role": "protagonist",
+      "description": "Kaneda's best friend since preschool and the second principal subject of the story's theme. Tetsuo is shown as a black sheep in the gang he and Kaneda are part of, and quietly suffers from a deeply rooted inferiority complex. He admires his friend yet at the same time strongly resents his own reliance upon him. After his psychokinetic abilities manifest, Tetsuo quickly becomes Kaneda's nemesis; he desires Kaneda's motorcycle (a symbol of status and power), and seeks to prove himself supremely powerful, without need of protection.  (Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": "2004-07-29"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2589-HR4oPhkLGq6q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2589
+      }
+    },
+    {
+      "id": "kei",
+      "name": "Kei",
+      "alt_names": [
+        "ケイ",
+        "Kay"
+      ],
+      "role": "protagonist",
+      "description": "A young woman whom Kaneda meets on his quest to find Tetsuo. She is a member of an anti-government organization that Ryu and Nezu are also involved in. \n\nKei&#039;s role in the Resistance is important because she is completely loyal to its cause and to Ryu. She is strong willed and is the one to discover that Lady Miyako is an Esper too. Miyako helps Kei channel her thoughts and discovers she is a conduit for the Espers&#039; telepathy. Kiyoko does this in the movie and Kei communicates with Kaneda and Tetsuo. She works closely with Chiyoko, a physically strong and resilliant resistance fighter and they look out for each other.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": "2002-03-08"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b9875-CgzdVyZxihSu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 9875
+      }
+    },
+    {
+      "id": "akira",
+      "name": "Akira",
+      "alt_names": [
+        "アキラ",
+        "Number 28"
+      ],
+      "role": "protagonist",
+      "description": "Codename #28 in the Japanese government's secret ESP project. An estimately 8 year old boy around whom the story revolves. Akira's power was so immense that he inadvertantly caused the destruction of Tokyo in 1988 and was secretly sealed afterwards in a cryogenic chamber underneath the destruction site.  *Manga Spoilers*    ~!Unlike in the animated feature, Akira makes an actual appearance in the manga. After his awakening by Tetsuo, he loses control of his power again as he witnesses his friend Takashi being murdered, and the destruction of Neo-Tokyo ensues.  Though he is known as the figurehead of the Great Tokyo Empire--which was established after the destruction of Neo-Tokyo--Tetsuo is actually the one in charge and he uses Akira to perform miracles with his power to control their followers. Kaori is then appointed by Tetsuo to keep him company and look after him.  Akira displays autistic behavior and has actually very few lines throughout the second half of the manga. Though in flashbacks he appears quite happy with the younger versions of Takashi, Masaru and Kyoko. At the end, he's shot by Ryu and joins with Takashi and his friends from the institute to absorb Tetsuo who had lost control of his powers.   Though Akira is gone, he still lives in the hearts of Kaneda, Kei and other survivor who begin to build the Great Tokyo Empire. !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/24735.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 24735
+      }
+    },
+    {
+      "id": "shikishima-taisa",
+      "name": "Shikishima Taisa",
+      "alt_names": [
+        "敷島大佐",
+        "The Colonel",
+        "The Skinhead"
+      ],
+      "role": "supporting",
+      "description": "A senior military officer who oversees research into psychic abilities. He listens closely to the three Esper children, and seeks to capture Tetsuo to exploit his powers.",
+      "metadata": {
+        "gender": "male",
+        "age": "42",
+        "dateOfBirth": "1977-11-15"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16288-fCbFrPrvtlvC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 16288
+      }
+    },
+    {
+      "id": "kaori",
+      "name": "Kaori",
+      "alt_names": [
+        "カオリ"
+      ],
+      "role": "supporting",
+      "description": "A timid young girl who ends up becoming Tetsuo&#039;s companion and Akira&#039;s babysitter.     ~!In the manga, Kaori is introduced after Neo-Tokyo is destroyed by Akira when she tries to get food for her crippled father. After she&#039;s discovered that she isn&#039;t a member of The Great Tokyo Empire, she&#039;s denied food and later on recruited by Tetsuo&#039;s aide with three other girls to serve as Tetsuo&#039;s playmates.     Tetsuo gives each of the girls the government-issued drug, and mistaking it for a medicine, Kaori instead saves it for her sick father; which ends up saving her from sharing the fate of the others girls whom end up being killed by the strong effect of the drug.    Her caring and innocent nature earns her Tetsuo&#039;s trust and genuine affection, and she becomes the person to whom he turns for comfort, especially whenever he suffers the strain of the power evolving within him. After Tetsuo begins to mutate and he no longer able to control his powers, his aides plan to assassinate him; hearing of that Kaori takes off to warn him, but gets shot by them.    When Tetsuo finds her dying body, he enters a battle with the American army, then with Kaneda. Later on he attempts to revive her, but fails. He then carries her dead body to Akira&#039;s cryogenic chamber and she was last seen by Kei when she takes cover inside it after Tetsuo&#039;s body goes through another mutation.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16289-1PsWTr11jxQg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 16289
+      }
+    },
+    {
+      "id": "resistance-member",
+      "name": "Resistance Member",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b18439-qsVwHTTHbq3k.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18439
+      }
+    },
+    {
+      "id": "yamagata",
+      "name": "Yamagata",
+      "alt_names": [
+        "山形"
+      ],
+      "role": "supporting",
+      "description": "One of the most prominent members of Kaneda&#039;s gang. He often derides Tetsuo, which leads to harsh feelings between them that will ultimately seal his fate. (Credit to Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b20463-wa6RVPshbPZC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 20463
+      }
+    },
+    {
+      "id": "kai",
+      "name": "Kai",
+      "alt_names": [
+        "甲斐",
+        "Kaisuke"
+      ],
+      "role": "supporting",
+      "description": "Sometimes known as Kaisuke, he is a high-ranking member of Kaneda's gang. He does not play a major role at first​ but becomes more prominent later in the story.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b28166-PWEGEtQwsrGG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 28166
+      }
+    },
+    {
+      "id": "kiyoko",
+      "name": "Kiyoko",
+      "alt_names": [
+        "キヨコ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88236-3uo82FeXbi6r.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88236
+      }
+    },
+    {
+      "id": "takashi",
+      "name": "Takashi",
+      "alt_names": [
+        "タカシ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88237-sArZTw9J3eol.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88237
+      }
+    },
+    {
+      "id": "masaru",
+      "name": "Masaru",
+      "alt_names": [
+        "マサル"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88238-8rfoiDmv4w09.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88238
+      }
+    },
+    {
+      "id": "ryuusaku",
+      "name": "Ryuusaku",
+      "alt_names": [
+        "竜作",
+        "Ryuu"
+      ],
+      "role": "supporting",
+      "description": "Ryuusaku is a comrade of Kei's in the resistance movement who claims to be Kei's brother, but it is implied that this is not the case.\n\n(Source: Fandom.com)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142837-0Bb59MXUbxb5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142837
+      }
+    },
+    {
+      "id": "nezu",
+      "name": "Nezu",
+      "alt_names": [
+        "根津"
+      ],
+      "role": "supporting",
+      "description": "Nezu was a parliament member who is also the leader of the terrorist resistance movement against the government.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142838-tD8WtmTBEZpv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142838
+      }
+    },
+    {
+      "id": "miyako",
+      "name": "Miyako",
+      "alt_names": [
+        "ミヤコ",
+        "Lady Miyako",
+        "ミヤコ様"
+      ],
+      "role": "supporting",
+      "description": "Lady Miyako was a former test subject known as \"Designated #19\" from the Project. She is the high priestess and leader of a temple in Neo-Tokyo and a major ally of Kaneda and Kei as the story progresses, who plays an important role in the final battle with Tetsuo Shima.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142840-zAC5gjvWPu6i.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 142840
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T03:34:28.238Z"
+}

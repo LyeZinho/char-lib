@@ -1,0 +1,272 @@
+{
+  "work_id": "blue-flag",
+  "count": 12,
+  "characters": [
+    {
+      "id": "futaba-kuze",
+      "name": "Futaba Kuze",
+      "alt_names": [
+        "空勢二葉"
+      ],
+      "role": "protagonist",
+      "description": "An impossibly naive girl who fell for Touma. She ends up befriending Ichinose in an attempt to learn more about him, but they end up becoming close friends with each other and Touma as well. She is very sweet and tries her hardest, but her natural clumsiness and naivete make it hard for her to befriends others in her class.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126846-3DSpV3nyQFBo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126846
+      }
+    },
+    {
+      "id": "masumi-itachi",
+      "name": "Masumi Itachi",
+      "alt_names": [
+        "伊達真澄"
+      ],
+      "role": "protagonist",
+      "description": "Kuze's best friend. She is a dark and mysterious girl who is very protective of her smaller best friend. She is in a separate class but is often seen hanging around with the rest of the main characters. She intends to become a veterinarian.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126876-oC7QqNd43OAA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126876
+      }
+    },
+    {
+      "id": "touma-mita",
+      "name": "Touma Mita",
+      "alt_names": [
+        "三田桃真"
+      ],
+      "role": "protagonist",
+      "description": "Ichinose's childhood friend and the most popular boy in their school, loved by everyone for his niceness, looks and being the school's baseball team's ace and captain. He gets close to Ichinose and Kuze once they end up in the same class. He is very kind-hearted and loud and cares deeply for his new found friends. His dream is of playing in the grounds of Koushien Stadium and become a professional baseball player.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126878-yEsoPEtUV8Xg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126878
+      }
+    },
+    {
+      "id": "taichi-ichinose",
+      "name": "Taichi Ichinose",
+      "alt_names": [
+        "一ノ瀬太一",
+        "Tai"
+      ],
+      "role": "protagonist",
+      "description": "An ordinary high school student. Ichinose used to be Mita's best friend, but they drifted apart during high school. They get closer again when they end up in the same classroom. He is usually shy and meek, but is known for being extremely nice.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126879-7cQeDSkJCtzx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126879
+      }
+    },
+    {
+      "id": "mami-yagihara",
+      "name": "Mami Yagihara",
+      "alt_names": [
+        "八木原舞美 "
+      ],
+      "role": "supporting",
+      "description": "A girl that is within Touma's group of friends and grows upset with his newfound interest in hanging out with Futaba and Taichi instead of her. She is interested in Touma, but he does not reciprocate her affection.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126874-q0OuP4PIYhVj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126874
+      }
+    },
+    {
+      "id": "seiya-mita",
+      "name": "Seiya Mita",
+      "alt_names": [
+        "三田誠也"
+      ],
+      "role": "supporting",
+      "description": "Touma´s elder brother.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209882-fFwQ1z4yb40H.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209882
+      }
+    },
+    {
+      "id": "akiko-mita",
+      "name": "Akiko Mita",
+      "alt_names": [
+        "三田亜樹子"
+      ],
+      "role": "supporting",
+      "description": "Touma's former tutor and current sister in law, married to his brother Seiya. She is a very cheerful and nice woman. She is really happy about Taichi and Touma being close again and also acts as Masumi's confidant.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210340-bHbPYRWYA8DL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210340
+      }
+    },
+    {
+      "id": "shingo-niimura",
+      "name": "Shingo Niimura",
+      "alt_names": [
+        "新村慎吾"
+      ],
+      "role": "supporting",
+      "description": "Mami's friend.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b319870-NoCykzL2mdKV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 319870
+      }
+    },
+    {
+      "id": "yokki",
+      "name": "Yokki",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Taichi's friend.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320003-MNr4vYT1dKID.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320003
+      }
+    },
+    {
+      "id": "kensuke",
+      "name": "Kensuke",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320004-rivCy3Qy9IvM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320004
+      }
+    },
+    {
+      "id": "mon",
+      "name": "Mon",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Taichi's friend.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320005-tqCxNK7LrdU1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320005
+      }
+    },
+    {
+      "id": "omega",
+      "name": "Omega",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Taichi's friend.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320006-Hfx9eVfKWT4p.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320006
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T13:22:54.389Z"
+}

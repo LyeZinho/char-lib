@@ -1,0 +1,349 @@
+{
+  "work_id": "cautious-hero-the-hero-is-overpowered-but-overly-cautious",
+  "count": 15,
+  "characters": [
+    {
+      "id": "ristarte",
+      "name": "Ristarte ",
+      "alt_names": [
+        "リスタルテ",
+        "Listarte",
+        "Rista"
+      ],
+      "role": "protagonist",
+      "description": "The goddess charged with guiding Seiya to defeat the Demon Lord.\n\n~!Seiyas companion in his life before.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141624-gTy9Jhhc9UAk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141624
+      }
+    },
+    {
+      "id": "seiya-ryuguin",
+      "name": "Seiya Ryuguin",
+      "alt_names": [
+        "竜宮院聖哉",
+        "Hero",
+        "Seiya Ryuuguin",
+        "Seiya Ryuguuin"
+      ],
+      "role": "protagonist",
+      "description": "__Hair Color:__ Black\n\nSeiya is a very tall and handsome young man who is portrayed as extremely muscular under his armor with spiky yet still well-kept haircut that is down turned and leans to his right, which is commonly seen covering his right eye, but this is an effect caused by angles and it has never been seen obscuring his vision though as Seiya likely would not allow this (In the manga, his hair is more swept back, unkempt and it seems to move around with his movement more than the anime), black eyes, he is almost always seen with a calm and pensive expression, unless he is annoyed or angered and he is unanimously thought of as attractive by just about anyone he meets, even gods or enemies.\n\nSeiya is defined by his overly cautious nature who refuses to face any enemy he isn't sure that he can beat and he will attack defeated enemies repeatedly on the off chance that they can revive themselves, and worries that any stranger he meets could be an enemy or carry a deadly illness, even his own partner. However, his cautious nature also makes Seiya extremely diligent when it comes to preparing for future battles. He'll grind for levels for days at a time and is almost tireless in his training.\n\nSeiya also tends to speak bluntly to others and is quick to express his dissatisfaction with the opinions and actions of others. He seems rather inexperienced and ignorant of socialization, as he has been unable to spot other people's clear romantic feelings for him and has no trouble pouring holy water over strangers heads or picking hairs off Ristarte while she sleeps yet still is unaware of why these actions upset people. Despite coming off as a guy who doesn't care about anyone, his actions are driven by a want to avoid harm or death coming to those he cares about, even if it means pushing them away. In reality, he truly cares about both the people around him and the world he must save.\n\nSeiya also seems to have no real hobbies or interests outside of things that will help him defeat his enemies. When confronted with things such as tasty food, celebration, or even sexual encounters he is always dismissive and uninterested.\n\n(Source: cautious-hero.fandom.com)",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141625-oYFYH78dmAkz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141625
+      }
+    },
+    {
+      "id": "mash",
+      "name": "Mash",
+      "alt_names": [
+        "マッシュ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145704-Hek8Hit6VP5H.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145704
+      }
+    },
+    {
+      "id": "eruru",
+      "name": "Eruru",
+      "alt_names": [
+        "エルル"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145705-QZQubMfibBZs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 145705
+      }
+    },
+    {
+      "id": "ariadoa",
+      "name": "Ariadoa",
+      "alt_names": [
+        "アリアドア",
+        "Aria"
+      ],
+      "role": "supporting",
+      "description": "Ariadoa is the Goddess of the Seal and Ristarte's closest friend in the Realm of the Gods.",
+      "metadata": {
+        "gender": "female",
+        "age": "100+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b148038-PYDgc3yEdf1Q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 148038
+      }
+    },
+    {
+      "id": "chaos-machina",
+      "name": "Chaos Machina",
+      "alt_names": [
+        "ケオス・マキナ"
+      ],
+      "role": "supporting",
+      "description": "One of the demon lord’s most powerful minions.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b148039-S4smsNxqJ0Oi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 148039
+      }
+    },
+    {
+      "id": "valkyrie",
+      "name": "Valkyrie",
+      "alt_names": [
+        "ヴァルキュレ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b151280-pBi3nKUP4jsv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 151280
+      }
+    },
+    {
+      "id": "cerceus",
+      "name": "Cerceus",
+      "alt_names": [
+        "セルセウス"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b151281-j85mt9MK9ws4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 151281
+      }
+    },
+    {
+      "id": "hestiaca",
+      "name": "Hestiaca",
+      "alt_names": [
+        "へスティカ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b151282-TIDxcJCfbNMw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 151282
+      }
+    },
+    {
+      "id": "deathmagla",
+      "name": "Deathmagla",
+      "alt_names": [
+        "デスマグラ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b151283-jcjq9jLClv0n.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 151283
+      }
+    },
+    {
+      "id": "adenela",
+      "name": "Adenela",
+      "alt_names": [
+        "アデネラ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b151284-7GLQKn43Sfv3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 151284
+      }
+    },
+    {
+      "id": "ishtar",
+      "name": "Ishtar",
+      "alt_names": [
+        "イシスター"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b151285-HSll41RNCdLV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 151285
+      }
+    },
+    {
+      "id": "leviae",
+      "name": "Leviae",
+      "alt_names": [
+        "リヴァイエ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b151286-smWF2JaxrpTI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 151286
+      }
+    },
+    {
+      "id": "rosalie-roseguard",
+      "name": "Rosalie Roseguard",
+      "alt_names": [
+        "ロザリー＝ロズガルド"
+      ],
+      "role": "supporting",
+      "description": "Princess of Roseguard Empire and captain of the Roseguard Imperial Knights.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b151953-TJTUGsbBrCm4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 151953
+      }
+    },
+    {
+      "id": "mitis",
+      "name": "Mitis",
+      "alt_names": [
+        "ミティス"
+      ],
+      "role": "supporting",
+      "description": "Goddess of Archery.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b151954-DAqZ2xlUcdfS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 151954
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T15:24:41.513Z"
+}

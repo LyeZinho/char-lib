@@ -134,41 +134,7 @@ export default function DocsPage() {
         </p>
       </div>
 
-      {/* Changelog / Notas rápidas */}
-      <section className="mb-12">
-        <h2 className="text-2xl font-bold mb-6">🛠️ Changelog</h2>
-        <div className="bg-dark-card border border-dark-border rounded-lg p-6">
-          <pre className="text-sm overflow-x-auto">
-            <code className="text-gray-300">{`Otimizando a seleção de ferramentas...
 
-Implemented character loading and updated tasks
-Vou primeiro atualizar a lista de tarefas para marcar o endpoint random como em progresso.
-
-Concluído: Add API endpoints (1/4)
-
-Agora vou criar o arquivo do endpoint Next.js em web/app/api/characters/random/route.ts.
-
-Vou aplicar o patch do arquivo do endpoint novamente.
-
-Vou criar o arquivo do endpoint em web/app/api/characters/random/route.ts no repositório.
-
-Editado
-route.ts+117-1
-Iniciando: Run quick manual checks (3/4)
-
-Pronto — endpoint criado em route.ts.
-
-O que fiz: implementei GET /api/characters/random com suporte a:
-
-- Filtro por tipo: ?type=game|anime|manga
-- Filtro por obra: ?workType=game|anime|manga&work=<slug|id|title>
-- Sem filtro: retorna personagens de todas as obras
-- ?n=<num> para obter até 50 personagens aleatórios (padrão 1)
-
-Próximo passo: quer que eu execute checagens rápidas localmente (curl) e mostre exemplos de respostas?`}</code>
-          </pre>
-        </div>
-      </section>
 
       {/* Database Metadata */}
       <section className="mb-12">
@@ -297,14 +263,40 @@ Próximo passo: quer que eu execute checagens rápidas localmente (curl) e mostr
       {/* Endpoints */}
       <section className="mb-12">
         <h2 className="text-2xl font-bold mb-6">🔗 Endpoints Disponíveis</h2>
+        
+        <div className="mb-6 bg-accent-primary/10 border border-accent-primary/30 rounded-lg p-4">
+          <p className="text-gray-300 text-sm">
+            <strong className="text-accent-primary">Base URL:</strong> <code className="text-accent-primary">{typeof window !== 'undefined' ? window.location.origin : 'https://charlib.vercel.app'}</code>
+          </p>
+          <p className="text-gray-300 text-sm mt-2">
+            Todos os endpoints retornam JSON. Clique em "🧪 Testar" para executar requisições ao vivo.
+          </p>
+        </div>
+
+        {/* Navegação rápida */}
+        <div className="mb-8 bg-dark-card border border-dark-border rounded-lg p-4">
+          <h3 className="text-lg font-semibold mb-3">⚡ Navegação Rápida</h3>
+          <div className="grid md:grid-cols-3 gap-2 text-sm">
+            <a href="#obras" className="text-accent-primary hover:underline">📚 Obras</a>
+            <a href="#personagens-obra" className="text-accent-primary hover:underline">👥 Personagens por Obra</a>
+            <a href="#busca-simples" className="text-accent-primary hover:underline">🔍 Busca Simples</a>
+            <a href="#busca-fuzzy" className="text-accent-success hover:underline">⚡ Busca Fuzzy</a>
+            <a href="#random" className="text-accent-warning hover:underline">🎲 Aleatórios</a>
+            <a href="#stats" className="text-accent-secondary hover:underline">📊 Estatísticas</a>
+          </div>
+        </div>
 
         <div className="space-y-8">
+          
+          {/* SEÇÃO: OBRAS */}
+          <div id="obras" className="scroll-mt-8">
+            <h3 className="text-xl font-bold mb-4 text-accent-primary">📚 Endpoints de Obras</h3>
           {/* GET /api/works */}
           <div className="bg-dark-card border border-dark-border rounded-lg p-6 hover:border-accent-primary/50 transition-colors">
             <div className="flex items-center justify-between mb-3">
               <div className="flex items-center gap-3">
                 <span className="px-3 py-1 bg-accent-success rounded text-sm font-mono font-bold">GET</span>
-                <code className="text-accent-primary">/api/works</code>
+                <code className="text-accent-primary font-semibold">/api/works</code>
               </div>
               <button
                 onClick={() => testEndpoint('works', '/api/works')}
@@ -314,20 +306,29 @@ Próximo passo: quer que eu execute checagens rápidas localmente (curl) e mostr
                 {responses['works']?.loading ? 'Testando...' : '🧪 Testar'}
               </button>
             </div>
-            <p className="text-gray-300 mb-3">Lista todas as obras disponíveis no banco de dados.</p>
+            <p className="text-gray-300 mb-3">
+              <strong>Descrição:</strong> Retorna lista completa de todas as obras disponíveis no banco de dados (anime, manga e games).
+            </p>
             <div className="bg-dark-bg rounded p-4 mb-4">
+              <p className="text-xs text-gray-400 mb-2 font-semibold">RESPONSE (200 OK):</p>
               <pre className="text-sm overflow-x-auto">
-                <code className="text-gray-300">{`// Exemplo de resposta
-[
+                <code className="text-gray-300">{`[
   {
     "id": "naruto",
+    "slug": "naruto",
     "type": "anime",
     "title": "Naruto",
-    "metadata": { ... },
-    "cover_image": "..."
-  }
+    "cover_image": "https://...",
+    "genres": ["Action", "Adventure"],
+    "average_score": 82,
+    "metadata": { ... }
+  },
+  ...
 ]`}</code>
               </pre>
+            </div>
+            <div className="text-xs text-gray-400">
+              <p><strong>Use case:</strong> Listar obras na página inicial, filtros, dropdowns</p>
             </div>
             {renderResponse('works')}
           </div>
@@ -337,63 +338,113 @@ Próximo passo: quer que eu execute checagens rápidas localmente (curl) e mostr
             <div className="flex items-center justify-between mb-3">
               <div className="flex items-center gap-3">
                 <span className="px-3 py-1 bg-accent-success rounded text-sm font-mono font-bold">GET</span>
-                <code className="text-accent-primary">/api/works/[type]/[slug]</code>
+                <code className="text-accent-primary font-semibold">/api/works/<span className="text-accent-secondary">{'{type}'}</span>/<span className="text-accent-secondary">{'{workSlug}'}</span></code>
               </div>
               <button
                 onClick={() => testEndpoint('work-detail', '/api/works/anime/naruto')}
                 disabled={responses['work-detail']?.loading}
                 className="px-4 py-2 bg-accent-primary hover:bg-accent-primary/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
               >
-                {responses['work-detail']?.loading ? 'Testando...' : '🧪 Testar'}
+                {responses['work-detail']?.loading ? 'Testando...' : '🧪 Testar (Naruto)'}
               </button>
             </div>
-            <p className="text-gray-300 mb-3">Retorna informações detalhadas de uma obra específica.</p>
+            <p className="text-gray-300 mb-3">
+              <strong>Descrição:</strong> Retorna informações detalhadas de uma obra específica incluindo metadados, descrição, imagens, gêneros e scores.
+            </p>
             <div className="mb-3">
-              <p className="text-sm text-gray-400 mb-1">Parâmetros:</p>
+              <p className="text-sm text-gray-400 mb-1"><strong>Path Parameters:</strong></p>
               <ul className="text-sm text-gray-300 space-y-1 ml-4">
-                <li><code className="text-accent-primary">type</code>: anime, manga ou game</li>
-                <li><code className="text-accent-primary">slug</code>: identificador da obra</li>
+                <li>• <code className="text-accent-secondary">type</code>: <code className="text-gray-400">anime</code> | <code className="text-gray-400">manga</code> | <code className="text-gray-400">game</code></li>
+                <li>• <code className="text-accent-secondary">workSlug</code>: identificador único da obra (ex: <code className="text-gray-400">naruto</code>, <code className="text-gray-400">one-piece</code>)</li>
               </ul>
             </div>
             <div className="bg-dark-bg rounded p-4 mb-4">
+              <p className="text-xs text-gray-400 mb-2 font-semibold">EXEMPLO:</p>
               <pre className="text-sm overflow-x-auto">
-                <code className="text-gray-300">{`// Exemplo
-fetch('/api/works/anime/naruto')
+                <code className="text-gray-300">{`fetch('/api/works/anime/naruto')
   .then(res => res.json())
-  .then(data => console.log(data));`}</code>
+  .then(data => console.log(data));
+
+// RESPONSE (200 OK):
+{
+  "id": "naruto",
+  "slug": "naruto",
+  "type": "anime",
+  "title": "Naruto",
+  "description": "Naruto Uzumaki, a mischievous...",
+  "cover_image": "https://...",
+  "genres": ["Action", "Adventure", "Martial Arts"],
+  "average_score": 82,
+  "popularity_rank": 5,
+  "metadata": {
+    "mal_id": 20,
+    "episodes": 220,
+    "status": "Finished Airing",
+    "aired": { ... }
+  }
+}`}</code>
               </pre>
+            </div>
+            <div className="text-xs text-gray-400 space-y-1">
+              <p><strong>Status codes:</strong></p>
+              <p>• <code className="text-accent-success">200</code> - Obra encontrada</p>
+              <p>• <code className="text-accent-danger">404</code> - Obra não encontrada</p>
             </div>
             {renderResponse('work-detail')}
           </div>
+
+          </div>
+
+          {/* SEÇÃO: PERSONAGENS POR OBRA */}
+          <div id="personagens-obra" className="scroll-mt-8">
+            <h3 className="text-xl font-bold mb-4 text-accent-primary">👥 Personagens por Obra</h3>
 
           {/* GET /api/works/[type]/[slug]/characters */}
           <div className="bg-dark-card border border-dark-border rounded-lg p-6 hover:border-accent-primary/50 transition-colors">
             <div className="flex items-center justify-between mb-3">
               <div className="flex items-center gap-3">
                 <span className="px-3 py-1 bg-accent-success rounded text-sm font-mono font-bold">GET</span>
-                <code className="text-accent-primary">/api/works/[type]/[slug]/characters</code>
+                <code className="text-accent-primary font-semibold">/api/works/<span className="text-accent-secondary">{'{type}'}</span>/<span className="text-accent-secondary">{'{workSlug}'}</span>/characters</code>
               </div>
               <button
                 onClick={() => testEndpoint('work-characters', '/api/works/anime/naruto/characters')}
                 disabled={responses['work-characters']?.loading}
                 className="px-4 py-2 bg-accent-primary hover:bg-accent-primary/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
               >
-                {responses['work-characters']?.loading ? 'Testando...' : '🧪 Testar'}
+                {responses['work-characters']?.loading ? 'Testando...' : '🧪 Testar (Naruto)'}
               </button>
             </div>
-            <p className="text-gray-300 mb-3">Lista todos os personagens de uma obra.</p>
+            <p className="text-gray-300 mb-3">
+              <strong>Descrição:</strong> Lista todos os personagens pertencentes a uma obra específica.
+            </p>
+            <div className="mb-3">
+              <p className="text-sm text-gray-400 mb-1"><strong>Path Parameters:</strong></p>
+              <ul className="text-sm text-gray-300 space-y-1 ml-4">
+                <li>• <code className="text-accent-secondary">type</code>, <code className="text-accent-secondary">workSlug</code>: mesmos parâmetros do endpoint anterior</li>
+              </ul>
+            </div>
             <div className="bg-dark-bg rounded p-4 mb-4">
+              <p className="text-xs text-gray-400 mb-2 font-semibold">RESPONSE (200 OK):</p>
               <pre className="text-sm overflow-x-auto">
-                <code className="text-gray-300">{`// Retorna array de personagens
-[
+                <code className="text-gray-300">{`[
   {
     "id": "naruto-uzumaki",
+    "slug": "naruto-uzumaki",
     "name": "Naruto Uzumaki",
+    "alt_names": ["うずまき ナルト", "Uzumaki Naruto"],
     "role": "protagonist",
-    "images": [ ... ]
-  }
+    "images": [
+      { "type": "cover", "url": "https://..." }
+    ],
+    "description": "...",
+    "metadata": { ... }
+  },
+  ...
 ]`}</code>
               </pre>
+            </div>
+            <div className="text-xs text-gray-400">
+              <p><strong>Use case:</strong> Exibir galeria de personagens em página de obra</p>
             </div>
             {renderResponse('work-characters')}
           </div>
@@ -403,26 +454,71 @@ fetch('/api/works/anime/naruto')
             <div className="flex items-center justify-between mb-3">
               <div className="flex items-center gap-3">
                 <span className="px-3 py-1 bg-accent-success rounded text-sm font-mono font-bold">GET</span>
-                <code className="text-accent-primary">/api/works/[type]/[slug]/characters/[characterId]</code>
+                <code className="text-accent-primary font-semibold">/api/works/<span className="text-accent-secondary">{'{type}'}</span>/<span className="text-accent-secondary">{'{workSlug}'}</span>/characters/<span className="text-accent-secondary">{'{characterId}'}</span></code>
               </div>
               <button
                 onClick={() => testEndpoint('character-detail', '/api/works/anime/naruto/characters/naruto-uzumaki')}
                 disabled={responses['character-detail']?.loading}
                 className="px-4 py-2 bg-accent-primary hover:bg-accent-primary/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
               >
-                {responses['character-detail']?.loading ? 'Testando...' : '🧪 Testar'}
+                {responses['character-detail']?.loading ? 'Testando...' : '🧪 Testar (Naruto)'}
               </button>
             </div>
-            <p className="text-gray-300 mb-3">Retorna informações detalhadas de um personagem específico.</p>
+            <p className="text-gray-300 mb-3">
+              <strong>Descrição:</strong> Retorna informações detalhadas de um personagem específico.
+            </p>
+            <div className="mb-3">
+              <p className="text-sm text-gray-400 mb-1"><strong>Path Parameters:</strong></p>
+              <ul className="text-sm text-gray-300 space-y-1 ml-4">
+                <li>• <code className="text-accent-secondary">characterId</code>: ID ou slug do personagem</li>
+              </ul>
+            </div>
+            <div className="bg-dark-bg rounded p-4 mb-4">
+              <p className="text-xs text-gray-400 mb-2 font-semibold">RESPONSE (200 OK):</p>
+              <pre className="text-sm overflow-x-auto">
+                <code className="text-gray-300">{`{
+  "id": "naruto-uzumaki",
+  "slug": "naruto-uzumaki",
+  "name": "Naruto Uzumaki",
+  "alt_names": ["うずまき ナルト"],
+  "role": "protagonist",
+  "description": "Naruto is a young ninja...",
+  "images": [
+    {
+      "type": "cover",
+      "url": "https://cdn.myanimelist.net/...",
+      "width": 225,
+      "height": 350
+    }
+  ],
+  "metadata": {
+    "age": "16",
+    "birthday": "October 10",
+    "height": "166 cm"
+  }
+}`}</code>
+              </pre>
+            </div>
+            <div className="text-xs text-gray-400 space-y-1">
+              <p><strong>Status codes:</strong></p>
+              <p>• <code className="text-accent-success">200</code> - Personagem encontrado</p>
+              <p>• <code className="text-accent-danger">404</code> - Personagem não encontrado</p>
+            </div>
             {renderResponse('character-detail')}
           </div>
+
+          </div>
+
+          {/* SEÇÃO: BUSCA */}
+          <div id="busca-simples" className="scroll-mt-8">
+            <h3 className="text-xl font-bold mb-4 text-accent-primary">🔍 Busca Simples</h3>
 
           {/* GET /api/search */}
           <div className="bg-dark-card border border-dark-border rounded-lg p-6 hover:border-accent-primary/50 transition-colors">
             <div className="flex items-center justify-between mb-3">
               <div className="flex items-center gap-3">
                 <span className="px-3 py-1 bg-accent-success rounded text-sm font-mono font-bold">GET</span>
-                <code className="text-accent-primary">/api/search?q=[query]&type=[works|characters]</code>
+                <code className="text-accent-primary font-semibold">/api/search</code>
               </div>
               <div className="flex gap-2">
                 <button
@@ -430,35 +526,355 @@ fetch('/api/works/anime/naruto')
                   disabled={responses['search']?.loading}
                   className="px-4 py-2 bg-accent-primary hover:bg-accent-primary/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
                 >
-                  {responses['search']?.loading ? 'Testando...' : '🧪 Testar Naruto'}
+                  {responses['search']?.loading ? 'Testando...' : '🧪 Obras'}
                 </button>
                 <button
-                  onClick={() => testEndpoint('search-custom', '/api/search?q=one+piece&type=characters')}
+                  onClick={() => testEndpoint('search-custom', '/api/search?q=luffy&type=characters')}
                   disabled={responses['search-custom']?.loading}
                   className="px-4 py-2 bg-accent-secondary hover:bg-accent-secondary/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
                 >
-                  {responses['search-custom']?.loading ? 'Testando...' : '🧪 Testar Personagens'}
+                  {responses['search-custom']?.loading ? 'Testando...' : '🧪 Chars'}
                 </button>
               </div>
             </div>
-            <p className="text-gray-300 mb-3">Busca por obras ou personagens.</p>
+            <p className="text-gray-300 mb-3">
+              <strong>Descrição:</strong> Busca simples por substring exata em obras ou personagens. Usa <code className="text-accent-warning">.includes()</code> para match.
+            </p>
             <div className="mb-3">
-              <p className="text-sm text-gray-400 mb-1">Query Parameters:</p>
+              <p className="text-sm text-gray-400 mb-1"><strong>Query Parameters:</strong></p>
               <ul className="text-sm text-gray-300 space-y-1 ml-4">
-                <li><code className="text-accent-primary">q</code>: termo de busca</li>
-                <li><code className="text-accent-primary">type</code>: works ou characters</li>
+                <li>• <code className="text-accent-secondary">q</code> <span className="text-accent-danger">*obrigatório</span>: termo de busca</li>
+                <li>• <code className="text-accent-secondary">type</code>: <code className="text-gray-400">works</code> | <code className="text-gray-400">characters</code> (padrão: works)</li>
               </ul>
             </div>
             <div className="bg-dark-bg rounded p-4 mb-4">
+              <p className="text-xs text-gray-400 mb-2 font-semibold">EXEMPLOS:</p>
               <pre className="text-sm overflow-x-auto">
-                <code className="text-gray-300">{`// Exemplo
+                <code className="text-gray-300">{`// Buscar obras
 fetch('/api/search?q=naruto&type=works')
+
+// Buscar personagens  
+fetch('/api/search?q=luffy&type=characters')
   .then(res => res.json())
-  .then(data => console.log(data));`}</code>
+  .then(chars => {
+    chars.forEach(c => {
+      console.log(\`\${c.name} de \${c.work.title}\`);
+    });
+  });`}</code>
               </pre>
+            </div>
+            <div className="bg-accent-warning/10 border border-accent-warning/30 rounded p-3 mb-3">
+              <p className="text-accent-warning text-sm">
+                <strong>⚠️ Limitação:</strong> Busca exata (case-insensitive). Não tolera erros ortográficos. 
+                Para busca inteligente, use <a href="#busca-fuzzy" className="underline">/api/characters/search</a>.
+              </p>
             </div>
             {renderResponse('search')}
             {renderResponse('search-custom')}
+          </div>
+
+          </div>
+
+          {/* SEÇÃO: BUSCA FUZZY */}
+          <div id="busca-fuzzy" className="scroll-mt-8">
+            <h3 className="text-xl font-bold mb-4 text-accent-success">⚡ Busca Fuzzy (Inteligente)</h3>
+
+          {/* GET /api/characters/search - FUZZY SEARCH */}
+          <div className="bg-dark-card border border-accent-success/50 rounded-lg p-6 hover:border-accent-success transition-colors shadow-lg">
+            <div className="flex items-center justify-between mb-3">
+              <div className="flex items-center gap-3">
+                <span className="px-3 py-1 bg-accent-success rounded text-sm font-mono font-bold">GET</span>
+                <code className="text-accent-success font-semibold text-lg">/api/characters/search</code>
+                <span className="px-2 py-1 bg-accent-warning/20 text-accent-warning text-xs rounded font-semibold">⚡ FUZZY</span>
+                <span className="px-2 py-1 bg-accent-primary/20 text-accent-primary text-xs rounded font-semibold">⭐ RECOMENDADO</span>
+              </div>
+              <div className="flex gap-2">
+                <button
+                  onClick={() => testEndpoint('char-search-1', '/api/characters/search?q=naruto&limit=5')}
+                  disabled={responses['char-search-1']?.loading}
+                  className="px-4 py-2 bg-accent-success hover:bg-accent-success/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
+                >
+                  {responses['char-search-1']?.loading ? 'Testando...' : '🧪 Naruto'}
+                </button>
+                <button
+                  onClick={() => testEndpoint('char-search-2', '/api/characters/search?q=goko&limit=5')}
+                  disabled={responses['char-search-2']?.loading}
+                  className="px-4 py-2 bg-accent-warning hover:bg-accent-warning/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
+                >
+                  {responses['char-search-2']?.loading ? 'Testando...' : '🧪 "Goko" (typo)'}
+                </button>
+              </div>
+            </div>
+            <p className="text-gray-300 mb-4 text-lg">
+              <strong>🎯 Busca inteligente de personagens</strong> com tolerância a erros ortográficos, nomes parciais, variações e acentos.
+              Usa o algoritmo de <strong>Levenshtein</strong> para calcular similaridade e retornar os melhores matches.
+            </p>
+            
+            <div className="mb-4">
+              <p className="text-sm text-gray-400 mb-2"><strong>Query Parameters:</strong></p>
+              <ul className="text-sm text-gray-300 space-y-2 ml-4">
+                <li>• <code className="text-accent-success">q</code> <span className="text-accent-danger">*obrigatório</span>: termo de busca (mínimo 2 caracteres)</li>
+                <li>• <code className="text-accent-success">type</code> <em className="text-gray-500">(opcional)</em>: <code className="text-gray-400">anime</code> | <code className="text-gray-400">manga</code> | <code className="text-gray-400">game</code></li>
+                <li>• <code className="text-accent-success">limit</code> <em className="text-gray-500">(opcional)</em>: max resultados (padrão: 20, máx: 100)</li>
+                <li>• <code className="text-accent-success">threshold</code> <em className="text-gray-500">(opcional)</em>: similaridade mínima 0-1 (padrão: 0.4)</li>
+              </ul>
+            </div>
+
+            <div className="bg-dark-bg rounded p-4 mb-4">
+              <p className="text-xs text-gray-400 mb-2 font-semibold">EXEMPLOS:</p>
+              <pre className="text-sm overflow-x-auto">
+                <code className="text-gray-300">{`// Busca básica
+fetch('/api/characters/search?q=goku&limit=10')
+  .then(res => res.json())
+  .then(data => {
+    console.log(\`Encontrados: \${data.total} personagens\`);
+    data.results.forEach(char => {
+      console.log(\`\${char.name} - Score: \${char._searchScore.toFixed(2)}\`);
+      console.log(\`  Obra: \${char.work.title} (\${char.work.type})\`);
+      console.log(\`  Match: \${char._matchType}\`);
+    });
+  });
+
+// Com typo → ainda funciona!
+fetch('/api/characters/search?q=goko&limit=5')
+// Retorna "Goku" com score alto
+
+// Filtrar por tipo
+fetch('/api/characters/search?q=naruto&type=anime')
+
+// Busca rigorosa (threshold alto)
+fetch('/api/characters/search?q=edward&threshold=0.7')
+
+// Nome parcial
+fetch('/api/characters/search?q=uzumaki')
+// Retorna "Naruto Uzumaki", "Kushina Uzumaki", etc.`}</code>
+              </pre>
+            </div>
+
+            <div className="bg-dark-bg rounded p-4 mb-4">
+              <p className="text-xs text-gray-400 mb-2 font-semibold">RESPONSE STRUCTURE:</p>
+              <pre className="text-sm overflow-x-auto">
+                <code className="text-gray-300">{`{
+  "query": "goko",
+  "total": 3,
+  "threshold": 0.4,
+  "results": [
+    {
+      "id": "goku",
+      "name": "Son Goku",
+      "alt_names": ["孫悟空", "Kakarot"],
+      "role": "protagonist",
+      "images": [...],
+      "work": {
+        "id": "dragon-ball",
+        "slug": "dragon-ball",
+        "type": "anime",
+        "title": "Dragon Ball",
+        "cover_image": "https://..."
+      },
+      "_searchScore": 0.92,
+      "_matchType": "fuzzy"
+    },
+    ...
+  ]
+}`}</code>
+              </pre>
+            </div>
+
+            <div className="bg-accent-success/10 border border-accent-success/30 rounded p-4 mb-3">
+              <p className="text-accent-success text-sm font-medium mb-2">✨ Funcionalidades:</p>
+              <div className="grid md:grid-cols-2 gap-2 text-gray-300 text-sm">
+                <div>
+                  <p className="font-semibold mb-1">Tipos de Match:</p>
+                  <ul className="ml-4 space-y-1">
+                    <li>• <strong>exact</strong>: match perfeito (score 1.0)</li>
+                    <li>• <strong>contains</strong>: substring (score 0.95)</li>
+                    <li>• <strong>startsWith</strong>: começa com (score 0.9)</li>
+                    <li>• <strong>partialWord</strong>: palavra parcial</li>
+                    <li>• <strong>fuzzy</strong>: similaridade Levenshtein</li>
+                  </ul>
+                </div>
+                <div>
+                  <p className="font-semibold mb-1">Tolerância:</p>
+                  <ul className="ml-4 space-y-1">
+                    <li>• Erros ortográficos</li>
+                    <li>• Acentos e caracteres especiais</li>
+                    <li>• Maiúsculas/minúsculas</li>
+                    <li>• Ordem de palavras</li>
+                    <li>• Nomes alternativos (alt_names)</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div className="text-xs text-gray-400 space-y-1">
+              <p><strong>Use cases:</strong></p>
+              <p>• Barra de busca com autocompletar</p>
+              <p>• "Você quis dizer..." (sugestões)</p>
+              <p>• Busca por nome parcial (primeiro/último nome)</p>
+              <p>• Correção automática de typos</p>
+            </div>
+
+            {renderResponse('char-search-1')}
+            {renderResponse('char-search-2')}
+          </div>
+
+          </div>
+
+          {/* SEÇÃO: RANDOM */}
+          <div id="random" className="scroll-mt-8">
+            <h3 className="text-xl font-bold mb-4 text-accent-warning">🎲 Personagens Aleatórios</h3>
+
+          {/* GET /api/characters/random */}
+          <div className="bg-dark-card border border-accent-warning/50 rounded-lg p-6 hover:border-accent-warning transition-colors">
+            <div className="flex items-center justify-between mb-3">
+              <div className="flex items-center gap-3">
+                <span className="px-3 py-1 bg-accent-warning rounded text-sm font-mono font-bold">GET</span>
+                <code className="text-accent-warning font-semibold">/api/characters/random</code>
+                <span className="px-2 py-1 bg-accent-primary/20 text-accent-primary text-xs rounded font-semibold">🎲 RANDOM</span>
+              </div>
+              <div className="flex gap-2">
+                <button
+                  onClick={() => testEndpoint('random-1', '/api/characters/random?n=3')}
+                  disabled={responses['random-1']?.loading}
+                  className="px-4 py-2 bg-accent-warning hover:bg-accent-warning/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
+                >
+                  {responses['random-1']?.loading ? 'Testando...' : '🎲 3 Aleatórios'}
+                </button>
+                <button
+                  onClick={() => testEndpoint('random-2', '/api/characters/random?type=anime&n=5')}
+                  disabled={responses['random-2']?.loading}
+                  className="px-4 py-2 bg-accent-secondary hover:bg-accent-secondary/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
+                >
+                  {responses['random-2']?.loading ? 'Testando...' : '🎲 5 Anime'}
+                </button>
+              </div>
+            </div>
+            <p className="text-gray-300 mb-3">
+              <strong>Descrição:</strong> Retorna personagens aleatórios da database. Perfeito para descoberta, features de "personagem do dia" ou recomendações surpresa.
+            </p>
+            <div className="mb-3">
+              <p className="text-sm text-gray-400 mb-1"><strong>Query Parameters:</strong></p>
+              <ul className="text-sm text-gray-300 space-y-1 ml-4">
+                <li>• <code className="text-accent-warning">n</code> <em className="text-gray-500">(opcional)</em>: quantidade (padrão: 1, máx: 50)</li>
+                <li>• <code className="text-accent-warning">type</code> <em className="text-gray-500">(opcional)</em>: <code className="text-gray-400">anime</code> | <code className="text-gray-400">manga</code> | <code className="text-gray-400">game</code></li>
+                <li>• <code className="text-accent-warning">workType</code> + <code className="text-accent-warning">work</code> <em className="text-gray-500">(opcional)</em>: filtrar por obra específica</li>
+              </ul>
+            </div>
+            <div className="bg-dark-bg rounded p-4 mb-4">
+              <p className="text-xs text-gray-400 mb-2 font-semibold">EXEMPLOS:</p>
+              <pre className="text-sm overflow-x-auto">
+                <code className="text-gray-300">{`// Um personagem aleatório de qualquer tipo
+fetch('/api/characters/random')
+
+// 5 personagens aleatórios de anime
+fetch('/api/characters/random?type=anime&n=5')
+
+// 10 personagens de games
+fetch('/api/characters/random?type=game&n=10')
+
+// 3 personagens de uma obra específica
+fetch('/api/characters/random?workType=anime&work=naruto&n=3')
+
+// RESPONSE:
+{
+  "count": 3,
+  "characters": [
+    {
+      "id": "...",
+      "name": "...",
+      "images": [...],
+      "work": {
+        "type": "anime",
+        "slug": "naruto"
+      }
+    },
+    ...
+  ]
+}`}</code>
+              </pre>
+            </div>
+            <div className="bg-accent-warning/10 border border-accent-warning/30 rounded p-3 mb-3">
+              <p className="text-accent-warning text-sm font-medium mb-2">💡 Use Cases:</p>
+              <ul className="text-gray-300 text-sm space-y-1 ml-4">
+                <li>• "Personagem do dia" na homepage</li>
+                <li>• Carrossel de descoberta de personagens</li>
+                <li>• Recomendações aleatórias</li>
+                <li>• Easter eggs / surpresas</li>
+                <li>• Placeholders para mockups</li>
+              </ul>
+            </div>
+            {renderResponse('random-1')}
+            {renderResponse('random-2')}
+          </div>
+
+          </div>
+
+          {/* SEÇÃO: ESTATÍSTICAS */}
+          <div id="stats" className="scroll-mt-8">
+            <h3 className="text-xl font-bold mb-4 text-accent-secondary">📊 Estatísticas e Metadados</h3>
+
+          {/* GET /api/database-stats */}
+          <div className="bg-dark-card border border-dark-border rounded-lg p-6 hover:border-accent-secondary/50 transition-colors">
+            <div className="flex items-center justify-between mb-3">
+              <div className="flex items-center gap-3">
+                <span className="px-3 py-1 bg-accent-success rounded text-sm font-mono font-bold">GET</span>
+                <code className="text-accent-secondary font-semibold">/api/database-stats</code>
+              </div>
+              <button
+                onClick={() => testEndpoint('db-stats', '/api/database-stats')}
+                disabled={responses['db-stats']?.loading}
+                className="px-4 py-2 bg-accent-secondary hover:bg-accent-secondary/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
+              >
+                {responses['db-stats']?.loading ? 'Testando...' : '🧪 Testar'}
+              </button>
+            </div>
+            <p className="text-gray-300 mb-3">
+              <strong>Descrição:</strong> Retorna estatísticas completas da database incluindo contadores, distribuições, tamanho e timestamps.
+            </p>
+            <div className="bg-dark-bg rounded p-4 mb-4">
+              <p className="text-xs text-gray-400 mb-2 font-semibold">RESPONSE STRUCTURE:</p>
+              <pre className="text-sm overflow-x-auto">
+                <code className="text-gray-300">{`{
+  "total_works": 150,
+  "total_characters": 3420,
+  "total_genres": 45,
+  "average_score": 78,
+  "types": {
+    "anime": {
+      "works_count": 100,
+      "characters_count": 2500,
+      "genres_count": 35
+    },
+    "manga": { ... },
+    "game": { ... }
+  },
+  "database_info": {
+    "total_file_size": 52428800,
+    "average_characters_per_work": 22.8,
+    "first_import": "2025-01-01T00:00:00Z",
+    "last_import": "2025-12-24T22:00:00Z"
+  },
+  "distribution": {
+    "by_status": {
+      "Finished Airing": 80,
+      "Currently Airing": 20
+    },
+    "top_genres": [
+      { "genre": "Action", "count": 45 },
+      { "genre": "Adventure", "count": 38 }
+    ]
+  },
+  "last_updated": "2025-12-24T22:16:00Z"
+}`}</code>
+              </pre>
+            </div>
+            <div className="text-xs text-gray-400">
+              <p><strong>Use case:</strong> Dashboards, página "sobre", métricas de crescimento</p>
+            </div>
+            {renderResponse('db-stats')}
+          </div>
+
           </div>
         </div>
       </section>
@@ -509,7 +925,9 @@ fetch('/api/search?q=naruto&type=works')
         <h2 className="text-2xl font-bold mb-4">💻 Exemplo de Uso Completo</h2>
         <div className="bg-dark-card border border-dark-border rounded-lg p-6">
           <pre className="text-sm overflow-x-auto">
-            <code className="text-gray-300">{`// Buscar todas as obras
+            <code className="text-gray-300">{`// ========== OBRAS ==========
+
+// Buscar todas as obras
 const works = await fetch('/api/works').then(r => r.json());
 
 // Obter detalhes de uma obra específica
@@ -523,9 +941,58 @@ const characters = await fetch('/api/works/anime/naruto/characters')
 const character = await fetch('/api/works/anime/naruto/characters/naruto-uzumaki')
   .then(r => r.json());
 
-// Buscar obras por nome
-const searchResults = await fetch('/api/search?q=one+piece&type=works')
-  .then(r => r.json());`}</code>
+
+// ========== BUSCA ==========
+
+// Busca simples de obras por nome
+const searchWorks = await fetch('/api/search?q=dragon&type=works')
+  .then(r => r.json());
+
+// Busca simples de personagens
+const searchChars = await fetch('/api/search?q=goku&type=characters')
+  .then(r => r.json());
+
+
+// ========== BUSCA FUZZY DE PERSONAGENS ==========
+
+// Busca inteligente com tolerância a erros
+const fuzzySearch = await fetch('/api/characters/search?q=goko&limit=10')
+  .then(r => r.json());
+
+console.log(\`Encontrados: \${fuzzySearch.total} personagens\`);
+fuzzySearch.results.forEach(char => {
+  console.log(\`\${char.name} - Score: \${char._searchScore.toFixed(2)}\`);
+  console.log(\`Obra: \${char.work.title} (\${char.work.type})\`);
+});
+
+// Busca com filtro de tipo
+const animeChars = await fetch('/api/characters/search?q=naruto&type=anime')
+  .then(r => r.json());
+
+// Ajustar sensibilidade (threshold 0-1)
+const strictSearch = await fetch('/api/characters/search?q=luz&threshold=0.7')
+  .then(r => r.json());
+
+
+// ========== PERSONAGENS ALEATÓRIOS ==========
+
+// Um personagem aleatório
+const random = await fetch('/api/characters/random').then(r => r.json());
+
+// 5 personagens aleatórios de anime
+const randomAnime = await fetch('/api/characters/random?type=anime&n=5')
+  .then(r => r.json());
+
+// Personagens aleatórios de uma obra específica
+const randomNaruto = await fetch('/api/characters/random?workType=anime&work=naruto&n=3')
+  .then(r => r.json());
+
+
+// ========== ESTATÍSTICAS ==========
+
+// Estatísticas da database
+const stats = await fetch('/api/database-stats').then(r => r.json());
+console.log(\`Total: \${stats.total_works} obras, \${stats.total_characters} personagens\`);`}</code>
           </pre>
         </div>
       </section>

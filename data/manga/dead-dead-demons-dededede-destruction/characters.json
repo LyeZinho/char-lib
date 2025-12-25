@@ -1,0 +1,351 @@
+{
+  "work_id": "dead-dead-demons-dededede-destruction",
+  "count": 15,
+  "characters": [
+    {
+      "id": "ouran-nakagawa",
+      "name": "Ouran Nakagawa",
+      "alt_names": [
+        "中川凰蘭",
+        "Ontan"
+      ],
+      "role": "protagonist",
+      "description": "A girl in her third year of high school. She is Kadode's best friend.\n\nShe has long black hair, which she often wears in twintails, secured by skull-shaped hairties. Ouran has an older brother, who is a NEET. She likes to play video games along with Kadode.\n\nOuran is a very flamboyant character. She often rambles on about her goal to enslave mankind or lead the human race to destruction. However, despite her seemingly flamboyant and sociable personality, Ouran tends to only show her true self to her friends and family.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88565-8RC8tFVxVzz0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88565
+      }
+    },
+    {
+      "id": "kadode-koyama",
+      "name": "Kadode Koyama",
+      "alt_names": [
+        "小山門出"
+      ],
+      "role": "protagonist",
+      "description": "A girl in her third year of high school. She loves the iconic manga character Isobeyan. She also has a crush on her teacher.\nHer dad went missing during the initial appearance of the alien mothership over Japan. She appears to have a rocky relationship with her mother, who's constantly worried about her own health and the A-Rays that were released when the aliens invaded.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88566-XI3I0tYcK8XN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88566
+      }
+    },
+    {
+      "id": "keita-ooba",
+      "name": "Keita Ooba",
+      "alt_names": [
+        "大葉圭太"
+      ],
+      "role": "protagonist",
+      "description": "He was a member of an idol group and also acted in some movies. He disappeared during the event of 8/31. When she was younger, Kadode was obsessed with him.\n\n~!His body was taken over by an invader child during the 8/31 event and ever since he has been living as an invader in the human body.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140043-0kMrP1oA5qn0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 140043
+      }
+    },
+    {
+      "id": "hiroshi-nakagawa",
+      "name": "Hiroshi Nakagawa",
+      "alt_names": [
+        "中川ひろし"
+      ],
+      "role": "supporting",
+      "description": "The chubby older brother of Ouran, harmless to all, who has a handsome face. He bemoans the \"sad\" world and is a neet who spends his days \"monitoring\" the internet.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89578-YHaDxdOKgQKB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89578
+      }
+    },
+    {
+      "id": "futaba-takemoto",
+      "name": "Futaba Takemoto",
+      "alt_names": [
+        "竹本ふたば"
+      ],
+      "role": "supporting",
+      "description": "She decided to come to Tokyo in order to participate in the efforts to protect the invaders.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89579-T1iS9rxsTT8G.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89579
+      }
+    },
+    {
+      "id": "makoto-tainuma",
+      "name": "Makoto Tainuma",
+      "alt_names": [
+        "田井沼マコト"
+      ],
+      "role": "supporting",
+      "description": "A classmate of Futaba's from middle school. He likes to wear women's clothing as he simply wishes to be cute and beautiful.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89580-FDtX7TICLBUX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89580
+      }
+    },
+    {
+      "id": "naoki-watarase",
+      "name": "Naoki Watarase",
+      "alt_names": [
+        "渡良瀬直樹"
+      ],
+      "role": "supporting",
+      "description": "Kadode's teacher.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89581-v5HjpBoI7GHq.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89581
+      }
+    },
+    {
+      "id": "rin-hirama",
+      "name": "Rin Hirama",
+      "alt_names": [
+        "平間凛"
+      ],
+      "role": "supporting",
+      "description": "Kadode and Ontan's friend. She is a quiet girl who is into boy's love. She is Ai's childhood friend.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89582-X8OgRBW8L1xN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89582
+      }
+    },
+    {
+      "id": "kiho-kurihara",
+      "name": "Kiho Kurihara",
+      "alt_names": [
+        "栗原キホ"
+      ],
+      "role": "supporting",
+      "description": "Kadode and Ontan's friend. She has a boyfriend named Kohiruimaki.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89583-XFu9xvJgZMjy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89583
+      }
+    },
+    {
+      "id": "ai-demoto",
+      "name": "Ai Demoto",
+      "alt_names": [
+        "出元亜衣"
+      ],
+      "role": "supporting",
+      "description": "Kadode and Ontan's friend. Rin's bespectacled childhood friend.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89584-QbT4I4z9cUAB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89584
+      }
+    },
+    {
+      "id": "manami-koyama",
+      "name": "Manami Koyama",
+      "alt_names": [
+        "小山真奈美"
+      ],
+      "role": "supporting",
+      "description": "Kadode's mother. She fears the negative health effects of the A-Lines.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89585-uRmvjou0SLIJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89585
+      }
+    },
+    {
+      "id": "hikari-sumaru",
+      "name": "Hikari Sumaru",
+      "alt_names": [
+        "須丸光"
+      ],
+      "role": "supporting",
+      "description": "She works in the public relations department at S.E.S.'s Hujin Development Center.\n\nShe is in a relationship with Watarase, Kadode's teacher.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89586-VUH1kW9xHdvF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89586
+      }
+    },
+    {
+      "id": "tarou-miura",
+      "name": "Tarou Miura",
+      "alt_names": [
+        "三浦太郎"
+      ],
+      "role": "supporting",
+      "description": "A journalist who was classmates with Sumaru-san.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89587-Hm9hPy3zeTJv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89587
+      }
+    },
+    {
+      "id": "takabatake",
+      "name": "Takabatake",
+      "alt_names": [
+        "高畠"
+      ],
+      "role": "supporting",
+      "description": "Kadode Koyama's mother's boyfriend. He plans on marrying her.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89588-18JpKNCHvFQL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89588
+      }
+    },
+    {
+      "id": "isobeyan",
+      "name": "Isobeyan",
+      "alt_names": [
+        "イソべやん"
+      ],
+      "role": "supporting",
+      "description": "A character that looks like a mushroom. Kadode Koyama's favorite manga (every volume starts off with a chapter of Isobeyan). Plays a bigger role in later volumes.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208124-RFbaohH1hEkY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208124
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T12:52:03.507Z"
+}

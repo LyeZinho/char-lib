@@ -1,0 +1,241 @@
+{
+  "work_id": "kubo-wont-let-me-be-invisible",
+  "count": 10,
+  "characters": [
+    {
+      "id": "nagisa-kubo",
+      "name": "Nagisa Kubo",
+      "alt_names": [
+        "久保渚咲",
+        "Kubocchi"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 160 cm \n\nNagisa Kubo is the female protagonist of Kubo-san wa Boku (Mobu) wo Yurusanai. She is one of the few people who can easily find Shiraishi.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b164986-FewavqJshmYl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 164986
+      }
+    },
+    {
+      "id": "junta-shiraishi",
+      "name": "Junta  Shiraishi",
+      "alt_names": [
+        "白石純太"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 163 - 166 cm (5'4\"- 5'5\")\n\nHe lacks almost any kind of presence, so people often overlook him. An exception to this is Nagisa Kubo, who is able to find him easily.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b173331-DJo02GVou1Cj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 173331
+      }
+    },
+    {
+      "id": "seita-shiraishi",
+      "name": "Seita Shiraishi",
+      "alt_names": [
+        "白石誠太"
+      ],
+      "role": "supporting",
+      "description": "He is the little brother of Junta Shiraishi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196720-2NsuK4n9lOou.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196720
+      }
+    },
+    {
+      "id": "akina-kubo",
+      "name": "Akina Kubo",
+      "alt_names": [
+        "久保明菜"
+      ],
+      "role": "supporting",
+      "description": "She is the older sister of Kubo Nagisa.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196721-WHYMwRM1SieA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196721
+      }
+    },
+    {
+      "id": "saki-kubo",
+      "name": "Saki Kubo",
+      "alt_names": [
+        "久保沙貴"
+      ],
+      "role": "supporting",
+      "description": "She is the little cousin of Kubo Nagisa, she looks up to her and wants to be like her.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196722-7G1UQw1rKSgP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196722
+      }
+    },
+    {
+      "id": "tamao-taira",
+      "name": "Tamao Taira",
+      "alt_names": [
+        "平玉緒",
+        "タマ (Tama)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 155 cm\n\nShe is a friend of Kubo and Hazuki.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196723-f3fyCGNkUqv3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196723
+      }
+    },
+    {
+      "id": "hazuki-kudou",
+      "name": "Hazuki Kudou",
+      "alt_names": [
+        "工藤葉月"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165 cm\n\nFriend of Kubo and Tama.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196724-J2unHcStELB1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196724
+      }
+    },
+    {
+      "id": "yuuma-sudou",
+      "name": "Yuuma Sudou",
+      "alt_names": [
+        "須藤勇真"
+      ],
+      "role": "supporting",
+      "description": "A classmate of Kubo and Shiraishi, he was in the same committee as Shiraishi but couldn't find him for a whole year.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213143-eaiEZiiIhTEs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 213143
+      }
+    },
+    {
+      "id": "yoshie-shiraishi",
+      "name": "Yoshie Shiraishi",
+      "alt_names": [
+        "白石由恵"
+      ],
+      "role": "supporting",
+      "description": "She is the mother of Junta Shiraishi.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293729-4nixflbgM8GW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293729
+      }
+    },
+    {
+      "id": "unzen-sensei",
+      "name": "Unzen-sensei",
+      "alt_names": [
+        "雲仙先生"
+      ],
+      "role": "supporting",
+      "description": "Unzen Sensei is seen as a calm and collected man who is constantly looking to make his students grow into better and more fulfilled people.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293730-nl04EZAu1406.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293730
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T11:38:35.251Z"
+}

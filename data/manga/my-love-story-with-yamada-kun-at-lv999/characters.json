@@ -1,0 +1,356 @@
+{
+  "work_id": "my-love-story-with-yamada-kun-at-lv999",
+  "count": 15,
+  "characters": [
+    {
+      "id": "akane-kinoshita",
+      "name": "Akane  Kinoshita",
+      "alt_names": [
+        "木之下茜"
+      ],
+      "role": "protagonist",
+      "description": "Akane is a college student who had just broken up with her ex-boyfriend. Mainly because of him falling in love with another female gamer he met in the game Forest Of Savior (FOS). She is also a player of the said game and is a part of the guild named [Chocolate Rabbit]. Her character's name is Akane and her character's role is a Paladin. She is not tech savvy but she really likes playing the game and getting along with everyone.",
+      "metadata": {
+        "gender": "female",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b197172-MfY8D8sSMjHy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 197172
+      }
+    },
+    {
+      "id": "akito-yamada",
+      "name": "Akito Yamada",
+      "alt_names": [
+        "山田秋斗"
+      ],
+      "role": "protagonist",
+      "description": "Yamada is a high school student who is an intellectual and a good looking guy. He is not interested in romance but in playing games. He is a famous pro-gamer and receives money from sponsors. He mainly plays FPS (First Person Shooter) games. He is a player of the game Forest Of Savior (FOS) and a part of a guild named [Chocolate Rabbit]. His character's name is Yamada and his character's role is a Wizard.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b197173-t2KNplNgpQV6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 197173
+      }
+    },
+    {
+      "id": "runa-sasaki",
+      "name": "Runa Sasaki",
+      "alt_names": [
+        "佐々木瑠奈"
+      ],
+      "role": "supporting",
+      "description": "Runa is a middle high school student who usually dresses in Lolita Fashion. She is the younger sister of Eita Sasaki. She is also being mentored by Yamada during the weekends. She is also a player of the game Forest Of Savior (FOS) and a member of the guild [Chocolate Rabbit]. \n\n~!Her brother (Eita) said that she is the model for his' character Princess Ruri!~\n\n~!In Chapter 44, she showed one of her characters which is named I Love Meat. The character is a male elf, and her character's role is an archer.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199120-cC3hg83DYcto.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199120
+      }
+    },
+    {
+      "id": "eita-sasaki",
+      "name": "Eita Sasaki",
+      "alt_names": [
+        "佐々木瑛太"
+      ],
+      "role": "supporting",
+      "description": "Sasaki is the older brother of Runa Sasaki. He is also Yamada-kun's senpai back in their hometown. His hobby is playing video games. He also plays the game Forest of Savior (FOS) and is also a member of the guild [Chocolate Rabbit]. \n\n~!He is the current guild master of [Chocolate Rabbit] under the name: Princess Ruri. He is a nekama.\n\n(Nekama : a male who dresses as a female, and uses anonymity in his social network with his appearance and identity unknown. It is an abbreviation of the word 'netto okama' where it has been used since the pre-internet online service era)!~",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199121-8PgP309K6DkU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199121
+      }
+    },
+    {
+      "id": "momoko-maeda",
+      "name": "Momoko Maeda",
+      "alt_names": [
+        "前田桃子",
+        "Momo"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300521-6fSVkgiIwyNX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300521
+      }
+    },
+    {
+      "id": "takezou-kamota",
+      "name": "Takezou Kamota",
+      "alt_names": [
+        "鴨田たけぞう"
+      ],
+      "role": "supporting",
+      "description": "Takezo is an elderly man with a gentle and kind demeanor. Despite his age, he remains an active member of the Chocolate Rabbit Guild and contributes to its activities. He owns a strawberry farm.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300522-m2eyMOpUOsr6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300522
+      }
+    },
+    {
+      "id": "yukari-tsubaki",
+      "name": "Yukari Tsubaki",
+      "alt_names": [
+        "椿ゆかり"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300523-RRgXKilKngPF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300523
+      }
+    },
+    {
+      "id": "tomoya-taniguchi",
+      "name": "Tomoya Taniguchi",
+      "alt_names": [
+        "谷口智也",
+        "Taniyan",
+        "Tani",
+        "Piggy"
+      ],
+      "role": "supporting",
+      "description": "Tomoya is a member of the Red Fox Team.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302599-eTZBzDNeq5M1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302599
+      }
+    },
+    {
+      "id": "sasaki-haha",
+      "name": "Sasaki Haha",
+      "alt_names": [
+        "佐々木母"
+      ],
+      "role": "supporting",
+      "description": "Eita and Runa's mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304330-dXNdj6KR2MlR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304330
+      }
+    },
+    {
+      "id": "hasegawa",
+      "name": "Hasegawa",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Akane's co-worker at the convenience store. He is part of the Espion Guild in FOS.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b310110-VdO4eamqgPrg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 310110
+      }
+    },
+    {
+      "id": "yui-kurata",
+      "name": "Yui Kurata",
+      "alt_names": [
+        "Yuinyan‚ Yui-chan"
+      ],
+      "role": "supporting",
+      "description": "Espion Guild (ex-member).",
+      "metadata": {
+        "gender": "female",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b341547-fSsLxSLYAYCG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 341547
+      }
+    },
+    {
+      "id": "takuma-furukawa",
+      "name": "Takuma Furukawa",
+      "alt_names": [
+        "古川たくま"
+      ],
+      "role": "minor",
+      "description": "Akane's ex-boyfriend.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302088-RFwfKVAkpXuM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302088
+      }
+    },
+    {
+      "id": "eri",
+      "name": "Eri",
+      "alt_names": [
+        "えり"
+      ],
+      "role": "minor",
+      "description": "Takuma's current girlfriend.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b302089-D85KHdRf08mz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302089
+      }
+    },
+    {
+      "id": "biyooshi",
+      "name": "Biyooshi",
+      "alt_names": [
+        "美容師"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302593
+      }
+    },
+    {
+      "id": "esthetician",
+      "name": "Esthetician",
+      "alt_names": [
+        "エステティシャン"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 302594
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T22:39:14.836Z"
+}

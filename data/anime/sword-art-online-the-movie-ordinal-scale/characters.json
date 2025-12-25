@@ -1,0 +1,383 @@
+{
+  "work_id": "sword-art-online-the-movie-ordinal-scale",
+  "count": 15,
+  "characters": [
+    {
+      "id": "kazuto-kirigaya",
+      "name": "Kazuto Kirigaya",
+      "alt_names": [
+        "桐ヶ谷和人",
+        "Kirito (キリト)",
+        "The Black Swordsman",
+        "Papa (パパ)",
+        "Daddy"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 172 cm\n__Weapon(s) of choice:__ Anneal Blade (1st Level), Queen's Knightblade (9th Level), Elucidator (50th level) and Dark Repulser (forged by Lisbeth)\n\nKirito is a \"solo\" player, a player who hasn't joined a guild and usually works alone. He is also one of the very few people to have had the privilege to play in the beta testing period of Sword Art Online. His game alias, Kirito, is created by taking the syllables of the first and last Kanji of his real last and first names respectively: (Kirigaya Kazuto). \n\nIn the real world, he lives with his mother and younger sister in a family of 3.  When Kayaba announced the start of the death game, he is surprised, but unlike everyone else he quickly gets over it and accepts it to an extent. He invited his friend Klein to go with him but Klein had to find his friends in the game. He was invited to join them but he declined as he couldn't take the pressure of protecting them even with his beta testing knowledge of the game.",
+      "metadata": {
+        "gender": "male",
+        "age": "14-18",
+        "dateOfBirth": "2008-10-07"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36765
+      }
+    },
+    {
+      "id": "asuna-yuuki",
+      "name": "Asuna Yuuki",
+      "alt_names": [
+        "結城明日奈",
+        "アスナ",
+        "Berserker Healer (バーサクヒーラー)",
+        "Lightning Flash (閃光)",
+        "Mama (ママ)",
+        "Erika (エリカ)"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 160-168 cm\n__Weapons of choice:__ Wind Fleuret (1st Floor), Lambent Light (Forged by Lisbeth)\n\nAsuna is a friend of Kirito and is a sub-leader of the guild Knights of the Blood (KoB), a medium-sized guild of about thirty players, also called the strongest guild in Aincrad. Being one of the few girls that are in SAO, and even more so that she's extremely pretty, she receives many invitations and proposals. She is a skilled player earning the title \"Lightning Flash\" for her extraordinary sword skill that is lightning fast. Her game alias is the same as her real world name.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-19",
+        "dateOfBirth": "2007-09-30"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36828
+      }
+    },
+    {
+      "id": "yuuna-shigemura",
+      "name": "Yuuna Shigemura",
+      "alt_names": [
+        "重村悠那",
+        "Yuna (ユナ)"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 160 cm\n\nYuuna Shigemura is one of the main characters of the Ordinal Scale arc in Sword Art Online, also known as Yuna. During her childhood, the girl found a passion for singing, especially for the pop genre.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": "2006-07-29"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121626-4jbOszZDVu5S.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121626
+      }
+    },
+    {
+      "id": "eiji-nochizawa",
+      "name": "Eiji Nochizawa",
+      "alt_names": [
+        "後沢鋭二",
+        "Nautilus"
+      ],
+      "role": "protagonist",
+      "description": "Eiji is a mysterious young swordsman, who is the top ranked player in Ordinal Scale.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137705-u0xTYm866lOP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137705
+      }
+    },
+    {
+      "id": "akihiko-kayaba",
+      "name": "Akihiko Kayaba",
+      "alt_names": [
+        "茅場晶彦"
+      ],
+      "role": "supporting",
+      "description": "Director and creator of the Nerve Gear and *Sword Art Online*. He traps all the players within *Sword Art Online* by using the Nerve Gear to cease sending signals to the users' body. Any attempt of removal, loss of power for a certain period, or if the user dies in the game will also kill the user. His motivation is to observe what happens after he traps them.   \n\n~!He is in fact Heathcliff in the game *SAO*, who is the leader of the guild Knights of Blood.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "28",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36829-X5zITNEQ7xij.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36829
+      }
+    },
+    {
+      "id": "ryoutarou-tsuboi",
+      "name": "Ryoutarou Tsuboi",
+      "alt_names": [
+        "壷井遼太郎",
+        "Klein"
+      ],
+      "role": "supporting",
+      "description": "A friendly player that meets Kirito at the start of the game and quickly befriends and learns from him. He and Kirito later separate because he has friends who were also new to the game so he couldn't leave them. He survives for the past two years and managed to protect his friends the whole time, something Kirito regretted not doing. He is a katana user and the leader of the small guild Fuurinkazan who participates in the boss battles.  As one of the few people close to Kirito, he always keeps him in check and wants Kirito to survive the game.  He chose the Salamader race on ALO   \n\n~! In the side story Caliber, he fell in love at first sight with the girl on the cage named Freyja and agreed that he will help her find her tribe's treasure which is a hammer, though the decision still remains to be a team's decision. The team said yes on Caliber and it turned out that the girl they saved was Thor. It was revealed that Thor disguised as a beautiful girl to get close to Giant King Þrym and retrieve his hammer. Thor defeated Giant King Þrym and that stopped the medallion from being corrupted and ending the quest. !~",
+      "metadata": {
+        "gender": "male",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36830-41SWIDvhqOo4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36830
+      }
+    },
+    {
+      "id": "suguha-kirigaya",
+      "name": "Suguha Kirigaya",
+      "alt_names": [
+        "桐ヶ谷直葉",
+        "Leafa",
+        "Sugu",
+        "Lyfa"
+      ],
+      "role": "supporting",
+      "description": "[Kazuto](https://anilist.co/character/36765)'s sister in the real world. She is 15 years old and in her third year of junior high, as well as a member of the Kendou club. She's a diligent worker and has been practicing Kendou for 8 years.    ~!In the VRMMO game *Alfheim Online*, she is known as Leafa, a Sylph fairy. She stumbled onto Kazuto by accident one night and decided to travel with him to the World Tree. She eventually fell in love with him because he showed that he really loves playing VR games as if living in it and is very honest in everything. In the real world she slowly got closer to her brother (actually a cousin) but because they're family and because he already got [Asuna](https://anilist.co/character/36828) as a girlfriend she decided to give up on him and fall in love with Kazuto instead. But soon afterwards she realized that they're the same person. After being convinced by Kazuto to have a fierce duel which ended up in them flying in each others' arms, she decided to help Kazuto in rescuing Asuna.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "15-",
+        "dateOfBirth": "2009-04-19"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36831
+      }
+    },
+    {
+      "id": "keiko-ayano",
+      "name": "Keiko Ayano",
+      "alt_names": [
+        "綾野珪子",
+        "Silica (シリカ)"
+      ],
+      "role": "supporting",
+      "description": "She is a middle level dagger user. She is a very cheerful and sweet girl. She has a very rare familiar, a feathery dragon that she named Pina after her cat in the real world. She treasured Pina a lot and was the reason she survived in the game. Aside from being a female player, she is also a Beast Tamer and thus perceived as an idol amongst the middle level players. She received endless invitations from parties and guilds who wanted an idol player to join them to get more fame. Because of the attention she got, she became overly proud of herself and left a party one time after a misunderstanding. She got surrounded by monsters and lost Pina in the end. She was then rescued by Kirito who was passing by and helped her to resurrect the dead familiar.",
+      "metadata": {
+        "gender": "female",
+        "age": "12-15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b37681-GDtOAN6NiJ9M.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 37681
+      }
+    },
+    {
+      "id": "yui",
+      "name": "Yui",
+      "alt_names": [
+        "ユイ"
+      ],
+      "role": "supporting",
+      "description": "A young and cheerful girl with long black hair who looks no older than 10 years old. [Kirito](https://anilist.co/character/36765) and [Asuna](https://anilist.co/character/36828) found her in a forest on the 22nd floor of Aincrad. ~!Her true identity is actually a players' self-regulation program for mental maintenance, Mental Health Counseling Program or MHCP. After being forbidden by the game master [Akihiko Kayaba](https://anilist.co/character/36829) to come close to the players at the beginning of the death game, she was flooded with errors and broke down. In the process she became an AI that possesses actual intelligence. When the Cardinal system governing *Sword Art Online* decided to erase her, Kirito turned her into a tear shaped crystal pendant. He actually converted her to a part of environmental data for the client program and was saved to his NerveGear's local memory.!~  ~!In *ALfheim Online*, she was able to return to her normal form because ALO was based on a copy of the SAO server. She supports Kirito there as a Navigation Pixie. Kirito and Asuna still treat her as their daughter.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 43892
+      }
+    },
+    {
+      "id": "rika-shinozaki",
+      "name": "Rika Shinozaki",
+      "alt_names": [
+        "篠崎里香",
+        "Lis (リズ)",
+        "Lisbeth (リズベット)"
+      ],
+      "role": "supporting",
+      "description": "A mace wielder that runs a blacksmith shop in Aincrad on the 48th floor. She made [Asuna](https://anilist.co/character/36828)’s rapier ‘Lament Light’ and one day got a request from [Kirito](https://anilist.co/character/36765) to make him a sword with similar or better quality than his one handed long sword ‘Elucidator’ that he got from a monster drop. She told him that if she had the right materials she could make weapons that would break any sword, so they formed a party and went on a journey to find the material she needed. Because of that journey she came to the conclusion that she felt lonely and yearned for warmth. In ALO she is Leprechaun race blacksmith. \n\n~!She comes to realize that she loves Kirito but after finding out that the one Asuna had feelings for was in fact Kirito she decided to give up on him despite how she feels so Asuna could express her feelings, however during the moments after Kirito's victory and SAO's announcement that the game has been cleared she shouts at the top of her lungs that she loves Kirito and that she will meet him again in the real world, which after the ALO incident she actually does, going to school with him and Asuna.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": "2007-05-18"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b43906-15QwTm2ZFDse.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 43906
+      }
+    },
+    {
+      "id": "andrew-gilbert-mills",
+      "name": "Andrew Gilbert Mills",
+      "alt_names": [
+        "アンドリュー・ギルバート・ミルズ",
+        "エギル",
+        "Agil"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 180cm\n\nA merchant stationed at city Algate, located at the 50th floor of Aincrad. His shop motto is \"Buy cheap and sell cheap\". He is a very strong axe-wielding warrior in the frontlines.  Kirito sometimes stays in his shop as sort of a disaster shelter, which he gets annoyed with but later ignores as Asuna also visits, which results in some publicity for his shop.   \n\n~!In the real world he is married and owns a Bar called Dicey Cafe!~   \n\n~!In the side story Aria in the Starless Night, he is among the few players who participated in the first floor boss fight and supported Kirito when he knew of the latter's status as a beta tester and later called a Beater. !~   \n\n~!Upon returning to the real world he helps Kirito implement Kayaba's \"seed\" which allows VR games to be easier accessed throughout the world, also vastly decreasing the large licensing cost that companies would pay in servers.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/54099.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 54099
+      }
+    },
+    {
+      "id": "shino-asada",
+      "name": "Shino Asada",
+      "alt_names": [
+        "朝田詩乃",
+        "Sinon (シノン)",
+        "Hecate"
+      ],
+      "role": "supporting",
+      "description": "Shino is a skilled VRMMO player. She goes by the name Sinon in *Gun Gale Online* and *Alfheim Online*. She is nicknamed Hecate, after her gun PGM Ultima Ratio Hecate II, a .50 caliber anti-material rare sniper rifle. She is one of the main characters of volumes five and six and first female player that [Kirito](https://anilist.co/character/36765/Kazuto-Kirigaya) meets in *GGO*. She plays *GGO* to overcome her trauma concerning guns. Calm and cool are the two words that best describe Sinon's personality. In battle and most of the time in the game, she keeps a cool head that actually makes other female players admire her. However, Sinon has a violent temper once angered something that is best seen with her interactions with Kirito. It is actually said that Kirito is the first one to make her extremely angry. Despite all this, Sinon, while may be hard to approach, is generally a friendly person and doesn't mind helping others.    ~!She becomes a Cait Sith archer in *ALO* where she is capable of hitting targets from 200m away despite her bow being limited to 100m.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16-17",
+        "dateOfBirth": "2009-08-21"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55147-1fCU8lONEuZQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 55147
+      }
+    },
+    {
+      "id": "seijirou-kikuoka",
+      "name": "Seijirou Kikuoka",
+      "alt_names": [
+        "菊岡誠二郎",
+        "Chrysheight"
+      ],
+      "role": "supporting",
+      "description": "Seijirou Kikuoka is a member of the Ministry of Internal Affairs and Communications, Technology, Second Separated Advanced Network Division, or «Virtual Division». He uses the nickname «Chrysheight» in «ALfheim Online»",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72205-ghU8EMYyo96L.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72205
+      }
+    },
+    {
+      "id": "shinichi-nagata",
+      "name": "Shinichi Nagata",
+      "alt_names": [
+        "長田伸一",
+        "Recon"
+      ],
+      "role": "supporting",
+      "description": "He is Lyfa's friend and mentor in ALfheim Online. He is skilled in concealment and high level dark magic.  He harbors a crush on Suguha, being her classmate in real life. He is key in investigating the Salamander's infiltration of the Sylph, and uncovering Sigurd's plot. He later rejoins Kirito and Lyfa at Aarun, and urges Lyfa to leave and return to Sylvain, after he finds her upset. Later he confesses to her and ends up getting punched. After Lyfa returns from meeting Kirito again, she informs them they are attacking the World Tree.   ~!During the World Tree assault, Recon breaks off and attracts multiple guardians, and later uses high level dark magic called Sacrifice to self-destruct, which entails a higher death penalty. This action buys enough time for Sylph and Cait Sith reinforcements to arrive.!~ (Source: SAO Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72349-iuPCNOtHjPfX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72349
+      }
+    },
+    {
+      "id": "alicia-rue",
+      "name": "Alicia Rue",
+      "alt_names": [
+        "アリシャ・ルー"
+      ],
+      "role": "supporting",
+      "description": "Alicia Rue is the leader of the Cait Sith. She was elected by popular vote. She is also training her dark magic capable of using Moonlight Mirror. She forms an alliance with the Sylphs to finish the Conquer the World Tree Quest.    ~!During the meeting with Sylph , the groups are attacked by Salamanders lead by General Eugene. Kirito dives in to save the day and fights off Eugene although Kirito has inferior equipment.  Later, along with Sylph reinforcements, she aid Kirito's ascension of the World Tree after using collected funds to purchase armor of at least Ancient grade for all of her warriors.!~ (Source: SAO Wiki)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72901-nw8klNK66XFl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 72901
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T13:41:24.309Z"
+}

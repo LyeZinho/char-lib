@@ -1,0 +1,335 @@
+{
+  "work_id": "mieruko-chan",
+  "count": 14,
+  "characters": [
+    {
+      "id": "miko-yotsuya",
+      "name": "Miko Yotsuya",
+      "alt_names": [
+        "四谷みこ",
+        "Meme-chan"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 160cm\n__Family:__ [Mamoru Yotsuya](https://anilist.co/character/250703/Mamoru-Yotsuya) (Father), [Touko Yotsuya](https://anilist.co/character/199025/Touko-Yotsuya) (Mother), [Kyousuke Yotsuya](https://anilist.co/character/199026/Kyousuke-Yotsuya) (Younger Brother)\n__Powers-&-Abilities:__ Very-High-Level Spiritual Awareness\n\nMiko has the ability to see frightening supernatural things that most people can't, but she pretends that she can't see them to avoid conflict. Her Spiritual-Awareness power overpowers her sight, like the reflection in glass is overpowering and you're unable to see what lies beyond it.\n\nShe tries to have a stoic exterior when confronted with spirits, but is internally frightened by them. She also cares deeply for her friend [Hana Yurikawa](https://anilist.co/character/139632/Hana-Yurikawa), using her power to protect her in various ways, such as diverting her from certain routes with spirits and bringing her food when she was sick with a form of spiritual drainage. Miko prefers to ignore the spirits and she denies seeing them whenever she is confronted by others for her talents.\n\n(Source: Fandom Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "16-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139631-JC76pYY2Q51Z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139631
+      }
+    },
+    {
+      "id": "hana-yurikawa",
+      "name": "Hana Yurikawa",
+      "alt_names": [
+        "百合川ハナ"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 156cm\n\n[Miko](https://anilist.co/character/139631)'s close friend. She is clueless of the supernatural terrors that afflict her friend, but she does unknowingly attract a lot of them due to her unusual amount of life energy.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139632-b95rh3VplAYY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139632
+      }
+    },
+    {
+      "id": "yulia-niguredou",
+      "name": "Yulia Niguredou",
+      "alt_names": [
+        "二暮堂ユリア"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 140cm\n\nAn aspiring spirit medium who believes she's somewhat special because she has the power to see spirits. However, she doesn't know that she can only see lesser spirits, and misinterprets [Miko](https://anilist.co/character/139631)'s attempts to protect her from the greater dangers she cannot see as acts of malice.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156860-P5bAY1m97tX7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156860
+      }
+    },
+    {
+      "id": "mitsue-takeda",
+      "name": "Mitsue Takeda",
+      "alt_names": [
+        "タケダミツエ",
+        "Godmother of Downtown",
+        "ゴッドマザー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b190681-9EopKRJsIZxJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 190681
+      }
+    },
+    {
+      "id": "zen-touno",
+      "name": "Zen Touno",
+      "alt_names": [
+        "遠野善"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199022-DhMszO6OYyAH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199022
+      }
+    },
+    {
+      "id": "touko-yotsuya",
+      "name": "Touko Yotsuya",
+      "alt_names": [
+        "四谷透子",
+        "Miko's Mother (みこの母)"
+      ],
+      "role": "supporting",
+      "description": "Mother of Miko and Kyousuke",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199025-n9YLeaHPUzZQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199025
+      }
+    },
+    {
+      "id": "kyousuke-yotsuya",
+      "name": "Kyousuke Yotsuya",
+      "alt_names": [
+        "四谷恭介"
+      ],
+      "role": "supporting",
+      "description": "[Miko's](https://anilist.co/character/139631) younger brother.\n\nKyousuke is a young boy with short black hair. He is very protective of Miko, even going far enough to assume she has a boyfriend to be wary of.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199026-pdiaoi3idV9F.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199026
+      }
+    },
+    {
+      "id": "satoru",
+      "name": "Satoru",
+      "alt_names": [
+        "サトル"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199027-QfwsUa8PLqzA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199027
+      }
+    },
+    {
+      "id": "romm-shindou",
+      "name": "Romm Shindou",
+      "alt_names": [
+        "神童ロム"
+      ],
+      "role": "supporting",
+      "description": "__Powers-&-Abilities:__ High-Level Spiritual Awareness, Aura Awareness\n__Etymology:__ Romm's surname Shindou means \"prodigy, wonder child\" (神童).\n\nHe can see spirits and humans simultaneously, like one's reflection in glass and the scenery behind it.\n\nHe sells many items which interact with the far shore. He was given the name \"Romm\" by his former master, Mitsue Takeda, as part of the tradition of adding a 2nd name to apprentices.\n\nRomm has been seen to be very bold, running a business geared only to those adapted to seeing spirits. Even though many have called him a fraud, Yuria Niguredou believes in his ways and has been roped into buying some of his products. He is also very mischievous, taking amusement in the unpredictable actions made by Miko Yotsuya. He enjoys teasing Mitsue Takeda.\n\n~!Shindou was brought to Mitsue as a child, and she took him in as her apprentice. She trained him in the art of the occult, and he received his stage name, Shindou Romm. Much to Mitsue’s dismay, Romm grew much more powerful than her, and she doubted her ability to teach him. Although she tried to keep him safe, his curiosity got the better of him and caused him to wander into very dangerous places, such as into the hands of the Bell Ghost.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199028-VP0CW3LoZEyy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199028
+      }
+    },
+    {
+      "id": "mamoru-yotsuya",
+      "name": "Mamoru Yotsuya",
+      "alt_names": [
+        "四谷真守",
+        "Miko's Father (みこの父)"
+      ],
+      "role": "supporting",
+      "description": "Father of Miko and Kyousuke. ~!Already deceased.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250703-yLFUyVbzB8aR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250703
+      }
+    },
+    {
+      "id": "kido",
+      "name": "Kido",
+      "alt_names": [
+        "木戸"
+      ],
+      "role": "supporting",
+      "description": "School nurse.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b251684-lIYj1xWkt4oL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 251684
+      }
+    },
+    {
+      "id": "michiru-ichijou",
+      "name": "Michiru Ichijou",
+      "alt_names": [
+        "一条みちる"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 179cm\n\nShe is a transfer student at [Miko](https://anilist.co/character/139631)'s school.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b276046-To73J30YruCT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 276046
+      }
+    },
+    {
+      "id": "gozuka",
+      "name": "Gozuka",
+      "alt_names": [
+        "豪塚"
+      ],
+      "role": "minor",
+      "description": "A man who like cats. Miko gave him a cat she found on the way home.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199023-1irbgMhSFHOr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199023
+      }
+    },
+    {
+      "id": "zen-no-haha",
+      "name": "Zen no Haha",
+      "alt_names": [
+        "善の母",
+        "Zen's Mother"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199024-ggtiHHNnzDBz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199024
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T04:37:18.839Z"
+}

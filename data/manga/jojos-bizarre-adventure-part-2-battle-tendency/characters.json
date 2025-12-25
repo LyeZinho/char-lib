@@ -1,0 +1,360 @@
+{
+  "work_id": "jojos-bizarre-adventure-part-2-battle-tendency",
+  "count": 15,
+  "characters": [
+    {
+      "id": "joseph-joestar",
+      "name": "Joseph Joestar",
+      "alt_names": [
+        "ジョセフ・ジョースター",
+        "JoJo",
+        "Josef Joestar",
+        "Mr. Joestar",
+        "Old Man",
+        "Geezer"
+      ],
+      "role": "protagonist",
+      "description": "__Height__: 195 cm (6'5\")\n\nJoseph Joestar begins as a young Englishman in New York, with his grandmother Erina. However, an attack by Straits and the disappearance of Robert Edward O Speedwagon soon involve him in the greater chain of events.",
+      "metadata": {
+        "gender": "male",
+        "age": "18-78",
+        "dateOfBirth": "1920-09-27"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6356-RImEfUfHpC58.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6356
+      }
+    },
+    {
+      "id": "rudol-von-stroheim",
+      "name": "Rudol von Stroheim",
+      "alt_names": [
+        "ルドル・フォン・シュトロハイム"
+      ],
+      "role": "protagonist",
+      "description": "Stroheim is the commander of the Wehrmacht forces who discovered Santana in Mexico.    ~!He is appropriately militaristic and menacing, but is also responsible for not only saving the life of Robert E. O. Speedwagon, but also for trying to help Joseph Joestar defeat Santana by blowing himself (and the enemy) up. He returns later as a cyborg to assist in the fight against Cars were he is sliced to pieces by Cars. He later returns again with a squad of soldiers to aid Joseph when an army of vampires tries to attack him. Later, when Joseph takes a plane to try and send Cars into a volcano, he saves him by jumping out the cockpit, breaking his legs as a direct result. He dies in 1943 in the front during the Battle of Stalingrad as a German soldier. He is the one who made Joseph's prosthetic cyborg hand.!~ (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n21958-RvVcFEHfOrKV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21958
+      }
+    },
+    {
+      "id": "caesar-zeppeli",
+      "name": "Caesar Zeppeli",
+      "alt_names": [
+        "シーザー・アントニオ・ツェペリ",
+        "Caesar-chan",
+        "Caesarino"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 186 cm\n\nThe grandson of Will A. Zeppeli. He is a blond, suave ladies' man, as well as a skilled Ripple user. He was taught by Lisa Lisa, and currently lives in Italy. He is rather cool and collected, especially compared to Joseph, with whom he is grudgingly paired to fight the Pillar Men. But over time Joseph starts to grow on him so much he is able to understand his strange thought pattern.\n\n~!When Caesar was young his father suddenly left with no explanation. Because of this Caesar grew up hating his father thinking he was out living a new life. One day when Caesar spots him walking he tails him with the intention of killing him. Caesar spots a jewel not knowing that it was the activation of Wham's trap and his father pushes him out of the way, sacrificing himself for Caesar.  This leads to Caesar going ahead of the rest of the group to fight Wham, where he meets the ultimate fate, but not before doing his fair share of damage and ripping off Wham's lip piercing, sending it in a Ripple bubble for Joseph before his body is crushed by a rock.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21959-Cm9Rlh0EFAQw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21959
+      }
+    },
+    {
+      "id": "lisa-lisa",
+      "name": "Lisa Lisa",
+      "alt_names": [
+        "リサリサ"
+      ],
+      "role": "protagonist",
+      "description": "__Birthday:__ ~!Dec, 1888!~\n__Age:__ ~!50!~\n__Height:__ 175 cm \n\nA mysterious Ripple user whom Joseph Joestar meets in Venice, Lisa Lisa reveals herself to be his friend Caesar Zeppeli's mentor. She trains Joseph in the ways of the Ripple and joins in the fight against the Pillar Men, as a powerful Ripple user in her own right.   \n\n~!It is eventually revealed that she is Joseph's long-lost mother, despite her youthful appearance. Her real name is Elisabeth Joestar and she is the infant Jonathan Joestar saved at the end of Phantom Blood and gave to his widow Erina to raise. She was subsequently adopted by the Ripple user Straits, and learned the art of the Ripple from him. As a young adult, Elisabeth eventually married George Joestar II, and they had one child. After George had been killed by a vampire, Elisabeth murdered her husband's killer and burned him to ash, but he happened to be a high ranking military official. In order to avoid retaliation, the Speedwagon Foundation helped her to erase all evidence of her existence.   She is gravely wounded in her one-on-one struggle with Kars, but manages to survive. She later tells Joseph her relation to him personally, at his own funeral. She eventually remarries.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21960-3stfLc0uwgoT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21960
+      }
+    },
+    {
+      "id": "wamuu",
+      "name": "Wamuu",
+      "alt_names": [
+        "ワムウ",
+        "Wham"
+      ],
+      "role": "protagonist",
+      "description": "Wamuu is introduced as a servant to both Esidisi and Kars. He is a very strong and honorable warrior who possess the power of the wind, and also reflexively attacks anyone who steps on his shadow. If he goes blind, he can grow a horn on his forehead and sense sound waves with it. He can also draw air into his body and blast it through the tip of the horn, creating a highly-destructive \"wind scalpel\". He is also extremely honorable, stopping himself from defeating a defenseless Joseph Joestar when he said that with a month to train he could beat Wham.    ~!Later on, he engaged in battle with Caesar Anthonio Zeppeli and killed him, but not before he managed to rip off Wham's lip piercing containing the poison within Joseph. In another display of honor, Wham allowed the antidote to stay where Joseph could get it out of respect for Caesar's valiant effort. Later challenging Wham to battle to avenge Caesar, they engaged in a deadly Roman chariot race, with Wham initially getting the upper hand. After Joseph managed to counter Wham's wind scalpel, he was left as nothing more than a head with the Ripple energy slowly killing him. After Joseph gave Wham some of his own blood to ease his pain, he used the last of is strength to destroy a group of vampires that attempted to kill Joseph. Wham then vanished in a gust of wind, with Joseph giving an unconscious salute to him.!~ He is named after the 80s duo featuring George Michael, Wham!.  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21965-waQaIDkSC77a.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21965
+      }
+    },
+    {
+      "id": "kars",
+      "name": "Kars",
+      "alt_names": [
+        "カーズ",
+        "Cars"
+      ],
+      "role": "protagonist",
+      "description": "Cars is the leader of the Pillar Men. He is intelligent, ruthless, and single-minded in his dedication to obtaining the Red Stone of Aja. Strangely, despite his apathy towards humans and willingness to kill them, he has been shown to be more compassionate for other living beings. In Switzerland, he sliced a car that was about to hit a puppy in half, and later on maneuvered himself during a long fall to miss a patch of flowers near the bottom of the cliff. Cars' power is that of light; he is able to produce bladed appendages from his arms and use these to reflect blinding light toward his enemies. He also has the same powers over his body that all the Pillar Men share.    ~!When he gains the power of the stone mask, he becomes invulnerable to sunlight, and also gains some abilities on a genetic level; he can produce living creatures and control them, and can mutate his body into various forms. He outlasts his comrades and eventually does gain almost unlimited power as the ultimate \"evolved\" man through the Red Stone of Aja and a stone mask. In a final confrontation, he succeeds in severing Joseph's hand but is eventually blown into space by a volcanic eruption as well as an ultimate Ripple attack from Joseph. Being immortal, he does not die; however he is unable to return to Earth after being thrown out of orbit. Trapped in the void of space for eternity, he eventually stops thinking and desires death.!~ He is named after the 80's new wave group The Cars.  (Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n21966-ZvYmd1Dwp613.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21966
+      }
+    },
+    {
+      "id": "erina-pendleton",
+      "name": "Erina Pendleton",
+      "alt_names": [
+        "エリナ・ペンドルトン"
+      ],
+      "role": "supporting",
+      "description": "Erina is a young girl from [Jonathan Joestar](https://anilist.co/character/8087/)'s hometown. ~!She becomes his love interest then wife. She is the mother to [George Joestar II](https://anilist.co/character/130262/), and the grandmother and guardian to [Joseph Joestar](https://anilist.co/character/6356/).!~\n\n(Source: JoJo Wikia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21937-mwAbJAgxE8yP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21937
+      }
+    },
+    {
+      "id": "robert-e-o-speedwagon",
+      "name": "Robert E. O. Speedwagon",
+      "alt_names": [
+        "ロバート・E・O・スピードワゴン"
+      ],
+      "role": "supporting",
+      "description": "Robert E. O. Speedwagon is a major ally featured in the 1st part of JoJo's Bizarre Adventure, Phantom Blood, and then the 2nd part, Battle Tendency. Formerly a Londoner thug residing in Ogre Street, Speedwagon befriends Jonathan Joestar and, despite remaining a powerless human, becomes a loyal ally to the Joestar Family during his whole life and beyond thanks to the company he's founded: the Speedwagon Foundation. His company supports the Joestars in Stardust Crusaders, Diamond is Unbreakable, and Stone Ocean.\n\n(Source: JoJo Wikia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n21938-7iTMOJ4i6ET8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21938
+      }
+    },
+    {
+      "id": "smokey-brown",
+      "name": "Smokey Brown",
+      "alt_names": [
+        "スモーキー・ブラウン"
+      ],
+      "role": "supporting",
+      "description": "A young boy living in New York. Joseph saves him from brutal, racist policemen, and he sticks around long enough to watch the battle against Straits. He also shows up at the end of Part 2 with Rudolf von Stroheim's cavalry. Smokey is initially shown with a pigtail in Volume 5, which mysteriously disappears in the rest of the series.  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n21957-DHiP7omcHM5H.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21957
+      }
+    },
+    {
+      "id": "straits",
+      "name": "Straits",
+      "alt_names": [
+        "ストレイツォ",
+        "Straizo"
+      ],
+      "role": "supporting",
+      "description": "Straits is another of Tonpetty's followers. He aided Jonathan in the fight against Dio and his minions.  He, along with Dire, were named after the band Dire Straits.  ~!When Santana was discovered in the 1930s during Part 2, he betrayed Speedwagon and donned one of the newly discovered Stone Masks. He explained that he had always envied Dio's strength and beauty and, as a result, desired to stop his aging process. He died after battling and losing to Joseph Joestar in New York City, overloading his own vampire body with Ripple energy. He is also the adoptive father of Lisa Lisa. !~  \n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21961-9JPMSyptHeWe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21961
+      }
+    },
+    {
+      "id": "suzie-q",
+      "name": "Suzie Q",
+      "alt_names": [
+        "スージーＱ",
+        "Suzie Quatro"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 168 cm \n\nThe female assistant to Lisa Lisa. Suzie Q is a slightly ditzy girl who worries for her friends. Evidently this carefree personality has not diminished even in the events of Stardust Crusaders, when she is shown enthusiastically recording her sightings in Japan on a camcorder when on a trip to see her daughter.   ~!She is introduced as the female assistant to Lisa Lisa. When she first appears, she is taken over by the remains of Esidisi and attacks her friends. Thanks to a combination attack by Caesar and Joseph, she is saved with only minor injury. She marries Joseph in 1939.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21962-74U6QodPnwtC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21962
+      }
+    },
+    {
+      "id": "santana",
+      "name": "Santana",
+      "alt_names": [
+        "サンタナ"
+      ],
+      "role": "supporting",
+      "description": "He is discovered in a Mexican pyramid in 1938. He is then awakened and studied by a Nazi vampire study team in an underground base. The team, led by Major Stroheim, conducts live human experiments with the stone mask to try to strengthen the Nazi Army. The team awakens Santana in an advanced isolation room fortified with steel plates, and conduct behavioral experiments on him. They soon find that Santana feeds on vampires and is able to absorb food from the surface of his body. The team then is shocked by Santana's escape from the isolation room. Santana breaks many of his own bones in order to squeeze himself into the 4-by-20 cm ventilation outlet of the room, and does all this at a speed faster than human eyes can perceive. The team shoots Santana with machine guns, only to find that Santana has learned their language and the mechanisms of their weapons from only minutes of contact. He then easily disposes of the Nazis who disturbed his sleep, and even manages to stay alive after being attacked, exposed to sunlight, and blown up. He is named after the long-lived rock group Santana. He is the only member of the Pillar Men to survive, and is theoretically still alive throughout all of the arcs. However, due to his vastly-improved Ripple power, it is possible that Joseph killed him after returning to America.  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n21963-oQKcN4QHHOpK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21963
+      }
+    },
+    {
+      "id": "acdc",
+      "name": "ACDC",
+      "alt_names": [
+        "エシディシ",
+        "Esidisi",
+        "Esidisi of the Flame"
+      ],
+      "role": "supporting",
+      "description": "ACDC is one of the Pillar Men that were discovered by Nazis in Rome. Like Wham and Cars, ACDC is very confident in his powers and abilities and see humans as inferior. However, he has a more violent temper than the others to the point that he has to cry and sob to calm himself down.  He is named after Australian Hard rock band AC/DC.   ~!ACDC uses \"the skill of fire\". He raises his body temperature in order to heat his blood to 500°C. He then extends his blood vessels out of his body and makes them into long, prehensile needles with which he injects his hot blood into enemies, dissolving them from within. Even if the blood isn't injected directly, it can still eat through flesh and metal alike if sprayed on a target from the outside. AC/DC has been shown to have an extremely erratic temper, sobbing at the sight of his own severed arm, only to calm himself near-instantly and replace it with the arm of Loggins. He himself stated that he has a more explosive temper than either of his brethren, and claims to openly express any rage or sorrow he feels so he doesn't lose his self-control.  ACDC had traveled to ancient China and knew Sun Tzu's theory that \"all warfare is based on deception\". In his battle with Joseph Joestar, he tries to intimidate him by disabling Joseph's deceptive tactics.  ACDC cuts the hidden rope through which Joseph plans to send Ripple energy to hurt him. Nevertheless, he falls for Joseph's more sophisticated deception, for Joseph has predicted his action and employed the cut-and-restore rope trick on the rope.  His bones and muscles are destroyed, but his brain and blood vessels possess Suzi Q, who takes the Red Stone of Aja and sends it to Cars in Switzerland. ACDC then prepares to turn Suzi Q into a \"blood bomb\", planning on pressurizing his boiling blood until her body bursts, killing himself and Joseph's group in the process. Joseph and Caesar attack Suzi Q at the same time. While their Ripples cancel each other out and keep Suzi Q unharmed, ACDC is destroyed.!~ (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21964-nA0cw9XBwitK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21964
+      }
+    },
+    {
+      "id": "donovan",
+      "name": "Donovan",
+      "alt_names": [
+        "ドノヴァン"
+      ],
+      "role": "supporting",
+      "description": "Donovan is a mature athletic man whose dark hair is slicked back. His skin is colored differently around his eyes, starting from a wide area on his hairline and converging to the side of the root of his nose.\n\nDonovan wears a sleeveless officer outfit.\n\n(Source: JoJo's Bizarre Encyclopedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130259-NcSoB9Rw1xoo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130259
+      }
+    },
+    {
+      "id": "loggins",
+      "name": "Loggins",
+      "alt_names": [
+        "ロギンズ"
+      ],
+      "role": "supporting",
+      "description": "Loggins is a tall, muscular man with chiseled features and somewhat glazed eyes. He wears a tunic, an over-sized fez, and armbands.\n\nLoggins displays a very demanding demeanor when instructing Joseph and Caesar, often forcing them to do tough trials during their Ripple training. Despite this, he seems to have, along with Messina, a sense of humor as the two would often tease their disciples. \n\n(Source: JoJo's Bizarre Encyclopedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130261-isfIv9CVs0Ug.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130261
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T19:35:45.211Z"
+}

@@ -1,0 +1,363 @@
+{
+  "work_id": "blue-box",
+  "count": 15,
+  "characters": [
+    {
+      "id": "chinatsu-kano",
+      "name": "Chinatsu Kano",
+      "alt_names": [
+        "鹿野千夏",
+        "Chii",
+        "Natsu"
+      ],
+      "role": "protagonist",
+      "description": "__Sports Team:__ Basketball\n__School:__ Eimei Junior and Senior High\n__Year:__ High School Second-Year / Third-Year\n\nA first-year high school student and the rising star of Elmei Junior and Senior High's girls' basketball team. Her personality and skills have made her incredibly popular both inside and outside of her school, to the point where she's been featured in various magazines. Chinatsu can be quite competitive, as she always arrives to Elmei's gymnasium in the morning for open practice even earlier than [Taiki Inomata](https://anilist.co/character/191242/Taiki-Inomata), whom she frequently shares the floor and sometimes plays one-on-one games with. \n\nThe day after she completed her years as a junior high school student, Chinatsu tearfully practiced playing basketball, having barely failed to qualify for nationals. When Taiki reminds her both of said event and how hard she works, Chinatsu makes it her goal to go to nationals despite her family moving overseas. To get around this, she stays at Taiki's house due to their mothers being friends and former teammates. She gives Taiki a matching foot bracelet when she learns that he also plans to go to nationals.\n\nIn the _Ao no Hako_ one-shot, Chinatsu is the captain of her school's girls' basketball team.",
+      "metadata": {
+        "gender": "female",
+        "age": "16-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191241-FaDEXRL1CgJr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191241
+      }
+    },
+    {
+      "id": "taiki-inomata",
+      "name": "Taiki Inomata",
+      "alt_names": [
+        "猪股大喜",
+        "Inota"
+      ],
+      "role": "protagonist",
+      "description": "__Sports Team:__ Badminton, Volleyball (one-shot)\n__School:__ Eimei Junior and Senior High\n__Year:__ Junior High Third-Year\n\nA third-year middle school student and a member of Elmei Junior and Senior High's boys' badminton team. While not the most-talented player, Taiki is nonetheless extremely hardworking. He very routinely goes to Elmei's gymnasium for morning open practice, sharing the floor with his crush, [Chinatsu Kano](https://anilist.co/character/191241/Chinatsu-Kano). Taiki's strong work ethic is complemented by his optimistic view of things and his headstrong demeanor. His two friends, [Kyou Kasahara](https://anilist.co/character/218647/Kyo-Kasahara) and [Hina Chono](https://anilist.co/character/218648/Hina-Chono), notice that he likes to push himself beyond his own limits in order to achieve his goals, no matter how far away said goals are from him. Taiki also tends to gets ahead of himself in various situations, as his first few interactions with Chinatsu reveal.\n\nChinatsu is frequently shown to be an inspiration for Taiki, as seeing her do her best motivates him to work harder. He vows to go to nationals after learning that Chinatsu will stay at his house so that she can focus on doing the same.\n\nIn the _Ao no Hako_ oneshot, Taiki is instead a member of his school's boys' volleyball team.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191242-uQJUPMyknaTb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191242
+      }
+    },
+    {
+      "id": "hina-chouno",
+      "name": "Hina Chouno",
+      "alt_names": [
+        "蝶野雛"
+      ],
+      "role": "protagonist",
+      "description": "__Sports Team:__ Rhythmic Gymnastics\n__School:__ Eimei Junior and Senior High\n__Year:__ Junior High Third-Year\n\nA third-year middle school student and a member of Eimei Junior and Senior High's girls' rhythmic gymnastics team. The youngest daughter of a former representative of the Japanese gymnastics team, Hina is considered a prodigy in the sport among her peers, having ranked fourth among all junior high school students in the country. While she doesn't consider herself to be a hard worker, Hina is willing to put in considerable amounts of effort if it results in her being able to achieve her goals.\n\nHina is friends with both [Kyou Kasahara](https://anilist.co/character/218647) and [Taiki Inomata](https://anilist.co/character/191242), frequently teasing the latter whenever the three hang out. She admires Taiki's headstrong stance towards tackling challenges.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b218648-kXxXy8lPkeGV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 218648
+      }
+    },
+    {
+      "id": "kyou-kasahara",
+      "name": "Kyou Kasahara",
+      "alt_names": [
+        "笠原匡"
+      ],
+      "role": "protagonist",
+      "description": "__Sports Team:__ Badminton\n__School:__ Eimei Junior and Senior High\n__Year:__ Junior High Third-Year\n\nA third-year middle school student and a member of Elmei Junior and Senior High's boys' badminton team. He is friends with both [Taiki Inomata](https://anilist.co/character/191242) and [Hina Chono](https://anilist.co/character/218648/Hina-Chono).\n\nIn the _Ao no Hako_ oneshot, Kyo is instead a member of his school's shogi club.",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b218647-A2ngPlh7Yucn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 218647
+      }
+    },
+    {
+      "id": "ayame-moriya",
+      "name": "Ayame Moriya",
+      "alt_names": [
+        "守屋菖蒲"
+      ],
+      "role": "protagonist",
+      "description": "Younger sister of Karen and the new team manager for the Eimei High badminton team.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b288215-fk7KsmgcGG53.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 288215
+      }
+    },
+    {
+      "id": "kengo-haryuu",
+      "name": "Kengo Haryuu",
+      "alt_names": [
+        "針生健吾"
+      ],
+      "role": "supporting",
+      "description": "__Sports Team:__ Badminton\n__School:__ Eimei Junior and Senior High\n__Year:__ High School Second-Year\n\nA second-year high school student and a member of Elmei Junior and Senior High's boys' badminton team. He placed third in the prefectural qualifiers for badminton, barely missing the mark to qualify for nationals.",
+      "metadata": {
+        "gender": "male",
+        "age": "16-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b225314-LD3QqS6uAd1o.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 225314
+      }
+    },
+    {
+      "id": "karen-moriya",
+      "name": "Karen Moriya",
+      "alt_names": [
+        "守屋花恋"
+      ],
+      "role": "supporting",
+      "description": "[Chinatsu](https://anilist.co/character/191241/Chinatsu-Kano)'s best friend and [Haryuu](https://anilist.co/character/225314/Kengo-Haryuu)'s girlfriend.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b288217-mQ8wZIn5B3Dj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 288217
+      }
+    },
+    {
+      "id": "shuuji-yusa",
+      "name": "Shuuji Yusa",
+      "alt_names": [
+        "遊佐柊仁"
+      ],
+      "role": "supporting",
+      "description": "First-year student at Sajikawa High and a member of the Badminton Team. Older brother of [Haruto](https://anilist.co/character/316617).",
+      "metadata": {
+        "gender": "male",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b288213-0wcgDwOry4F8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 288213
+      }
+    },
+    {
+      "id": "shouta-hyoudou",
+      "name": "Shouta Hyoudou",
+      "alt_names": [
+        "兵藤将太"
+      ],
+      "role": "supporting",
+      "description": "Third-year student at Sajikawa High and a member of the Badminton Team. He is a former National Champion. Badminton rival to [Kengo Haryuu](https://anilist.co/character/225314/Kengo-Haryuu).",
+      "metadata": {
+        "gender": "male",
+        "age": "17-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b288216-8JnfPmYMPxRP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 288216
+      }
+    },
+    {
+      "id": "nagisa-funami",
+      "name": "Nagisa Funami",
+      "alt_names": [
+        "船見渚"
+      ],
+      "role": "supporting",
+      "description": "Second-year student at Eimei Senior High School and a member of the basketball team.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300435-ljIZ1PTxFky8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300435
+      }
+    },
+    {
+      "id": "yumeka-gotou",
+      "name": "Yumeka Gotou",
+      "alt_names": [
+        "後藤夢佳"
+      ],
+      "role": "supporting",
+      "description": "Second-year high school student and a former member of the Eimei Senior High basketball team. She left Eimei after middle school and quit basketball, even though she was a star athlete.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300437-tTxKixlaXtQ0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300437
+      }
+    },
+    {
+      "id": "ryousuke-nishida",
+      "name": "Ryousuke Nishida",
+      "alt_names": [
+        "西田諒介"
+      ],
+      "role": "supporting",
+      "description": "Current captain of the Eimei Senior High badminton team.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300436-fnG6uCSiOn19.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300436
+      }
+    },
+    {
+      "id": "ichirou-kishishou",
+      "name": "Ichirou Kishishou",
+      "alt_names": [
+        "岸样一郎"
+      ],
+      "role": "supporting",
+      "description": "Second-year high schooler at Shimotomi High and member of the Badminton Team. He was formerly doubles partners with [Kengo Haryuu](https://anilist.co/character/225314/Kengo-Haryuu).",
+      "metadata": {
+        "gender": "male",
+        "age": "16-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b288214-KrCkSrm9rWrb.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 288214
+      }
+    },
+    {
+      "id": "kazuma-matsuoka",
+      "name": "Kazuma Matsuoka",
+      "alt_names": [
+        "松岡一馬"
+      ],
+      "role": "supporting",
+      "description": "Kazuma Matsuoka is a second year basketball player who returns after studying abroad in America.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314187-mRaZxf9oH2OQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314187
+      }
+    },
+    {
+      "id": "haruto-yusa",
+      "name": "Haruto Yusa",
+      "alt_names": [
+        "遊佐晴人"
+      ],
+      "role": "supporting",
+      "description": "First-year student and badminton player at Eimei High School. Younger brother of [Yusa](https://anilist.co/character/288213).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b316617-8QSKRLLPWdHJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 316617
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T22:31:53.472Z"
+}

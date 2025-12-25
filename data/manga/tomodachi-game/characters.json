@@ -1,0 +1,353 @@
+{
+  "work_id": "tomodachi-game",
+  "count": 15,
+  "characters": [
+    {
+      "id": "yuuichi-katagiri",
+      "name": "Yuuichi Katagiri",
+      "alt_names": [
+        "片切友一"
+      ],
+      "role": "protagonist",
+      "description": "Yuuichi Katagiri is a hardworking lad who believes friends are more important than money. In reality, he is a really dead broke student and has multiple part-time jobs to barely live for. He is secretly \"the mind\" of the team that has managed himself in making all the odds come right to his favor with all might. He also had a rather very heavy past that makes him considered a \"devil\" and \"dangerous.\"\n\n~! In Chapter 99, it is revealed that Katagiri Yuuichi is the one who created the prototype for the \"Tomodachi Game\". !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122064-p5x9pgsdjj4W.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122064
+      }
+    },
+    {
+      "id": "yutori-kokorogi",
+      "name": "Yutori Kokorogi",
+      "alt_names": [
+        "心木ゆとり"
+      ],
+      "role": "protagonist",
+      "description": "A shy girl who used to get bullied in primary school that participated in Tomodachi Game alongside her friends. She is considered to be weak and helpless so she is oftenly used by Yuuichi Katagiri in order for his plans to succeed.\n\n~!Is one of the traitors of group C!~\n\n~!She has a second personality that she keeps deeply hidden from her friends is dark and twisted. Yutori has no qualms about hitting her own mother and is actually very rich, though it is unknown where she gets most of her money from. Yutori is an unstable person as she is insanely obsessed with Yuuichi, even using her own money and attempting to kill others in order to make Yuuichi love her. This side of Yutori has no loyalty to any of her friends, even Yuuichi. It is unknown when Yutori developed her obsession with Yuuichi, however it was revealed in the manga that she knew Yuuichi before he met her in high school.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127637-duK9JtmuGImW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127637
+      }
+    },
+    {
+      "id": "shiho-sawaragi",
+      "name": "Shiho Sawaragi",
+      "alt_names": [
+        "沢良宜志法"
+      ],
+      "role": "protagonist",
+      "description": "A solemn female student that is respected by her classmates for her hard working and serious nature. She participated in Tomodachi Game alongside her friends.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127638-7c6AnJdppdK0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127638
+      }
+    },
+    {
+      "id": "tenji-mikasa",
+      "name": "Tenji Mikasa",
+      "alt_names": [
+        "美笠天智"
+      ],
+      "role": "protagonist",
+      "description": "A strategist/genius with grades at the top of his class who participated in Tomodachi Game alongside his friends.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127639-xhIRxtOdTnim.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127639
+      }
+    },
+    {
+      "id": "makoto-shibe",
+      "name": "Makoto Shibe",
+      "alt_names": [
+        "四部誠"
+      ],
+      "role": "protagonist",
+      "description": "A somewhat idiotic guy who comes from a rich family and has an obvious crush on Shiho Sawaragi. He participated in the Tomodachi Game alongside his friends.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127641-q5cUAXkQpyAG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127641
+      }
+    },
+    {
+      "id": "kei-shinomiya",
+      "name": "Kei Shinomiya",
+      "alt_names": [
+        "紫宮京",
+        "しのみやけい"
+      ],
+      "role": "supporting",
+      "description": "Part of Group K who battled against Group C in Tomodachi Game\n\n~!Secretly the genius/real leader of Group K!~\n\n~!Played again with Katagiri, in the adult version of Tomodachi Game!~\n\n~!Later accepted as part of the Katagiri group as a friend!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127625-UETEYuvm9cz5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127625
+      }
+    },
+    {
+      "id": "juuzou-kadokura",
+      "name": "Juuzou Kadokura",
+      "alt_names": [
+        "門倉十蔵"
+      ],
+      "role": "supporting",
+      "description": "The leader of Group K who battled against Group C in the third round of Tomodachi Game.",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127626-RIaEACseVnnI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127626
+      }
+    },
+    {
+      "id": "tsukino",
+      "name": "Tsukino",
+      "alt_names": [
+        "月野",
+        "Observer"
+      ],
+      "role": "supporting",
+      "description": "An Observer of Tomodachi Game.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127627-XSG0KkguyTaw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127627
+      }
+    },
+    {
+      "id": "reiko-tamai",
+      "name": "Reiko Tamai",
+      "alt_names": [
+        "玉井 レイコ"
+      ],
+      "role": "supporting",
+      "description": "Tomodachi game management. Serves as an observer for the K group of Juzo and others.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127635-SBbmTgLt4WqG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127635
+      }
+    },
+    {
+      "id": "maria-mizuse",
+      "name": "Maria Mizuse",
+      "alt_names": [
+        "水瀬マリア"
+      ],
+      "role": "supporting",
+      "description": "An observer of Tomodachi Game who is fascinated by Yuuichi and his strange tactics.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127636-2WJXSVEQxIgD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127636
+      }
+    },
+    {
+      "id": "manabu-kun",
+      "name": "Manabu-kun",
+      "alt_names": [
+        "マナブくん"
+      ],
+      "role": "supporting",
+      "description": "Administrator of Tomodachi Game. He tends to change his appearance and personality based on what type of game is currently being played in Tomodachi Game.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127640-XeNgvj9dJlwf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127640
+      }
+    },
+    {
+      "id": "hyakutarou-onigawara",
+      "name": "Hyakutarou Onigawara",
+      "alt_names": [
+        "鬼瓦百太郎"
+      ],
+      "role": "supporting",
+      "description": "High School 2nd Year student from Group K.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196143-t64s7lYT41BL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196143
+      }
+    },
+    {
+      "id": "saori-miyabe",
+      "name": "Saori Miyabe",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196144-5OKFzWxbudHJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196144
+      }
+    },
+    {
+      "id": "minami-fudo",
+      "name": "Minami Fudo",
+      "alt_names": [
+        "不動みなみ",
+        "Prisoner Number 0012"
+      ],
+      "role": "supporting",
+      "description": "A participant in the Adult Tomodachi Game. She doesn't take kindly to remarks about her age or height, but is shown to be very level-headed and good at leading the rest of her group during the Friends' Prison game.\n\n~!She's revealed to have been [Kuroki](https://anilist.co/character/196865/Satoru-Kuroki)'s girlfriend five years before the start of the story, implied to have been forced to participate in the Adult Tomodachi Game due to his habit of loaning large amounts of money from her by exploiting her fondness of him.!~\n\n~!At some point in the past, her and Kuroki were both in a bike accident which left her with minor injuries and Kuroki with a disfigured face. She lied to him that she would go find help, but instead ran away, hoping she would finally be able to get rid of him. Despite this, she still shows some fondness towards him during the Friends' Prison game.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196145-9GTdIRTuEePX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196145
+      }
+    },
+    {
+      "id": "ryusei-taneda",
+      "name": "Ryusei Taneda",
+      "alt_names": [
+        "種田 流星"
+      ],
+      "role": "supporting",
+      "description": "Ryusei is part of the Adult Tomodachi Games. He appears in the first game \"Prison Game of Friendship\", as \"Prisoner Number 008\".\n\n~!He cleared Tomodachi Game twice before meeting Yuuichi.!~",
+      "metadata": {
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196146-NZ9wrnFHl7ok.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 196146
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T14:28:54.587Z"
+}

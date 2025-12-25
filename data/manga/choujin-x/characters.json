@@ -1,0 +1,369 @@
+{
+  "work_id": "choujin-x",
+  "count": 15,
+  "characters": [
+    {
+      "id": "tokio-kurohara",
+      "name": "Tokio Kurohara",
+      "alt_names": [
+        "黒原トキオ",
+        "Vulture Choujin"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 175 cm\n\nThe protagonist of Choujin X. Tokio is a second-year student at Tsuru High, and is a good friend of [Azuma Higashi](https://anilist.co/character/224490/Azuma-Higashi)'s. Following the events of the first chapter, Tokio became a Bestial Choujin.\n\nAs a small child, he and his classmates went on a field trip to a zoo, where they had to draw an animal that represented them. After Azuma got compared to a lion, Tokio's peers decided to mock him by comparing him to a vulture, an animal that has negative undertones associated with it. They continued to bully him until he broke down into tears before running away. Later, Azuma caught up to him and consoled him, pointing out a cool fact about vultures, which made Tokio see them in a more positive way. The event seemingly became a treasured memory for him, as his room can be seen decorated with a picture of a vulture.",
+      "metadata": {
+        "gender": "male",
+        "age": "16-17",
+        "dateOfBirth": "1982-01-13"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b224464-jgvtS1lbHEsB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 224464
+      }
+    },
+    {
+      "id": "azuma-higashi",
+      "name": "Azuma Higashi",
+      "alt_names": [
+        "東アズマ"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 158cm\n\nDeuteragonist of Choujin X. He is [Tokio Kurohara](https://anilist.co/character/224464/Tokio-Kurohara)'s best friend. Azuma is a short yet very athletic young man who is described as possessing rather attractive features. He has short white hair in a bowl cut, yellow eyes and can usually be seen wearing glasses.\n\nAzuma has a very straightforward and heroic personality. Due to his father being an accomplished police officer, Azuma was raised with the mentality to always be ready to help people in need, no matter who they are.\nAzuma and Tokio have been friends since childhood. Due to his father being an accomplished police officer and engraving the idea of justice into his head, Azuma would often protect his friend from bullies by fighting them, something that Tokio greatly appreciated.",
+      "metadata": {
+        "gender": "male",
+        "age": "16-17",
+        "dateOfBirth": "1981-12-25"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b224490-Qb9Obn3E8FMx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 224490
+      }
+    },
+    {
+      "id": "ely-otta",
+      "name": "Ely Otta",
+      "alt_names": [
+        "乙田エリイ",
+        "Smoke Choujin"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 135 cm\n\nShe is upbeat, kind, determined, yet stubborn. She tries to help as many people as she can, but has been shown to be quite unforgiving in regards to people who've wronged her or anyone else. She also has a mature side, being rational and level-headed when talking about the reasoning behind her clearly set goals or dreams.\nEly is terrified of ending up just like her mother, so from a very young age she imposed several moral codes upon herself. She strongly believes that \"All life comes from the soil\" and \"All that is borrowed must be returned\". However, her mother's actions influenced her subconsciousness so much so that it became her Choujin power.",
+      "metadata": {
+        "gender": "female",
+        "age": "16-17",
+        "dateOfBirth": "1981-07-31"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b242366-v7XiXk32BR2c.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 242366
+      }
+    },
+    {
+      "id": "maiko-momoma",
+      "name": "Maiko Momoma",
+      "alt_names": [
+        "百萬マイコ",
+        "Strength Choujin"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 161cm\n\n[Simon](https://anilist.co/character/263736/Simon-Kagomura)'s partner and a student at Konpei High. Maiko is an amicable Keeper, helping [Tokio](https://anilist.co/character/224464/Tokio-Kurohara) and the others when they join Yamato Mori to learn more about the world of Choujin. Tends to keep Simon's overly serious and pragmatic nature in check.\n\n~!Maiko has been working as a Keeper whilst attending school since she was ten, and inherited her powers from her late father at the age of four.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "18-19",
+        "dateOfBirth": "1980-05-23"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284978-sXv2Y58Njedv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284978
+      }
+    },
+    {
+      "id": "simon-kagomura",
+      "name": "Simon Kagomura",
+      "alt_names": [
+        "鍵村シモン",
+        "Shimon Kagomura"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 175 cm\n\n[Maiko](https://anilist.co/character/284978/Maiko-Momoma)'s partner. Simon is cold to those he doesn't usually speak to, and can be scary at times. He takes his job seriously and understands how terrifying the world of Choujins truly is. He also believes that being a Choujin is \"inconvenient by nature\".\n\n~!In Chapter 28, Simon shows off a much more friendly, optimistic side of his personality when helping [Tokio](https://anilist.co/character/224464/Tokio-Kurohara) learn how to fly. He quickly hides this soon after, but becomes closer to Tokio as a result of their training together.!~\n\n~!Simon is a part of the Kagomura Clan, a clan of special Sword Choujin whose abilities get stronger by passing down their powers through each generation using their tattoos, which made them incredibly powerful. However, a group called the Hero Hunters, known for taking down strong battalions after the war, massacred the clan. Simon was one of the very few survivors of this attack, leaving him alone in a world of loneliness before joining Yamato Mori.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "17-18",
+        "dateOfBirth": "1981-04-13"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b263736-VXW3XKFveyaB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 263736
+      }
+    },
+    {
+      "id": "johnny-takeyama",
+      "name": "Johnny Takeyama",
+      "alt_names": [
+        "竹山ジョニーキヨシ"
+      ],
+      "role": "supporting",
+      "description": "A thug-turned-Choujin that [Tokio](https://anilist.co/character/224464/Tokio-Kurohara) and [Azuma](https://anilist.co/character/224490/Azuma-Higashi) encounter in chapter 1.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b224523-fOhZb9QQWYQD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 224523
+      }
+    },
+    {
+      "id": "kinako-kurohara",
+      "name": "Kinako Kurohara",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "[Tokio Kurohara](https://anilist.co/character/224464/Tokio-Kurohara)'s sister",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b224524-82b9k40bQ6Ny.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 224524
+      }
+    },
+    {
+      "id": "hoshi-sandek",
+      "name": "Hoshi Sandek",
+      "alt_names": [
+        "星・サンデーク"
+      ],
+      "role": "supporting",
+      "description": "Yamato Prefecture's Choujin Protector. Second-in-command after Tsukiko Mado and the strongest member of Yamato Mori.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b235839-M1HE660Aw7P7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 235839
+      }
+    },
+    {
+      "id": "chandra-hume",
+      "name": "Chandra Hume",
+      "alt_names": [
+        "チャンドラ･ヒューム",
+        "煙の超人 (Kemuri no Choujin)",
+        "Smoke Choujin"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 178cm\n\nAn antagonist and a powerful Choujin dedicating himself to \"[Mother](https://anilist.co/character/318802/Sora-Siruha)\". Appears to have awakened Eli's Choujin powers by way of infection with his own abilities.\n\n~!In reality, his powers were siphoned by Eli's own Choujin ability that allows her to steal and use the Choujin abilities of others.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "42-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b242369-Q3eCj7e1anbS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 242369
+      }
+    },
+    {
+      "id": "nari-tsumiji",
+      "name": "Nari Tsumiji",
+      "alt_names": [
+        "辻ナリ",
+        "White Snake Choujin"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 164 cm\n\nA minor antagonist sent after Tokio to discover his Choujin ability.",
+      "metadata": {
+        "gender": "female",
+        "age": "19-20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b259596-KrVJigIlTnzT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 259596
+      }
+    },
+    {
+      "id": "tezuya-shiozaki",
+      "name": "Tezuya Shiozaki",
+      "alt_names": [
+        "汐崎テヅヤ"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 178 cm",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b263735-jaBV6NnIbgUx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 263735
+      }
+    },
+    {
+      "id": "maho-tagawa",
+      "name": "Maho Tagawa",
+      "alt_names": [
+        "田川真帆",
+        "Magic Choujin"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 160 cm\n__Occupation:__ Yamato Mori Keeper",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308630-4qEIu8BnvB1p.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308630
+      }
+    },
+    {
+      "id": "masao-chikabo",
+      "name": "Masao Chikabo",
+      "alt_names": [
+        "近保正夫"
+      ],
+      "role": "supporting",
+      "description": "Masao packaged multiple people at Jasto but was swiftly defeated.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308631-tIBW7LNeZjML.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308631
+      }
+    },
+    {
+      "id": "palma-shishinegura",
+      "name": "Palma Shishinegura",
+      "alt_names": [
+        "宍塒パルマ",
+        "Zombie Maker Choujin"
+      ],
+      "role": "supporting",
+      "description": "Palma is a girl who works in the Old Market of Minami City, producing and selling living corpses.\n\n~!After catastrophe struck her home region of Morth, Palma died alongside her parents, being reborn as a Choujin. Due to her desire to bring the dead back to live, she gained the power to reanimate corpses with her blood.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": "1982-04-29"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315242-OmUqQgZFbGbq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315242
+      }
+    },
+    {
+      "id": "sora-siruha",
+      "name": "Sora Siruha",
+      "alt_names": [
+        "白羽ソラ",
+        "Hero and Divine Beast (英雄・神獣)",
+        "Choujin X (超人X)"
+      ],
+      "role": "supporting",
+      "description": "The founder of Yamato Mori and the Chouijn X of her generation. Renowned as a hero who protected Yamato from harm and helped defeat the previous Choujin X, the Choujin of War known as Queem.\n\n~!Sora was gradually corrupted after constant grueling battles and use of opium to relieve her pain, which resulted in her being unable to return to human form from her Choujin chaos state.!~\n\n~!Currently she is known as the Holy Mother Zora, having been banished from Yamato Mori to the Tower of Mourning with her remaining loyal followers after a dispute with her disciple Tsukiko Mado regarding her premonition of the destruction of Yamato in the future, which she wishes to prevent regardless of the cost.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": "1906-01-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b318802-6ToozUeBHrsT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 318802
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T05:54:26.173Z"
+}

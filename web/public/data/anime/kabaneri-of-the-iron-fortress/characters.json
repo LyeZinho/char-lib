@@ -1,0 +1,316 @@
+{
+  "work_id": "kabaneri-of-the-iron-fortress",
+  "count": 13,
+  "characters": [
+    {
+      "id": "mumei",
+      "name": "Mumei",
+      "alt_names": [
+        "無名",
+        "No-name",
+        "Young Master's Claw"
+      ],
+      "role": "protagonist",
+      "description": "A mysterious, arrogant and playful yet exceedingly strong and brave girl who arrives at Aragane Station with unclear intent. She's very proficient with firearms and thrown weaponry, as well as incredibly strong physically, being able to chop off a Kabane's head clean off - using a blade concealed in her sandal - with one swift kick. \nDespite often appearing ruthless and full of bloodlust, she's great with kids.",
+      "metadata": {
+        "gender": "female",
+        "age": "12",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89464-3QoSJw8XzDkH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89464
+      }
+    },
+    {
+      "id": "ikoma",
+      "name": "Ikoma",
+      "alt_names": [
+        "生駒"
+      ],
+      "role": "protagonist",
+      "description": "A headstrong and passionate young Steam Smith and inventor from Hinomoto who makes a living in Aragane Station making iron and steam engines. He and his good friend Takumi developed a weapon called \"Tsuranuki Zutsu\" in order to defeat the Kabane. Everyone makes light of him now, but he looks forward to a day when he will be triumphant.\n\n~!His hatred for the Kabane stems from past trauma, with his sister Hatsune dying by his hands folllowing a Kabane attack and Ikoma struggling to cope with his loss ever since.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89472-Ayu4lT9Crbl5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89472
+      }
+    },
+    {
+      "id": "ayame-yomogawa",
+      "name": "Ayame Yomogawa",
+      "alt_names": [
+        "四方川菖蒲"
+      ],
+      "role": "supporting",
+      "description": "Ayame is the eldest daughter and heir of the Yomogawa family that governs Aragane Station. She is the user of the master key.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89465-tUQaGxpPCrKz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89465
+      }
+    },
+    {
+      "id": "kurusu",
+      "name": "Kurusu",
+      "alt_names": [
+        "来栖"
+      ],
+      "role": "supporting",
+      "description": "A young warrior who serves Ayame's family as her personal bodyguard. Among warriors his sword arm is considerable. Is usually sober and honest, and he maintains his honor as a warrior.\n\n(Source: ANN)",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89466-e3jSPDKHRIoL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89466
+      }
+    },
+    {
+      "id": "takumi",
+      "name": "Takumi",
+      "alt_names": [
+        "逞生"
+      ],
+      "role": "supporting",
+      "description": "Ikoma's friend and fellow steam smith. Though he's shocked by Ikoma's rashness, he admires how Ikoma isn't afraid of anyone.\n\n(Source: ANN)",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89467-AXQ0GCcTiI5z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89467
+      }
+    },
+    {
+      "id": "kajika",
+      "name": "Kajika",
+      "alt_names": [
+        "鰍"
+      ],
+      "role": "supporting",
+      "description": "Ikoma and Takumi's friend and fellow steam smith. She has a familial personality.\n\n(Source: ANN)",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89468-JUOLxuQZgZ4G.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89468
+      }
+    },
+    {
+      "id": "yukina",
+      "name": "Yukina",
+      "alt_names": [
+        "侑那"
+      ],
+      "role": "supporting",
+      "description": "A crew member of the Hayajiro \"Koutetsujou\". Although calm and reserved, she's very trustworthy, rational and caring, and doesn't hesitate to stand up for herself when necessary. She's also incredibly passionate and skilled at her job - at times putting more experienced drivers to shame whenever they doubt her or disregard her as a mere trainee - as well as physically strong, being able to operate heavy machinery all by herself.\n\nDespite frequently bossing him around, she seems to have some degree of affection towards Sukari.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89469-lqZkuy6Gnnwl.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89469
+      }
+    },
+    {
+      "id": "sukari",
+      "name": "Sukari",
+      "alt_names": [
+        "巣刈"
+      ],
+      "role": "supporting",
+      "description": "A steam smith who lives at Aragane Station. He puts up a cynical front, but has good judgement.",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89470-64nBItEMtj2J.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89470
+      }
+    },
+    {
+      "id": "kibito",
+      "name": "Kibito",
+      "alt_names": [
+        "吉備土"
+      ],
+      "role": "supporting",
+      "description": "A warrior who serves Ayame's family. He is understanding and treats people of all social classes without discrimination.\n\n(Source: ANN)",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89471-quAzgchiYSlx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89471
+      }
+    },
+    {
+      "id": "biba-amatori",
+      "name": "Biba Amatori",
+      "alt_names": [
+        "天鳥美馬",
+        "The Liberator (解放者)"
+      ],
+      "role": "supporting",
+      "description": "Biba also known as the Liberator, is the leader of the Hunters and the eldest son of the Shogun.",
+      "metadata": {
+        "gender": "male",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89473-F44bmJ7oNvOx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89473
+      }
+    },
+    {
+      "id": "uryuu",
+      "name": "Uryuu",
+      "alt_names": [
+        "瓜生"
+      ],
+      "role": "supporting",
+      "description": "A member of the Kabane Hunters.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143177-MCshktr7TX0c.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 143177
+      }
+    },
+    {
+      "id": "hatsune",
+      "name": "Hatsune",
+      "alt_names": [
+        "初音"
+      ],
+      "role": "supporting",
+      "description": "The younger sister of Ikoma. Originally she lived peacefully alongside her brother in a station, however she was later killed in the past during a Kabane attack, Hatsune's death motivated Ikoma's desire to exterminate the Kabane from existence.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b238791-4Xzr1TyrUltD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 238791
+      }
+    },
+    {
+      "id": "suzuki",
+      "name": "Suzuki",
+      "alt_names": [
+        "鈴木"
+      ],
+      "role": "supporting",
+      "description": "The train's chief mechanic, who's hair is styled like a 17th century wig and speaks with english phrases. Also served as narrator for each episodes' preview.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244004-VpRXnsmWC29r.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244004
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T14:18:36.592Z"
+}

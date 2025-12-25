@@ -1,0 +1,360 @@
+{
+  "work_id": "lycoris-recoil",
+  "count": 15,
+  "characters": [
+    {
+      "id": "chisato-nishikigi",
+      "name": "Chisato Nishikigi",
+      "alt_names": [
+        "錦木千束"
+      ],
+      "role": "protagonist",
+      "description": "Said to be the strongest Lycoris of all time.\nShe enjoys solving private-sector problems that the DA would not address.\nAt Café LycoReco, she works joyfully and cheerfully as the self-proclaimed poster girl.\n\n~!Chisato has an artificial heart which was developed by Alan Institute, and can be broken by applying high voltages directly to it.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b260329-ejhEdFfXhs53.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 260329
+      }
+    },
+    {
+      "id": "takina-inoue",
+      "name": "Takina Inoue",
+      "alt_names": [
+        "井ノ上たきな"
+      ],
+      "role": "protagonist",
+      "description": "Previously an exceptional Lycoris, but for some reason, she now works at Café LycoReco.\nA realistic person with a distaste for inefficiency, she can be dissatisfied with Chisato, who is not a typical Lycoris.\nShe wants to see good results in her job at LycoReco.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b260328-zb9VJ8f9dlYQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 260328
+      }
+    },
+    {
+      "id": "mika",
+      "name": "Mika",
+      "alt_names": [
+        "ミカ",
+        "Teach",
+        "Sensei"
+      ],
+      "role": "supporting",
+      "description": "Lamenting the worsening of his eyesight as he grows older day after day, he is the surrogate parent gently overseeing his problematic employees.\n\nOhagi mochi and coffee, Japanese clothing and a café. It’s all about expressing a mix of Japanese and Western styles. He is the manager of the café with a traditional Japanese twist, \"Café LycoReco”.\n\n~!In episode 7 of the anime, it is revealed that Mika is gay.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "48",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268459-ULNF0KcGlJHT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268459
+      }
+    },
+    {
+      "id": "mizuki-nakahara",
+      "name": "Mizuki Nakahara",
+      "alt_names": [
+        "中原ミズキ"
+      ],
+      "role": "supporting",
+      "description": "Previously a DA Intelligence Division member, she’s been with Chisato for a long time. In her desperate desire to marry, she took the job at the café in hopes of meeting her special someone.\n\nHer routine includes a nightly drink while reading wedding magazines.",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268457-c5VS7Jrolcop.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268457
+      }
+    },
+    {
+      "id": "kurumi",
+      "name": "Kurumi",
+      "alt_names": [
+        "クルミ"
+      ],
+      "role": "supporting",
+      "description": "A young runaway girl of unknown origins who loves all kinds of games. She’s a terrible employee who reluctantly works in exchange for lodging. She only looks forward to gaming parties with the café’s regulars come closing time.\n\n~!In some later episodes, it is revealed that Kurumi is actually the hacker Walnut.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b268458-OlcSEyl1KFRS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 268458
+      }
+    },
+    {
+      "id": "shinji-yoshimatsu",
+      "name": "Shinji Yoshimatsu",
+      "alt_names": [
+        "吉松シンジ"
+      ],
+      "role": "supporting",
+      "description": "A member of the Alan Institute.\nA regular at Café LycoReco.\nMika’s old friend.\n~!He is later shot and killed by Mika!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282068-MwtadRNotePz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282068
+      }
+    },
+    {
+      "id": "fuki-harukawa",
+      "name": "Fuki Harukawa",
+      "alt_names": [
+        "春川フキ"
+      ],
+      "role": "supporting",
+      "description": "A 1st Lycoris of DA Tokyo branch.\nPreviously Takina’s partner. She and Chisato fight like cats and dogs.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282694-sThZXxGJbHxl.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282694
+      }
+    },
+    {
+      "id": "sakura-otome",
+      "name": "Sakura Otome",
+      "alt_names": [
+        "乙女サクラ"
+      ],
+      "role": "supporting",
+      "description": "A 2nd Lycoris of DA Tokyo branch.\nShe is Fuki's partner instead of Takina.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282695-VL3gXrm0yrFQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282695
+      }
+    },
+    {
+      "id": "majima",
+      "name": "Majima",
+      "alt_names": [
+        "真島"
+      ],
+      "role": "supporting",
+      "description": "A terrorist who attacked a subway station.\n~!He was the one who blew up the radio tower prior to the events of the series, and had met young chisato during that time!~\n~!He, alongside Chisato is also a child of Alan!~\n~!In the last episode he is shown falling to his death, however shortly after it is revealed he survived!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283404-VNfIXSv6HTe4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283404
+      }
+    },
+    {
+      "id": "kusunoki",
+      "name": "Kusunoki",
+      "alt_names": [
+        "楠木"
+      ],
+      "role": "supporting",
+      "description": "DA Commander.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283680-beia7O4YaKLE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283680
+      }
+    },
+    {
+      "id": "matsushita",
+      "name": "Matsushita",
+      "alt_names": [
+        "松下"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283862-BtgMfNk0pm29.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283862
+      }
+    },
+    {
+      "id": "abe",
+      "name": "Abe",
+      "alt_names": [
+        "阿部"
+      ],
+      "role": "supporting",
+      "description": "A detective for the Oshiage Police Department.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284083-y9U4yp84xpa3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284083
+      }
+    },
+    {
+      "id": "saori-shinohara",
+      "name": "Saori Shinohara",
+      "alt_names": [
+        "篠原沙保里"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284278-D53N4XfjQVf1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284278
+      }
+    },
+    {
+      "id": "robota",
+      "name": "Robota",
+      "alt_names": [
+        "ロボ太"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284528-SJrjKwNKLAWn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284528
+      }
+    },
+    {
+      "id": "erika-janome",
+      "name": "Erika Janome",
+      "alt_names": [
+        "蛇ノ目エリカ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284730-Hw8IGJMK6wBC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 284730
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T07:53:57.427Z"
+}

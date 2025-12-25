@@ -1,0 +1,104 @@
+{
+  "work_id": "grave-of-the-fireflies",
+  "count": 4,
+  "characters": [
+    {
+      "id": "seita",
+      "name": "Seita",
+      "alt_names": [
+        "清太"
+      ],
+      "role": "protagonist",
+      "description": "Seita is responsible, mature, and tough. Since his dad is away fighting in the war, he is responsible for all the jobs his father would normally take, including caring for his younger sister, Setsuko. Seita's main fault is his pride, which can cause him to make wrong decisions. \n~!Seita's mother dies after a bombing raid on their town!~ ~!Seita's father assumed killed after Seita learns the entire Japanese fleet was destroyed, Seita and his sister become orphans!~ ~!Seita's sister dies of malnutrition at the end of the movie, leaving Seita on his own!~",
+      "metadata": {
+        "gender": "male",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b494-9sbHCvWiD9py.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 494
+      }
+    },
+    {
+      "id": "setsuko",
+      "name": "Setsuko",
+      "alt_names": [
+        "節子"
+      ],
+      "role": "protagonist",
+      "description": "Setsuko completely adores her older brother Seita. She is innocent and cheerful, and at times naïve to the terrors of war around her.",
+      "metadata": {
+        "gender": "female",
+        "age": "4",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b495-vzUTVQ5RMiJN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 495
+      }
+    },
+    {
+      "id": "seita-setsuko-no-haha",
+      "name": "Seita Setsuko no Haha",
+      "alt_names": [
+        "清太・節子の母",
+        "Mrs. Yokokawa",
+        "Mother"
+      ],
+      "role": "supporting",
+      "description": "Seita's and Setsuko's mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133870-kfO1GVk2plls.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 133870
+      }
+    },
+    {
+      "id": "isha",
+      "name": "Isha",
+      "alt_names": [
+        "医者",
+        "Doctor"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b319245-lUSb8LLP96lD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 319245
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T11:29:17.368Z"
+}

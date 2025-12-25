@@ -1,0 +1,363 @@
+{
+  "work_id": "daily-lives-of-high-school-boys",
+  "count": 15,
+  "characters": [
+    {
+      "id": "tadakuni",
+      "name": "Tadakuni",
+      "alt_names": [
+        "タダクニ"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 170 cm (5'7\")\n\nTadakuni is a student in Sanada North Boys High who acts as the straight man of the group. He is usually involved in [Hidenori Tabata](https://anilist.co/character/50691) and [Yoshitake Tanaka](https://anilist.co/character/50693)'s wild ideas despite his disapproval. He has a younger sister who proves to be stronger than him and his friends. Gradually, he loses screen time and fades into the background, appearing even less than supporting characters.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n50689-6eQzVvFsHmDI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 50689
+      }
+    },
+    {
+      "id": "hidenori-tabata",
+      "name": "Hidenori Tabata",
+      "alt_names": [
+        "田畑ヒデノリ",
+        "Jack",
+        "Depp",
+        "Hopper",
+        "Bathhouse Owner"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 175 cm (5'9\")\n\nA student at Sanada North Boys High. He is the glasses-wearing character of the main trio, of which he usually gets the group involved in his crazy schemes. His older brother used to be the ringleader of the group until he went off to college.  When his friends aren't around and he's alone with a girl, he over-thinks the situation.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n50691-e9LBqPgNy6Rk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 50691
+      }
+    },
+    {
+      "id": "yoshitake-tanaka",
+      "name": "Yoshitake Tanaka",
+      "alt_names": [
+        "田中ヨシタケ",
+        "Markovich"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 172 cm (5'7\") \n\nThe dyed blond character of the main trio, he usually goes along with Hidenori's schemes much to Tadakuni's disapproval. He was the masked Rubber Shooter in his childhood and also has a sister who is a year older than him.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n50693-JuansDyW7i7v.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 50693
+      }
+    },
+    {
+      "id": "yassan",
+      "name": "Yassan",
+      "alt_names": [
+        "文学少女",
+        "Bungaku Shoujo",
+        "Literature Girl"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165 cm (5'5\")  \n\nA girl who wanders the river bank in search of her fated encounter, which is an act followed by her own literature, where she meets a man with the power of wind. She is careless and won't have anyone break her moments when she is in the act. She takes an interest in [Hidenori](https://anilist.co/character/50691) and goes as far as to chase him around the city just to tell him that the boy she was walking with, [Takahiro](https://anilist.co/character/57187), is just a friend.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/51015-3gYxPDPCzkYK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 51015
+      }
+    },
+    {
+      "id": "motoharu",
+      "name": "Motoharu",
+      "alt_names": [
+        "モトハル"
+      ],
+      "role": "supporting",
+      "description": "A member of Sanada North High student council, he has an intimidating look that is often mistaken as a delinquent. Although, he is actually gentle, shy, and he maintains a good relationship with his older sister.  \n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "age": "16-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n54465-BKkESI4T5la1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 54465
+      }
+    },
+    {
+      "id": "toshiyuki-karasawa",
+      "name": "Toshiyuki Karasawa",
+      "alt_names": [
+        "唐沢としゆき"
+      ],
+      "role": "supporting",
+      "description": "A classmate who tends to wear a baseball cap. He lives next door to the Funky High School Girls and is a target of their harrassments.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n54467-lB1ZrhXxdY1o.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 54467
+      }
+    },
+    {
+      "id": "nago-san",
+      "name": "Nago-san",
+      "alt_names": [
+        "奈古さん"
+      ],
+      "role": "supporting",
+      "description": "Fellow part-timer at the same pizza place that Tadakuni works for, she has a complex for her looks.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/54469.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 54469
+      }
+    },
+    {
+      "id": "yasunori",
+      "name": "Yasunori",
+      "alt_names": [
+        "ヤスノリ"
+      ],
+      "role": "supporting",
+      "description": "Tadakuni's co-worker at the pizza delivery.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/54471.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 54471
+      }
+    },
+    {
+      "id": "tadakuni-no-imouto",
+      "name": "Tadakuni no Imouto",
+      "alt_names": [
+        "タダクニの妹",
+        "Tadakuni's sister",
+        "Mei"
+      ],
+      "role": "supporting",
+      "description": "Tadakuni's younger sister. She is usually violent and hits Tadakuni, Hidenori, and Yoshitake when they do something to her —for example, steal her underwear.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n54473-WI7E0UfIImgW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 54473
+      }
+    },
+    {
+      "id": "ringo-chan",
+      "name": "Ringo-chan",
+      "alt_names": [
+        "りんごちゃん"
+      ],
+      "role": "supporting",
+      "description": "The Student Council President of Sanada East High. She is full of pride and has a short temper. But she is a bit of an airhead, which leads her to getting tricked very easily, like mistaking Karasawa's snoring for a cat's meow and standing on a step ladder in the Sanada North High Student Council Room to connect an internet cable to a intentionally misplaced router just so the Council could look at her panties from underneath. The Sanada North High Student Council has given her the nickname \"Ringo-chan.\" She's actually popular and is usually hit on, much to her ignorance.  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n54475-SfSelNXG9EtW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 54475
+      }
+    },
+    {
+      "id": "fukukaichou",
+      "name": "Fukukaichou",
+      "alt_names": [
+        "副会長",
+        "Vice President"
+      ],
+      "role": "supporting",
+      "description": "Student Council Vice-President of Sanada North High. His dyed hair, tanned skin and old appearance are often mistaken for a delinquent, but in reality he is kind and gentle. He does however used to be wild as his appearance suggests, but this changes after he was invited into the student council by the current president.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b54477-AxnfInDMiEga.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 54477
+      }
+    },
+    {
+      "id": "kaichou",
+      "name": "Kaichou",
+      "alt_names": [
+        "会長",
+        "President"
+      ],
+      "role": "supporting",
+      "description": "Student Council President of Sanada North High. He lets the vice-president handle most of the student council tasks. Despite his looks and charisma, he is a bit of an idiot.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n54479-jdqM2FYmvnJN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 54479
+      }
+    },
+    {
+      "id": "yanagi",
+      "name": "Yanagi",
+      "alt_names": [
+        "ヤナギ",
+        "Yanagin"
+      ],
+      "role": "supporting",
+      "description": "The bespectacled and tomboyish girl of the group. She is good academically and proficient in karate. Full of crazy ideas and prone to violent outbursts. She was once part of the elementary school's strongest warriors to fight against Archdemon. After the battle, she was selected to monitor Habara.  (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n54481-mVRE8Iu04O3N.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 54481
+      }
+    },
+    {
+      "id": "habara",
+      "name": "Habara",
+      "alt_names": [
+        "羽原",
+        "Archdemon",
+        "Flat Chest"
+      ],
+      "role": "supporting",
+      "description": "One of three main girls of High School Girls Are Funky side-story. She has an older brother.   Called \"flat chest\" by Yanagin. Attends Sanada West High School, acquainted with Literary Girl. Habara has relatively common sense, often to serve as the straight man of horrendous behavior of Ikushima and Yanagin.   In her childhood she was known as Archdemon, a bully that even male students feared. Therefore, to beat Archdemon a group was formed by the children who could withstand her violence. At the end of the fierce battle everyone along with Archdemon was beaten except the masked kid, Rubber Shooter. Habara lost her bloodlust when she was beaten and Yanagin was forced to watch over her so she wouldn't go back on a rampage. She's very remorseful of what she did when she was young.   It is implied that Habara is still dangerous.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n54483-7EWlhakUUqtM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 54483
+      }
+    },
+    {
+      "id": "ikushima",
+      "name": "Ikushima",
+      "alt_names": [
+        "生島"
+      ],
+      "role": "supporting",
+      "description": "The twin tails of the group and also a student of Sanada East Girls High. She usually goes along with Yanagin and her wild ideas.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/54485.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 54485
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T13:13:36.966Z"
+}

@@ -1,0 +1,337 @@
+{
+  "work_id": "billy-bat",
+  "count": 14,
+  "characters": [
+    {
+      "id": "kevin-yamagata",
+      "name": "Kevin Yamagata",
+      "alt_names": [
+        "ケヴィン・ヤマガタ",
+        "Kinji"
+      ],
+      "role": "protagonist",
+      "description": "Kevin Yamagata in 1949 is a nisei Japanese-American comic book artist drawing the popular detective series \"Billy Bat.\" When he learns he may have unconsciously copied the character from an image he saw while serving in occupied Japan, he returns to Japan to get permission to use Billy Bat from its original creator.   Kevin's comics mostly feature anthropomorphicized animal characters, such as dogs or mice. Later on, his Billy Bat comic become a kind of prophecy, its various plotlines precisely predicting future world events.   Kevin's Japanese name is Kinji Yamagata (山縣金持). He is said by others to resemble actor Ryo Ikebe in both looks and personality. He was born and raised in Orange County, California on November 26, 1923, while his parents were both originally from Niigata.   (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b23635-b814kwdWX5j8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 23635
+      }
+    },
+    {
+      "id": "billy-bat",
+      "name": "Billy Bat",
+      "alt_names": [
+        "Bat Boy",
+        "The Bat"
+      ],
+      "role": "protagonist",
+      "description": "Ostensibly, a talking anthropomorphic bat that is the star of several detective comic book series throughout the 20th Century. His true nature and purpose comprise the central mystery of the plot. Francis Xavier himself once mentioned the Bat, himself unsure if the entity was an angel or demon or perhaps both. Zōfū, on the other hands, claims there are two bats, one white and the other black. When The White Bat appears, it always says confusing things, and when The Black Bat appears, it manipulates people to do bad things.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b23636-6oVXdYeT1aiD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 23636
+      }
+    },
+    {
+      "id": "jackie-momochi",
+      "name": "Jackie Momochi",
+      "alt_names": [
+        "ジャッキー・モモチ"
+      ],
+      "role": "protagonist",
+      "description": "A nisei Japanese-American University girl in New York who was unwillingly influenced by Billy Bat. She is a descendant of the Momochi Clan of Iga-ryuu. Later on, she goes to Japan to investigate Father Xavier's first disciple, Yajirou.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b73625-JwK2Ykt0R6AB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73625
+      }
+    },
+    {
+      "id": "kevin-goodman",
+      "name": "Kevin Goodman",
+      "alt_names": [
+        "ケヴィン・グッドマン"
+      ],
+      "role": "protagonist",
+      "description": "[Tony](https://anilist.co/character/82483/Tony-Goodman) and [Diane](https://anilist.co/character/82481/Diane-Goodman)'s son.\n\n~!His life was saved by [Kevin Yamagata](https://anilist.co/character/23635/Kevin-Yamagata) during the JFK assassination.!~ \n\n ~!He is the \"successor\" of Kevin Yamagata, and the \"true protagonist\" of Billy Bat.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b81661-YKtFwnBB3zRc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81661
+      }
+    },
+    {
+      "id": "lee-oswald",
+      "name": "Lee Oswald",
+      "alt_names": [
+        "リー・ハーヴェイ・オズワルド"
+      ],
+      "role": "supporting",
+      "description": "Lee Harvey Oswald was, according to four government investigations, the assassin of President of the United States John F. Kennedy, who was fatally shot in Dallas, Texas on November 22, 1963.   ~!When working at \"Billy Land\" he had a vision of the Bat asking him if he wanted to be this Country's Next Hero. The Bat ordered him to protect Kevin for the sake of mankind. Later in JFK Assassination he actually wasn't the murderer. At the time JFK was shot he was at the library building with Jackie, but in the end he accepted to become scapegoat instead.!~  (Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "age": "24",
+        "dateOfBirth": "1939-10-18"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b73623-a125aYHY0WGe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 73623
+      }
+    },
+    {
+      "id": "smith",
+      "name": "Smith",
+      "alt_names": [
+        "スミス"
+      ],
+      "role": "supporting",
+      "description": "A mysterious man who claims to work for the CIA, and is investigating the Shimoyama incident. He helps Kevin investigate the myth of the Bat. While trying to save Kevin from unknown assassin, he disappears. He reappears in 1981, elderly, and missing his left eye, saving Kevin Goodman from a fake police officer that was about to shoot Kevin.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/82461.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82461
+      }
+    },
+    {
+      "id": "shizuko",
+      "name": "Shizuko",
+      "alt_names": [
+        "シズコ",
+        "Shi-chan"
+      ],
+      "role": "supporting",
+      "description": "A Japanese prostitute who fell in love with Kevin and sheltered him when he was first pursued by Kurusu. She was injured as a result of the scuffle and was rendered unable to work for a time.\n\n ~!When she finally did start working again, she was fatally wounded by someone she called the Karate Chop Man, and died in Kevin's arms.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/82463.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82463
+      }
+    },
+    {
+      "id": "albert-einstein",
+      "name": "Albert Einstein",
+      "alt_names": [
+        "アルバート・アインシュタイン"
+      ],
+      "role": "supporting",
+      "description": "A physicist, and the most famous scientist in history, most known for his general and special theories of relativity.\n\n~!In the manga, he meets [Zofu Sensei](https://anilist.co/character/82503/Zofuu-Karama) in Japan in 1922 and thereafter can communicate with and learn from Billy Bat.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "76",
+        "dateOfBirth": "1879-03-14"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82465-LLVqfmnNyxVG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82465
+      }
+    },
+    {
+      "id": "henry-devivie",
+      "name": "Henry Devivie",
+      "alt_names": [
+        "ヘンリー・チャールズ・デヴィヴィエ"
+      ],
+      "role": "supporting",
+      "description": "A mysterious man who wants to buy Koumori Village, the town where the Scroll is said to be located, in order to make a new Billy Bat theme park. His true goal, however, is to find the Scroll, and anyone he decides to negotiate with about the land soon ends up murdered.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82467-VXKFOaHNCBOw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82467
+      }
+    },
+    {
+      "id": "charlie-ishizuka",
+      "name": "Charlie Ishizuka",
+      "alt_names": [
+        "チャーリー石塚"
+      ],
+      "role": "supporting",
+      "description": "A Japanese man who works for GHQ, acting as an interpreter for L.T. Colonel Chagnon of the Civil Transportation Section (CTS) who was [Kevin](https://anilist.co/character/23635/Kevin-Yamagata)'s longtime friend.\n\n~!He owned a copy of the Scroll made by Hattori Hanzo, but after he is found dead the ancient text went missing.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82469-3a7JUTCZiw50.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82469
+      }
+    },
+    {
+      "id": "chuck-culkin",
+      "name": "Chuck Culkin",
+      "alt_names": [
+        "チャック・カルキン",
+        "The assistent"
+      ],
+      "role": "supporting",
+      "description": "[Kevin Yamagata](https://anilist.co/character/23635/Kevin-Yamagata)'s assistant in 1949. He was left in charge of drawing the Billy Bat series when Kevin left for Japan.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82471-oPQ5TJAkY3k0.png",
+          "type": "portrait",
+          "source": "AniList"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82473-lV6ol1z42Hdf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82473
+      }
+    },
+    {
+      "id": "finney",
+      "name": "Finney",
+      "alt_names": [
+        "フィニー",
+        "Captain Finney (フィニー大尉)"
+      ],
+      "role": "supporting",
+      "description": "A portly, pale-eyed man who claims to work with the GHQ Special Investigation Unit.\n\n~!He and [Kurusu](https://anilist.co/character/82479/Kurusu-Kiyoshi) are searching for the Scroll of Momochi.!~\n\n~!By the 1960s, he has apparently begun working for the fake [Chuck Culkin](https://anilist.co/character/82471/Chuck-Culkin).!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82475-Qm3m1Q8WeMEG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82475
+      }
+    },
+    {
+      "id": "martin-king-jr",
+      "name": "Martin King Jr.",
+      "alt_names": [
+        "マーティン・ルーサー・キング・ジュニア"
+      ],
+      "role": "supporting",
+      "description": "In Billy Bat, Martin Luther King appears very briefly, when his speech was broadcast on television while Diane and Tony are stuck in a village.",
+      "metadata": {
+        "gender": "male",
+        "age": "39",
+        "dateOfBirth": "1929-01-15"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82477-jvSsc1eV9ZLl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82477
+      }
+    },
+    {
+      "id": "kurusu-kiyoshi",
+      "name": "Kurusu Kiyoshi",
+      "alt_names": [
+        "来栖"
+      ],
+      "role": "supporting",
+      "description": "A mysterious character working for a company called East Asian Industries. He is Finney's partner in the search for the legendary Scroll of Momochi. He and Finney presumably are the masterminds behind both the Shimoyama incident and the JFK Assassination. In Zofuu's manga, he makes an appearance as the character Karate Chop Man.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/82479.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 82479
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T20:49:05.720Z"
+}

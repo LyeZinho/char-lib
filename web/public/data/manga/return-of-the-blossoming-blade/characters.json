@@ -1,0 +1,379 @@
+{
+  "work_id": "return-of-the-blossoming-blade",
+  "count": 15,
+  "characters": [
+    {
+      "id": "cheong-myeong",
+      "name": "Cheong-Myeong",
+      "alt_names": [
+        "청명",
+        "Cho-Sam",
+        "Plum Blossom Sword Saint",
+        "Hua Sect's Rabid Dog",
+        "Mount Hua's Divine Dragon",
+        "Chung-Myung"
+      ],
+      "role": "protagonist",
+      "description": "Cheong-Myeong usually has a carefree nature and enjoys fooling around. However, when he has a goal, he sets his mind to it. Cheong-Myeong is intelligent, but often uses that to his advantage (but sometimes end up offending others). He enjoys drinking and indulges himself with food. Cheong-Myeong is sadistic and likes playing around with his seniors. He has confidence and doesn't waver in every situation and knows when he should retreat or run away.",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270715-ZEDoSMIA6xPK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270715
+      }
+    },
+    {
+      "id": "jo-gul",
+      "name": "Jo Gul",
+      "alt_names": [
+        "조걸",
+        "趙傑",
+        "Jo Geol"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 5'9\n\nJo Gul is a 3rd class disciple of the Mount Hua Sect. He's the second son of a merchant family.",
+      "metadata": {
+        "gender": "male",
+        "age": "17-20 (S1), 25 (S2)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314395-jDy84EqbaPiZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314395
+      }
+    },
+    {
+      "id": "jin-geum-ryong",
+      "name": "Jin Geum-Ryong",
+      "alt_names": [
+        "진금룡",
+        "秦金龍",
+        "Jin Geumryong"
+      ],
+      "role": "supporting",
+      "description": "Jin Geumryong is a second class disciple of the Zhongnan Sect and Baek Cheon's brother. He is the strongest and most prospective talent within the Zhongnan Sect.",
+      "metadata": {
+        "gender": "male",
+        "age": "25+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314396-6jfDAdI28z3U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314396
+      }
+    },
+    {
+      "id": "jongsan-yu",
+      "name": "Jongsan Yu",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Jongsan Yu is the owner of the Huayin Linen Shop, a business that originally was owned by the Mount Hua Sect.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314397-2P5czhuA3Hxj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314397
+      }
+    },
+    {
+      "id": "yu-iseols-father",
+      "name": "Yu Iseol's father",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Yu Iseol's father was formerly a member of the Mount Hua Sect and a disciple who tried to recreate the lost 24-Movement Plum Blossom Sword Technique.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314398-fPykf2Q5QmyE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314398
+      }
+    },
+    {
+      "id": "unam",
+      "name": "Unam",
+      "alt_names": [
+        "운암",
+        "雲唵"
+      ],
+      "role": "supporting",
+      "description": "Unam is a 1st ranked disciple of the Mount Hua Sect.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314400-cI2hg7tOx70A.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314400
+      }
+    },
+    {
+      "id": "jin-mu",
+      "name": "Jin Mu",
+      "alt_names": [
+        "진무",
+        "眞撫",
+        "Sword Dragon of Wudang"
+      ],
+      "role": "supporting",
+      "description": "Jin Mu, also known as the Sword Dragon of Wudang, is a disciple of the Wudang Sect.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314401-uFTSsdUbcbpI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314401
+      }
+    },
+    {
+      "id": "jong-seohan",
+      "name": "Jong Seohan",
+      "alt_names": [
+        "종서한",
+        "宗恕恨"
+      ],
+      "role": "supporting",
+      "description": "Jong Seohan is a 2nd-class disciple of the Zhongnan Sect. He is deemed the second strongest out of the 2nd-class disciples of the sect.",
+      "metadata": {
+        "gender": "male",
+        "age": "20+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314402-6uopDAyQ6szE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314402
+      }
+    },
+    {
+      "id": "hyun-young",
+      "name": "Hyun Young",
+      "alt_names": [
+        "현영",
+        "玄永",
+        "Hyeon Yeong"
+      ],
+      "role": "supporting",
+      "description": "Hyun Young is the youngest of the three sages, and an elder of the Mount Hua Sect. He is the general manager of the Finance Office, and is involved in all matters of finance and economy.",
+      "metadata": {
+        "gender": "male",
+        "age": "60+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314404-ctQa4mUM64Om.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314404
+      }
+    },
+    {
+      "id": "un-gum",
+      "name": "Un Gum",
+      "alt_names": [
+        "운검",
+        "雲劍",
+        "Ungeom"
+      ],
+      "role": "supporting",
+      "description": "Un Gum is a 1st ranked disciple of the Mount Hua Sect. He is the monitor of the White Plum Blossom Hall and trainer of the third class disciples.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314405-WyO7qE7nwD6y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314405
+      }
+    },
+    {
+      "id": "taegeuggeomje",
+      "name": "Taegeuggeomje",
+      "alt_names": [
+        "태극검제"
+      ],
+      "role": "supporting",
+      "description": "Taiji Sword Emperor was a member of Wudang Sect 100 years ago and lost against Cheongmyeong.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314406-hTkqgoVoSKw6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314406
+      }
+    },
+    {
+      "id": "hyun-jong",
+      "name": "Hyun Jong",
+      "alt_names": [
+        "현종",
+        "玄從"
+      ],
+      "role": "supporting",
+      "description": "Hyun Jong is the current sect leader of the Mount Hua Sect.",
+      "metadata": {
+        "gender": "male",
+        "age": "60+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314407-YKuYdUSf0ule.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314407
+      }
+    },
+    {
+      "id": "hyun-sang",
+      "name": "Hyun Sang",
+      "alt_names": [
+        "현상"
+      ],
+      "role": "supporting",
+      "description": "Hyun Sang is the second sage and an elder of the Mount Hua Sect. He is in charge of managing the sect's martial arts curriculum.",
+      "metadata": {
+        "gender": "male",
+        "age": "60+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314408-Bw8ZiLP07fDp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314408
+      }
+    },
+    {
+      "id": "hwang-jongui",
+      "name": "Hwang Jongui",
+      "alt_names": [
+        "황종의",
+        "黃宗義",
+        "Hwang Jong-ui",
+        "Hwang Jongi"
+      ],
+      "role": "supporting",
+      "description": "Hwang Jongui is the vice president of Eunha Trading Company.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314409-SCNgNXzLvpHH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314409
+      }
+    },
+    {
+      "id": "lee-songbaek",
+      "name": "Lee Songbaek",
+      "alt_names": [
+        "이송백",
+        "李松柏",
+        "Isongbaek"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 6'2\n\nLee Songbaek is a 2nd-class disciple of the Zhongnan Sect. He was the first disciple from an opposing sect to recognize the true strength of Cheongmyeong.",
+      "metadata": {
+        "gender": "male",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b314410-vnD9X5YqP9eA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 314410
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T16:49:14.057Z"
+}

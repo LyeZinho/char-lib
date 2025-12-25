@@ -1,0 +1,368 @@
+{
+  "work_id": "eleceed",
+  "count": 15,
+  "characters": [
+    {
+      "id": "ji-woo-seo",
+      "name": "Ji-Woo Seo",
+      "alt_names": [
+        "서지우",
+        "Ji-Woo Seo",
+        "Jiwoo Seo"
+      ],
+      "role": "protagonist",
+      "description": "He is a very bright and kind person who will go out of his way to help the people around him. His main ability is super speed. \n\nIn the past, Ji-U had no friends because he was afraid that people would discover his powers and those they discovered would treat him like a freak. The first friend he made was a stray cat, which led to his adoration for cats today.\n\nHis mentor is Kayden Break, who started to live with him. He is friends with Ji-Seok Yu, U-In, and Su-Bin Lee.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192792-O8m2jxFRt3pC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192792
+      }
+    },
+    {
+      "id": "kayden-break",
+      "name": "Kayden Break",
+      "alt_names": [
+        "카이든 브레이크",
+        "Casein Nitrate"
+      ],
+      "role": "protagonist",
+      "description": "Kayden is a secret agent on the run, who finds himself stuck in the body of a fat old fluffy cat. The strongest unaffiliated person in the world, capable to crush even those trained by the groups, which had accumulated vast amounts of data in their systems over the years. He is teaching Jiwoo about the awakened world as his teacher and coach.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193144-2Pl6tSHDcsYT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 193144
+      }
+    },
+    {
+      "id": "kartein",
+      "name": "Kartein",
+      "alt_names": [
+        "카르테인",
+        "Curtin"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229107-646DDB9F3sR1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229107
+      }
+    },
+    {
+      "id": "ji-seok-yu",
+      "name": "Ji-Seok Yu",
+      "alt_names": [
+        "유지석",
+        "Ji-Suk Yoo",
+        "Jisuk Yoo"
+      ],
+      "role": "supporting",
+      "description": "He is the younger brother of Ji-Yeong Yu, the CEO of Shinhwa Association.\n\nHe is one of the most powerful, if not the most powerful, awakened person in his age group in South Korea.  There are only a few teenage awakeners in Korea that are able to rival him. Like his sister, his awakened power is aerokinesis. \n\nHe is friends with U-In, Ji-U Seo and eventually Su-Bin Lee.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203358-TxnltPuA08Vc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 203358
+      }
+    },
+    {
+      "id": "ji-yeong-yu",
+      "name": "Ji-Yeong Yu",
+      "alt_names": [
+        "유지영",
+        "Ji-Young Yoo"
+      ],
+      "role": "supporting",
+      "description": "Being the leader of Shinhwa, Ji-Yeong Yu's responsibility is to teach new awakened ability users the basics and provide the most basic levels of support as well as keep the awakened world hidden from the normal world.\n\nShe is a famous highly ranked awakened wind ability user, the most powerful awakened in South Korea and has a good reputation. She's the older sister of Ji-Seok Yu.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203359-vnehUltk1dbX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 203359
+      }
+    },
+    {
+      "id": "u-in",
+      "name": "U-In",
+      "alt_names": [
+        "우인",
+        "Woo-In"
+      ],
+      "role": "supporting",
+      "description": "U-In was a student under Dr. Delein, and has no known last name that is currently revealed. He is an independent awakener with no affiliation. His ability is telekinesis. U-In becomes friends with Ji-U, Ji-Seok and Su-Bin.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b204368-7a9DZizjTgME.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 204368
+      }
+    },
+    {
+      "id": "su-bin-lee",
+      "name": "Su-Bin Lee",
+      "alt_names": [
+        "이수빈",
+        "Subin Lee"
+      ],
+      "role": "supporting",
+      "description": "She is the granddaughter of the Awakened Union leader. She is on par with Ji-Seok in terms of power, making her quite strong. She is friends with Ji-Seok, Ji-U, and U-In. Her ability is cryokinesis.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b204366-f1xzSxxa6i1B.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 204366
+      }
+    },
+    {
+      "id": "in-hyeok-gu",
+      "name": "In-Hyeok Gu",
+      "alt_names": [
+        "구인혁",
+        "In-Hyuk Goo"
+      ],
+      "role": "supporting",
+      "description": "He is known to be in the top 20 in the ranks of awakened people in Korea, however, his rank is unknown. He is often seen with Ji-Yeong as they assist matters of Shinhwa together.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215806-pWgcyJiQNo8K.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215806
+      }
+    },
+    {
+      "id": "seong-ha-park",
+      "name": "Seong-Ha Park",
+      "alt_names": [
+        "박성하"
+      ],
+      "role": "supporting",
+      "description": "Seong-Ha Park’s past has not yet been revealed, however he is a strong awakener as he is considered to be in the top 20 ranks of powerful awakeners in Korea. He is part of the Awakened Union and has close ties to the leadership of the group as shown by how highly Su-Bin Lee regards him.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215807-QRYO4Q0rYdAl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215807
+      }
+    },
+    {
+      "id": "i-seul-ju",
+      "name": "I-Seul Ju",
+      "alt_names": [
+        "주이슬",
+        "Iseul Ju"
+      ],
+      "role": "supporting",
+      "description": "She is the student representative of Mir, an organization made up of awakeners that specialize in controlling animals. Her ability is also animal control. \n\nI-Seul has a white pet dog that is very big and loves hugs. His name is Duri.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222929-nyvRFor9Nj4N.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222929
+      }
+    },
+    {
+      "id": "bo-yeong-choi",
+      "name": "Bo-Yeong Choi",
+      "alt_names": [
+        "최보영",
+        "Bo-Young Choi",
+        "Bo-Yeong Choe"
+      ],
+      "role": "supporting",
+      "description": "She is a friend of Jae-Hyeok Lee and one of the awakeners that the Shinhwa Association sent to the Awakened Academy. She does show a very cheerful persona, although it seems like she is cunning and sly. Not much is known about her abilities and fighting prowess, but it can be assumed that she is roughly at the same level as Jae-Hyeok as she was chosen by the Shinhwa Association to participate in the Awakened Academy. It can also be assumed that her ability is Aerokinesis like the rest of the members of Shinhwa.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222930-pJOBC6QnswXa.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222930
+      }
+    },
+    {
+      "id": "su-han-kang",
+      "name": "Su-Han Kang",
+      "alt_names": [
+        "강수한"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229094-YOKU46HCiA0k.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229094
+      }
+    },
+    {
+      "id": "su-man-kang",
+      "name": "Su-Man Kang",
+      "alt_names": [
+        "강수만"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229095-sOAWO5zGSwqw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229095
+      }
+    },
+    {
+      "id": "mi-yeong-go",
+      "name": "Mi-Yeong Go",
+      "alt_names": [
+        "고미영",
+        "Mi-Young Go"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229096-XURbEeFHfbql.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229096
+      }
+    },
+    {
+      "id": "ju-gyeong-kim",
+      "name": "Ju-Gyeong Kim",
+      "alt_names": [
+        "김주경",
+        "Ju-Kyeong Kim",
+        "Ju-Kyung Kim"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b229097-ATiwbtXQzqvz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 229097
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T09:23:42.714Z"
+}

@@ -1,0 +1,386 @@
+{
+  "work_id": "cells-at-work",
+  "count": 15,
+  "characters": [
+    {
+      "id": "sekkekkyuu-ae3803",
+      "name": "Sekkekkyuu AE3803",
+      "alt_names": [
+        "赤血球",
+        "Erythrocyte",
+        "Red Blood Cell"
+      ],
+      "role": "protagonist",
+      "description": "A newbie red blood cell, who has a bad sense of direction.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126975-Lqj6mlIEBaSA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126975
+      }
+    },
+    {
+      "id": "hakkekkyuu-u-1146",
+      "name": "Hakkekkyuu U-1146",
+      "alt_names": [
+        "白血球 U-1146番",
+        "Neutrophil",
+        "White Blood Cell (白血球)"
+      ],
+      "role": "protagonist",
+      "description": "He is a White Blood Cell, specifically a Neutrophil, working under the Neutrophil Division. Along with the other neutrophil comrades, he's tasked to patrol around the Blood Vessel and remove any invading Foreign Substances such as Germs and Viruses.\n\n(Source: Cells at Work Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126981-K1cB7bUIm6Mj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126981
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "supporting",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
+    },
+    {
+      "id": "kousankyuu",
+      "name": "Kousankyuu",
+      "alt_names": [
+        "好酸球",
+        "Eosinophil"
+      ],
+      "role": "supporting",
+      "description": "A type of White Blood Cell. Said to comprise only a small percent of all White Blood Cells. Multiplies during allergic reactions or parasitic infections. Though weak, Eosinophils are capable of phagocytosis, just like other White Blood Cells.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127041-ty1sUS3FPuh8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127041
+      }
+    },
+    {
+      "id": "b-saibou",
+      "name": "B Saibou",
+      "alt_names": [
+        "B細胞",
+        "B Cell"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127069-mTtHg0Y2XIhN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127069
+      }
+    },
+    {
+      "id": "macrophage",
+      "name": "Macrophage",
+      "alt_names": [
+        "マクロファ―ジ",
+        "Monocyte",
+        "単球",
+        "Tankyuu"
+      ],
+      "role": "supporting",
+      "description": "Her kind plays many roles in the body, from nursery school teachers to professional killers. Therefore, she bears many faces and personalities depending on which role she is playing. By default, Macrophage is a humble, easygoing cell manifesting as a mother figure who speaks in a polite manner. However, she can brutally kill intruders without showing empathy or mercy.\n\n(Source: cellsatwork.fandom.com)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127070-CKX6o5OFrf3R.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127070
+      }
+    },
+    {
+      "id": "killer-t-saibou",
+      "name": "Killer T Saibou",
+      "alt_names": [
+        "キラーT細胞",
+        "Killer T Cell",
+        "Killer T. Killer",
+        "メモリーＴ細胞",
+        "Memory T Saibou"
+      ],
+      "role": "supporting",
+      "description": "A T-cell who leads his own squad in exterminating pathogens.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127071-nBPvVFLiJ0N0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127071
+      }
+    },
+    {
+      "id": "kesshouban",
+      "name": "Kesshouban",
+      "alt_names": [
+        "血小板",
+        "Platelet"
+      ],
+      "role": "supporting",
+      "description": "Platelet is a type of cell working under the Platelet Division. She and her coworkers are responsible for reconstructing injuries and forming blood clots in the human body. Due to the Platelet's actual cell size, they are depicted as children. Platelet is a small, adorable cell with waist-length caramel blonde hair and brown eyes. She wears the Platelet uniform and is always seen working with her fellow workers.\n\nPlatelets play an important role in healing the body. They are powerless against threats; however, they are small and nimble thus able to move through bacterium under the protection of white blood cells to cover up wounds. Platelets also can aggregate together to close an open wound. They use a protein known as \"Von Willebrand Factor\" to help them, which functions similar to super-glue. Then, the \"Coagulation Factors\" in the blood will work to coat the blot with a net of Fibrin, causing it to solidify. She has a polite, bouncy personality that manifests a strong leadership to other Platelets. Her innocent and humble character made her loveable to other cells.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/127417-mK2MxesD0nrb.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 127417
+      }
+    },
+    {
+      "id": "mast-saibou",
+      "name": "Mast Saibou",
+      "alt_names": [
+        "マスト細胞",
+        "Fat Cell",
+        "Mast Cell",
+        "Himansaibou"
+      ],
+      "role": "supporting",
+      "description": "She is a white blood cell, specifically a Mast Cell (mastocyte or labrocyte). As a part of the immune system, she releases chemicals such as histamines and leukotrienes as a stimulus to excess production of IgE (Immunoglobulin E, an antibody produced by B Cells).\n\n(Source: Cells at Work Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132613-hGzZMccvotLh.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132613
+      }
+    },
+    {
+      "id": "hakkekkyuu-u-4989",
+      "name": "Hakkekkyuu U-4989",
+      "alt_names": [
+        "白血球 U-4989",
+        "White Blood Cell 4989"
+      ],
+      "role": "supporting",
+      "description": "He is a Neutrophil working under the Neutrophil Division and a close friend of U-1146, along with U-2001, U-2626 and U-2048. As a neutrophil, his purpose is to destroy bacteria invading the body.\n\n(Source: Cells at Work Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132614-40i6AcHl2dmS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132614
+      }
+    },
+    {
+      "id": "gan-saibou",
+      "name": "Gan Saibou",
+      "alt_names": [
+        "がん細胞",
+        "Cancer Cell"
+      ],
+      "role": "supporting",
+      "description": "He was born mutated because the normal cell who grew him made a copying error in his DNA. His mutation causes him to appear different from normal cells and to replicate uncontrollably, causing potentially deadly cancer.\n~!He was killed by U-1146 twice. It is still uncertain whether he will remain dead or return.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132615-sTziS26CL1Z8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132615
+      }
+    },
+    {
+      "id": "haien-kyuukin",
+      "name": "Haien Kyuukin",
+      "alt_names": [
+        "肺炎球菌",
+        "Pneumococcus Coccus"
+      ],
+      "role": "supporting",
+      "description": "He is a bacteria that causes illnesses such as pneumonia and pneumococcal bacteremia.\n\n(Source: Cells at Work Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132616-ZW9NSSZGLPFo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132616
+      }
+    },
+    {
+      "id": "kioku-saibou",
+      "name": "Kioku Saibou",
+      "alt_names": [
+        "記憶細胞",
+        "Memory Cell"
+      ],
+      "role": "supporting",
+      "description": "Memory Cell is a Lymphocyte that retains memories of a pathogen. They're prepared for for a second invasion by the same bacteria or virus.\n\n(Source: Cells at Work Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132617-U1sBIet9OFj1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132617
+      }
+    },
+    {
+      "id": "helper-t-saibou",
+      "name": "Helper T Saibou",
+      "alt_names": [
+        "ヘルパーT細胞"
+      ],
+      "role": "supporting",
+      "description": "A type of T Cell that determines strategy and course of action for dealing with foreign invaders. He's the main commander of the Killer T Cells and has an intellectual disposition. He and Killer T Cell do not get along well, despite having gone through T Cell training together\n\n(Source: Cells at Work Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132618-wcKdTgNhATos.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132618
+      }
+    },
+    {
+      "id": "sekkekkyuu-nt4201",
+      "name": "Sekkekkyuu NT4201",
+      "alt_names": [
+        "赤血球 NT4201",
+        "Junior Red Blood Cell",
+        "Red Blood Cell NT4201"
+      ],
+      "role": "supporting",
+      "description": "She is a new red blood cell and AE3803's junior. She is introduced to AE3803 by AA5100. Despite her lack of work experience, she is well educated with the cells and body. She and AE3803 do not get along well initially due to their different personalities. While she did not have a high opinion of her senior initially, NT4201 still remained polite and civil towards her. This changed when the body suffered a hemorrhage and it's very survival was in doubt. NT4201 panicked and gave up, thinking all was lost. But thanks to AE3803's dedication and wherewithal even to the point of complete exhaustion won her over. After the body was saved by a blood transfusion, NT4201 admitted to being wrong about AE3803. But she eventually learns the values of work experience and takes her senior's teachings to heart.\n\n(Source: Cells at Work Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n132619-Wl3KGURlTVv3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 132619
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T06:17:08.423Z"
+}

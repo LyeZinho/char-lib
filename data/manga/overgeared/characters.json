@@ -1,0 +1,363 @@
+{
+  "work_id": "overgeared",
+  "count": 15,
+  "characters": [
+    {
+      "id": "yeong-u-sin",
+      "name": "Yeong-U Sin",
+      "alt_names": [
+        "신영우",
+        "Greed",
+        "Shin Young-Woo",
+        "Grid"
+      ],
+      "role": "protagonist",
+      "description": "__Country:__ South Korea\n\nSin Yeong-U is the name of the main character in real life, while Greed is the in-game name.\n\nHe was an unlucky loser in life. He entered into debt to buy the gaming capsule needed to play the game Satisfy. He experienced a hard life and was forced into manual labor jobs to pay off the enormous debt, but he still played the game despite not being good at it.\n\nHis in-game character called Greed found unusual luck in a legendary class change item (Pagma's Rare Book) during an S-class quest. But hidden beneath that luck was his level dropping to -1. This was due to the legendary class change, and the failure of an SS rank quest by dying. He struggled to survive and made money in the world of Satisfy as the first negative leveled legendary class player.\n\n(Source: Overgeared Wiki)",
+      "metadata": {
+        "gender": "male",
+        "age": "26",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181138-x6TUq6eHkRkN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 181138
+      }
+    },
+    {
+      "id": "yu-ra",
+      "name": "Yu-Ra",
+      "alt_names": [
+        "유라",
+        "Blood Witch"
+      ],
+      "role": "supporting",
+      "description": "__Country:__ South Korea\n\nYu-Ra, known as the 'Blood Witch' and the 8th Servant of God Yatan, is a high ranked and powerful User.\n\nYu-Ra is a player best known for her beauty and support for the Yatan Church. She is a famous person who frequently appears on TV because of her beautiful appearance and outstanding abilities. Contrary to her creepy nickname of the ‘Blood Witch’, she was well loved and respected, as well as a target of envy. Thanks to her superb beauty, perfect gaming skills and ideal image in the media, she was praised by both men and women. It also transcended race. There were thousands of fan clubs created on overseas servers. At first glance, she was even more popular than Hollywood’s top actors.\n\nThroughout her life, she had been praised by everyone she met for her beauty and intelligence. She is smart enough to see anything through with logic. She used her innate insight on her work, earning her a reputation of a talented person who could be used everywhere. In fact, her control skills were so great that despite being a Black Magician, known for having very weak defense and insufficient attack power, she was at one point able to reach to fifth place on the unified rankings.\n\n~!She obtains the legendary class “Demon Slayer” after betraying the Yatan Church!~\n\n(Source: Overgeared Wiki)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b182899-xtrJI0Uwm2e0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 182899
+      }
+    },
+    {
+      "id": "jishuka",
+      "name": "Jishuka",
+      "alt_names": [
+        "지슈카"
+      ],
+      "role": "supporting",
+      "description": "__Country:__ Brazil ~!She laters becomes a South Korean citizen!~\n\nJishuka, the Bow Saint-Legendary Archer, also known as Godly Archer, is a high-ranked and powerful User. She is a Legendary Class holder, one of the main pillars and the Duke of Overgeared Kingdom.",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b182896-YFAm5E5hmQ8h.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 182896
+      }
+    },
+    {
+      "id": "irene",
+      "name": "Irene",
+      "alt_names": [
+        "아이린"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b242331-NNyf0yUahvs8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 242331
+      }
+    },
+    {
+      "id": "regas",
+      "name": "Regas",
+      "alt_names": [
+        "레가스",
+        "Roald Hoffmann"
+      ],
+      "role": "supporting",
+      "description": "__Country:__ United Kingdom",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b182891-hojxvJHxQE1I.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 182891
+      }
+    },
+    {
+      "id": "marie-rose",
+      "name": "Marie Rose",
+      "alt_names": [
+        "마리로즈"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Vampire\n\n~!In one of the current arcs of the web novel, she became Grid's 4th wife.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b291295-C8JbM7f1suJ6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 291295
+      }
+    },
+    {
+      "id": "lauel",
+      "name": "Lauel",
+      "alt_names": [
+        "Rail Smith"
+      ],
+      "role": "supporting",
+      "description": "__Country:__ United States ~!He later becomes a South Korean citizen!~",
+      "metadata": {
+        "gender": "male",
+        "age": "20-21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b322615-oP4EtFs2mvFL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 322615
+      }
+    },
+    {
+      "id": "euphemina",
+      "name": "Euphemina",
+      "alt_names": [
+        "유페미나",
+        "Erina"
+      ],
+      "role": "supporting",
+      "description": "Euphemina, the Mumud's Successor, formerly the Duplicator and the Earl of Eternal Kingdom, is a powerful User and a Private Ranker in Satisfy.\n\nShe is the first epic rated hidden class user. As a Duplicator, she secretly collects copies of high-grade spells from rankers and named NPCs. Because of her ability to cast these high-grade spells without chanting, people usually mistook her as having a legendary class and even stronger than Grid. Euphemina holds great pride in her looks. However, she has a complex about her short height and hates to be called a \"kid\".\n\n~!She is currently a Legendary Class holder, who can also become a Myth in the future, a Meritorious Retainer, an Earl, and one of the main pillars of the Overgeared Kingdom who works under the reign of Overgeared King Grid as one of his loyal retainers and Knights.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b182895-ksw8vYpMDV3E.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 182895
+      }
+    },
+    {
+      "id": "pon",
+      "name": "Pon",
+      "alt_names": [
+        "폰"
+      ],
+      "role": "supporting",
+      "description": "__Country:__ Spain",
+      "metadata": {
+        "gender": "male",
+        "age": "36",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b322610-eT7qB5gi1lI8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 322610
+      }
+    },
+    {
+      "id": "toon",
+      "name": "Toon",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "__Country:__ Italy ~!He later becomes a South Korean citizen!~",
+      "metadata": {
+        "gender": "male",
+        "age": "20s",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b322612-EwyybVImBhnz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 322612
+      }
+    },
+    {
+      "id": "piaro",
+      "name": "Piaro",
+      "alt_names": [
+        "피아로"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b242329-wBMCfRWWaS59.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 242329
+      }
+    },
+    {
+      "id": "ibellin",
+      "name": "Ibellin",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b322611-jJGUMXdudKcz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 322611
+      }
+    },
+    {
+      "id": "vantner",
+      "name": "Vantner",
+      "alt_names": [
+        "반트너"
+      ],
+      "role": "supporting",
+      "description": "__Country:__ Canada",
+      "metadata": {
+        "gender": "male",
+        "age": "30s",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b182890-gzil0Bn3C224.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 182890
+      }
+    },
+    {
+      "id": "toban",
+      "name": "Toban",
+      "alt_names": [
+        "토반"
+      ],
+      "role": "supporting",
+      "description": "__Country:__ United States",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b182894-mv8WQLiacGNY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 182894
+      }
+    },
+    {
+      "id": "faker",
+      "name": "Faker",
+      "alt_names": [
+        "페이커",
+        "Ray"
+      ],
+      "role": "supporting",
+      "description": "__Country:__ Canada",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b182898-f3T3yH0PXMZL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 182898
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T22:09:26.695Z"
+}

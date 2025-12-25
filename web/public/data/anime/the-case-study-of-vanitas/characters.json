@@ -1,0 +1,367 @@
+{
+  "work_id": "the-case-study-of-vanitas",
+  "count": 15,
+  "characters": [
+    {
+      "id": "vanitas",
+      "name": "Vanitas",
+      "alt_names": [
+        "ヴァ二タス",
+        "The Vampire of the Blue Moon"
+      ],
+      "role": "protagonist",
+      "description": "__Race:__ Human\n__Height:__ 176 cm (5'9\")\n__Occupation:__ Doctor\n__Partner:__ \tNoé Archiviste (now), Dante (former)\n\nVanitas is an average human being who inherited his name and the Book of Vanitas from the infamous vampire.\n\nHe seems to often take nothing seriously and almost always has a broad grin on his face. He acts more on emotions than thought most of the time since his plans are normally reckless. Also carries a mischievous air around him. \n\n~! When he was just a child, his parents were killed by a vampire. He was saved by the chasseurs and taken in. They trained him to become a chasseur but somewhere along the line, Vanitas caught Doctor Moreau's eye and became his research subject. According to Moreau, Vanitas went through multiple experiments that nearly killed him, and yet he never cried nor complained. The experiments continued until he and \"no. 71\" were rescued from Moreau's lab by Vanitas of the Blue Moon. Unlike no. 71, Vanitas hated Vanitas of the Blue Moon. The events that occurred afterwards are unknown, but Vanitas acquired the Book of Vanitas at some point. Since receiving the Book of Vanitas, Vanitas has dedicated his life to curing Curse-Bearing Vampires and considers himself a doctor of sorts as a result; using the power of the Book of Vanitas to restore a Curse-Bearer's true name. !~",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89590-K3RdKR4VnYM4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89590
+      }
+    },
+    {
+      "id": "noe-archiviste",
+      "name": "Noé Archiviste",
+      "alt_names": [
+        "ノエ・アルシヴィスト",
+        "Noe"
+      ],
+      "role": "protagonist",
+      "description": "__Race:__ Vampire\n__Height:__ 187 cm (6'1\")\n__Occupation:__ Student\n__Partner:__ \tVanitas\n\nNoé is a gentleman vampire.\n\nHis story began when he received a letter from The Teacher, which explained that The Teacher wanted Noé to fly to Paris immediately, as there had been rumors that The Book of Vanitas had been found there. The Teacher then specifically ordered Noé to discern The Book of Vanitas' true nature.",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89835-xnAJMex6Uq0U.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89835
+      }
+    },
+    {
+      "id": "jeanne",
+      "name": "Jeanne",
+      "alt_names": [
+        "ジャンヌ",
+        "The Hellfire Witch",
+        "Lord Ruthven's Bourreau"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Vampire\n__Occupation:__ Chevalier (now), Bourreau (previously)\n\nA vampire who acts as the Chevalier to Luca.\n\nJeanne is fiercely protective of Luca and gives off an air of rigidity and power while conducting her duty as his chevalier; however, she is prone to frantic outbursts, especially when in the presence of Vanitas, whom she dislikes. Due to her past as a bourreau, she is unused to having kindness directed towards her, and as a result, easily becomes flustered when she receives it.\n\n~!She later falls in love with Vanitas!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89836-xLr4mkxojjc3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89836
+      }
+    },
+    {
+      "id": "dominique-de-sade",
+      "name": "Dominique de Sade",
+      "alt_names": [
+        "ドミニク・ド・サド",
+        "Domi"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Vampire\n__Occupation:__ Aristocrat, Royal Guard\n\nNoé's childhood friend and the sister of Louis and Veronica. Her father is Count de Sade and her grandfather is Noé's teacher.\n\nShe is a flirtatious, playful, energetic, and charming young lady. She strides with style and elegance, even using a machine to spray rose petals when she first appears. However, she isn't afraid to hurt anyone who she suspects of harming those close to her.\n\n~! It is later revealed that Dominique and Louis are actually twins and because of that they were raised seperately since twins mean bad luck to vampires in their culture. Dominique blames herself for the death of Louis and at one point even cuts her hair to resemble him more because she thinks Noé would've preferred to have Louis live instead of her. !~",
+      "metadata": {
+        "gender": "female",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139553-Ni2xZ2U8aPii.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139553
+      }
+    },
+    {
+      "id": "murr",
+      "name": "Murr",
+      "alt_names": [
+        "ムル"
+      ],
+      "role": "supporting",
+      "description": "Noé's cat. Murr never shows any other emotion apart from irritability but seems to care a great deal for Noé - often times lurking in the shadows and watching Noé.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b146015-TTM14WCYx74X.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 146015
+      }
+    },
+    {
+      "id": "louis-de-sade",
+      "name": "Louis de Sade",
+      "alt_names": [
+        "ルイ・ド・サド"
+      ],
+      "role": "supporting",
+      "description": "He is a Vampire of the Crimson Moon. Louis had been born into the De Sade aristocracy alongside the likes of Veronica and Dominique de Sade, however because of certain circumstances Count de Sade sent him to live with his grandfather permanently. While living with his grandfather, Louis would come to meet Noé Archiviste and the two would become close friends.\n\n~! Early in his life Louis was assessed as a potential Curse-Bearer and later thanks to his grandfather would become consciously aware of his condition, which lead him down a path allowing him to resist Charlatan's attempts to control him. Despite this however, when Noé organized a plan to help Mina escape her imminent execution following her diagnosis as a Curse-Bearer - Louis' fear for Noé and Dominique's safety would allow Charlatan the opportunity he'd been waiting for. Louis would proceed to save Noé and Dominique by killing Mina, only to go rogue himself and kill Fanny and Gilles as well. In the end, Louis was killed by his own grandfather when Noé was unable to do so himself by Louis' request. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b146017-Ne3YSTuBIAI7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 146017
+      }
+    },
+    {
+      "id": "lucius-oriflamme",
+      "name": "Lucius Oriflamme",
+      "alt_names": [
+        "ルキウス・オリフラム",
+        "Luca (ルカ)"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Vampire\n__Occupation:__ Grand Duke\n__Partner:__ Jeanne\n\nHe is a Vampire of noble birth born to inherit the title of Grand Duke, Luca is close to The Queen, though he is still too young to accept the role himself, thus allowing his uncle, Lord Ruthven, to act on his behalf.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b153506-DC5iKSUyp1Sp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 153506
+      }
+    },
+    {
+      "id": "naenia",
+      "name": "Naenia",
+      "alt_names": [
+        "ネーニア"
+      ],
+      "role": "supporting",
+      "description": "Naenia is a mysterious ethereal entity from Jun Mochizuki's The Case Study of Vanitas. As a member of Charlatan, Naenia works alongside her colleagues, invading the subconscious of Vampires in order to inflict them with a Malnomen by distorting their true names. It is not presently known who Naenia is or what her motivations for doing so are.\n\n~!Later on, it's revealed Naenia is the malmomen of the first queen of the crimson moon.!~",
+      "metadata": {
+        "gender": "non-binary",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155248-TIy6LhGqTb4W.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155248
+      }
+    },
+    {
+      "id": "riche",
+      "name": "Riche",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "__Race:__ Dhampir\n__Occupation:__ Information Broker\n__Partner:__ \tDante, Johann\n\nRiche is a Dhampir who acts as an Information Broker. Often partnered with fellow Dhampirs, Dante and Johann, Riche commonly works on cases in relation to Curse-Bearing Vampires.\n\nRiche is a very scholarly and passionate woman, who often gets carried away talking about what interests her. She is also quick to apologize after sharing her knowledge, as she is self-conscious of her habit to overshare and ramble. She can be very competitive with her fellow information-brokers, but also cares for others deeply.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155327-GJ5jjDuiglEh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155327
+      }
+    },
+    {
+      "id": "dante",
+      "name": "Dante",
+      "alt_names": [
+        "ダンテ",
+        "Baldy"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Dhampir\n__Occupation:__ Information Broker\n__Partner:__ \tJohann (now), Riche (now), Vanitas (former)\n\nDante is a Dhampir acting as an insurance broker and jack-of-all-trades, he often partners with Vanitas, selling him information or working alongside him in pursuit of Curse-Bearing Vampires.\n\nDante tends to be rather carefree when dealing with Vanitas - though he is easily annoyed by his employer and partner - particularly when Vanitas addresses him as \"Baldy.\" The two often take jabs at each other playfully, though in reality they enjoy each other's company. In a lot of instances Dante shows that he is very protective of those closest to him by nature. Dante is scared of dark and creepy places, like the catacombs and the forest.",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155328-odVkNctgtTp0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155328
+      }
+    },
+    {
+      "id": "johann",
+      "name": "Johann",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "__Race:__ Dhampir\n__Occupation:__ Informant\n__Partner:__ \tDante, Riche\n\nJohann is a Dhampir who acts as an information broker and associate of Dante and Riche's.\n\nJohann typically displays a flamboyant personality, characterized by his often animated facial expressions and a teasing and flirtatious manner of speech. He is physically affectionate and has a tendency of brushing against people or wrapping his arm around them when talking. However, when pushed far enough Johann will do anything to defend his fellow dhampirs, whom he sees as family.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155329-iTKKoVhnjfdw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155329
+      }
+    },
+    {
+      "id": "sensei",
+      "name": "Sensei",
+      "alt_names": [
+        "先生",
+        "The Master",
+        "The Shapeless One"
+      ],
+      "role": "supporting",
+      "description": "The Master belongs to the de Sade aristocracy - being the grandfather of Dominique de Sade - and is widely feared by many.\n\n(Source: Pandora Hearts Wikia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b230438-6Cj7opQNCiFH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 230438
+      }
+    },
+    {
+      "id": "sougetsu-no-kyuuketsuki-vanitas",
+      "name": "Sougetsu no Kyuuketsuki Vanitas",
+      "alt_names": [
+        "蒼月の吸血鬼　\"ヴァニタス\"",
+        "Vanitas of the Blue Moon",
+        "Tou-san (とうさん)",
+        "Father",
+        "Luna (ルーナ)"
+      ],
+      "role": "supporting",
+      "description": "Vanitas of the Blue Moon is a vampire. According to legend, they were born under the Blue Moon and were the ostensible creator of the Book of Vanitas and the disease Malnomen. It was their intent to destroy vampires through the corruption of their True Name, hoping to take revenge for a lifetime of prosecution for their birth. This power would be passed onto their kin, prophesied to bring about the end of all vampires.\n\n(Source: Mochizuki Jun Wiki)",
+      "metadata": {
+        "gender": "non-binary",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b236204-j2oLxMGsmdxY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 236204
+      }
+    },
+    {
+      "id": "amelia-ruth",
+      "name": "Amelia Ruth",
+      "alt_names": [
+        "アメリア・ルース",
+        "Florifel",
+        "Eglantine"
+      ],
+      "role": "supporting",
+      "description": "Amelia Ruth is a woman Noé meets during a trip to Paris aboard La Baleine.\n\n~!Amelia, a vampire, was stricken with a malady that warped her true name, becoming Eglantine, the Prison of Briars, and lashed out at Noé shortly after meeting him. Vanitas managed to cure Amelia's ailment with the Book of Vanitas, revealing her true name to be Florifel, She Who Guides Spring. After being cured by Vanitas, Amelia was left on La Baleine and later taken into custody by Count Parks Orlok. Thanks to the efforts of Vanitas and Noé, Amelia was released from her previously scheduled execution under the condition that she remain under Count Orlok's watch in case she experienced a relapse. She is currently employed as a maid at Hôtel Chouchou.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b236210-pZ3EJCSJNmqG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 236210
+      }
+    },
+    {
+      "id": "parks-orlok",
+      "name": "Parks Orlok",
+      "alt_names": [
+        "パークス・オルロック",
+        "Count"
+      ],
+      "role": "supporting",
+      "description": "Parks Orlok is the appointed representative of the Vampires by The Queen following the war between humans and Vampires; tasked with maintaining a balance between the human and Vampire worlds by watching over Vampire-related activities.\n\n(Source: The Mochizuki Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b242839-nwq2Mg2hk9O6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 242839
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T08:29:58.974Z"
+}

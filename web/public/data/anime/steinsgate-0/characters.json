@@ -1,0 +1,431 @@
+{
+  "work_id": "steinsgate-0",
+  "count": 15,
+  "characters": [
+    {
+      "id": "rintarou-okabe",
+      "name": "Rintarou Okabe",
+      "alt_names": [
+        "岡部倫太郎",
+        "Rintaro",
+        "Hououin Kyouma (鳳凰院凶真)",
+        "Okarin (オカリン)",
+        "Mad Scientist",
+        "Future Gadget Lab Member #001",
+        "Lintahlo",
+        "M3",
+        "Salieri's Neighbor",
+        "Rinta-kun"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 177 cm (5'10\")\n\nOkabe Rintarou is a first-year student attending Tokyo Denki University and calls himself a Crazy Mad Scientist. He acts like a villain​ but is rather immature as he frequently shows traits of Chuunibyou syndrome despite being a grown-up man. After enrolling in university, he established a laboratory in Akihabara named the \"Future Gadget Research Establishment\", where he invents gadgets which tend to be of little use. He often speaks to himself on his cellphone, often not making any sense. Supposedly, he has very few friends that can understand what he's talking about.\n\nThe phrase he uses to end conversations, particularly with himself, is \"El Psy Kongroo\" (エル・プサイ・コングルゥ).\n\nSteins;Gate:\n~!Eventually, he falls in love with, and confesses to, Makise Kurisu.!~\n\nSteins;Gate 0:\n~!In the future of the Alpha world line, Okabe became the leader of the resistance against SERN's rule, and was known as an international terrorist (in the side story \"The Distant Valhalla\", it's revealed that SERN released Okabe and Daru so that they could found the resistance, thus completing the cycle of fate). Okabe got captured by SERN's Rounder unit in 2025 and was tortured to death.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": "1991-12-14"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35252-DY9TW6pusqeh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 35252
+      }
+    },
+    {
+      "id": "kurisu-makise",
+      "name": "Kurisu Makise",
+      "alt_names": [
+        "牧瀬紅莉栖",
+        "Christina",
+        "Assistant",
+        "American Virgin",
+        "Perverted Genius Girl",
+        "Celeb 17",
+        "The Zombie",
+        "Kuu-meow",
+        "k.makise",
+        "KuriGohan Kamehameha",
+        "Lab Member 004",
+        "KURI_KAME"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 160 cm (5'3\")\n\nKurisu is a research member in Viktor Chondria University's Brain Research Program. Her age group matches that of third-year high schoolers, but she skipped a grade through America's educational system. She is also famous in America for writing theses papers, part of which is covered in the news. Thanks to skipping a grade in America as a girl, she was envied by people around her, and ended up building a strong personality. She does not want to show weakness to others, so she always has a stern expression. However, she is very curious, and when she builds interest, she pokes into things. Occasionally, she has views that differ from regular opinions, such as, \"The experiment data is more important than the subject's privacy.\" Rintarou often tells her, \"Hey, you've got a pretty good sense of being a Mad Scientist,\" but she is not one to agree to such things personally. She is a tsundere.",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": "1992-07-25"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b34470-Jw2LXZBL5R8i.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 34470
+      }
+    },
+    {
+      "id": "maho-hiyajou",
+      "name": "Maho Hiyajou",
+      "alt_names": [
+        "比屋定真帆 ",
+        "Hiyajo",
+        "Maho-meow",
+        "Lab Member 009",
+        "Salieri",
+        "Loli Girl",
+        "Safina"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 140 cm (4’7”)\n\nAnother researcher at Victor Concordia University's Neuroscience Lab, similar to Kurisu. She attends a lecture at Okabe's university as Professor Leskinen's assistant.  ~! The same lecture drives Okabe into another conspiracy, after he had given up on his passion for time machines and for Kurisu!~",
+      "metadata": {
+        "gender": "female",
+        "age": "21",
+        "dateOfBirth": "1989-11-02"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b83419-p2gjgTL37GTU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 83419
+      }
+    },
+    {
+      "id": "mayuri-shiina",
+      "name": "Mayuri Shiina",
+      "alt_names": [
+        "椎名まゆり",
+        "Mayushii",
+        "Mayu",
+        "Lab Member 002"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 151 cm  (4'11\")\n\nSecond year in Kasensou Private Prepatory Academy. Childhood friend of Rintarou's, and slow by nature. Speaks in a very wavy manner, and seems to always be smiling and having fun. She's quite the optimist. She has trouble understanding complicated theories, but doesn't mind as long as it's enjoyable. Doesn't like people arguing, and is depressed when things are unpleasant. Though she'd like to ease the situation in such cases, she's not really good at reading between the lines. She often went with her grandmother to see the stars on her grandmother's back. Because of that, she has a habit of reaching her arm out to the sky at times, which has led Rintarou to naming it the \"Stardust Shakehand\". She abruptly does this (even if she's talking with someone), which surprises everyone around her.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": "1994-02-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35253-u6QVgLLyHq2W.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 35253
+      }
+    },
+    {
+      "id": "suzuha-amane",
+      "name": "Suzuha Amane",
+      "alt_names": [
+        "阿万音鈴羽",
+        "Suzu",
+        "Part-Time Warrior",
+        "008",
+        "Suzu-meow",
+        "The Silent Slaughterer"
+      ],
+      "role": "protagonist",
+      "description": "__Height__: 163 cm (5'4\")\n\nA girl that really likes riding bicycles, and is quite energetic, though a little crude. If you stick around her, she's surprisingly cautious. Very helpful. A little too familiar with things, but doesn't dig too deep. Not quite comfortable with having other people help her. For that reason, she spends as little time as possible. Her personality drastically changes when it comes to her own interests. Proactive. Has a habit of using strange and difficult vocabulary at times, but somehow you can tell she's purposely doing so. Ended up hanging out with the Future Gadget Laboratory since she started working at the CRT TV Workshop.   \n\n~!It is revealed in Episode 14 that she came from the year 2036 to save the world from SERN's rule. Therefore, she used the name John Titor on Internet boards so that Okabe and the others would notice. She was the one who sent the time machine crashing into Akihabara in 2010, right when the Phone Microwave was being developed. This time machine, revealed to have been created by Daru, could only go back in time, but could never go to the future.  In order to find the IBN 5100, Suzuha decides to go back to 1975 and then bring it to Okabe to stop SERN. In deciding so, she would have to leave 2010 and wouldn't be able to come back. Dedicated to her mission, she decides to go. A few hours after her departure, Okabe and the others receive a letter from her, written in the year 2000. It revealed that she had failed to retrieve the PC, due to the time machine's malfunction, causing her to lose her memory until the year 2000. It was revealed by Mr. Braun that she had committed suicide that day, but thanks to the D-Mail Okabe sent, her death changed from suicide to illness. This caused the meter to raise its number, but not up to 1%.  In the Drama CD, it's revealed that after going back to 1975, she later became a professor in Akiha Yukitaka's and Nakabachi (then Makise Shouichi)'s university, and started their interest in the creation of a time machine.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": "2017-09-27"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35255-Ra9Aq5Kn9lYq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 35255
+      }
+    },
+    {
+      "id": "itaru-hashida",
+      "name": "Itaru Hashida",
+      "alt_names": [
+        "橋田至",
+        "Daru",
+        "Perverted Gentleman",
+        "Super Hakar",
+        "Hack",
+        "DaSH",
+        "DaSP",
+        "Mr. Smileybear",
+        "Daru-meow",
+        "Lab Member 003"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 164 cm (5'5\")\n\nFirst-year student at Tokyo Denki University. Pro-active otaku, who's got a thing for both 2-D and 3-D girls. Plenty of statements he makes could be taken as sexual harassment. He and Rintarou have known each other since high school. He usually dismissed Rintarou's ridiculous requests as \"annoying\", but actually completes them well, and trusts Rintarou as a friend. Has great confidence in his programming and hacking abilities (he doesn't mind being called a Super Hacker, but doesn't like it when people call him Super Haker). He's always in front of the computer.",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": "1991-05-19"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35258-FeTGR4LEUNvt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 35258
+      }
+    },
+    {
+      "id": "luka-urushibara",
+      "name": "Luka Urushibara",
+      "alt_names": [
+        "漆原るか",
+        "Lukako",
+        "Ruka",
+        "Rukako",
+        "Ruka-meow",
+        "Lab Member 006",
+        "Warrior"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 161 cm (5'3\")\n\nSecond year in Kasensou Private Prepatory Academy. Mayuri's classmate. Luka has the personality of a polite, well-groomed, and justified kind of person. Uses honorifics specifically with Rintarou. Luka doesn't push their opinions much upon others, but when they do they become quite bashful and blush quite a bit. Because they're quite serious by nature, they simply believe what others say. Thanks to that, Luka thinks all the ridiculous stuff Rintarou talks about is real. Rintarou makes them out to be his student on their own, and is currently in the middle of brainwashing them. A very shy person, Luka often turns down Mayuri's requests to cosplay.  ~!In Episode 8, Luka succeeded in changing their sex to female by sending a message to their mother's pager, telling them to consume more vegetables to alter their sex.!~   ~!In exchange of dating Rintarou, Luka undid their message which turned back their sex to male again. !~",
+      "metadata": {
+        "age": "16",
+        "dateOfBirth": "1993-08-30"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b30919-5PjiA4ucfuuJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 30919
+      }
+    },
+    {
+      "id": "rumiho-akiha",
+      "name": "Rumiho Akiha",
+      "alt_names": [
+        "秋葉留美穂",
+        "Rumi",
+        "Faris Nyan Nyan",
+        "Feyris",
+        "Cheshire Cat",
+        "Lab Member 007"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 143 cm (4'8\")\n  \nSecond year in Kanaria Private Academy. Faris is someone who works part-time at a maid cafe called \"MayQueen+Nyan2\". Mayuri works with her. She's quite child-like. Acts like a childish devil towards men. Also adds embarrassing \"meows\" to her speech. Has an ability to see into people's hearts just by looking into their eyes (which she calls the \"Cheshire Break\"). Respects her father a lot, as well as having a father complex.   \n\n ~!She sends a D-Mail to her dad to prevent his death. In the timeline that her dad is alive, he doesn't let her open MayQueen+Nyan2, the maid cafe that has brought moe to Akihabara, so the city does not have anything moe in this timeline.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35256-A729dmHEgSYQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 35256
+      }
+    },
+    {
+      "id": "moeka-kiryuu",
+      "name": "Moeka Kiryuu",
+      "alt_names": [
+        "桐生萌郁",
+        "Kiryu",
+        "Shining Finger",
+        "Moe-meow",
+        "Lab Member 005"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 167 cm  (5'6\")\n\nA tall girl that Rintarou bumps into in Akihabara and is on a search for the IBN 5100 personal computer. Moeka is extremely protective of her mobile phone and becomes agitated if someone tries to take it from her hands. She is very shy and prefers to talk to someone by sending them a text message instead of speaking.   \n\n~!In Episode 12 it is revealed that she's in fact a Rounder member, a unit belonging to SERN. Her codename is M4. In multiple timelines of the Alpha attractor field, she is the one who kills Mayuri.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35257-uepVZyOvuqhi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 35257
+      }
+    },
+    {
+      "id": "yuugo-tennouji",
+      "name": "Yuugo Tennouji",
+      "alt_names": [
+        "天王寺裕吾",
+        "Tennoji",
+        "Mr. Braun"
+      ],
+      "role": "supporting",
+      "description": "Owner of the CRT TV Workshop set up in the first floor of the Oohiyama building. Also the landlord. Widower. Has an only daughter by the name of Nae, though he's the only one who loves CRTs. Hates LCDs with a passion, and perhaps anarchic. Though he's not quite enthusiastic in the CRT TV Workshop, for some reason he doesn't seem like he'd go bankrupt anytime soon.  Nicknamed \"Mr. Brown\" by Rintarou, due to the loan word \"Braun\" used in the Japanese term for CRTs (ブラウン管).   ~! In episode 20, it is revealed that he's actually a veteran SERN henchman. In the Alpha world line, he was acquainted with Suzuha (who traveled back to 1975 and took the name \"Hashida Suzu\") and was taken care of by her for some time. He commands the Rounder unit (including Moeka)  in Akihabara, under SERN's order to search for the IBN 5100. After Moeka successfully stole it, he was responsible for transferring the computer to SERN.  In the anime, after Moeka and Rintarou found out about his identity, he confessed that he got close to Suzuha due to SERN's order. As Rounder members were to kill themself after finishing their mission, in order to protect his daughter, he killed Moeka and himself.  In the VN, after he found out the relation Hashida Suzu had to the time machine and the future, he regretted his actions, and committed suicide. His death caused Nae to become vengeful, especially against Okabe and Moeka. She later became the Rounder commander, and killed Okabe in 2025, then time-leaped 15,000 times back to the time of his death to kill Moeka.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "32",
+        "dateOfBirth": "1978-03-12"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b38558-E4By0N5JXskJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 38558
+      }
+    },
+    {
+      "id": "nae-tennouji",
+      "name": "Nae Tennouji",
+      "alt_names": [
+        "天王寺綯",
+        "Sister Braun",
+        "Sergeant Clean"
+      ],
+      "role": "supporting",
+      "description": "[Tennouji Yuugo's](https://anilist.co/character/38558) only daughter, in grade school. Really loves her father, and often shows up at the CRT TV Workshop on the way home from school. She's a bit docile. Thinks of Mayuri as her \"older sister\", but is often frightened by Itaru and Rintarou.  \n\nOn [__Robotics;Notes__](https://anilist.co/anime/13599/RoboticsNotes/) Nae returns in Robotics;Notes as an important member of the cast and while not part of the Robot Research Club she provides assistance to them via ties at her job at JAXA (Japan Aerospace Exploration Agency)",
+      "metadata": {
+        "gender": "female",
+        "age": "11 (Steins;Gate), 20-21 (Robotics;Notes)",
+        "dateOfBirth": "1998-11-09"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b38559-s2jG8GbHLdI2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 38559
+      }
+    },
+    {
+      "id": "yuki-amane",
+      "name": "Yuki Amane",
+      "alt_names": [
+        "阿万音由季"
+      ],
+      "role": "supporting",
+      "description": "~!She is the future wife of Hashida Itaru, with whom she will have a daughter named Suzuha. In the Alpha world line, her husband invents a time machine in 2036, which Suzuha uses to travel back in time. !~\n\n~!In the manga \"Boukan no Rebellion\", it's revealed that Yuki is killed by Tennouji Nae, moments before Suzuha uses the time machine.\nIn the anime (Steins;Gate 0), however, Yuki dies saving Suzuha (World Line: Beta)!~",
+      "metadata": {
+        "gender": "female",
+        "age": "22",
+        "dateOfBirth": "1988-05-31"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b57403-r7ox34brRVJL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 57403
+      }
+    },
+    {
+      "id": "kagari-shiina",
+      "name": "Kagari Shiina",
+      "alt_names": [
+        "椎名かがり",
+        "Kana",
+        "Kagari-tan",
+        "Kaga-meow"
+      ],
+      "role": "supporting",
+      "description": "~!Adopted daughter of Shiina Mayuri from the year 2036. She travels with Suzuha Amane in the time machine back to 1998 and is separated, causing her to be 22 years old in 2010. She's found with amnesia.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "10 (2036); 22 (2010)",
+        "dateOfBirth": "2026-07-07"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126104-51UIwJ3ZnbTi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126104
+      }
+    },
+    {
+      "id": "alexis-leskinen",
+      "name": "Alexis Leskinen",
+      "alt_names": [
+        "アレクシス・レスキネン"
+      ],
+      "role": "supporting",
+      "description": "An American professor and senior researcher at Victor Chondria University's Brain Research Institute. He serves as a mentor to Kurisu Makise and Maho Hiyajo. He is well respected in his field and is often described as childlike and friendly by Maho Hiyajo.\n~!He works for Stratfor and destroyed the time machine several times directly and indirectly!~\n\n~!He brainwashed Kagari in the future and sent her back in time to contact his past self about the time machine!~",
+      "metadata": {
+        "gender": "male",
+        "age": "34",
+        "dateOfBirth": "1976-08-23"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126105-rQd5KLcYgtvi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126105
+      }
+    },
+    {
+      "id": "kaede-kurushima",
+      "name": "Kaede Kurushima",
+      "alt_names": [
+        "来嶋かえで"
+      ],
+      "role": "supporting",
+      "description": "One of Mayuri's cosplayer friends.\nWhen attending events, she likes to wear the costumes Mayuri makes.",
+      "metadata": {
+        "gender": "female",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126251-DCxqXhRRQIaF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126251
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T02:40:44.624Z"
+}

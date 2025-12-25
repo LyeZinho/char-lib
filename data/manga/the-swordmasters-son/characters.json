@@ -1,0 +1,359 @@
+{
+  "work_id": "the-swordmasters-son",
+  "count": 15,
+  "characters": [
+    {
+      "id": "jin-runcandel",
+      "name": "Jin Runcandel",
+      "alt_names": [
+        "진 룬칸델"
+      ],
+      "role": "protagonist",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283698-C2XgjcEngPrD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283698
+      }
+    },
+    {
+      "id": "murakan",
+      "name": "Murakan",
+      "alt_names": [
+        "무라칸",
+        "Shadow Dragon",
+        "Black Dragon Murakan"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300074-7BlAQUdttfag.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300074
+      }
+    },
+    {
+      "id": "luna-runcandel",
+      "name": "Luna Runcandel",
+      "alt_names": [
+        "루나 룬칸델",
+        "White Whale"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300073-m10zgAYTHLqQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300073
+      }
+    },
+    {
+      "id": "valeria-heaster",
+      "name": "Valeria Heaster",
+      "alt_names": [
+        "발레리아 히스터",
+        "Aria Owlheart (아리아 아울하트)"
+      ],
+      "role": "supporting",
+      "description": "Jin's magic mentor in his previous life. She is the sole survivor of the Heaster family, which was annihilated by Zipple.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382913-c37hi0KwzHH8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382913
+      }
+    },
+    {
+      "id": "quicantel",
+      "name": "Quicantel",
+      "alt_names": [
+        "퀴칸텔",
+        "Cuicantelle"
+      ],
+      "role": "supporting",
+      "description": "The Silver Dragon of Time.The guardian dragon of the Olta Contractor. She and Murakan were lovers for approximately 500 years, 1000 years ago.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b383131-aymj5C1kCQ7d.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 383131
+      }
+    },
+    {
+      "id": "chiron-runcandel",
+      "name": "Chiron Runcandel",
+      "alt_names": [
+        "시론 룬칸델",
+        "Genesis Knight"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300024-8hYOgbK2Z0ke.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300024
+      }
+    },
+    {
+      "id": "joshua-runcandel",
+      "name": "Joshua Runcandel",
+      "alt_names": [
+        "조슈아 룬칸델",
+        "Runcandel's 2nd Flagbearer"
+      ],
+      "role": "supporting",
+      "description": "Joshua is the 2nd flagbearer of the Runcandel family and the current heir to the patriarchy.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300075-gqPMfM6a86Bp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300075
+      }
+    },
+    {
+      "id": "shuri-runkandel",
+      "name": "Shuri Runkandel",
+      "alt_names": [
+        "슈리 룬칸델"
+      ],
+      "role": "supporting",
+      "description": "Originally witch Heluram's pet cat. Later made a pact with Jin, becoming Jin's cat.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382333
+      }
+    },
+    {
+      "id": "veradin-zipple",
+      "name": "Veradin Zipple",
+      "alt_names": [
+        "베라딘 지플"
+      ],
+      "role": "supporting",
+      "description": "The youngest son of Kelliak Zipple and a powerful next-generation head of the family.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382335-KQEBVhl9kEjU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382335
+      }
+    },
+    {
+      "id": "garmund",
+      "name": "Garmund",
+      "alt_names": [
+        "가르문드"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382334-MH56uC7uRoqs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382334
+      }
+    },
+    {
+      "id": "lani-salome",
+      "name": "Lani Salome",
+      "alt_names": [
+        "라니 살로메"
+      ],
+      "role": "supporting",
+      "description": "She's the adopted daughter of the Holy King of Bankela.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382486-mAEqTgAEMNsZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382486
+      }
+    },
+    {
+      "id": "yulia-alprion",
+      "name": "Yulia Alprion",
+      "alt_names": [
+        "유리아 알프리온"
+      ],
+      "role": "supporting",
+      "description": "Az Mil's contractor. Casimir's daughter. Her favorite food is seafood stew. She initially called Jin \"uncle\" after learning of his past life, but now calls him \"oppa.\"",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382487-AdigkiHChRg8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382487
+      }
+    },
+    {
+      "id": "misha",
+      "name": "Misha",
+      "alt_names": [
+        "미샤"
+      ],
+      "role": "supporting",
+      "description": "Murakan's older sister.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b382485-rxza58PBvXHk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 382485
+      }
+    },
+    {
+      "id": "rosa-runcandel",
+      "name": "Rosa Runcandel",
+      "alt_names": [
+        "로사 룬칸델",
+        "Black Panther"
+      ],
+      "role": "supporting",
+      "description": "She is the lady of the Runcandel house. Rosa sports long straight black hair.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b300072-5CXvBsxog4oe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 300072
+      }
+    },
+    {
+      "id": "tuyan",
+      "name": "Tuyan",
+      "alt_names": [
+        "투얀"
+      ],
+      "role": "supporting",
+      "description": "Water dragon. One of the guardian dragons of Veradin Zipple.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b383129-iG7Ioowspoci.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 383129
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T16:13:12.492Z"
+}

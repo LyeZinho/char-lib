@@ -1,0 +1,150 @@
+{
+  "work_id": "tamen-de-gushi",
+  "count": 6,
+  "characters": [
+    {
+      "id": "jing-sun",
+      "name": "Jing Sun",
+      "alt_names": [
+        "孙璟",
+        "Sūn Jǐng"
+      ],
+      "role": "protagonist",
+      "description": "Sun Jing is the main protagonist of Tamen de Gushi. She's a freshman, seventh class at Second High School. She's completely and utterly in love with Qiu Tong.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n125879-Fjol09Y8IbQA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125879
+      }
+    },
+    {
+      "id": "tong-qiu",
+      "name": "Tong Qiu",
+      "alt_names": [
+        "秋瞳",
+        "Qiū Tóng"
+      ],
+      "role": "protagonist",
+      "description": "Qiu Tong is a main protagonist of Tamen de Gushi. She is a second year in class 3 of South High. Qiu Tong is pretty popular at her school, but despite that has only a few friends. She is the love interest of Sun Jing.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n125887-9LGjaiWPTHAn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125887
+      }
+    },
+    {
+      "id": "fang-qi",
+      "name": "Fang Qi",
+      "alt_names": [
+        "祁放",
+        "Qí Fàng",
+        "Mophead"
+      ],
+      "role": "supporting",
+      "description": "Qi Fang is Sun Jing's best friend. He attends Second High and is in the same class as her.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n125957-o6wmk9uWXZKn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125957
+      }
+    },
+    {
+      "id": "xiaonan-mo",
+      "name": "Xiaonan Mo",
+      "alt_names": [
+        "莫小南"
+      ],
+      "role": "supporting",
+      "description": "Xiaonan Mo has a crush on Jing Sun. She attends Second High but is in a different class.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135461-WZF4nks5JFOt.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135461
+      }
+    },
+    {
+      "id": "xuezhang",
+      "name": "Xuezhang",
+      "alt_names": [
+        "学长",
+        "Upperclassman"
+      ],
+      "role": "supporting",
+      "description": "Despite his intimidating appearance, Xuezhang is a good-hearted and stoic person who quietly wants his affections returned by his underclassman Qin Xiong.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191830-cVcQvUcsy7T2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191830
+      }
+    },
+    {
+      "id": "xiong-qin",
+      "name": "Xiong Qin",
+      "alt_names": [
+        "秦雄"
+      ],
+      "role": "supporting",
+      "description": "Qin Xiong is the classmate of Sun Jing. He attends Second High and is in the same class as her (1st year, Class 7). Qin Xiong is the love interest of his Xuezhang (upperclassman).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191831-ddlg87SadcbU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 191831
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T15:42:23.678Z"
+}

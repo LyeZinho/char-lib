@@ -1,0 +1,352 @@
+{
+  "work_id": "ranking-of-kings",
+  "count": 15,
+  "characters": [
+    {
+      "id": "bojji",
+      "name": "Bojji",
+      "alt_names": [
+        "ボッジ"
+      ],
+      "role": "protagonist",
+      "description": "The firstborn prince of the Bosse Kingdom.\nBojji was born abnormally small, weak, and deaf. He is a powerless prince who has lived his life under the shadow of his father, the legendary [King Bosse](https://anilist.co/character/244198/). He wants to be the world's greatest king, following his father\n\nBojji is extremely hard-working and sincere, and these traits draw people towards him even if they can't always understand him.\n\n~!He learns how to wield a sword thanks to [Despa](https://anilist.co/character/244201/). Despa helps him overcome his physical limitations, by making use of his agility and precision\nIt was later revealed that the reason why he is so weak is because back when his father was still a wandering adventurer, he made a deal with a demon to take the strength from his yet-unborn first son (Bojji) and give it to him. This made Bosse the strongest man in the world, but took away the physical strength of Bojji in turn.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209532-s7ciwKqKrIw7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209532
+      }
+    },
+    {
+      "id": "kage",
+      "name": "Kage",
+      "alt_names": [
+        "カゲ",
+        "Ombre"
+      ],
+      "role": "protagonist",
+      "description": "Kage is a literal shadow who becomes Bojji’s first friend.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209533-bICkAMcaURRi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209533
+      }
+    },
+    {
+      "id": "bosse",
+      "name": "Bosse",
+      "alt_names": [
+        "ボッス"
+      ],
+      "role": "supporting",
+      "description": "The king of Bosse Kingdom and Bojji and Daida's father. He placed seventh in the king's ranking.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244198-vkPkU32k7PzJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244198
+      }
+    },
+    {
+      "id": "domas",
+      "name": "Domas",
+      "alt_names": [
+        "ドーマス"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b231130-tIxKAGU2TRqc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 231130
+      }
+    },
+    {
+      "id": "hiling",
+      "name": "Hiling",
+      "alt_names": [
+        "ヒリング"
+      ],
+      "role": "supporting",
+      "description": "[King Bosse](https://anilist.co/character/244198/)'s second wife, current Queen. She is [Daida](https://anilist.co/character/231128/)'s biological mother and [Bojji](https://anilist.co/character/209532/Bojji)'s step mother. Originally a priestess from a neighboring territory/kingdom.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b231129-zqBZvJ7LC6cp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 231129
+      }
+    },
+    {
+      "id": "daida",
+      "name": "Daida",
+      "alt_names": [
+        "ダイダ"
+      ],
+      "role": "supporting",
+      "description": "He is the second prince and second king of the Bosse Kingdom. He is the son of Bosse and Hilling, and the younger brother of Bojji.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b231128-QLOHN2XVZPrq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 231128
+      }
+    },
+    {
+      "id": "apeas",
+      "name": "Apeas",
+      "alt_names": [
+        "アピス"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b231131-Rj1DjdCfzAoq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 231131
+      }
+    },
+    {
+      "id": "dorshe",
+      "name": "Dorshe",
+      "alt_names": [
+        "ドルーシ"
+      ],
+      "role": "supporting",
+      "description": "[Hiling](https://anilist.co/character/231129/)'s bodyguard.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b231132-i4LgVva9PoDz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 231132
+      }
+    },
+    {
+      "id": "bebin",
+      "name": "Bebin",
+      "alt_names": [
+        "ベビン"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b231133-3sWxcBsbchzH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 231133
+      }
+    },
+    {
+      "id": "hokuro",
+      "name": "Hokuro",
+      "alt_names": [
+        "ホクロ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b231134-GkJQzlJESfK0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 231134
+      }
+    },
+    {
+      "id": "sheena",
+      "name": "Sheena",
+      "alt_names": [
+        "シーナ"
+      ],
+      "role": "supporting",
+      "description": "The former queen and the biological mother of [Bojji](https://anilist.co/character/209532/).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244199-rtESJ9DuHxmJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244199
+      }
+    },
+    {
+      "id": "mahou-no-kagami",
+      "name": "Mahou no Kagami",
+      "alt_names": [
+        "魔法の鏡",
+        "Miranjo (ミランジョ)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244200-Whh5DkoAnwuK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244200
+      }
+    },
+    {
+      "id": "despa",
+      "name": "Despa",
+      "alt_names": [
+        "デスパー"
+      ],
+      "role": "supporting",
+      "description": "[Desha](https://anilist.co/character/244202/)'s brother and ~![Ouken](https://anilist.co/character/260808/)'s brother.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244201-dEFFzr2e8ayu.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244201
+      }
+    },
+    {
+      "id": "desha",
+      "name": "Desha",
+      "alt_names": [
+        "デスハー"
+      ],
+      "role": "supporting",
+      "description": "The King of the Underworld, ranking #2 in the Ranking of Kings. He is the older brother of both Despa.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244202-1Jy6ESjCyIBy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244202
+      }
+    },
+    {
+      "id": "sandeo",
+      "name": "Sandeo",
+      "alt_names": [
+        "サンデオ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b256464-BPk6aE9dm578.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 256464
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T03:49:46.117Z"
+}

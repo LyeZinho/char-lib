@@ -1,0 +1,352 @@
+{
+  "work_id": "the-summer-hikaru-died",
+  "count": 15,
+  "characters": [
+    {
+      "id": "yoshiki-tsujinaka",
+      "name": "Yoshiki Tsujinaka",
+      "alt_names": [
+        "辻中よしき"
+      ],
+      "role": "protagonist",
+      "description": "The best friend of [Hikaru](https://anilist.co/character/281110/Hikaru-Indou), he is a quiet teenage boy. He has a fondness for animals and insects. \n\n~!The first to realize that \"Hikaru\" isn't Hikaru. He struggles with accepting the fact that his childhood friend has been replaced by something else, yet continues to go about his daily life with it.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b281109-SRUQVkT7DYyg.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 281109
+      }
+    },
+    {
+      "id": "hikaru-indou",
+      "name": "Hikaru Indou",
+      "alt_names": [
+        "忌堂光"
+      ],
+      "role": "protagonist",
+      "description": "An easy going teenage boy who went missing in the forbidden mountains for a week about half a year ago.\n\n~!A shapeshifter who took the form of Hikaru after his death. This new \"Hikaru\" has become greatly attached to Hikaru's best friend Yoshiki. It seems innocent and full of curiosity.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b281110-WxqeTYKB8XdD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 281110
+      }
+    },
+    {
+      "id": "asako-yamagishi",
+      "name": "Asako Yamagishi",
+      "alt_names": [
+        "山岸朝子"
+      ],
+      "role": "supporting",
+      "description": "A classmate of [Yoshiki.](https://anilist.co/character/281109/Yoshiki-Tsujinaka) Since childhood, she has been able to \"hear\" things that ordinary people cannot. She is tall, lively, and intelligent. \n\n(Source: Official Site)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b359202-syrbw7pLHUB7.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 359202
+      }
+    },
+    {
+      "id": "yuki-tadokoro",
+      "name": "Yuki Tadokoro",
+      "alt_names": [
+        "田所結希"
+      ],
+      "role": "supporting",
+      "description": "Classmate of [Yoshiki.](https://anilist.co/character/281109/Yoshiki-Tsujinaka) Childhood friend of [Asako Yamagishi.](https://anilist.co/character/359202/Asako-Yamagishi)\n\n(Source: Official Site)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b365939-wOB6wBXVMdpW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 365939
+      }
+    },
+    {
+      "id": "rie-kurebayashi",
+      "name": "Rie Kurebayashi",
+      "alt_names": [
+        "暮林理恵"
+      ],
+      "role": "supporting",
+      "description": "A housewife who can \"see\" things that ordinary people cannot. She worries about [Yoshiki,](https://anilist.co/character/281109/Yoshiki-Tsujinaka) who is with a dangerous and terrifying presence, and warns him to stay away. \n\n(Source: Official Site)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b359203-bFCeQtL3g8Fe.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 359203
+      }
+    },
+    {
+      "id": "tanaka",
+      "name": "Tanaka",
+      "alt_names": [
+        "田中"
+      ],
+      "role": "supporting",
+      "description": "A man who seems to be investigating something for a certain company. He is always carefree and elusive. He has a hamster as his partner. \n\n(Source: Official Site)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b359204-jlRpm1vV5Hjk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 359204
+      }
+    },
+    {
+      "id": "yuuta-maki",
+      "name": "Yuuta Maki",
+      "alt_names": [
+        "巻ゆうた"
+      ],
+      "role": "supporting",
+      "description": "Classmate of [Yoshiki](https://anilist.co/character/281109/Yoshiki-Tsujinaka). A class clown with a shaved head.\n\n(Source: Official Site)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b365938-DtezhkTZoVCW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 365938
+      }
+    },
+    {
+      "id": "kaoru-tsujinaka",
+      "name": "Kaoru Tsujinaka",
+      "alt_names": [
+        "辻中薫"
+      ],
+      "role": "supporting",
+      "description": "Kaoru is Yoshiki's younger sister.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b368792-pAozgFjAf6HH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 368792
+      }
+    },
+    {
+      "id": "toshinori-tsujinaka",
+      "name": "Toshinori Tsujinaka",
+      "alt_names": [
+        "辻中俊紀"
+      ],
+      "role": "supporting",
+      "description": "Toshinori is Yoshiki and Kaoru's father. He has a rocky relationship with his family.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b368791-R24uKeSYS9f4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 368791
+      }
+    },
+    {
+      "id": "satoko-tsujinaka",
+      "name": "Satoko Tsujinaka",
+      "alt_names": [
+        "辻中沙都子"
+      ],
+      "role": "supporting",
+      "description": "Satoko is Yoshiki and Kaoru's mother. She works as a hairdresser.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b368782-zDVKupJW1DqB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 368782
+      }
+    },
+    {
+      "id": "hajime-takeda",
+      "name": "Hajime Takeda",
+      "alt_names": [
+        "武田一"
+      ],
+      "role": "supporting",
+      "description": "Hajime is a man living in Kubitachi. He's concerned about the state of the village and the Indou family ritual.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b368783-1ydaKlnOnsSk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 368783
+      }
+    },
+    {
+      "id": "tooru-mikasa",
+      "name": "Tooru Mikasa",
+      "alt_names": [
+        "三笠徹"
+      ],
+      "role": "supporting",
+      "description": "Tooru is a man living in Kubitachi. He's concerned about the state of the village and the Indou family ritual.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b368786-CxiDxsOLiUnf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 368786
+      }
+    },
+    {
+      "id": "yoshihiko-matsushima",
+      "name": "Yoshihiko Matsushima",
+      "alt_names": [
+        "松島義彦"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b369528-qowDBW5ePBQ5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 369528
+      }
+    },
+    {
+      "id": "takeda-no-jiisan",
+      "name": "Takeda no Jiisan",
+      "alt_names": [
+        "武田の爺さん"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b368785-pWwfobdnqcBf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 368785
+      }
+    },
+    {
+      "id": "satou",
+      "name": "Satou",
+      "alt_names": [
+        "佐藤"
+      ],
+      "role": "supporting",
+      "description": "Satou is a woman who works for the company.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b368787-GHGdX3XZm2vA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 368787
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T18:32:43.673Z"
+}

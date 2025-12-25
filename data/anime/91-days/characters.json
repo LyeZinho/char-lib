@@ -1,0 +1,340 @@
+{
+  "work_id": "91-days",
+  "count": 15,
+  "characters": [
+    {
+      "id": "angelo-lagusa",
+      "name": "Angelo Lagusa",
+      "alt_names": [
+        "アヴィリオ",
+        "Avilio Bruno"
+      ],
+      "role": "protagonist",
+      "description": "A young man who's hell-bent on revenge. His real name is Angelo Lagusa. He has a severe hatred for the Vanetti family, who killed his parents and younger brother. He hid away for seven years, but after receiving a certain letter, he appears in the Lawless district once more.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89965-dvE5D72YCP5I.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89965
+      }
+    },
+    {
+      "id": "nero-vanetti",
+      "name": "Nero Vanetti",
+      "alt_names": [
+        "ネロ"
+      ],
+      "role": "protagonist",
+      "description": "The son of the Vanetti family's Don Vanetti. He has a bright and cheerful personality, and he values his family above all else. His sense of duty and empathy are strong, but he does not forgive traitors. He is an object of Avilio's revenge.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89966-p68zAMfm3yrF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89966
+      }
+    },
+    {
+      "id": "vincent-vanetti",
+      "name": "Vincent Vanetti",
+      "alt_names": [
+        "ヴィンセント・ヴァネッティ"
+      ],
+      "role": "supporting",
+      "description": "The boss of the Vanetti family who has an overwhelming presence, and is Nero and Frate's father. He is an object of Avilio's revenge.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89964-nNf06nwWzCbd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89964
+      }
+    },
+    {
+      "id": "vanno-clemente",
+      "name": "Vanno Clemente",
+      "alt_names": [
+        "ヴァンノ"
+      ],
+      "role": "supporting",
+      "description": "Nero's subordinate and friend. He is mindful of his friends but gets heated up easily. He doesn't mind fighting as long as it's for his friends.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89967-0ue493eHB6EX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89967
+      }
+    },
+    {
+      "id": "fango",
+      "name": "Fango",
+      "alt_names": [
+        "ファンゴ"
+      ],
+      "role": "supporting",
+      "description": "A leader of the Orco family, who oppose the Vanetti family. His personality makes it impossible for others to know what he'll do next, and he might have madness brewing inside him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89968-A4ehbQDm5hFd.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89968
+      }
+    },
+    {
+      "id": "frate-vanetti",
+      "name": "Frate Vanetti",
+      "alt_names": [
+        "フラテ・ヴァネッティ"
+      ],
+      "role": "supporting",
+      "description": "Nero's younger brother. He welcomes Ronaldo into his family and he considers obeying the Graccia family as a way for the Vanetti family to have peace.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89969-M1DjwmsdjUh6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89969
+      }
+    },
+    {
+      "id": "corteo",
+      "name": "Corteo",
+      "alt_names": [
+        "コルテオ"
+      ],
+      "role": "supporting",
+      "description": "Avilio's childhood friend and close friend in the present. He comes from a poor family and illegally makes liquor for a living. He has a timid but kind personality. He severely hates the existence of the mafia.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89970-SM2ADSkQhAZX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89970
+      }
+    },
+    {
+      "id": "barbero",
+      "name": "Barbero",
+      "alt_names": [
+        "バルベロ",
+        "Valbero"
+      ],
+      "role": "supporting",
+      "description": "Nero's subordinate and staff officer. He keeps Nero and Vanno (who get riled up easily) in check, and is always able to calmly make decisions.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89971-z3Hr0MlpcLf1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89971
+      }
+    },
+    {
+      "id": "ronaldo-galassia",
+      "name": "Ronaldo Galassia",
+      "alt_names": [
+        "ロナルド・ガラッシア"
+      ],
+      "role": "supporting",
+      "description": "The nephew of Don Graccia, who controls Chicago. He marries Nero's younger sister Fio and becomes a member of the Vanetti family.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89972-7xuBwLiymM7f.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89972
+      }
+    },
+    {
+      "id": "galassia",
+      "name": "Galassia",
+      "alt_names": [
+        "ガラッシア"
+      ],
+      "role": "supporting",
+      "description": "The don of the Galassia family based in Chicago.\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130541-l6HuOrBP9Ppu.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130541
+      }
+    },
+    {
+      "id": "tigre",
+      "name": "Tigre",
+      "alt_names": [
+        "ティグレ"
+      ],
+      "role": "supporting",
+      "description": "A close friend of Nero. When the Vanetti family decided to form a truce with the Orco family under the condition that Nero died, he stands up for Nero and gets critically wounded in doing so. He is saved when Fango provided a doctor in exchange for helping him become the don of the Orco family.\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130542-nANG9GGf4IsP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130542
+      }
+    },
+    {
+      "id": "strega-galassia",
+      "name": "Strega Galassia",
+      "alt_names": [
+        "ストレガ・ガラッシア"
+      ],
+      "role": "supporting",
+      "description": "Don Galassia's nephew. ~!He is secretly working with Gonzo to take down Vincent.!~\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130543-3g1Pqyrzx4iD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130543
+      }
+    },
+    {
+      "id": "cerotto",
+      "name": "Cerotto",
+      "alt_names": [
+        "チェロット"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130544-kKWxqHjhNKQR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130544
+      }
+    },
+    {
+      "id": "serpente",
+      "name": "Serpente",
+      "alt_names": [
+        "セルペンテ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130545-o22r7KVVJxob.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130545
+      }
+    },
+    {
+      "id": "testa-laguza",
+      "name": "Testa Laguza",
+      "alt_names": [
+        "テスタ・ラクーザ"
+      ],
+      "role": "supporting",
+      "description": "Avilio's father who was killed by the Vanetti family. ~!He knew about the deals going on between the Vanetti and Galassia families, and his family was murdered to keep this knowledge from being leaked out.!~\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130546-VpW1eGl5tefT.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 130546
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T10:19:14.472Z"
+}

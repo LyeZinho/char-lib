@@ -1,0 +1,283 @@
+{
+  "work_id": "alice-in-borderland",
+  "count": 12,
+  "characters": [
+    {
+      "id": "ryouhei-arisu",
+      "name": "Ryouhei Arisu",
+      "alt_names": [
+        "有栖良平",
+        "Alice"
+      ],
+      "role": "protagonist",
+      "description": "__Specialty:__ Psychological (Heart)\n\nThe protagonist of Alice in Borderland. His alias is a reference to the main character \"Alice\" in Alice in Wonderland.\nA 3rd year high school student with the hidden potential to be one hell of an analyzer; he looks at things from afar and checks every detail he can find. He keeps track of everything he learns so that he can find a way to put an end to this twisted game.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129005-fqVI6zVObo8z.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129005
+      }
+    },
+    {
+      "id": "yuzuha-usagi",
+      "name": "Yuzuha Usagi",
+      "alt_names": [
+        "宇佐木柚葉"
+      ],
+      "role": "protagonist",
+      "description": "__Specialty:__ Physical (Spade)\n\nThe heroine of Alice in Borderland. Her alias which means \"rabbit\" in Japanese refers the White Rabbit in Alice in Wonderland.\nShe is a skilled mountaineer thanks to her father.\n\n~!She lost hope when her father committed suicide.!~\n\n~!She later gets married to Ryouhei Arisu and becomes Yuzuha Arisu.!~\n\n(Source: Alice in Borderland Wiki)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129006-zmxkRv8m3MzC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129006
+      }
+    },
+    {
+      "id": "morizono-aguni",
+      "name": "Morizono Aguni",
+      "alt_names": [
+        "粟国杜園",
+        "Agni"
+      ],
+      "role": "supporting",
+      "description": "__Specialty:__ Physical (Spades)\n\nFirst appears in the Beach arc and the leader of the \"martial sect\" of the Beach residents.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129007-pwTyx56oE1Mw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129007
+      }
+    },
+    {
+      "id": "saori-shibuki",
+      "name": "Saori Shibuki",
+      "alt_names": [
+        "紫吹小織"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b198680-lQpLoedwNjjS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 198680
+      }
+    },
+    {
+      "id": "chouta-segawa",
+      "name": "Chouta Segawa",
+      "alt_names": [
+        "勢川張太"
+      ],
+      "role": "supporting",
+      "description": "Ryouhei's best friend since high school. He is a misfit with low self-esteem, is slow-minded and girl-crazy. He is as silly and weak as he is selfless and has a strong sense of friendship.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b198681-Po1k9HMUm31w.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 198681
+      }
+    },
+    {
+      "id": "daikichi-karube",
+      "name": "Daikichi Karube",
+      "alt_names": [
+        "苅部大吉"
+      ],
+      "role": "supporting",
+      "description": "Karube is an old friend of Alice back from his high school days like with Chota, who's a waiter in a bar where Alice and Chota get free drinks. He is very short-tempered and doesn't hesitate to use strength in critical situations, but he can be a great leader, is always optimistic, and has a strong will to live. It is known that he got stronger because of a hard childhood.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b198682-Xm6tLyKMIqmd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 198682
+      }
+    },
+    {
+      "id": "shuntarou-chishiya",
+      "name": "Shuntarou Chishiya",
+      "alt_names": [
+        "苣屋駿太郎"
+      ],
+      "role": "supporting",
+      "description": "A ruthless medical student who would unscrupulously sacrifice other people to achieve his own goals.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b198683-nThUEy5N7Q12.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 198683
+      }
+    },
+    {
+      "id": "akane-heiya",
+      "name": "Akane Heiya",
+      "alt_names": [
+        "塀谷朱音"
+      ],
+      "role": "supporting",
+      "description": "A character who first appeared in the special chapters.  She is the only survivor in her first game in the Borderlands, but suffered from multiple wounds, notably her left leg.  Her leg is later amputated and replaced with a Flex-Foot Cheetah. She carries a bow as her weapon of choice.\n\nSpecialty: Physical (Spade)\n\n(Source: Alice in Borderland Wiki)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205155-5JtvG3Nk6AqU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205155
+      }
+    },
+    {
+      "id": "mira-kanou",
+      "name": "Mira Kanou",
+      "alt_names": [
+        "加納未来",
+        "Mira Kanō"
+      ],
+      "role": "supporting",
+      "description": "Mira is a neuroscientist trapped in the borderlands. She first appears in Chapter 18 as one of the executives of The Beach where she is ranked No. 7 with Hearts as her specialty.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207574-NbuLoUeHLojf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207574
+      }
+    },
+    {
+      "id": "suguru-niragi",
+      "name": "Suguru Niragi",
+      "alt_names": [
+        "韮木傑"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208090-eE4dMTTDHFmH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208090
+      }
+    },
+    {
+      "id": "hikari-kuina",
+      "name": "Hikari Kuina",
+      "alt_names": [
+        "水鶏光",
+        "Kuina"
+      ],
+      "role": "supporting",
+      "description": "Hikari Kuina is a character first appears in the Beach arc and later revealed to be transgender. Originally, she specialized in Clubs, but after facing her troubled past with her stern father, she redefines herself as a Spades player.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b248298-psZCacLi6kqq.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 248298
+      }
+    },
+    {
+      "id": "ginji-kyuuma",
+      "name": "Ginji Kyuuma",
+      "alt_names": [
+        "久間欣治",
+        "King of Clubs"
+      ],
+      "role": "supporting",
+      "description": "Ginji Kyuuma is The King of Clubs and one of the 4 Kings in the Borderlands. ~!He dies while playing against Ryouhei Arisu and his party.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b259786-eONFEtPnHBwm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 259786
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T14:00:06.764Z"
+}

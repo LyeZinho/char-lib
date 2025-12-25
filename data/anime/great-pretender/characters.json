@@ -1,0 +1,349 @@
+{
+  "work_id": "great-pretender",
+  "count": 15,
+  "characters": [
+    {
+      "id": "makoto-edamura",
+      "name": "Makoto Edamura",
+      "alt_names": [
+        "枝村真人",
+        "Edamame (エダマメス)"
+      ],
+      "role": "protagonist",
+      "description": "The self-proclaimed \"greatest con artist in Japan\" who makes a living swindling innocent seniors and tourists. Used to be an honest, affable guy. Collects capsule toy figures and loves coffee.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158447-ZFkig12JOEWg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158447
+      }
+    },
+    {
+      "id": "laurent-thierry",
+      "name": "Laurent Thierry",
+      "alt_names": [
+        "ローラン・ティエリー",
+        "Blonde Bastard"
+      ],
+      "role": "protagonist",
+      "description": "An infamous French conman who travels the world. He never loses his cool, and always keeps his eyes on the prize. Likes to dress up and joke around. Becomes the target of one of Edamura's schemes while sightseeing in Asakusa.\n\n~!Laurent originally wanted to become a diplomat in order to help his mother financially. But she passes away after being decieved by an investor named Hugo, which leaves Laurent at a gambling routine in Paris. One night, he tries to kill Hugo, but Dorothy stops him and ends up recruiting him to her Confidence group, alongside Seiji Osaki, Kudo and Shi-On.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158448-4ayIN90zJJnp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158448
+      }
+    },
+    {
+      "id": "cynthia-moore",
+      "name": "Cynthia Moore",
+      "alt_names": [
+        "シンシア・ムーア"
+      ],
+      "role": "protagonist",
+      "description": "Cynthia is confident in her abilities and takes pride in her sex appeal. She is a confident and outgoing woman. She’s very smart and good at acting. She can speak multiple languages and can stay calm in stressful situations.\n\n~!Cynthia worked at a café as a young woman. A regular at the café, Thomas Meyer, asked if he could paint her likeness. They hit it off and soon started dating and living together (where they ate many meals of canned beans). Both were trying to hit it big in their careers, Cynthia with acting and Thomas with painting. Their bond grew greater through their time together, and Thomas proposed to Cynthia with a ring he drew. Cynthia accepts his proposal and their relationship is at its peak with the engagement. \n\nOne day while trying to sell his paintings Thomas was noticed by James Coleman. Thomas was hired by Coleman to make counterfeit paintings to sell at his art auctions. During this time, Cynthia and Thomas grew apart due to Thomas's focus on money and his contract with Coleman. Some time after her breakup with Thomas, Cynthia met Laurent and became a con-artist.!~\n\n~!During the team's Con in London, Laurent makes sure Cynthia can get her revenge against Coleman and patch things up Thomas. After the success of the Con, due to Thomas painting one last forgery, he and Cynthia have a chat and amicably part ways after.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158449-3rzl5t9tNboT.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158449
+      }
+    },
+    {
+      "id": "abigail-jones",
+      "name": "Abigail Jones",
+      "alt_names": [
+        "アビゲイル・ジョーンズ",
+        "Abbie"
+      ],
+      "role": "protagonist",
+      "description": "An exceptionally athletic conwoman from Iraq with a flexible and toned body. Blunt and belligerent. Hides a secret in her childhood memories.\n\n~! In episode 7, she recalls her time as a child soldier after war broke out in her home country. She is heavily affected by the trauma it caused and sometimes even considering suicide. !~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158450-8Tvl7X2VtHj0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158450
+      }
+    },
+    {
+      "id": "kudou",
+      "name": "Kudou",
+      "alt_names": [
+        "工藤"
+      ],
+      "role": "supporting",
+      "description": "Makoto Edamura's former boss, now his partner-in-crime.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b173773-UIWMBuz5ywKz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 173773
+      }
+    },
+    {
+      "id": "eddie-cassano",
+      "name": "Eddie Cassano",
+      "alt_names": [
+        "エディ・カッサノ"
+      ],
+      "role": "supporting",
+      "description": "A director of B-list Hollywood action movies. Lives an extravagant life in Beverly Hills thanks to his side hustle, drug trafficking.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b173774-lGS5oR3nD12l.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 173774
+      }
+    },
+    {
+      "id": "salazar",
+      "name": "Salazar",
+      "alt_names": [
+        "サラザール"
+      ],
+      "role": "supporting",
+      "description": "A former drug lord who serves as Eddie Cassano's right-hand man.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b173775-57h9TYNp5rGS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 173775
+      }
+    },
+    {
+      "id": "shi-ohn-kim",
+      "name": "Shi Ohn Kim",
+      "alt_names": [
+        "キム・シウオン"
+      ],
+      "role": "supporting",
+      "description": "A first-rate conwoman known to have seduced countless men during her prime.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b173776-uVpHlKN9ujLD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 173776
+      }
+    },
+    {
+      "id": "anderson",
+      "name": "Anderson",
+      "alt_names": [
+        "アンダーソン"
+      ],
+      "role": "supporting",
+      "description": "An inspector at the Los Angeles Police Department.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b173777-YKg3T4qOAhY3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 173777
+      }
+    },
+    {
+      "id": "seiji-ozaki",
+      "name": "Seiji Ozaki",
+      "alt_names": [
+        "尾崎誠司"
+      ],
+      "role": "supporting",
+      "description": "Makoto's father. A criminal defense lawyer.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174219-MHbnaWiLMPAC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174219
+      }
+    },
+    {
+      "id": "tom",
+      "name": "Tom",
+      "alt_names": [
+        "トム"
+      ],
+      "role": "supporting",
+      "description": "Salazar's son.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174220-LLGBIgRth5eA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174220
+      }
+    },
+    {
+      "id": "shougo-nakanoshima",
+      "name": "Shougo Nakanoshima",
+      "alt_names": [
+        "中之島正吾"
+      ],
+      "role": "supporting",
+      "description": "A car and plane mechanic who takes Makoto Edamura under his wing.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174294-7zrcXiAzzeO2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174294
+      }
+    },
+    {
+      "id": "danny",
+      "name": "Danny",
+      "alt_names": [
+        "ダニー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174295-DV9VPQd7pSG4.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174295
+      }
+    },
+    {
+      "id": "christina",
+      "name": "Christina",
+      "alt_names": [
+        "クリスティーナ",
+        "Chris"
+      ],
+      "role": "supporting",
+      "description": "A single mother of one who gets unlawfully fired from Danny's company and one of Cynthia's old friends from London.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174296-9mpXO0Gz5ZFz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174296
+      }
+    },
+    {
+      "id": "clark-ibrahim",
+      "name": "Clark Ibrahim",
+      "alt_names": [
+        "クラーク・イブラヒム"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174673-mEC2IvnJEyLi.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174673
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T22:52:24.151Z"
+}

@@ -1,0 +1,370 @@
+{
+  "work_id": "dan-da-dan-season-2",
+  "count": 15,
+  "characters": [
+    {
+      "id": "ken-takakura",
+      "name": "Ken Takakura",
+      "alt_names": [
+        "高倉健",
+        "Okarun (オカルン)"
+      ],
+      "role": "protagonist",
+      "description": "He is a young male student with a firm belief that UFOs and aliens exist. Upon meeting Momo Ayase and taking up on her challenge to see if ghosts were real, Okarun became cursed by a yokai known as the Turbo-Granny and seeks to return to normal.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222593-qBqUvpodooAI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222593
+      }
+    },
+    {
+      "id": "momo-ayase",
+      "name": "Momo Ayase",
+      "alt_names": [
+        "綾瀬桃"
+      ],
+      "role": "protagonist",
+      "description": "After making friends with Ken Takakura, who she calls \"Okarun\" (due to refusing to call him by the same name as the actor she idolizes), Momo wishes to help restore his body back to normal after being cursed by a yokai and must overcome other paranormal activities that are involved.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b222594-24Jn7qlI5spH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 222594
+      }
+    },
+    {
+      "id": "jin-enjouji",
+      "name": "Jin Enjouji",
+      "alt_names": [
+        "円城寺 仁",
+        "Jiji (ジジ)"
+      ],
+      "role": "protagonist",
+      "description": "Jin Enjouji is Momo's childhood friend and first crush. After his parents were hospitalized as a result of his house being haunted, Enjouji moved in with Momo and Seiko and transferred over to Momo's school. Enjouji comes off as being a very hyper-active young man who likes to express himself with dramatic movement and faces. He also has a habit of usually ending his sentences with strange verbal tics.\n\n~!He got possessed by a mountain yokai called the evil eye. When he touches cold water the yokai comes out, when he touches hot water he is himself.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b258506-mMMInKyQq7ib.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 258506
+      }
+    },
+    {
+      "id": "aira-shiratori",
+      "name": "Aira Shiratori",
+      "alt_names": [
+        "白鳥愛羅"
+      ],
+      "role": "protagonist",
+      "description": "__Relatives:__ [Father](https://anilist.co/character/349655/Aira-no-Chichi)\n\nAfter becoming aware of the existence of the supernatural after collecting a mysterious golden ball, Aira proclaims herself as the \"chosen one\" that is on a mission to protect the world from evil and directs her attention towards [Momo Ayase](https://anilist.co/character/222594/Momo-Ayase), believing that she is a demon that has to be stopped after seeing her use her psychic powers. Aira revels in her social status as the popular girl at Kami High and strives to maintain her reputation. Outwardly, she appears sweet, innocent, and somewhat air headed. However, internally, she is far more vain and prideful, a side she only shows to people she becomes close with. Whilst antagonistic towards Momo, she harbors feelings towards her close friend [Okarun](https://anilist.co/character/222593/Ken-Takakura).\n\n~!She later gains the powers of a powerful spirit named [Acrobatic Silky](https://anilist.co/character/245467/Acrobatic-Sarasara) and becomes allies / friends with Momo and Okarun, learning to be more mindful of her actions and being more open with her true self.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245466-rd5I5mchZ3bv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 245466
+      }
+    },
+    {
+      "id": "seiko-ayase",
+      "name": "Seiko Ayase",
+      "alt_names": [
+        "綾瀬星子",
+        "Santa Dodoria (ドドリア三太)"
+      ],
+      "role": "supporting",
+      "description": "Momo Ayase's grandmother. Despite being a grandmother, Seiko possesses a youthful appearance that does not match her age and is recognized as being quite beautiful.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b234824-i3s64ueaBqGq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 234824
+      }
+    },
+    {
+      "id": "kinta-sakata",
+      "name": "Kinta Sakata",
+      "alt_names": [
+        "坂田金太",
+        "Erosuke",
+        "Gale Wind Albert"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289257-4p0AjmUUT0lg.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289257
+      }
+    },
+    {
+      "id": "turbo-babaa",
+      "name": "Turbo Babaa",
+      "alt_names": [
+        "ターボババア",
+        "Turbo Granny",
+        "100キロババア",
+        "100 Kiro Baba",
+        "100 km/hr Granny",
+        "Turbobabcia"
+      ],
+      "role": "supporting",
+      "description": "The yokai took on the form of a very elderly woman with long white shaggy hair and eyes that were stuck looking to the sides. When possessing her targets, she has her victims transform into a mirror image of herself, albeit with a large mouth with teeth that is capable of biting off body parts.\n\n~!After having her consciousness extracted from Okarun, the Turbo-Granny is forced to inhabit a maneki-neko doll.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b239956-Fok0Pl3rNOEL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 239956
+      }
+    },
+    {
+      "id": "naki-kitou",
+      "name": "Naki Kitou",
+      "alt_names": [
+        "鬼頭ナキ"
+      ],
+      "role": "supporting",
+      "description": "Naki Kitou, the ringleader of the Kitou Family who for generations have been sacrificing people to the \"tsuchinoko\".\n~!She is a subterranean.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270700-j44U9thDeoXZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270700
+      }
+    },
+    {
+      "id": "hana",
+      "name": "Hana",
+      "alt_names": [
+        "花"
+      ],
+      "role": "supporting",
+      "description": "Hana is an anthropomorphized anatomical model that resides with Ayase and Seiko.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270703-XOuIjhNfWAC4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270703
+      }
+    },
+    {
+      "id": "tarou",
+      "name": "Tarou",
+      "alt_names": [
+        "太郎",
+        "Tarō"
+      ],
+      "role": "supporting",
+      "description": "Taro is an anthropomorphized anatomical model that resides at Ayase's and Takakura's school.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270704-FvYlWMLwLa0C.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270704
+      }
+    },
+    {
+      "id": "penny-chinkosu",
+      "name": "Penny Chinkosu",
+      "alt_names": [
+        "ぺニーチンコス",
+        "Dover Demon (ドーバーデーモン)",
+        "Gig Worker (ギグワーカー)",
+        "Shako (シャコ)",
+        "Mantis Shrimp",
+        "Peeny-Weeny",
+        "Mr. Mantisian"
+      ],
+      "role": "supporting",
+      "description": "Peeny-Weeny, also known as the Dover Demon, is a Dover Demon's Race, he works for the Serpo in order to earn money for [his son's](https://anilist.co/character/270706/) blood transfusion.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270705-IDJ3yjRmTcPg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270705
+      }
+    },
+    {
+      "id": "chiquitita",
+      "name": "Chiquitita",
+      "alt_names": [
+        "チキチータ"
+      ],
+      "role": "supporting",
+      "description": "Chiquitita is [Dover Demon's](https://anilist.co/character/270705/) son",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270706-z5NPkyP3Xp54.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270706
+      }
+    },
+    {
+      "id": "manjirou",
+      "name": "Manjirou",
+      "alt_names": [
+        "万次郎"
+      ],
+      "role": "supporting",
+      "description": "Manjirou is a spirit medium.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289255-YEMqE2RFj1qP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289255
+      }
+    },
+    {
+      "id": "jashi",
+      "name": "Jashi",
+      "alt_names": [
+        "邪視",
+        "Evil Eye",
+        "Złe Oko"
+      ],
+      "role": "supporting",
+      "description": "Jashi is a yokai who has spent years bound to the Tsuchinoko sacrificial house and is known for cursing humans to commit suicide with his gaze.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309809-HHGduVD6KgVk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309809
+      }
+    },
+    {
+      "id": "tsuchinoko",
+      "name": "Tsuchinoko",
+      "alt_names": [
+        "ツチノコ"
+      ],
+      "role": "supporting",
+      "description": "Tsuchinoko was the name of a kuragari, or Mongolian Death Worm, that had been revered by the people of Jiji's village, especially the Kito Family, as the Great Snake, believed to be the cryptid tsuchinoko.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309811-NBTzFL6IonMf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309811
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T22:28:56.983Z"
+}

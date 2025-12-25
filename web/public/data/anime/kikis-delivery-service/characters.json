@@ -1,0 +1,359 @@
+{
+  "work_id": "kikis-delivery-service",
+  "count": 15,
+  "characters": [
+    {
+      "id": "kiki",
+      "name": "Kiki",
+      "alt_names": [
+        "キキ"
+      ],
+      "role": "protagonist",
+      "description": "A thirteen-year-old apprentice witch, leaving her home village to spend a year on her own. She has no visible magical abilities other than communicating with her cat and broom-flying (at which she is still a novice). She is excitable, innocent, and by turns eager and shy. Some of the earlier concept drawings of Kiki closely resembled the original longer hair illustrations by Akiko Hayashi. It was eventually decided to cut her hair short due to the extra difficulty for animators.",
+      "metadata": {
+        "gender": "female",
+        "age": "13",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6866-Fe38ZMNvevnF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6866
+      }
+    },
+    {
+      "id": "jiji",
+      "name": "Jiji",
+      "alt_names": [
+        "ジジ"
+      ],
+      "role": "supporting",
+      "description": "Jiji is Kiki's sharp-tongued, sarcastic, and sometimes humorously pessimistic feline companion. He is constantly offering well-intended advice (and admonishments) that might make him seem overcritical of Kiki. But he is really a big softie, and his humorous commentary on the events of the movie are hilarious... in a way only a talking cat can be.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b3133-pt3Y3TOU3EQr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 3133
+      }
+    },
+    {
+      "id": "ursula",
+      "name": "Ursula",
+      "alt_names": [
+        "ウルスラ"
+      ],
+      "role": "supporting",
+      "description": "An artist in her late teens, who lives -- during the summer, at least -- in a one-room cabin in a wooded area outside of Koriko. She acts as an older sister to Kiki, explaining Kiki's temporary inability to fly in terms of artist's block, and telling her that gifts -- whether the ability to paint, to be a witch, or to bake bread -- must be used, not rejected.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b11280-bPN8eheBlGMx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 11280
+      }
+    },
+    {
+      "id": "tombo-kopoli",
+      "name": "Tombo Kopoli",
+      "alt_names": [
+        "コポリトンボ"
+      ],
+      "role": "supporting",
+      "description": "A fourteen-year-old boy in the city where Kiki settles. He is obsessed with aviation, is a member of a club building a human-powered aircraft, and is at first intrigued only by Kiki's ability to fly. He later becomes her friend, although it is obvious that she awes him. (It is not clear, at least to an English-speaker, whether &quot;Kopoli&quot; is intended as a given name or family name. &quot;Tombo&quot;, according to the novel, is a nickname, Japanese for &quot;dragonfly&quot;.)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b11282-G2IcFBVu9S4L.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 11282
+      }
+    },
+    {
+      "id": "osono",
+      "name": "Osono",
+      "alt_names": [
+        "おソノ"
+      ],
+      "role": "supporting",
+      "description": "Proprietress of a small bakery in Koriko, Kiki's new town. She is heavily pregnant throughout the film and can be seen feeding her baby in the end credits. She is the first person in Koriko to treat Kiki with kindness and respect. She also acts like a mother to Kiki. It is under Osono that Kiki works as a messenger.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b11284-fvQsjvwhhOUC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 11284
+      }
+    },
+    {
+      "id": "roufujin",
+      "name": "Roufujin",
+      "alt_names": [
+        "老婦人",
+        "Oku-sama",
+        "Madame"
+      ],
+      "role": "supporting",
+      "description": "One of [Kiki](https://anilist.co/character/6866/)'s customers.\n\nA kind and gentle old woman of whom Kiki first meets when she phones for her to deliver a herring pie to her granddaughter's birthday party. Due to her electric oven breaking, she is unable to make the pie an offers to pay Kiki for her time. Instead, Kiki helps her make it using a wood-fire oven and does some odd chores around the house before delivering the pie in the rain. However, Madame's granddaughter expresses no gratitude for the pie, which upsets Kiki.\n\n(Source: Ghibli Fandom)",
+      "metadata": {
+        "gender": "female",
+        "age": "60",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b11286-TThCV1aSQl9B.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 11286
+      }
+    },
+    {
+      "id": "bertha",
+      "name": "Bertha",
+      "alt_names": [
+        "バーサ",
+        "Barsa"
+      ],
+      "role": "supporting",
+      "description": "Oku-sama's housekeeper and friend. Her name is often rendered as &quot;Bassa&quot;, an alternate spelling of &quot;bāsa&quot; the Japanese pronunciation of &quot;Bertha&quot;.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/11288.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 11288
+      }
+    },
+    {
+      "id": "kokiri",
+      "name": "Kokiri",
+      "alt_names": [
+        "コキリ"
+      ],
+      "role": "supporting",
+      "description": "Kiki&#039;s mother, witch and town herbalist. She worries that Kiki isn&#039;t equipped to spend a year on her own.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b11290-jrC50iN1fnDc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 11290
+      }
+    },
+    {
+      "id": "okino",
+      "name": "Okino",
+      "alt_names": [
+        "オキノ",
+        "Kiki's father"
+      ],
+      "role": "minor",
+      "description": "Kiki's father; according to Miyazaki he is a professor of folklore. He has no magic lineage. He met Kiki's mother when they were both young; when she came to his town on her traditional witch training leave. According to character designer Katsuya Kondo he depicted Okino's appearance on actors David McCallum and Akira Terao.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b11292-AFHJuIShKzzd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 11292
+      }
+    },
+    {
+      "id": "lilly",
+      "name": "Lilly",
+      "alt_names": [
+        "リリー"
+      ],
+      "role": "minor",
+      "description": "Jiji's love interest.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/27058.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27058
+      }
+    },
+    {
+      "id": "keikan",
+      "name": "Keikan",
+      "alt_names": [
+        "警官",
+        "Police officer"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203158-jrdhFWhSfJre.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 203158
+      }
+    },
+    {
+      "id": "baker",
+      "name": "Baker",
+      "alt_names": [
+        "フクオ",
+        "Osono's husband"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203159-4x32UIYRFcRH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 203159
+      }
+    },
+    {
+      "id": "announcer",
+      "name": "Announcer",
+      "alt_names": [
+        "アナウンサー"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b203160-4EHGuhms4uS1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 203160
+      }
+    },
+    {
+      "id": "cake-no-otome",
+      "name": "Cake no Otome",
+      "alt_names": [
+        "ケーキの少女",
+        "Cake Girl"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b225991-bBj9QUDXPQZf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 225991
+      }
+    },
+    {
+      "id": "deck-brush-no-ojisan",
+      "name": "Deck Brush no Ojisan",
+      "alt_names": [
+        "デッキブラシのおじさん",
+        "Old Man with Deck Brush"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b225992-4LC1c28S0G34.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 225992
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T23:02:57.454Z"
+}

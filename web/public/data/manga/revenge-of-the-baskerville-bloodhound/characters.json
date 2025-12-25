@@ -1,0 +1,310 @@
+{
+  "work_id": "revenge-of-the-baskerville-bloodhound",
+  "count": 13,
+  "characters": [
+    {
+      "id": "vikir-van-baskerville",
+      "name": "Vikir van Baskerville",
+      "alt_names": [
+        "비키르 반 바스커빌",
+        "Bikir van Baskerville",
+        "Hound of the Baskerville Clan"
+      ],
+      "role": "protagonist",
+      "description": "The Hound of the Baskerville Clan who regressed after being cut down by the blade of the guillotine.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309777-xsCX7xtpqN44.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309777
+      }
+    },
+    {
+      "id": "aiyen",
+      "name": "Aiyen",
+      "alt_names": [
+        "아이옌"
+      ],
+      "role": "supporting",
+      "description": "She first met [Bikir](https://anilist.co/character/309777) when he saved her from being sold as a slave in the auction.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309778-y6BwRZvY5SUZ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309778
+      }
+    },
+    {
+      "id": "camyu-morgue",
+      "name": "Camyu Morgue",
+      "alt_names": [
+        "까뮤 모르그",
+        "Morgue Clan's Steel-Blooded Empress"
+      ],
+      "role": "supporting",
+      "description": "She was known as a Morgue Clan's Steel-Blooded Empress before [Bikir](https://anilist.co/character/309777)'s regression.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309780-Vw3PsEyWevai.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309780
+      }
+    },
+    {
+      "id": "akwilla",
+      "name": "Akwilla",
+      "alt_names": [
+        "아퀼라",
+        "Fox of The Night"
+      ],
+      "role": "supporting",
+      "description": "Chieftain of Ballack and mother of [Aiyen](https://anilist.co/character/309778). She is the person who gave Hugo a big scar on the bridge of his nose.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309779-B61TgZj61ImM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309779
+      }
+    },
+    {
+      "id": "dolores-quovadis",
+      "name": "Dolores Quovadis",
+      "alt_names": [
+        "돌로레스 룬 쿼바다스"
+      ],
+      "role": "supporting",
+      "description": "She's a saintess who is a living embodiment of goodness.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320667-31YpmwGnlZPN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320667
+      }
+    },
+    {
+      "id": "hugo-baskerville",
+      "name": "Hugo Baskerville",
+      "alt_names": [
+        "휴고 르 바스커빌"
+      ],
+      "role": "supporting",
+      "description": "He is the Patriarch of the Baskerville family and the father of [Bikir van Baskerville](https://anilist.co/character/309777).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321151-PCb3Fv9jxmBM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321151
+      }
+    },
+    {
+      "id": "john-barrymore",
+      "name": "John Barrymore",
+      "alt_names": [
+        "존 배리모어"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321141-69J59yrKzXUh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321141
+      }
+    },
+    {
+      "id": "chihuahua-baskerville",
+      "name": "Chihuahua Baskerville",
+      "alt_names": [
+        "치와와 바스커빌"
+      ],
+      "role": "supporting",
+      "description": "He is the office manager in Underdog City in the territory of Baskerville.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321142-5yGvq4dVoyC6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321142
+      }
+    },
+    {
+      "id": "staffordshire-baskerville",
+      "name": "Staffordshire Baskerville",
+      "alt_names": [
+        "스태퍼드셔 바스커빌"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321143-6jjfEST9m2wJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321143
+      }
+    },
+    {
+      "id": "boston-terrier-baskerville",
+      "name": "Boston Terrier Baskerville",
+      "alt_names": [
+        "보스턴 테리어 르 바스커빌"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321149-PI5VDy2QCek6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321149
+      }
+    },
+    {
+      "id": "lowborough-baskerville",
+      "name": "Lowborough Baskerville",
+      "alt_names": [
+        "로우버러 르 바스커빌"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321148-07nL8xP3eKFt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321148
+      }
+    },
+    {
+      "id": "middleborough-baskerville",
+      "name": "Middleborough Baskerville",
+      "alt_names": [
+        "미들버러 르 바스커빌"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321154-5pWtjZZJ9K8i.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321154
+      }
+    },
+    {
+      "id": "highborough-baskerville",
+      "name": "Highborough Baskerville",
+      "alt_names": [
+        "하이버러 르 바스커빌"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321155-umJ5jF7l8nNU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321155
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T17:24:14.844Z"
+}

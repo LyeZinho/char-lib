@@ -1,0 +1,403 @@
+{
+  "work_id": "spy-x-family-season-2",
+  "count": 15,
+  "characters": [
+    {
+      "id": "anya-forger",
+      "name": "Anya Forger",
+      "alt_names": [
+        "アーニャ・フォージャー",
+        "Test Subject 007",
+        "Anya Williams",
+        "Anya Levski",
+        "Anya Roche",
+        "Anya Klein",
+        "K-212",
+        "Princess Anya",
+        "Chihuahua Girl"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 99.5 cm (3'2\")\n__Occupation:__ First-Grade Student, Test Subject (Formerly)\n__Affiliation:__ Eden Academy, Unknown Organization (Formerly)\n__Relatives:__ Loid Forger (Adoptive Father), Yor Forger (Adoptive Mother)\n\nAnya Forger is the deuteragonist of the SPY x FAMILY series. She is a young girl who Twilight finds at an orphanage. Believing her to be a smart child, he decides to adopt her for his mission. What he doesn't know is that Anya is an esper who escaped from the Lab that gave her the power to read minds. Starving for excitement in her life after spending most of it so far in a lab, Anya actively sought to be the one adopted by Loid and then make sure Loid and Yor got together, so she could have a spy and assassin for parents. Anya is the only Forger aware of just about everyone's Secret Identities, but keeps it to herself out of fear that if her psychic powers are exposed she'll be put in a lab again.",
+      "metadata": {
+        "gender": "female",
+        "age": "6 (self asserted)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138100-4Li0tWRCa5bQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138100
+      }
+    },
+    {
+      "id": "loid-forger",
+      "name": "Loid Forger",
+      "alt_names": [
+        "ロイド・フォージャー",
+        "Tasogare (黄昏)",
+        "Twilight",
+        "Twain Foney",
+        "Papa",
+        "Roid",
+        "Loi-Loi",
+        "Loidman",
+        "Robert",
+        "Lionel",
+        "Lawrence",
+        "Roland Spoofy",
+        "Twi-Guy",
+        "Skumring"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 187 cm\n__Occupation:__ Psychiatrist, Spy (Covertly)\n__Affiliation:__ Berlint General Hospital, WISE (Covertly)\n__Relatives:__ Yor Forger (Wife), Anya Forger (Adoptive Daughter)\n\nLoid Forger is the main protagonist of the SPY x FAMILY series. He is the top spy of the Westalian Intelligence Bureau, who is only known by his code name Twilight. In order to investigate the activities of a highly ranked politician, Donovan Desmond, Twilight has assumed the identity of a psychiatrist named Loid Forger. Further, to appear like a normal family man and get close to his target, Loid then adopted a young orphan girl, Anya, and entered a Marriage of Convenience with an Ostanian woman named Yor Briar... who unknown to Twilight are themselves a Telepath and Professional Killer respectively.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138101
+      }
+    },
+    {
+      "id": "yor-forger",
+      "name": "Yor Forger",
+      "alt_names": [
+        "ヨル・フォージャー",
+        "Yor Briar (ヨル・ブライア)",
+        "Thorn Princess (Ibara-hime‚ いばら姫)",
+        "Yorticia",
+        "Tornprinsessa"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 170 cm\n__Occupation:__ City Hall Clerk, Assassin (Covertly)\n__Affiliation:__ Berlint City Hall, Garden (Covertly)\n__Relatives:__ Loid Forger (Husband), Anya Forger (Adoptive Daughter), Yuuri Briar (Younger Brother)\n\nYor Forger is the tritagonist of the SPY x FAMILY series. She is a clerical employee at the Berlint City Hall. She is soft-spoken and mild-mannered, but has a strong sense of humor. She has a bad drinking habit and falls into a coma when she drinks. At home, she struggles to be a good wife and a kind mother. Although her cooking skills are not very good, she likes to keep clean and is good at cleaning.\nWhile she works in the capital of Ostania's city hall... or at least that's her civilian cover. In truth, she is an infamous Professional Killer known as \"Thorn Princess\". After becoming overly fixated on the idea her cover might be blown after a coworker ribs her about not being married or even having a boyfriend, Yor suggests to Loid a Marriage of Convenience, which he accepts, as he needs a mother for Anya for his own mission.\n\n~!As of Mission (Chapter) 44, it is revealed that Yor is part of Garden, a powerful paramilitary assassin organization operating within Ostania.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138102-ZOAu9jI2d5ke.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138102
+      }
+    },
+    {
+      "id": "bond",
+      "name": "Bond",
+      "alt_names": [
+        "ボンド",
+        "Subject 8"
+      ],
+      "role": "protagonist",
+      "description": "Bond is the recently adopted pet of the Forger Family. Formally known as Subject 8, Bond has been used for experiments that resulted in the dog gaining precognition abilities.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169679-EFPubVtZFYom.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 169679
+      }
+    },
+    {
+      "id": "becky-blackbell",
+      "name": "Becky Blackbell",
+      "alt_names": [
+        "ベッキー・ブラックベル",
+        "Forehead Girl",
+        "Deko Onna (デコ女)",
+        "Milady"
+      ],
+      "role": "supporting",
+      "description": "__Affiliation:__ Blackbell Family, Blackbell Heavy Industries, Eden Academy, Cecile Hall\n__Occupation:__ Student\n\nThe daughter of the CEO of Blackbell, a major military manufacturer. Attends Eden Academy as part of Cecil House, Group 3. Best friends with Anya Forger.\n\nBecky is a very kind child but with her being the daughter of a major military manufacturer, she is shown to be somewhat prideful and tries to be mature, attempting to take Anya under her wing as an act of benevolence when she views Anya as a brat. She does not attempt to get close to Damian Desmond despite his social position, even looking down on their classmates who try to befriend Damian and Anya who is initially bullied by Damian's group. Anya's confident smile later wins over Becky's admiration.",
+      "metadata": {
+        "gender": "female",
+        "age": "6",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150423-RxXwrHzeLCss.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 150423
+      }
+    },
+    {
+      "id": "damian-desmond",
+      "name": "Damian Desmond",
+      "alt_names": [
+        "ダミアン・デズモンド",
+        "Boss-man",
+        "Sy-on",
+        "Jinan (じなん)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 110 cm (3′7″)\n__Affiliation:__ Desmond Family, Eden Academy, Cecile Hall\n__Occupation:__ Student\n\nThe second son of Donovan Desmond and attends Eden Academy as part of Cecile House, Group 3.  \n\nA young child with an arrogant and rude personality, caused by him being the second son of Donovan Desmond, the leader of the National Unity Party, a group important and powerful enough to threaten the peace between the East and the West. This has caused Damian to gain a highly respected status among his peers and making him incredibly arrogant, assuming Anya gained a crush on him when she stared at him. He is shown to prefer being called Lord Damian when spoken to. He gets angry when he is looked down upon by Anya's smile, quickly resorting to insulting her with his limited vocabulary and harassing Anya.",
+      "metadata": {
+        "gender": "male",
+        "age": "6",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150424-4B4psF6I4dgO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 150424
+      }
+    },
+    {
+      "id": "yuuri-briar",
+      "name": "Yuuri Briar",
+      "alt_names": [
+        "ユーリ・ブライア",
+        "Yuri Briar",
+        "Second Lieutenant Briar"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 179 cm (5′10\")\n__Affiliation:__ Ostania, Ministry for Foreign Affairs (Cover), State Security Service\n__Occupation:__ Diplomat (Formerly, Cover), Counterintelligence Agent\n\nYor Briar's younger brother who works in the State Security Service (SSS). He keeps his job at the SSS a secret from Yor, while pretending to be a normal civil servant at the foreign ministry.\n\nYuri has a sister-complex, and even at an early age, he would be doing everything he could to get Yor to praise him with affection. Though this could be due to his mother dying at a very early stage in his life causing him to get very attached to Yor as a mother figure.",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150425-mP852peLh9eS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 150425
+      }
+    },
+    {
+      "id": "sylvia-sherwood",
+      "name": "Sylvia Sherwood",
+      "alt_names": [
+        "シルヴィア・シャーウッド",
+        "Handler (管理官)",
+        "Fullmetal Lady (鋼鉄の淑女)"
+      ],
+      "role": "supporting",
+      "description": "She is Twilight's main contact at WISE.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157887-P66pD0ilpmtZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157887
+      }
+    },
+    {
+      "id": "franky-franklin",
+      "name": "Franky Franklin",
+      "alt_names": [
+        "フランキー・フランクリン",
+        "Scruffy"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 166 cm (5′5\")\n__Affiliation:__ Ostania\n__Occupation:__ Tobacco Store Clerk (False Front), Informant, Soldier (formerly)\n\nFranky is an informant who seemingly works at a tobacco store and presumably works for Loid Forger's agency. He gets information regarding Eden Academy's exam and Anya Forger's past records for Loid Forger.\n\nFranky is a kind person willing to help Loid out when he's in a pinch even though the danger is high. He frequently warns Loid Forger not to get too close to other people in their line of work.\n\nHe frequently falls in love with other women but his love life typically fails due to lack of mutual interest or they are already with someone else.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157888-zkSfIT5Z8y2S.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 157888
+      }
+    },
+    {
+      "id": "henry-henderson",
+      "name": "Henry Henderson",
+      "alt_names": [
+        "ヘンリー・ヘンダーソン",
+        "Housemaster",
+        "Professor Henderson"
+      ],
+      "role": "supporting",
+      "description": "__Affiliation:__ Eden Academy\n__Occupation:__ History Teacher, Housemaster of Cecile Hall\n\nHenry is a mature and noble person, who places a high importance on \"elegance\". To him, elegance seems to be the way a person conducts themselves, and is not afraid to correct inelegant behavior in others.",
+      "metadata": {
+        "gender": "male",
+        "age": "66",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180190-iQqPtTS182Et.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180190
+      }
+    },
+    {
+      "id": "camilla",
+      "name": "Camilla",
+      "alt_names": [
+        "カミラ"
+      ],
+      "role": "supporting",
+      "description": "One of Yor Forger's three co-workers at Berlint City Hall.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180191-peLZOpA3jmBO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180191
+      }
+    },
+    {
+      "id": "fiona-frost",
+      "name": "Fiona Frost",
+      "alt_names": [
+        "フィオナ・フロスト",
+        "Nightfall (夜帷)",
+        "Nafalia Foney (トバリー・フォニー)",
+        "Tobari (とばり)",
+        "Kveldingen"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 172cm\n__Occupation:__ Hospital Assistant (secretly a spy)\n\nA spy who works undercover as an assistant to [Loid Forger](https://anilist.co/character/138101/Loid-Forger) at Berlint General Hospital to provide him with mission details. Fiona is deeply in love with Loid, even telling Loid to replace Yor and let her take over the role of the Forger wife.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184936-kVn06kjZly6H.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184936
+      }
+    },
+    {
+      "id": "ewen-egeburg",
+      "name": "Ewen Egeburg",
+      "alt_names": [
+        "ユーイン・エッジバーグ"
+      ],
+      "role": "supporting",
+      "description": "Best Friend of Damian  and Student at Eden Academy. He is a loyal person, devotedly following Damian, almost always holding his bag when they walk to class. He also genuinely cares for Damian as a friend, getting concerned for Damian when he is hurt or pushing himself too hard.",
+      "metadata": {
+        "gender": "male",
+        "age": "6",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213881-NrUwR51qHdkV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 213881
+      }
+    },
+    {
+      "id": "emile-elman",
+      "name": "Emile Elman",
+      "alt_names": [
+        "エミールぅ・エルマン"
+      ],
+      "role": "supporting",
+      "description": "Best Friend of Damian  and Student at Eden Academy.",
+      "metadata": {
+        "gender": "male",
+        "age": "6",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213882-BoEgxd5783eU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 213882
+      }
+    },
+    {
+      "id": "millie",
+      "name": "Millie",
+      "alt_names": [
+        "ミリー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270958-ByT3WQWfgQ17.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 270958
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T04:58:49.969Z"
+}

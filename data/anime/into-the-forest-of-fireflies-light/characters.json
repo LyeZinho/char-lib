@@ -1,0 +1,123 @@
+{
+  "work_id": "into-the-forest-of-fireflies-light",
+  "count": 5,
+  "characters": [
+    {
+      "id": "gin",
+      "name": "Gin",
+      "alt_names": [
+        "ギン"
+      ],
+      "role": "protagonist",
+      "description": "Gin is a spirit of the forest. He encounters Hotaru first when she was very young and got lost in the forest. After helping her out of the forest, Hotaru stated that she will return to give him a gift. From then on, the two became close friends and met each other every summer.   ~!Gin was once a human, but died from being abandoned in the forest as a young baby. The mountain god cast a spell on Gin, allowing him to live. But since the spell casted upon him was fragile, if he ever touches the skin of a living human, the spell would break and he would disappear.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b41311-QbW9aecoguFX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 41311
+      }
+    },
+    {
+      "id": "hotaru-takegawa",
+      "name": "Hotaru Takegawa",
+      "alt_names": [
+        "竹川蛍"
+      ],
+      "role": "protagonist",
+      "description": "When she was six year old, Hotaru was lost in the forest of the mountain god. There she met Gin, a spirit of the forest. Since then, every summer thereafter, she has returned to the forest to meet Gin.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b41371-bgilENMWqYZN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 41371
+      }
+    },
+    {
+      "id": "haha",
+      "name": "Haha",
+      "alt_names": [
+        "母",
+        "Mother Takegawa"
+      ],
+      "role": "supporting",
+      "description": "[Hotaru](https://anilist.co/character/41371/)'s mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b60689-Gyob1nbPwvGv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 60689
+      }
+    },
+    {
+      "id": "ryouta",
+      "name": "Ryouta",
+      "alt_names": [
+        "亮太"
+      ],
+      "role": "supporting",
+      "description": "A classmate of Hotaru. He seems to have a crush on her.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b60691-ZLXknNFcU2Uz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 60691
+      }
+    },
+    {
+      "id": "sofu",
+      "name": "Sofu",
+      "alt_names": [
+        "祖父",
+        "Grandfather Takegawa"
+      ],
+      "role": "supporting",
+      "description": "[Hotaru](https://anilist.co/character/41371)'s grandfather.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274039-BByjG8feeZeR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 274039
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T10:51:03.812Z"
+}

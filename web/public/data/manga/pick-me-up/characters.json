@@ -1,0 +1,355 @@
+{
+  "work_id": "pick-me-up",
+  "count": 15,
+  "characters": [
+    {
+      "id": "yslat-han",
+      "name": "Yslat Han",
+      "alt_names": [
+        "한 이스라트",
+        "Seo-Jin Han (한서진)",
+        "Loki"
+      ],
+      "role": "protagonist",
+      "description": "He was a master of the game 'Pick Me Up' who went by the nickname of Loki and was ranked 5th in it. One day, he gets brought into the world of Taoneer as Han Yslat, a 1-star playable character.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b298546-D3iI1dihDjs3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 298546
+      }
+    },
+    {
+      "id": "jenna-shirai",
+      "name": "Jenna Shirai",
+      "alt_names": [
+        "제나 시라이"
+      ],
+      "role": "protagonist",
+      "description": "1-star hero, who was summoned at the same time as [Han](https://anilist.co/character/298546). She learned archery from her father, who was a hunter.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305577-oM9yXJ6ITxBO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305577
+      }
+    },
+    {
+      "id": "yvolka-strashur",
+      "name": "Yvolka Strashur",
+      "alt_names": [
+        "이올카 리벨 스트라슈르"
+      ],
+      "role": "supporting",
+      "description": "She is a fire magician from a noble family.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305579-xxoOOpjZcYtI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305579
+      }
+    },
+    {
+      "id": "edith-callen",
+      "name": "Edith Callen",
+      "alt_names": [
+        "에디스 칼렌"
+      ],
+      "role": "supporting",
+      "description": "A 3-star hero, she was a member of the Maned Wolf Party.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b295375-Cun7mXPRjdK0.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 295375
+      }
+    },
+    {
+      "id": "isel",
+      "name": "Isel",
+      "alt_names": [
+        "이셀",
+        "Ysel"
+      ],
+      "role": "supporting",
+      "description": "Administrator of Taoneer. She is a fan of Loki.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305585-It6bb7Dv7WIz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305585
+      }
+    },
+    {
+      "id": "aaron-delkard",
+      "name": "Aaron Delkard",
+      "alt_names": [
+        "아론 델카드"
+      ],
+      "role": "supporting",
+      "description": "A 1-star hero, he was summoned up in the 3rd cycle of the draft.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b324320-dHUa7iIIGRGH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 324320
+      }
+    },
+    {
+      "id": "tel",
+      "name": "Tel",
+      "alt_names": [
+        "텔",
+        "Tayle"
+      ],
+      "role": "supporting",
+      "description": "She has many names, but the one she gave to [Han](https://anilist.co/character/298546) was Tel.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305418-ILWsAM56gf1d.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305418
+      }
+    },
+    {
+      "id": "yurneth-syd",
+      "name": "Yurneth Syd",
+      "alt_names": [
+        "유르넷 시드"
+      ],
+      "role": "supporting",
+      "description": "The King's Eye. She is from Niflheimr where [Han](https://anilist.co/character/298546) was the Master.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305575-S2ZBy7pypIPW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305575
+      }
+    },
+    {
+      "id": "syris-agentheim",
+      "name": "Syris Agentheim",
+      "alt_names": [
+        "시리스 아젠트하임"
+      ],
+      "role": "supporting",
+      "description": "The King's Flame and Niflheim's only 4-star hero. She is from the Niflheim, where [Han](https://anilist.co/character/298546) was the Master.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305576-ko7JXl8pAJIJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305576
+      }
+    },
+    {
+      "id": "nihaku-geistfeld",
+      "name": "Nihaku Geistfeld",
+      "alt_names": [
+        "니하쿠 게스트펠",
+        "Gestfel"
+      ],
+      "role": "supporting",
+      "description": "The King's Bow. She is from the Niflheim, where [Han](https://anilist.co/character/298546) was the Master.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305578-KWIOHrgWgGoV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305578
+      }
+    },
+    {
+      "id": "muden-nidelk",
+      "name": "Muden Nidelk",
+      "alt_names": [
+        "뮤덴 나이델크"
+      ],
+      "role": "supporting",
+      "description": "The King's Spear. He is from the Niflheim, where [Han](https://anilist.co/character/298546) was the Master.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305581-yfkxGdXJ8sbf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305581
+      }
+    },
+    {
+      "id": "ridigeon",
+      "name": "Ridigeon",
+      "alt_names": [
+        "리디기온"
+      ],
+      "role": "supporting",
+      "description": "The King's Sword. He is from the Niflheim, where [Han](https://anilist.co/character/298546) was the Master.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b305582-gFzDtvH7DdZs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 305582
+      }
+    },
+    {
+      "id": "mormonte-carle",
+      "name": "Mormonte Carle",
+      "alt_names": [
+        "몰몬트 카를"
+      ],
+      "role": "supporting",
+      "description": "A 2-star hero, he worked as a mercenary before conscription.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b324318-UoBA7WuuClke.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 324318
+      }
+    },
+    {
+      "id": "shay-lathasterie",
+      "name": "Shay Lathasterie",
+      "alt_names": [
+        "셰이 라타스테리"
+      ],
+      "role": "supporting",
+      "description": "A 4-star hero, she was a knight before the draft.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b324321-NHCB5qOcukM2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 324321
+      }
+    },
+    {
+      "id": "nerissa-iyor",
+      "name": "Nerissa Iyor",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "A 2-star hero who is cool-headed and composed. She is especially skilled in special actions like stealth, infiltration, and intel collection.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 344779
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T23:17:27.690Z"
+}

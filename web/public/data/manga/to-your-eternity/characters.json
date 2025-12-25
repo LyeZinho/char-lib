@@ -1,0 +1,367 @@
+{
+  "work_id": "to-your-eternity",
+  "count": 15,
+  "characters": [
+    {
+      "id": "fushi",
+      "name": "Fushi",
+      "alt_names": [
+        "フシ",
+        "Immortal",
+        "Holy Fushi",
+        "Immortal Demon",
+        "Fu"
+      ],
+      "role": "protagonist",
+      "description": "**Age:** ~!~800 years!~\n**Relatives**: [The Beholder](https://anilist.co/character/136553/Kansatsusha) (\"father\"; creator), [March](https://anilist.co/character/136541/March) (adoptive \"mother\"), [Gugu](https://anilist.co/character/136554/Gugu) (adoptive brother)\n\nFushi is an immortal being created by The Beholder and placed on Earth to preserve the world.\n\nFushi is an immortal being that can take the form of anything that has given him stimuli. His original form was a featureless white sphere. Without consciousness, he copied the first thing he bumped into, which happened to be a rock. Soon afterward, he became moss and stayed like that for some time. When a wounded wolf wandered close in the middle of winter and died, the immortal copied the wolf. He retains the ability to turn into these things. Later, after the death of the [nameless boy](https://anilist.co/character/201555/Unnamed-Boy), he mimicked the boy's appearance and took the form of a young boy with white hair, a pale complexion, and green eyes. He wears a short, brown fur cloak and a light blue shirt and pants with fur boots. A rope dangled from his hand and neck as the nameless boy died holding [Joaan](https://anilist.co/character/163694/Joaan)'s leash, though the latter soon disappeared. Fushi commented on the form, saying it felt like it belonged to him the most. Other than the nameless boy (whose form he usually defaults to), he can also take the form of many others; most notably: ~!March, a little girl with long black hair wearing a simple white dress; Gugu, a young man with defined muscle who hides his face behind a salamander mask; and [Parona](https://anilist.co/character/136544/Parona), a young woman with black hair and a slender body.!~\n\nFushi appears to be a good listener, is curious, brave, and a fast learner. Before learning how to speak, Fushi would learn how to do things by mimicking other people's actions. After learning how to express himself via words, Fushi speaks his mind - no matter how mean it may sound. He cares deeply for others and dislikes death. He also blames himself for the Nokkers' attacks, believing that destruction follows wherever he goes. Fushi finds it extremely hard to make friends because he knows he will have to see their lives to the end; they will always die while he lives forever.",
+      "metadata": {
+        "gender": "male (in his main form; can be any)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136548-FjWExC5ScBqW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136548
+      }
+    },
+    {
+      "id": "march",
+      "name": "March",
+      "alt_names": [
+        "マーチ"
+      ],
+      "role": "supporting",
+      "description": "**Relatives**: Unnamed mother & father, [Risa](https://anilist.co/character/202890/Risa) (baby sibling)\n\nMarch is a young girl from Ninannah. When running away from her village, she stumbles across [Fushi](https://anilist.co/character/136548/Fushi) near a pond.\n\nMarch is very skilled at climbing trees. She's also small enough where she can easily crawl through tight spaces adults can't.\n\nMarch was born in the village of Ninannah. Years later, she is chosen as a sacrifice to the Spirit Bear, a god her village worships to bring peace and prosperity, but is rescued by [Parona](https://anilist.co/character/136544/Parona).\n\n(Source: To Your Eternity Wiki, edited)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136541-gXKd6OtbuffL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136541
+      }
+    },
+    {
+      "id": "parona",
+      "name": "Parona",
+      "alt_names": [
+        "パロナ"
+      ],
+      "role": "supporting",
+      "description": "**Relatives:** Unnamed mother, father, and [sister](https://anilist.co/character/201557/Paronas-sister).\n\nParona is a girl from Ninannah and a close friend of [March](https://anilist.co/character/136541/March). She looks after March like an older sister.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136544-LGUvcdc4cyPY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136544
+      }
+    },
+    {
+      "id": "hayase",
+      "name": "Hayase",
+      "alt_names": [
+        "ハヤセ"
+      ],
+      "role": "supporting",
+      "description": "__Residence:__ Yanome\n__Affiliation:__ The Guardian Force (former) \n__Relatives:__ Hisame(Granddaughter), Oumi(Great-Granddaughter), Ushio(Descendant), Chisui(Descendant), Kahaku(Descendent), Mizuha(Descendant (18th)) \n__Status:__ ~!Deceased, her \"Faie\" or soul is being passed down her lineage along with a knocker they control.!~\n\nShe is a Yanome government official. She was chosen to oversee the NInannah sacrificial ceremony for the Spirit Bear.\n\n~!After Fushi's attack in Yanome, Hayase spends about 5 years searching for him. She eventually meets him again on Jananda. Hayase had developed an obessive love for Fushi ever since they first met. Her love was so strong that she would kill anyone that Fushi was close to in order to have Fushi to herself. Her willpower was so strong that her love for Fushi would be passed down to her descendants, leading to the forming of The Guardian Force.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136545-KsqBpXbhEUCd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136545
+      }
+    },
+    {
+      "id": "hisame",
+      "name": "Hisame",
+      "alt_names": [
+        "ヒサメ"
+      ],
+      "role": "supporting",
+      "description": "Hisame is the granddaughter of Hayase.",
+      "metadata": {
+        "gender": "female",
+        "age": "9-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136547-BSA0y0dU2e00.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136547
+      }
+    },
+    {
+      "id": "tonari",
+      "name": "Tonari",
+      "alt_names": [
+        "トナリ",
+        "Chief"
+      ],
+      "role": "supporting",
+      "description": "__Affiliation:__ Tonari's Group (former)\n\nTonari is a girl that Fushi meets on the island of Jananda. She has short brown hair, green eyes, and tan skin. She's seen wearing a blue jacket and shorts, a black and white shirt, and has a pet owl named Ligard. \n\n~!Sometime after Fushi left the island of Jananda, Tonari began ingesting different types of poison to develop strong immunities to them.!~\n\n(Source: To Your Eternity Wiki, edited)",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136550-fJiwFtdKLyCf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136550
+      }
+    },
+    {
+      "id": "rean-cropp",
+      "name": "Rean Cropp",
+      "alt_names": [
+        "リーン・クロップ",
+        "Rynn"
+      ],
+      "role": "supporting",
+      "description": "Rean is a young girl from Takunaha.",
+      "metadata": {
+        "gender": "female",
+        "age": "12-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136551-DgY4fAbFcW6A.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136551
+      }
+    },
+    {
+      "id": "sander",
+      "name": "Sander",
+      "alt_names": [
+        "サンデル"
+      ],
+      "role": "supporting",
+      "description": "Sander is a young boy from Jananda and a member of Tonari's Group.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136552-xiLFH6HRjLTE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136552
+      }
+    },
+    {
+      "id": "kansatsu-sha",
+      "name": "Kansatsu-sha",
+      "alt_names": [
+        "観察者",
+        "The Beholder"
+      ],
+      "role": "supporting",
+      "description": "The mysterious being and observer who cast the orb onto the Earth. His goal is to preserve the world. He sent Fushi to acquire various kinds of information from the world and aid his observations.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136553-9LprfeXY6qYP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136553
+      }
+    },
+    {
+      "id": "gugu",
+      "name": "Gugu",
+      "alt_names": [
+        "グーグー"
+      ],
+      "role": "supporting",
+      "description": "Gugu is a young man from Takunaha who originally worked at Booze Man's shop. As Fushi's sworn brother, he fought the Nokkers and anti-Fushi faction members on several occasions to create the peaceful world the immortal desires.\n\nHe wears a mask to hide his face.\n\n~!His head got crushed by a wood log while trying to save Rean. He has been wearing a mask to cover it ever since.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "12-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136554-qySbbPp9nunx.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136554
+      }
+    },
+    {
+      "id": "sakejii",
+      "name": "Sakejii",
+      "alt_names": [
+        "酒爺",
+        "Beer Gramps",
+        "Booze Man"
+      ],
+      "role": "supporting",
+      "description": "An old man who saved Gugu's life and is also Pyoran's lover.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136555-q0JF1MY0Mo9r.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136555
+      }
+    },
+    {
+      "id": "pyoran",
+      "name": "Pyoran",
+      "alt_names": [
+        "ピオラン",
+        "Pioran"
+      ],
+      "role": "supporting",
+      "description": "Pyoran is an old woman from Takunaha. She comes to Ninannah as a shaman.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136556-UUQtEPFxqpQM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136556
+      }
+    },
+    {
+      "id": "kahaku",
+      "name": "Kahaku",
+      "alt_names": [
+        "カハク"
+      ],
+      "role": "supporting",
+      "description": "Kahaku is the sixth successor of the Defense Corps and the first male successor of Hayase's will.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138875-H8EkrxQsUnx4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138875
+      }
+    },
+    {
+      "id": "bonchien-nicoli-la-tasty-peach-uralis",
+      "name": "Bonchien Nicoli La Tasty Peach Uralis",
+      "alt_names": [
+        "ボンシェン・ニコリ・ラ・テイスティピーチ・ウラリス",
+        "Bon",
+        "Baron Springroll"
+      ],
+      "role": "supporting",
+      "description": "Bonchien is the prince of the Uralis Kingdom.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138876-8TsowRGCmx4V.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138876
+      }
+    },
+    {
+      "id": "joaan",
+      "name": "Joaan",
+      "alt_names": [
+        "ジョアン"
+      ],
+      "role": "supporting",
+      "description": "Joaan is the nameless boy's pet Reshy wolf. It was also the first animal that Fushi obtained.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163694-USBey19xBAZH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 163694
+      }
+    }
+  ],
+  "updated_at": "2025-12-24T23:09:56.034Z"
+}

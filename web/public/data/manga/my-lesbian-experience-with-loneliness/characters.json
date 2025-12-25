@@ -1,0 +1,54 @@
+{
+  "work_id": "my-lesbian-experience-with-loneliness",
+  "count": 2,
+  "characters": [
+    {
+      "id": "kabi-nagata",
+      "name": "Kabi Nagata",
+      "alt_names": [
+        "永田カビ",
+        "gogatsubyyyo"
+      ],
+      "role": "protagonist",
+      "description": "[Staff Profile]( https://anilist.co/staff/120310/Kabi-Nagata)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120311-jz1k4KHp9M30.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120311
+      }
+    },
+    {
+      "id": "yuka",
+      "name": "Yuka",
+      "alt_names": [
+        "ゆか"
+      ],
+      "role": "supporting",
+      "description": "A cheerful girl from a lesbian escort agency.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b319243-yILPsOvZWsiS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 319243
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T22:05:14.271Z"
+}

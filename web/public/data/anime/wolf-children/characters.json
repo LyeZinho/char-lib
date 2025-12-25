@@ -1,0 +1,214 @@
+{
+  "work_id": "wolf-children",
+  "count": 9,
+  "characters": [
+    {
+      "id": "hana",
+      "name": "Hana",
+      "alt_names": [
+        "花"
+      ],
+      "role": "protagonist",
+      "description": "Hana is a college student that falls deeply in love with a wolf-man that she encounters in class one day. They start dating, and even though he tells her one night about his true nature, Hana does not seem to mind, getting married to him and eventually, giving birth to his daughter, Yuki, and one year later, to his son, Ame.  Sadly, the wolf-man dies unexpectedly, leaving Hana and their wolf-children alone. Hana is scared of people finding the truth about her children, so she decides to leave the city for a rural town, starting there a new life, full of new experiences for her and especially Ame and Yuki.",
+      "metadata": {
+        "gender": "female",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b60279-1DRIDCpJZ9SD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 60279
+      }
+    },
+    {
+      "id": "yuki",
+      "name": "Yuki",
+      "alt_names": [
+        "雪"
+      ],
+      "role": "protagonist",
+      "description": "Hana's eldest child. She is very energetic.   ~!Later in the movie, you would notice that Yuki wants to be a normal human girl instead of a wild wolf like Ame.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b60281-QaCr9FOcsIOQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 60281
+      }
+    },
+    {
+      "id": "ame",
+      "name": "Ame",
+      "alt_names": [
+        "雨"
+      ],
+      "role": "protagonist",
+      "description": "Ame is the youngest wolf child. He is shy and quite weak. He looks awfully lot like his father. He is a year younger than his older sister, Yuki   ~! Later in the movie, Ame wants to be a wild wolf instead of a normal human like Yuki.   Ame later goes onto living in the mountains to pursue his dream of living as a wild lone wolf. He would sometimes call out to his mother in the wind of the mountains.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b60283-1oOCO9yq7ymy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 60283
+      }
+    },
+    {
+      "id": "ookami",
+      "name": "Ookami",
+      "alt_names": [
+        "おおかみ"
+      ],
+      "role": "protagonist",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b60285-wIKFVBLWa9nw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 60285
+      }
+    },
+    {
+      "id": "souhei-fujii",
+      "name": "Souhei Fujii",
+      "alt_names": [
+        "藤井草平"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65339-d3bUoZLRu4wn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65339
+      }
+    },
+    {
+      "id": "souhei-no-haha",
+      "name": "Souhei no Haha",
+      "alt_names": [
+        "草平の母",
+        "Souhei's Mother"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65341-5VAZZUIoGlVW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65341
+      }
+    },
+    {
+      "id": "tanabe",
+      "name": "Tanabe",
+      "alt_names": [
+        "田辺"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135608-iECrK4vG4c1V.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 135608
+      }
+    },
+    {
+      "id": "nirasaki",
+      "name": "Nirasaki",
+      "alt_names": [
+        "韮崎",
+        "韮崎のおじいちゃん",
+        "Nirasaki no Ojii-chan",
+        "Grandpa Nirasaki"
+      ],
+      "role": "supporting",
+      "description": "An old man that taught Hana the basics of farming.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b146463-ixdtzZOYQ4Yu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 146463
+      }
+    },
+    {
+      "id": "keno",
+      "name": "Keno",
+      "alt_names": [
+        "毛野"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158041
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T12:03:20.012Z"
+}

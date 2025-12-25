@@ -1,0 +1,353 @@
+{
+  "work_id": "kokoro-connect",
+  "count": 15,
+  "characters": [
+    {
+      "id": "taichi-yaegashi",
+      "name": "Taichi Yaegashi",
+      "alt_names": [
+        "八重樫太一"
+      ],
+      "role": "protagonist",
+      "description": "Though Taichi doesn't speak much, he's very sympathetic towards others and wants to help his friends when they're having trouble. He suddenly becomes passionate when he starts talking about his hobby, pro-wrestling, and Inaba stops him when he tries to add wrestling topics to their Cultural Research Club's newspaper. He has a little sister in elementary school, Rina.  (Source: ANN)\n\nHe is often described by Inaba as being a martyr who wishes to help people at his own sacrifice.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40195-PenXAhV9kQKc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 40195
+      }
+    },
+    {
+      "id": "iori-nagase",
+      "name": "Iori Nagase",
+      "alt_names": [
+        "永瀬伊織"
+      ],
+      "role": "protagonist",
+      "description": "Iori is Taichi's classmate, a bright, friendly, popular girl. She's the president of the Cultural Research Club, but rather than lead everyone, she sets the mood and gets them excited. Occasionally she takes bold actions in front of others, be it due to carelessness or simple naivety. (Source: ANN)\n\nShe is described as the most beautiful girl in her grade, and won the first year Miss Yamaboshi pageant.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40196-5KM70eeMhGK6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 40196
+      }
+    },
+    {
+      "id": "himeko-inaba",
+      "name": "Himeko Inaba",
+      "alt_names": [
+        "稲葉姫子",
+        "Inaban",
+        "Dereban"
+      ],
+      "role": "protagonist",
+      "description": "Himeko is vice president of the Cultural Research Club. She excels in gathering information and analysis, possessing private data on each of the club members. She's calm and logical, but she's actually a bit clumsy, so her difficulty with roundabout phrasings causes her to surprise many of those around her with her blunt statements.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40197-We1zbfXwnVFf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 40197
+      }
+    },
+    {
+      "id": "yui-kiriyama",
+      "name": "Yui Kiriyama",
+      "alt_names": [
+        "桐山唯"
+      ],
+      "role": "protagonist",
+      "description": "Yui is very active and expressive. She's a bit small, but she holds ranks in Karate, and even won tournaments when she was in middle school. She absolutely loves cute things, and her room at home is filled with fancy items. She always ends up insulting Aoki when he tries to approach her.  \n\n(Source: ANN)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40198-KskQm01WMBdn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 40198
+      }
+    },
+    {
+      "id": "yoshifumi-aoki",
+      "name": "Yoshifumi Aoki",
+      "alt_names": [
+        "青木義文"
+      ],
+      "role": "protagonist",
+      "description": "Yoshifumi is Yui's classmate. He holds affection for her, and continues his attempts to approach her, but she never gives him a chance. In the Cultural Research Club he's often called out, and his pathetic side stands out more, but he also relaxes them with some of his casual statements.  \n\n(Source: ANN)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40199-WDtF24SrHtLR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 40199
+      }
+    },
+    {
+      "id": "maiko-fujishima",
+      "name": "Maiko Fujishima",
+      "alt_names": [
+        "藤島麻衣子"
+      ],
+      "role": "supporting",
+      "description": "Member of the Student Council Outreach Committee. Shares a class with Taichi.\n\nDuring the first year, she is the charismatic class president, and is known as a love guru that helps everyone with their relationship troubles.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b57953-MGYcl3SSCRJz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 57953
+      }
+    },
+    {
+      "id": "ryuuzen-gotou",
+      "name": "Ryuuzen Gotou",
+      "alt_names": [
+        "後藤 龍善",
+        "Go-san"
+      ],
+      "role": "supporting",
+      "description": "Homeroom teacher of the Cultural Research Club members, and the advisor for the club itself. Also serves as a host for Heartseed, who occasionally takes control of Gotou's body to explain a phenomenon to the club. Afterwards, Gotou has no recollection of what happened at those times.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b57955-doAQOVQtBN07.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 57955
+      }
+    },
+    {
+      "id": "rina-yaegashi",
+      "name": "Rina Yaegashi",
+      "alt_names": [
+        "八重樫莉奈"
+      ],
+      "role": "supporting",
+      "description": "Taichi's elementary school age younger sister. She often gives advice to her brother about love. Like Ryuuzen and Iori, she is sometimes controlled by Heartseed, but the different one from Heartseed the cultural club's members known.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b64661-V0IqFm14iPgU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 64661
+      }
+    },
+    {
+      "id": "anzu-kiriyama",
+      "name": "Anzu Kiriyama",
+      "alt_names": [
+        "桐山杏"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65933-s0yaCgKgrf4O.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65933
+      }
+    },
+    {
+      "id": "reika-nagase",
+      "name": "Reika Nagase",
+      "alt_names": [
+        "永瀬玲佳"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65935-2q7jGP1rY7z1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65935
+      }
+    },
+    {
+      "id": "shingo-watase",
+      "name": "Shingo Watase",
+      "alt_names": [
+        "渡瀬 伸吾"
+      ],
+      "role": "supporting",
+      "description": "A handsome jock on the soccer team. Best friends with Taichi, with whom he shares a class. Has feelings for Fujishima.\n\nHe is extremely stingy with lending money.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67703-ISigOGPgeQUI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67703
+      }
+    },
+    {
+      "id": "yukina-kurihara",
+      "name": "Yukina Kurihara",
+      "alt_names": [
+        "栗原雪菜"
+      ],
+      "role": "supporting",
+      "description": "A stylish girl on the track team. Shares a class with Taichi and is best friends with Yui. Loves to harp on and on about romance.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/67705.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67705
+      }
+    },
+    {
+      "id": "aoki-no-chichi",
+      "name": "Aoki no Chichi",
+      "alt_names": [
+        "青木の父",
+        "Father Aoki"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/67707.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67707
+      }
+    },
+    {
+      "id": "inaba-no-ani",
+      "name": "Inaba no Ani",
+      "alt_names": [
+        "稲葉の兄",
+        "Brother Inaba"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67709-l9ujMc3Fu1zF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67709
+      }
+    },
+    {
+      "id": "kaoru-setouchi",
+      "name": "Kaoru Setouchi",
+      "alt_names": [
+        "瀬戸内薫"
+      ],
+      "role": "supporting",
+      "description": "Originally a bad girl, but becomes the president of Taichi's class in their second year.\n\nA member of the Student Volunteer Club.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67969-aiGPTVVNZPOR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67969
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T16:33:43.497Z"
+}

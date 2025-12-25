@@ -1,0 +1,351 @@
+{
+  "work_id": "the-boxer",
+  "count": 15,
+  "characters": [
+    {
+      "id": "yu",
+      "name": "Yu",
+      "alt_names": [
+        "유"
+      ],
+      "role": "protagonist",
+      "description": "Yu is the main character of The Boxer. He becomes a professional boxer under the tutelage of the legendary [K](https://anilist.co/character/208937/K).\n\nYu has a very dark and melancholic appearance, with unstyled jet-black hair that drapes down loosely on his head, distinctively coal-black eyes with even darker pupils and a wholly disinterested facial expression painted on his face with an equally 'dead' look in his eyes. He has a very skinny body which belies his deceptively athletic abilities.\n\nYu has a startlingly emotionless and disinterested persona, taking little to no interest in anything other than his pet cat. He is shown to be alarmingly apathetic, simply taking hits because he couldn't be bothered to dodge them and giving zero response when threatened by an obviously vicious person.",
+      "metadata": {
+        "gender": "male",
+        "age": "17-19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174319-YCsHl8DS97Vt.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174319
+      }
+    },
+    {
+      "id": "k",
+      "name": "K",
+      "alt_names": [
+        "K"
+      ],
+      "role": "protagonist",
+      "description": "K is one the supporting characters in The Boxer. He is a legendary boxing trainer, having raised 5 boxing world champions. He is currently training Yu.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208937-9C9FSDMVXiga.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208937
+      }
+    },
+    {
+      "id": "j",
+      "name": "J",
+      "alt_names": [
+        "J",
+        "제이"
+      ],
+      "role": "protagonist",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b278944-7sGg2scu5N5h.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 278944
+      }
+    },
+    {
+      "id": "jay",
+      "name": "Jay",
+      "alt_names": [
+        "인재",
+        "Injae"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174317-JBxQK6xceRk2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174317
+      }
+    },
+    {
+      "id": "baeksan-ryu",
+      "name": "Baeksan Ryu ",
+      "alt_names": [
+        "류백산"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174318-nouM12QpelcH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174318
+      }
+    },
+    {
+      "id": "misaki",
+      "name": "Misaki",
+      "alt_names": [
+        "미사키"
+      ],
+      "role": "supporting",
+      "description": "Misaki (미사키, Misaki) is the boxing coach of current light welterweight world champion Takeda Yuto.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208933-PKBykABskMpg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208933
+      }
+    },
+    {
+      "id": "john-taker",
+      "name": "John Taker",
+      "alt_names": [
+        "존 테이커",
+        "Rookie Killer",
+        "루키 킬러"
+      ],
+      "role": "supporting",
+      "description": "John puts on a decidedly confident and somewhat cocky air in public, with a great enjoyment in taking down talented young boxers with promising careers. To this end, he believes that bending the rules is more than okay if it leads to winning in the end.[1] He looks up to the middleweight champion boxer, Santorino Fabrizo, calling the man a true warrior on another level and saying he deserves more respect from people.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208934-uS45ggBzqRIK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208934
+      }
+    },
+    {
+      "id": "jean-pierre-manuel",
+      "name": "Jean-Pierre Manuel",
+      "alt_names": [
+        "쟝 삐에르 마뉘엘",
+        "Jyang Ppieleu Manwie"
+      ],
+      "role": "supporting",
+      "description": "Jean-Pierre Manuel (쟝 삐에르 마뉘엘, Jyang Ppieleu Manwiel) is a professional boxer and the former boxing lightweight world champion.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208935-qNT5TKiqDaF6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208935
+      }
+    },
+    {
+      "id": "kasim-al-hajad",
+      "name": "Kasim Al-Hajad",
+      "alt_names": [
+        "카심 알 하자드"
+      ],
+      "role": "supporting",
+      "description": "Kasim is a swaggering, spoilt, and arrogant man with an extravagant showboating personality in and out of the ring, bringing about controversy and polarization in the Boxing world by merely participating. At any recourse, Kasim's first course of action is to try to throw money at the problem, paying people to spar with him and proposing to simply buy out the Boxing organization he competed in to change the rules to allow for illegal moves he performed out of ignorance.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208936-KCGZu7rt2M3y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208936
+      }
+    },
+    {
+      "id": "yuto-takeda",
+      "name": "Yuto Takeda",
+      "alt_names": [
+        "다케다 유토"
+      ],
+      "role": "supporting",
+      "description": "Yuto is known as a positive person, always looking at the bright side. He's very motivated and doesn't give up despite all the obstacles he had faced. He's motivating not only himself but also those around him, helping them at the same time.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208938-rBloM9yDWzLh.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208938
+      }
+    },
+    {
+      "id": "josh",
+      "name": "Josh",
+      "alt_names": [
+        "조시",
+        "Josi"
+      ],
+      "role": "supporting",
+      "description": "Josh (조시, Josi) was once a member of the Lions Boxing Club with dreams of becoming a professional boxer. However, after being annihilated by Yu, Josh gave up on his dream and currently works as a bartender.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208939-1GVuBOPQjR1G.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208939
+      }
+    },
+    {
+      "id": "fabrizo-santorino",
+      "name": "Fabrizo Santorino",
+      "alt_names": [
+        "산토리노 파브리조"
+      ],
+      "role": "supporting",
+      "description": "Santorino Fabrizo bears the title of Middle Weight Champion. He is famous for using tricky moves and cheats.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209083-N4b4RLiCaRx8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209083
+      }
+    },
+    {
+      "id": "carmen",
+      "name": "Carmen",
+      "alt_names": [
+        "카르멘"
+      ],
+      "role": "supporting",
+      "description": "She was hired as Yu's bodyguard before his fight with Santorino, she is also K's assistant.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209085-5DXGNWyvdC5C.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209085
+      }
+    },
+    {
+      "id": "aaron-tide",
+      "name": "Aaron Tide",
+      "alt_names": [
+        "아론 타이드"
+      ],
+      "role": "supporting",
+      "description": "Aaron Tide is the Heavy Weight World Champion. He was trained under Coach K but currently fights under a different gym.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b231926-cCm6FbemP5vq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 231926
+      }
+    },
+    {
+      "id": "viktor-grigoryevich",
+      "name": "Viktor Grigoryevich",
+      "alt_names": [
+        "그리고르예프 빅토르",
+        "Victor Grigoryevich"
+      ],
+      "role": "supporting",
+      "description": "Viktor Grigoryevich is the current Cruiser Weight World Champion.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b231927-xCRSPpNVdDcf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 231927
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T12:47:50.690Z"
+}
