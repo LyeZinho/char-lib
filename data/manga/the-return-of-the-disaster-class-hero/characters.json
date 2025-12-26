@@ -1,0 +1,105 @@
+{
+  "work_id": "the-return-of-the-disaster-class-hero",
+  "count": 4,
+  "characters": [
+    {
+      "id": "geon-lee",
+      "name": "Geon Lee",
+      "alt_names": [
+        "이건",
+        "Lee Gun"
+      ],
+      "role": "protagonist",
+      "description": "The 13th awakened person, not selected by a god. He was betrayed by the 12 Saints and left to die.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264360-jtOQmiJBL7bO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 264360
+      }
+    },
+    {
+      "id": "wei-yang",
+      "name": "Wei Yang",
+      "alt_names": [
+        "양 웨이",
+        "Aries Saint"
+      ],
+      "role": "supporting",
+      "description": "One of the twelve saint with gods blessing.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282882-xnY2BfvT4CE8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282882
+      }
+    },
+    {
+      "id": "hugo-sudal",
+      "name": "Hugo Sudal",
+      "alt_names": [
+        "수달 휴고",
+        "Oh Taek-Soo",
+        "Otters Hugo"
+      ],
+      "role": "supporting",
+      "description": "One of the twelve saints with gods blessing and Geon Lee's best friend.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283901-xkRczCEuEO0Y.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283901
+      }
+    },
+    {
+      "id": "seong-jae-cheon",
+      "name": "Seong-Jae Cheon",
+      "alt_names": [
+        "천성재",
+        "Sung-Jae Cheon"
+      ],
+      "role": "supporting",
+      "description": "Hugo Sudal's son and Cheon Yooha's younger brother.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283902-dNgnd4kvOHZ1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283902
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T23:49:43.092Z"
+}

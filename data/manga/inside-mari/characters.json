@@ -1,0 +1,95 @@
+{
+  "work_id": "inside-mari",
+  "count": 4,
+  "characters": [
+    {
+      "id": "mari-yoshizaki",
+      "name": "Mari Yoshizaki",
+      "alt_names": [
+        "吉崎マリ"
+      ],
+      "role": "protagonist",
+      "description": "An \"angel-like\" beautiful high school girl with a certain secret she has been hiding from everyone.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": "1995-08-18"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b77679-oV2cydVywwPV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 77679
+      }
+    },
+    {
+      "id": "isao-komori",
+      "name": "Isao Komori",
+      "alt_names": [
+        "小森功"
+      ],
+      "role": "protagonist",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b81927-3ukOzcOtixZO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81927
+      }
+    },
+    {
+      "id": "yori-kakiguchi",
+      "name": "Yori Kakiguchi",
+      "alt_names": [
+        "柿口依"
+      ],
+      "role": "protagonist",
+      "description": "A classmate of Mari, she seems to have some kind of relation with her.\n\n~!It is revealed that Yori was stalking Mari and she is very strict with how \"Isao\" acts while inside of Mari's body as to not ruin her in any way. The two slowly become genuine friends and eventually begin to date before it is revealed that the \"Isao\" within Mari was not the real him and just a projection of him Mari conjured in her mind and assumed as her own persona due to family trauma and wishing to escape from it. At the end of the manga once Mari returns to being herself it is unclear if Yori and her are dating but they are still friends.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150842-AtDohmEYEMBC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 150842
+      }
+    },
+    {
+      "id": "momoka",
+      "name": "Momoka",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205700-7PeKY01tvp4N.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 205700
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T13:10:28.634Z"
+}

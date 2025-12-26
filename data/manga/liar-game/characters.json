@@ -1,0 +1,337 @@
+{
+  "work_id": "liar-game",
+  "count": 15,
+  "characters": [
+    {
+      "id": "nao-kanzaki",
+      "name": "Nao Kanzaki",
+      "alt_names": [
+        "神崎直",
+        "The Chick"
+      ],
+      "role": "protagonist",
+      "description": "Nao is a stupidly honest girl who sees herself trapped in the Liar Game after finding 100 million yen in a box along with a card. Now, she has to take care of the money for 30 days and try to steal another 100 million from his rival.   Nao's father is in the hospital and none of her friends believe her so she contacts Akiyama Shinichi to help her.    ~!As the story goes on she becomes more mature and even gives Akiyama a hand in the game sometimes. She believes that Liar Game is about how much a person can remain honest and plays the games with honesty. She is always concerned about her teammates and opponents and always tries to save them from debts and sometimes in the process sacrificing herself with staying in the game and paying others debts. !~ (Source: ami)",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13472-96yBTxlLK8gr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 13472
+      }
+    },
+    {
+      "id": "shinichi-akiyama",
+      "name": "Shinichi Akiyama",
+      "alt_names": [
+        "秋山真一",
+        "Ex Con"
+      ],
+      "role": "protagonist",
+      "description": "Formerly a graduate student majoring in psychology, he is a \"genius swindler\" who took down a giant MLM scam named Shuuei to avenge his mother. He helps Nao when he sees the honest nature she had, just like his mother. Although he is not invited into the Liar Game, he enters by substituting for another player in Round II. By Round III he is respected (and feared) enough by the LGT players to become unofficial leader of the Southern Country, though he tries to keep things equal in the group. Yokoya, however, knows Akiyama had been manipulating his team mates and mocks him for it.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13473-sYtvI1hxorvY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 13473
+      }
+    },
+    {
+      "id": "yuuji-fukunaga",
+      "name": "Yuuji Fukunaga",
+      "alt_names": [
+        "福永ユウジ"
+      ],
+      "role": "supporting",
+      "description": "A trans woman who first appears in Round II, where she poses as a woman named Hitomi (Hitomi is her friend for whom she substitutes as player No. 3). Sly and calculating and also a 5th degree black belt, Fukunaga is a skilled manipulator whose greatest weakness appears to be her desire for money and her bad temper. She greatly hinders Nao and Akiyama during Round II and the Revival Round, but has never been able to outwit Akiyama. However, Fukunaga cooperates with them well during Round III and even when she finishes the round debt-free, she chooses to continue in the tournament. To avoid revealing her skills during the mock stimulation, she sends Nao in her place, matching Solario's expectations. Though Fukunaga seems fond of Nao in her own way, she doesn't think of her as competent.     ~! In chapter 83, Nao comes to the conclusion that Fukunaga has a crush on Akiyama. !~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16877-HjTBmfuHogJ3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 16877
+      }
+    },
+    {
+      "id": "kouta-akagi",
+      "name": "Kouta Akagi",
+      "alt_names": [
+        "Headband"
+      ],
+      "role": "supporting",
+      "description": "He first appears in Round III and is in the Northern Country with Yokoya. ~!He then helps Akiyama in secret because he is pissed off with Yokoya. He also decides to continue playing in Round IV.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/20725.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 20725
+      }
+    },
+    {
+      "id": "norihiko-yokoya",
+      "name": "Norihiko Yokoya",
+      "alt_names": [
+        "横谷憲彦",
+        "The Sneak"
+      ],
+      "role": "supporting",
+      "description": "__Occupation:__  Ex-Coporate CEO (Drama)\n__Abilities:__ Manipulation, Bribery, Intimidation\n\nYokoya Norihiko is the current main antagonist of the series, introduced in the Third Round's Northern Country.\n\nHe is a calm, darked-haired man who is fond of carrying mice on his person. Nearco accurately describes him as Akiyama's greatest rival, and Nao senses something odd about him early in the game.",
+      "metadata": {
+        "gender": "male",
+        "age": "20",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b20726-5I6GiAkY9qEp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 20726
+      }
+    },
+    {
+      "id": "takahiro-kikuzawa",
+      "name": "Takahiro Kikuzawa",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "A twenty year old automobile mechanic, Kikuzawa was first noted when Nao, under Akiyama's advice, tricked him in the first Revival Round. As she later helped him out, he holds no grudges and even quotes her when he first tries to dominate the Southern Country in Round III. He initially teams up with Yokoya to make money and dominate his team, but when he is exposed he returns to the Southern Country. As he went to school with Yokoya, he knows about Yokoya's fixation on domination and warns the other players just what type of person Yokoya is.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21319-bYneOwOsLPv8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21319
+      }
+    },
+    {
+      "id": "takayoshi-miura",
+      "name": "Takayoshi Miura",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Miura is a twenty-five year old man first introduced in Round II as No. 11, he tells Nao he won 2 million from Round I. Openly hostile to the LGT, he once accused them of being a scam, and later tells Nao the LGT is probably involved in human trafficking. He was one of the final contestants who was present when Fukunaga revealed his betrayal. Because he was tricked by Fukunaga, he is forced to participate in the Revival Round. When Fukunaga turns the other Revival Round participants against Nao, Miura is the only one who is nice to her. As a result, Nao chooses to save him and forces him to lose the Revival Round (although she gives him 200 million to cover his debt to the LGT).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/21320.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21320
+      }
+    },
+    {
+      "id": "teruo-tanimura",
+      "name": "Teruo Tanimura",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "A lawyer that Nao first consulted when she she gets involved in the LGT. He gives her the idea of using a scam artist to win the game, and is the one to direct Nao to look up Akiyama. It isn't revealed until later that he is actually part of the LGT working to make sure players don't unexpectedly give the money from Round I to the police. After Round II, he shows up at Nao's home to tell her about Akiyama's past, and to manipulate her to return to the LGT in Revival Round. He is later seen monitoring Revival Round I with Leronira, and shows up at Nao's home again to inform her of Revival Round II.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/21321.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21321
+      }
+    },
+    {
+      "id": "leronira",
+      "name": "Leronira",
+      "alt_names": [
+        "レロニラ"
+      ],
+      "role": "supporting",
+      "description": "One of the hosts of the Liar Game. He wears a suit, has dark hair, and an ornate mask covers his face. He hosts Round II in person, hosts via a television in Revival Round, and hosts Round III with Nearco. Though he admires Akiyama and Fukunaga for their brains, he admits in being most interested in how Nao plays the games.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21322-WdqwxYV5VoU6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21322
+      }
+    },
+    {
+      "id": "nearco",
+      "name": "Nearco",
+      "alt_names": [
+        "ネアルコ"
+      ],
+      "role": "supporting",
+      "description": "One of the hosts of the Liar Game. He looks exactly the same as Leronira, but has a different mask. He first appears in Round III, which he co-hosts with Leronia. He admires Yokoya, describing him as a fearsome individual, and can not understand Leronira&#039;s interest in Nao. By the end of Round III he, too, is curious at how she will play. His mask has a long moustache.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/21323.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21323
+      }
+    },
+    {
+      "id": "solario",
+      "name": "Solario",
+      "alt_names": [
+        "ソラリオ"
+      ],
+      "role": "supporting",
+      "description": "One of the hosts of the Liar Game. He looks similar to the previous hosts, except his mask has a sun on his right eye. He hosts Revival Round II via a television, and seems to already know the backgrounds of players he haven&#039;t seen before. Unlike Nearco, he is quickly interested in Nao when she realizes the objective of Revival Round II before he expected.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/21324.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21324
+      }
+    },
+    {
+      "id": "kikuchi-shou",
+      "name": "Kikuchi Shou",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "A tall, thin man with glasses and white coat. The Western Army's center field, he has a debt of 110 million yen to the LGT. He is much more dangerous than he appears, quickly realizing that the centerfield game of the second Revival Round is well suited for his abilities. As a former boxer of mediocre physical skill, he has remarkable sharp eyesight and visual reflexes that allow him to notice the white portions of the Ace and Joker cards during 17-Card Poker, giving an advantage in the game against Akiyama.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b22381-KJdBJQv1NRLO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22381
+      }
+    },
+    {
+      "id": "forli",
+      "name": "Forli",
+      "alt_names": [
+        "フォルリ"
+      ],
+      "role": "supporting",
+      "description": "One of the host of the Liar Game. He is the main dealer for the Pandemic Game.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/28216-rg74bkT71KFM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 28216
+      }
+    },
+    {
+      "id": "alsab",
+      "name": "Alsab",
+      "alt_names": [
+        "アルサブ"
+      ],
+      "role": "supporting",
+      "description": "Dealer for the Fourth Round in Musical Chairs.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/31847-9ZqYA6TuGa4a.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31847
+      }
+    },
+    {
+      "id": "kurifuji",
+      "name": "Kurifuji",
+      "alt_names": [
+        "栗藤"
+      ],
+      "role": "supporting",
+      "description": "She is a female LGT officer who majored in psychology. Kurifuji is able to discern other participants&#039; complex minds. She is usually seen with a mask over her face and a black sunglasses. First appearance: Chapter 112.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/33268-ex3LbQFkF5Kx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 33268
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T07:56:19.000Z"
+}

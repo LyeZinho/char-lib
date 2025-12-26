@@ -1,0 +1,256 @@
+{
+  "work_id": "gamers",
+  "count": 10,
+  "characters": [
+    {
+      "id": "karen-tendou",
+      "name": "Karen Tendou",
+      "alt_names": [
+        "天道花憐",
+        "Tendo"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 165 cm (5'5)\n\nShe is the most popular girl of the school, but also a huge video game nerd. She's the club president of the Game Club, she invites Keita to join but he rejects the invitation each time.\n\n~!She develops a crush on Keita Amano after she overhears Amano's admiring words about her, as he stood up to Tasuku Uehara!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121824-FEznGfEK9oFd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121824
+      }
+    },
+    {
+      "id": "chiaki-hoshinomori",
+      "name": "Chiaki Hoshinomori",
+      "alt_names": [
+        "星ノ守千秋",
+        "MONO",
+        "Nobe",
+        "Kelphead",
+        "Seaweed Girl",
+        "Hoshinocchi"
+      ],
+      "role": "protagonist",
+      "description": "She is a classmate of Karen Tendou from class 2-A at Otobuki High School and a member of a non-school recognized gamer appreciation group together with Keita Amano and Tasuku Uehara. Chiaki is a shy girl and very reclusive. She did not seem to care about her looks at first until Keita and Tasuku came into her life. She did not socialize much and mostly preferred to play games on her own.\n\n~!After she discovered that Keita was both \"Tsucchi\" and \"Yama\" was her online gaming friend she develops romantic feelings towards Keita!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121825-UYH6MAIwgevJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121825
+      }
+    },
+    {
+      "id": "keita-amano",
+      "name": "Keita Amano",
+      "alt_names": [
+        "雨野景太",
+        "Tsucchie",
+        "Yama-san",
+        "Amanocchi",
+        "Beansprout",
+        "Jiraiya",
+        "Amako"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 159 cm\n\nHe is the protagonist of the GAMERS! series. He is the older brother of Kōsei Amano, a student from class 2-F and a member of a non-school recognized gamer appreciation group together with [Chiaki Hoshinomori](https://anilist.co/character/121825/Chiaki-Hoshinomori) and [Tasuku Uehara](https://anilist.co/character/121828/Tasuku-Uehara).\n\n(Source: GAMERS! Wikia)",
+      "metadata": {
+        "gender": "male",
+        "age": "17-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121826-1L2AmUmvFvtQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121826
+      }
+    },
+    {
+      "id": "aguri-sakurano",
+      "name": "Aguri Sakurano",
+      "alt_names": [
+        "桜野亜玖璃",
+        "Wallflower"
+      ],
+      "role": "protagonist",
+      "description": "Aguri is Tasuku's girlfriend. In the anime, she is a petite girl with pink hair and purple eyes. Aguri is immature and tends to be a clingy girl towards Tasuku though this is because he now spends his time hanging out with others. She also tends to be somewhat of a ditz, she does not play video games nor does she have an interest in them. ~!She fell in love with Tasuku after he gave her a plushie doll in middle school, and she changed her appearance as well in order to get closer to him. She becomes jealous that Tasuku is being friendly with Chiaki, but allies with Keita to help him relate better with Karen.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "17-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121827-Xy7VYzxJGan8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121827
+      }
+    },
+    {
+      "id": "tasuku-uehara",
+      "name": "Tasuku Uehara",
+      "alt_names": [
+        "上原祐",
+        "Uglyhara"
+      ],
+      "role": "protagonist",
+      "description": "He is a classmate of Keita Amano from class 2-F at Otobuki High School and the boyfriend of Aguri Sakurano.\n\n~!In middle school, he wore glasses and his hair was in a different style. He was a considered a nerd before he decided to alter his appearance for high school. He is well-known for his looks among the popular boys.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "17-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121828-lSLX3VAK3Cl7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121828
+      }
+    },
+    {
+      "id": "konoha-hoshinomori",
+      "name": "Konoha Hoshinomori",
+      "alt_names": [
+        "星ノ守心春"
+      ],
+      "role": "protagonist",
+      "description": "She is the younger sister of Chiaki Hoshinomori and the Student Council President of Hekiyō High School.",
+      "metadata": {
+        "gender": "female",
+        "age": "16-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122019-navnq0yfbJwL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122019
+      }
+    },
+    {
+      "id": "eiichi-misumi",
+      "name": "Eiichi Misumi",
+      "alt_names": [
+        "三角瑛一"
+      ],
+      "role": "supporting",
+      "description": "Eiichi is Karen's classmate who joins the Game Club at the beginning of the series. He has short black hair. His specialty is in arcade puzzle games, but he also is able to adapt to learning new games and growing skills based on observing how others play. He says that he got into gaming because he had lost his memory when he was younger and playing block puzzles gives him a link to his past. ~!The last episode in the anime series shows his secretive past in which he had escaped some underground organizations, and then encounters his estranged sister Riki in the finals of a game tournament.!~\n\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122020-mwW980p7JyAa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122020
+      }
+    },
+    {
+      "id": "niina-oiso",
+      "name": "Niina Oiso",
+      "alt_names": [
+        "大磯新那"
+      ],
+      "role": "supporting",
+      "description": "According to [Karen Tendo](https://anilist.co/character/121824/Karen-Tendou), Niina plays games due to trying to get her friend back from the \"dark side\". It is unknown what this statement really means but the only thing shown is that Niina plays games, so much that she barely associates with others. \n\n(Source: GAMERS! Wikia)",
+      "metadata": {
+        "gender": "female",
+        "age": "18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122021-7bWn7y5B4wgc.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 122021
+      }
+    },
+    {
+      "id": "gakuto-kase",
+      "name": "Gakuto Kase",
+      "alt_names": [
+        "加瀬 岳人"
+      ],
+      "role": "supporting",
+      "description": "Gakuto Kase is a third-year student and a prominent member of Otobuki High School's Game Club. He gets serious when it comes to FPS games and his attitude when playing these games made him one of the top FPS players of the world.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b195108-cODBpEu9Bo0w.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 195108
+      }
+    },
+    {
+      "id": "riki-misumi",
+      "name": "Riki Misumi",
+      "alt_names": [
+        "三角 理姫"
+      ],
+      "role": "supporting",
+      "description": "She is the adoptive younger sister of [Eiichi Misumi](https://anilist.co/character/122020/Eiichi-Misumi).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b272982-yEXwzVbdAwxn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 272982
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T07:14:01.347Z"
+}

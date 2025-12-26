@@ -1,0 +1,353 @@
+{
+  "work_id": "a-place-further-than-the-universe",
+  "count": 15,
+  "characters": [
+    {
+      "id": "mari-tamaki",
+      "name": "Mari Tamaki",
+      "alt_names": [
+        "玉木マリ",
+        "Kimari (キマリ)",
+        "@kima_riiiiii"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 155 cm (5'1)\n\nA second-year high school student a sunny disposition. Although she has a great attitude and is admired by her friends, she is not good at finding a place in their midst or being a leader. In spite of being filled with curiosity, she is also rather cowardly and timid. She is troubled by the dilemma that although part of her wants to do things, another part of her just ends up not doing them.\n\n(Source: Anime News Network)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124545-qwgoxY241muu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124545
+      }
+    },
+    {
+      "id": "shirase-kobuchizawa",
+      "name": "Shirase Kobuchizawa",
+      "alt_names": [
+        "小淵沢報瀬",
+        "Antarctica",
+        "@srs_kobuchizawa"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 163 cm (5'5)\n\nA second-year high school student who attends the same school as Kimari. She is a black-haired beauty that turns heads, but she is shy and not good at conversation. When she actually does speak, she can't help but say rather nasty things, which leads to misunderstandings. She has few friends and is treated as an oddball at school. At school, she is secretly called \"Antarctica.\"\n\n(Source: Anime News Network)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124546-m2grkrB5gfCJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124546
+      }
+    },
+    {
+      "id": "hinata-miyake",
+      "name": "Hinata Miyake",
+      "alt_names": [
+        "三宅日向",
+        "@hi720ta"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 145 cm (4'9)\n\nA girl brimming with curiosity and always looking for fun things to do. She is very friendly and can get along well with everyone. Since childhood, she has been a leader who has always willingly taken on roles of responsibility, such as class committee and club leader. However, she quit high school because of something that happened and is now working part-time at a convenience store.\n\n(Source: Anime News Network)",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n124547-6nbhiholxEve.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124547
+      }
+    },
+    {
+      "id": "yuzuki-shiraishi",
+      "name": "Yuzuki Shiraishi",
+      "alt_names": [
+        "白石結月",
+        "Yuzu",
+        "@si_yuzuuu"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 152 cm (5'0)\n\nA girl who is one grade lower than Kimari and the others. She lives in Hokkaido. She has been an actress since childhood, and she now works as an entertainer while attending high school. She shows maturity and is a good speaker with polite manners. She is concerned that because of always working, she is unable to make close friends.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124548-ukuGnwrtMPoT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124548
+      }
+    },
+    {
+      "id": "kanae-maekawa",
+      "name": "Kanae Maekawa",
+      "alt_names": [
+        "前川かなえ"
+      ],
+      "role": "supporting",
+      "description": "Kanae Maekawa is a woman who serves as vice commander of \"Antarctica Challenge\" under Gin and she was a member of the previous civilian expedition.\n\nSource: A Place Farther than the Universe Wiki",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124549-9cQlEHK2HH7R.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124549
+      }
+    },
+    {
+      "id": "yumiko-samejima",
+      "name": "Yumiko Samejima",
+      "alt_names": [
+        "鮫島弓子"
+      ],
+      "role": "supporting",
+      "description": "Yumiko Samejima is the so-called Antarctic chef who serves as the head cook of the observation team and she was also a member of the previous civilian expedition.\n\nSource: A Place Farther than the Universe Wiki",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124550-vcquLkaalt6A.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124550
+      }
+    },
+    {
+      "id": "tamiko-shiraishi",
+      "name": "Tamiko Shiraishi",
+      "alt_names": [
+        "白石民子"
+      ],
+      "role": "supporting",
+      "description": "Tamiko Shiraishi is the mother of Yuzuki Shiraishi who is a manager of her daughter's works.\n\nSource: A Place Farther than the Universe Wiki",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124551-RWfJutXPrRCL.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124551
+      }
+    },
+    {
+      "id": "megumi-takahashi",
+      "name": "Megumi Takahashi",
+      "alt_names": [
+        "高橋めぐみ",
+        "Megu",
+        "@megu_chann"
+      ],
+      "role": "supporting",
+      "description": "Megumi Takahashi is Mari Tamaki's childhood friend/best friend from kindergarten who became envious of Kimari after she decided to go to Antarctica.\n\nSource: A Place Further than the Universe Wiki",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124552-XMgaLwMwfAcy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124552
+      }
+    },
+    {
+      "id": "rin-tamaki",
+      "name": "Rin Tamaki",
+      "alt_names": [
+        "玉木リン"
+      ],
+      "role": "supporting",
+      "description": "Mari Tamaki's younger sister who serves as a school committee member at middle school.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124553-5CnQTwENV19D.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124553
+      }
+    },
+    {
+      "id": "gin-toudou",
+      "name": "Gin Toudou",
+      "alt_names": [
+        "藤堂吟"
+      ],
+      "role": "supporting",
+      "description": "Captain of the expedition to Antarctica and former friend of Shirase's mother.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124554-jB7ke4JrybC0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124554
+      }
+    },
+    {
+      "id": "toshio-zaizen",
+      "name": "Toshio Zaizen",
+      "alt_names": [
+        "財前敏夫"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139748-BlfBdt0lmpMm.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139748
+      }
+    },
+    {
+      "id": "chiaki-mukai",
+      "name": "Chiaki Mukai",
+      "alt_names": [
+        "迎千秋"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180741-DxgUVKymcK50.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180741
+      }
+    },
+    {
+      "id": "nobue-todoroki",
+      "name": "Nobue Todoroki",
+      "alt_names": [
+        "轟信恵"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180742-vSP7qaNUBIdf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180742
+      }
+    },
+    {
+      "id": "yume-sasaki",
+      "name": "Yume Sasaki",
+      "alt_names": [
+        "佐々木夢"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180743-5Wa4KZqdyjrY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180743
+      }
+    },
+    {
+      "id": "dai-himi",
+      "name": "Dai Himi",
+      "alt_names": [
+        "氷見大"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180744-u6HX4QbmQXK3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180744
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T11:16:40.887Z"
+}

@@ -1,0 +1,370 @@
+{
+  "work_id": "ruridragon",
+  "count": 15,
+  "characters": [
+    {
+      "id": "ruri-aoki",
+      "name": "Ruri Aoki",
+      "alt_names": [
+        "青木瑠璃",
+        "ルリ"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 154 cm (5'1\")\n__Relatives:__ [Umi Aoki](https://anilist.co/character/328042/Umi-Aoki) (Mother), [Ruri no Chichi](https://anilist.co/character/328049/Ruri-no-Chichi) (Father), [Ruri no Sobo](https://anilist.co/character/328045/Ruri-no-Sobo) (Grandmother)\n\nA first-year in high school who awoke one morning to find horns growing out of her head and learned that she was, in fact, half dragon. In the days and weeks since, Ruri has dealt with fire breath and other emerging dragon traits, all of which threaten to disrupt her life as an otherwise ordinary teen.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b278064-DjTfB1Gytc8T.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 278064
+      }
+    },
+    {
+      "id": "umi-aoki",
+      "name": "Umi Aoki",
+      "alt_names": [
+        "青木海",
+        "Ruri no Haha (ルリの母)",
+        "Ruri's Mother"
+      ],
+      "role": "supporting",
+      "description": "__Relatives:__ [Ruri Aoki](https://anilist.co/character/278064/Ruri-Aoki) (Daughter), [Ruri no Chichi](https://anilist.co/character/328049/Ruri-no-Chichi) (Husband) and [Ruri no Sobo](https://anilist.co/character/328045/Ruri-no-Sobo) (Mother)",
+      "metadata": {
+        "gender": "female",
+        "age": "36",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b328042-D2g0x1IsZqfB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 328042
+      }
+    },
+    {
+      "id": "yuka-hagiwara",
+      "name": "Yuka Hagiwara",
+      "alt_names": [
+        "萩原裕香"
+      ],
+      "role": "supporting",
+      "description": "Ruri's best friend.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b328043-GlfJazkxbLhO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 328043
+      }
+    },
+    {
+      "id": "airi-kashiro",
+      "name": "Airi Kashiro",
+      "alt_names": [
+        "神代藍莉"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 159 cm (5'3\")",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b328044-9bgEyTpUDm5q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 328044
+      }
+    },
+    {
+      "id": "asuka-mikura",
+      "name": "Asuka Mikura",
+      "alt_names": [
+        "三倉明日香"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 156 cm (5'1\")\n\nOne of Ruri's friends.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b328046-PFHnGlnU6f32.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 328046
+      }
+    },
+    {
+      "id": "ryuunosuke-yoshioka",
+      "name": "Ryuunosuke Yoshioka",
+      "alt_names": [
+        "吉岡流之助"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 172 cm (5'6\")\n\nOne of Ruri's classmate.",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b328047-bBI2FkYzAGWj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 328047
+      }
+    },
+    {
+      "id": "kana-miyashita",
+      "name": "Kana Miyashita",
+      "alt_names": [
+        "宮下佳奈"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 161 cm (5'3\")\n\nOne of Ruri's friends.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b328048-7eLj7gpkVOgO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 328048
+      }
+    },
+    {
+      "id": "akari-maeda",
+      "name": "Akari Maeda",
+      "alt_names": [
+        "前田赤里"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165 cm (5'5\")\n\nOne of Ruri's friends.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b344081-3hmNEwZwG6KJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 344081
+      }
+    },
+    {
+      "id": "yoru-kurosawa",
+      "name": "Yoru Kurosawa",
+      "alt_names": [
+        "黒沢夜"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 151cm (4'9\")\n\nOne of Ruri's friends.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b358633-QYtvwzpztd3l.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 358633
+      }
+    },
+    {
+      "id": "chikuma-kousaka",
+      "name": "Chikuma Kousaka",
+      "alt_names": [
+        "香坂千曲"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 176cm (5'8\")\n\nThe student council president.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b358634-matfpo52LVGi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 358634
+      }
+    },
+    {
+      "id": "makoto-ryuuzaki",
+      "name": "Makoto Ryuuzaki",
+      "alt_names": [
+        "竜崎眞"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 157cm (5'2\")\n\nThe student council vice president.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b358635-ptWPtPwSRpuW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 358635
+      }
+    },
+    {
+      "id": "homura-kagami",
+      "name": "Homura Kagami",
+      "alt_names": [
+        "賀上淡"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 175 cm (5'7\")\n\nOne of Ruri's classmate.",
+      "metadata": {
+        "gender": "male",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b379917-iHriHKmocFkd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 379917
+      }
+    },
+    {
+      "id": "hinata-tazaki",
+      "name": "Hinata Tazaki",
+      "alt_names": [
+        "田崎日向"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 166 cm (5'4\")\n\nOne of Ruri's friends.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b379918-lIlwlRc1RWLF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 379918
+      }
+    },
+    {
+      "id": "kokoro-komichi",
+      "name": "Kokoro Komichi",
+      "alt_names": [
+        "小路心"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 147 cm (4'8\")\n\nOne of Ruri's friends.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b379919-EWbSNSKpspX1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 379919
+      }
+    },
+    {
+      "id": "sakuya-onizuka",
+      "name": "Sakuya Onizuka",
+      "alt_names": [
+        "鬼塚咲夜"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 163 cm (5'3\")\n\nOne of Ruri's classmate.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b379920-oyMkh7nilubR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 379920
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T12:03:27.770Z"
+}

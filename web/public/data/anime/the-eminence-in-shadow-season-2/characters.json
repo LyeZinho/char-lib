@@ -1,0 +1,384 @@
+{
+  "work_id": "the-eminence-in-shadow-season-2",
+  "count": 15,
+  "characters": [
+    {
+      "id": "cid-kagenou",
+      "name": "Cid Kagenou",
+      "alt_names": [
+        "シド・カゲノー",
+        "Shadow",
+        "Minoru Kagenou (影野ミノル)",
+        "Stylish Boukan Slayer (Stylish Thug Slayer)",
+        "Fido",
+        "Pooch",
+        "Jimina Seinen (地味な青年)",
+        "Mundane Mann",
+        "Stylish Touzoku Slayer (Stylish Bandit Slayer)"
+      ],
+      "role": "protagonist",
+      "description": "__Race:__ Human\n\nCid Kagenou, under the moniker of \"Shadow,\" is the founder and leader of the secret organization \"Shadow Garden.\" He founded the organization to help realize his fantasy of becoming an “Eminence in Shadow\". However, unbeknownst to him, his fabrications are often revealed to be quite genuine in reality. Cid is the reincarnation of Minoru Kagenou. \n\n(Source: The Eminence in Shadow Wiki)",
+      "metadata": {
+        "gender": "male",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136837-3WR22FYet8Hv.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136837
+      }
+    },
+    {
+      "id": "alpha",
+      "name": "Alpha",
+      "alt_names": [
+        "アルファ"
+      ],
+      "role": "protagonist",
+      "description": "__Race:__ Elf\n\nAlpha is the second-in-command of Shadow Garden. After being cured of Demon Possession by [Cid Kagenou](https://anilist.co/character/136837/Cid-Kagenou), she would devote her life to his cause, becoming the first member to be recruited into his organization, Shadow Garden. \n\n~!She is the descendant of the elf [Hero Olivier](https://anilist.co/character/204203/Olivier).!~\n\n(Source: To Be a Power in the Shadows! Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162246-IbbxkhNJFDN5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162246
+      }
+    },
+    {
+      "id": "beta",
+      "name": "Beta",
+      "alt_names": [
+        "ベータ"
+      ],
+      "role": "protagonist",
+      "description": "__Race:__ Elf\n\nBeta is the second member of Shadow Garden, supporting her master [Shadow](https://anilist.co/character/136837/Cid-Kagenou) against the Order of Diabolos. \n\n~!Outside of her Shadow Garden activities, she adopts the identity of Natsume Kafka, an up-and-coming author of numerous original pieces of literature.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162247-R6OrAuT1FwL4.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162247
+      }
+    },
+    {
+      "id": "gamma",
+      "name": "Gamma",
+      "alt_names": [
+        "ガンマ",
+        "Gamma the Weak",
+        "Luna"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Elf\n\nGamma is a member of Shadow Garden, being third of the original [Shadow](https://anilist.co/character/136837/Cid-Kagenou) Seven as well as the director of the Mitsugoshi Company. Despite her lack of coordination, Gamma's knowledge has allowed her to recreate many of the items described by her master [Shadow](https://anilist.co/character/136837/Cid-Kagenou) to sell as Mitsugoshi's exclusive products.\n\n(Source: To Be a Power in the Shadows! Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "17-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162245-x86QMM6nOj75.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162245
+      }
+    },
+    {
+      "id": "delta",
+      "name": "Delta",
+      "alt_names": [
+        "デルタ",
+        "Delta the Loose Cannon",
+        "Delta the Suicide Weapon"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Beastkin\n\nDelta is a member of Shadow Garden, being fourth of the original Shadow Seven to join the organization after her Demonic Possession was healed by her master [Shadow](https://anilist.co/character/136837/Cid-Kagenou). As the most physically gifted of the Seven, Delta is also often the most destructive and brutal of the group due to her lack of sense and self-control.\n\n(Source: To Be a Power in the Shadows! Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162248-57Xgk6EmwKRQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162248
+      }
+    },
+    {
+      "id": "epsilon",
+      "name": "Epsilon",
+      "alt_names": [
+        "イプシロン",
+        "Epsilon the Faithful"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Elf\n\nEpsilon is the fifth member of Shadow Garden. Due to her insecurities with having a flat-chest, she manipulated her slime bodysuit every year to slowly increase the mass on her chest, eventually developing a fake large breast. As a consequence of this, she developed extreme magic control earning her the title, \"The Precision.\"\n\n(Source: To Be a Power in the Shadows! Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "17-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162249-eJRpBIC5lAZX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162249
+      }
+    },
+    {
+      "id": "claire-kagenou",
+      "name": "Claire Kagenou",
+      "alt_names": [
+        "クレア・カゲノー"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human\n\nClaire is the older sister of [Cid Kagenou](https://anilist.co/character/136837/Cid-Kagenou) and heir to the Kagenou Family.\n\n(Source: To Be a Power in the Shadows! Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "17-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168798-IrHBKh5xbRsr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168798
+      }
+    },
+    {
+      "id": "alexia-midgar",
+      "name": "Alexia Midgar",
+      "alt_names": [
+        "アレクシア・ミドガル"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human\n\nAlexia Midgar is the second princess of the Kingdom of Midgar and younger sister of [Iris Midgar](https://anilist.co/character/204204/Iris--Midgar). She is also a student of Midgar Royal Spellsword Academy.\n\n(Source: To Be a Power in the Shadows! Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168799-uAsWFrrfqxTN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168799
+      }
+    },
+    {
+      "id": "rose-oriana",
+      "name": "Rose Oriana",
+      "alt_names": [
+        "ローズ・オリアナ",
+        "Oriana Oujo (オリアナ王女)",
+        "Princess Oriana"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human\n\nRosa Oriana is a noble Princess from the Oriana kingdom. She is known for being a genius in art in her kingdom. However, she came to Midgar Royal Spellsword Academy in order to learn swordsmanship.\n\n~!Later [Alpha](https://anilist.co/character/162246/Alpha) discovered Rose, who became a fugitive for assassinating her father and was then offered membership into Shadow Garden.!~\n\n(Source: To Be a Power in the Shadows! Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "17-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168800-eb3FqWq0IdyV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168800
+      }
+    },
+    {
+      "id": "nu",
+      "name": "Nu",
+      "alt_names": [
+        "ニュー",
+        "Nyuu"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human\n\nNu is the thirteenth member of Shadow Garden and an employee of Mitsugoshi Company. \n\n(Source: To Be a Power in the Shadows! Wiki)",
+      "metadata": {
+        "gender": "female",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b168968-kiFqnWfpCLUE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 168968
+      }
+    },
+    {
+      "id": "iris-midgar",
+      "name": "Iris  Midgar",
+      "alt_names": [
+        "アイリス・ミドガル"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human\n\nIris Midgar is the first princess of the Kingdom of Midgar and older sister of [Alexia Midgar](https://anilist.co/character/168799/Alexia-Midgar). She is also leader of the Crimson Order. \n\n(Source: *The Eminence in Shadow* Wiki)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b204204-wsPvzUwfdUwJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 204204
+      }
+    },
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "alt_names": [
+        "アウロラ",
+        "The Witch of Calamity",
+        "Violet"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Human\n\nA woman known as the Calamity Witch who once brought chaos and destruction to the world. In the Goddess' Trial in the Sacred Land, she is summoned in reaction to Cid's presence and does battle with him in the form of Shadow. Her body is sealed in the sanctuary, and after helping Cid to escape she disappears together with its destruction. \n\n~!Aurora's true identity is the great demon Diabolos but it is unknown if she founded the Order of Diabolos or cursed the three heroes with possession. !~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215409-Y1Ti42451ivg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215409
+      }
+    },
+    {
+      "id": "mary",
+      "name": "Mary",
+      "alt_names": [
+        "メアリー"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Vampire\n\nMary is a Vampire Hunter, dedicated in putting an end to [Elizabeth](https://anilist.co/character/217044/Elizabeth), the Vampire Queen.\n\n(Source: To Be a Power in the Shadows! Wiki)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217043-VZDrrt1DYl5Q.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217043
+      }
+    },
+    {
+      "id": "elisabeth",
+      "name": "Elisabeth",
+      "alt_names": [
+        "エリザベート",
+        "Chi no Joou (血の女王)",
+        "Blood Queen"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Vampire\n\nElisabeth is one of the three monarchs of the Lawless City and the Queen of Vampires.\n\n(Source: To Be a Power in the Shadows! Wiki)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217044-mgNojqXLQCRo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217044
+      }
+    },
+    {
+      "id": "yukime",
+      "name": "Yukime",
+      "alt_names": [
+        "ユキメ",
+        "Yukime the Enchantress",
+        "Spirit Fox"
+      ],
+      "role": "supporting",
+      "description": "__Race:__ Therianthrope (Fox)\n\nShe is the ruler of the White Tower, a therianthrope known as a \"Spirit Fox\". Even Among the Spirit Fox clan she possesses exceptional talents and combat abilities, using an iron fan as her weapon to dance gracefully in battle. While she manages the red-light district in the Lawless City, she is also a savvy entrepreneur who runs a trading company called the Snow Fox Corporation\n\n~!Later on, Yukime chooses to form an alliance between her faction and [Shadow's](https://anilist.co/character/136837/Cid-Kagenou), both organizations desiring to end the nuisance of the cult.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217045-g7JT2Qvwa00f.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217045
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T10:41:39.713Z"
+}

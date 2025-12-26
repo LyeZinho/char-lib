@@ -1,0 +1,354 @@
+{
+  "work_id": "we-never-learn",
+  "count": 15,
+  "characters": [
+    {
+      "id": "nariyuki-yuiga",
+      "name": "Nariyuki Yuiga",
+      "alt_names": [
+        "唯我成幸",
+        "Nari-chan"
+      ],
+      "role": "protagonist",
+      "description": "Yuiga has been appointed by the principal as [Rizu](https://anilist.co/character/121776) and [Fumino](https://anilist.co/character/121775)'s tutor to get them into their desired universities. Later is also asked to tutor [Uruka](https://anilist.co/character/121778).",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121777-UvXQwvZoJ130.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121777
+      }
+    },
+    {
+      "id": "fumino-furuhashi",
+      "name": "Fumino Furuhashi",
+      "alt_names": [
+        "古橋文乃",
+        "Fuminocchi"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 165cm\n\nFumino is a genius with liberal arts but terrible with math. Left-handed. She is a blue-haired girl whose dream is to be able to reach for the stars just as how her mother dreamt of studying the stars. Her father is a professor and teaches Math, but she genetically relates to her mother where they both can't do math. Along with being one of the main heroines of the series, she teaches Yuiga about the feelings of a woman, not knowing that she would later fall for him in the series. She is quite insecure with her chest size, and tends to hurt anyone who makes fun of it, such as Ogata comparing her test scores in which she thought it was a comparison between their chests.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121775-6iSltmB7pcwR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121775
+      }
+    },
+    {
+      "id": "rizu-ogata",
+      "name": "Rizu Ogata",
+      "alt_names": [
+        "緒方理珠"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 143cm\n\nRizu is a genius with math and science but terrible with liberal arts.\n\nRizu is one of the four students that is being tutored by Yuiga in Liberal Arts. She is smart when it comes to Science and Math, but is terrible with liberal arts. She is also terrible at understanding people's feelings and reading the mood of the conversation. She tends to see everything in a logical manner whenever something related to emotions such love and awkwardness arise.",
+      "metadata": {
+        "gender": "female",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121776-FoaE1sZ3SlVg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121776
+      }
+    },
+    {
+      "id": "uruka-takemoto",
+      "name": "Uruka Takemoto",
+      "alt_names": [
+        "武元うるか"
+      ],
+      "role": "protagonist",
+      "description": "Uruka is a genius when it comes to sports, having earned several titles in freestyle swimming, but her lazy nature and hatred for studying has made her terrible with her other academics.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121778-xQT0vA94wWAO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121778
+      }
+    },
+    {
+      "id": "mafuyu-kirisu",
+      "name": "Mafuyu Kirisu",
+      "alt_names": [
+        "桐須真冬"
+      ],
+      "role": "protagonist",
+      "description": "Student Counselor at [Yuiga](https://anilist.co/character/121777)'s school and one of [Rizu](https://anilist.co/character/121776) and [Fumino](https://anilist.co/character/121775)'s ex-tutors.\n\nShe is a pink-haired individual whose clumsiness (ie. misplacing her keys and a messy house) and being reckless (ie. Can drive at \"normal levels\" in which it frightens Yuiga) is part of her overall personality. Being a person who isn't close to her parents, she was once a professional skater until she abruptedly stopped due to the fact that her parents had the expectation of being a skater when she only wanted to be a teenage schoolgirl. She tends to give out tough love by sending out mixed signals. She is also abhors cockroaches and had asked Yuiga to stay with her while getting rid of the cockroach with the promise of doing anything for him. Even mentioning cockroach would make Mafuyu scared that she has to interrupt anyone from saying the animal outloud.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125600-IeguEoI3TgQC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125600
+      }
+    },
+    {
+      "id": "asumi-kominami",
+      "name": "Asumi Kominami",
+      "alt_names": [
+        "小美浪あすみ"
+      ],
+      "role": "protagonist",
+      "description": "Part-time worker at a maid café called High Stage and classmates with [Yuiga](https://anilist.co/character/121777) at a summer cram school.",
+      "metadata": {
+        "gender": "female",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125599-lRbcA9Ijf7yf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125599
+      }
+    },
+    {
+      "id": "mizuki-yuiga",
+      "name": "Mizuki Yuiga",
+      "alt_names": [
+        "唯我水希"
+      ],
+      "role": "supporting",
+      "description": "She is the younger sister of Nariyuki.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129715-yMXCgcgio54N.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129715
+      }
+    },
+    {
+      "id": "miharu-kirisu",
+      "name": "Miharu Kirisu",
+      "alt_names": [
+        "桐須美春"
+      ],
+      "role": "supporting",
+      "description": "Miharu Kirisu is the younger sister of Mafuyu and an amateur skater.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129716-iSnWkE19Z6yT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129716
+      }
+    },
+    {
+      "id": "sawako-sekijou",
+      "name": "Sawako Sekijou",
+      "alt_names": [
+        "関城佐和子"
+      ],
+      "role": "supporting",
+      "description": "She is the President of the chemistry club.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129717-ARheSvasCEVc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 129717
+      }
+    },
+    {
+      "id": "chinami-umihara",
+      "name": "Chinami Umihara",
+      "alt_names": [
+        "海原智波"
+      ],
+      "role": "supporting",
+      "description": "Member of Uruka's swim squad.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138277-eHPZWgzAELjf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138277
+      }
+    },
+    {
+      "id": "ayuko-kuwase",
+      "name": "Ayuko Kuwase",
+      "alt_names": [
+        "川瀬あゆ子"
+      ],
+      "role": "supporting",
+      "description": "Uruka's teammate on the swim team",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139549-Dtv6c1NoCEKe.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139549
+      }
+    },
+    {
+      "id": "kashima",
+      "name": "Kashima",
+      "alt_names": [
+        "鹿島"
+      ],
+      "role": "supporting",
+      "description": "She is a 3rd-year student who is trying to make sure Fumino doesn't fall in love with someone who clearly has different motives.\n~!She misunderstood the relationship between Nariyuki and Fumino in Question 24, and it seems she still does in another way.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139550-lkURr49AlLI1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139550
+      }
+    },
+    {
+      "id": "mikuni",
+      "name": "Mikuni",
+      "alt_names": [
+        "ミクニ"
+      ],
+      "role": "supporting",
+      "description": "Works at a maid café with [Asumi](https://anilist.co/character/125599/Asumi-Kominami) and [Machiko](https://anilist.co/character/140223).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140222-zo77tn1ICysv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 140222
+      }
+    },
+    {
+      "id": "machiko",
+      "name": "Machiko",
+      "alt_names": [
+        "マチコ"
+      ],
+      "role": "supporting",
+      "description": "Works at a maid café with [Asumi](https://anilist.co/character/125599/Asumi-Kominami) and [Mikuni](https://anilist.co/character/140222/Mikuni).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140223-PtoKfNIlSF5A.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 140223
+      }
+    },
+    {
+      "id": "himura",
+      "name": "Himura",
+      "alt_names": [
+        "ヒムラ"
+      ],
+      "role": "supporting",
+      "description": "Works at a maid café with [Asumi](https://anilist.co/character/125599/Asumi-Kominami), [Machiko](https://anilist.co/character/140223/Machiko) and [Mikuni](https://anilist.co/character/140222/Mikuni).",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140224-rHQ1lztxTtHB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 140224
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T02:12:39.319Z"
+}

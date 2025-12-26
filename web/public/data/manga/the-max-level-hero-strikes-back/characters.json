@@ -1,0 +1,57 @@
+{
+  "work_id": "the-max-level-hero-strikes-back",
+  "count": 2,
+  "characters": [
+    {
+      "id": "davy-al-raun",
+      "name": "Davy Al Raun",
+      "alt_names": [
+        "데이비 올 라운",
+        "Davy Al Rune",
+        "Davie O’Rowane",
+        "戴伊比．奧．拉恩"
+      ],
+      "role": "protagonist",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220162-L46O7d8Az40R.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220162
+      }
+    },
+    {
+      "id": "perserk-von-palan",
+      "name": "Perserk von Palan",
+      "alt_names": [
+        "페르세르크 폰 팔란",
+        "Perserque von Pallan"
+      ],
+      "role": "supporting",
+      "description": "Void Demon",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b220163-omfegmAzxiXG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 220163
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T12:40:40.310Z"
+}

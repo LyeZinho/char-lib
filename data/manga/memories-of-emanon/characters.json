@@ -1,0 +1,74 @@
+{
+  "work_id": "memories-of-emanon",
+  "count": 3,
+  "characters": [
+    {
+      "id": "emanon",
+      "name": "Emanon",
+      "alt_names": [
+        "エマノン"
+      ],
+      "role": "protagonist",
+      "description": "A mysterious girl who holds a 3-billion-year old memory, dating back to the moment life first appeared on Earth.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b29828-6ALiEx5Q37hF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 29828
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター"
+      ],
+      "role": "protagonist",
+      "description": "A young student who likes sci-fi literature. In 1967 he met Emanon on the ship heading for his home in Kyushu.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136935-W1waeGLC3VXU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136935
+      }
+    },
+    {
+      "id": "ema",
+      "name": "Ema",
+      "alt_names": [
+        "荏麻"
+      ],
+      "role": "supporting",
+      "description": "Ema is Ryouzan's wife and mother of 1973's generation of Emanon. When she gave birth to next Emanon her mind and memory were wiped blank. She survived and gained new personality only thanks to dedication and support of her husband.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136933-MDDYNJGlxdix.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 136933
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T03:19:55.472Z"
+}

@@ -1,0 +1,189 @@
+{
+  "work_id": "smoking-behind-the-supermarket-with-you",
+  "count": 8,
+  "characters": [
+    {
+      "id": "sasaki",
+      "name": "Sasaki",
+      "alt_names": [
+        "佐々木"
+      ],
+      "role": "protagonist",
+      "description": "__Occupation:__ Office Worker\n\nA tired middle-aged corporate slave. His daily relaxation comes from cigarettes and Yamada's cheerful hospitality.\n\n~!He doesn't recognize that his favorite employee, Yamada, is the same person as his new smoking friend, Tayama.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "45-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b281763-4LXduEGESuso.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 281763
+      }
+    },
+    {
+      "id": "yamada",
+      "name": "Yamada",
+      "alt_names": [
+        "山田"
+      ],
+      "role": "protagonist",
+      "description": "Yamada is an employee of the supermarket known as Super S. She initially started in a part-time position 8 years ago as a teenager.\n\n~!As Yamada, she is a cheerful, flawless customer handler. Her real self, which she introduces to Sasaki as \"Tayama\", is much more frank and less outwardly polite. She invites Sasaki to come to the smoking area behind the store, which he then does regularly.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "24-25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b281764-GzjgHWq4gW9n.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 281764
+      }
+    },
+    {
+      "id": "gotou",
+      "name": "Gotou",
+      "alt_names": [
+        "後藤"
+      ],
+      "role": "supporting",
+      "description": "__Occupation:__ The manager of Super S.",
+      "metadata": {
+        "gender": "female",
+        "age": "40",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b307811-dwvCqZUh9k8w.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 307811
+      }
+    },
+    {
+      "id": "obata",
+      "name": "Obata",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315451-PezrNVg8AmFJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315451
+      }
+    },
+    {
+      "id": "oono",
+      "name": "Oono",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315452-dha4CAvf3MkA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315452
+      }
+    },
+    {
+      "id": "maezawa",
+      "name": "Maezawa",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b315453-UKnbiI2h8SKF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 315453
+      }
+    },
+    {
+      "id": "suzuki",
+      "name": "Suzuki",
+      "alt_names": [
+        "鈴木"
+      ],
+      "role": "supporting",
+      "description": "He is Sasaki's co-worker.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b319609-FhL6FAGs4uTm.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 319609
+      }
+    },
+    {
+      "id": "kawakami",
+      "name": "Kawakami",
+      "alt_names": [
+        "川上",
+        "Kami (カミ)"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325245-2If61hcSjSDf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325245
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T02:52:08.115Z"
+}

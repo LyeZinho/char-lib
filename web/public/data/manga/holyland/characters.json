@@ -1,0 +1,234 @@
+{
+  "work_id": "holyland",
+  "count": 10,
+  "characters": [
+    {
+      "id": "shougo-midorikawa",
+      "name": "Shougo Midorikawa",
+      "alt_names": [
+        "緑川ショウゴ"
+      ],
+      "role": "protagonist",
+      "description": "A delinquent skilled in karate (he deliberately avoids gaining a blackbelt to escape the notice of police). He challenges Yuu, but is beaten, and hunted by his previous gang. He tries to team up with Yuu to fight them, but ends up becoming his friend, and teaching Yuu about kicks and body rotation.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/17093.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17093
+      }
+    },
+    {
+      "id": "yuu-kamishiro",
+      "name": "Yuu Kamishiro",
+      "alt_names": [
+        "神代ユウ",
+        "Thug Hunter"
+      ],
+      "role": "protagonist",
+      "description": "Yuu is a very nervous boy, who was bullied severely, eventually cutting school and becoming a hikkimori. Eventually, he tries to grow stronger by practicing boxing from a book, and by repetition develops a powerful one-two. Beginning to get into fights with delinquents, Yuu finds a sense of place and satisfaction on the streets, but must defend himself against stronger opponents to survive.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17096-yJ2Pz7JlmfRP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 17096
+      }
+    },
+    {
+      "id": "masaki-izawa",
+      "name": "Masaki Izawa",
+      "alt_names": [
+        "伊沢マサキ",
+        "Charisma of the Streets"
+      ],
+      "role": "protagonist",
+      "description": "An experienced boxer who hangs around the streets as a delinquent, called the 'Charisma of the streets'. He supports Yuu in his development as a fighter. He uses his own customized version of Boxing and Karate for street fights.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b28981-OlMeOxCyKUKD.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 28981
+      }
+    },
+    {
+      "id": "shinichi-kaneda",
+      "name": "Shinichi Kaneda",
+      "alt_names": [
+        "金田シンイチ",
+        "Shin"
+      ],
+      "role": "protagonist",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/70631.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70631
+      }
+    },
+    {
+      "id": "mai-izawa",
+      "name": "Mai Izawa",
+      "alt_names": [
+        "伊沢マイ"
+      ],
+      "role": "supporting",
+      "description": "She is Masaki's little sister and seems to have feelings for Yuu.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/64379.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 64379
+      }
+    },
+    {
+      "id": "yoshii",
+      "name": "Yoshii",
+      "alt_names": [
+        "吉井"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/70691.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70691
+      }
+    },
+    {
+      "id": "iwado",
+      "name": "Iwado",
+      "alt_names": [
+        "岩戸"
+      ],
+      "role": "supporting",
+      "description": "The main character Yuu often comes to him for advice",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/70693.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70693
+      }
+    },
+    {
+      "id": "tsuchiya",
+      "name": "Tsuchiya",
+      "alt_names": [
+        "土屋"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/70695-cYzCiHRneVfo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70695
+      }
+    },
+    {
+      "id": "taka",
+      "name": "Taka",
+      "alt_names": [
+        "タカ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/70697-x2pk0U3cPtnP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70697
+      }
+    },
+    {
+      "id": "king",
+      "name": "King",
+      "alt_names": [
+        "キング"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308251
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T09:44:06.566Z"
+}

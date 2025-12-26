@@ -1,0 +1,356 @@
+{
+  "work_id": "wind-breaker",
+  "count": 15,
+  "characters": [
+    {
+      "id": "haruka-sakura",
+      "name": "Haruka Sakura",
+      "alt_names": [
+        "桜遥",
+        "Othello-kun"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 169 cm\n\nHaruka Sakura is a high school student in his first year. He attends Fuurin, a school known as a delinquent school, with aspirations to reach the top. He admires strong people. Rejected by others for his rough appearance, being alone was natural for him.  Hated by others and sitting at the bottom of the social strata, Sakura believes fighting is his only saving grace and that by winning those fights, he thinks he can feel his worth. He tries to keep an image of a ruthless and tough exterior, but in reality, he is kind-hearted. He easily gets embarrassed by compliments on his good acts. \n\n(Source: WIND BREAKER Official Website, edited)",
+      "metadata": {
+        "gender": "male",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b230204-cNRNjAj1FP4j.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 230204
+      }
+    },
+    {
+      "id": "akihiko-nirei",
+      "name": "Akihiko Nirei",
+      "alt_names": [
+        "楡井秋彦"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 163 cm \n\nA first-year student at Furin High School in Class 1. Nirei is weak at fighting, but his frank personality livens up the room — he's the life of the class. He wants to protect the town more than anybody else and thus has always aspired to become a student at Furin High School. Nirei always carries a notepad and pen in his chest pocket. He's a well-informed person whose hobby is collecting and analyzing data on people he thinks are cool. \n\n(Source: WIND BREAKER Official Website)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b255627-UG5olFBkfpTO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 255627
+      }
+    },
+    {
+      "id": "kyoutarou-sugishita",
+      "name": "Kyoutarou Sugishita",
+      "alt_names": [
+        "杉下京太郎"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 192 cm\n\nA first-year student at Furin High School in Class 1. Sugishita's a mad dog and quite talented — he's the only one who's been allowed to call himself \"Bofurin\" since middle school. His motivation and driving force come from his excessive loyalty and devotion to Umemiya - whatever Umemiya says, goes. He's usually quiet and has a unique sway as he walks. When he gets mad, though, he's the most unpredictable of them all. \n\n(Source: WIND BREAKER Official Website)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b255628-GE1KFrRO4cPK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 255628
+      }
+    },
+    {
+      "id": "hayato-suou",
+      "name": "Hayato Suou",
+      "alt_names": [
+        "蘇枋隼飛"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 174 cm\n\nA first-year student at Furin High School in Class 1. Suo has a refreshing smile and is pleasant to everyone he meets, but his outrageous jokes can cause chaos to the people around him. Despite his pleasantness, he can present an icy personality that leaves no tolerance for people who lack decorum. Suo's an enigma as he usually shows no emotions nor reveals his true feelings. He has a unique fighting style that resembles both kung fu and aikido. \n\n(Source: WIND BREAKER Official Website)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b255629-dnDEPOiRH5Wo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 255629
+      }
+    },
+    {
+      "id": "hajime-umemiya",
+      "name": "Hajime Umemiya",
+      "alt_names": [
+        "梅宮一"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 188cm\n\nA third-year student at Furin High School in Class 1. Umemiya is Bofurin's representative, meaning he stands at the top. With his friendly smile and amicable personality, he's a charismatic man who garners absolute trust from the people around him — not just the students at Furin High School but also from people around town. He's not just physically strong, however — with the tenacity to handle anything thrown his way, his very existence can overwhelm the people around him in a single shout. He likes to grow vegetables as a hobby.\n\n(Source: WIND BREAKER Official Website)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b255630-lz7qcvEvmj3y.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 255630
+      }
+    },
+    {
+      "id": "touma-hiragi",
+      "name": "Touma Hiragi",
+      "alt_names": [
+        "柊登馬"
+      ],
+      "role": "supporting",
+      "description": "A third-year student at Furin High School in Class 1. One of the Four Kings of Bofurin, Hiragi is the leader of the Tamon Team. Hiragi is highly strung and possesses a strong sense of responsibility, often finding himself being pushed around by the overly gracious Umemiya. He's also a hard worker who can't let go of his stomach pain medicine. He possesses true martial arts ability, proven to be one of the best at his craft. He is an understanding person who loyally supports Umemiya.\n\n(Source: WIND BREAKER Official Website)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b318248-88xhG9Tel1dv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 318248
+      }
+    },
+    {
+      "id": "tsugeura-taiga",
+      "name": "Tsugeura Taiga",
+      "alt_names": [
+        "柘浦大河"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 181 cm\n\nA first-year student at Furin High School in Class 1. Always lifting weights and never without his protein shake, Tsugeura possesses a bright and honest personality that makes all his friends admire him. However, due to his constant state of high energy, his friends can also find him to be a pain in the butt at times. A lover of \"virtues\" as a way of life, he asks everyone he meets for the first time about their virtues. He’s a regular at the Muscle Power restaurant and recommends their protein okonomiyaki.\n\n(Source: WIND BREAKER Official Website)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b329046-9rNZ9uCwJ8yd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 329046
+      }
+    },
+    {
+      "id": "mitsuki-kiryuu",
+      "name": "Mitsuki Kiryuu",
+      "alt_names": [
+        "桐生三輝"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165cm\n\nA first-year student at Furin High School in Class 1. Toshiyuki’s gentle-mannered personality and thoughtfulness make him popular with the ladies, but he’s no pushover — his fighting abilities are the real deal. A lover of games, he'll play them whenever he has some free time, making it his daily routine to try and get game login bonuses. He likes to add “chan” to his close friends’ names as a term of endearment. He is revered as one of the five strongest of his grade.\n\n(Source: WIND BREAKER Official Website, edited)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b329047-oaJEv034sHox.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 329047
+      }
+    },
+    {
+      "id": "ren-kaji",
+      "name": "Ren Kaji",
+      "alt_names": [
+        "梶蓮"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b332260-WkAAxMZJ1Yyg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 332260
+      }
+    },
+    {
+      "id": "kotoha-tachibana",
+      "name": "Kotoha Tachibana",
+      "alt_names": [
+        "橘ことは"
+      ],
+      "role": "supporting",
+      "description": "Kotoha works at Café Pothos. Her friendly and brave personality makes her seem like an adult, but just like Sakura and the others, she’s only 16. As manager of Café Pothos, she serves the best menu to the students at Furin High School and the local townspeople everyday. She will admonish Sakura for his actions from time to time.\n\n(Source: WIND BREAKER Official Website)",
+      "metadata": {
+        "gender": "female",
+        "age": "16-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b329049-vxIyIiCckko5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 329049
+      }
+    },
+    {
+      "id": "youdai-matsumoto",
+      "name": "Youdai Matsumoto",
+      "alt_names": [
+        "松本陽大"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b332259-s8QXDQcRV2Fj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 332259
+      }
+    },
+    {
+      "id": "jien-yanagita",
+      "name": "Jien Yanagita",
+      "alt_names": [
+        "柳田慈円"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b332261-x5qutRA5Stxh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 332261
+      }
+    },
+    {
+      "id": "chouji-tomiyama",
+      "name": "Chouji Tomiyama",
+      "alt_names": [
+        "兎耳山丁子"
+      ],
+      "role": "supporting",
+      "description": "The leader of Shishitoren. He believes that the stronger someone is, the more free they are. Tomiyama wants to create a fun environment for Shishitoren, where members can feel the most free they've ever felt. Always a bit fidgety and impatient, he charges into things even by himself, no matter where he goes. He's obsessed with Umemiya, his counterpart at the top in Bofurin, as Umemiya always looks like he's having fun.\n\n(Source: WIND BREAKER Official Website)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b332992-eT6gWEuLNjSh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 332992
+      }
+    },
+    {
+      "id": "jou-togame",
+      "name": "Jou Togame",
+      "alt_names": [
+        "十亀条"
+      ],
+      "role": "supporting",
+      "description": "The second-in-command of Shishitoren. Donning monk's working clothes and a pair of Japanese geta, Togame's eyes hide behind a pair of sunglasses as he talks at a slow tempo and pace. He possesses a cruel and unforgiving personality. He faithfully carries out Tomiyama's belief that weaklings don't belong in Shishitoren even if they were already members of the group. He antagonizes Sakura by calling him \"Othello-kun\" after the popular board game. \n\n(Source: WIND BREAKER Official Website)",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b332991-Bqp9MwdolhBu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 332991
+      }
+    },
+    {
+      "id": "kouta-sako",
+      "name": "Kouta Sako",
+      "alt_names": [
+        "佐狐浩太"
+      ],
+      "role": "supporting",
+      "description": "A member of Shishitoren. He doesn't say much, so it's hard to figure out what he's thinking. Kota's not the type of person to suggest a one-on-one fight, but it seems he has some unknown beef in the past with Hiragi, so he picks a fight with Hiragi himself.\n\n(Source: WIND BREAKER Official Website)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b332988-OWizEp9m4QIc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 332988
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T12:54:57.852Z"
+}

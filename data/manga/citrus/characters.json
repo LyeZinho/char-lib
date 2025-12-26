@@ -1,0 +1,293 @@
+{
+  "work_id": "citrus",
+  "count": 12,
+  "characters": [
+    {
+      "id": "mei-aihara",
+      "name": "Mei Aihara",
+      "alt_names": [
+        "藍原芽衣",
+        "Mei Mei (メイメイ)"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 162 cm\n\nMei Aihara is an honor student, the chairman's granddaughter, and the stern and cold student council president. She is often calm and composed but she can be rather sensitive and mature to some extent. At first, there is little to know about her and a bad impression of Mei washes over Yuzu, which causes Yuzu to take interest for Mei later on. Though Mei seems to be hard to approach, she is rather sensitive and lonely which makes Yuzu want to care for Mei more.",
+      "metadata": {
+        "gender": "female",
+        "age": "16-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b83209-gv2ABy7LBr5x.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 83209
+      }
+    },
+    {
+      "id": "yuzu-aihara",
+      "name": "Yuzu Aihara",
+      "alt_names": [
+        "藍原柚子",
+        "Okogi Yuzu (小此木柚子)",
+        "Yuzupon (ゆずポン)",
+        "Yuzucchi (ゆずっち)"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 159 cm\n\nThe self-proclaimed Gyaru and only child, Yuzu transfers to an all-girls school after her mother is remarried. Yuzu is outspoken, daring, and shameless to some extent. She is often seen wearing her uniform that runs against the rules thus far. Unfortunately for her, she is bothered by the Student Council President's dress code enforcement. Yuzu eventually comes home to hear that she is now the older sister of the Student Council President, Aihara Mei.  Despite showing irritation towards Mei, she becomes concerned for her in which transitions into infatuation and deep care. Though she is rebellious in school, she means well and is often acting on behalf of Mei in a sense of protection. Also, her closest friend in school is Harumin.",
+      "metadata": {
+        "gender": "female",
+        "age": "16-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b83367-qOJp0tfOZf7r.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 83367
+      }
+    },
+    {
+      "id": "harumi-taniguchi",
+      "name": "Harumi Taniguchi",
+      "alt_names": [
+        "谷口はるみ",
+        "Harumin (はるみん)"
+      ],
+      "role": "supporting",
+      "description": "Harumi, most known as \"Harumin\", befriends Yuzuko being that she is a \"Gyaru in Disguise\". As she isn't one of the students who have been attending the academy since Elementary School, she takes no interest in following around the Student Council President and often packs items within her cleavage. As an individual, Harumi is perky, caring and an overall good friend towards Yuzuko.",
+      "metadata": {
+        "gender": "female",
+        "age": "16-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b83387-UImdNRsseICO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 83387
+      }
+    },
+    {
+      "id": "matsuri-mizusawa",
+      "name": "Matsuri Mizusawa",
+      "alt_names": [
+        "水沢まつり"
+      ],
+      "role": "supporting",
+      "description": "Matsuri is a second-year in middle school and Yuzu's childhood friend who lived close to her before she moved to the Aihara residence.\n\nMatsuri makes her first appearance in chapter 8. She is a pretty girl who is always seen with a pair of headphones around her neck. being very sly and fake toward an unidentified friend. She comes across Yuzu and Harumin at an arcade and invites them out to karaoke. Harumin is appears to be quite wary and suspicious of her. Upon deducing the nature of Yuzu's feelings toward Mei, Matsuri professes a romantic interest in Yuzu and kisses her in front of Mei. She sells masturbation videos she finds on the Internet to old men through a phone app, and tells them they are hers, as a means of income. She considers men to be dense and believes that all can be manipulated easily.",
+      "metadata": {
+        "gender": "female",
+        "age": "14-16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88667-1uLbk7yHhnz6.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88667
+      }
+    },
+    {
+      "id": "himeko-momokino",
+      "name": "Himeko Momokino",
+      "alt_names": [
+        "桃木野 姫子",
+        "Mayuge-chan (まゆげちゃん)",
+        "Eyebrow-chan"
+      ],
+      "role": "supporting",
+      "description": "Himeko is a Student Council Member and Mei's childhood friend. Himeko has a rather stuck-up and stubborn personality, and despises people who don't follow the school regulations.",
+      "metadata": {
+        "gender": "female",
+        "age": "16-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88668-Hbg8rf8f6Iwv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 88668
+      }
+    },
+    {
+      "id": "shiraho-suzuran",
+      "name": "Shiraho Suzuran",
+      "alt_names": [
+        "鈴蘭白帆",
+        "Shirapon"
+      ],
+      "role": "supporting",
+      "description": "One of Yuzu's friends.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131426-hsUyZyEaUDUE.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131426
+      }
+    },
+    {
+      "id": "kayo-maruta",
+      "name": "Kayo Maruta",
+      "alt_names": [
+        "丸田加代",
+        "Glasses Senpai",
+        "メガネ先輩"
+      ],
+      "role": "supporting",
+      "description": "Kayo Maruta is a supporting character and ex-vice-president of the student council. She is best friends with Mitsuko, who she affectionately calls Micchan. Kayo is one of the few people who dares to talk to Mitsuko casually and lives to see another day; she also is seen at Micchan's side for much of the latter half of the manga. Glasses-senpai talks formally with everybody else. While on the student council at Aihara Academy, Maruta was dedicated and very diligent at making sure people are rule-followers, even chastising Yuzu while it's her first day there. Eventually, the brunette lightens up later on and shows her softer side for Micchan and the readers, as well as the group that went on the summer trip in volume 8. During the extra in volume four of the manga, she reveals her surname and her past position in the council.",
+      "metadata": {
+        "gender": "female",
+        "age": "17 in chapters 1-18, 18 to chapter 36, 19 currently",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139548-ZaWNcOlOLkVR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 139548
+      }
+    },
+    {
+      "id": "sara-tachibana",
+      "name": "Sara Tachibana",
+      "alt_names": [
+        "橘 サラ"
+      ],
+      "role": "supporting",
+      "description": "A young-looking silver-haired girl who Yuzu befriends in the Tokyo Train Station after they both miss a train (coincidentally, to the same place, Kyoto). Sara believes in things such as fate and soul mates, and as such believes she and Yuzu were \"destined to meet.\"",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180721-gj4Y1RDpuX1K.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180721
+      }
+    },
+    {
+      "id": "nina-tachibana",
+      "name": "Nina Tachibana",
+      "alt_names": [
+        "橘 ニナ"
+      ],
+      "role": "supporting",
+      "description": "Sara's younger twin sister, who is skeptical and does not believe in fate.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180722-aCUAfNImVns5.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180722
+      }
+    },
+    {
+      "id": "shou-aihara",
+      "name": "Shou Aihara",
+      "alt_names": [
+        "藍原翔"
+      ],
+      "role": "supporting",
+      "description": "Mei's father, later Yuzu's new stepfather",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212199-6MchfpLTKQ10.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212199
+      }
+    },
+    {
+      "id": "ume-aihara",
+      "name": "Ume Aihara",
+      "alt_names": [
+        "藍原梅"
+      ],
+      "role": "supporting",
+      "description": "Biological mother of [Yuzu](https://anilist.co/character/83367/Yuzu-Aihara), stepmother of [Mei](https://anilist.co/character/83209/Mei-Aihara)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b212201-RQkOC4hspR7M.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 212201
+      }
+    },
+    {
+      "id": "nene-nomura",
+      "name": "Nene Nomura",
+      "alt_names": [
+        "野村 寧音"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 359353
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T08:31:35.692Z"
+}

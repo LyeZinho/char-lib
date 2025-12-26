@@ -1,0 +1,254 @@
+{
+  "work_id": "himouto-umaru-chan",
+  "count": 10,
+  "characters": [
+    {
+      "id": "umaru-doma",
+      "name": "Umaru Doma",
+      "alt_names": [
+        "土間うまる",
+        "Komaru",
+        "UMR",
+        "Tanukichi",
+        "Racoon-chan"
+      ],
+      "role": "protagonist",
+      "description": "A high school girl who is beautiful and intelligent, but at home she is lazy, and surrounds herself in games, anime, and manga. Nobody knows what she's like at home except her brother Taihei.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89019-sH6Zg8rpfPWD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89019
+      }
+    },
+    {
+      "id": "taihei-doma",
+      "name": "Taihei Doma",
+      "alt_names": [
+        "土間タイヘイ",
+        "The Demon"
+      ],
+      "role": "protagonist",
+      "description": "A company employee who lives together with his younger sister Umaru. With his kind and methodical personality, he easily handles his job as well as taking care of all the housework for the two of them. He warmly watches over his carefree sister and scolds her as she spends her time lazying around.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89020-fRPQDhLKRbP8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89020
+      }
+    },
+    {
+      "id": "sylphynford-tachibana",
+      "name": "Sylphynford Tachibana",
+      "alt_names": [
+        "橘・シルフィンフォード",
+        "Sylphyn",
+        "Sylphy",
+        "Sylph",
+        "TSF"
+      ],
+      "role": "supporting",
+      "description": "Umaru's classmate. She sees Umaru as her rival. Though she acts like a young lady from a good family, she is also a bit of an airhead.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89021-6npKQUgfnep6.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89021
+      }
+    },
+    {
+      "id": "nana-ebina",
+      "name": "Nana Ebina",
+      "alt_names": [
+        "海老名菜々"
+      ],
+      "role": "supporting",
+      "description": "Umaru's classmate. She lives on the first floor of the same apartment as Umaru. She has a shy and gentle personality, but has a strong stomach.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89022-5qRRCIPB9Ubx.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89022
+      }
+    },
+    {
+      "id": "kirie-motoba",
+      "name": "Kirie Motoba",
+      "alt_names": [
+        "本場切絵",
+        "Kirinrin",
+        "Tsuntoge Girl"
+      ],
+      "role": "supporting",
+      "description": "Umaru's classmate. Because of her reserved personality and eyes that always look like they're staring, she's often left out in class. She's actually just shy.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89023-nIGLhfGb4mgv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 89023
+      }
+    },
+    {
+      "id": "takeshi-motoba",
+      "name": "Takeshi Motoba",
+      "alt_names": [
+        "本場猛",
+        "Bomber"
+      ],
+      "role": "supporting",
+      "description": "Takeshi Motoba is Taihei Doma's childhood friend and coworker, his nickname is Bomber.\nUnlike Taihei, Takeshi is laid back and lazy, similar to Umaru Doma. He likes to goof off at work, and mess around when out and about. \nTakeshi has been friends with Taihei since at least high school, and followed each other to work in the same office. Takeshi has a little sister, who is also friends with Umaru, Kirie Motoba. His relationship with his sister is violent, with her becoming furious with him after upsetting her.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137509-xWCO8FxXB2sP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 137509
+      }
+    },
+    {
+      "id": "alex-tachibana",
+      "name": "Alex Tachibana",
+      "alt_names": [
+        "橘アレックス"
+      ],
+      "role": "supporting",
+      "description": "Alex is Taihei's co-worker and Sylphynford's older brother. He enjoys playing video games. He also loves anime, just like Umaru, but secretly he seems to know the connection between Komaru and Umaru. He loves his sister Sylphynford.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b183054-SSo3ghjhDiHa.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 183054
+      }
+    },
+    {
+      "id": "kanau-kongou",
+      "name": "Kanau Kongou",
+      "alt_names": [
+        "金剛叶",
+        "Kanau Kachou",
+        "Chief Kanau"
+      ],
+      "role": "supporting",
+      "description": "The manager and childhood friend of Taihei and Takeshi. She seems to have a crush on Taihei.",
+      "metadata": {
+        "gender": "female",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b183517-zcFQV7y7wEXh.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 183517
+      }
+    },
+    {
+      "id": "nene-ebina",
+      "name": "Nene Ebina",
+      "alt_names": [
+        "海老名寧々"
+      ],
+      "role": "supporting",
+      "description": "Nana's Mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327898-7DDPilojbDrj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327898
+      }
+    },
+    {
+      "id": "ebina-chichi",
+      "name": "Ebina Chichi",
+      "alt_names": [
+        "海老名父",
+        "Father Ebina"
+      ],
+      "role": "minor",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b327899-IREFk04q0E5k.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 327899
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T07:41:48.569Z"
+}

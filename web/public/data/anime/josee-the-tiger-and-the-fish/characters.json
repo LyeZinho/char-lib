@@ -1,0 +1,306 @@
+{
+  "work_id": "josee-the-tiger-and-the-fish",
+  "count": 13,
+  "characters": [
+    {
+      "id": "josee",
+      "name": "Josee",
+      "alt_names": [
+        "ジョゼ",
+        "Kumiko Yamamura (山村クミ子)"
+      ],
+      "role": "protagonist",
+      "description": "A young girl who lives with her grandmother and calls herself \"Josee\" after her favorite book",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162228-dRGRnwG9mK2o.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162228
+      }
+    },
+    {
+      "id": "tsuneo-suzukawa",
+      "name": "Tsuneo Suzukawa",
+      "alt_names": [
+        "鈴川恒夫"
+      ],
+      "role": "protagonist",
+      "description": "A fourth year student at a university in Osaka.",
+      "metadata": {
+        "gender": "male",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162229-7Avbcj2UEWxt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 162229
+      }
+    },
+    {
+      "id": "kana-kishimoto",
+      "name": "Kana Kishimoto",
+      "alt_names": [
+        "岸本花菜"
+      ],
+      "role": "supporting",
+      "description": "The librarian at the library that Tsuneo and Josee visit together.",
+      "metadata": {
+        "gender": "female",
+        "age": "24",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184559-Iv1NLHNSerwn.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184559
+      }
+    },
+    {
+      "id": "mai-ninomiya",
+      "name": "Mai Ninomiya",
+      "alt_names": [
+        "二ノ宮舞"
+      ],
+      "role": "supporting",
+      "description": "Mai Ninomiya is Tsuneo's underclassman at the same diving shop where he works part-time.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184560-KQfewBKpvfNu.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184560
+      }
+    },
+    {
+      "id": "hayato-matsuura",
+      "name": "Hayato Matsuura",
+      "alt_names": [
+        "松浦隼人"
+      ],
+      "role": "supporting",
+      "description": "Tsuneo's friend who shares the same part-time job and age as him.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184561-RdOQoI3VKFiq.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184561
+      }
+    },
+    {
+      "id": "chizu-yamamura",
+      "name": "Chizu Yamamura",
+      "alt_names": [
+        "山村チヅ"
+      ],
+      "role": "supporting",
+      "description": "Josee's grandmother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184562-X14MNNDl6F7l.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 184562
+      }
+    },
+    {
+      "id": "kondou-kyouju",
+      "name": "Kondou-kyouju",
+      "alt_names": [
+        "近藤教授"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b292383-5VAT19E4Fp14.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 292383
+      }
+    },
+    {
+      "id": "nishida-tenchou",
+      "name": "Nishida-tenchou",
+      "alt_names": [
+        "西田店長"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 292384
+      }
+    },
+    {
+      "id": "mizushima",
+      "name": "Mizushima",
+      "alt_names": [
+        "水嶋"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b292386-WRXnr6X6mt3y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 292386
+      }
+    },
+    {
+      "id": "fujita",
+      "name": "Fujita",
+      "alt_names": [
+        "藤田"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b292387-qIwv0VLqX39R.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 292387
+      }
+    },
+    {
+      "id": "ekiin",
+      "name": "Ekiin",
+      "alt_names": [
+        "駅員"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 292388
+      }
+    },
+    {
+      "id": "ishi",
+      "name": "Ishi",
+      "alt_names": [
+        "医師"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 292390
+      }
+    },
+    {
+      "id": "yukichi",
+      "name": "Yukichi",
+      "alt_names": [
+        "諭吉"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b292391-WwLci9CuNGfo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 292391
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T08:51:05.873Z"
+}

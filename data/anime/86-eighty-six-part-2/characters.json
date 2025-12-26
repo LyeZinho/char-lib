@@ -1,0 +1,374 @@
+{
+  "work_id": "86-eighty-six-part-2",
+  "count": 15,
+  "characters": [
+    {
+      "id": "shinei-nouzen",
+      "name": "Shinei Nouzen",
+      "alt_names": [
+        "シンエイ・ノウゼン",
+        "Shin",
+        "Reaper",
+        "Undertaker"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 175 cm\n\nShinei Nouzen is the field commander of Spearhead Squadron. His Personal Name is Undertaker.\nHaving survived five years on the Eastern Front and the Special Reconnaissance Mission, he is considered one of the most elite Processors alive. Among the Eighty-Six, he is known as the Reaper of the Eastern Front. His ability to hear the voices of the Legion allows him to locate the Legion without the use of detection systems like radar.\n\nBorn on May 19th in Republic Year 351, Shin lived with his family in the First Sector of the Republic before the war with the Giadian Empire began. It is implied he lived a sheltered life, surrounded by \"only kindness and affection\". He also appeared to have developed his extrasensory ability early on, hearing \"voices that spoke without words\" from his family.\n ~!He would often play with the daughter of his father's colleague, Henrietta von Penrose, whom Shin called Rita.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "16-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141060-ZJFvHqBBSvhN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141060
+      }
+    },
+    {
+      "id": "frederica-rosenfort",
+      "name": "Frederica Rosenfort",
+      "alt_names": [
+        "フレデリカ・ローゼンフォルト"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 130cm\n\nA girl Shin and his team met at Ernst's residence after being provided shelter by the Federacy. She is assigned as the Mascot to the Spearhead Squadron. She has an intelligence and a manner of speech well beyond her young age of ten.\n\n~!She is the last empress of the Federal Empire of Giad, having been secretly rescued by Ernst during the coup against the nobility. Her royal bloodline imparts her the gift of seeing the past and present of people she has known.\n\nShe was protected by Kiriya Nouzen, a distant relative of Shin from the Nouzen clan and is on the lookout for him after he was assimilated by the Legion as a Black Sheep, having failed to protect his princess. Shin's personality constantly reminds her of Kiri and she treats him as a surrogate big brother.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "10-11",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161718-kWIdyUGRk0wj.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161718
+      }
+    },
+    {
+      "id": "raiden-shuga",
+      "name": "Raiden Shuga",
+      "alt_names": [
+        "ライデン・シュガ",
+        "Wehrwolf"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 185 cm\n\nRaiden Shuga is the vice captain of Spearhead Squadron. As a First Lieutenant, he holds the position of operations commander of the Eighty-Sixth Strike Package and its 1st Armored Division should Shin be deemed unfit to command. His Personal Name is Wehrwolf. Having survived four years on the Eastern Front and the Special Reconnaissance Mission, he is considered one of the most elite Processors alive. As he spent three years with Shin prior to joining Spearhead Squadron, Raiden is the closest person to him in the squadron.",
+      "metadata": {
+        "gender": "male",
+        "age": "15-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174872-HrQxhw9BbfyI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174872
+      }
+    },
+    {
+      "id": "kurena-kukumila",
+      "name": "Kurena Kukumila",
+      "alt_names": [
+        "クレナ・ククミラ",
+        "Gunslinger"
+      ],
+      "role": "protagonist",
+      "description": "Kurena Kukumila is a platoon leader of Eighty-Sixth Strike Package's Spearhead Squadron. She is the squadron's long-range specialist. Her Personal Name is Gunslinger. Having survived four years on the Eastern Front and the Special Reconnaissance Mission, she is considered one of the most elite Processors alive.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174873-FNf08aPYTVXY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174873
+      }
+    },
+    {
+      "id": "theoto-rikka",
+      "name": "Theoto Rikka",
+      "alt_names": [
+        "セオト・リッカ",
+        "Laughing Fox",
+        "Theo"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 165 cm \n\nTheoto Rikka is a platoon leader of the Eighty-Sixth Strike Package's Spearhead Squadron and the artist of the squadron member's Personal Marks. His Personal Name is Laughing Fox. Having survived four years on the Eastern Front and the Special Reconnaissance Mission, he is considered one of the most elite Processors alive.",
+      "metadata": {
+        "gender": "male",
+        "age": "16-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174874-19TPZgyNwDtj.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174874
+      }
+    },
+    {
+      "id": "anju-emma",
+      "name": "Anju Emma",
+      "alt_names": [
+        "アンジュ・エマ",
+        "Snow Witch"
+      ],
+      "role": "protagonist",
+      "description": "Anju Emma is a platoon member and later platoon leader of the Eighty-Sixth Strike Package's Spearhead Squadron. She serves as their support fire and artillery provider. Her Personal Name is Snow Witch. Having survived four years on the Eastern Front and the Special Reconnaissance Mission, she is considered one of the most elite Processors alive.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174875-PvSTadcuATtH.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174875
+      }
+    },
+    {
+      "id": "vladilena-milize",
+      "name": "Vladilena Milizé",
+      "alt_names": [
+        "ヴラディレーナ・ミリーゼ",
+        "Lena",
+        "Handler One",
+        "鮮血の女王"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 160 cm\n\nVladilena Milizé, more commonly known as Lena by her friends and as Handler One to her subordinates, is an elite Republic commissioned officer who rose to the rank of Major at the young age of 16. She is the commander of Shinei Nouzen and the Spearhead Squadron, whom she communicates with via the long-distance communication device known as the Para-RAID. \n\n~!After the Spearhead Squadron's departure, she becomes known for demanding orders and highly competent leadership, earning the nickname of Bloody Regina among the Processors.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "16-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141061-jqIhB9jmClQ3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 141061
+      }
+    },
+    {
+      "id": "jerome-karlsthal",
+      "name": "Jerome Karlsthal",
+      "alt_names": [
+        "ジェローム・カールシュタール"
+      ],
+      "role": "supporting",
+      "description": "He was Lena's superior in the Republic Armed Forces. Due to his close relationship with Lena's father, she thought of him as her uncle.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210920-oFo6r2yemLUb.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210920
+      }
+    },
+    {
+      "id": "lev-aldrecht",
+      "name": "Lev Aldrecht",
+      "alt_names": [
+        "レフ・アルドレヒト"
+      ],
+      "role": "supporting",
+      "description": "The chief mechanic of the Spearhead Squadron. ~!He was an Alba married to a Heliodor wife, whom he had a daughter with. Due to them being taken away to the Eighty-Sixth Sector, he dyed his hair to go after them. By then, it was already too late, both of them had passed. In order to follow his family to the other side, he works as the chief mechanic of the First Ward's First Defensive Squadron of the Eastern Front.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210921-xyo41JTWoBeB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210921
+      }
+    },
+    {
+      "id": "henrietta-von-penrose",
+      "name": "Henrietta von Penrose",
+      "alt_names": [
+        "アンリエッタ・ペンローズ",
+        "Annette",
+        "Rita",
+        "Minerva"
+      ],
+      "role": "supporting",
+      "description": "A member of the Republic military and later the Eighty-Sixth Strike Package. She serves in the Research Division and specializes on working on the Para-RAID system her father helped develop.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210923-q3ND01Sd08RP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210923
+      }
+    },
+    {
+      "id": "shourei-nouzen",
+      "name": "Shourei Nouzen",
+      "alt_names": [
+        "ショーレイ・ノウゼン",
+        "Dullahan",
+        "Headless Knight"
+      ],
+      "role": "supporting",
+      "description": "Shinei's older brother. Rei was a generally friendly and reliable older brother, but he was not without his faults.\n\n~!One night when he was on patrol, he came across a young Vladilena Milizé, who was taken by her father to see the injustices brought upon the Eighty-Six. Their helicopter had been shot by a Stachelschwein and was forced to land, leaving them vulnerable to an attack from a nearby Ameise. He took the only survivor, Lena, to his base and sent her back to inside the Gran Mur.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b224075-0aCPb6n7K3AB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 224075
+      }
+    },
+    {
+      "id": "fido",
+      "name": "Fido",
+      "alt_names": [
+        "ファイド"
+      ],
+      "role": "supporting",
+      "description": "Fido is an M101 Barrett Scavenger Drone of the Spearhead Squadron. As a Scavenger, Fido provides aid to the squadron by resupplying ammunition and recharging energy packs, as well as finding and extracting materials from abandoned or destroyed units. He has accompanied Shinei Nouzen in his battles across the Eastern Front and beyond, making him Shin's oldest surviving companion.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b237557-uBOohJFKv5h9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 237557
+      }
+    },
+    {
+      "id": "shiden-iida",
+      "name": "Shiden Iida",
+      "alt_names": [
+        "シデン・イーダ",
+        "Cyclops"
+      ],
+      "role": "supporting",
+      "description": "Shiden Iida is the captain of the Brísingamen Squadron, also known as the Queen's Knights, which was the group that led the defense of the Republic during the large-scale offensive held by the Legion. Her Personal Name Cyclops originates from her heterochromia, as she appears to only have one working eye.\n\nFollowing the rescue of the Republic by the Federacy, her squadron volunteered for the Eighty-Sixth Strike Package. Shiden and the Brísingamen Squadron are now in charge of defending the mobile headquarters—Vanadis.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b239614-IGrxEPbt7MoR.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 239614
+      }
+    },
+    {
+      "id": "ernst-zimmerman",
+      "name": "Ernst Zimmerman",
+      "alt_names": [
+        "エルンスト・ツィマーマン"
+      ],
+      "role": "supporting",
+      "description": "The interim president of the Federal Republic of Giad.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246698-2sxj1mfdHdcy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246698
+      }
+    },
+    {
+      "id": "theresa",
+      "name": "Theresa",
+      "alt_names": [
+        "テレザ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b251749-kNLxHFAnWwZr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 251749
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T01:29:21.232Z"
+}

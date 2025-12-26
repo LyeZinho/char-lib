@@ -1,0 +1,361 @@
+{
+  "work_id": "little-witch-academia-tv",
+  "count": 15,
+  "characters": [
+    {
+      "id": "atsuko-kagari",
+      "name": "Atsuko Kagari",
+      "alt_names": [
+        "アツコ・カガリ",
+        "Akko"
+      ],
+      "role": "protagonist",
+      "description": "__School__: Luna Nova Magical Academy\n__Occupation__: Witch Student\n\nThe main protagonist, an energetic and optimistic girl who attends Luna Nova after being inspired by the witch Shiny Chariot. Having come from a non-magical background, she struggles using magic much of the time, and is disappointed by the mundanity of her classes as opposed to Chariot's more spectacular performances. However, her strong sense of self-confidence enables her to wield Chariot's Shiny Rod, which accepts her as its new master.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/81645-dvD1Ac67IkpJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81645
+      }
+    },
+    {
+      "id": "sucy-manbavaran",
+      "name": "Sucy Manbavaran",
+      "alt_names": [
+        "スーシィ・マンババラン"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 163 cm\n__School:__ Luna Nova Magical Academy\n__Occupation:__ Witch Student\n\nSucy is an aloof, calm, sarcastic, and somewhat sadistic person. She also surprisingly remains indifferent in various situations and things that drive the other girls crazy, which shows that she is calmer than her roommates.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/81699-mAzqlNupKWOB.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81699
+      }
+    },
+    {
+      "id": "lotte-yansson",
+      "name": "Lotte Yansson",
+      "alt_names": [
+        "ロッテ・ヤンソン"
+      ],
+      "role": "protagonist",
+      "description": "**Height:** 156 cm\n\nLotte is shy, calm and timid, rarely ever getting angry. She is a kind-hearted girl who earnestly looks after Akko. Lotte is often concerned about Akko, given that her determination to become a witch like Shiny Chariot sometimes makes her go too far, and that she would forget the well-being of friends and people who wish to help her.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b81711-fd0bFfcJPeOz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81711
+      }
+    },
+    {
+      "id": "diana-cavendish",
+      "name": "Diana Cavendish",
+      "alt_names": [
+        "ダイアナ・キャベンディッシュ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 168 cm \nDiana is serious, composed, and erudite. Being descended from a prestigious line of witches back to ancient times, she is exceptionally devoted to her magical studies and to the tradition and history of magic. Her status as Luna Nova's best student cannot be solely attributed to heredity — she has self-discipline and maturity far surpassing the average teenage girl.\n\nShe quickly becomes Akko's rival, though she doesn't see herself as her rival.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/81709-N5Yff4r6geiM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81709
+      }
+    },
+    {
+      "id": "chariot-du-nord",
+      "name": "Chariot du Nord",
+      "alt_names": [
+        "シャリオデュノール",
+        "Shiny Chariot",
+        "シャイニィシャリオ"
+      ],
+      "role": "supporting",
+      "description": "__**Height:**__ 170 cm\n\nFrom her early childhood, Chariot sought to become a witch who could make people smile. Her natural charm and radiant personality attracted everyone around her. However, Chariot's passion for magic exceeded her skill, which led to many blunders, she pursued doing magic shows, as it connects with her message of wanting to make everyone happy. \n~!After this, Chariot left the stage and assumed another identity. She takes the name \"Ursula Callistis\" and becomes a professor at Luna Nova. She is calm and patient and quick to act in situations of danger, although she comes off as shy and timid when confronted by her superiors.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "30",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b81717-hMZbou3IEKKJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 81717
+      }
+    },
+    {
+      "id": "amanda-oneill",
+      "name": "Amanda O'Neill",
+      "alt_names": [
+        "アマンダ・オニール"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 167 cm \n__School:__ Luna Nova Magical Academy\n__Occupation:__ Witch Student\n\nAmanda is by her own description a \"rebel\". An unruly and fun-loving child, she has little respect for authority and is primarily motivated by hedonism.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120999-oerXxWGoWGor.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 120999
+      }
+    },
+    {
+      "id": "jasminka-antonenko",
+      "name": "Jasminka Antonenko",
+      "alt_names": [
+        "ヤスミンカ・アントネンコ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165 cm\n\nA friendly and laid-back Luna Nova witch student from Russia who has a passion for food and is always seen snacking on something, even during classes. She specializes in culinary magic.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121001-ooKauwzC9rcw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121001
+      }
+    },
+    {
+      "id": "constanze-amalie-von-braunschbank-albrechtsberger",
+      "name": "Constanze Amalie von Braunschbank-Albrechtsberger",
+      "alt_names": [
+        "コンスタンツェ・アマーリエ・フォン・ブラウンシュバンク＝アルブレヒツベルガー",
+        "Cons"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 152cm\n__School:__ Luna Nova Magical Academy\n__Occupation:__ Witch Student\n\nShe is usually characterized by a grumpy or serious expression. Constanze never speaks, but she appears to be friendly and communicates through her own actions and writing. She also controls her Stanbots with magic and uses them to express herself.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/121002-Mu1AgfcpEkVV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121002
+      }
+    },
+    {
+      "id": "fafnir",
+      "name": "Fafnir",
+      "alt_names": [
+        "ファフニール",
+        "The White Dragon"
+      ],
+      "role": "supporting",
+      "description": "**Age:** Thousands of years\n\nFafnir is an old wealthy business mogul who helped fund the construction of Luna Nova, his character's name is based on the Norse mythology of Sigrud who was effected by a curse which turned him into a Dragon.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/121286-09p34UDv8N3C.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 121286
+      }
+    },
+    {
+      "id": "andrew-hanbridge",
+      "name": "Andrew Hanbridge",
+      "alt_names": [
+        "アンドリュー・ハンブリッジ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125878-7GtfM4PIDcuM.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125878
+      }
+    },
+    {
+      "id": "croix-meridies",
+      "name": "Croix Meridies",
+      "alt_names": [
+        "クロワ・メリディエス",
+        "Professor Croix"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 172 cm\n\nProfessor Croix is an introduced teacher that teaches modern magic at Luna Nova. She used to be a student at Luna Nova, along with Chariot. Croix and Chariot used to be friends while they studied at Luna Nova.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126062-SbCt7XV8JAQo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126062
+      }
+    },
+    {
+      "id": "avery",
+      "name": "Avery",
+      "alt_names": [
+        "エイブリー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128357-ztZEoelhvoHf.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128357
+      }
+    },
+    {
+      "id": "samantha-badcock",
+      "name": "Samantha Badcock",
+      "alt_names": [
+        "サマンタ・バドコック"
+      ],
+      "role": "supporting",
+      "description": "Badcock is a forgetful and particular teacher at Luna Nova, whose subjects are Magic Numerology and Culinary Magic, as well as being an assistant to the principal of Luna Nova Academy. ~!She is also very secretive, being a big Night Fall fan to no one's knowledge.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128358-pfOdR4aGCW1x.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128358
+      }
+    },
+    {
+      "id": "anne-finnelan",
+      "name": "Anne Finnelan",
+      "alt_names": [
+        "アン・フィネラン"
+      ],
+      "role": "supporting",
+      "description": "Finnelan is a character in Little Witch Academia. She's a teacher in Luna Nova Academy.\n\nFinnelan is a serious and authoritative woman, demanding respect and discipline from students, however being kind to skilled students like Diana. She is usually calm but is quickly to lose her temper, such as when Akko and co. cause trouble.\n\n(Source: Little Witch Academia Wikia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128361-v3gq3OFyOiIN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128361
+      }
+    },
+    {
+      "id": "paul-hanbridge",
+      "name": "Paul Hanbridge",
+      "alt_names": [
+        "ポール・ハンブリッジ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128362-oww8MhXG9O8X.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 128362
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T13:29:58.810Z"
+}

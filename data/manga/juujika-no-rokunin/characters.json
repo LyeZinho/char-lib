@@ -1,0 +1,288 @@
+{
+  "work_id": "juujika-no-rokunin",
+  "count": 12,
+  "characters": [
+    {
+      "id": "shun-uruma",
+      "name": "Shun Uruma",
+      "alt_names": [
+        "漆間俊"
+      ],
+      "role": "protagonist",
+      "description": "Shun often got bullied in his childhood. \n~!His demeanor and life changed after his bullies killed his parents and beat his brother into a coma. After receiving training from his grandfather, he decides to take revenge on his bullies.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163617-G4AQNiyiFhBt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 163617
+      }
+    },
+    {
+      "id": "chizuru-azuma",
+      "name": "Chizuru Azuma",
+      "alt_names": [
+        "東千鶴"
+      ],
+      "role": "supporting",
+      "description": "Azuma is a young and timid high school girl\n\n~!Has romantic feelings for Uruma. She displays jealousy around potential love rivals.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264815-pkspV2yLskmk.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 264815
+      }
+    },
+    {
+      "id": "kyou-shigoku",
+      "name": "Kyou Shigoku",
+      "alt_names": [
+        "至極京"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 166 cm\n\nThe main antagonist of Juujika no Rokunin.",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264816-jpu85AIPgVfa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 264816
+      }
+    },
+    {
+      "id": "kaname-shirakawa",
+      "name": "Kaname Shirakawa",
+      "alt_names": [
+        "白川要"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b277923-517KiNPKZXaG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 277923
+      }
+    },
+    {
+      "id": "yuuga-ushiro",
+      "name": "Yuuga Ushiro",
+      "alt_names": [
+        "右代悠牙"
+      ],
+      "role": "supporting",
+      "description": "Ushiro Yuuga is one of the five main antagonists who bullied Shun Uruma in their middle school years.\n\n~!Ushiro Yuuga is a juvenile and sex-driven delinquent. He appears to be well versed in emotional manipulation, threatening one of his female employees with a lighter under her tongue and proceeded to tell her that she is absolutely necessary. He is also notably misogynistic, seeing women as nothing but tools for pleasure and nothing more. This even extended to his girlfriend, who he kept chained naked and repeatedly raped.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "12-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b292100-pZLgyPrSxiZA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 292100
+      }
+    },
+    {
+      "id": "daichi-kuga",
+      "name": "Daichi Kuga",
+      "alt_names": [
+        "久我大地"
+      ],
+      "role": "supporting",
+      "description": "Kuga Daichi is one of the five antagonists who bullied Shun Uruma in their middle school years, he subjected Uruma to frequent beatings and, in Uruma's words, used him as a \"test kit\" to try out his techniques.\n\nHe's short tempered, showcased in chapter 49 when he quickly became enraged when Uruma challenged him to a Judo match, and physically abusive to everyone around him with the exception of Kyou and the three other bullies, as he regularly breaks his teammate's bones under the guise of practice and sexually assaults his female peers.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b292101-Dd4ZNdEF11kf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 292101
+      }
+    },
+    {
+      "id": "kakeru-uruma",
+      "name": "Kakeru Uruma",
+      "alt_names": [
+        "漆間翔"
+      ],
+      "role": "supporting",
+      "description": "The younger brother of the protagonist, Shun Uruma.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b292102-ejBKW1VpjE5r.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 292102
+      }
+    },
+    {
+      "id": "shun-uruma-sr",
+      "name": "Shun Uruma Sr.",
+      "alt_names": [
+        "漆間俊シニア",
+        "Ojii-chan (おじいちゃん)"
+      ],
+      "role": "supporting",
+      "description": "Shun Uruma Sr. is an elderly man who is a former member of the Kitayama corps, a special WW2 unit which specialised in assassination, he's the father of an unnamed man and grandfather to [Shun Uruma ](https://anilist.co/character/163617/Shun-Uruma) and Kakeru Uruma.\n\n~!After the tragic murder of Shun Uruma's parents and the severe injury of Kakeru, Uruma Sr. finds Shun Uruma attempting to exact revenge on his bullies that caused the tragedy, and decides to train him in military combat.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b292103-z3rzFzbewzJY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 292103
+      }
+    },
+    {
+      "id": "kitami-kougo",
+      "name": "Kitami Kougo",
+      "alt_names": [
+        "北見高梧"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b347184-Um2OjHXSbCWa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 347184
+      }
+    },
+    {
+      "id": "mimi-kawana",
+      "name": "Mimi Kawana",
+      "alt_names": [
+        "川奈美々"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b347185-EzBs9T9ABjzP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 347185
+      }
+    },
+    {
+      "id": "kurusu",
+      "name": "Kurusu",
+      "alt_names": [
+        "来栖"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b347186-UfKOj314mHmf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 347186
+      }
+    },
+    {
+      "id": "reo",
+      "name": "Reo",
+      "alt_names": [
+        "レオ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b347187-IQ5Oo50LShiy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 347187
+      }
+    }
+  ],
+  "updated_at": "2025-12-25T23:45:30.805Z"
+}

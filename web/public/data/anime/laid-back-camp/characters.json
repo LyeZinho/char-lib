@@ -1,0 +1,386 @@
+{
+  "work_id": "laid-back-camp",
+  "count": 15,
+  "characters": [
+    {
+      "id": "nadeshiko-kagamihara",
+      "name": "Nadeshiko Kagamihara",
+      "alt_names": [
+        "各務原なでしこ",
+        "Fujiko",
+        "Nade-chan",
+        "Mamashiko",
+        "Nabeshiko"
+      ],
+      "role": "protagonist",
+      "description": "A member of the outdoor crew at high school, she’s drawn into camping when she meets Rin at a lake shore. She’s always cheerful and positive and loves anything fun.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124576-daumBIJ4lOwq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124576
+      }
+    },
+    {
+      "id": "aoi-inuyama",
+      "name": "Aoi Inuyama",
+      "alt_names": [
+        "犬山あおい",
+        "Inuko"
+      ],
+      "role": "protagonist",
+      "description": "A gentle girl who speaks with a Kansai accent. Of the reckless outdoor crew members, Aoi is like the secret leader who looks out for everyone during important times. She’s called 'Inuko' by Chiaki. \n\n(Source: Honey's Anime)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124577-LA9JusqQcAJV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124577
+      }
+    },
+    {
+      "id": "chiaki-oogaki",
+      "name": "Chiaki Oogaki",
+      "alt_names": [
+        "大垣千明",
+        "Aki"
+      ],
+      "role": "protagonist",
+      "description": "A bright and active person, in charge of choosing the camping spots and gear. She’s lively and cheerful, but is also full of emotion and easily brought to tears. Wanting to camp, she forms the outdoor crew with Aoi.\n\n(Source: Honey's Anime)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124578-3n5ImKmsxsvg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124578
+      }
+    },
+    {
+      "id": "ena-saitou",
+      "name": "Ena Saitou",
+      "alt_names": [
+        "斉藤恵那"
+      ],
+      "role": "protagonist",
+      "description": "Rin’s friend, a free spirited person who goes at her own pace. She’s not a member of the outdoor crew, but she occasionally shows interest in their activities. She also gives casual advice to Rin, who is bad at dealing with people. She has a dog called 'Chikuwa.' \n\n(Source: Honey's Anime)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124579-xRtRfeogX1uO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124579
+      }
+    },
+    {
+      "id": "rin-shima",
+      "name": "Rin Shima",
+      "alt_names": [
+        "志摩リン",
+        "Shimarin"
+      ],
+      "role": "protagonist",
+      "description": "A solo camper who started camping due to her grandfather’s influence. She experiences camping with another person for the first time when she meets Nadeshiko. She’s not a member of the outdoor crew, but she worries about Nadeshiko a bit.\n\n(Source: Honey's Anime)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124586-9lGoHg1zZkFr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 124586
+      }
+    },
+    {
+      "id": "saki-shima",
+      "name": "Saki Shima",
+      "alt_names": [
+        "志摩咲"
+      ],
+      "role": "supporting",
+      "description": "[Rin](https://anilist.co/character/124586/Rin-Shima)'s mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125022-X0RYxEibpwlu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125022
+      }
+    },
+    {
+      "id": "sakura-kagamihara",
+      "name": "Sakura Kagamihara",
+      "alt_names": [
+        "各務原桜"
+      ],
+      "role": "supporting",
+      "description": "Sakura Kagamihara is the older sister of Nadeshiko Kagamihara. She often drives Nadeshiko to and from campsite destinations.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125023-b3RIW5PV3FC8.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 125023
+      }
+    },
+    {
+      "id": "minami-toba",
+      "name": "Minami Toba",
+      "alt_names": [
+        "鳥羽美波"
+      ],
+      "role": "supporting",
+      "description": "A substitute teacher, soon become the advisor for Outdoor Activities Club.\n\nIt is later revealed that she has already met Nadeshiko and Rin. ~!She was seen drinking incredible amounts of booze while camping with her little sister.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131523-Pi8QHQV0v4lD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131523
+      }
+    },
+    {
+      "id": "ryouko-toba",
+      "name": "Ryouko Toba",
+      "alt_names": [
+        "鳥羽涼子"
+      ],
+      "role": "supporting",
+      "description": "[Minami](https://anilist.co/character/131523)'s sister.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210875-lGJAHYgfn7kS.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 210875
+      }
+    },
+    {
+      "id": "chikuwa",
+      "name": "Chikuwa",
+      "alt_names": [
+        "ちくわ"
+      ],
+      "role": "supporting",
+      "description": "Chikuwa is Ena's pet dog.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b240372-GGTFKVlmzq5Y.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 240372
+      }
+    },
+    {
+      "id": "kikukawa-subaru",
+      "name": "Kikukawa Subaru",
+      "alt_names": [
+        "菊川昴",
+        "Tea Lady"
+      ],
+      "role": "supporting",
+      "description": "Talkative mountain climber",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321241-QqziR2e8wXIC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 321241
+      }
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "alt_names": [
+        "ナレーター",
+        "語り手",
+        "ナレーション",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrateur",
+        "なれーしょん",
+        "旁白",
+        "Narrato"
+      ],
+      "role": "minor",
+      "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 36309
+      }
+    },
+    {
+      "id": "shizuka-kagamihara",
+      "name": "Shizuka Kagamihara",
+      "alt_names": [
+        "各務原静花"
+      ],
+      "role": "minor",
+      "description": "The mother of Nadeshiko and Sakura Kagamihara.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131522-QF6Fq6UV3VLn.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131522
+      }
+    },
+    {
+      "id": "hajime-shinshiro",
+      "name": "Hajime Shinshiro",
+      "alt_names": [
+        "新城肇",
+        "リンの祖父 (Rin no Sofu; Rin's Grandfather)"
+      ],
+      "role": "minor",
+      "description": "Rin's grandfather, who passed his passion for camping on to his granddaughter.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131524-bCrqouNStCss.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131524
+      }
+    },
+    {
+      "id": "shuuichirou-kagamihara",
+      "name": "Shuuichirou Kagamihara",
+      "alt_names": [
+        "各務原修一朗"
+      ],
+      "role": "minor",
+      "description": "The father of [Nadeshiko](https://anilist.co/character/124576/Nadeshiko-Kagamihara) and [Sakura](https://anilist.co/character/125023/Sakura-Kagamihara) Kagamihara.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131525-I66SF96huXuX.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 131525
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T11:54:10.247Z"
+}

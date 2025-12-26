@@ -1,0 +1,342 @@
+{
+  "work_id": "parasyte",
+  "count": 15,
+  "characters": [
+    {
+      "id": "shinichi-izumi",
+      "name": "Shinichi Izumi",
+      "alt_names": [
+        "泉新一",
+        "Shin"
+      ],
+      "role": "protagonist",
+      "description": "Shinichi is a thoughtful, compassionate high-school boy whose hand is infected with a Parasite. Shinichi is repeatedly put into difficult positions. He must find a way to peacefully coexist with Migi, the Parasite which has taken over his hand, and reconcile his desire to protect humanity from the Parasites with his desire to keep his own Parasite a secret in order to avoid being killed or used as a laboratory specimen. Like a superhero with a secret identity, he must also find a way to explain away his Parasite-fighting activities, as well as the stress and grief they cause him, to his friends and family. Shinichi&#039;s retention of a human mind, emotion, and sensibilities causes other Parasites to see him as a threat. He and his Parasite must defend themselves from attacks by other Parasites, and their ability to think and act independently, and as a team, gives them a tactical edge over normal Parasites.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12323-NAoqDYOn2RSo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 12323
+      }
+    },
+    {
+      "id": "migi",
+      "name": "Migi",
+      "alt_names": [
+        "ミギー"
+      ],
+      "role": "protagonist",
+      "description": "Migi is the Parasite which lives in Shinichi's hand. Unlike \"successful\" Parasites, Migi has no desire to kill humans for sustenance, and is nourished by the food Shinichi eats. Migi is, like other Parasites, completely without emotion. His primary consideration is survival, and he has threatened (and in some cases attempted) to kill other humans who pose a threat to he and Shinichi's secrecy. When he and Shinichi were first coming to terms, he even threatened to remove Shinichi's other limbs in order to render him unable to place the two of them in danger. Migi can be reasoned with, however, and has just as much reason to be mistrustful of other Parasytes as does Shinichi. On the other hand, unlike Shinichi, Migi has no inclination to place himself at risk in order to protect other humans from Parasites. As the series goes along however, he becomes more human, whereas the reverse happens to Shinichi, up until an event involving a baby occurs.   \n\n(Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13773-Kuak0WTeTU9z.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 13773
+      }
+    },
+    {
+      "id": "ryouko-tamiya",
+      "name": "Ryouko Tamiya",
+      "alt_names": [
+        "田宮良子",
+        "田村玲子",
+        "Reiko Tamura"
+      ],
+      "role": "supporting",
+      "description": "Shinichi's substitute math teacher. She is infected with a parasite.",
+      "metadata": {
+        "gender": "female",
+        "age": "31",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16586-5BBzHsx1GLGC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 16586
+      }
+    },
+    {
+      "id": "kana-kimishima",
+      "name": "Kana Kimishima",
+      "alt_names": [
+        "君嶋加奈"
+      ],
+      "role": "supporting",
+      "description": "Kana is a disobedient \"bad girl\" who develops a crush on Shinichi. She is attracted to him because of his sensitive personality, and because she can sense something \"different\" about him.\n\n~!In reality, Kana has an unexplained psychic ability to sense parasites. However, her senses are not as fine-tuned as those of the parasites themselves, and she cannot tell whether she is sensing the presence of Shinichi or of a normal parasite, putting her in considerable danger.!~\n\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19215-oei5N1hu9w9w.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19215
+      }
+    },
+    {
+      "id": "satomi-murano",
+      "name": "Satomi Murano",
+      "alt_names": [
+        "村野里美"
+      ],
+      "role": "supporting",
+      "description": "Shinichi's best friend and sometime companion. Shinichi and Satomi develop a romantic relationship over the course of the series, but their attraction to and fondness for one another is hampered by Shinichi's fear of his own monstrous nature, and Satomi's fear of Shinichi's secretive behavior and the mood swings that result from the trials and tribulations in his life.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19436-d9ImDTVNQPKt.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19436
+      }
+    },
+    {
+      "id": "a",
+      "name": "A",
+      "alt_names": [
+        "A",
+        "Mr. A"
+      ],
+      "role": "supporting",
+      "description": "Mr. A is a Parasite who considers Shinichi a threat. Reiko calls him a fool while Migi describes him as &quot;not one of our smart ones.&quot; Mr. A has no capacity for subtlety or deception, and no qualms about using his shapeshifting abilities in view of the public, reasoning that he can always get out of trouble by fighting, running away, and changing into a different face. Mr. A (or rather, his host body) is the father of Reiko's child. Shinichi is forced to battle Mr. A when he attempts to hunt Shinichi down and kill him at school. Though Shinichi and Migi badly wound him, they are forced to flee before he can be completely destroyed. He is killed after their battle by Tamura Reiko for endangering her undercover lifestyle.    from wikipedia",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/22141-dAU9uVjF2nae.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22141
+      }
+    },
+    {
+      "id": "kazuyuki-izumi",
+      "name": "Kazuyuki Izumi",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Shinichi's father. 44 years old. Photographer. Had been a magazine reporter.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/22142-vlmihBFr4G0g.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22142
+      }
+    },
+    {
+      "id": "nobuko-izumi",
+      "name": "Nobuko Izumi",
+      "alt_names": [
+        "泉信子"
+      ],
+      "role": "supporting",
+      "description": "Shinichi's mother. 40 years old. Housewife.   ~!She \"dies\" early on when she is taken over by a Parasite, and stabs Shinichi through the heart when he refuses to accept it; she is then killed later on by a tag team of Shinichi and Uda.!~ (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/22143-MTuyh4Ab0ruH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22143
+      }
+    },
+    {
+      "id": "hideo-shimada",
+      "name": "Hideo Shimada",
+      "alt_names": [
+        "島田秀雄"
+      ],
+      "role": "supporting",
+      "description": "Hideo is a Parasite with a teenager's body who decides to integrate with human society. Hideo enrolls in Shinichi's high school and expresses a desire to become friends with Shinichi, who does not trust him. Although Hideo is a relatively peaceful Parasite, he has no qualms about brutalizing or even killing bullies who try to start fights with him, and he continues to hunt humans (although he claims that he is learning to eat normal food instead). He is killed by Shinichi and Migi after another student discovers his secret and confronts him about it, causing him to go on a killing spree.   (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b22144-GpAAGpG4n0oK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22144
+      }
+    },
+    {
+      "id": "gotou",
+      "name": "Gotou",
+      "alt_names": [
+        "後藤"
+      ],
+      "role": "supporting",
+      "description": "Gotou is an \"experimental\" Parasite created by Reiko. He is actually composed of several combined Parasites, whose shapeshifting ability has advanced to the point where they can switch positions, each forming a different limb as the situation requires. Gotō is the most intelligent and skilled, and is the de facto leader of the composite body. Because his head and all of his limbs are made of Parasite cells, Gotō is much faster, stronger, and more dangerous than standard Parasites, and nearly impossible to injure. Gotō is the last Parasite that Shinichi and Migi take down; Gotō actually ends up causing the temporary death of Migi, and absorbs Migi into his body for a small period of time. Shinichi is left with only one arm during this period, but manages to recover Migi and secures victory. The name \"Gotō\" is a pun on a word \"五 Go\" meaning number 5, implying he can control 5 Parasites, whereas the other Parasyte in the same body called Miki (三木 Miki lit. Three trees) can control only 3.\n\n    (Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/22145-Ps1VhfHtirGQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22145
+      }
+    },
+    {
+      "id": "mamoru-uda",
+      "name": "Mamoru Uda",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Uda is, like Shinichi, a human who had a Parasite merge with a part of his body other than his brain. In Uda's case, the Parasite lodged in the lower part of his head. Uda's Parasite originally does not have a name, but is later renamed Jaw (ジョー, Jō?). It is brash and crude-it even seems to have a sense of humour-and sometimes assumes control of Uda's mouth, distorting it into odd shapes and forcing Uda to say strange or inappropriate things. The pair befriend Shinichi and Migi, but prefer to simply avoid Parasites. Because Uda is slightly overweight and his Parasite is located in the jaw area, fights with other Parasites tend to leave him out of breath. However, because it is located in the lower part of the head, his Parasite can extend itself downward into his chest, protecting his heart (a popular target in Parasite duels). Uda is normally a peaceful, easygoing man, but is nervous under pressure and cries easily. He works as a hotel employee.    from wikipedia",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/22146-52mNApPBCdja.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22146
+      }
+    },
+    {
+      "id": "takeshi-hirokawa",
+      "name": "Takeshi Hirokawa",
+      "alt_names": [
+        "広川剛志"
+      ],
+      "role": "supporting",
+      "description": "Hirokawa is the leader of a cabal of Parasites which counts Reiko and Goto among its members. The group attempts to accrue political power in order to set up safehouses where they can take their victims, killing and eating them in secret. Hirokawa gains election to the office of mayor in East Fukuyama City, a small town (by Japanese standards) of 500,000 people close to Shinichi's hometown. Hirokawa wins by running on a campaign centered around locally-based environmentalism. ~!Secretly, Hirokawa is a radical environmentalist who believes that the Parasites' purpose is to cull the human population, standing one step above them on the food chain. The police force kills Hirokawa and discovers that he was 100% human and a Parasite sympathizer.!~   (Source: Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/22147-k3argpRSe9ie.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 22147
+      }
+    },
+    {
+      "id": "furudani",
+      "name": "Furudani",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Student that like Murano Satomi.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/71951.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 71951
+      }
+    },
+    {
+      "id": "kamijou",
+      "name": "Kamijou",
+      "alt_names": [
+        "上条"
+      ],
+      "role": "supporting",
+      "description": "Student of the same school that Shinichi.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71953-SInfO7BzQmv8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 71953
+      }
+    },
+    {
+      "id": "mitsuo",
+      "name": "Mitsuo",
+      "alt_names": [
+        "ミツオ"
+      ],
+      "role": "supporting",
+      "description": "Student of Kita High School. Likes Kana. Gets jealous and beats up Shinichi.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71955-0V2Zd7fvjHkg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 71955
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T08:36:48.441Z"
+}

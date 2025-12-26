@@ -1,0 +1,338 @@
+{
+  "work_id": "insomniacs-after-school",
+  "count": 14,
+  "characters": [
+    {
+      "id": "ganta-nakami",
+      "name": "Ganta Nakami",
+      "alt_names": [
+        "中見丸太",
+        "Gan-chan"
+      ],
+      "role": "protagonist",
+      "description": "A high school student of Kuyo High School who suffers from insomnia. He comes off as grumpy and unfriendly due to his condition. Ganta is determined to protect the observatory and the revived Astronomy Club, of which he becomes the president.\n\n~!After meeting Isaki, he opens up to the people around him and reveals to Isaki that the cause of his insomnia is due to separation anxiety caused by his mother leaving him and his father.!~\n\n~!He becomes Isaki's boyfriend at the end of the club trip during the summer holiday of their first year. He aims to get into a university with a nursing program in Kanazawa, Ishikawa, inspired by his desire to always be at Isaki's side.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "15-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161229-pdxEqMtNRlPI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161229
+      }
+    },
+    {
+      "id": "isaki-magari",
+      "name": "Isaki Magari",
+      "alt_names": [
+        "曲伊咲"
+      ],
+      "role": "protagonist",
+      "description": "A cheerful high school girl who also suffers from insomnia like Ganta. She first discovered the abandoned observatory and made it her sleeping haven, until Ganta came along. \n\n~!As she and Ganta became closer, she shared to him that she has congenital heart disease which requires monthly examinations, frequent hospitalization, and even surgeries. She was the only other member of the Astronomy Club in her first year, and became the vice-president later in the winter of the same year.!~\n\n~!She started dating Ganta after his confession at the end of their club trip. Initially, she aimed for a university within Ishikawa Prefecture, until she managed to convince her mother to allow her to try for a university in Osaka.!~",
+      "metadata": {
+        "gender": "female",
+        "age": "15-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161230-KUMSejEwkCoD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161230
+      }
+    },
+    {
+      "id": "two-chan",
+      "name": "Two-chan",
+      "alt_names": [
+        "ツーちゃん",
+        "Kusoneko",
+        "Chibi",
+        "Ojisan",
+        "Omochi",
+        "Marumi",
+        "Bouguin"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304942-5QpZDKKL2VvC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304942
+      }
+    },
+    {
+      "id": "usako-kurashiki",
+      "name": "Usako Kurashiki",
+      "alt_names": [
+        "倉敷兎子"
+      ],
+      "role": "supporting",
+      "description": "School nurse and advisor of the Astronomy Club.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161231-kYhTo8I2XysD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161231
+      }
+    },
+    {
+      "id": "yui-shiromaru",
+      "name": "Yui Shiromaru",
+      "alt_names": [
+        "白丸結"
+      ],
+      "role": "supporting",
+      "description": "Former member of the Astronomy Club, where she won the grand prize in the National High School Astrophotography Contest.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161232-Cf1s1URhYRJp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161232
+      }
+    },
+    {
+      "id": "motoko-kanikawa",
+      "name": "Motoko Kanikawa",
+      "alt_names": [
+        "蟹川モトコ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161234-B1kQvLLzWMUg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161234
+      }
+    },
+    {
+      "id": "kanami-anamizu",
+      "name": "Kanami Anamizu",
+      "alt_names": [
+        "穴水かなみ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b262616-ntmxvuURaNgc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 262616
+      }
+    },
+    {
+      "id": "mina-nono",
+      "name": "Mina Nono",
+      "alt_names": [
+        "野々三奈"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161236-PwiIHNM3NwWY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161236
+      }
+    },
+    {
+      "id": "tao-ukegawa",
+      "name": "Tao Ukegawa",
+      "alt_names": [
+        "受川太鳳"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161233-sl4sgOlaMyzL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161233
+      }
+    },
+    {
+      "id": "rui-haida",
+      "name": "Rui Haida",
+      "alt_names": [
+        "灰田塁"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161235-lg938mbftYXF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 161235
+      }
+    },
+    {
+      "id": "haya-magari",
+      "name": "Haya Magari",
+      "alt_names": [
+        "曲早矢"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b199702-O9CY1v90IrP2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 199702
+      }
+    },
+    {
+      "id": "ken-hakui",
+      "name": "Ken Hakui",
+      "alt_names": [
+        "羽咋健"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304915-dYm8tIz9aA9N.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304915
+      }
+    },
+    {
+      "id": "ganta-no-chichi",
+      "name": "Ganta no Chichi",
+      "alt_names": [
+        "丸太の父",
+        "Ganta's Father"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304929-GcWlb6fQcsv0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304929
+      }
+    },
+    {
+      "id": "ganta-no-haha",
+      "name": "Ganta no Haha",
+      "alt_names": [
+        "丸太の母"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308612-X8NkTxeJiz3W.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308612
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T11:34:39.955Z"
+}

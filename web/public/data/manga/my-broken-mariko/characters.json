@@ -1,0 +1,77 @@
+{
+  "work_id": "my-broken-mariko",
+  "count": 3,
+  "characters": [
+    {
+      "id": "tomoyo-shiino",
+      "name": "Tomoyo Shiino",
+      "alt_names": [
+        "シイノトモヨ",
+        "Shii-chan"
+      ],
+      "role": "protagonist",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192314-EXcLV6NjTF9D.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 192314
+      }
+    },
+    {
+      "id": "mariko-ikagawa",
+      "name": "Mariko Ikagawa",
+      "alt_names": [
+        "イカガワマリコ"
+      ],
+      "role": "protagonist",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208319-waQoc4xLxXDl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 208319
+      }
+    },
+    {
+      "id": "makio",
+      "name": "Makio",
+      "alt_names": [
+        "マキオ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b292195-0v3K7guOfZyw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 292195
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T13:14:40.947Z"
+}

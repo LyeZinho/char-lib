@@ -1,0 +1,374 @@
+{
+  "work_id": "my-blasted-reincarnated-life",
+  "count": 15,
+  "characters": [
+    {
+      "id": "eugene-lionhart",
+      "name": "Eugene Lionhart",
+      "alt_names": [
+        "유진 라이언하트",
+        "Hamel",
+        "Eugene Lionheart"
+      ],
+      "role": "protagonist",
+      "description": "Eugene Lionheart is the titular protagonist of the web novel Damn Reincarnation. In his previous life, he was known as Hamel Dynas, and was one of the Five Great Heroes who vanquished three of the five Demon Kings of the Devildom of Helmuth long ago. After dying in the castle of the Demon King of Incarceration, he found himself reborn 300 years later as a distant relative of his comrade, Vermouth Lionheart. Reborn into a collateral branch family of the Lionheart Family, the son of Gerhard Lionheart, he swore to finish the task his comrades could not: Kill all the Demon Kings.",
+      "metadata": {
+        "gender": "male",
+        "age": "38 (before reincarnation), 21 (after reincarnation)",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283160-ocTh6z3XHrB3.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283160
+      }
+    },
+    {
+      "id": "bermut-lionhart",
+      "name": "Bermut Lionhart",
+      "alt_names": [
+        "베르무트 라이언하트",
+        "Great Vermouth",
+        "Vermouth Lionheart",
+        "Bermut the Great"
+      ],
+      "role": "supporting",
+      "description": "Bermut Lionhart also known as Bermut the Great is a companion of Hamel and also the leader of the hero party that dispatched to defeat Demon Kings.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b283621-ANeANpG6lWLC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 283621
+      }
+    },
+    {
+      "id": "sienna-merdein",
+      "name": "Sienna Merdein",
+      "alt_names": [
+        "세냐 메르데인",
+        "Wise Sienna",
+        "Lady Sienna"
+      ],
+      "role": "supporting",
+      "description": "Sienna Merdein, also known as Wise Sienna, is a companion of Stupid Hamel and also the magician of the hero party that was dispatched to defeat Demon Kings. She is known as one of the greatest magicians in magic history.",
+      "metadata": {
+        "gender": "female",
+        "age": "+300",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b289784-XCvtCgWOA8gZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 289784
+      }
+    },
+    {
+      "id": "ciel-lionheart",
+      "name": "Ciel Lionheart",
+      "alt_names": [
+        "시엘 라이언하트",
+        "Ciel Lionhart"
+      ],
+      "role": "supporting",
+      "description": "Ciel Lionheart is the daughter of Gilead Lionheart and the twin sister of Cyan Lionheart. She is a member of the direct line of the Lionheart family.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293907-LxW1yDvAuoxi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293907
+      }
+    },
+    {
+      "id": "carmen-lionheart",
+      "name": "Carmen Lionheart",
+      "alt_names": [
+        "카르멘 라이언하트",
+        "Carmen Lionhart",
+        "Silver Lion"
+      ],
+      "role": "supporting",
+      "description": "Carmen Lionheart is a member of the Lionheart Family, part of the Council of Elders and captain of the third division of the Black Lions.",
+      "metadata": {
+        "gender": "female",
+        "age": "70s",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293908-WTJYphD20MPf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 293908
+      }
+    },
+    {
+      "id": "balzac-ludbeth",
+      "name": "Balzac Ludbeth",
+      "alt_names": [
+        "발자크 루드베스",
+        "Black Tower Master",
+        "Balzac Luobeth"
+      ],
+      "role": "supporting",
+      "description": "Balzac Ludbeth is the Tower Master of the Black Magic Tower.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b294034-FGnJcUeJ0jXo.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 294034
+      }
+    },
+    {
+      "id": "kristina-rogeris",
+      "name": "Kristina Rogeris",
+      "alt_names": [
+        "크리스티나 로게리스",
+        "Saint Candidate",
+        "Kristina Logeris"
+      ],
+      "role": "supporting",
+      "description": "Kristina Rogeris is a companion of Eugene Lionheart and also the sole saint candidate of the Holy Empire of Yuras.",
+      "metadata": {
+        "gender": "female",
+        "age": "27",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325547-5m1jqt3yHY35.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325547
+      }
+    },
+    {
+      "id": "molon-ruhr",
+      "name": "Molon Ruhr",
+      "alt_names": [
+        "모론 루하르",
+        "Brave Molon"
+      ],
+      "role": "supporting",
+      "description": "**Age:** ~!300+!~\n\nMolon Ruhr, also known as the 'Brave Molon', is a member of the Five Great Heroes, taking the role of the tank for the party. He is also the founder and former ruler of the Northern Ruhr Kingdom.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325549-b7BafnKUk8dU.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325549
+      }
+    },
+    {
+      "id": "genos-lionheart",
+      "name": "Genos Lionheart",
+      "alt_names": [
+        "제노스 라이언하트",
+        "Second Division Captain"
+      ],
+      "role": "supporting",
+      "description": "Genos Lionheart is the Black Lions’ Second Division Captain and a member of the Lionheart Family’s collateral branch, whose ancestor was Vermouth’s second son.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325550-S3SB0bk5BeDd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325550
+      }
+    },
+    {
+      "id": "gilead-lionheart",
+      "name": "Gilead Lionheart",
+      "alt_names": [
+        "길레이드 라이언하트",
+        "Patriarch of The Lionheart Family"
+      ],
+      "role": "supporting",
+      "description": "Gilead Lionheart is the Patriarch of the Lionheart Family as well as a member of the council. He is the husband of Tanis Lionheart with whom he fathered Eward. He also married Ancilla Lionheart, with whom he had a pair of twins, Cyan and Ciel.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325551-DyIwPRYRKZiM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325551
+      }
+    },
+    {
+      "id": "dominic-lionheart",
+      "name": "Dominic Lionheart",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Dominic Lionheart is the grandson of the Immortal White Lion Doynes Lionheart and the wielder of the Annihilation Hammer Jigollath. He is the leader of the First Division of the Black Lions.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325552-yxSjrrj5apkq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325552
+      }
+    },
+    {
+      "id": "gion-lionheart",
+      "name": "Gion Lionheart",
+      "alt_names": [
+        "기온 라이언하트"
+      ],
+      "role": "supporting",
+      "description": "Gion Lionheart is the younger brother of Gilead Lionheart as well as a member of the Black Lions.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325553-DBadNA6qNtV8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325553
+      }
+    },
+    {
+      "id": "lovellian-sophis",
+      "name": "Lovellian Sophis",
+      "alt_names": [
+        "Mad Dog of the Red Tower of Magic"
+      ],
+      "role": "supporting",
+      "description": "Lovellian Sophis is Master of the Red Magic Tower. He is also the master of Eugene Lionheart in the field of magic.",
+      "metadata": {
+        "gender": "male",
+        "age": "80+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325554-9B2p4lvmMebr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325554
+      }
+    },
+    {
+      "id": "cyan-lionheart",
+      "name": "Cyan Lionheart",
+      "alt_names": [
+        "시안 라이언하트"
+      ],
+      "role": "supporting",
+      "description": "Cyan Lionheart is one of Gilead Lionheart's son and a member of direct lineage of the Lionheart Family.",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325555-hB9Pl69sRouT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325555
+      }
+    },
+    {
+      "id": "doynes-lionheart",
+      "name": "Doynes Lionheart",
+      "alt_names": [
+        "Immortal White Lion"
+      ],
+      "role": "supporting",
+      "description": "Doynes Lionheart is a member of the Lionheart Family and leader of the Black Lions. He is a powerhouse who wields the Demonic Spear Luentos.",
+      "metadata": {
+        "gender": "male",
+        "age": "120",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b325556-sVZzlCbkr3iv.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 325556
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T07:27:31.131Z"
+}

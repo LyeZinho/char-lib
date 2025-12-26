@@ -1,0 +1,342 @@
+{
+  "work_id": "here-u-are",
+  "count": 15,
+  "characters": [
+    {
+      "id": "yang-yu",
+      "name": "Yang Yu",
+      "alt_names": [
+        "虞扬",
+        "YuYang",
+        "Hyeonu Oh (오현우)"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 175 cm\n\nSecond-year Art major. Came out as gay in junior high.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": "1998-02-14"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126418-msxIsrdu4RUo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126418
+      }
+    },
+    {
+      "id": "huan-li",
+      "name": "Huan Li",
+      "alt_names": [
+        "黎焕",
+        "Huan-Huan",
+        "Jaehwan Lee (이재환)"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 196cm\n\nCollege freshman majoring in Design.",
+      "metadata": {
+        "gender": "male",
+        "age": "18",
+        "dateOfBirth": "2000-05-20"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126419-GsNsUBBqvDrJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 126419
+      }
+    },
+    {
+      "id": "huanwen-chu",
+      "name": "Huanwen Chu",
+      "alt_names": [
+        "楚涣文",
+        "Jeonghyeok Seo (서정혁)"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 180cm\n\nSecond-year Art major. In charge of public relations.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180307-QSgCTlxd4MxW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180307
+      }
+    },
+    {
+      "id": "yuan-ji",
+      "name": "Yuan Ji",
+      "alt_names": [
+        "纪远"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180308-cYeK6qbqmcl2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180308
+      }
+    },
+    {
+      "id": "pan-shu",
+      "name": "Pan Shu",
+      "alt_names": [
+        "潘叔"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 185cm\n\nOwner of a gay bar.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180316-viuelEEQnDjq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180316
+      }
+    },
+    {
+      "id": "qiujie-zhong",
+      "name": "Qiujie Zhong",
+      "alt_names": [
+        "钟邱捷"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180317-L0rqKokSLPf1.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180317
+      }
+    },
+    {
+      "id": "xiang-lin",
+      "name": "Xiang Lin",
+      "alt_names": [
+        "林响"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180318-fwy2KVi2pO9D.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180318
+      }
+    },
+    {
+      "id": "ming-wang",
+      "name": "Ming Wang",
+      "alt_names": [
+        "王鸣"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180319-JMiKIsAe5bSR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180319
+      }
+    },
+    {
+      "id": "jiefeng-zhang",
+      "name": "Jiefeng Zhang",
+      "alt_names": [
+        "张杰风"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180320-JdFOmvialReF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180320
+      }
+    },
+    {
+      "id": "wangwang-xia",
+      "name": "Wangwang Xia",
+      "alt_names": [
+        "夏旺旺"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180321-akvK1xnAtsLJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180321
+      }
+    },
+    {
+      "id": "jianyu-zhang",
+      "name": "Jianyu Zhang",
+      "alt_names": [
+        "张简雨"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 162cm\n\nA second-year Art major.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180322-j5cZdQCrB4iy.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180322
+      }
+    },
+    {
+      "id": "yi-xiao",
+      "name": "Yi Xiao",
+      "alt_names": [
+        "肖奕"
+      ],
+      "role": "supporting",
+      "description": "__Height__: 170cm\n\nA first-year Design major.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b180323-7DTVsn8UqDMY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 180323
+      }
+    },
+    {
+      "id": "bai-sheng-xuan",
+      "name": "Bai Sheng Xuan",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "He's from QingDao",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b198024-yKWyXe5VCsOK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 198024
+      }
+    },
+    {
+      "id": "jiang-jia-yu",
+      "name": "Jiang Jia Yu",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "He's from Sichuan",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b198025-ESAda4RZ3LYz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 198025
+      }
+    },
+    {
+      "id": "chen-xial-ji",
+      "name": "Chen Xial Ji",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "He's from Sichuan",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b198026-XJv2jAUwCtUb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 198026
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T12:07:40.064Z"
+}

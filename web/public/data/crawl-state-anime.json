@@ -507,285 +507,397 @@
     "109501",
     "85442",
     "21701",
-    "512"
+    "512",
+    "33006",
+    "159441",
+    "18671",
+    "2966",
+    "116671",
+    "143056",
+    "154965",
+    "16894",
+    "86568",
+    "30872",
+    "131942",
+    "21861",
+    "99324",
+    "30102",
+    "13125",
+    "131586",
+    "59983",
+    "111189",
+    "777",
+    "21058",
+    "98235",
+    "30007",
+    "934",
+    "21428",
+    "130511",
+    "147149",
+    "128546",
+    "20657",
+    "47465",
+    "65003",
+    "109963",
+    "2236",
+    "110462",
+    "86508",
+    "2025",
+    "105228",
+    "98361",
+    "31224",
+    "106479",
+    "100112",
+    "101557",
+    "85165",
+    "97922",
+    "14467",
+    "76716",
+    "105011",
+    "20745",
+    "166873",
+    "113501",
+    "159930",
+    "17074",
+    "100773",
+    "114605",
+    "47353",
+    "124194",
+    "97766",
+    "115122",
+    "151512",
+    "20987",
+    "108553",
+    "31649",
+    "86707",
+    "105190",
+    "249",
+    "80145",
+    "30401",
+    "113596",
+    "178025",
+    "30145",
+    "30044",
+    "21385",
+    "33",
+    "33285",
+    "30658",
+    "245",
+    "99468",
+    "109285",
+    "41734",
+    "161964",
+    "18115",
+    "87321",
+    "85533",
+    "99426",
+    "43",
+    "43702",
+    "110473",
+    "21093",
+    "98444",
+    "150440",
+    "100805",
+    "131565",
+    "100183",
+    "30768",
+    "125636",
+    "163270",
+    "7791"
   ],
   "queue": [
     {
-      "id": 18671,
-      "title": "Chuunibyou demo Koi ga Shitai! Ren",
-      "popularity": 166988,
-      "score": 74,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 2966,
-      "title": "Ookami to Koushinryou",
-      "popularity": 166814,
-      "score": 80,
-      "episodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "id": 154965,
-      "title": "Yamada-kun to Lv999 no Koi wo Suru",
-      "popularity": 165994,
-      "score": 78,
-      "episodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "id": 16894,
-      "title": "Kuroko no Basket 2nd SEASON",
-      "popularity": 165589,
-      "score": 80,
-      "episodes": 25,
-      "status": "FINISHED"
-    },
-    {
-      "id": 131942,
-      "title": "JoJo no Kimyou na Bouken: Stone Ocean",
-      "popularity": 165314,
-      "score": 80,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 21861,
-      "title": "Ao no Exorcist: Kyoto Fujouou-hen",
-      "popularity": 165032,
-      "score": 72,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 13125,
-      "title": "Shinsekai yori",
-      "popularity": 164956,
-      "score": 80,
-      "episodes": 25,
-      "status": "FINISHED"
-    },
-    {
-      "id": 131586,
-      "title": "86: Eighty Six Part 2",
-      "popularity": 164839,
-      "score": 86,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 777,
-      "title": "HELLSING OVA",
-      "popularity": 164396,
-      "score": 81,
-      "episodes": 10,
-      "status": "FINISHED"
-    },
-    {
-      "id": 21058,
-      "title": "Akagami no Shirayuki-hime",
-      "popularity": 164196,
-      "score": 76,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 934,
-      "title": "Higurashi no Naku Koro ni",
-      "popularity": 163072,
-      "score": 75,
-      "episodes": 26,
-      "status": "FINISHED"
-    },
-    {
-      "id": 21428,
-      "title": "Hai to Gensou no Grimgar",
-      "popularity": 163023,
-      "score": 74,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 128546,
-      "title": "Vivy: Fluorite Eye’s Song",
-      "popularity": 162682,
-      "score": 82,
-      "episodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "id": 20657,
-      "title": "Saenai Heroine no Sodatekata",
-      "popularity": 162506,
-      "score": 73,
-      "episodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "id": 109963,
-      "title": "Shokugeki no Souma: Shin no Sara",
-      "popularity": 162079,
-      "score": 76,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 2236,
-      "title": "Toki wo Kakeru Shoujo",
-      "popularity": 161285,
-      "score": 78,
-      "episodes": 1,
-      "status": "FINISHED"
-    },
-    {
-      "id": 2025,
-      "title": "DARKER THAN BLACK: Kuro no Keiyakusha",
-      "popularity": 161079,
+      "id": 21858,
+      "title": "Little Witch Academia (TV)",
+      "popularity": 153266,
       "score": 77,
       "episodes": 25,
       "status": "FINISHED"
     },
     {
-      "id": 105228,
-      "title": "Dorohedoro",
-      "popularity": 160807,
-      "score": 79,
+      "id": 133844,
+      "title": "Overlord IV",
+      "popularity": 153257,
+      "score": 80,
+      "episodes": 13,
+      "status": "FINISHED"
+    },
+    {
+      "id": 162804,
+      "title": "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san",
+      "popularity": 153218,
+      "score": 75,
       "episodes": 12,
       "status": "FINISHED"
     },
     {
-      "id": 106479,
-      "title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
-      "popularity": 160297,
-      "score": 74,
+      "id": 9260,
+      "title": "Kizumonogatari I: Tekketsu-hen",
+      "popularity": 152964,
+      "score": 83,
+      "episodes": 1,
+      "status": "FINISHED"
+    },
+    {
+      "id": 107717,
+      "title": "Kobayashi-san Chi no Maidragon S",
+      "popularity": 152899,
+      "score": 81,
       "episodes": 12,
       "status": "FINISHED"
     },
     {
-      "id": 100112,
-      "title": "Kenja no Mago",
-      "popularity": 160147,
-      "score": 64,
+      "id": 20876,
+      "title": "Nisekoi:",
+      "popularity": 152434,
+      "score": 71,
       "episodes": 12,
       "status": "FINISHED"
     },
     {
-      "id": 97922,
-      "title": "Inuyashiki",
-      "popularity": 160135,
+      "id": 6,
+      "title": "TRIGUN",
+      "popularity": 152373,
+      "score": 80,
+      "episodes": 26,
+      "status": "FINISHED"
+    },
+    {
+      "id": 114888,
+      "title": "Fugou Keiji: Balance:UNLIMITED",
+      "popularity": 152183,
       "score": 74,
       "episodes": 11,
       "status": "FINISHED"
     },
     {
-      "id": 14467,
-      "title": "K",
-      "popularity": 160100,
-      "score": 71,
-      "episodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "id": 20745,
-      "title": "High School DxD BorN",
-      "popularity": 159920,
-      "score": 70,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 166873,
-      "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-      "popularity": 159818,
-      "score": 83,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 17074,
-      "title": "Monogatari Series: Second Season",
-      "popularity": 159815,
-      "score": 88,
-      "episodes": 26,
-      "status": "FINISHED"
-    },
-    {
-      "id": 100773,
-      "title": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen",
-      "popularity": 159486,
-      "score": 77,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 124194,
-      "title": "Fruits Basket: The Final",
-      "popularity": 159264,
-      "score": 89,
-      "episodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "id": 97766,
-      "title": "Gamers!",
-      "popularity": 158973,
-      "score": 65,
-      "episodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "id": 20987,
-      "title": "Himouto! Umaru-chan",
-      "popularity": 158603,
+      "id": 10719,
+      "title": "Boku wa Tomodachi ga Sukunai",
+      "popularity": 151631,
       "score": 67,
       "episodes": 12,
       "status": "FINISHED"
     },
     {
-      "id": 108553,
-      "title": "Boku no Hero Academia THE MOVIE: Heroes:Rising",
-      "popularity": 158481,
-      "score": 78,
-      "episodes": 1,
+      "id": 14345,
+      "title": "BTOOOM!",
+      "popularity": 151321,
+      "score": 68,
+      "episodes": 12,
       "status": "FINISHED"
     },
     {
-      "id": 105190,
-      "title": "Darwin's Game",
-      "popularity": 158090,
-      "score": 70,
+      "id": 20602,
+      "title": "Amagi Brilliant Park",
+      "popularity": 150541,
+      "score": 72,
+      "episodes": 13,
+      "status": "FINISHED"
+    },
+    {
+      "id": 136804,
+      "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+      "popularity": 149212,
+      "score": 82,
       "episodes": 11,
       "status": "FINISHED"
     },
     {
-      "id": 249,
-      "title": "Inuyasha",
-      "popularity": 157948,
-      "score": 76,
-      "episodes": 167,
+      "id": 166610,
+      "title": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+      "popularity": 149200,
+      "score": 78,
+      "episodes": 12,
       "status": "FINISHED"
     },
     {
-      "id": 113596,
-      "title": "Josee to Tora to Sakanatachi",
-      "popularity": 157916,
-      "score": 82,
+      "id": 126403,
+      "title": "Shiguang Dailiren",
+      "popularity": 148952,
+      "score": 86,
+      "episodes": 11,
+      "status": "FINISHED"
+    },
+    {
+      "id": 14713,
+      "title": "Kamisama Hajimemashita",
+      "popularity": 148776,
+      "score": 80,
+      "episodes": 13,
+      "status": "FINISHED"
+    },
+    {
+      "id": 116566,
+      "title": "Akudama Drive",
+      "popularity": 148682,
+      "score": 75,
+      "episodes": 12,
+      "status": "FINISHED"
+    },
+    {
+      "id": 146066,
+      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+      "popularity": 148087,
+      "score": 78,
+      "episodes": 13,
+      "status": "FINISHED"
+    },
+    {
+      "id": 142984,
+      "title": "Komi-san wa, Komyushou desu. 2",
+      "popularity": 147368,
+      "score": 79,
+      "episodes": 12,
+      "status": "FINISHED"
+    },
+    {
+      "id": 20725,
+      "title": "Kuroko no Basket 3rd SEASON",
+      "popularity": 147162,
+      "score": 81,
+      "episodes": 25,
+      "status": "FINISHED"
+    },
+    {
+      "id": 131083,
+      "title": "Mieruko-chan",
+      "popularity": 147085,
+      "score": 72,
+      "episodes": 12,
+      "status": "FINISHED"
+    },
+    {
+      "id": 100643,
+      "title": "Made in Abyss: Fukaki Tamashii no Reimei",
+      "popularity": 147051,
+      "score": 85,
       "episodes": 1,
       "status": "FINISHED"
     },
     {
-      "id": 178025,
-      "title": "Gachiakuta",
-      "popularity": 157258,
+      "id": 176301,
+      "title": "Kusuriya no Hitorigoto 2nd Season",
+      "popularity": 146459,
+      "score": 88,
+      "episodes": 24,
+      "status": "FINISHED"
+    },
+    {
+      "id": 98707,
+      "title": "Houseki no Kuni",
+      "popularity": 145995,
+      "score": 83,
+      "episodes": 12,
+      "status": "FINISHED"
+    },
+    {
+      "id": 107201,
+      "title": "Kyokou Suiri",
+      "popularity": 145945,
+      "score": 68,
+      "episodes": 12,
+      "status": "FINISHED"
+    },
+    {
+      "id": 151970,
+      "title": "Shangri-La Frontier",
+      "popularity": 145488,
+      "score": 80,
+      "episodes": 25,
+      "status": "FINISHED"
+    },
+    {
+      "id": 163134,
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+      "popularity": 145470,
+      "score": 84,
+      "episodes": 16,
+      "status": "FINISHED"
+    },
+    {
+      "id": 20678,
+      "title": "Shinmai Maou no Testament",
+      "popularity": 144950,
+      "score": 62,
+      "episodes": 12,
+      "status": "FINISHED"
+    },
+    {
+      "id": 392,
+      "title": "Yuu☆Yuu☆Hakusho",
+      "popularity": 144737,
+      "score": 82,
+      "episodes": 112,
+      "status": "FINISHED"
+    },
+    {
+      "id": 125426,
+      "title": "Gokushufudou",
+      "popularity": 144320,
+      "score": 71,
+      "episodes": 5,
+      "status": "FINISHED"
+    },
+    {
+      "id": 156822,
+      "title": "Tensei Shitara Slime Datta Ken 3rd Season",
+      "popularity": 144192,
+      "score": 77,
+      "episodes": 24,
+      "status": "FINISHED"
+    },
+    {
+      "id": 98202,
+      "title": "Tsuki ga Kirei",
+      "popularity": 144076,
+      "score": 78,
+      "episodes": 12,
+      "status": "FINISHED"
+    },
+    {
+      "id": 166531,
+      "title": "[Oshi no Ko] 2nd Season",
+      "popularity": 143864,
+      "score": 85,
+      "episodes": 13,
+      "status": "FINISHED"
+    },
+    {
+      "id": 151806,
+      "title": "Tomo-chan wa Onnanoko!",
+      "popularity": 143781,
+      "score": 76,
+      "episodes": 13,
+      "status": "FINISHED"
+    },
+    {
+      "id": 103871,
+      "title": "Zombie Land Saga",
+      "popularity": 143646,
+      "score": 74,
+      "episodes": 12,
+      "status": "FINISHED"
+    },
+    {
+      "id": 163139,
+      "title": "Boku no Hero Academia 7",
+      "popularity": 142851,
       "score": 81,
+      "episodes": 21,
+      "status": "FINISHED"
+    },
+    {
+      "id": 20946,
+      "title": "Ore Monogatari!!",
+      "popularity": 142672,
+      "score": 77,
       "episodes": 24,
       "status": "FINISHED"
     }
   ],
   "stats": {
-    "totalProcessed": 224,
-    "totalCharacters": 3913,
-    "lastRun": "2025-12-25T23:06:57.565Z"
+    "totalProcessed": 272,
+    "totalCharacters": 4588,
+    "lastRun": "2025-12-26T13:05:11.327Z"
   }
 }

@@ -509,393 +509,105 @@
     "21701",
     "512",
     "33006",
-    "159441"
+    "159441",
+    "18671",
+    "2966",
+    "116671",
+    "143056",
+    "154965",
+    "16894",
+    "86568",
+    "30872",
+    "131942",
+    "21861",
+    "99324",
+    "30102",
+    "13125",
+    "131586",
+    "59983",
+    "111189",
+    "777",
+    "21058",
+    "98235",
+    "30007",
+    "934",
+    "21428",
+    "130511",
+    "147149",
+    "128546",
+    "20657",
+    "47465",
+    "65003",
+    "109963",
+    "2236",
+    "110462",
+    "86508",
+    "2025",
+    "105228",
+    "98361",
+    "31224",
+    "106479",
+    "100112",
+    "101557",
+    "85165",
+    "97922",
+    "14467",
+    "76716",
+    "105011",
+    "20745",
+    "166873",
+    "113501",
+    "159930",
+    "17074",
+    "100773",
+    "114605",
+    "47353",
+    "124194",
+    "97766",
+    "115122",
+    "151512",
+    "20987",
+    "108553",
+    "31649",
+    "86707",
+    "105190",
+    "249",
+    "80145",
+    "30401",
+    "113596",
+    "178025",
+    "30145",
+    "30044",
+    "21385",
+    "33",
+    "33285",
+    "30658",
+    "245",
+    "99468",
+    "109285",
+    "41734",
+    "161964",
+    "18115",
+    "87321",
+    "85533",
+    "99426",
+    "43",
+    "43702",
+    "110473",
+    "21093",
+    "98444",
+    "150440",
+    "100805",
+    "131565",
+    "100183",
+    "30768",
+    "125636",
+    "163270",
+    "7791",
+    "66267",
+    "112579"
   ],
   "queue": [
-    {
-      "id": 116671,
-      "title": "Juujika no Rokunin",
-      "popularity": 33061,
-      "score": 63,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 143056,
-      "title": "Jaeanggeup Yeongungnimi Gwihwanhasyeotda",
-      "popularity": 32978,
-      "score": 75,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 86568,
-      "title": "Vanitas no Carte",
-      "popularity": 32855,
-      "score": 83,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 30872,
-      "title": "JoJo no Kimyou na Bouken: Stardust Crusaders",
-      "popularity": 32820,
-      "score": 78,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 99324,
-      "title": "Mairimashita! Iruma-kun",
-      "popularity": 32711,
-      "score": 83,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 30102,
-      "title": "Fruits Basket",
-      "popularity": 32654,
-      "score": 85,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 59983,
-      "title": "Noblesse",
-      "popularity": 32465,
-      "score": 76,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 111189,
-      "title": "Yubisaki to Renren",
-      "popularity": 32426,
-      "score": 83,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 98235,
-      "title": "Bokutachi wa Benkyou ga Dekinai",
-      "popularity": 32422,
-      "score": 74,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30007,
-      "title": "Hajime no Ippo",
-      "popularity": 32203,
-      "score": 87,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 130511,
-      "title": "Level-Up Motaneun Player",
-      "popularity": 32170,
-      "score": 72,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 147149,
-      "title": "Super no Ura de Yani Suu Futari",
-      "popularity": 32110,
-      "score": 80,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 47465,
-      "title": "Omoide Emanon",
-      "popularity": 31972,
-      "score": 78,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 65003,
-      "title": "Yamada-kun to 7-nin no Majo",
-      "popularity": 31882,
-      "score": 77,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 110462,
-      "title": "Dogul Wang",
-      "popularity": 31783,
-      "score": 73,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 86508,
-      "title": "Dragon Ball Super",
-      "popularity": 31779,
-      "score": 71,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 98361,
-      "title": "Mikkakan no Koufuku",
-      "popularity": 31735,
-      "score": 88,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 31224,
-      "title": "3-gatsu no Lion",
-      "popularity": 31671,
-      "score": 87,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 101557,
-      "title": "Boku no Kokoro no Yabai Yatsu",
-      "popularity": 31493,
-      "score": 81,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 85165,
-      "title": "Innocent",
-      "popularity": 31437,
-      "score": 81,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 76716,
-      "title": "Masamune-kun no Revenge",
-      "popularity": 31396,
-      "score": 70,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 105011,
-      "title": "Fuufu Ijou, Koibito Miman.",
-      "popularity": 31312,
-      "score": 77,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 113501,
-      "title": "Kaette Kudasai! Akutsu-san",
-      "popularity": 31027,
-      "score": 72,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 159930,
-      "title": "Muhanui Mabeopsa",
-      "popularity": 30995,
-      "score": 79,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 114605,
-      "title": "Igye Geomwang Saengjongi",
-      "popularity": 30740,
-      "score": 76,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 47353,
-      "title": "Umibe no Onnanoko",
-      "popularity": 30439,
-      "score": 68,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 115122,
-      "title": "DEATH NOTE: Tokubetsu Yomikiri",
-      "popularity": 30435,
-      "score": 72,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 151512,
-      "title": "Bireomeogeul Hwansaeng",
-      "popularity": 30353,
-      "score": 78,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 31649,
-      "title": "LIAR GAME",
-      "popularity": 30322,
-      "score": 79,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 86707,
-      "title": "Yao Shen Ji",
-      "popularity": 30239,
-      "score": 77,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 80145,
-      "title": "citrus",
-      "popularity": 30230,
-      "score": 69,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30401,
-      "title": "Kiseijuu",
-      "popularity": 30106,
-      "score": 82,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30145,
-      "title": "BECK",
-      "popularity": 29742,
-      "score": 86,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30044,
-      "title": "Gintama",
-      "popularity": 29575,
-      "score": 86,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 33285,
-      "title": "Holyland",
-      "popularity": 29525,
-      "score": 82,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30658,
-      "title": "Mugen no Juunin",
-      "popularity": 29453,
-      "score": 83,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 109285,
-      "title": "Skip to Loafer",
-      "popularity": 29286,
-      "score": 86,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 41734,
-      "title": "Watashitachi no Shiawase na Jikan",
-      "popularity": 29190,
-      "score": 80,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 87321,
-      "title": "Goblin Slayer",
-      "popularity": 29085,
-      "score": 74,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 85533,
-      "title": "Karakai Jouzu no Takagi-san",
-      "popularity": 29062,
-      "score": 79,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 43702,
-      "title": "Tonari no Kaibutsu-kun",
-      "popularity": 28969,
-      "score": 78,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 110473,
-      "title": "Kimi wa Houkago Insomnia",
-      "popularity": 28916,
-      "score": 83,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 150440,
-      "title": "Ruri Dragon",
-      "popularity": 28786,
-      "score": 77,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 100805,
-      "title": "Here U Are",
-      "popularity": 28621,
-      "score": 85,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 30768,
-      "title": "GUNNM",
-      "popularity": 28521,
-      "score": 81,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 125636,
-      "title": "Mallep Yeongungnim Kkeseo Gwihwan Hasinda!",
-      "popularity": 28318,
-      "score": 72,
-      "episodes": null,
-      "status": "RELEASING"
-    },
-    {
-      "id": 66267,
-      "title": "Boku wa Mari no Naka",
-      "popularity": 28318,
-      "score": 75,
-      "episodes": null,
-      "status": "FINISHED"
-    },
-    {
-      "id": 112579,
-      "title": "My Broken Mariko",
-      "popularity": 28254,
-      "score": 78,
-      "episodes": null,
-      "status": "FINISHED"
-    },
     {
       "id": 30756,
       "title": "BANANA FISH",
@@ -970,8 +682,8 @@
     }
   ],
   "stats": {
-    "totalProcessed": 192,
-    "totalCharacters": 6317,
-    "lastRun": "2025-12-25T23:21:27.800Z"
+    "totalProcessed": 240,
+    "totalCharacters": 6878,
+    "lastRun": "2025-12-26T13:18:41.024Z"
   }
 }

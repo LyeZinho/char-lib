@@ -1,0 +1,382 @@
+{
+  "work_id": "hellsing-ultimate",
+  "count": 15,
+  "characters": [
+    {
+      "id": "alucard",
+      "name": "Alucard",
+      "alt_names": [
+        "アーカード",
+        "The Count",
+        "No-Life King",
+        "Monster",
+        "Vlad Tepes",
+        "Vlad III Dracula",
+        "The Bird of Hermes",
+        "Dracula",
+        "Arucard"
+      ],
+      "role": "protagonist",
+      "description": "__Height__: 220 cm (7'2\")\n\nThe secret weapon of the Hellsing organization, Alucard is a vampire specializing in killing other vampires. At first glance, he seems to be nothing but a rather odd gunman, but when he truly unleashes his powers, it becomes quite clear that he is not a mortal. After walking the night for half a millennium, he is constantly seeking a worthy opponent, and with his powers of regeneration, strength, and shape-shifting, not to mention his army of familiars, he lays waste to any of his master's enemies.    \n\n~!However, beneath his cool and heartless exterior lurks a dark and tragic past, and a longing for the only thing an immortal can never have.!~ \n\nSeveral of the typical weaknesses of vampires have no effect on him, like sunlight, as he claimed in chapter 13: \"Sunlight is not my greatest enemy...  I just HATE it!\" He can also travel over running water without any problem.",
+      "metadata": {
+        "gender": "male",
+        "age": "581",
+        "dateOfBirth": "1431-11-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n601-CVySkaFQgsPW.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 601
+      }
+    },
+    {
+      "id": "integra-fairbrook-wingates-hellsing",
+      "name": "Integra Fairbrook Wingates Hellsing",
+      "alt_names": [
+        "インテグラル・ファルブルケ・ウィンゲーツ・ヘルシング"
+      ],
+      "role": "protagonist",
+      "description": "Sir Integra Hellsing is a noblewoman member of the Protestant Knights who is the head and last member of the Hellsing family, the Bureau Director of the Hellsing Organization, and the current master of Hellsing's vampire, Alucard. Integra is usually a collected individual, rarely allowing her emotions to get in the way of business. However, she is sometimes prone to fits of anger. The Hellsing family is \"on a mission from God\", and she values her duties to protect the United Kingdom and the Anglican Church above everything else. For her, failure is not tolerated, especially her own. She runs the Hellsing Organization with charisma and patriotism, and she is one of the few people who can stand up to the force of Alucard's personality and command his respect.  (Source: Wikipedia)",
+      "metadata": {
+        "gender": "female",
+        "age": "22",
+        "dateOfBirth": "1977-10-27"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n603-APJJRPduEnJV.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 603
+      }
+    },
+    {
+      "id": "seras-victoria",
+      "name": "Seras Victoria",
+      "alt_names": [
+        "セラス・ヴィクトリア",
+        "Police Girl",
+        "Draculina",
+        "Yuri Kate",
+        "Mignonette",
+        "Hellsing's New Trump Card",
+        "Kitten"
+      ],
+      "role": "protagonist",
+      "description": "__Affiliations:__ Hellsing Organization, London Metropolitan Police (Former; Firearms Specialist)\n\nA policewoman sent to investigate the troubles at Cheddar Village, her squad is killed and she is nearly raped and killed by the mad vampire priest inhabiting the dead village but is \"saved\" when Alucard sends a bullet through her to kill the priest. On the verge of death, she allows Alucard to turn her into a vampire​ and joins Hellsing as Alucard's minion.  She is reluctant to embrace her new powers at first, but gradually comes to terms with what she is, and eventually discovers her true powers after a certain event.",
+      "metadata": {
+        "gender": "female",
+        "age": "19-49",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b624-qdFGCDB5Zhco.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 624
+      }
+    },
+    {
+      "id": "alexander-anderson",
+      "name": "Alexander Anderson",
+      "alt_names": [
+        "アレクサンド・アンデルセン神父",
+        "Paladin",
+        "Father",
+        "Hitman",
+        "Bayonet",
+        "Killing Judge",
+        "Angel Dust",
+        "Judas Priest"
+      ],
+      "role": "supporting",
+      "description": "Alexander Anderson is the trump card of Iscariot - section XIII, the secret organization of the Catholic church created to fight the undead.  Little is known about his background, other than his many nicknames and victories, and his biotech regeneration. Anderson first meets Alucard on a mission in Northern Ireland, and their paths cross many times afterwards. Anderson is seemingly possessed by the thought of defeating Alucard...How far is he willing to go in order to defeat his foe?",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b606-uox8devG45Zp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 606
+      }
+    },
+    {
+      "id": "walter-c-dornez",
+      "name": "Walter C. Dornez",
+      "alt_names": [
+        "ウォルター・C（クム）・ドルネーズ",
+        "The Angel of Death",
+        "Shinigami",
+        "John Bull"
+      ],
+      "role": "supporting",
+      "description": "Walter C. Dornez is the butler of Integra Hellsing, but is at the same time a deadly combatant, wielding high-velocity microfilament wires (dubbed by fans \"The Dental Floss Of Doom\"), and fought together with Alucard in the Second World War to stop a certain groups attempt at creating an undead army.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b609-VoV9ogwkKMB5.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 609
+      }
+    },
+    {
+      "id": "enrico-maxwell",
+      "name": "Enrico Maxwell",
+      "alt_names": [
+        "エンリコ・マクスウェル"
+      ],
+      "role": "supporting",
+      "description": "Enrico Maxwell is the leader of the Vatican's Special Section XIII, the Iscariot Organization. He is a bitter rival of Integra and the Hellsing organization, but establishes a form of cooperation with Hellsing when fighting Millenium.  But can Integra and the others truly trust him?",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/610.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 610
+      }
+    },
+    {
+      "id": "pip-bernadotte",
+      "name": "Pip Bernadotte",
+      "alt_names": [
+        "ピップ・ベルナドット"
+      ],
+      "role": "supporting",
+      "description": "Pip Bernadotte; a shallow, perverted and chainsmoking French mercenary. He and his squad The Wild Geese are hired by Hellsing after Hellsing lost its own troops in the Valentine attack. Bernadotte is a well experienced soldier, and fares surprisingly well against the undead he is put against.   ~!Later in the series, he develops romantic feelings for Seras Victoria. !~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b612-KxUaUzMpl5KM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 612
+      }
+    },
+    {
+      "id": "the-major",
+      "name": "The Major",
+      "alt_names": [
+        "少佐",
+        "Montana Max"
+      ],
+      "role": "supporting",
+      "description": "A first Lieutenant of SS in WWII, The Major was ordered by Hitler to lead the project of creating an army of Nazi vampires. Upon the defeat brought by Alucard and Walter in Poland, The Major and his officers escaped to South America. The original purpose of the Vampire project was to ensure Germany victory in WWII, but The Major now has his own agenda, preaching of endless war and destruction, and seems to pay no heed to who will be victorious.  The Major claims to be human, although he have somehow managed to retain his youth since WWII, possibly by alterations done by Doc.   ~!It appears from Hellsing Ultimate OVA 10 that The Major's body for the series was that of a robot (or of a cyborg) and he may have in fact been long dead.!~",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b613-13Oi69jlA9Bw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 613
+      }
+    },
+    {
+      "id": "rip-van-winkle",
+      "name": "Rip Van Winkle",
+      "alt_names": [
+        "リップ・ヴァン・ウィンクル",
+        "The Hunter"
+      ],
+      "role": "supporting",
+      "description": "SS-Obersturmführer Rip van Winkle is an officer in Millennium, utilizing a long barreled flintlock musket with \"magical\" homing bullets. Though she is powerful, It is unknown whether she is a vampire or a modified human. She already encountered Alucard during WWII, and fears the coming of \"Samiel\", fashioning herself as  \"Kaspar\", the protagonist of the opera \"Der Freischütz\".  She leads the first \"sortie\" against the British when she lands a boarding crew aboard the British carrier HMS Eagle, killing all the crew, including the vampire operatives that had been planted on board.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/616.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 616
+      }
+    },
+    {
+      "id": "taii",
+      "name": "Taii",
+      "alt_names": [
+        "大尉",
+        "The Captain",
+        "Hauptsturmführer",
+        "Millennium's Trump Card",
+        "Le Chien d'Attaque",
+        "Wolfman",
+        "Good Dog"
+      ],
+      "role": "supporting",
+      "description": "The Captain is a member of the Millennium forces and the Waffen-SS.  The Captain is Major Montana Max's silent, stoic adjutant and bodyguard. Unlike the Major and Lieutenant Rip van Winkle, he still wears a full uniform, which is similar to a M42 Greatcoat with its neckguard constantly turned up, and an M43 officer's cap emblazoned with the Totenkopf symbol. The Captain is a natural werewolf, able to transform at will and fight in either human or werewolf form. Hans once fought Walter and Alucard in WWII, and meets the Hellsing forces later in London. His seemingly noble behaviour does not fit very well in with the rest of Millennium, and his enigmatic behaviour makes one wonder what he is fighting for.  The Captain possesses immense superhuman ability, even while in human form. This includes superhuman senses, strength (strong enough to bend steel bars or shatter limbs with a single kick), speed, reflexes, agility, dexterity, coordination, balance, and endurance. His iron-like flesh can withstand Walter's wires (which can easily slice solid steel), even as they are tightened around his bare neck. He seems to be able to fall great distances without sustaining any damage. The Captain has some regenerative ability, as he quickly regenerated his mutilated hand in The Dawn. In addition to his natural abilities, the Captain possesses two modified Mauser C96s with incredibly long barrels, and a combat knife that he has not used yet.  His name is not Hans, this was a fanmade name for him because of a scene where various names appeared in the background and Hans was one of them.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/617-uJoZk3aKWPj9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 617
+      }
+    },
+    {
+      "id": "tubalcain-alhambra",
+      "name": "Tubalcain Alhambra",
+      "alt_names": [
+        "トバルカイン・アルハンブラ",
+        "Dandy Man"
+      ],
+      "role": "supporting",
+      "description": "Tubalcain Alhambra is one of Millennium&#039;s artificial vampires, but much more powerful than Luke, Jan and the basic Millennium troops. His special ability is cards, using them to attack and regenerate. He was sent to assault the hotel in which Alucard and Seras were staying, and the coming battle with Alucard became his end.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/618.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 618
+      }
+    },
+    {
+      "id": "zorin-blitz",
+      "name": "Zorin Blitz",
+      "alt_names": [
+        "ゾーリンブリッツ"
+      ],
+      "role": "supporting",
+      "description": "Zorin Blitz is another of Millenniums officers, charged with the mission of assaulting Hellsing HQ. Her forces are met by stiff resistance from Seras and The Geese, but her illusion abilities makes her a fearsome adversary.   Zorin's most remarkable features are her tattoos, covering one half of her body, and her weapon, a giant scythe.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/619.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 619
+      }
+    },
+    {
+      "id": "schrodinger",
+      "name": "Schrödinger",
+      "alt_names": [
+        "シュレディンガ",
+        "Schrodinger"
+      ],
+      "role": "supporting",
+      "description": "The catboy Schrödinger is one of the members of the Millennium elite, a modern-day group of Nazis. He holds the power to appear \"everywhere and nowhere\" (his name being a direct reference to Erwin Schrödinger and his thought experiment \"Schrödinger's cat\"), as well as being able to regenerate fatal wounds. His combat abilities and motives are currently unknown, though Hirano has confirmed he is a creation of Doc.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b620-4nBptZiT1ueY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 620
+      }
+    },
+    {
+      "id": "jan-valentine",
+      "name": "Jan Valentine",
+      "alt_names": [
+        "ヤン・ヴァレンタイン"
+      ],
+      "role": "supporting",
+      "description": "The youngest of the Valentine brothers, Jan is a maniacal thug and an artificial vampire. He does not have any high class vampire abilities, and utilizes two P90s.  During the assault on Hellsing HQ, he fought Seras and Walter while hunting for Integra, and was eventually remotely killed by Millennium in order to seal his lips.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/621.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 621
+      }
+    },
+    {
+      "id": "luke-valentine",
+      "name": "Luke Valentine",
+      "alt_names": [
+        "ルーク・ヴァレンタイン"
+      ],
+      "role": "supporting",
+      "description": "The older of the Valentine brothers, Luke is entirely unlike his brother, and sports a calm and composed behaviour. like Jan, he does not have any high class vampire abilities, and use a pair of sawed-off M1 Garand rifles as well as knives. Luke challenges Alucard, but grossly underestimate him, and is in the end eaten by Alucards Hellhound.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/622.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 622
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T01:59:09.351Z"
+}

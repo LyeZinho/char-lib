@@ -1,0 +1,349 @@
+{
+  "work_id": "battle-angel-alita",
+  "count": 15,
+  "characters": [
+    {
+      "id": "gally",
+      "name": "Gally",
+      "alt_names": [
+        "ガリィ",
+        "Yoko (陽子)",
+        "Alita"
+      ],
+      "role": "protagonist",
+      "description": "Found in the scrapyard below the floating city Tiphares by the Hunter Warrior Daisuke Ido, Gally soon becomes a Hunter Warrior herself, hunting for bounties throughout the scrapyard city. Having no recollection of her past, Gally's only link to her memories is her \"Panzer Kunst\" a martial art style for cyborgs that she somehow remembers. While trying to live her life and protect those dear to her, she is eventually caught up in the struggle between the utopian society of Tiphares and the suppressed surface dwellers.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2308-WaUcHYfleGsb.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2308
+      }
+    },
+    {
+      "id": "sechs",
+      "name": "Sechs",
+      "alt_names": [
+        "ゼクス ",
+        "TUNED AR-6"
+      ],
+      "role": "supporting",
+      "description": "Sechs (German for \"six\") is one of the TUNED AR Series 2 combat androids. Formerly AR-6 and known in Japan as GR-6, he was created by the Ground Investigation Bureau (G.I.B.) to replace Alita as a TUNED agent. After the collapse of the G.I.B., AR-6 went on to challenge and kill all of his \"sisters\" save for Elf and Zwölf in an attempt to establish his own identity, changing his name to Sechs.\n\nUnlike his sister unit AR-2, he is noteworthy in that he does not wish to replace Alita, but believes that in defeating her he earns the right to exist as himself. Although originally assigned female, Sechs currently inhabits a male body and has a masculine personality. He has expressed some disdain for his previous TUNED body. Sechs' rivalry with Alita was been largely sidelined during the Tenth Zenith of Things Tournament, during which he developed a new rivalry with Zekka. After his defeat by Zekka in the tournament, Sechs was instrumental in restoring order to Robo-Asyl. He subsequently joined the Stellar Nursery Society.\n\nSechs has a highly aggressive personality and greatly enjoys fighting. Following the fall of the Ground Investigation Bureau, Sechs, like the surviving TUNED AR Series 2 androids, began developing his own personality. This is possibly derived from the TUNED AR Series 2's original programming, which in turn was based on the destructive and nihilistic personality that Alita had developed during the decade that she spent as a TUNED agent. Following his defeat by Alita he began to question his own reason for existence, which has led him to ask Zazie and Zekka what their definition of a true warrior is.\n\nAlthough being initially assigned female, Sechs transitioned with the acquisition of the Fizziroy Body, which is anatomically male. He has also developed a better sense of strategy and exhibited exponential personal and emotional growth during the Tenth Zenith of Things Tournament.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5773-54g7Qq0B2rgz.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 5773
+      }
+    },
+    {
+      "id": "desty-nova",
+      "name": "Desty Nova",
+      "alt_names": [
+        "ディスティ・ノヴァ"
+      ],
+      "role": "supporting",
+      "description": "A brilliant but mad scientist cast out from Tiphares because of his inhumane experiments, Nova utilize his expertise in nanotechnology to experiment with whatever he can get his hands on, like Makaku, Jashugan and even his son Kaos. His nanomachines can also reconstruct any damage done to his body, making him a tough nut to crack. While in Tiphares, he somehow managed to sneak into Melchizedek and learns the truth behind the utopian society of the sky city.    Clearly mad, his actions seems to be mostly driven by whims, but his intelligence is not to be underestimated, as Alita (Gally) experience more than once.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6544-fveQ86tAJUO0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6544
+      }
+    },
+    {
+      "id": "ido-daisuke",
+      "name": "Ido Daisuke",
+      "alt_names": [
+        "イド ダイスケ"
+      ],
+      "role": "supporting",
+      "description": "A Cyberphysician and Hunter warrior who once lived in Tiphares, Ido finds the broken [Gally](https://anilist.co/character/2308/Gally) in a junk pile in the Scrapyard, restores her and raise her like a daughter. In the beginning, Ido keeps his second job as a bounty hunter hidden from Gally, but she eventually finds out, and joins Ido in his hunts.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6545-DJcvZ5Y6tLOq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6545
+      }
+    },
+    {
+      "id": "figure-four",
+      "name": "Figure Four",
+      "alt_names": [
+        "フォギア・フォア",
+        "Fogia Fore"
+      ],
+      "role": "supporting",
+      "description": "A fisherman from the coast village Alhambra who traveled to the Scrapyard to see Tiphares, Figure was working as a Railway mercenary when he met Gally during a mission to protect a train from bandits. He travels with Gally for a while, and the two falls in love.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6547-81PAC0EfL6oh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6547
+      }
+    },
+    {
+      "id": "den",
+      "name": "Den",
+      "alt_names": [
+        "電"
+      ],
+      "role": "supporting",
+      "description": "The leader of the Barjack army, Den believes that Tiphares' control over the Scrapyard and it's surrounding areas is the cause to the suffering of the surface dwellers, and leads the Barjack in hope of destroying Tiphares.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/6548.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6548
+      }
+    },
+    {
+      "id": "koyomi-k",
+      "name": "Koyomi K",
+      "alt_names": [
+        "コヨミ"
+      ],
+      "role": "supporting",
+      "description": "First appearing as the foster child of the barkeep in Bar Kansas, she is kidnapped by Makaku and rescued by Gally. She is since seen living at the bar, but runs away from home with \"Murdock the Dog Master\"'s dog Fury when she is 13, and meets Gally who is now working as a TUNED agent of Tiphares. After the following events, Kyomi meets Den, and sympathizing with his cause, she joins Barjack where she stays until Den's defeat.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6550-XwkXS5WeoDDd.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6550
+      }
+    },
+    {
+      "id": "shumira",
+      "name": "Shumira",
+      "alt_names": [
+        "シュミラ"
+      ],
+      "role": "supporting",
+      "description": "The naive younger sister of Jashugan. Ido rescues her from thugs who try to rape her, and she falls in love with him.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/6552.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6552
+      }
+    },
+    {
+      "id": "makaku",
+      "name": "Makaku",
+      "alt_names": [
+        "魔角"
+      ],
+      "role": "supporting",
+      "description": "Living most of his life in the sewers of the Scrapyard, Makaku was attacked with a flamethrower and would have died had it not been for Desty Nova's intervention, turning the dying man into a worm like cyborg. With his new body, Makaku gained the ability to hijack other cyborg bodies by jacking into their spinal column. Because of an endorphin addiction, he sought to eat human brains, and thus, a bounty was placed on his head.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/6553.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6553
+      }
+    },
+    {
+      "id": "lou-collins",
+      "name": "Lou Collins",
+      "alt_names": [
+        "ルウ・コリンズ"
+      ],
+      "role": "supporting",
+      "description": "Acting as Gally's operator when she is a TUNED agent, utilizing a satellite to provide Gally with intelligence and combat support. The two eventually become friends, but she is disposed of by the GIB for causing a ruckus and disabling the Gally clone AR2 and saving the life of the original Gally. Gally swears to return the favor and save her friend, a mission that eventually lead her to the space city Ketheres.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/6555.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6555
+      }
+    },
+    {
+      "id": "jasugun",
+      "name": "Jasugun",
+      "alt_names": [
+        "ジャシュガン",
+        "Jashugan"
+      ],
+      "role": "supporting",
+      "description": "The undisputed champion of Motorball and the brother of Shumira. Jashugan once had Desty Nova perform reconstructive brain surgery on him after he sustained massive brain damage in an accident, and this also augmented his brain, helping him become the Motorball champion. As a drawback, the brain reconstruction surgery makes him suffer spasmatic attacks from time to time, and as they increase his hour of death draws closer.  With the help of Ido and Shumira, he is restored in time to accept Gally's challenge on the Motorball court.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6556-58i7ezP87zTm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6556
+      }
+    },
+    {
+      "id": "kaos",
+      "name": "Kaos",
+      "alt_names": [
+        "ケイオス"
+      ],
+      "role": "supporting",
+      "description": "Radio host and son of Desty Nova, Kaos is very fragile, and can only see in infared wavelengths, and speak and hear Radiowaves. He is also an expert at Psychometry, the ability to read the \"memories\" of inanimate objects, allowing him to see the visions of the past by touching old relics, and even learn swordsmanship by touching a katana.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/6557.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 6557
+      }
+    },
+    {
+      "id": "yugo",
+      "name": "Yugo",
+      "alt_names": [
+        "ユーゴ",
+        "Hugo"
+      ],
+      "role": "supporting",
+      "description": "Yugo was an orphaned teenager and later bounty who was involved with Vector. He was the first man who [Alita](https://anilist.co/character/2308/Gally) fell in love with. Yugo was known for being very stubborn when it came to his goals and aspirations. Despite this, he was also an honest person, admitting to any crime he was a participant in instead of trying to deflect or deny it. \n\n(Source: Battle Angel Alita Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19759-Jr2hOwUyxbmt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19759
+      }
+    },
+    {
+      "id": "gime",
+      "name": "Gime",
+      "alt_names": [
+        "ギメ",
+        "Clive Lee (クライヴ・李)"
+      ],
+      "role": "supporting",
+      "description": "A well known hunter-warrior who killed [Yugo's](https://anilist.co/character/19759/Yugo) brother after his wife Nana betrayed him over her fears of his building a successful flying machine. As a veteran hunter-warrior, he had no qualms about helping Nana betray her husband and had no remorse in going after Hugo when he in turn became a bounty. He was a firm believer in the hunter-warrior code, seeing [Alita's](https://anilist.co/character/2308/Gally) relationship with Yugo as a betrayal of it. \n\n(Source: Battle Angel Alita Wiki)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b27022-hXUj7peloMPq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 27022
+      }
+    },
+    {
+      "id": "zapan",
+      "name": "Zapan",
+      "alt_names": [
+        "ザパン"
+      ],
+      "role": "supporting",
+      "description": "Zapan first makes an appearance when Daisuke Ido and Alita in her new Berserker Body visit Bar Kansas. Although there are many other hunter-warriors present, Zapan is the only one who is named, revealing that he was one of Ido&#039;s patients. When Ido proposes that the hunters band together and go after the infamous criminal Makaku, Zapan makes an exception, claiming that hunter-warriors are lone wolves and that Makaku is none of his business. He claims that to be a professional involves carefully choosing one&rsquo;s prey and minimizing risk. This does not sit well with Alita, who questions Zapan&rsquo;s rationale as a disguise for cowardice. This provokes a fight with the hunter-warriors, as Alita refuses to back down. During the fight, Alita manages to get ahold of Zapan from behind, manipulating his arms and legs and using him to slice up the other hunter-warriors before sending him and the other fighters out of the bar in a heap. He manages to escape Makaku when the latter arrives at Bar Kansas.     ~!Zapan next appears after Hugo is leaving Ido&rsquo;s clinic after conducting some repairs. He warns Hugo about Alita, then after Hugo leaves, swears vengeance on Alita for humiliating &ldquo;the great Zapan&rdquo; at Bar Kansas. While later staking out Hugo&rsquo;s place, he observes Vector drop Hugo off. This association leads him to suspect that Hugo may be connected to the series of spinal column thefts that have lately been taking place because of Vector&rsquo;s position as the top black market broker who controls the Scrapyard&rsquo;s illegal parts. In disguise, Zapan selects Hugo and his team for a lube job, and catches Hugo in the act just as he is set to paralyze Zapan from behind. He makes quick work of Hugo&rsquo;s accomplices, and only misses Hugo because he is hit with a fire bottle (a portable Molotov cocktail).  When he goes to drop off the heads for the bounty, Zapan comes across Alita and Ido, who happen to be at the same factory he visits. Although Alita does not recall him initially he breaks the news that Hugo will soon be a bounty. After Alita runs off in search of Hugo and Zapan collects his chips, he taunts Ido, instigating a fight which results in Ido getting knocked out. Zapan then alerts other hunter-warriors and a netman that Alita is planning to run off with Hugo, and sets up a trap for Alita with Ido as bait to prevent her from fleeing. Incredulous that Alita has apparently killed Hugo, Zapan decies to check for himself and discovers that she has hooked her life support system to Hugo&rsquo;s head, keeping his brain alive. His actions however, appear to the netman as an attempt to rob Alita of her bounty, a violation of Factory Law, and Alita retaliates, hitting him with a blow that slices his face off. Zapan falls off the building they are standing on and is presumed dead.!~",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/33975.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 33975
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T12:36:27.977Z"
+}

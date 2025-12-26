@@ -1,0 +1,355 @@
+{
+  "work_id": "bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense",
+  "count": 15,
+  "characters": [
+    {
+      "id": "kaede-honjou",
+      "name": "Kaede Honjou",
+      "alt_names": [
+        "本条楓",
+        "Maple (メイプル)"
+      ],
+      "role": "protagonist",
+      "description": "Maple is the main heroine, who has just started playing NewWorld Online. A shielder class. Since she doesn’t want to get hurt, she always puts her skill points into vitality. Due to this, many think of her as useless offensively, but much to their surprise, she manages her own. She's a bit silly, though surprisingly intelligent, and often abuses the game's mechanics in ways the game developers don't expect. Most of her actions in-game are done for the sole purpose of having fun, and though she participates in in-game tournaments often, she's only competitive insofar as it's enjoyable to her.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b147892-sL0t1VEMhC6p.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 147892
+      }
+    },
+    {
+      "id": "risa-shiramine",
+      "name": "Risa Shiramine",
+      "alt_names": [
+        "白峯理沙",
+        "Sally (サリー)"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 155 cm (5'1\")\n\n[Kaede](https://anilist.co/character/147892)'s gamer gal pal who invited her to the VRMMORPG NewWorld Online. She is a professional gamer, having numerous achievements that certify her capabilities. Being the swashbuckler class, her reflexes are considered abnormal.\n\nSally is extroverted, cautious, and practical, reflecting on her past experience with other games. She also has a creative and tricky side to her, evidenced by her choice to become a swashbuckler so that her party with Maple \"would never take any damage\", as opposed to the more conventional choice of being a mage so she could support Maple from the rear.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b147893-t481NA7vtmdF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 147893
+      }
+    },
+    {
+      "id": "kanade",
+      "name": "Kanade",
+      "alt_names": [
+        "カナデ"
+      ],
+      "role": "supporting",
+      "description": "A boy often mistaken for a girl because of his fair build. He joined Maple Tree when [Maple](https://anilist.co/character/147892) invited him.\n\nKanade is quiet and clever, showing a fascination with puzzles and mysteries of every kind. He will usually devote an entire day to any task he finds interesting.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b152324-hkduA5xtw8Rp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 152324
+      }
+    },
+    {
+      "id": "kasumi",
+      "name": "Kasumi",
+      "alt_names": [
+        "カスミ"
+      ],
+      "role": "supporting",
+      "description": "Meets [Sally](https://anilist.co/character/147893) and [Maple](https://anilist.co/character/147892) during the game's second event. Despite rough first impressions, they become friends and she eventually joins Maple Tree.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155751-yNkFpyB8A21x.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155751
+      }
+    },
+    {
+      "id": "may",
+      "name": "May",
+      "alt_names": [
+        "マイ",
+        "Mai"
+      ],
+      "role": "supporting",
+      "description": "Along with her twin [Yui](https://anilist.co/character/155753), they are recruited to Maple Tree while still on the first layer.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155752-zQt16bGFTJOs.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155752
+      }
+    },
+    {
+      "id": "yui",
+      "name": "Yui",
+      "alt_names": [
+        "ユイ"
+      ],
+      "role": "supporting",
+      "description": "Along with her twin [May](https://anilist.co/character/155752), they are recruited to Maple Tree while still on the first layer.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155753-r6XYNXGMlCWp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155753
+      }
+    },
+    {
+      "id": "iz",
+      "name": "Iz",
+      "alt_names": [
+        "イズ"
+      ],
+      "role": "supporting",
+      "description": "She plays the production-specialized crafter class, being one of the top crafters in NWO. She joins Maple Tree upon [Maple](https://anilist.co/character/147892)'s invitation.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155754-OhYPoTCUdvxu.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155754
+      }
+    },
+    {
+      "id": "chrome",
+      "name": "Chrome",
+      "alt_names": [
+        "クロム",
+        "Kuromu"
+      ],
+      "role": "supporting",
+      "description": "Introduced [Maple](https://anilist.co/character/147892) to [Iz](https://anilist.co/character/155754). He is invited to join Maple tree after the guild system was introduced.\nHe is a caring and honest person who is open-minded and serious. Outside of combat, he gives off a strong parental vibe. Like Maple he is part of the Shield class as well as a sword he still tries to master.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b155755-Jr88j18oGVur.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 155755
+      }
+    },
+    {
+      "id": "frederica",
+      "name": "Frederica",
+      "alt_names": [
+        "フレデリカ"
+      ],
+      "role": "supporting",
+      "description": "Frederica  is a member of Payne's Guild, Congregation of the Holy Swords along side Dread and Drag being part of the considerably more powerful players.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158410-AxhTY0mhrFZw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158410
+      }
+    },
+    {
+      "id": "dread",
+      "name": "Dread",
+      "alt_names": [
+        "ドレッド",
+        "Dred"
+      ],
+      "role": "supporting",
+      "description": "Dred or Dread, is a member of Payne's Guild, the Congregation of the Holy Swords along side Frederica and Drag.\n\nHe has a sharp intuition. His style puts focus on high speed and moderate attack power but his instincts tell him that’s he’s not an opponent for Payne or Maple.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158411-k8Uw7GlwZhHP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158411
+      }
+    },
+    {
+      "id": "dorazou",
+      "name": "Dorazou",
+      "alt_names": [
+        "ドラぞう"
+      ],
+      "role": "supporting",
+      "description": "Dorazou is the mascot and announcer character in NewWorld Online.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158414-wxE8Akzz3bqM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158414
+      }
+    },
+    {
+      "id": "drag",
+      "name": "Drag",
+      "alt_names": [
+        "ドラグ"
+      ],
+      "role": "supporting",
+      "description": "Drag is a member of Payne's Guild, Congregation of the Holy Swords along side Frederica and Dread.\n\nHe is a gentle man with rough behavior. His combat style is like a boar, rushing in with a lot of power and laying waste to those around him. This style leads to even those close to him having a rough time supporting him.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158415-ocMIDY8lqLpa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158415
+      }
+    },
+    {
+      "id": "marx",
+      "name": "Marx",
+      "alt_names": [
+        "マルクス",
+        "Markus"
+      ],
+      "role": "supporting",
+      "description": "Markus or Marx is a member of the guild Flame Emperors along side Mii, Misery, and Shin.\nMarx is a trap specialist and tends to uses different traps and spells to his advantage but tends to doubt himself.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158416-zeNcJmCQ8leO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158416
+      }
+    },
+    {
+      "id": "shin",
+      "name": "Shin",
+      "alt_names": [
+        "シン"
+      ],
+      "role": "supporting",
+      "description": "Shin is a member of the guild Flame Emperors along side Mii, Marx, and Misery. He earned the title of Destructor.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158417-Fk9fFmabyp9M.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158417
+      }
+    },
+    {
+      "id": "misery",
+      "name": "Misery",
+      "alt_names": [
+        "ミザリー"
+      ],
+      "role": "supporting",
+      "description": "Misery is a member of the guild Flame Emperors alongside Mii, Marx, and Shin. She is the guilds main healer.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158418-z4HArKzpvD41.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 158418
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T04:49:28.166Z"
+}

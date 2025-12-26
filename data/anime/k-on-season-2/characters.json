@@ -1,0 +1,389 @@
+{
+  "work_id": "k-on-season-2",
+  "count": 15,
+  "characters": [
+    {
+      "id": "yui-hirasawa",
+      "name": "Yui Hirasawa",
+      "alt_names": [
+        "平沢唯",
+        "ゆい",
+        "Onee-chan"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 156 cm\n\nYui Hirasawa is one of the 5 main characters in K-ON!. She's also the main protagonist. She is the air-headed lead guitarist and vocalist of the band Ho-kago Tea Time.\n\nHaving misunderstood that \"light music\" equals \"easy music\" (like whistling), she joined the Light Music Club and picked up guitar with absolutely no prior experience. She plays a Gibson Pre-'08 Les Paul Standard '50s in Heritage Cherry Sunburst. She names it Giita, which quite literally means \"guitar\".",
+      "metadata": {
+        "gender": "female",
+        "age": "15-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19565-7gMiEAm7NGNK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19565
+      }
+    },
+    {
+      "id": "mio-akiyama",
+      "name": "Mio Akiyama",
+      "alt_names": [
+        "秋山澪",
+        "みお"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 160 cm\n\nMio Akiyama is one of the five main characters in K-ON! She is a passionate and technical left-handed musician and writer who serves as the bassist, second vocalist and main lyricist of the band Ho-kago Tea Time. She is a kind and warm girl, albeit very shy and sensitive. Despite her timid streak, she often finds herself as the voice of reason amongst her bandmates, who often rely on her sensibility when in trouble.\n \nShe plays a left-handed Fender Japan '62 Reissue Jazz Bass in 3-Tone Sunburst.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19566-XKsMgf370b4m.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19566
+      }
+    },
+    {
+      "id": "ritsu-tainaka",
+      "name": "Ritsu Tainaka",
+      "alt_names": [
+        "田井中律",
+        "リつ",
+        "Ricchan",
+        "President Ritsu",
+        "Prez",
+        "Private Ricchan"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 154 cm  \n\nRitsu Tainaka, called Ricchan by [Tsumugi Kotobuki](https://anilist.co/character/19568/Tsumugi-Kotobuki) and [Yui Hirasawa](https://anilist.co/character/19565/Yui-Hirasawa), is one of the 5 main characters in K-ON!.\n\nShe is the self-appointed president of the Light Music Club and the drummer of the band Ho-kago Tea Time. She was the one who rebooted the Light Music Club when it was on the verge of being disbanded, and has become the natural leader of the club since then.\n\nRitsu plays a yellow Rick Marotta Signature Yamaha Hipgig drum kit with an add-on floor tom (in the opening credits only) combined with a cymbal set from Avedis Zildjian, though is shown playing a white Yamaha Absolute Series drumkit in the anime's closing credits.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19567-ztMNJBxTNqmZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19567
+      }
+    },
+    {
+      "id": "tsumugi-kotobuki",
+      "name": "Tsumugi Kotobuki",
+      "alt_names": [
+        "琴吹紬",
+        "むぎ",
+        "つむぎ",
+        "Mugi",
+        "Tsumugi-ojousama",
+        "Mistress"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 157 cm\n\nTsumugi Kotobuki, otherwise known as Mugi is one of the 5 main characters in K-ON! She is a wealthy, cheery, cute girl with a gentle personality who plays the keyboard and is the main musical composer in the band Ho-kago Tea Time.\n\nMugi plays a Korg Triton Extreme 76-key keyboard, though she is also seen playing a Korg RK-100 keytar in the closing credits of the first season.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19568-pF5UBfB6U8G2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19568
+      }
+    },
+    {
+      "id": "azusa-nakano",
+      "name": "Azusa Nakano",
+      "alt_names": [
+        "中野梓",
+        "あずさ",
+        "あずちゃん",
+        "Azu-nyan",
+        "Azu-chan",
+        "Captain Azusa"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 150 cm\n\nAzusa Nakano, nicknamed \"Azu-nyan\" by [Yui Hirasawa](https://anilist.co/character/19565/Yui-Hirasawa), is a main character in the K-ON! series. She is a second year student at Sakuragaoka High School. She decided to join the Light Music Club after seeing the band's performance in the school festival, and thus became Ho-kago Tea Time's second guitarist.\n\nAzusa plays a Fender Japan '69 Reissue Mustang in Candy Apple Red.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21173-0RB5dOJdGt9y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21173
+      }
+    },
+    {
+      "id": "sawako-yamanaka",
+      "name": "Sawako Yamanaka",
+      "alt_names": [
+        "山中さわ子",
+        "Sawa-chan",
+        "Catherine"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165 cm \n\nSawako is the adviser for the wind instrument club at Yui's school. An alumna of the school and a former member of the light music club, she does not want people to know she was formerly a member of a heavy metal band, thus she covers up by being mild and gentle to her co-workers and especially to students. She is forced to be the adviser of the light music club, as Ritsu blackmails her after the girls learn of her past, though it is unknown whether she stopped being the adviser for the wind instrument club as the story progresses. Though she has a mature and gentle demeanor in the school, Sawako, affectionately addressed as \"Sawa-chan\" by both Ritsu and Yui, displays a totally different, completely authentic character when she is alone with the light music club. In reality, she is a rather wild, lazy and quite an irresponsible teacher who enjoys dressing up the light music club in, sometimes embarrassing, cosplay costumes, much to the dislike of Mio. She names the club band ''After School Tea Time'' after the members take too long deciding on a name themselves, and to maintain the secrecy on her heavy-metal image. She once momentarily pitches in for Yui with her Gibson Flying V electric guitar. Sawako once owned a Gibson SG Standard guitar given by her dad's friend, but she kept it in the music room because she thought it was not in a playing condition anymore.\n\nHer surname is taken from [the pillows](https://anilist.co/staff/100327/the-pillows) vocalist/guitarist [Sawao Yamanaka](https://anilist.co/staff/172230/Sawao-Yamanaka).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19569-OUNg5vrTJpwT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19569
+      }
+    },
+    {
+      "id": "nodoka-manabe",
+      "name": "Nodoka Manabe",
+      "alt_names": [
+        "真鍋和"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 158 cm\n\nNodoka is [Yui](https://anilist.co/character/19565/Yui-Hirasawa)'s childhood friend and confidant who is a member of the school's student council. As a normal, well-mannered and intelligent girl, she is generally taken aback by the light music club's odd behavior, and easily gets annoyed with [Ritsu](https://anilist.co/character/19567/Ritsu-Tainaka) whenever she forgets to fill in the club's application forms. She shares the same class as [Mio](https://anilist.co/character/19566/Mio-Akiyama) in their second year, who appreciates her companionship tremendously, as being the only person [Mio](https://anilist.co/character/19566/Mio-Akiyama) knows in her class. In her third year, she becomes the student council president.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19570-xHekFxY2MA29.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19570
+      }
+    },
+    {
+      "id": "ui-hirasawa",
+      "name": "Ui Hirasawa",
+      "alt_names": [
+        "平沢憂",
+        "うい"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 154 cm \n\nUi is [Yui](https://anilist.co/character/19565/Yui-Hirasawa)'s younger sister, who begins the story as a third-year junior high school student, but later enters [Yui](https://anilist.co/character/19565/Yui-Hirasawa)'s high school the following year in the same class as [Azusa](https://anilist.co/character/21173/Azusa-Nakano). Unlike her older sister, Ui is mature, responsible and handles household chores well, though she still shares a strong relationship with [Yui](https://anilist.co/character/19565/Yui-Hirasawa) and has a great deal of love and respect for her older sister. Despite being a year younger than [Yui](https://anilist.co/character/19565/Yui-Hirasawa), she is nearly identical to her with her hair down and is even once able to fool the club. She possesses some of her sister's musical gift, and has a great talent for playing the guitar—she became capable of playing with the rest of the light music club band after only a few days of practice ([Yui](https://anilist.co/character/19565/Yui-Hirasawa) was sick, so Ui dressed up as [Yui](https://anilist.co/character/19565/Yui-Hirasawa) to help the band out). She takes particularly good care of [Yui](https://anilist.co/character/19565/Yui-Hirasawa) and strives to look after her even at the risk of her own health. Ui is actually considered as the ultimate groupie for her sister's band and supports them with all her heart. She occasionally provides a narrative to the story. She is in the same class as [Azusa](https://anilist.co/character/21173/Azusa-Nakano) and hangs out with her sometimes.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19571-fzllBaPLPsY3.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 19571
+      }
+    },
+    {
+      "id": "megumi-sokabe",
+      "name": "Megumi Sokabe",
+      "alt_names": [
+        "曽我部恵"
+      ],
+      "role": "supporting",
+      "description": "Megumi was the president of the student council before [Nodoka](https://anilist.co/character/19570/Nodoka-Manabe) succeeds her in her third year, and she is also the president of [Mio](https://anilist.co/character/19566/Mio-Akiyama)'s fan club. She stalks [Mio](https://anilist.co/character/19566/Mio-Akiyama) during her last few days in high school because she wanted to see [Mio](https://anilist.co/character/19566/Mio-Akiyama) one more time. The band offers her a song as a graduation gift.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b23344-yYJmkLIOacEc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 23344
+      }
+    },
+    {
+      "id": "satoshi-tainaka",
+      "name": "Satoshi Tainaka",
+      "alt_names": [
+        "田井中聡"
+      ],
+      "role": "supporting",
+      "description": "Satoshi is [Ritsu](https://anilist.co/character/19567/Ritsu-Tainaka)'s younger brother. He appears when [Ritsu](https://anilist.co/character/19567/Ritsu-Tainaka) is walking home with him from the movies. He then ventures of with a friend from school he saw on the way home. He seems to respect his sister [Ritsu](https://anilist.co/character/19567/Ritsu-Tainaka) but still acts like a normal boy. \nSatoshi seems to be a bit more mature than [Ritsu](https://anilist.co/character/19567/Ritsu-Tainaka), usually saying things like \"Geez, be more careful next time\" when he has to take care of the problems she caused. Satoshi knows Mio because she and [Ritsu](https://anilist.co/character/19567/Ritsu-Tainaka) have been friends for so long, but becomes shy when [Ritsu](https://anilist.co/character/19567/Ritsu-Tainaka) brings the rest of the Light Music Club home without telling him ([Ritsu](https://anilist.co/character/19567/Ritsu-Tainaka) supposed it as a \"rebellious phase\"). He is also curious about his sister's doing and eavesdrops sometimes at her door (for example, when Mio and [Ritsu](https://anilist.co/character/19567/Ritsu-Tainaka) were practicing for their class play, [Ritsu](https://anilist.co/character/19567/Ritsu-Tainaka) finds out that Satoshi is laughing outside her room as she practices her dialogue). He also dislikes cold weather. Although he sometimes laughs about his sister or tells her to be quiet when she practices in her room, he still respects her and asks her for permission to hang out with his friends.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31525-xu7M5AbphVem.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31525
+      }
+    },
+    {
+      "id": "jun-suzuki",
+      "name": "Jun Suzuki",
+      "alt_names": [
+        "鈴木純"
+      ],
+      "role": "supporting",
+      "description": "**Role:** Bassist\n**Instrument:** Bass Guitar\n\nJun is [Azusa](https://anilist.co/character/21173/Azusa-Nakano)'s and [Ui](https://anilist.co/character/19571/Ui-Hirasawa)'s classmate who often hangs out with the latter. Jun is generally a playful and easygoing girl, but she is sometimes rude without realizing it, compelling [Azusa](https://anilist.co/character/21173/Azusa-Nakano) to reprimand her. [Ui](https://anilist.co/character/19571/Ui-Hirasawa) tries to get her to join the light music club but ultimately fails due to a strange visit to the club room. However, she starts to regret it when she hears about all the activities the club does. She has a pet cat and plays the bass. \n\nJun has an older brother, Atsushi Suzuki, nicknamed Acchan by her. He plays the bass at a university and helps Jun on \"secret training sessions\" because she apparently \"still sucks at bass\".",
+      "metadata": {
+        "gender": "female",
+        "age": "15-18",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31526-sbskeFcAArdV.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31526
+      }
+    },
+    {
+      "id": "kawakami-san",
+      "name": "Kawakami-san",
+      "alt_names": [
+        "川上さん",
+        "Janice",
+        "Mrs. Kawakami"
+      ],
+      "role": "supporting",
+      "description": "She is a former member of the Light Music Club of Sakuragaoka High School and the manager of the live house where the Light Music Club were invited to perform.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31618-PZA2fKmlreFF.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31618
+      }
+    },
+    {
+      "id": "norimi-kawaguchi",
+      "name": "Norimi Kawaguchi",
+      "alt_names": [
+        "河口紀実",
+        "Nori",
+        "Christina"
+      ],
+      "role": "supporting",
+      "description": "She is a friend of [Sawako](https://anilist.co/character/19569/Sawako-Yamanaka)'s from back when they were in high school, and they were both in the light music club together as part of the band Death Devil.  She and [Sawako](https://anilist.co/character/19569/Sawako-Yamanaka) used to try to outdo each other on the guitar.  Her stage name is Christina.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b33872-9pLOcAI54HNQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 33872
+      }
+    },
+    {
+      "id": "yui-to-ui-no-haha",
+      "name": "Yui to Ui no Haha",
+      "alt_names": [
+        "唯・憂の母",
+        "Yui and Ui's mother",
+        "Mother Hirasawa",
+        "Mom"
+      ],
+      "role": "supporting",
+      "description": "[Yui](https://anilist.co/character/19565/Yui-Hirasawa) and [Ui](https://anilist.co/character/19571/Ui-Hirasawa)'s mother. She is usually away with their father so [Ui](https://anilist.co/character/19571/Ui-Hirasawa) is left to do all of the chores and take care of [Yui](https://anilist.co/character/19565/Yui-Hirasawa).",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67011-gAp7CwVRuGVJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67011
+      }
+    },
+    {
+      "id": "yui-to-ui-no-papa",
+      "name": "Yui to Ui no Papa",
+      "alt_names": [
+        "唯・憂の父",
+        "Father Hirasawa",
+        "Yui and Ui's father",
+        "Dad"
+      ],
+      "role": "supporting",
+      "description": "[Yui](https://anilist.co/character/19565/Yui-Hirasawa) and [Ui](https://anilist.co/character/19571/Ui-Hirasawa)'s father.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b67407-SljtIajXoLLO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 67407
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T13:01:11.216Z"
+}

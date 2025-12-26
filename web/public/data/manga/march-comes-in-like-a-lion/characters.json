@@ -1,0 +1,363 @@
+{
+  "work_id": "march-comes-in-like-a-lion",
+  "count": 15,
+  "characters": [
+    {
+      "id": "rei-kiriyama",
+      "name": "Rei Kiriyama",
+      "alt_names": [
+        "桐山零",
+        "Zero",
+        "Rookie King"
+      ],
+      "role": "protagonist",
+      "description": "__Occupation:__ Shogi Player\n__Height:__ 170cm (5'6'')\n\nHe is the main protagonist, whose progression is explored through the series. He is a teenage professional shogi player, currently ranked at 5th-dan. He is widely lauded in the shogi community as the fifth shogi player to become a professional in middle school. Using his salary combined with his life savings, he lives in his own apartment while juggling between his official matches and high school. By the time the story begins, Rei is also a frequent visitor of the Kawamoto residence, where the family treats him as one of their own despite his initial reluctance to become close with them.",
+      "metadata": {
+        "gender": "male",
+        "age": "17-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b21044-K0pEhdOEmAwG.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 21044
+      }
+    },
+    {
+      "id": "akari-kawamoto",
+      "name": "Akari Kawamoto",
+      "alt_names": [
+        "川本あかり"
+      ],
+      "role": "protagonist",
+      "description": "Akari is the eldest of three Kawamoto sisters.\n\nAfter her mother and grandmother’s death, she stepped in as the parent figure for her younger sisters. In the mornings she helps her elderly grandfather run a traditional wagashi shop, and in the evenings she works as a hostess at a bar, which her aunt manages.",
+      "metadata": {
+        "gender": "female",
+        "age": "22-23",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/24311-WY1Q26PwwJeB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 24311
+      }
+    },
+    {
+      "id": "hinata-kawamoto",
+      "name": "Hinata Kawamoto",
+      "alt_names": [
+        "川本ひなた",
+        "Hina"
+      ],
+      "role": "protagonist",
+      "description": "__Occupation:__ Student\n\nHinata Kawamoto, often called Hina, is the middle child of the Kawamoto siblings and a middle school student whose positive attitude inspires [Rei](https://anilist.co/character/21044/) to try to overcome his depression.",
+      "metadata": {
+        "gender": "female",
+        "age": "13-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b24312-A39sjFFj3Zrg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 24312
+      }
+    },
+    {
+      "id": "momo-kawamoto",
+      "name": "Momo Kawamoto",
+      "alt_names": [
+        "川本モモ"
+      ],
+      "role": "protagonist",
+      "description": "The youngest of the three sisters. A preschool student, she attends a daycare center. Pure and innocent, she has a bit of a selfish streak at times. Her favorite anime character is Bodoro (modelled on My Neighbour Totoro&#039;s Totoro). She calls Rei, &quot;Rei-chan&quot;.",
+      "metadata": {
+        "gender": "female",
+        "age": "3",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b25275-LQUSZ2mqifx2.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 25275
+      }
+    },
+    {
+      "id": "touji-souya",
+      "name": "Touji Souya",
+      "alt_names": [
+        "宗谷冬司"
+      ],
+      "role": "supporting",
+      "description": "The current meijin. He has longed for a rival like Rei. Similar to Rei, he became a professional shogi player in middle school.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b31352-adtAXP6eXTBs.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 31352
+      }
+    },
+    {
+      "id": "masachika-kouda",
+      "name": "Masachika Kouda",
+      "alt_names": [
+        "幸田柾近"
+      ],
+      "role": "supporting",
+      "description": "Rei's shōgi teacher. He was both Rei's father's friend and rival in shogi. He cared for Rei like he did for his children and taught him shogi.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70291-A6KSnB6bk5fS.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70291
+      }
+    },
+    {
+      "id": "kyouko-kouda",
+      "name": "Kyouko Kouda",
+      "alt_names": [
+        "幸田香子"
+      ],
+      "role": "supporting",
+      "description": "Kouda's daughter. She is four years older than Rei. Beautiful and hot tempered, Kyouko seems to hold a grudge on Rei as she has the habit of exercising a negative influence on him by discouraging him on purpose before his official matches.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70293-lGH9JgtugKsZ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70293
+      }
+    },
+    {
+      "id": "ayumu-kouda",
+      "name": "Ayumu Kouda",
+      "alt_names": [
+        "幸田 歩"
+      ],
+      "role": "supporting",
+      "description": "Kōda's son and Kyōko's younger brother. He is of the same age as Rei. After losing to Rei in shogi, he stopped playing at all, and afterwards started confining himself to his room and only playing video games.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70295-ohnNsotn2FDf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70295
+      }
+    },
+    {
+      "id": "harunobu-nikaidou",
+      "name": "Harunobu Nikaidou",
+      "alt_names": [
+        "二海堂晴信",
+        "Nikaido",
+        "Bodoro",
+        "Bou"
+      ],
+      "role": "supporting",
+      "description": "Rei's self-proclaimed \"best friend\" and \"lifelong rival\". A four-dan, he has played with Rei since they were children. Even though he might appear to be healthy, he is in fact in poor health. He is from a good family. He is modeled after real-life shōgi player Satoshi Murayama.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n70297-UiQFeSaB7HKD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70297
+      }
+    },
+    {
+      "id": "issa-matsumoto",
+      "name": "Issa Matsumoto",
+      "alt_names": [
+        "松本 一砂"
+      ],
+      "role": "supporting",
+      "description": "26 years old. Five dan. He is 181 centimeters tall. A quite expressive and enthusiastic person, he can be aggressive at times as well. He comes from the countryside. He is a fan of Akari.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70299-yLyX5JkZ6IMa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70299
+      }
+    },
+    {
+      "id": "tatsuyuki-misumi",
+      "name": "Tatsuyuki Misumi",
+      "alt_names": [
+        "三角 龍雪",
+        "Smith"
+      ],
+      "role": "supporting",
+      "description": "26 years old. Six dan. He is often called \"Sumisu\" (for \"Smith\"). He is 180 centimeters tall. A bit aloof, he gets along well with Matsumoto.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70301-iUyI1o076TDL.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70301
+      }
+    },
+    {
+      "id": "shouichi-matsunaga",
+      "name": "Shouichi Matsunaga",
+      "alt_names": [
+        "松永 正一"
+      ],
+      "role": "supporting",
+      "description": "65 years old. A seven dan. He is a veteran who has been a professional shōgi player for over 40 years. He comes from Fukushima.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/70303.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70303
+      }
+    },
+    {
+      "id": "manabu-yasui",
+      "name": "Manabu Yasui",
+      "alt_names": [
+        "安井学"
+      ],
+      "role": "supporting",
+      "description": "A six dan. Upon losing a match, he lost his temper, thus resulting in him divorcing his wife.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/70305.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70305
+      }
+    },
+    {
+      "id": "yuusuke-takahashi",
+      "name": "Yuusuke Takahashi",
+      "alt_names": [
+        "高橋勇介"
+      ],
+      "role": "supporting",
+      "description": "A middle school student. A childhood friend and classmate of Hinata's, they are quite close to each other. He is the son of a milkman. He is the ace of his school's baseball team and aims to be a pro. Since Rei became a shōgi pro in middle school, Yūsuke greatly looks up to him. In order to realize his dream to become a professional, he wishes to proceed to a high school in Shikoku to participate in the kōshien baseball tournament.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b70307-1KWo2q8LPDTR.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70307
+      }
+    },
+    {
+      "id": "someji-kawamoto",
+      "name": "Someji Kawamoto",
+      "alt_names": [
+        "川本 相米二"
+      ],
+      "role": "supporting",
+      "description": "The grandfather of the three Kawamoto sisters. He runs a traditional wagashi shop, Mikazuki-dō. Even though he may appear to be unexpressive, he actually dotes on his grandchildren a lot, in particular Momo. Along with Akari, he likes to watch over Rei.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n70309-v12JYD181TNz.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 70309
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T04:35:10.632Z"
+}

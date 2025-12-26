@@ -1,0 +1,360 @@
+{
+  "work_id": "takt-opdestiny",
+  "count": 15,
+  "characters": [
+    {
+      "id": "unmei",
+      "name": "Unmei",
+      "alt_names": [
+        "運命",
+        "Destiny",
+        "Cosette Schneider (コゼット・シュナイダー)"
+      ],
+      "role": "protagonist",
+      "description": "L.V. Beethoven \"Symphony No. 5 in C minor Op.67\"\n\nShe is a Musicart who carries \"Destiny\" in her body. Despite her ladylike appearance, her facial expressions rarely change and her tone of voice is always calm and polite. At first glance, she looks pretty, but she has an unconventional personality, with a sharp tongue and a sweet tooth. She and her partner, the conductor Takt, have a deep and long past together.\n\n~!Cosette used to take care of Takt in his childhood. One day during Symphonica Party, Cosette suggests Takt to play the piano to make his debut as a pianist, which Takt eventually gives into. Cosette joined him in a four hands rendition of popular Uptempo music, impressing everyone. Soon after the performance, the town got attacked by D2, with Takt and Cosette being the targets. Takt managed to survive, however Cosette was fatally injured. Upon her last moments, her white stone pendant (a Harmonia Crystal), awakened Destiny inside her.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215188-U9LE5bw90V7S.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215188
+      }
+    },
+    {
+      "id": "takt-asahina",
+      "name": "Takt Asahina",
+      "alt_names": [
+        "朝雛タクト",
+        "Conductor",
+        "Maestro Takt"
+      ],
+      "role": "protagonist",
+      "description": "A conductor who made a contract with the Musicart \"Unmei.\" He has the idea that \"music is prioritized in everything.\"\n\n(Source: Official Site, translated)\n\nHis father was Kenji Asahina, a famous conductor killed in the Boston tragedy incident.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b234535-jZd0cPwruwkJ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 234535
+      }
+    },
+    {
+      "id": "anna-schneider",
+      "name": "Anna Schneider",
+      "alt_names": [
+        "アンナ・シュナイダー"
+      ],
+      "role": "protagonist",
+      "description": "A girl who is a childhood friend of Takt and a fateful \"sister\". She has a cheerful and caring personality.\n\n(Source: Official site, translated)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246856-YUIZhVRuEfXp.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246856
+      }
+    },
+    {
+      "id": "titan",
+      "name": "Titan",
+      "alt_names": [
+        "巨人",
+        "Kyojin"
+      ],
+      "role": "supporting",
+      "description": "\"Titan\" - Musicart with the score of \"G. Mahler \"Symphony No. 1 in D major\".\n\n(Source: Official Site, Translated)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246857-qrCXFeSXnWlr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246857
+      }
+    },
+    {
+      "id": "lenny",
+      "name": "Lenny",
+      "alt_names": [
+        "レニー",
+        "Leonard",
+        "Maestro"
+      ],
+      "role": "supporting",
+      "description": "A conductor belonging to \"New York Symphonica\". A good personality who treats any person without discrimination.\n\n(Source: Official site, translated)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246858-GUiqavLTpTkO.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246858
+      }
+    },
+    {
+      "id": "walkure",
+      "name": "Walküre",
+      "alt_names": [
+        "ワルキューレ",
+        "Valkyrie"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215191-Ez3kNHSE52Sw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215191
+      }
+    },
+    {
+      "id": "tengoku",
+      "name": "Tengoku",
+      "alt_names": [
+        "天国",
+        "Heaven"
+      ],
+      "role": "supporting",
+      "description": "Musicart belonging to \"New York Symphonica\". She looks beautiful, but she doesn't talk much about anything other than necessary.\n\n(Source: Official site, translated)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246852-zd9pmtE515l2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246852
+      }
+    },
+    {
+      "id": "jigoku",
+      "name": "Jigoku",
+      "alt_names": [
+        "地獄",
+        "Hell"
+      ],
+      "role": "supporting",
+      "description": "A Musicart who belongs to \"New York Symphonica\" and works with Shindler. She has a cruel and atrocious taste.\n\n(Source: Official site, translated)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246853-KAcR6CGzwWD9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246853
+      }
+    },
+    {
+      "id": "felix-shindler",
+      "name": "Felix Shindler",
+      "alt_names": [
+        "シントラー"
+      ],
+      "role": "supporting",
+      "description": "Conductor who is the chief commander of \"New York Symphonica\". He directs the organization as Zagan's right arm.\n\n(Source: Official site, translated)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246854-F3zuBh1n7sQF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246854
+      }
+    },
+    {
+      "id": "sagan",
+      "name": "Sagan",
+      "alt_names": [
+        "ザーガン"
+      ],
+      "role": "supporting",
+      "description": "Chief Executive Officer of \"New York Symphonica\", a strategic base for D2-a person who serves as GM (Grand Maestro).\n\n(Source: Official site, translated)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246855-kHm7WpygCdsa.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246855
+      }
+    },
+    {
+      "id": "jimmy",
+      "name": "Jimmy",
+      "alt_names": [
+        "ジミー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250969-Q78orNG2C3jD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250969
+      }
+    },
+    {
+      "id": "hahaoya",
+      "name": "Hahaoya",
+      "alt_names": [
+        "母親",
+        "Jimmy's Mother"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250972-I7l1wrfQWlgN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250972
+      }
+    },
+    {
+      "id": "jimmys-sister",
+      "name": "Jimmy's Sister",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b271782-7ZfpVQ8N0AFQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 271782
+      }
+    },
+    {
+      "id": "tenshu",
+      "name": "Tenshu",
+      "alt_names": [
+        "店主"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250970-vQOyDFyVsA5X.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250970
+      }
+    },
+    {
+      "id": "marie",
+      "name": "Marie",
+      "alt_names": [
+        "マリー"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b250971-51TLhetxoPqm.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 250971
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T12:22:58.062Z"
+}

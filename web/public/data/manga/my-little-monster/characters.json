@@ -1,0 +1,378 @@
+{
+  "work_id": "my-little-monster",
+  "count": 15,
+  "characters": [
+    {
+      "id": "shizuku-mizutani",
+      "name": "Shizuku Mizutani",
+      "alt_names": [
+        "水谷雫",
+        "Mitti",
+        "Study Bug"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 158 cm (5'2\")\n\nA high school student who is only interested about studying and getting the top grades in the class. She appears indifferent towards everything outside of studying.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b37685-RTNZm8Tb7Sti.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 37685
+      }
+    },
+    {
+      "id": "haru-yoshida",
+      "name": "Haru Yoshida",
+      "alt_names": [
+        "吉田春"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 178 cm (5'10\")\n\nHaru is the male protagonist of the story. He is a high school student who sits next to Shizuku in class. He is a delinquent boy who is absent for a long time after getting in a fight early in the story. Despite being a trouble maker, he is a passionate boy who helps others and can achieve high grades with little effort. He does not like going to school because most people see him as a threat and are afraid of him, saddening him as he is unable to make real friends. After meeting Shizuku, he takes her as his first real friend and starts to attend school, falling in love with her in the process. He also keeps a rooster and brings it to school everyday, despite his teacher's disapproval. He has somewhat of a perverted mind, openly saying to Shizuku that he would \"do\" her and has \"dirty thoughts\" about her. It is unclear whether or not he actually thinks before he speaks.    ~!At first, Haru was shown to be a delinquent, but as the story unfolds, it was revealed that he was rather a shy and innocent boy. However, he has bipolar tendencies, most likely the result of not interacting with many people in the past.!~\n\n(Source: ANN &amp; Wikipedia)",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n37687-5HRDRk3uvLJT.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 37687
+      }
+    },
+    {
+      "id": "asako-natsume",
+      "name": "Asako Natsume",
+      "alt_names": [
+        "夏目あさ子"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 157 cm  \n\nShe was a classmate of Shizuku who one day asks for help in a re-test that she must not fail. She's revealed to be active on the web, where she has a blog, on which she even posted to need two strands of Mitti's hair to complete a ritual that'd assure them to become best friends. She's good at sports. She has poor grades, and does not have any friends outside of the internet. She was bullied and ostracized by her friends and classmates in the past, due to her popularity with the boys. She falls in love with Mitsuyoshi Misawa and is often comforted by Sohei Sasahara when her love attempts fail. She is voiced by Yuiko Tatsumi in drama CD.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n37813-BR1PBL6j2ce7.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 37813
+      }
+    },
+    {
+      "id": "souhei-sasahara",
+      "name": "Souhei Sasahara",
+      "alt_names": [
+        "佐々原宗平",
+        "Sasayan"
+      ],
+      "role": "supporting",
+      "description": "**Height:** 164 cm (5'5)\n\nHe is a cheerful, friendly, straightforward guy who says what's on his mind without hesitation. He has knows Haru since middle school and he gets along with everyone. Due to his kindness, he is seen by his friends as a popular boy who is always surrounded by people. \n~!In the manga, it is confirmed that he likes Natsume.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n52617-c8hjMMMyw43h.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 52617
+      }
+    },
+    {
+      "id": "yuuzan-yoshida",
+      "name": "Yuuzan Yoshida",
+      "alt_names": [
+        "吉田優山"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 176 cm  \n\nHaru's older brother. He loves sweet things and is often seen eating them. He especially loves donuts. He and his brother don't really get along with each other. Although Yuuzan tries to get closer to his younger brother and understand him, Haru doesn't accept him. However Yuuzan claims Haru has a brother complex, though this is denied by Haru himself.   \n\nHe came to take Haru back home upon their father's request for Haru to attend a nearer school, where he has more leverage, although Yuuzan does want Haru to continue going to school with Shizuku.",
+      "metadata": {
+        "gender": "male",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b53087-flp6VRdroS5S.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 53087
+      }
+    },
+    {
+      "id": "kenji-yamaguchi",
+      "name": "Kenji Yamaguchi",
+      "alt_names": [
+        "山口賢二",
+        "Yamaken"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 177 cm (5'10)\n\nHe \"takes\" money from Haru, even though he is rich. He always is with 3 more guys and he knows Haru since he was a child. He is often lost and is very wary of Yuuzan.   ~!Later, he starts to like Shizuku, confessing to her.!~",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b54823-agi9Xzhek6Sr.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 54823
+      }
+    },
+    {
+      "id": "chizuru-ooshima",
+      "name": "Chizuru Ooshima",
+      "alt_names": [
+        "大島千づる",
+        "Oojima",
+        "Chizuru Oshima"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 165 cm (5'5)\n\nShe is a member of the committee class, chosen because she wears glasses. She was helped by Yoshida Haru, and after been cheered her up by Haru, she fell in love with him. She is very shy, a little pessimistic, and anxious, and even though she likes Haru, she always gives him advice when he can't understand Shizuku.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b54827-detoRGm9lM8y.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 54827
+      }
+    },
+    {
+      "id": "yuu-miyama",
+      "name": "Yuu Miyama",
+      "alt_names": [
+        "宮間ユウ"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 146 cm (4'9)\n\nA close friend of Oshima since middle school. She is currently in a long distance relationship with a prior classmate of hers from middle school.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b57363-ArarNYxZ2kRP.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 57363
+      }
+    },
+    {
+      "id": "takaya-mizutani",
+      "name": "Takaya Mizutani",
+      "alt_names": [
+        "水谷隆也"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "age": "11",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b57365-0VRRlxv3cAbK.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 57365
+      }
+    },
+    {
+      "id": "mitsuyoshi-misawa",
+      "name": "Mitsuyoshi Misawa",
+      "alt_names": [
+        "三沢満善",
+        "Micchan"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 185 cm (6') \n\nMitsuyoshi is a tall, tan skinned young man with dark brown combed back hair. His attire often consists of casual clothes, his ever-present sunglasses, piercings, a silver necklace, two rings on each hand, a cigarette, and the occasional wrist band. Also, according to the manga, Mitsuyoshi's eyes strongly resemble Haru and Yuuzan's father's eyes, which is why he wears sunglasses constantly; so the two siblings do not hate him.",
+      "metadata": {
+        "gender": "male",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b64079-bHh1bAkOT6lQ.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 64079
+      }
+    },
+    {
+      "id": "iyo-yamaguchi",
+      "name": "Iyo Yamaguchi",
+      "alt_names": [
+        "山口伊代"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 169cm (5'7)\n\nYamaken's little sister who enrolls in haru's school.",
+      "metadata": {
+        "gender": "female",
+        "age": "15",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/65823.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 65823
+      }
+    },
+    {
+      "id": "masahiro-ayanokouji",
+      "name": "Masahiro Ayanokouji",
+      "alt_names": [
+        "綾小路昌弘",
+        "Mabo (マーボ)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 164 cm (5'5)",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b68367-qXucdwAj2ydt.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 68367
+      }
+    },
+    {
+      "id": "ryuuji-tomioka",
+      "name": "Ryuuji Tomioka",
+      "alt_names": [
+        "富岡竜二",
+        "Tomio (トミオ)"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 178 cm (5'10)",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b68369-9HcKbvz1Iny2.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 68369
+      }
+    },
+    {
+      "id": "issei-joujima",
+      "name": "Issei Joujima",
+      "alt_names": [
+        "城島 壱成 / ジョージ",
+        "George",
+        "Joji"
+      ],
+      "role": "supporting",
+      "description": "__Height:__ 174cm (5'9)",
+      "metadata": {
+        "gender": "male",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b68371-Ixq8L26PgCiB.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 68371
+      }
+    },
+    {
+      "id": "andou",
+      "name": "Andou",
+      "alt_names": [
+        "安藤"
+      ],
+      "role": "supporting",
+      "description": "An underling of the Yoshida household, he is doing a variety of jobs for them such as acting as a chauffeur or being a \"bodyguard\" (He's actually there to keep watch on Haru).  He is pretty laid back though, skipping out on work from time to time.  Andou also plays eroges and likes to flirt with highschool girls.",
+      "metadata": {
+        "gender": "male",
+        "age": "25",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/69979.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 69979
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T11:30:27.643Z"
+}

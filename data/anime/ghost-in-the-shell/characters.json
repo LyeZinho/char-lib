@@ -1,0 +1,166 @@
+{
+  "work_id": "ghost-in-the-shell",
+  "count": 7,
+  "characters": [
+    {
+      "id": "motoko-kusanagi",
+      "name": "Motoko Kusanagi",
+      "alt_names": [
+        "草薙素子",
+        "Major"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 168 cm (5'6\")\n\nMotoko Kusanagi is the mysterious, even enigmatic woman who has led a group of SpecOps for years and was recruited by Aramaki to work for Section 9. Almost nothing is known about her, her origins, birthdate, etc. She could not be older than 60 or so since the widespread use of full cyborgization was not in use until then. She was fully cyborged at a very young age and as she \"grew\" she went through a series of artificial bodies. This, more than anything, likely contributed to her great ease at controlling cyborg bodies of various types, even multiple at the same time.  More mysterious is her incredible ability as a hacker, as she is equally at ease in a cyborg body as she is without one while diving the net; she is also officially registered as a Super Wizard Class Hacker. Her romantic life does not officially involve anybody in the Stand Alone Complex series; however, in the original manga she is bisexual and dates the leader of Section 1 for some time. \n\n~!In the SAC universe,​ it is shown in that Hideo Kuze is the first person she ever loved, and her relationship with Batou seems to be one of a close platonic trust.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": "1986-01-01"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1795-vKakY5aXVyCl.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 1795
+      }
+    },
+    {
+      "id": "batou",
+      "name": "Batou",
+      "alt_names": [
+        "バトー"
+      ],
+      "role": "protagonist",
+      "description": "Batou is nominally the second-in-command of Section 9.  Little is known about the strange, large foreigner who has been with Motoko Kusanagi for years.  He was once American and served in the Special Forces in South America.  His amount of cyborg-ization is variable according to the storyline, from his limbs only up to most of his body, second only to the Major herself.  Despite the availability of superior eyes, he grew superstitious about his old-style eye replacements, popular with many high-level military operatives.  He also retains some residual body-image issues, causing him to continually purchase workout equipment despite the obvious anachronism.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/2653.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2653
+      }
+    },
+    {
+      "id": "togusa",
+      "name": "Togusa",
+      "alt_names": [
+        "トグサ"
+      ],
+      "role": "protagonist",
+      "description": "Togusa is the newest member of Section 9 and the only one not originally recruited from Kusanagi's team of SpecOps.  Recruited from the regular police forces, Detective Togusa (no first name is yet known) has only the most basic of augmentation and no cyberization outside of his cyberbrain.  The Major wanted him for his perspective as a real policeman and as an outside opinion so as to avoid intellectual incest within Section 9.  Togusa mostly feels inferior to the rest of the team, forgetting to recognize the reason for his inclusion in the group.  He is the only member with a spouse and child and he continues to carry his Mateba revolver, although it has been highly modified to fire anti-cyborg rounds.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/2654.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2654
+      }
+    },
+    {
+      "id": "ishikawa",
+      "name": "Ishikawa",
+      "alt_names": [
+        "イシカワ"
+      ],
+      "role": "supporting",
+      "description": "Ishikawa is the information warfare/technology specialist in Public Security Section 9. It has not been stated in the series thus far as to the degree that he has been cybernetically augmented, though character dialogue suggests that he is one of the least augmented members of Section 9. His appearance is characterized by a large beard and perpetually unkempt hair, and he is the oldest of Section 9's field operatives. He formerly served with Kusanagi and Batou in South America when they were with the Ground Self-Defense Forces in the Japanese UN contingent. He was one of the earliest members recruited to be in Section 9 and seems to know the Major and her dislikes quite well. He is shown as being in charge of a gambling parlor called Parlor Ishikawa, and on occasion uses the cyberbrains of the old men who play there to complete particularly heavy data gathering, though it seems the men suffer no ill effects or are even aware of their situation. Ishikawa in terms of personality is the most seemingly laid-back member of the unit.\n\n(Source: Wikipedia)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2676-2wg98eOH9BEh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2676
+      }
+    },
+    {
+      "id": "daisuke-aramaki",
+      "name": "Daisuke Aramaki",
+      "alt_names": [
+        "荒巻大輔"
+      ],
+      "role": "supporting",
+      "description": "The wise and powerful Head of Section 9, Aramaki relies upon his many international and corporate contacts to supply his team with the information they need to get the job done. Though he commands a great deal of respect, he is occasionally called \"Monkey Man\" (in the Manga) by his subordinates (perhaps because of his unconventional hairstyle/face). Seldom directly involved in police actions, he is nonetheless constantly working behind the scenes to coordinate the efforts of his agents, making quick and authoritative decisions and maintaining tight control of Kusanagi.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n2677-lPWyWsFWTJhp.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 2677
+      }
+    },
+    {
+      "id": "project-2501",
+      "name": "Project 2501",
+      "alt_names": [
+        "人形使い",
+        "The Puppet Master"
+      ],
+      "role": "supporting",
+      "description": "Project 2501, also known as The Puppet Master from the film and manga, Ghost in the Shell is an artificial intelligence program secretly developed by Section 6 of Public Security that develops sapience.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b18516-0jVQdvyC4i1j.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 18516
+      }
+    },
+    {
+      "id": "nakamura",
+      "name": "Nakamura",
+      "alt_names": [
+        "中村",
+        "Chief Nakamura"
+      ],
+      "role": "supporting",
+      "description": "He is chief official at the Ministry of Foreign Affairs and head of Public Security Section 6, where he investigates various mysterious cases. In an effort to solve the case of 2501 (an illegal hacking program) he frequently locks horns with Section 9. He was part of the original movie, however there is no mention of him in the serie. Nakamura is seen once again in the OVA (Solid State Society), in a scene that suggest the Major was working in freelance for Section 6.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/77779.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 77779
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T11:20:53.191Z"
+}

@@ -1,0 +1,219 @@
+{
+  "work_id": "latna-saga-survival-of-a-sword-king",
+  "count": 9,
+  "characters": [
+    {
+      "id": "han-bin-ryu",
+      "name": "Han-Bin Ryu",
+      "alt_names": [
+        "류한빈",
+        "Feladd Bin",
+        "Eric Garrune"
+      ],
+      "role": "protagonist",
+      "description": "Ryu Han-Bin was a normal person who just had been discharged from his mandatory military service, when he was transported to another world",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156850-5B1Ikh3xxdcK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 156850
+      }
+    },
+    {
+      "id": "ephyr",
+      "name": "Ephyr",
+      "alt_names": [
+        "에피르"
+      ],
+      "role": "protagonist",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b226257-EZ3hh1HrQLcf.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 226257
+      }
+    },
+    {
+      "id": "atisse-bennister",
+      "name": "Atisse Bennister",
+      "alt_names": [
+        "아티스베니스터"
+      ],
+      "role": "protagonist",
+      "description": "Atisse Bennister is a dragon with the ability of transform himself into a human and back to dragon. Among the dragons Atisse is considered very young due to the fact that dragons can live several thousand years as stated by Atisse. He is currently friends with Ryu Han-Bin and Ephyr.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b226258-dBclAjlLkzWA.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 226258
+      }
+    },
+    {
+      "id": "kivye",
+      "name": "Kivye",
+      "alt_names": [
+        "키비에"
+      ],
+      "role": "protagonist",
+      "description": "Kivye is the envoy of the Goddess of Darkness Kivryelle. She was sent to Rathnia to search for Ryu Han-Bin in order to ask for his help in finding one of the four heroes, Barolt, for the sake of saving the world of Rathnia from Ormphlaus and defeating Zenovia and Garhan.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b226259-RAyl58MxfiTF.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 226259
+      }
+    },
+    {
+      "id": "leonhart",
+      "name": "Leonhart",
+      "alt_names": [
+        "레온하르트",
+        "Leonhart Catel Francis",
+        "Sir Leonhart",
+        "One Who's Blessed"
+      ],
+      "role": "protagonist",
+      "description": "Leonhart is a powerful warrior from Latna Saga: Survival of a Sword King, initially part of the Heresy Inquisitors. Over time, he shifts his allegiance and becomes an ally to Ryu Hanbin. His strength and divine abilities make him a key character in the story.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b351163-MIwyTwL0BTlM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 351163
+      }
+    },
+    {
+      "id": "laude-roud",
+      "name": "Laude Roud",
+      "alt_names": [],
+      "role": "supporting",
+      "description": "Laude Roud is one of the few persons Ryu Han-Bin first interacted with after his arrival to the Onprous City. He offered Ryu Han-Bin to join his party at the same time he mocked him about his level.",
+      "metadata": {
+        "gender": "male",
+        "age": "21",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b328263-SiiGFD6c2Mb8.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 328263
+      }
+    },
+    {
+      "id": "patault",
+      "name": "Patault",
+      "alt_names": [
+        "The Sword King"
+      ],
+      "role": "supporting",
+      "description": "Patault also known as The Sword King is one of the four heroes blessed by the Goddesses. He is a Valterian warrior and the strongest among the four heroes.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b328265-pY6YKu2B5hCW.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 328265
+      }
+    },
+    {
+      "id": "zenovia",
+      "name": "Zenovia",
+      "alt_names": [
+        "The Archmage"
+      ],
+      "role": "supporting",
+      "description": "Zenovia also known as Zenovia The Archmage is the current Queen of Mage Kingdom of Rune and one of four heroes blessed by the Goddesses. She is considered the strongest Rathnian mage.",
+      "metadata": {
+        "gender": "female",
+        "age": "100+",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b328266-Y3hbujb7kiGh.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 328266
+      }
+    },
+    {
+      "id": "hollian",
+      "name": "Hollian",
+      "alt_names": [
+        "The Trasncendentalist of Life and Death"
+      ],
+      "role": "supporting",
+      "description": "Hollian also know as Hollian The Trasncendentalist of Life and Death is the current Queen of Allendia Kingdom. She is one of four heroes who were blessed by the Goddesses.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b328267-Q9pBd0gV26zd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 328267
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T06:50:18.779Z"
+}

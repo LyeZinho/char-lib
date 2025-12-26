@@ -1,0 +1,351 @@
+{
+  "work_id": "the-infinite-mage",
+  "count": 15,
+  "characters": [
+    {
+      "id": "shirone-arian",
+      "name": "Shirone Arian",
+      "alt_names": [
+        "아리안 시로네"
+      ],
+      "role": "protagonist",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304076-s5hlaPMbwJKO.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304076
+      }
+    },
+    {
+      "id": "rian-ogent",
+      "name": "Rian Ogent",
+      "alt_names": [
+        "오젠트 리안"
+      ],
+      "role": "supporting",
+      "description": "He is the youngest son of the Ogent family and [Shirone](https://anilist.co/character/304076)'s friend.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304074-pNWDhUdU8gkU.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304074
+      }
+    },
+    {
+      "id": "amy-karmis",
+      "name": "Amy Karmis",
+      "alt_names": [
+        "카르미스 에이미"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304075-USXMZVmRSley.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304075
+      }
+    },
+    {
+      "id": "reina-ogent",
+      "name": "Reina Ogent",
+      "alt_names": [
+        "오젠트 레이나"
+      ],
+      "role": "supporting",
+      "description": "She is the eldest daughter of the Ogent family. She is a genius musician with a kind personality, who knows how to use schema and swordsmanship.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b304077-eUDIsjg10Caw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 304077
+      }
+    },
+    {
+      "id": "olina-arian",
+      "name": "Olina Arian",
+      "alt_names": [
+        "아리안 올리나"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320466-TnfhRCB37PzN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320466
+      }
+    },
+    {
+      "id": "vincent-arian",
+      "name": "Vincent Arian",
+      "alt_names": [
+        "아리안 빈센트"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320467-Drgt2vG9GobQ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320467
+      }
+    },
+    {
+      "id": "jake-ardius",
+      "name": "Jake Ardius",
+      "alt_names": [
+        "아르디우스 제이크"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320468-G3BHjiSiaxuJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320468
+      }
+    },
+    {
+      "id": "kite",
+      "name": "Kite",
+      "alt_names": [
+        "카이트"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320469-SCDXQ4ARcfwJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320469
+      }
+    },
+    {
+      "id": "shakora-karmis",
+      "name": "Shakora Karmis",
+      "alt_names": [
+        "카르미스 샤코라"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320470-kPqbfJ412Sag.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320470
+      }
+    },
+    {
+      "id": "siena-olifer",
+      "name": "Siena Olifer",
+      "alt_names": [
+        "올리페르 시이나"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320471-ILdlydQafoNi.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320471
+      }
+    },
+    {
+      "id": "etella-romi",
+      "name": "Etella Romi",
+      "alt_names": [
+        "로미 에텔라"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320472-76vbMPs8oa5b.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320472
+      }
+    },
+    {
+      "id": "alpeas-milch",
+      "name": "Alpeas Milch",
+      "alt_names": [
+        "미르히알페아스"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320473-1N5bYinoWXHD.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320473
+      }
+    },
+    {
+      "id": "thad",
+      "name": "Thad",
+      "alt_names": [
+        "사드"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320474-4kVHFwVLv7rJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320474
+      }
+    },
+    {
+      "id": "rai-ogent",
+      "name": "Rai Ogent",
+      "alt_names": [
+        "오젠트 라이"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320475-1GnWvQw60VVP.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320475
+      }
+    },
+    {
+      "id": "klump-ogent",
+      "name": "Klump Ogent",
+      "alt_names": [
+        "오젠트 클럼프"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b320476-cwPwHFSLf3E0.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 320476
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T06:20:30.459Z"
+}

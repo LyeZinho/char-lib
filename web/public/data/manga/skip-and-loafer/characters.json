@@ -1,0 +1,355 @@
+{
+  "work_id": "skip-and-loafer",
+  "count": 15,
+  "characters": [
+    {
+      "id": "mitsumi-iwakura",
+      "name": "Mitsumi Iwakura",
+      "alt_names": [
+        "岩倉美津未",
+        "Omitsu"
+      ],
+      "role": "protagonist",
+      "description": "First-year high school student who moved to Tokyo from the outskirts of Ishikawa Prefecture near Suzu. Raised a child prodigy, she entered high school at the top of her class; however, she has no athletic ability. Her pure personality unintentionally influences the people around her. She has a younger sister and brother.",
+      "metadata": {
+        "gender": "female",
+        "age": "15-",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138851-KqCx4CjktnPl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138851
+      }
+    },
+    {
+      "id": "sousuke-shima",
+      "name": "Sousuke Shima",
+      "alt_names": [
+        "志摩聡介"
+      ],
+      "role": "protagonist",
+      "description": "Mitsumi's classmate who is popular with girls. He is known for sabotaging the entrance ceremony and skipping classes. Though he planned to skip the entrance ceremony, he meets Mitsumi and they run to school together.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138850-eqwZ11Q6sLrl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138850
+      }
+    },
+    {
+      "id": "mika-egashira",
+      "name": "Mika Egashira",
+      "alt_names": [
+        "江頭ミカ"
+      ],
+      "role": "protagonist",
+      "description": "Mitsumi's classmate who approached her after Mitsumi became friends with Sousuke. Mitsumi's pure nature inspired her to face her complexes. She develops a caring relationship with Mitsumi.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b234803-TG9zDpvgGsdC.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 234803
+      }
+    },
+    {
+      "id": "yuzuki-murashige",
+      "name": "Yuzuki Murashige",
+      "alt_names": [
+        "村重結月"
+      ],
+      "role": "protagonist",
+      "description": "Mitsumi's classmate and her first friend in Tokyo. Her popularity among boys made her develop a complex about being shunned by other girls. She studied abroad in her childhood and has blonde hair, so people assume she is good at English, but according to herself she is not that good at it.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138849-NAyVfRTuUi1B.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 138849
+      }
+    },
+    {
+      "id": "makoto-kurume",
+      "name": "Makoto Kurume",
+      "alt_names": [
+        "久留米誠"
+      ],
+      "role": "protagonist",
+      "description": "Mitsumi's classmate. She is introverted and worries about becoming isolated; she meets Mitsumi when she joined the student council to join some kind of community. Despite not liking flirtatious people, she meets Yuzuki through Mitsumi and they become close friends.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b234806-IFZjaw0mSNJJ.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 234806
+      }
+    },
+    {
+      "id": "fumino-toyama",
+      "name": "Fumino Toyama",
+      "alt_names": [
+        "遠山文乃"
+      ],
+      "role": "supporting",
+      "description": "Fumino is Mitsumi's childhood friend. She remains in Ishikawa while Mitski attends high school in Tokyo. Despite the distance, the two remain best friends, frequently catching up over video calls, and confiding in each other.",
+      "metadata": {
+        "gender": "female",
+        "age": "16",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b234805-L7wiQWESaCyy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 234805
+      }
+    },
+    {
+      "id": "nao",
+      "name": "Nao",
+      "alt_names": [
+        "ナオ"
+      ],
+      "role": "supporting",
+      "description": "Mitsumi's paternal aunt. She is a transgender woman and works as a stylist. Mitsumi's guardian since she moved to Tokyo.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b234811-a4qkRQwypnnY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 234811
+      }
+    },
+    {
+      "id": "narumi-kanechika",
+      "name": "Narumi Kanechika",
+      "alt_names": [
+        "兼近鳴海"
+      ],
+      "role": "supporting",
+      "description": "Second-year classmate of [Mitsumi Iwakura](https://anilist.co/character/138851/Mitsumi-Iwakura) and a member of the Drama Club.\n\nHe's very strong-willed and passionate about his interests, especially acting. He has shown to be very willing to put in lots of time and work into what he loves, and doesn't hesitate to drag others into it. His love for acting, and his will to share it with everyone does somewhat blind him from seeing other's emotions on the other hand. Despite being somewhat oblivious to emotions at times, he always helps others and cares about their wellbeing.\n\nNarumi dreams of becoming a playwright in the future.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b234807-KieTaKGrQ4Mg.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 234807
+      }
+    },
+    {
+      "id": "tsukasa-mukai",
+      "name": "Tsukasa Mukai",
+      "alt_names": [
+        "迎井つかさ"
+      ],
+      "role": "supporting",
+      "description": "Mitsumi's classmate and Sousuke's friend since middle school. He is quiet and kindhearted.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b234809-bmTuzvphzAHl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 234809
+      }
+    },
+    {
+      "id": "kento-yamada",
+      "name": "Kento Yamada",
+      "alt_names": [
+        "山田健斗"
+      ],
+      "role": "supporting",
+      "description": "Mitsumi's classmate and Sousuke's friend. He is the class clown who is loved, teased, and harmless to humans and animals; however, he is surprisingly diligent, making cookies for everyone in the class and supporting his classmates quietly.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b234804-uJOJEeMQmJXA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 234804
+      }
+    },
+    {
+      "id": "tokiko-takamine",
+      "name": "Tokiko Takamine",
+      "alt_names": [
+        "高嶺十貴子"
+      ],
+      "role": "supporting",
+      "description": "Second-year student council member. An extreme perfectionist who voluntarily follows a strict daily schedule. She had a stoic personality but became kinder upon meeting Mitsumi.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b234810-lD1FChqWPOOd.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 234810
+      }
+    },
+    {
+      "id": "hiroto-kazakami",
+      "name": "Hiroto Kazakami",
+      "alt_names": [
+        "風上紘斗"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b234808-6U8awoquRqIY.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 234808
+      }
+    },
+    {
+      "id": "ririka-saijou",
+      "name": "Ririka Saijou",
+      "alt_names": [
+        "西城梨々華"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b308986-pO10mJlFnbvb.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 308986
+      }
+    },
+    {
+      "id": "sakura-hanazono",
+      "name": "Sakura Hanazono",
+      "alt_names": [
+        "花園さくら"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309636-6uDqAy5DJANo.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309636
+      }
+    },
+    {
+      "id": "chris-fukunaga",
+      "name": "Chris Fukunaga",
+      "alt_names": [
+        "福永玖里寿"
+      ],
+      "role": "supporting",
+      "description": "One of [Shima's](https://anilist.co/character/138850/Sousuke-Shima) friends.",
+      "metadata": {
+        "gender": "male",
+        "age": "17",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b309945-J6aNilsRpsVk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 309945
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T10:21:08.790Z"
+}

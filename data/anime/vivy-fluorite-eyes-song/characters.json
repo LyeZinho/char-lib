@@ -1,0 +1,350 @@
+{
+  "work_id": "vivy-fluorite-eyes-song",
+  "count": 15,
+  "characters": [
+    {
+      "id": "vivy",
+      "name": "Vivy",
+      "alt_names": [
+        "ヴィヴィ",
+        "Diva",
+        "Model No. A-035624"
+      ],
+      "role": "protagonist",
+      "description": "Vivy is the first autonomous humanoid AI in history. Her mission as an AI is to make everyone happy with her songs, thus she aims to sing with all her heart. She attaches great importance to promises and feelings, and is an AI \"diva\" that serves humankind.\n\n(Source: Official Site, translated)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": "2056-06-19"
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209903-ue6AE5qBvMgI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209903
+      }
+    },
+    {
+      "id": "matsumoto",
+      "name": "Matsumoto",
+      "alt_names": [
+        "マツモト"
+      ],
+      "role": "protagonist",
+      "description": "Matsumoto is an AI that came to Vivy from 100 years into the future. Its mission as an AI is \"to avoid the war between AI and humankind.\" To that end, its goal is to destroy AI with Vivy.\n\nIt is talkative, overconfident, and has a personality that is not like an AI.\n\n(Source: Official Site, translated)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b209902-Ty8ihQLkX7EN.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 209902
+      }
+    },
+    {
+      "id": "estella",
+      "name": "Estella",
+      "alt_names": [
+        "エステラ"
+      ],
+      "role": "supporting",
+      "description": "Estella is an AI staff working at the space hotel \"Sunrise\" outside the atmosphere. Her mission as an AI is \"to take care of human beings as a life keeper.\"\n\nShe is polite, tolerant, and friendly.\n\n(Source: Official Site, translated)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215276-n3AoeL09uMiH.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215276
+      }
+    },
+    {
+      "id": "grace",
+      "name": "Grace",
+      "alt_names": [
+        "グレイス"
+      ],
+      "role": "supporting",
+      "description": "Grace is an AI nurse who works in hospitals and research institutes. Her mission as an AI is \"to save human life as an AI nurse.\"\n\nShe is an angel in a white coat who always smiles and speaks in a polite tone so as to give the patient a peace of mind.\n\n(Source: Official Site, translated)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215277-oVp9PmhAc12E.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215277
+      }
+    },
+    {
+      "id": "ophelia",
+      "name": "Ophelia",
+      "alt_names": [
+        "オフィーリア"
+      ],
+      "role": "supporting",
+      "description": "Ophelia is a diva AI active in small theaters around the world. Her mission as an AI is \"to make everyone happy with songs\" like Vivy.\n\nShe's usually a bit shy and sloppy, but she performs the highlight on stage.\n\n(Source: Official Site, translated)",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215278-t60BQZFE3cFG.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 215278
+      }
+    },
+    {
+      "id": "momoka-kirishima",
+      "name": "Momoka Kirishima",
+      "alt_names": [
+        "霧島モモカ"
+      ],
+      "role": "supporting",
+      "description": "Momoka was helped by Diva once when she got lost in NiaLand, since then she has grown attached to her and deeply cares about her she gave her nickname Vivy (ヴィヴィ). \n\n~!She dies in a plane crash.!~",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216423-LqLmJ7KJ5fjT.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216423
+      }
+    },
+    {
+      "id": "osamu-matsumoto",
+      "name": "Osamu Matsumoto",
+      "alt_names": [
+        "松本オサム",
+        "Professor Matsumoto",
+        "Dr. Matsumoto"
+      ],
+      "role": "supporting",
+      "description": "An AI researcher who sends “Matsumoto” one hundred years back in time to change history. He is the one who developed the AI for Matsumoto and is one of the world’s leading experts in his field.\n(Source: Official Site, translated)",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216424-WPce9wRsYH87.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216424
+      }
+    },
+    {
+      "id": "youichi-aikawa",
+      "name": "Youichi Aikawa",
+      "alt_names": [
+        "相川ヨウイチ"
+      ],
+      "role": "supporting",
+      "description": "An assemblyman who is working to pass the AI Naming Law, which would grant human rights to AIs. He is friendly but has no notable achievements to his name.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216425-x180DPnFLTci.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216425
+      }
+    },
+    {
+      "id": "navi",
+      "name": "Navi",
+      "alt_names": [
+        "ナビ"
+      ],
+      "role": "supporting",
+      "description": "The navigation system used by the employees of NiaLand. It has a foul mouth and speaks harshly to Vivy.",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216426-rbkCds1QCWNy.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216426
+      }
+    },
+    {
+      "id": "archive",
+      "name": "Archive",
+      "alt_names": [
+        "アーカイブ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216427-CrVqtdd1Q99X.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216427
+      }
+    },
+    {
+      "id": "kuwana",
+      "name": "Kuwana",
+      "alt_names": [
+        "桑名"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216436-kGWAotIUZRRN.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216436
+      }
+    },
+    {
+      "id": "yuugo-kakitani",
+      "name": "Yuugo Kakitani",
+      "alt_names": [
+        "垣谷ユウゴ"
+      ],
+      "role": "supporting",
+      "description": "A member of the anti-AI terrorist group, \"Toak\". From a young age, he's been actively promoting Toak to the the public. Vivy encounters him during her missions.\n\n(Source: Official Site, translated)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b216437-bSzmoCQW57pi.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 216437
+      }
+    },
+    {
+      "id": "keita-hayashi",
+      "name": "Keita Hayashi",
+      "alt_names": [
+        "Doctor",
+        "ドクター"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217727-ifecJnuUXPc9.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217727
+      }
+    },
+    {
+      "id": "leclerc",
+      "name": "Leclerc",
+      "alt_names": [
+        "ルクレール"
+      ],
+      "role": "supporting",
+      "description": "An AI working at the space hotel \"Sunrise\". A  long-time colleague of Estella's, she's a talkative person.\n\n(Official Site, translated)",
+      "metadata": {
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217728-StkAWMpSvP0h.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217728
+      }
+    },
+    {
+      "id": "yuzuka-kirishima",
+      "name": "Yuzuka Kirishima",
+      "alt_names": [
+        "霧島ユズカ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b217730-QISrV0LvgaQm.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 217730
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T03:06:25.634Z"
+}

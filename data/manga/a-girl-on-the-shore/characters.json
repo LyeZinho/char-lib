@@ -1,0 +1,123 @@
+{
+  "work_id": "a-girl-on-the-shore",
+  "count": 5,
+  "characters": [
+    {
+      "id": "keisuke-isobe",
+      "name": "Keisuke Isobe",
+      "alt_names": [
+        "磯辺恵介",
+        "Kosuke Isobe"
+      ],
+      "role": "protagonist",
+      "description": "Isobe is a young introverted adolescent who is classified as a nerdy type. Isobe and Koume get involved in a \"no strings attached\" sexual relationship that is a secret from the school.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b52841-BeL04FFj2HYw.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 52841
+      }
+    },
+    {
+      "id": "koume-satou",
+      "name": "Koume Satou",
+      "alt_names": [
+        "佐藤小梅"
+      ],
+      "role": "protagonist",
+      "description": "Koume is a shallow girl in junior high. After her crush breaks off their relationship, she decides to start a sexual relationship with Isobe, an introverted nerd in her school.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b52843-wztojrIbmSze.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 52843
+      }
+    },
+    {
+      "id": "keiko-kobayashi",
+      "name": "Keiko Kobayashi",
+      "alt_names": [
+        "小林桂子"
+      ],
+      "role": "supporting",
+      "description": "Koume's friend.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/20830.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 20830
+      }
+    },
+    {
+      "id": "sanzaki-misaki",
+      "name": "Sanzaki Misaki",
+      "alt_names": [
+        "三崎"
+      ],
+      "role": "supporting",
+      "description": "Koume's crush who is one year older than her.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/53795.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 53795
+      }
+    },
+    {
+      "id": "shouta-kashima",
+      "name": "Shouta Kashima",
+      "alt_names": [
+        "鹿島翔太"
+      ],
+      "role": "supporting",
+      "description": "A boy in the baseball club who has known Koume since they were little.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/53797.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 53797
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T06:54:31.066Z"
+}

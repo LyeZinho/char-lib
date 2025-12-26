@@ -1,0 +1,360 @@
+{
+  "work_id": "the-dangers-in-my-heart",
+  "count": 15,
+  "characters": [
+    {
+      "id": "anna-yamada",
+      "name": "Anna Yamada",
+      "alt_names": [
+        "山田杏奈"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 171 cm (5'8\")\n__Occupation:__ Middle School Student (Second Year)\n\nYamada Anna is the main heroine of the story and is the classmate and love interest of [Ichikawa Kyoutarou](https://anilist.co/character/174191/Kyoutarou-Ichikawa). She is also an airhead who is pretty and very immature besides her looks.\n\nShe is a magazine model and actress. She is very popular with both boys and girls but has a clumsy side to her. Anna frequently snacks in the library, much to Kyoutarou's dismay. She is also shown to be very jealous to the point of obsession whenever Kyoutarou interacts with other girls.",
+      "metadata": {
+        "gender": "female",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174190-Yl9xcIc5VTtI.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174190
+      }
+    },
+    {
+      "id": "kyoutarou-ichikawa",
+      "name": "Kyoutarou Ichikawa",
+      "alt_names": [
+        "市川京太郎"
+      ],
+      "role": "protagonist",
+      "description": "__Height:__ 156.5 cm (5'2\")\n__Occupation:__ Middle School Student (Second Year)\n__Twitter:__ https://twitter.com/thanatos_moros\n\nIchikawa is the protagonist of the story Boku no Kokoro no Yabai Yatsu and a classmate of  [Yamada Anna](https://anilist.co/character/174190/Anna-Yamada). He at the beginning of the manga is a gloomy, antisocial, sadistic boy and eager to kill his classmates, but in reality he is a kind boy with an incredibly low self-esteem, reaching the point where he believes that the people feel disgusted with the simple fact of being by his side, but the only person who does not think that of him is Yamada.\n\n~!He later becomes the love interest of Anna Yamada.!~\n\n(Source: Boku no Kokoro no Yabai Yatsu Wiki)",
+      "metadata": {
+        "gender": "male",
+        "age": "14",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174191-ZxpNhPXKgxhX.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 174191
+      }
+    },
+    {
+      "id": "kana-ichikawa",
+      "name": "Kana Ichikawa",
+      "alt_names": [
+        "市川香菜"
+      ],
+      "role": "supporting",
+      "description": "[Kyoutarou](https://anilist.co/character/174191/)'s older sister.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193218-3mexVYcc0PoC.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 193218
+      }
+    },
+    {
+      "id": "chihiro-kobayashi",
+      "name": "Chihiro Kobayashi",
+      "alt_names": [
+        "小林ちひろ",
+        "Chii"
+      ],
+      "role": "supporting",
+      "description": "Anna's best friend.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b202927-bQP0mtgDeNt1.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 202927
+      }
+    },
+    {
+      "id": "moeko-sekine",
+      "name": "Moeko Sekine",
+      "alt_names": [
+        "関根萌子"
+      ],
+      "role": "supporting",
+      "description": "Another of Anna's close friends. The loudest and most energetic of Anna's circle.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b207168-5yke9SeJWTCw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 207168
+      }
+    },
+    {
+      "id": "serina-yoshida",
+      "name": "Serina Yoshida",
+      "alt_names": [
+        "吉田芹那"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244631-brX66jFaOcex.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 244631
+      }
+    },
+    {
+      "id": "shou-adachi",
+      "name": "Shou Adachi",
+      "alt_names": [
+        "足立翔"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b297344-O1WzfeRh5o8O.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 297344
+      }
+    },
+    {
+      "id": "kenta-kanzaki",
+      "name": "Kenta Kanzaki",
+      "alt_names": [
+        "神崎健太"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b297345-jqx12kbZeAnc.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 297345
+      }
+    },
+    {
+      "id": "chikara-oota",
+      "name": "Chikara Oota",
+      "alt_names": [
+        "太田力"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b297346-JRFPFZaZxfzK.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 297346
+      }
+    },
+    {
+      "id": "honoka-hara",
+      "name": "Honoka Hara",
+      "alt_names": [
+        "原穂乃香"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b297347-m4n9BwniuLry.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 297347
+      }
+    },
+    {
+      "id": "haruya-nanjou",
+      "name": "Haruya Nanjou",
+      "alt_names": [
+        "南条ハルヤ",
+        "Pickup-pai",
+        "Playboy-paisen"
+      ],
+      "role": "supporting",
+      "description": "Haruya Nanjou is a secondary character in Boku no Kokoro no Yabai Yatsu.\nA suave, but shallow playboy, Nanjou takes an interest in [Anna Yamada](https://anilist.co/character/174190/Anna-Yamada) for her looks and social status. He acts as a recurring antagonist and love rival for [Kyoutarou Ichikawa](https://anilist.co/character/174191/Kyoutarou-Ichikawa).",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306749-QVhr3FiPeobE.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306749
+      }
+    },
+    {
+      "id": "adachi-no-haha",
+      "name": "Adachi no Haha",
+      "alt_names": [
+        "Adachi's Mother"
+      ],
+      "role": "supporting",
+      "description": "The mother of [Shou Adachi](https://anilist.co/character/297344). She wears things like leopard-skin dresses and wears heavy makeup.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306750
+      }
+    },
+    {
+      "id": "sanae-yamada",
+      "name": "Sanae Yamada",
+      "alt_names": [
+        "山田さなえ",
+        "Yamada's Mother",
+        "Yamada Haha (山田母)"
+      ],
+      "role": "supporting",
+      "description": "Sanae Yamada is a secondary character in Boku no Kokoro no Yabai Yatsu. She is the wife of [Yuki Yamada](https://anilist.co/character/306773/Yamada-Yuuki) and the mother of [Anna Yamada](https://anilist.co/character/174190/Anna-Yamada).",
+      "metadata": {
+        "gender": "female",
+        "age": "41",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306752-A10fEacTXiPl.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306752
+      }
+    },
+    {
+      "id": "mamiya",
+      "name": "Mamiya",
+      "alt_names": [
+        "間宮"
+      ],
+      "role": "supporting",
+      "description": "Childhood friend of Nanjou. Wants to advance their relationship, but never seems able to catch his eye.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306755-EE48htaYlqeA.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306755
+      }
+    },
+    {
+      "id": "moriya-sensei",
+      "name": "Moriya-sensei",
+      "alt_names": [
+        "守屋先生"
+      ],
+      "role": "supporting",
+      "description": "The teacher of Class 3-1. An energetic and high-spirited teacher that likes to move around a lot.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306756-gW1g1MeM1V8J.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 306756
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T05:03:58.461Z"
+}

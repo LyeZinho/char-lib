@@ -1,0 +1,294 @@
+{
+  "work_id": "a-sign-of-affection",
+  "count": 12,
+  "characters": [
+    {
+      "id": "yuki-itose",
+      "name": "Yuki Itose",
+      "alt_names": [
+        "糸瀬雪",
+        "ゆき"
+      ],
+      "role": "protagonist",
+      "description": "A deaf college student who seeks to learn about the outside world through Itsuomi.",
+      "metadata": {
+        "gender": "female",
+        "age": "19",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b179809-Z6PeOT1jwQvY.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 179809
+      }
+    },
+    {
+      "id": "itsuomi-nagi",
+      "name": "Itsuomi Nagi",
+      "alt_names": [
+        "波岐逸臣",
+        "Itsu"
+      ],
+      "role": "protagonist",
+      "description": "Yuki's university senior and a member of the International Club/Circle. \nHe knows 3 languages: German, English and Japanese. He also likes journeys around the world and communicating with children.\nIn the future he wants to be a teacher that teaches about countries and cultures.",
+      "metadata": {
+        "gender": "male",
+        "age": "22",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b179810-E34imq24Z2Gw.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 179810
+      }
+    },
+    {
+      "id": "oushi-ashioki",
+      "name": "Oushi Ashioki",
+      "alt_names": [
+        "芦沖桜志"
+      ],
+      "role": "supporting",
+      "description": "Yuki's childhood friend who learned sign language for her and is very good at it. \nHe has known Yuki since their childhood and he is concerned about her relationship with Itsuomi since he's in love with her.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206489-gxxVkQZRfe6V.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 206489
+      }
+    },
+    {
+      "id": "rin-fujishiro",
+      "name": "Rin Fujishiro",
+      "alt_names": [
+        "藤白りん",
+        "rinrin-09090202"
+      ],
+      "role": "supporting",
+      "description": "Rin is a friend of Yuki from the university. \nShe is very supportive of Yuki's relationship with Itsuomi.\nShe likes Kyoya, Itsuomi's cousin.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206490-goAAPWc1uZ7p.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 206490
+      }
+    },
+    {
+      "id": "kyouya-nagi",
+      "name": "Kyouya Nagi",
+      "alt_names": [
+        "波岐京弥",
+        "Kyou",
+        "Kyo"
+      ],
+      "role": "supporting",
+      "description": "Itsuomi's cousin. He is a barista in a small bar.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b206491-Rc9pl7NE5Tsk.jpg",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 206491
+      }
+    },
+    {
+      "id": "shin-iryuu",
+      "name": "Shin Iryuu",
+      "alt_names": [
+        "伊柳心",
+        "Shinshin"
+      ],
+      "role": "supporting",
+      "description": "Shin is [Itsuomi's](https://anilist.co/character/179810/) high school classmate and currently works as a hairdresser. He is usually cool, but his personality suddenly changes to a cheerful one when he drinks alcohol. He often hangs out with [Emma](https://anilist.co/character/282662/) and serves as her love advisor.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b246023-JY3YgmQALjHM.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 246023
+      }
+    },
+    {
+      "id": "emma-nakasono",
+      "name": "Emma Nakasono",
+      "alt_names": [
+        "中園エマ"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b282662-eMBZCTHgAIto.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 282662
+      }
+    },
+    {
+      "id": "yasuhiro-sandanbata",
+      "name": "Yasuhiro Sandanbata",
+      "alt_names": [
+        "三反畑康広",
+        "Batayan (畑やん)"
+      ],
+      "role": "supporting",
+      "description": "He is one of Oushi's friends.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323162-Zwm0KrxsELwt.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323162
+      }
+    },
+    {
+      "id": "motoki-ichishima",
+      "name": "Motoki Ichishima",
+      "alt_names": [
+        "一嶌深時"
+      ],
+      "role": "supporting",
+      "description": "He is one of Oushi's friends.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323163-YNKkPLlCPHGq.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323163
+      }
+    },
+    {
+      "id": "yuki-no-haha",
+      "name": "Yuki no Haha",
+      "alt_names": [
+        "雪の母",
+        "Yuki's Mother"
+      ],
+      "role": "supporting",
+      "description": "Yuki's mother.",
+      "metadata": {
+        "gender": "female",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323164-LVn9PrytpUME.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323164
+      }
+    },
+    {
+      "id": "yuki-no-chichi",
+      "name": "Yuki no Chichi",
+      "alt_names": [
+        "雪の父",
+        "Yuki's Father"
+      ],
+      "role": "supporting",
+      "description": "",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323165-Y4psnzOUrIdI.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323165
+      }
+    },
+    {
+      "id": "itaru-itose",
+      "name": "Itaru Itose",
+      "alt_names": [
+        "糸瀬至"
+      ],
+      "role": "supporting",
+      "description": "Yuki's brother.",
+      "metadata": {
+        "gender": "male",
+        "dateOfBirth": null
+      },
+      "images": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b323166-gW9XaqXhPOog.png",
+          "type": "portrait",
+          "source": "AniList"
+        }
+      ],
+      "external_ids": {
+        "anilist": 323166
+      }
+    }
+  ],
+  "updated_at": "2025-12-26T01:43:51.553Z"
+}
