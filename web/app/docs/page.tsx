@@ -788,26 +788,6 @@ fetch('/api/characters/random')
 // 5 personagens aleatórios de anime
 fetch('/api/characters/random?type=anime&n=5')
 
-            <div className="bg-dark-bg rounded p-4 mb-4">
-              <p className="text-xs text-gray-400 mb-2 font-semibold">ALGORITMO (resumo):</p>
-              <p className="text-sm text-gray-300">Cada personagem recebe um peso: <code>weight = (1 / sqrt(rank)) * rarity_multiplier</code>. A probabilidade de pull é o peso dividido pela soma total de pesos: <code>pullChance = (weight / sum(weights)) * 100</code>. Multiplicadores por raridade reduzem a chance de encontrar personagens mais raros.</p>
-            </div>
-            <div className="flex gap-2 mb-4">
-              <button
-                onClick={() => testEndpoint('random-weighted', '/api/characters/random?weighted=true&n=3')}
-                disabled={responses['random-weighted']?.loading}
-                className="px-4 py-2 bg-accent-primary hover:bg-accent-primary/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
-              >
-                {responses['random-weighted']?.loading ? 'Testando...' : '🧪 3 Ponderados'}
-              </button>
-              <button
-                onClick={() => testEndpoint('random-uniform', '/api/characters/random?weighted=false&n=3')}
-                disabled={responses['random-uniform']?.loading}
-                className="px-4 py-2 bg-accent-secondary hover:bg-accent-secondary/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
-              >
-                {responses['random-uniform']?.loading ? 'Testando...' : '🧪 3 Uniformes'}
-              </button>
-            </div>
 // 10 personagens de games
 fetch('/api/characters/random?type=game&n=10')
 
