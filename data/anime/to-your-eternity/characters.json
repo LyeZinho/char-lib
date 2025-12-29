@@ -27,7 +27,8 @@
       ],
       "external_ids": {
         "anilist": 136548
-      }
+      },
+      "rarity": "legendary"
     },
     {
       "id": "march",
@@ -50,7 +51,8 @@
       ],
       "external_ids": {
         "anilist": 136541
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "parona",
@@ -74,7 +76,8 @@
       ],
       "external_ids": {
         "anilist": 136544
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "hayase",
@@ -97,7 +100,8 @@
       ],
       "external_ids": {
         "anilist": 136545
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "tonari",
@@ -122,7 +126,8 @@
       ],
       "external_ids": {
         "anilist": 136550
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "rean-cropp",
@@ -147,7 +152,8 @@
       ],
       "external_ids": {
         "anilist": 136551
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "sander",
@@ -169,7 +175,8 @@
       ],
       "external_ids": {
         "anilist": 136552
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "kansatsu-sha",
@@ -193,7 +200,8 @@
       ],
       "external_ids": {
         "anilist": 136553
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "gugu",
@@ -217,7 +225,8 @@
       ],
       "external_ids": {
         "anilist": 136554
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "sakejii",
@@ -242,7 +251,8 @@
       ],
       "external_ids": {
         "anilist": 136555
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "pyoran",
@@ -266,7 +276,8 @@
       ],
       "external_ids": {
         "anilist": 136556
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "joaan",
@@ -288,7 +299,8 @@
       ],
       "external_ids": {
         "anilist": 163694
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "shounen",
@@ -312,7 +324,8 @@
       ],
       "external_ids": {
         "anilist": 201555
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "upa",
@@ -337,7 +350,8 @@
       ],
       "external_ids": {
         "anilist": 202665
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "mia",
@@ -360,7 +374,8 @@
       ],
       "external_ids": {
         "anilist": 202667
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "ligard",
@@ -382,7 +397,8 @@
       ],
       "external_ids": {
         "anilist": 202668
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "uroy",
@@ -405,7 +421,8 @@
       ],
       "external_ids": {
         "anilist": 202669
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "erran-dalton",
@@ -428,7 +445,8 @@
       ],
       "external_ids": {
         "anilist": 202670
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "oniguma",
@@ -452,7 +470,8 @@
       ],
       "external_ids": {
         "anilist": 202861
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "shin",
@@ -475,7 +494,8 @@
       ],
       "external_ids": {
         "anilist": 202863
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "nand",
@@ -498,7 +518,8 @@
       ],
       "external_ids": {
         "anilist": 203298
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "meer",
@@ -520,7 +541,8 @@
       ],
       "external_ids": {
         "anilist": 231456
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "nokkers",
@@ -543,7 +565,8 @@
       ],
       "external_ids": {
         "anilist": 232832
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "igoss-cropp",
@@ -565,7 +588,8 @@
       ],
       "external_ids": {
         "anilist": 244762
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "nand-no-otouto",
@@ -589,7 +613,8 @@
       ],
       "external_ids": {
         "anilist": 254174
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "march-no-chichi",
@@ -613,7 +638,8 @@
       ],
       "external_ids": {
         "anilist": 201554
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "penna",
@@ -636,7 +662,8 @@
       ],
       "external_ids": {
         "anilist": 201557
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "march-no-haha",
@@ -660,7 +687,8 @@
       ],
       "external_ids": {
         "anilist": 202865
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "lee",
@@ -683,7 +711,8 @@
       ],
       "external_ids": {
         "anilist": 230962
-      }
+      },
+      "rarity": "uncommon"
     }
   ],
   "updated_at": "2025-12-23T05:54:00.513Z"

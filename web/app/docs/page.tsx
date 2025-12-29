@@ -421,6 +421,22 @@ export default function DocsPage() {
             <div className="mb-3">
               <p className="text-sm text-gray-400 mb-1"><strong>Path Parameters:</strong></p>
               <ul className="text-sm text-gray-300 space-y-1 ml-4">
+            <div className="flex gap-2 mb-4">
+              <button
+                onClick={() => testEndpoint('random-weighted', '/api/characters/random?weighted=true&n=3')}
+                disabled={responses['random-weighted']?.loading}
+                className="px-4 py-2 bg-accent-primary hover:bg-accent-primary/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
+              >
+                {responses['random-weighted']?.loading ? 'Testando...' : '🧪 3 Ponderados'}
+              </button>
+              <button
+                onClick={() => testEndpoint('random-uniform', '/api/characters/random?weighted=false&n=3')}
+                disabled={responses['random-uniform']?.loading}
+                className="px-4 py-2 bg-accent-secondary hover:bg-accent-secondary/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
+              >
+                {responses['random-uniform']?.loading ? 'Testando...' : '🧪 3 Uniformes'}
+              </button>
+            </div>
                 <li>• <code className="text-accent-secondary">type</code>, <code className="text-accent-secondary">workSlug</code>: mesmos parâmetros do endpoint anterior</li>
               </ul>
             </div>
@@ -760,6 +776,7 @@ fetch('/api/characters/search?q=uzumaki')
                 <li>• <code className="text-accent-warning">n</code> <em className="text-gray-500">(opcional)</em>: quantidade (padrão: 1, máx: 50)</li>
                 <li>• <code className="text-accent-warning">type</code> <em className="text-gray-500">(opcional)</em>: <code className="text-gray-400">anime</code> | <code className="text-gray-400">manga</code> | <code className="text-gray-400">game</code></li>
                 <li>• <code className="text-accent-warning">workType</code> + <code className="text-accent-warning">work</code> <em className="text-gray-500">(opcional)</em>: filtrar por obra específica</li>
+                <li>• <code className="text-accent-warning">weighted</code> <em className="text-gray-500">(opcional)</em>: <code className="text-gray-400">true</code> | <code className="text-gray-400">false</code> — quando <code>false</code> a seleção é uniforme; padrão: <code>true</code> (usa probabilidades ponderadas por <code>rarity</code> e <code>rank</code>)</li>
               </ul>
             </div>
             <div className="bg-dark-bg rounded p-4 mb-4">
@@ -771,6 +788,26 @@ fetch('/api/characters/random')
 // 5 personagens aleatórios de anime
 fetch('/api/characters/random?type=anime&n=5')
 
+            <div className="bg-dark-bg rounded p-4 mb-4">
+              <p className="text-xs text-gray-400 mb-2 font-semibold">ALGORITMO (resumo):</p>
+              <p className="text-sm text-gray-300">Cada personagem recebe um peso: <code>weight = (1 / sqrt(rank)) * rarity_multiplier</code>. A probabilidade de pull é o peso dividido pela soma total de pesos: <code>pullChance = (weight / sum(weights)) * 100</code>. Multiplicadores por raridade reduzem a chance de encontrar personagens mais raros.</p>
+            </div>
+            <div className="flex gap-2 mb-4">
+              <button
+                onClick={() => testEndpoint('random-weighted', '/api/characters/random?weighted=true&n=3')}
+                disabled={responses['random-weighted']?.loading}
+                className="px-4 py-2 bg-accent-primary hover:bg-accent-primary/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
+              >
+                {responses['random-weighted']?.loading ? 'Testando...' : '🧪 3 Ponderados'}
+              </button>
+              <button
+                onClick={() => testEndpoint('random-uniform', '/api/characters/random?weighted=false&n=3')}
+                disabled={responses['random-uniform']?.loading}
+                className="px-4 py-2 bg-accent-secondary hover:bg-accent-secondary/80 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium transition-colors"
+              >
+                {responses['random-uniform']?.loading ? 'Testando...' : '🧪 3 Uniformes'}
+              </button>
+            </div>
 // 10 personagens de games
 fetch('/api/characters/random?type=game&n=10')
 
@@ -807,6 +844,8 @@ fetch('/api/characters/random?workType=anime&work=naruto&n=3')
             </div>
             {renderResponse('random-1')}
             {renderResponse('random-2')}
+            {renderResponse('random-weighted')}
+            {renderResponse('random-uniform')}
           </div>
 
           </div>

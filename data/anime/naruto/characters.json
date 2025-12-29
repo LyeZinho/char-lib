@@ -27,7 +27,8 @@
       ],
       "external_ids": {
         "anilist": 13
-      }
+      },
+      "rarity": "legendary"
     },
     {
       "id": "naruto-uzumaki",
@@ -58,7 +59,8 @@
       ],
       "external_ids": {
         "anilist": 17
-      }
+      },
+      "rarity": "legendary"
     },
     {
       "id": "kakashi-hatake",
@@ -85,7 +87,8 @@
       ],
       "external_ids": {
         "anilist": 85
-      }
+      },
+      "rarity": "legendary"
     },
     {
       "id": "sakura-haruno",
@@ -109,7 +112,8 @@
       ],
       "external_ids": {
         "anilist": 145
-      }
+      },
+      "rarity": "legendary"
     },
     {
       "id": "itachi-uchiha",
@@ -135,7 +139,8 @@
       ],
       "external_ids": {
         "anilist": 14
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "rock-lee",
@@ -160,7 +165,8 @@
       ],
       "external_ids": {
         "anilist": 306
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "might-guy",
@@ -185,7 +191,8 @@
       ],
       "external_ids": {
         "anilist": 307
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "zabuza-momochi",
@@ -210,7 +217,8 @@
       ],
       "external_ids": {
         "anilist": 728
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "anko-mitarashi",
@@ -233,7 +241,8 @@
       ],
       "external_ids": {
         "anilist": 809
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "hinata-hyuuga",
@@ -259,7 +268,8 @@
       ],
       "external_ids": {
         "anilist": 1555
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_haruno-sakura",
@@ -421,7 +431,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.594Z",
-      "created_at": "2025-12-22T12:09:22.594Z"
+      "created_at": "2025-12-22T12:09:22.594Z",
+      "rarity": "legendary"
     },
     {
       "id": "naruto_hatake-kakashi",
@@ -535,7 +546,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.594Z",
-      "created_at": "2025-12-22T12:09:22.594Z"
+      "created_at": "2025-12-22T12:09:22.594Z",
+      "rarity": "legendary"
     },
     {
       "id": "naruto_uchiha-sasuke",
@@ -657,7 +669,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.594Z",
-      "created_at": "2025-12-22T12:09:22.594Z"
+      "created_at": "2025-12-22T12:09:22.594Z",
+      "rarity": "legendary"
     },
     {
       "id": "naruto_uzumaki-naruto",
@@ -827,7 +840,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.594Z",
-      "created_at": "2025-12-22T12:09:22.594Z"
+      "created_at": "2025-12-22T12:09:22.594Z",
+      "rarity": "legendary"
     },
     {
       "id": "naruto_abumi-zaku",
@@ -909,7 +923,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.594Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_aburame-shibi",
@@ -975,7 +990,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_aburame-shino",
@@ -1081,7 +1097,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_akado-yoroi",
@@ -1163,7 +1180,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_akado-manabu",
@@ -1188,7 +1206,8 @@
       "relations": [],
       "voice_actors": [],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_akahoshi",
@@ -1254,7 +1273,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_akamaru",
@@ -1336,7 +1356,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_akame-iwana",
@@ -1386,7 +1407,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_akane",
@@ -1436,7 +1458,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_akimichi-chouza",
@@ -1518,7 +1541,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_akimichi-chouji",
@@ -1616,7 +1640,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_akio",
@@ -1674,7 +1699,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_amachi",
@@ -1740,7 +1766,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_ami",
@@ -1790,7 +1817,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_ayame",
@@ -1896,7 +1924,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_baiu",
@@ -1946,7 +1975,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_baki",
@@ -2052,7 +2082,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_bekkou",
@@ -2110,7 +2141,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_bisuke",
@@ -2152,7 +2184,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_chikara",
@@ -2210,7 +2243,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_chishima",
@@ -2276,7 +2310,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_chouhan",
@@ -2334,7 +2369,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_deidara",
@@ -2400,7 +2436,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_dengaku",
@@ -2450,7 +2487,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_ebisu",
@@ -2548,7 +2586,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_enma",
@@ -2614,7 +2653,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_fuki",
@@ -2656,7 +2696,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_fuku",
@@ -2706,7 +2747,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_fukuyokana",
@@ -2764,7 +2806,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_funeno-daikoku",
@@ -2806,7 +2849,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_fuujin",
@@ -2864,7 +2908,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_fuuma-sasame",
@@ -2938,7 +2983,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_fuuma-jigumo",
@@ -2996,7 +3042,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_fuuma-kotohime",
@@ -3038,7 +3085,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_fuuma-arashi",
@@ -3104,7 +3152,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_fuuma-kamikiri",
@@ -3170,7 +3219,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_gaara",
@@ -3276,7 +3326,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_gamabunta",
@@ -3358,7 +3409,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_gamakichi",
@@ -3464,7 +3516,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_gamatatsu",
@@ -3546,7 +3599,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_gantetsu",
@@ -3620,7 +3674,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_gatou",
@@ -3702,7 +3757,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_gatsu",
@@ -3768,7 +3824,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_gekkou-hayate",
@@ -3882,7 +3939,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_genno",
@@ -3940,7 +3998,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_genyuumaru",
@@ -3998,7 +4057,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_genzou",
@@ -4048,7 +4108,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_giichi",
@@ -4098,7 +4159,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_gosunkugi",
@@ -4140,7 +4202,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_gouzu",
@@ -4190,7 +4253,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_guruko",
@@ -4232,7 +4296,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hachidai",
@@ -4282,7 +4347,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.595Z",
-      "created_at": "2025-12-22T12:09:22.595Z"
+      "created_at": "2025-12-22T12:09:22.595Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hagane-kotetsu",
@@ -4436,7 +4502,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hakkaku",
@@ -4486,7 +4553,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_haku",
@@ -4624,7 +4692,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hakus-mother",
@@ -4666,7 +4735,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hanzaki",
@@ -4724,7 +4794,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_haruna",
@@ -4790,7 +4861,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_haruno-mebuki",
@@ -4848,7 +4920,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hidan",
@@ -4882,7 +4955,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hijiri-shimon",
@@ -4924,7 +4998,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hikyakuya-fukusuke",
@@ -4982,7 +5057,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hiruko",
@@ -5032,7 +5108,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hitode",
@@ -5082,7 +5159,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hokushin",
@@ -5140,7 +5218,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hokuto",
@@ -5190,7 +5269,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hoshigaki-kisame",
@@ -5296,7 +5376,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hostess-san",
@@ -5338,7 +5419,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hotarubi",
@@ -5388,7 +5470,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_houki",
@@ -5467,7 +5550,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hyuuga-hinata",
@@ -5589,7 +5673,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hyuuga-neji",
@@ -5735,7 +5820,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hyuuga-hizashi",
@@ -5817,7 +5903,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hyuuga-hiashi",
@@ -5923,7 +6010,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_hyuuga-hanabi",
@@ -6005,7 +6093,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_ibara",
@@ -6055,7 +6144,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_inari",
@@ -6137,7 +6227,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_inuzuka-kiba",
@@ -6251,7 +6342,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_inuzuka-tsume",
@@ -6325,7 +6417,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_inuzuka-hana",
@@ -6383,7 +6476,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_isaribi",
@@ -6449,7 +6543,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_ise-udon",
@@ -6531,7 +6626,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_jantou",
@@ -6573,7 +6669,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_jiga",
@@ -6623,7 +6720,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_jiraiya",
@@ -6777,7 +6875,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_jiroubou",
@@ -6843,7 +6942,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_jouseki",
@@ -6885,7 +6985,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_kagari",
@@ -6943,7 +7044,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_kagero",
@@ -7033,7 +7135,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_kagetsu-tsukiko",
@@ -7091,7 +7194,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_kagetsu-kiyoyasu",
@@ -7133,7 +7237,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_kagetsu-futa",
@@ -7191,7 +7296,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_kagetsu-mai",
@@ -7241,7 +7347,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_kagetsu-toubei",
@@ -7299,7 +7406,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "naruto_kaisen-agari",
@@ -7349,7 +7457,8 @@
         }
       ],
       "updated_at": "2025-12-22T12:09:22.596Z",
-      "created_at": "2025-12-22T12:09:22.596Z"
+      "created_at": "2025-12-22T12:09:22.596Z",
+      "rarity": "uncommon"
     },
     {
       "id": "gaara",
@@ -7375,7 +7484,8 @@
       ],
       "external_ids": {
         "anilist": 1662
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "neji-hyuuga",
@@ -7399,7 +7509,8 @@
       ],
       "external_ids": {
         "anilist": 1694
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "deidara",
@@ -7423,7 +7534,8 @@
       ],
       "external_ids": {
         "anilist": 1902
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "shikamaru-nara",
@@ -7447,7 +7559,8 @@
       ],
       "external_ids": {
         "anilist": 2007
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "chouji-akimichi",
@@ -7471,7 +7584,8 @@
       ],
       "external_ids": {
         "anilist": 2008
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "ino-yamanaka",
@@ -7495,7 +7609,8 @@
       ],
       "external_ids": {
         "anilist": 2009
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "iruka-umino",
@@ -7519,7 +7634,8 @@
       ],
       "external_ids": {
         "anilist": 2011
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "haku",
@@ -7543,7 +7659,8 @@
       ],
       "external_ids": {
         "anilist": 2039
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "temari",
@@ -7567,7 +7684,8 @@
       ],
       "external_ids": {
         "anilist": 2174
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kabuto-yakushi",
@@ -7590,7 +7708,8 @@
       ],
       "external_ids": {
         "anilist": 2405
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "jiraiya",
@@ -7617,7 +7736,8 @@
       ],
       "external_ids": {
         "anilist": 2423
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "orochimaru",
@@ -7641,7 +7761,8 @@
       ],
       "external_ids": {
         "anilist": 2455
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kisame-hoshigaki",
@@ -7666,7 +7787,8 @@
       ],
       "external_ids": {
         "anilist": 2672
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "pakkun",
@@ -7689,7 +7811,8 @@
       ],
       "external_ids": {
         "anilist": 2766
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "tsunade-senju",
@@ -7716,7 +7839,8 @@
       ],
       "external_ids": {
         "anilist": 2767
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "tayuya",
@@ -7740,7 +7864,8 @@
       ],
       "external_ids": {
         "anilist": 3052
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "zetsu",
@@ -7762,7 +7887,8 @@
       ],
       "external_ids": {
         "anilist": 3150
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "pain",
@@ -7793,7 +7919,8 @@
       ],
       "external_ids": {
         "anilist": 3180
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "shino-aburame",
@@ -7817,7 +7944,8 @@
       ],
       "external_ids": {
         "anilist": 3428
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kimimaro-kaguya",
@@ -7841,7 +7969,8 @@
       ],
       "external_ids": {
         "anilist": 3438
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kiba-inuzuka",
@@ -7865,7 +7994,8 @@
       ],
       "external_ids": {
         "anilist": 3495
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "tenten",
@@ -7889,7 +8019,8 @@
       ],
       "external_ids": {
         "anilist": 3710
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "genma-shiranui",
@@ -7913,7 +8044,8 @@
       ],
       "external_ids": {
         "anilist": 3735
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "konohamaru-sarutobi",
@@ -7937,7 +8069,8 @@
       ],
       "external_ids": {
         "anilist": 3889
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "gamabunta",
@@ -7960,7 +8093,8 @@
       ],
       "external_ids": {
         "anilist": 4223
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "shizune",
@@ -7984,7 +8118,8 @@
       ],
       "external_ids": {
         "anilist": 4643
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kankuro",
@@ -8008,7 +8143,8 @@
       ],
       "external_ids": {
         "anilist": 4694
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kurenai-yuuhi",
@@ -8032,7 +8168,8 @@
       ],
       "external_ids": {
         "anilist": 4773
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "asuma-sarutobi",
@@ -8056,7 +8193,8 @@
       ],
       "external_ids": {
         "anilist": 4775
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "akamaru",
@@ -8079,7 +8217,8 @@
       ],
       "external_ids": {
         "anilist": 4799
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "isaribi",
@@ -8101,7 +8240,8 @@
       ],
       "external_ids": {
         "anilist": 5737
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "aoi-rokusho",
@@ -8124,7 +8264,8 @@
       ],
       "external_ids": {
         "anilist": 6598
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "matsuri",
@@ -8151,7 +8292,8 @@
       ],
       "external_ids": {
         "anilist": 43972
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kurama",
@@ -8178,7 +8320,8 @@
       ],
       "external_ids": {
         "anilist": 7407
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "hiruzen-sarutobi",
@@ -8207,7 +8350,8 @@
       ],
       "external_ids": {
         "anilist": 7571
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "katsuyu",
@@ -8230,7 +8374,8 @@
       ],
       "external_ids": {
         "anilist": 7608
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "hayate-gekkou",
@@ -8254,7 +8399,8 @@
       ],
       "external_ids": {
         "anilist": 7738
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "jiroubou",
@@ -8277,7 +8423,8 @@
       ],
       "external_ids": {
         "anilist": 8495
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kidoumaru",
@@ -8300,7 +8447,8 @@
       ],
       "external_ids": {
         "anilist": 8497
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "sakon",
@@ -8322,7 +8470,8 @@
       ],
       "external_ids": {
         "anilist": 8760
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "raiga-kurosuki",
@@ -8345,7 +8494,8 @@
       ],
       "external_ids": {
         "anilist": 8771
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "menma",
@@ -8368,7 +8518,8 @@
       ],
       "external_ids": {
         "anilist": 8810
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "zaku-abumi",
@@ -8391,7 +8542,8 @@
       ],
       "external_ids": {
         "anilist": 8997
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "dosu-kinuta",
@@ -8414,7 +8566,8 @@
       ],
       "external_ids": {
         "anilist": 9244
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kin-tsuchi",
@@ -8438,7 +8591,8 @@
       ],
       "external_ids": {
         "anilist": 9680
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "yoroi-akado",
@@ -8461,7 +8615,8 @@
       ],
       "external_ids": {
         "anilist": 9699
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "seimei",
@@ -8484,7 +8639,8 @@
       ],
       "external_ids": {
         "anilist": 10524
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "shibi-aburame",
@@ -8507,7 +8663,8 @@
       ],
       "external_ids": {
         "anilist": 10697
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "akahoshi",
@@ -8530,7 +8687,8 @@
       ],
       "external_ids": {
         "anilist": 10698
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "chouza-akimichi",
@@ -8552,7 +8710,8 @@
       ],
       "external_ids": {
         "anilist": 10699
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "akio",
@@ -8574,7 +8733,8 @@
       ],
       "external_ids": {
         "anilist": 10700
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "ebisu",
@@ -8598,7 +8758,8 @@
       ],
       "external_ids": {
         "anilist": 10791
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "shukaku",
@@ -8623,7 +8784,8 @@
       ],
       "external_ids": {
         "anilist": 11813
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "hashirama-senju",
@@ -8649,7 +8811,8 @@
       ],
       "external_ids": {
         "anilist": 12464
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "tobirama-senju",
@@ -8674,7 +8837,8 @@
       ],
       "external_ids": {
         "anilist": 12465
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "hanabi-hyuuga",
@@ -8698,7 +8862,8 @@
       ],
       "external_ids": {
         "anilist": 12563
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "yashamaru",
@@ -8721,7 +8886,8 @@
       ],
       "external_ids": {
         "anilist": 13017
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "moegi-kazamatsuri",
@@ -8744,7 +8910,8 @@
       ],
       "external_ids": {
         "anilist": 13454
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "izumo-kamizuki",
@@ -8767,7 +8934,8 @@
       ],
       "external_ids": {
         "anilist": 14032
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "hiashi-hyuuga",
@@ -8791,7 +8959,8 @@
       ],
       "external_ids": {
         "anilist": 15039
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "yugao-uzuki",
@@ -8815,7 +8984,8 @@
       ],
       "external_ids": {
         "anilist": 15045
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "inoichi-yamanaka",
@@ -8838,7 +9008,8 @@
       ],
       "external_ids": {
         "anilist": 15072
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "hana-inuzuka",
@@ -8861,7 +9032,8 @@
       ],
       "external_ids": {
         "anilist": 15073
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "tsume-inuzuka",
@@ -8884,7 +9056,8 @@
       ],
       "external_ids": {
         "anilist": 15074
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "tsunami",
@@ -8907,7 +9080,8 @@
       ],
       "external_ids": {
         "anilist": 15077
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "baki",
@@ -8931,7 +9105,8 @@
       ],
       "external_ids": {
         "anilist": 15081
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "yotaka",
@@ -8951,7 +9126,8 @@
       ],
       "external_ids": {
         "anilist": 15145
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kamikiri-fuma",
@@ -8973,7 +9149,8 @@
       ],
       "external_ids": {
         "anilist": 15176
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "sasame-fuma",
@@ -8996,7 +9173,8 @@
       ],
       "external_ids": {
         "anilist": 15177
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "haruna",
@@ -9020,7 +9198,8 @@
       ],
       "external_ids": {
         "anilist": 15178
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "shigure",
@@ -9044,7 +9223,8 @@
       ],
       "external_ids": {
         "anilist": 15179
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "enma",
@@ -9067,7 +9247,8 @@
       ],
       "external_ids": {
         "anilist": 15757
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "mizura",
@@ -9090,7 +9271,8 @@
       ],
       "external_ids": {
         "anilist": 15759
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "gouzu",
@@ -9113,7 +9295,8 @@
       ],
       "external_ids": {
         "anilist": 16164
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "meizu",
@@ -9136,7 +9319,8 @@
       ],
       "external_ids": {
         "anilist": 16165
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kotetsu-hagane",
@@ -9158,7 +9342,8 @@
       ],
       "external_ids": {
         "anilist": 16304
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "toki",
@@ -9178,7 +9363,8 @@
       ],
       "external_ids": {
         "anilist": 16321
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "gamatatsu",
@@ -9200,7 +9386,8 @@
       ],
       "external_ids": {
         "anilist": 16952
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "fugaku-uchiha",
@@ -9222,7 +9409,8 @@
       ],
       "external_ids": {
         "anilist": 16973
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "mubi",
@@ -9244,7 +9432,8 @@
       ],
       "external_ids": {
         "anilist": 16974
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "oki",
@@ -9266,7 +9455,8 @@
       ],
       "external_ids": {
         "anilist": 16975
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "jirocho-wasabi",
@@ -9288,7 +9478,8 @@
       ],
       "external_ids": {
         "anilist": 16976
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "gamakichi",
@@ -9311,7 +9502,8 @@
       ],
       "external_ids": {
         "anilist": 16999
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "chishima",
@@ -9333,7 +9525,8 @@
       ],
       "external_ids": {
         "anilist": 17165
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "tazuna",
@@ -9356,7 +9549,8 @@
       ],
       "external_ids": {
         "anilist": 17197
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "genno",
@@ -9378,7 +9572,8 @@
       ],
       "external_ids": {
         "anilist": 17199
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "todoroki",
@@ -9400,7 +9595,8 @@
       ],
       "external_ids": {
         "anilist": 17200
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "raido-namiashi",
@@ -9422,7 +9618,8 @@
       ],
       "external_ids": {
         "anilist": 17298
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "karashi",
@@ -9445,7 +9642,8 @@
       ],
       "external_ids": {
         "anilist": 17302
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "ryuugan",
@@ -9468,7 +9666,8 @@
       ],
       "external_ids": {
         "anilist": 17305
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "fukusuke-hikyakuya",
@@ -9490,7 +9689,8 @@
       ],
       "external_ids": {
         "anilist": 17307
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "ayame",
@@ -9513,7 +9713,8 @@
       ],
       "external_ids": {
         "anilist": 17310
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "teuchi",
@@ -9537,7 +9738,8 @@
       ],
       "external_ids": {
         "anilist": 17312
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "jigumo-fuma",
@@ -9560,7 +9762,8 @@
       ],
       "external_ids": {
         "anilist": 17313
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "arashi-fuuma",
@@ -9582,7 +9785,8 @@
       ],
       "external_ids": {
         "anilist": 17316
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "ranmaru",
@@ -9604,7 +9808,8 @@
       ],
       "external_ids": {
         "anilist": 17414
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "hokushin",
@@ -9624,7 +9829,8 @@
       ],
       "external_ids": {
         "anilist": 17424
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "renga",
@@ -9646,7 +9852,8 @@
       ],
       "external_ids": {
         "anilist": 17425
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "genzou",
@@ -9668,7 +9875,8 @@
       ],
       "external_ids": {
         "anilist": 17535
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "gatsu",
@@ -9690,7 +9898,8 @@
       ],
       "external_ids": {
         "anilist": 17536
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "hokuto",
@@ -9712,7 +9921,8 @@
       ],
       "external_ids": {
         "anilist": 17539
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "mondai",
@@ -9734,7 +9944,8 @@
       ],
       "external_ids": {
         "anilist": 17540
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "nagare",
@@ -9756,7 +9967,8 @@
       ],
       "external_ids": {
         "anilist": 17541
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "nanafushi",
@@ -9779,7 +9991,8 @@
       ],
       "external_ids": {
         "anilist": 17542
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "nan",
@@ -9801,7 +10014,8 @@
       ],
       "external_ids": {
         "anilist": 17543
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "yakumo-kurama",
@@ -9824,7 +10038,8 @@
       ],
       "external_ids": {
         "anilist": 17545
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "sazanami",
@@ -9847,7 +10062,8 @@
       ],
       "external_ids": {
         "anilist": 17546
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "senta",
@@ -9870,7 +10086,8 @@
       ],
       "external_ids": {
         "anilist": 17547
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "shinemon",
@@ -9893,7 +10110,8 @@
       ],
       "external_ids": {
         "anilist": 17548
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "yajirobee",
@@ -9916,7 +10134,8 @@
       ],
       "external_ids": {
         "anilist": 17549
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "tanzou",
@@ -9938,7 +10157,8 @@
       ],
       "external_ids": {
         "anilist": 17551
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "waraji",
@@ -9961,7 +10181,8 @@
       ],
       "external_ids": {
         "anilist": 17552
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "aoba-yamashiro",
@@ -9984,7 +10205,8 @@
       ],
       "external_ids": {
         "anilist": 17553
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "jibachi-kamizuru",
@@ -10006,7 +10228,8 @@
       ],
       "external_ids": {
         "anilist": 17557
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "oboro",
@@ -10029,7 +10252,8 @@
       ],
       "external_ids": {
         "anilist": 17619
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "tsubaki",
@@ -10051,7 +10275,8 @@
       ],
       "external_ids": {
         "anilist": 17666
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "shikaku-nara",
@@ -10075,7 +10300,8 @@
       ],
       "external_ids": {
         "anilist": 18056
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "mizuki-touji",
@@ -10099,7 +10325,8 @@
       ],
       "external_ids": {
         "anilist": 19253
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "giichi",
@@ -10121,7 +10348,8 @@
       ],
       "external_ids": {
         "anilist": 20274
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "hachidai",
@@ -10143,7 +10371,8 @@
       ],
       "external_ids": {
         "anilist": 20278
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "akane",
@@ -10166,7 +10395,8 @@
       ],
       "external_ids": {
         "anilist": 20645
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "mikoto-uchiha",
@@ -10190,7 +10420,8 @@
       ],
       "external_ids": {
         "anilist": 21122
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "inari",
@@ -10214,7 +10445,8 @@
       ],
       "external_ids": {
         "anilist": 21365
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "yoshino-nara",
@@ -10237,7 +10469,8 @@
       ],
       "external_ids": {
         "anilist": 22247
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "homura-mitokado",
@@ -10260,7 +10493,8 @@
       ],
       "external_ids": {
         "anilist": 22648
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "koharu-utatane",
@@ -10283,7 +10517,8 @@
       ],
       "external_ids": {
         "anilist": 22649
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "dan-katou",
@@ -10306,7 +10541,8 @@
       ],
       "external_ids": {
         "anilist": 22876
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "hizashi-hyuuga",
@@ -10330,7 +10566,8 @@
       ],
       "external_ids": {
         "anilist": 22880
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kuromaru",
@@ -10352,7 +10589,8 @@
       ],
       "external_ids": {
         "anilist": 22881
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "nawaki",
@@ -10375,7 +10613,8 @@
       ],
       "external_ids": {
         "anilist": 22884
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "tekka-uchiha",
@@ -10397,7 +10636,8 @@
       ],
       "external_ids": {
         "anilist": 22889
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "inabi-uchiha",
@@ -10420,7 +10660,8 @@
       ],
       "external_ids": {
         "anilist": 22891
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "yashiro-uchiha",
@@ -10442,7 +10683,8 @@
       ],
       "external_ids": {
         "anilist": 22908
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "rasa",
@@ -10468,7 +10710,8 @@
       ],
       "external_ids": {
         "anilist": 22920
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "misumi-tsurugi",
@@ -10491,7 +10734,8 @@
       ],
       "external_ids": {
         "anilist": 22921
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "genyuumaru",
@@ -10513,7 +10757,8 @@
       ],
       "external_ids": {
         "anilist": 22922
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "ibiki-morino",
@@ -10535,7 +10780,8 @@
       ],
       "external_ids": {
         "anilist": 22923
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "zori",
@@ -10557,7 +10803,8 @@
       ],
       "external_ids": {
         "anilist": 22931
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kaiza",
@@ -10579,7 +10826,8 @@
       ],
       "external_ids": {
         "anilist": 22996
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "ami",
@@ -10601,7 +10849,8 @@
       ],
       "external_ids": {
         "anilist": 23006
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "udon",
@@ -10623,7 +10872,8 @@
       ],
       "external_ids": {
         "anilist": 23052
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kagari",
@@ -10645,7 +10895,8 @@
       ],
       "external_ids": {
         "anilist": 23056
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "baiu",
@@ -10668,7 +10919,8 @@
       ],
       "external_ids": {
         "anilist": 23081
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "midare",
@@ -10691,7 +10943,8 @@
       ],
       "external_ids": {
         "anilist": 23083
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "tonbo-tobitake",
@@ -10713,7 +10966,8 @@
       ],
       "external_ids": {
         "anilist": 23140
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "teyaki-uchiha",
@@ -10735,7 +10989,8 @@
       ],
       "external_ids": {
         "anilist": 23143
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "uruchi-uchiha",
@@ -10758,7 +11013,8 @@
       ],
       "external_ids": {
         "anilist": 23144
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "tsuba",
@@ -10780,7 +11036,8 @@
       ],
       "external_ids": {
         "anilist": 23145
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "shiore",
@@ -10802,7 +11059,8 @@
       ],
       "external_ids": {
         "anilist": 23153
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "suzume",
@@ -10824,7 +11082,8 @@
       ],
       "external_ids": {
         "anilist": 23154
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "shimon-hijiri",
@@ -10846,7 +11105,8 @@
       ],
       "external_ids": {
         "anilist": 23155
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "shibire",
@@ -10868,7 +11128,8 @@
       ],
       "external_ids": {
         "anilist": 23156
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "sagi",
@@ -10890,7 +11151,8 @@
       ],
       "external_ids": {
         "anilist": 23215
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "yagura",
@@ -10916,7 +11178,8 @@
       ],
       "external_ids": {
         "anilist": 23222
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "guruko",
@@ -10938,7 +11201,8 @@
       ],
       "external_ids": {
         "anilist": 23569
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "iwashi-tatami",
@@ -10961,7 +11225,8 @@
       ],
       "external_ids": {
         "anilist": 23759
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "tobio",
@@ -10983,7 +11248,8 @@
       ],
       "external_ids": {
         "anilist": 24324
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kotohime-fuuma",
@@ -11006,7 +11272,8 @@
       ],
       "external_ids": {
         "anilist": 27688
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "idate-morino",
@@ -11028,7 +11295,8 @@
       ],
       "external_ids": {
         "anilist": 31197
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "bisuke",
@@ -11051,7 +11319,8 @@
       ],
       "external_ids": {
         "anilist": 34075
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "manda",
@@ -11073,7 +11342,8 @@
       ],
       "external_ids": {
         "anilist": 37929
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "hakkaku",
@@ -11096,7 +11366,8 @@
       ],
       "external_ids": {
         "anilist": 40727
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "ukon",
@@ -11118,7 +11389,8 @@
       ],
       "external_ids": {
         "anilist": 41366
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kunihisa",
@@ -11141,7 +11413,8 @@
       ],
       "external_ids": {
         "anilist": 43923
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "kunijiro",
@@ -11163,7 +11436,8 @@
       ],
       "external_ids": {
         "anilist": 43924
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "ran",
@@ -11185,7 +11459,8 @@
       ],
       "external_ids": {
         "anilist": 50957
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "gatou",
@@ -11208,7 +11483,8 @@
       ],
       "external_ids": {
         "anilist": 63793
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "mebuki-haruno",
@@ -11230,7 +11506,8 @@
       ],
       "external_ids": {
         "anilist": 67289
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "natsuhi",
@@ -11252,7 +11529,8 @@
       ],
       "external_ids": {
         "anilist": 77693
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "sumaru",
@@ -11272,7 +11550,8 @@
       ],
       "external_ids": {
         "anilist": 82609
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "gantetsu",
@@ -11294,7 +11573,8 @@
       ],
       "external_ids": {
         "anilist": 83755
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "tonton",
@@ -11316,7 +11596,8 @@
       ],
       "external_ids": {
         "anilist": 192707
-      }
+      },
+      "rarity": "uncommon"
     },
     {
       "id": "minato-namikaze",
@@ -11343,7 +11624,8 @@
       ],
       "external_ids": {
         "anilist": 2535
-      }
+      },
+      "rarity": "common"
     }
   ],
   "updated_at": "2025-12-23T15:27:47.083Z"

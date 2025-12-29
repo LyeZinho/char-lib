@@ -29,6 +29,12 @@
       "description": "Papel do personagem na obra",
       "enum": ["protagonist", "deuteragonist", "antagonist", "supporting", "minor", "other"]
     },
+    "rarity": {
+      "type": "string",
+      "description": "Raridade do personagem baseada em popularidade da obra e papel",
+      "enum": ["common", "uncommon", "rare", "epic", "legendary"],
+      "default": "common"
+    },
     "description": {
       "type": "string",
       "description": "Descrição do personagem",
