@@ -67,6 +67,51 @@ export default function CharacterPage() {
     'background': 'Secundário'
   };
 
+  const rarityConfig: Record<string, { color: string; border: string; glow: string; bg: string; label: string; icon: string }> = {
+    'legendary': { 
+      color: 'from-yellow-400 to-amber-500', 
+      border: 'border-yellow-400', 
+      bg: 'bg-yellow-400/10',
+      glow: 'shadow-yellow-400/50 shadow-lg',
+      label: 'Lendário',
+      icon: '⭐'
+    },
+    'epic': { 
+      color: 'from-purple-400 to-violet-500', 
+      border: 'border-purple-400', 
+      bg: 'bg-purple-400/10',
+      glow: 'shadow-purple-400/40 shadow-md',
+      label: 'Épico',
+      icon: '💎'
+    },
+    'rare': { 
+      color: 'from-blue-400 to-cyan-500', 
+      border: 'border-blue-400', 
+      bg: 'bg-blue-400/10',
+      glow: 'shadow-blue-400/30 shadow-sm',
+      label: 'Raro',
+      icon: '💠'
+    },
+    'uncommon': { 
+      color: 'from-green-400 to-emerald-500', 
+      border: 'border-green-400', 
+      bg: 'bg-green-400/10',
+      glow: '',
+      label: 'Incomum',
+      icon: '🔹'
+    },
+    'common': { 
+      color: 'from-gray-400 to-slate-500', 
+      border: 'border-gray-500', 
+      bg: 'bg-gray-400/10',
+      glow: '',
+      label: 'Comum',
+      icon: '○'
+    }
+  };
+
+  const rarity = rarityConfig[character.rarity || 'common'];
+
   return (
     <div className="container mx-auto px-4 py-8">
       {/* Breadcrumb */}
@@ -163,6 +208,45 @@ export default function CharacterPage() {
 
         {/* Informações */}
         <div className="flex-1">
+          {/* Badges de Raridade e Ranking */}
+          <div className="flex flex-wrap items-center gap-3 mb-4">
+            {/* Badge de Raridade */}
+            <div className={`inline-flex items-center gap-2 px-4 py-2 rounded-full ${rarity.bg} ${rarity.border} border ${rarity.glow}`}>
+              <span className="text-lg">{rarity.icon}</span>
+              <span className={`font-bold bg-gradient-to-r ${rarity.color} bg-clip-text text-transparent`}>
+                {rarity.label}
+              </span>
+            </div>
+
+            {/* Badge de Ranking */}
+            {character.rank && (
+              <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-accent-primary/10 to-accent-secondary/10 border border-accent-primary/30">
+                <span className="text-lg">🏆</span>
+                <div className="flex flex-col">
+                  <span className="text-xs text-gray-400">Ranking</span>
+                  <span className="font-bold text-accent-primary">
+                    #{character.rank.toLocaleString('pt-BR')}
+                  </span>
+                </div>
+              </div>
+            )}
+
+            {/* Badge de Pull Chance */}
+            {character.pullChance !== undefined && (
+              <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-accent-warning/10 to-yellow-500/10 border border-accent-warning/30">
+                <span className="text-lg">🎲</span>
+                <div className="flex flex-col">
+                  <span className="text-xs text-gray-400">Chance Pull</span>
+                  <span className="font-bold text-accent-warning">
+                    {character.pullChance < 0.01 
+                      ? `${(character.pullChance * 1000).toFixed(2)}‰` 
+                      : `${character.pullChance.toFixed(4)}%`}
+                  </span>
+                </div>
+              </div>
+            )}
+          </div>
+
           <h1 className="text-4xl font-bold mb-4">{character.name}</h1>
 
           {/* Nomes Alternativos */}
@@ -189,7 +273,14 @@ export default function CharacterPage() {
           )}
 
           {/* Metadados em Grid */}
-          <div className="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+            {/* Raridade */}
+            <div className={`p-4 rounded-lg ${rarity.bg} ${rarity.border} border`}>
+              <span className="text-gray-500 text-sm">Raridade</span>
+              <p className={`font-bold bg-gradient-to-r ${rarity.color} bg-clip-text text-transparent flex items-center gap-1`}>
+                {rarity.icon} {rarity.label}
+              </p>
+            </div>
             {character.role && (
               <div className="p-4 bg-dark-card rounded-lg">
                 <span className="text-gray-500 text-sm">Papel</span>

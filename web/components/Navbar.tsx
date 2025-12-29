@@ -25,6 +25,13 @@ export default function Navbar() {
               <div className="absolute inset-0 bg-accent-primary/10 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
             </Link>
             <Link 
+              href="/ranking" 
+              className="text-gray-300 hover:text-accent-primary transition-all duration-300 hover:scale-105 relative group"
+            >
+              <span className="relative z-10">🏆 Ranking</span>
+              <div className="absolute inset-0 bg-accent-primary/10 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+            </Link>
+            <Link 
               href="/search" 
               className="text-gray-300 hover:text-accent-primary transition-all duration-300 hover:scale-105 relative group"
             >

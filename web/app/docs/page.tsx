@@ -276,12 +276,13 @@ export default function DocsPage() {
         {/* Navegação rápida */}
         <div className="mb-8 bg-dark-card border border-dark-border rounded-lg p-4">
           <h3 className="text-lg font-semibold mb-3">⚡ Navegação Rápida</h3>
-          <div className="grid md:grid-cols-3 gap-2 text-sm">
+          <div className="grid md:grid-cols-4 gap-2 text-sm">
             <a href="#obras" className="text-accent-primary hover:underline">📚 Obras</a>
             <a href="#personagens-obra" className="text-accent-primary hover:underline">👥 Personagens por Obra</a>
             <a href="#busca-simples" className="text-accent-primary hover:underline">🔍 Busca Simples</a>
             <a href="#busca-fuzzy" className="text-accent-success hover:underline">⚡ Busca Fuzzy</a>
             <a href="#random" className="text-accent-warning hover:underline">🎲 Aleatórios</a>
+            <a href="#ranking" className="text-yellow-400 hover:underline">🏆 Ranking</a>
             <a href="#stats" className="text-accent-secondary hover:underline">📊 Estatísticas</a>
           </div>
         </div>
@@ -806,6 +807,168 @@ fetch('/api/characters/random?workType=anime&work=naruto&n=3')
             </div>
             {renderResponse('random-1')}
             {renderResponse('random-2')}
+          </div>
+
+          </div>
+
+          {/* SEÇÃO: RANKING */}
+          <div id="ranking" className="scroll-mt-8">
+            <h3 className="text-xl font-bold mb-4 text-yellow-400">🏆 Ranking de Personagens</h3>
+
+          {/* GET /api/ranking */}
+          <div className="bg-dark-card border border-yellow-400/30 rounded-lg p-6 hover:border-yellow-400/50 transition-colors">
+            <div className="flex items-center justify-between mb-3">
+              <div className="flex items-center gap-3">
+                <span className="px-3 py-1 bg-accent-success rounded text-sm font-mono font-bold">GET</span>
+                <code className="text-yellow-400 font-semibold">/api/ranking</code>
+                <span className="px-2 py-1 bg-yellow-400/20 text-yellow-400 text-xs rounded font-semibold">🏆 RANKING</span>
+              </div>
+              <button
+                onClick={() => testEndpoint('ranking', '/api/ranking?page=1&limit=10')}
+                disabled={responses['ranking']?.loading}
+                className="px-4 py-2 bg-yellow-500 hover:bg-yellow-400 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg text-sm font-medium text-black transition-colors"
+              >
+                {responses['ranking']?.loading ? 'Testando...' : '🧪 Testar'}
+              </button>
+            </div>
+            <p className="text-gray-300 mb-4">
+              <strong>Descrição:</strong> Retorna o ranking global de personagens ordenado por score. 
+              O score é calculado com base na popularidade da obra (40%), score médio (30%) e papel do personagem (30%).
+            </p>
+
+            <div className="mb-4 bg-dark-bg rounded-lg p-4">
+              <p className="text-xs text-gray-400 mb-3 font-semibold">📌 PARÂMETROS DE QUERY:</p>
+              <div className="grid gap-3 text-sm">
+                <div className="flex items-start gap-3">
+                  <code className="px-2 py-1 bg-dark-surface rounded text-yellow-400 text-xs">page</code>
+                  <div>
+                    <span className="text-gray-400">Número da página (padrão: 1)</span>
+                    <div className="text-xs text-gray-500 mt-1">Ex: <code>?page=2</code></div>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <code className="px-2 py-1 bg-dark-surface rounded text-yellow-400 text-xs">limit</code>
+                  <div>
+                    <span className="text-gray-400">Personagens por página (padrão: 50)</span>
+                    <div className="text-xs text-gray-500 mt-1">Ex: <code>?limit=100</code></div>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <code className="px-2 py-1 bg-dark-surface rounded text-yellow-400 text-xs">rarity</code>
+                  <div>
+                    <span className="text-gray-400">Filtrar por raridade</span>
+                    <div className="text-xs text-gray-500 mt-1">Valores: <code>legendary</code>, <code>epic</code>, <code>rare</code>, <code>uncommon</code>, <code>common</code></div>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <code className="px-2 py-1 bg-dark-surface rounded text-yellow-400 text-xs">type</code>
+                  <div>
+                    <span className="text-gray-400">Filtrar por tipo de obra</span>
+                    <div className="text-xs text-gray-500 mt-1">Valores: <code>anime</code>, <code>manga</code>, <code>game</code></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="bg-dark-bg rounded p-4 mb-4">
+              <p className="text-xs text-gray-400 mb-2 font-semibold">💎 SISTEMA DE RARIDADES:</p>
+              <div className="grid grid-cols-5 gap-2 text-center text-xs mb-4">
+                <div className="p-2 rounded bg-yellow-400/10 border border-yellow-400">
+                  <span className="text-lg">⭐</span>
+                  <div className="text-yellow-400 font-bold">Lendário</div>
+                  <div className="text-gray-500">Top 5%</div>
+                </div>
+                <div className="p-2 rounded bg-purple-400/10 border border-purple-400">
+                  <span className="text-lg">💎</span>
+                  <div className="text-purple-400 font-bold">Épico</div>
+                  <div className="text-gray-500">Top 20%</div>
+                </div>
+                <div className="p-2 rounded bg-blue-400/10 border border-blue-400">
+                  <span className="text-lg">💠</span>
+                  <div className="text-blue-400 font-bold">Raro</div>
+                  <div className="text-gray-500">Top 45%</div>
+                </div>
+                <div className="p-2 rounded bg-green-400/10 border border-green-400">
+                  <span className="text-lg">🔹</span>
+                  <div className="text-green-400 font-bold">Incomum</div>
+                  <div className="text-gray-500">Top 70%</div>
+                </div>
+                <div className="p-2 rounded bg-gray-400/10 border border-gray-500">
+                  <span className="text-lg">○</span>
+                  <div className="text-gray-400 font-bold">Comum</div>
+                  <div className="text-gray-500">Resto</div>
+                </div>
+              </div>
+            </div>
+
+            <div className="bg-dark-bg rounded p-4 mb-4">
+              <p className="text-xs text-gray-400 mb-2 font-semibold">RESPONSE STRUCTURE:</p>
+              <pre className="text-sm overflow-x-auto">
+                <code className="text-gray-300">{`{
+  "generated_at": "2025-12-28T...",
+  "total_characters": 18610,
+  "distribution": {
+    "legendary": 930,
+    "epic": 3722,
+    "rare": 4651,
+    "uncommon": 4651,
+    "common": 4656
+  },
+  "page": 1,
+  "limit": 50,
+  "total_pages": 373,
+  "characters": [
+    {
+      "rank": 1,
+      "id": "eren-yeager",
+      "name": "Eren Yeager",
+      "workId": "attack-on-titan",
+      "workTitle": "Attack on Titan",
+      "workType": "anime",
+      "role": "protagonist",
+      "score": 97.21,
+      "rarity": "legendary",
+      "image": "https://..."
+    }
+  ]
+}`}</code>
+              </pre>
+            </div>
+
+            <div className="grid md:grid-cols-2 gap-4 mb-4">
+              <div className="bg-dark-bg rounded p-4">
+                <p className="text-xs text-gray-400 mb-2 font-semibold">📝 EXEMPLOS DE USO:</p>
+                <div className="space-y-2 text-sm">
+                  <p><code className="text-yellow-400">/api/ranking</code></p>
+                  <p className="text-gray-500 text-xs">Top 50 personagens</p>
+                  
+                  <p className="mt-2"><code className="text-yellow-400">/api/ranking?rarity=legendary&limit=100</code></p>
+                  <p className="text-gray-500 text-xs">Todos lendários (100 por página)</p>
+                  
+                  <p className="mt-2"><code className="text-yellow-400">/api/ranking?type=anime&page=2</code></p>
+                  <p className="text-gray-500 text-xs">Ranking só de anime, página 2</p>
+                </div>
+              </div>
+              <div className="bg-dark-bg rounded p-4">
+                <p className="text-xs text-gray-400 mb-2 font-semibold">📐 FÓRMULA DO SCORE:</p>
+                <div className="space-y-2 text-sm text-gray-300">
+                  <p><strong>Score =</strong></p>
+                  <p className="pl-4">Popularidade × 0.4 +</p>
+                  <p className="pl-4">Score Médio × 0.3 +</p>
+                  <p className="pl-4">Multiplicador de Role × 0.3</p>
+                  <div className="mt-3 text-xs text-gray-500">
+                    <p>Role Multipliers:</p>
+                    <p>Protagonist: 1.0 | Antagonist: 0.9</p>
+                    <p>Deuteragonist: 0.85 | Supporting: 0.5</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="text-xs text-gray-400 flex gap-4">
+              <p><strong>Status codes:</strong> 200 OK, 404 Ranking não encontrado, 500 Erro</p>
+            </div>
+            {renderResponse('ranking')}
           </div>
 
           </div>

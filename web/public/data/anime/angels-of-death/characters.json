@@ -25,7 +25,8 @@
       ],
       "external_ids": {
         "anilist": 123327
-      }
+      },
+      "rarity": "epic"
     },
     {
       "id": "isaac-foster",
@@ -50,7 +51,8 @@
       ],
       "external_ids": {
         "anilist": 123328
-      }
+      },
+      "rarity": "epic"
     },
     {
       "id": "edward-mason",
@@ -75,7 +77,8 @@
       ],
       "external_ids": {
         "anilist": 123329
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "daniel-dickens",
@@ -100,7 +103,8 @@
       ],
       "external_ids": {
         "anilist": 123330
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "catherine-ward",
@@ -127,7 +131,8 @@
       ],
       "external_ids": {
         "anilist": 123331
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "abraham-gray",
@@ -151,7 +156,8 @@
       ],
       "external_ids": {
         "anilist": 127275
-      }
+      },
+      "rarity": "rare"
     },
     {
       "id": "wakai-onna",
@@ -174,7 +180,8 @@
       ],
       "external_ids": {
         "anilist": 331872
-      }
+      },
+      "rarity": "common"
     }
   ],
   "updated_at": "2025-12-25T03:14:45.131Z"
