@@ -6,12 +6,13 @@ import { NextResponse } from 'next/server'
 export const dynamic = 'force-dynamic'
 
 // Multiplicadores de raridade (quanto menor, mais difícil de pegar)
+// Ajustados para tornar personagens lendários muito mais raros em pulls.
 const RARITY_WEIGHTS: Record<string, number> = {
-  legendary: 0.3,   // 30% da chance base
-  epic: 0.6,        // 60% da chance base
-  rare: 1.0,        // 100% da chance base
-  uncommon: 1.5,    // 150% da chance base
-  common: 2.0       // 200% da chance base
+  legendary: 0.05,  // muito raro
+  epic: 0.2,        // raro
+  rare: 0.6,
+  uncommon: 1.2,
+  common: 2.0
 };
 
 interface RankedCharacter {

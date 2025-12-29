@@ -5,11 +5,12 @@ import path from 'path';
 const DATA_DIR = path.join(process.cwd(), 'public', 'data');
 
 // Rarity multipliers for pull chance calculation
+// Ajustados para reduzir as chances de lentários/épicos
 const RARITY_WEIGHTS = {
-  legendary: 0.3,
-  epic: 0.6,
-  rare: 1.0,
-  uncommon: 1.5,
+  legendary: 0.05,
+  epic: 0.2,
+  rare: 0.6,
+  uncommon: 1.2,
   common: 2.0,
 };
 
